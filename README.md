@@ -48,7 +48,7 @@ data/
 ```
 
 ## Profile Creation
-To generate user profiles in the directory structure shown below, run `python generate_profile.py`
+To generate user profiles in the directory structure shown below, run `python src/generate_profile.py`
 
 This step produces profiles in the following directories. For your convenience, we already ran the profile creation step and provided the profiles in the `profiles` directory.
 ```
@@ -79,10 +79,11 @@ profiles/
 ```
 
 ## Preliminary Experiments on Profile Types
-We provide a preliminary experiment comparing aggregate and individual hallucinations in the iterative scheme. To run this analysis on the existing profiles, use `python iterative_type1_hallucination_analysis.py`
+We provide a preliminary experiment comparing aggregate and individual hallucinations in the iterative scheme. To run this analysis on the existing profiles, use `python src/iterative_type1_hallucination_analysis.py`
 This script evaluates how the iterative profile scheme performs at each interaction step (comparing each step’s profile against user data). The input and output file structures are assumed to be the same as the profile directories illustrated above.
+
 ## Type 1 Hallucination Measurement
-To compute Type 1 hallucination metrics (ROUGE, BLEU, METEOR, BERTScore, etc.) on each generated profile, run `python type1_hallucination.py`
+To compute Type 1 hallucination metrics (ROUGE, BLEU, METEOR, BERTScore, etc.) on each generated profile, run `python src/type1_hallucination.py`
 
 This step produces measures in the following directories. For your convenience, we already ran the measurement creation step and provided the measurements in the `type_1_eval` directory.
 ```
