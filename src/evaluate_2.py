@@ -317,23 +317,23 @@ if __name__ == "__main__":
 
     evaluator = Evaluate(dataset, profile_type, subset)
 
-    # print ("Getting llm-as-a-judge hallucination evaluations...")
-    # evaluator.get_gpt4_eval()
-    # print("Getting non-existing product count...")
-    # evaluator.get_nepc()
-    # print("Getting binary prediction accuracy...")
-    # evaluator.get_accuracy()
+    print ("Getting llm-as-a-judge hallucination evaluations...")
+    evaluator.get_gpt4_eval()
+    print("Getting non-existing product count...")
+    evaluator.get_nepc()
+    print("Getting binary prediction accuracy...")
+    evaluator.get_accuracy()
 
-    # print(f"Getting hit rate...")
-    # evaluator.get_hit_rate()
-    # print(f"Getting nDCG...")
-    # evaluator.get_ndcg()
+    print(f"Getting hit rate...")
+    evaluator.get_hit_rate()
+    print(f"Getting nDCG...")
+    evaluator.get_ndcg()
     
-    # print("Getting BERTScore...")
-    # evaluator.get_bert_score()
+    print("Getting BERTScore...")
+    evaluator.get_bert_score()
 
-    # print("Combining all metrics...")
-    # evaluator.combine_csv()
+    print("Combining all metrics...")
+    evaluator.combine_csv()
 
     # once metrics are combined for all subsets, combine them into one file
     

@@ -4,14 +4,39 @@ The steps to reproduce the experiments are as follows:
 
 ## Prerequisites
 
-1. Install required libraries with the following commands:
+1. Create a conda environment with the following command:
 ```
-pip install matplotlib
-pip install numpy
-pip install openai
-pip install transformers
+conda create -n recsys python=3.9.0
+conda activate recsys
 ```
-2. Put your OpenAI API key into an `openai_api` file in the root directory.
+
+2. Install required libraries with the following commands:
+```
+pip install -r requirements.txt
+```
+
+3. Put your OpenAI API key into an `openai_api` file in the root directory of the repository.
+
+## Quickstart
+
+In order to reproduce our main results, i.e., correlation measurements
+between hallucination and recommendation quality as well as 
+between different types of hallucination, run the following command:
+
+```bash
+cd src
+python compute_correlation.py
+```
+
+Results including correlation coefficients, p-values, and 
+confidence intervals will be available in the `correlation` directory
+after this command.
+
+The following sections will provide more details on each step of 
+our experiments, however, keep in mind that some of the steps which
+involve the computation of BERT Score might fail in cases of insufficient 
+GPU memory, while those involving OpenAI API calls might fail if the user
+has inadequate API credits or rate limit.
 
 ## Data Preprocessing
 
