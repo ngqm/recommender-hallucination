@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: N3 No Name Necessary Pore-Minimizing Mattifying Oil and Shine Control Anti-aging Makeup Face Primer Spray (200ml)\nReview Date: 2019/07/22\nStore: No Name Necessary\nAverage Rating: 3.9\nProduct Details: {'Brand': 'No Name Necessary', 'Skin Type': 'Combination', 'Package Information': 'Bottle', 'Finish Type': 'Matte', 'Specialty': 'Mattifying', 'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 8.78 Ounces'}\nReview Text: Doesn\u2019t feel greasy\nReview Title: Works ok\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "N3 No Name Necessary Pore-Minimizing Mattifying Oil and Shine Control Anti-aging Makeup Face Primer Spray (200ml)\nNo Name Necessary\n{'Brand': 'No Name Necessary', 'Skin Type': 'Combination', 'Package Information': 'Bottle', 'Finish Type': 'Matte', 'Specialty': 'Mattifying', 'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 8.78 Ounces'}\nDoesn\u2019t feel greasy\nWorks ok",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user favors skincare and makeup products that offer matting and shine control, particularly for combination skin types.\n- **Performance Focus:** The user expresses a preference for products that do not feel greasy and likely values a natural finish.\n- **Quality Expectation:** The rating of 4.0 indicates a moderate level of satisfaction, suggesting the user has reasonable expectations for effectiveness but may have some reservations about the product's performance.\n- **Brand Openness:** The user is willing to try products from lesser-known brands, as indicated by their purchase from a brand called \"No Name Necessary.\"\n- **Review Engagement:** The user engages in reviewing products, showing involvement in the purchase cycle and a desire to share experiences with others.\n- **Overall Trends:** The user leans towards practical skincare solutions that balance effectiveness with comfort, indicating a preference for products that improve skin appearance without heavy or greasy residues.",
+  "metrics": {
+    "rouge1_f": 0.1553398058252427,
+    "rouge2_f": 0.05882352941176471,
+    "rougeL_f": 0.08737864077669903,
+    "meteor": 0.1600536273800916,
+    "bleu1": 0.0891089108910891,
+    "bleu2": 0.03646894219254408,
+    "bleu3": 0.01880494694324336,
+    "bleu4": 0.0076031019717031165,
+    "bertscore_precision": 0.45200902223587036,
+    "bertscore_recall": 0.371283620595932,
+    "bertscore_f1": 0.407688707113266
+  }
+}

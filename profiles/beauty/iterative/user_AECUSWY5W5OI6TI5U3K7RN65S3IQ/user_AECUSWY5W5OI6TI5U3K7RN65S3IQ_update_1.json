@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Leoars Small Kids Temporary Tattoos, Waterproof Paper 3D Body Tattoos Sticker, Dreamcatcher Diamond Animal Fake Tattoos for Men Women Children,15-Sheet\nReview Date: 2018/02/08\nStore: LEOARS\nAverage Rating: 4.1\nProduct Details: {'Brand': 'LEOARS', 'Size': 'Small', 'Water Resistance Level': 'Waterproof', 'Number of Pieces': '15', 'Age Range (Description)': 'Kid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.25 x 4.69 x 0.31 inches; 0.63 Ounces', 'Item model number': 'XQX-15-SHEETS', 'UPC': '704256972776'}\nReview Text: Fun tatoos\nReview Title: Very nice colors\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Leoars Small Kids Temporary Tattoos, Waterproof Paper 3D Body Tattoos Sticker, Dreamcatcher Diamond Animal Fake Tattoos for Men Women Children,15-Sheet\nLEOARS\n{'Brand': 'LEOARS', 'Size': 'Small', 'Water Resistance Level': 'Waterproof', 'Number of Pieces': '15', 'Age Range (Description)': 'Kid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.25 x 4.69 x 0.31 inches; 0.63 Ounces', 'Item model number': 'XQX-15-SHEETS', 'UPC': '704256972776'}\nFun tatoos\nVery nice colors",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Demonstrates a preference for temporary tattoos, indicating interest in fun, playful items suitable for children.\n- **Quality Focus:** Values waterproof features and vibrant colors, as reflected in the review praising the product's aesthetics.\n- **User Type:** Engages with products marketed towards children, suggesting a user who may be a parent or caregiver.\n- **Satisfaction Level:** Exhibits a high level of satisfaction with purchases, as indicated by the positive review and high rating.\n- **Brand Loyalty:** Shows a willingness to engage with specific brands (like LEOARS), suggesting potential brand loyalty.\n- **Descriptive Language:** Uses positive, simple language to convey enjoyment, indicating a preference for straightforward and effective communication.\n\nOverall, this user appears to favor colorful, high-quality items that provide enjoyment for children while valuing functional characteristics like durability.",
+  "metrics": {
+    "rouge1_f": 0.13999999999999999,
+    "rouge2_f": 0.010101010101010102,
+    "rougeL_f": 0.08,
+    "meteor": 0.14010507880910683,
+    "bleu1": 0.12765957446808512,
+    "bleu2": 0.008262393849361737,
+    "bleu3": 0.0033232750004737756,
+    "bleu4": 0.002110482611586487,
+    "bertscore_precision": 0.4105542302131653,
+    "bertscore_recall": 0.3753945827484131,
+    "bertscore_f1": 0.3921879827976227
+  }
+}

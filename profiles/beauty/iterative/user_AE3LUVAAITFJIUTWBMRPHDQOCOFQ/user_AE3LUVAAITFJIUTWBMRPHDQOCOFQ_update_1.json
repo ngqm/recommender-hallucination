@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: lorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nReview Date: 2020/08/07\nStore: lorelo\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nReview Text: Great quality product. Looks just like the picture.\nReview Title: Nice quality product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "lorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nlorelo\n{'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nGreat quality product. Looks just like the picture.\nNice quality product",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Nail art tools, specifically those that facilitate creative expression in nail design.\n- **Quality Preference:** Emphasizes high-quality and dependable products, as indicated by the positive review despite the average rating.\n- **Visual Appeal:** Values aesthetic consistency, showing a preference for products that match their appearance to what is advertised.\n- **DIY Enthusiasm:** Enjoys engaging in do-it-yourself projects, particularly in the beauty and self-care domain.\n- **Rating Behavior:** Tends to rate products highly when expectations are met or exceeded, suggesting a positive outlook towards purchased items.\n\nOverall, the user is likely a creative individual focused on nail art, seeking quality tools that align with their artistic interests and contribute to a satisfying DIY experience.",
+  "metrics": {
+    "rouge1_f": 0.16374269005847952,
+    "rouge2_f": 0.02366863905325444,
+    "rougeL_f": 0.09356725146198829,
+    "meteor": 0.17966288594833021,
+    "bleu1": 0.06172839506172838,
+    "bleu2": 0.0061919801397261375,
+    "bleu3": 0.0028830115056270715,
+    "bleu4": 0.0019703142603886767,
+    "bertscore_precision": 0.4480595588684082,
+    "bertscore_recall": 0.3950932025909424,
+    "bertscore_f1": 0.419912725687027
+  }
+}

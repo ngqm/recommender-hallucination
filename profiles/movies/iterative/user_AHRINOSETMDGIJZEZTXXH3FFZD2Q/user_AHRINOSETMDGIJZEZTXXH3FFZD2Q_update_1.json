@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/09/28\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Stuart Hackshaw'], 'Producers': ['Rajiv Whabi', 'Paul Mills'], 'Starring': ['Alex Childs', 'Richard Brimblecomb', 'Judith Eveson'], 'Studio': ['Oakwood Films']}\nReview Text: They sort of followed the general plot of the short story. However, they failed to describe how the main character was being repressed by her husband. That was a HUGE component in the text. Wasn't the room supposed to be converted from an old nursery? I didn't get that feeling. And, they certainly didn't build the connection between her increased writing and the emergence of her apparent illness. Just because the text is short does not mean the movie should have less. It certainly felt that way. Who ever converted the text for screen definitely should have stood their ground on keeping true to the meaning of the text. Maybe a student indie film will pick up the text and do it some justice.\nReview Title: Kind of a let down if you've read the story already.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Stuart Hackshaw'], 'Producers': ['Rajiv Whabi', 'Paul Mills'], 'Starring': ['Alex Childs', 'Richard Brimblecomb', 'Judith Eveson'], 'Studio': ['Oakwood Films']}\nThey sort of followed the general plot of the short story. However, they failed to describe how the main character was being repressed by her husband. That was a HUGE component in the text. Wasn't the room supposed to be converted from an old nursery? I didn't get that feeling. And, they certainly didn't build the connection between her increased writing and the emergence of her apparent illness. Just because the text is short does not mean the movie should have less. It certainly felt that way. Who ever converted the text for screen definitely should have stood their ground on keeping true to the meaning of the text. Maybe a student indie film will pick up the text and do it some justice.\nKind of a let down if you've read the story already.",
+  "profile": "**User Profile Summary:**\n\n- **Content Engagement:** Shows a strong interest in adaptations of literary works, particularly the fidelity of film to source material.\n- **Expectation of Depth:** Prefers films that deeply explore character emotions and motivations, indicating a desire for nuanced storytelling.\n- **Critical Analysis:** Prone to critical analysis of films; values thorough representation of key themes and character dynamics, especially relating to psychological or societal issues.\n- **Preference for Authenticity:** Has a preference for adaptations that maintain the integrity of the original text, suggesting a sensitivity to creative liberties that alter crucial elements of the story.\n- **Cinema Appreciation:** Demonstrates an appreciation for indie films that may offer more authentic or faithful representations of literary texts, hinting at support for independent storytelling.\n- **Rating Tendencies:** Tends to rate adaptations lower when expectations based on literary works are not met, reflecting a critical stance toward quality and accuracy in storytelling.\n\nOverall, this user values depth and authenticity in film adaptations, revealing a thoughtful approach to media consumption.",
+  "metrics": {
+    "rouge1_f": 0.205607476635514,
+    "rouge2_f": 0.025078369905956115,
+    "rougeL_f": 0.12461059190031151,
+    "meteor": 0.1560773771874341,
+    "bleu1": 0.22477064220183487,
+    "bleu2": 0.06436798617537644,
+    "bleu3": 0.012424970441875854,
+    "bleu4": 0.005465273599115413,
+    "bertscore_precision": 0.42758387327194214,
+    "bertscore_recall": 0.43445712327957153,
+    "bertscore_f1": 0.43099310994148254
+  }
+}

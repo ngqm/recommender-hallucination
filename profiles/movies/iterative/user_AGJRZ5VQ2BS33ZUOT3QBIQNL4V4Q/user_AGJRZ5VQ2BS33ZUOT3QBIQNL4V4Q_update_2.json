@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/11/11\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Stromberg'], 'Producers': ['Joe Roth'], 'Starring': ['Angelina Jolie', 'Sharlto Copley', 'Elle Fanning'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Great movie!  Special effects are wonderful!  A little slow at times but my 8 year old son loved it also.\nReview Title: Great movie! Special effects are wonderful\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nLove it!!! Incredible show!  I can't stop watching every second of it.  The characters are wonderful and charismatic.  The storyline is engaging.\nLove it\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Stromberg'], 'Producers': ['Joe Roth'], 'Starring': ['Angelina Jolie', 'Sharlto Copley', 'Elle Fanning'], 'Studio': ['Walt Disney Pictures']}\nGreat movie!  Special effects are wonderful!  A little slow at times but my 8 year old son loved it also.\nGreat movie! Special effects are wonderful",
+  "profile": "**User Profile Summary:**\n\n- **Overall Rating Preference:** Maintains a strong focus on high-quality content, consistently rating around 4.8 to 5.0, with occasional variations such as a recent 4.0 rating.\n\n- **Content Genres:** Continues to favor engaging dramas, particularly those with historical or period themes and strong character development, reflecting a preference for immersive storytelling.\n\n- **Character Appreciation:** Strongly values charismatic and well-developed characters, which enhances overall engagement with the story.\n\n- **Storytelling Style:** Enjoys intricate and captivating narratives, indicating a desire for plots that hold attention and evoke emotional connection.\n\n- **Content Advisory Tolerance:** Open to mature themes, including violence and foul language, indicating comfort with complex and adult content.\n\n- **Language and Accessibility Needs:** Prefers English-language content, appreciates audio descriptions, and values subtitles for enhanced accessibility.\n\n- **Production Quality:** Shows a clear inclination towards well-produced shows, demonstrating a preference for content from recognized studios known for high-quality productions.\n\n- **Family Engagement:** The recent interaction suggests an interest in content that appeals across age groups, as it resonated with both the user and their child.\n\nThis user remains an enthusiastic viewer, engaging deeply with content that resonates emotionally and narratively, while also considering family-friendly aspects in their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.14953271028037382,
+    "rouge2_f": 0.018808777429467082,
+    "rougeL_f": 0.09968847352024922,
+    "meteor": 0.09862002256849599,
+    "bleu1": 0.13108614232209734,
+    "bleu2": 0.007020007452443864,
+    "bleu3": 0.0026493729069109176,
+    "bleu4": 0.0016291322327797399,
+    "bertscore_precision": 0.394366979598999,
+    "bertscore_recall": 0.40617185831069946,
+    "bertscore_f1": 0.4001823663711548
+  }
+}

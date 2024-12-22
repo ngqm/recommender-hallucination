@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Human Hair Wigs for Black Women-Glueless Full Lace Wigs with Baby Hair Brazilian Hair Water Wave 130% Density Natural Color 20inch\nReview Date: 2017/02/12\nAverage Rating: 3.0\nProduct Details: {'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Glueless', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 5.51 x 2.76 inches; 9.12 Ounces', 'UPC': '602731543407'}\nReview Text: This wig is a great value for the price. The hair is very soft and doesnt tangle. Minimum shedding, nothing major or beyond average. The density is on the low side so it gives a natural appearance. If you like big, diva hair you might now like the 130% density.\nReview Title: Great wig for the price! Good Value\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Human Hair Wigs for Black Women-Glueless Full Lace Wigs with Baby Hair Brazilian Hair Water Wave 130% Density Natural Color 20inch\n{'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Glueless', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 5.51 x 2.76 inches; 9.12 Ounces', 'UPC': '602731543407'}\nThis wig is a great value for the price. The hair is very soft and doesnt tangle. Minimum shedding, nothing major or beyond average. The density is on the low side so it gives a natural appearance. If you like big, diva hair you might now like the 130% density.\nGreat wig for the price! Good Value",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user shows a preference for human hair wigs, particularly for styling that provides a natural appearance. They appreciate products with soft, manageable hair that minimizes tangling and shedding.\n  \n- **Style and Features:** A tendency towards modern, glueless styles indicates a preference for convenience and ease of use. The user seems to favor wavy hair types, particularly those that offer a balance between style and practicality.\n\n- **Density & Look:** The reviews suggest the user prefers a natural look over volume, as indicated by their critique of lower density\u2014leaning towards subtle, everyday wear rather than dramatic, high-volume styles. \n\n- **Value-Oriented:** The emphasis on good value for the price reflects a practical approach to purchasing, valuing quality without excessive expenditure. \n\nOverall, this user demonstrates a clear focus on quality, natural appearance, and affordability in hair products, aligning with contemporary hair styling trends.",
+  "metrics": {
+    "rouge1_f": 0.31660231660231664,
+    "rouge2_f": 0.07003891050583656,
+    "rougeL_f": 0.1776061776061776,
+    "meteor": 0.23392856339582527,
+    "bleu1": 0.2094240837696335,
+    "bleu2": 0.08783862555209543,
+    "bleu3": 0.05465833734951348,
+    "bleu4": 0.03630449074745606,
+    "bertscore_precision": 0.4453960657119751,
+    "bertscore_recall": 0.45417100191116333,
+    "bertscore_f1": 0.4497407376766205
+  }
+}

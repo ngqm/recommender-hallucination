@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Alpha House\nReview Date: 2014/01/20\nCategories: Comedy, Drama\nProduct Description: [\"An Amazon Original series: They work in the Senate. They live in the house - Alpha House. Created by Garry Trudeau (Doonesbury, Tanner '88).\"]\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch'], 'Directors': ['Adam Bernstein', 'Michael Mayer', 'Andrew McCarthy', 'Bob Balaban', 'Jann Turner', 'Jake Schreier', 'Antoine Douaihy', 'Clark Johnson', 'Michael Pressman'], 'Producers': ['Jonathan Alter']}\nReview Text: I do not like politics in real life.  But this clever show makes me laugh because I think it might be closer to the truth than politicians will admit.\nReview Title: Funny pokes at politics\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Alpha House\nComedy, Drama\n[\"An Amazon Original series: They work in the Senate. They live in the house - Alpha House. Created by Garry Trudeau (Doonesbury, Tanner '88).\"]\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch'], 'Directors': ['Adam Bernstein', 'Michael Mayer', 'Andrew McCarthy', 'Bob Balaban', 'Jann Turner', 'Jake Schreier', 'Antoine Douaihy', 'Clark Johnson', 'Michael Pressman'], 'Producers': ['Jonathan Alter']}\nI do not like politics in real life.  But this clever show makes me laugh because I think it might be closer to the truth than politicians will admit.\nFunny pokes at politics",
+  "profile": "User Preferences Summary:\n\n- **Genres**: Strong preference for comedy and drama, particularly content that incorporates satire or clever humor related to political themes.\n- **Tone**: Enjoys shows that offer humor while providing a critical perspective on serious subjects, such as politics.\n- **Content Sensitivity**: Engages with shows that include mature themes (nudity, violence, language), indicating comfort with adult content when presented humorously.\n- **Viewing Purpose**: Seeks entertainment that both amuses and potentially resonates with real-world issues, preferring content that sparks reflection on political authenticity.\n- **Engagement Style**: Shows high enthusiasm for media that balances lightheartedness with insightful commentary, as evidenced by the strong positive rating.\n\nOverall, the user appreciates clever, politically-themed comedies that provide an entertaining lens on real-life topics while maintaining a humorous approach.",
+  "metrics": {
+    "rouge1_f": 0.16379310344827588,
+    "rouge2_f": 0.017391304347826087,
+    "rougeL_f": 0.09482758620689656,
+    "meteor": 0.09973753280839896,
+    "bleu1": 0.15901030004105338,
+    "bleu2": 0.009058177265654442,
+    "bleu3": 0.003492331511185825,
+    "bleu4": 0.002171744959094354,
+    "bertscore_precision": 0.4140309989452362,
+    "bertscore_recall": 0.42971324920654297,
+    "bertscore_f1": 0.42172637581825256
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/02/05\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Hamilton', 'Guy Jenkin'], 'Producers': ['David M. Thompson', 'Dan Winch'], 'Starring': ['Rosamund Pike', 'David Tennant', 'Billy Connolly'], 'Studio': ['Lionsgate']}\nReview Text: Didn\u2019t know I paid for it\nReview Title: Cost?\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Farrelly'], 'Producers': ['Peter Farrelly', 'Charles B. Wessler', 'Nick Vallelonga', 'Jim Burke', 'Brian Currie'], 'Starring': ['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini'], 'Studio': ['Universal Pictures']}\nCost ?\nCost?\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Hamilton', 'Guy Jenkin'], 'Producers': ['David M. Thompson', 'Dan Winch'], 'Starring': ['Rosamund Pike', 'David Tennant', 'Billy Connolly'], 'Studio': ['Lionsgate']}\nDidn\u2019t know I paid for it\nCost?",
+  "profile": "**Updated User Profile Summary:**\n\n- **Rating Trends**: Maintains a strong preference for high-quality content, reflected in an average rating of 4.8, though recent feedback indicates some concern about value with a lower rating of 3.0 for a specific purchase.\n\n- **Content Preferences**: Enjoys productions with notable themes such as violence, complexity, and mature subject matter, including alcohol use and sexual content. \n\n- **Language and Accessibility**: Values options for English audio and captioning, continuing to prioritize accessible formats in recent interactions.\n\n- **Collaboration**: Prefers works involving acclaimed directors and producers, highlighting a consistent interest in well-produced content from reputable sources. The recent interaction features notable directors and producers, aligning with this trend.\n\n- **Critique Focus**: Emphasizes value-based feedback, increasingly critical of cost in relation to quality, as demonstrated in a recent review questioning payment awareness.\n\n- **Viewer Engagement**: Expects thoughtful portrayals of characters and narratives, showing a consistent interest in content advisory details across all reviews.\n\nOverall, the user remains discerning, seeking a balance between quality and engaging storytelling while being increasingly mindful of cost implications. The recent rating suggests a growing awareness of value for money in their entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.12639405204460966,
+    "rouge2_f": 0.0299625468164794,
+    "rougeL_f": 0.104089219330855,
+    "meteor": 0.0708353688324377,
+    "bleu1": 0.097165991902834,
+    "bleu2": 0.006284772922883449,
+    "bleu3": 0.0025262192043531678,
+    "bleu4": 0.0016032668673644271,
+    "bertscore_precision": 0.3884177803993225,
+    "bertscore_recall": 0.3515208661556244,
+    "bertscore_f1": 0.36904940009117126
+  }
+}

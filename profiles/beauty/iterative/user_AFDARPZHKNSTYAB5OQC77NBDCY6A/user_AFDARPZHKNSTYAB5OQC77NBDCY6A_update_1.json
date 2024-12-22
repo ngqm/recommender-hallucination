@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Makeup Brush Cleaner Sponge for Quick Color Removal \u2013 Remove Shadow Color from Makeup Brushes\nReview Date: 2018/12/11\nStore: Zenda Naturals\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Zenda Naturals', 'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.9 x 2.7 x 1.1 inches; 0.63 Ounces', 'UPC': '850772008236'}\nReview Text: The brush cleaner is great for the first couple of days then you clean it and it only works for a day then it needs to be cleaned again\nReview Title: Need to wash frequently\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Makeup Brush Cleaner Sponge for Quick Color Removal \u2013 Remove Shadow Color from Makeup Brushes\nZenda Naturals\n{'Brand': 'Zenda Naturals', 'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.9 x 2.7 x 1.1 inches; 0.63 Ounces', 'UPC': '850772008236'}\nThe brush cleaner is great for the first couple of days then you clean it and it only works for a day then it needs to be cleaned again\nNeed to wash frequently",
+  "profile": "**User Summary:**\n\nThe user demonstrates a preference for beauty and makeup tools that enhance convenience and efficiency in their daily routine. They value products that allow for quick and effective maintenance of their cosmetics. However, the user seems to have experienced some disappointment with product performance, specifically regarding the longevity of effectiveness before needing maintenance. This suggests a desire for reliable and durable solutions in beauty care. With an average product rating of 2.0 from their interaction, it indicates that the user holds high standards for the functionality and durability of beauty tools. They likely appreciate practicality over aesthetics and may lean towards products that facilitate ease of use and upkeep. Overall, the user\u2019s preference leans towards functional beauty solutions, but they are critical and discerning when products do not meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.14678899082568808,
+    "rouge2_f": 0.018518518518518517,
+    "rougeL_f": 0.09174311926605504,
+    "meteor": 0.11065635404858662,
+    "bleu1": 0.1118421052631579,
+    "bleu2": 0.02721536686865984,
+    "bleu3": 0.007903977750045858,
+    "bleu4": 0.0042666568397594865,
+    "bertscore_precision": 0.393480509519577,
+    "bertscore_recall": 0.37666040658950806,
+    "bertscore_f1": 0.38488680124282837
+  }
+}

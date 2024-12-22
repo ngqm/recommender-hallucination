@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ANGELICA - Color: BUTTER PECAN-R\nReview Date: 2018/04/06\nStore: Noriko\nAverage Rating: 5.0\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Color', 'Style': 'Modern', 'Brand': 'Noriko', 'Age Range (Description)': 'Adult', 'Item Weight': '13.5 Ounces', 'UPC': '694483001427'}\nReview Text: Pretty darn close to perfect.!  yes.\nReview Title: So gorgeous\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Avon Outspoken Party! By Fergie 1.7 Fl. Oz.\n{'Item Volume': '1.7 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Item Weight': '0.82 Pounds', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.28 x 4.72 x 3.39 inches; 13.05 Ounces', 'Item model number': 'result.feed.gl_beauty-part_number', 'UPC': '888761070070'}\nSmells average. Ordinary. Fergies best perfume is Viva. Forget about all the others.\nNothing special or unique.\nANGELICA - Color: BUTTER PECAN-R\nNoriko\n{'Material': 'Human Hair', 'Hair Type': 'Color', 'Style': 'Modern', 'Brand': 'Noriko', 'Age Range (Description)': 'Adult', 'Item Weight': '13.5 Ounces', 'UPC': '694483001427'}\nPretty darn close to perfect.!  yes.\nSo gorgeous",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** The user maintains a strong preference for distinctive and unique scents, having previously expressed disappointment in products that they find \"ordinary.\" This trend suggests they seek out exceptional fragrance experiences that stand out from the crowd.\n\n- **Brand Affinity:** The latest interaction indicates an openness to various brands beyond their notable favorites, as they awarded a top rating to a non-fragrance product. This suggests that while they value quality, their interests may extend to exploring and appreciating high-quality items across different categories.\n\n- **Rating Behavior:** The user demonstrates a critical perspective, often assigning low ratings to products that do not meet their high standards. However, the recent 5.0 rating indicates their ability to recognize and appreciate excellence when it aligns with their expectations, signaling a balanced but discerning approach.\n\n- **Review Insight:** The user maintains a discerning taste, showcasing an appreciation for quality and uniqueness whether in fragrances or other high-quality products. Their recent review language indicates enthusiasm for products that genuinely impress them, reinforcing their commitment to exceptional experiences over mediocrity.\n\nOverall, this profile highlights the user as someone who values high standards in both fragrance and other purchases, maintaining a blend of critical discernment with a willingness to celebrate standout quality when encountered.",
+  "metrics": {
+    "rouge1_f": 0.07453416149068323,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04347826086956522,
+    "meteor": 0.08849557522123894,
+    "bleu1": 0.11328124999999999,
+    "bleu2": 0.006665134627885854,
+    "bleu3": 0.002595741129198731,
+    "bleu4": 0.0016214960818477647,
+    "bertscore_precision": 0.3688305616378784,
+    "bertscore_recall": 0.37003329396247864,
+    "bertscore_f1": 0.3694309592247009
+  }
+}

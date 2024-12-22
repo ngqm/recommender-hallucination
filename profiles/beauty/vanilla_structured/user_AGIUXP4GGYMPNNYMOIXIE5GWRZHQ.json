@@ -1,0 +1,79 @@
+{
+  "user_id": "AGIUXP4GGYMPNNYMOIXIE5GWRZHQ",
+  "summary": "=== Purchase Information ===\nProduct Title: Mermaid Tail Scented Lip Gloss - Set of 2\nReview Date: 2019/12/27\nStore: Streamline Discs\nAverage Rating: 3.0\nProduct Details: {'Brand': 'Streamline Discs', 'Skin Type': 'All', 'Finish Type': 'Glossy', 'Coverage': 'Scented', 'Target Audience': 'Unisex-Adults', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.58 x 2.28 x 1.22 inches; 1.55 Ounces', 'UPC': '659549233914'}\nReview Text: for the price, your just paying for the tail. there only 1.5g of gloss in each. and the flavor was never said in the info. for your info not everyone like vanilla.\nReview Title: ok lip gloss\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Manicure Set Professional Nail Clippers Kit Pedicure Care Tools-Stainless Steel Women Grooming Kit 16Pcs With Pink PU Leather Case for Travel or Home\nReview Date: 2020/01/17\nStore: Keiby Citom\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 3.8 x 1 inches; 10.58 Ounces'}\nReview Text: nice kit but i wish it came with a info card that say with each item is meant for. for someone who never some of the stuff it would help.\nReview Title: nice kit but\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: lorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nReview Date: 2020/08/16\nStore: lorelo\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nReview Text: very pretty and the wax on one side is great for picking up the gems for during nail art or diamond dot paintings\nReview Title: Great for diamond paintings\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beirui Portable 2 in 1 Pet Grooming Brush Deshedding Tool for Dogs Cats - Effectively Reduces Shedding Puppy Dog Grooming Kit, Green\nReview Date: 2020/11/26\nStore: Beirui\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Beirui', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Package Dimensions': '9.4 x 5.3 x 1.2 inches; 4.8 Ounces'}\nReview Text: One of the best deshedding brush I have found. It\u2019s nice that\u2019s it\u2019s compact. I\u2019m glad I bought this.\nReview Title: Great deshedding brush\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Mermaid Tail Scented Lip Gloss - Set of 2\nStreamline Discs\n{'Brand': 'Streamline Discs', 'Skin Type': 'All', 'Finish Type': 'Glossy', 'Coverage': 'Scented', 'Target Audience': 'Unisex-Adults', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.58 x 2.28 x 1.22 inches; 1.55 Ounces', 'UPC': '659549233914'}\nfor the price, your just paying for the tail. there only 1.5g of gloss in each. and the flavor was never said in the info. for your info not everyone like vanilla.\nok lip gloss\nManicure Set Professional Nail Clippers Kit Pedicure Care Tools-Stainless Steel Women Grooming Kit 16Pcs With Pink PU Leather Case for Travel or Home\nKeiby Citom\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 3.8 x 1 inches; 10.58 Ounces'}\nnice kit but i wish it came with a info card that say with each item is meant for. for someone who never some of the stuff it would help.\nnice kit but\nlorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nlorelo\n{'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nvery pretty and the wax on one side is great for picking up the gems for during nail art or diamond dot paintings\nGreat for diamond paintings\nBeirui Portable 2 in 1 Pet Grooming Brush Deshedding Tool for Dogs Cats - Effectively Reduces Shedding Puppy Dog Grooming Kit, Green\nBeirui\n{'Brand': 'Beirui', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Package Dimensions': '9.4 x 5.3 x 1.2 inches; 4.8 Ounces'}\nOne of the best deshedding brush I have found. It\u2019s nice that\u2019s it\u2019s compact. I\u2019m glad I bought this.\nGreat deshedding brush",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Mermaid Tail Scented Lip Gloss - Set of 2\nReview Date: 2019/12/27\nStore: Streamline Discs\nAverage Rating: 3.0\nProduct Details: {'Brand': 'Streamline Discs', 'Skin Type': 'All', 'Finish Type': 'Glossy', 'Coverage': 'Scented', 'Target Audience': 'Unisex-Adults', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.58 x 2.28 x 1.22 inches; 1.55 Ounces', 'UPC': '659549233914'}\nReview Text: for the price, your just paying for the tail. there only 1.5g of gloss in each. and the flavor was never said in the info. for your info not everyone like vanilla.\nReview Title: ok lip gloss\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Manicure Set Professional Nail Clippers Kit Pedicure Care Tools-Stainless Steel Women Grooming Kit 16Pcs With Pink PU Leather Case for Travel or Home\nReview Date: 2020/01/17\nStore: Keiby Citom\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 3.8 x 1 inches; 10.58 Ounces'}\nReview Text: nice kit but i wish it came with a info card that say with each item is meant for. for someone who never some of the stuff it would help.\nReview Title: nice kit but\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: lorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nReview Date: 2020/08/16\nStore: lorelo\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nReview Text: very pretty and the wax on one side is great for picking up the gems for during nail art or diamond dot paintings\nReview Title: Great for diamond paintings\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beirui Portable 2 in 1 Pet Grooming Brush Deshedding Tool for Dogs Cats - Effectively Reduces Shedding Puppy Dog Grooming Kit, Green\nReview Date: 2020/11/26\nStore: Beirui\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Beirui', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Package Dimensions': '9.4 x 5.3 x 1.2 inches; 4.8 Ounces'}\nReview Text: One of the best deshedding brush I have found. It\u2019s nice that\u2019s it\u2019s compact. I\u2019m glad I bought this.\nReview Title: Great deshedding brush\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThe individual's purchase history reveals a blend of moderate satisfaction and a focus on quality across diverse product categories. Their ratings indicate a critical approach, with lower ratings reflecting disappointment over price-to-value perceptions, especially when the product details aren\u2019t adequately conveyed, such as flavors or instructional guidance. This suggests a preference for transparency in product information.\n\nObserving use cases, the person favors items that enhance personal grooming and self-care, particularly in nail care and pet grooming. They appreciate products that are both functional and aesthetically pleasing, as seen in their praise for tools used in nail art and for pet grooming.\n\nQuality preferences lean towards durable and multifunctional items \u2014 stainless steel grooming kits and effective deshedding tools are favored. Price sensitivity is evident, as the consumer is inclined to evaluate cost against quality, leading to mixed ratings; items perceived as overpriced do not fare well in their reviews.\n\nIn summary, core preferences encompass a desire for quality items that provide clear benefits, aesthetic appeal, and full transparency regarding their features, along with a cautious approach to spending that prioritizes value for money.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Nice fine mist",
+    "text": "It give a mist and the color is just what I was expecting.",
+    "images": [
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/81rSKXoG77L._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/81rSKXoG77L._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/81rSKXoG77L._SL1600_.jpg",
+        "attachment_type": "IMAGE"
+      }
+    ],
+    "asin": "B08CXS5H7N",
+    "parent_asin": "B08CXS5H7N",
+    "user_id": "AGIUXP4GGYMPNNYMOIXIE5GWRZHQ",
+    "timestamp": "2020-12-10 22:02:30.454000",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "All Beauty",
+    "title_meta": "Spray Bottle with Adjustable Nozzle, Suream 10.6oz/300ml Green Mist Sprayer with Stream for Curly Hair, Refillable Empty Plastic Bottle for Hairdressing, Planting, Ironing and Cleaning",
+    "average_rating": 4.2,
+    "rating_number": 22,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31Sfrgn6keL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31Sfrgn6keL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/61vF+nV+GQL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51gdNeZD8yL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51gdNeZD8yL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71bp2db4ZoL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51Oxchpsj6L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51Oxchpsj6L.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/71f-YBT+I6L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41ZMhXsp4GL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41ZMhXsp4GL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/61ah-dy2vdL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31SDXxwM-QL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31SDXxwM-QL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/61xCXsqOPzL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51Z4LUvH64L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51Z4LUvH64L.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/71N4z10bjjL._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "SUREAM",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "9.88 x 4.49 x 3.07 inches; 3.21 Ounces",
+      "UPC": "735632989217"
+    },
+    "bought_together": null
+  }
+}

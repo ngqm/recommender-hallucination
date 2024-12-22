@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces\nReview Date: 2016/01/22\nStore: Tojwi\nProduct Description: ['Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces']\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 3 x 0.02 inches; 0.32 Ounces', 'UPC': '781549255082 755332220175 794437091426 614373069153', 'Manufacturer': 'Tojwi'}\nReview Text: TOO SHORT FOR ME BUT MY 15 year old loves them\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Color Shooting Star Effect Glitter Nail Polish Lacquer\n{'Item Form': 'Liquid', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.91 x 2.28 x 0.59 inches; 1.59 Ounces', 'UPC': '802851281511'}\nLike the color. Sturdy product\nFive Stars\nColor Shooting Star Effect Glitter Nail Polish Lacquer\n{'Item Form': 'Liquid', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.91 x 2.28 x 0.59 inches; 1.59 Ounces', 'UPC': '802851281511'}\nLike the color. Sturdy product\nFive Stars\nTojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces\nTojwi\n['Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces']\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 3 x 0.02 inches; 0.32 Ounces', 'UPC': '781549255082 755332220175 794437091426 614373069153', 'Manufacturer': 'Tojwi'}\nTOO SHORT FOR ME BUT MY 15 year old loves them\nFive Stars",
+  "profile": "The user maintains a strong affinity for vibrant and visually striking beauty products, particularly those with shimmery and glittery finishes that showcase individuality through nail art. Their recent purchase of colorful rhinestone accessories indicates an expanding interest in decorative elements beyond nails, suggesting they appreciate items that enhance their overall style. \n\nThe user's positive review ratings reflect their commitment to high-quality cosmetics and accessories, with a focus on durability and aesthetic appeal. Their feedback highlights satisfaction not only with color vibrancy but also with product robustness, reinforcing their preference for beauty products that combine functionality with striking aesthetics. \n\nThis latest interaction illustrates the user's openness to exploring complementary accessories while maintaining their core values of vibrant finishes and quality performance. Overall, the user seeks options that align closely with their personal style, emphasizing both visual charm and enduring quality in their beauty routine, while demonstrating a willingness to share their experiences, particularly regarding products that appeal to younger audiences, like their child's preferences. This blend of creativity and practicality continues to shape their approach to beauty and self-expression.",
+  "metrics": {
+    "rouge1_f": 0.1037463976945245,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05187319884726225,
+    "meteor": 0.06550218340611354,
+    "bleu1": 0.06331487060624452,
+    "bleu2": 0.004868400971050885,
+    "bleu3": 0.002073737108754612,
+    "bleu4": 0.0013551756796436518,
+    "bertscore_precision": 0.3180595636367798,
+    "bertscore_recall": 0.3314129114151001,
+    "bertscore_f1": 0.3245989680290222
+  }
+}

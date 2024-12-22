@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Proclaim Open Top Mesh Wrap\nReview Date: 2013/12/04\nStore: Proclaim\nProduct Description: ['For those times when you need to protect the edges of your style, the Proclaim Style It Up Open Top Mesh Wrap is ideal. This wrap has an open top and a Velcro fastener and is designed to cover the edges of your hair, leaving the crown open. The breathable material lets your hair get enough air and stay controlled without being smothered.']\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 4 x 0.1 inches; 1 Pounds', 'UPC': '019663378166', 'Manufacturer': 'Proctor & Gamble'}\nReview Text: Even though I have to be careful not to let my long hair get caught in the Velcro closure I really like this mesh wrap because it makes cross wrapping so much easier, I like to use this to keep my hair in place...it's better than sleeping with duck clips in your hair.\nReview Title: great for cross wrapping hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Proclaim Open Top Mesh Wrap\nProclaim\n['For those times when you need to protect the edges of your style, the Proclaim Style It Up Open Top Mesh Wrap is ideal. This wrap has an open top and a Velcro fastener and is designed to cover the edges of your hair, leaving the crown open. The breathable material lets your hair get enough air and stay controlled without being smothered.']\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 4 x 0.1 inches; 1 Pounds', 'UPC': '019663378166', 'Manufacturer': 'Proctor & Gamble'}\nEven though I have to be careful not to let my long hair get caught in the Velcro closure I really like this mesh wrap because it makes cross wrapping so much easier, I like to use this to keep my hair in place...it's better than sleeping with duck clips in your hair.\ngreat for cross wrapping hair",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus**: The user is interested in products that aid in hair management, particularly those that help secure hairstyles without causing damage.\n- **Preference for Functionality**: They appreciate practical solutions, such as wraps that enable effective cross wrapping and maintain hairstyle integrity, highlighting a desire for ease of use.\n- **Material Sensitivity**: The user values breathable materials that allow hair to remain unencumbered while being styled or protected, indicating a preference for comfort and hair health.\n- **Positive Experience with Velcro**: Although they express a minor concern regarding their hair getting caught in the Velcro closure, the overall satisfaction suggests an inclination toward adjustable and versatile products.\n- **Sleep Compatibility**: The user prefers solutions that can be worn comfortably during sleep, indicating a lifestyle that prioritizes maintaining hairstyles overnight without discomfort.\n\nThis profile suggests a user who values practicality, comfort, and functionality in hair care products, likely favoring those that enhance hair styling without compromising health or convenience.",
+  "metrics": {
+    "rouge1_f": 0.30519480519480524,
+    "rouge2_f": 0.052287581699346414,
+    "rougeL_f": 0.14935064935064934,
+    "meteor": 0.20128830940142167,
+    "bleu1": 0.23557692307692307,
+    "bleu2": 0.08925452021837806,
+    "bleu3": 0.04877210401339381,
+    "bleu4": 0.03261727326673423,
+    "bertscore_precision": 0.4638559818267822,
+    "bertscore_recall": 0.4755505323410034,
+    "bertscore_f1": 0.4696304500102997
+  }
+}

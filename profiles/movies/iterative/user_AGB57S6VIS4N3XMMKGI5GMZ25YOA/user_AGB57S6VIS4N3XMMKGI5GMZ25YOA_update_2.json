@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/12\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ernest Dickerson'], 'Producers': ['Gilbert Adler'], 'Starring': ['Billy Zane', 'William Sadler', 'Jada Pinkett'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: Favorite tales crypt\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Beck'], 'Producers': ['Gilbert Adler', 'Joel Silver', 'Robert Zemeckis'], 'Starring': ['Tony Shalhoub', 'Embeth Davidtz', 'Matthew Lillard'], 'Studio': ['WARNER BROS.']}\nLove this movie . I was 11,when this movie came out\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ernest Dickerson'], 'Producers': ['Gilbert Adler'], 'Starring': ['Billy Zane', 'William Sadler', 'Jada Pinkett'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nFavorite tales crypt\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Tendency**: Generally positive, with an average rating of 4.6, reflecting a strong preference for high-quality content; recently rated a film 5.0, indicating heightened enthusiasm for select titles.\n- **Content Preference**: Enjoys films with mature themes, including notable appreciation for content featuring nudity, violence, foul language, and sexual content. The latest review suggests a fondness for narrative styles that involve elements of the supernatural or the cryptic.\n- **Nostalgia Factor**: Maintains a nostalgic connection to films from childhood, specifically favoring those experienced around the age of 11, indicating that these early influences continue to shape current viewing preferences.\n- **Engagement with Audio Features**: Values enhanced audio options like English Dialogue Boost and audio descriptions, showing a strong preference for accessibility and clarity in media consumption.\n- **Favorable Directors and Producers**: Has a favorable impression of works from established industry professionals, as illustrated by recent interactions with content from recognized directors and producers, enhancing content selection.\n- **Overall Enthusiasm**: Displays strong enthusiasm for preferred films, as shown by previous five-star ratings and the recent passionate review, illustrating a consistent pattern of engagement with highly regarded content.\n\nThis summary underscores a user with a distinct taste for quality films with mature themes and a clear nostalgic appreciation for impactful early viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.15488215488215487,
+    "rouge2_f": 0.05423728813559322,
+    "rougeL_f": 0.12794612794612795,
+    "meteor": 0.09085662119748913,
+    "bleu1": 0.10332103321033212,
+    "bleu2": 0.027664796885992146,
+    "bleu3": 0.006577096753314319,
+    "bleu4": 0.0032099034864749433,
+    "bertscore_precision": 0.40109723806381226,
+    "bertscore_recall": 0.36772552132606506,
+    "bertscore_f1": 0.3836870789527893
+  }
+}

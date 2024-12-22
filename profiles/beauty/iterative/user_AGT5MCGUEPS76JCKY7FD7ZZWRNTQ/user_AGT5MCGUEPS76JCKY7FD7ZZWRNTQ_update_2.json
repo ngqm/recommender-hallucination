@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: New Best flexible foam and sponge hair curlers in the industry, revolutionizing old fashion rods into 20 new night curlers that are comfy to sleep on. (Pink)\nReview Date: 2017/04/28\nStore: Lee Beauty Professional\nAverage Rating: 3.4\nProduct Details: {'Item Form': 'Flexi Rod', 'Number of Items': '20', 'Material': 'Foam', 'Brand': 'Lee Beauty Professional', 'Color': 'Pink', 'Package Dimensions': '8.7 x 7 x 2.2 inches; 3.36 Ounces', 'UPC': '016463356264'}\nReview Text: So happy I got these\nReview Title: Happy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ombre Jumbo Braid Hair Extension High Temperature Fiber 3pcs/Lot 100g/pc for Twist Braiding Hair(Black to Dark Grey) \u2026\nBEAUTY ON LINE\n{'Brand': 'BEAUTY ON LINE', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.2 x 6.42 x 2.8 inches; 11.22 Ounces'}\nLove it and so many people have told me how much they like my hair I will buy again\nLove  it\nNew Best flexible foam and sponge hair curlers in the industry, revolutionizing old fashion rods into 20 new night curlers that are comfy to sleep on. (Pink)\nLee Beauty Professional\n{'Item Form': 'Flexi Rod', 'Number of Items': '20', 'Material': 'Foam', 'Brand': 'Lee Beauty Professional', 'Color': 'Pink', 'Package Dimensions': '8.7 x 7 x 2.2 inches; 3.36 Ounces', 'UPC': '016463356264'}\nSo happy I got these\nHappy",
+  "profile": "**User Profile Summary:**\n\n- **Hair Products Enthusiast:** The user maintains a strong interest in various hair styling products, particularly hair extensions that allow for creative styles like braiding.\n\n- **Preference for Quality:** They express satisfaction with product quality, enjoying positive reviews and receiving compliments on their hair choices, highlighting a consistent appreciation for high standards.\n\n- **Color Trends:** The user exhibits a preference for bold and blended colors, favoring transitional shades that enhance their hairstyle\u2019s visual appeal.\n\n- **Material Choice:** There is a clear inclination towards high-temperature synthetic fibers and innovative materials that mimic a natural look, ensuring both aesthetics and durability in their hair products.\n\n- **Installation Method:** A preference for sew-in installation methods showcases their proficiency with more complex hairstyling techniques.\n\n- **Comfort and Practicality:** The recent purchase reflects a desire for comfort in styling, indicating an openness to modern solutions that enhance the simplicity of hairstyling, especially during nighttime.\n\n- **Positive Experience and Loyalty:** The user\u2019s intent to repurchase combined with their latest review suggests loyalty to brands that continue to meet their needs for quality, comfort, and creativity.\n\n**Overall Trends:**\n- Values appearance, creativity, and comfort in hairstyling.\n- Appreciates social validation from their hairstyle choices and enjoys exploring innovative solutions for hair management.\n- Continues to favor practical, high-quality products with reliable installation methods.",
+  "metrics": {
+    "rouge1_f": 0.17777777777777773,
+    "rouge2_f": 0.01675977653631285,
+    "rougeL_f": 0.09444444444444446,
+    "meteor": 0.11744266911169438,
+    "bleu1": 0.12413793103448276,
+    "bleu2": 0.0065539531121312465,
+    "bleu3": 0.0024615276818049066,
+    "bleu4": 0.0015098474467844084,
+    "bertscore_precision": 0.38988375663757324,
+    "bertscore_recall": 0.41440051794052124,
+    "bertscore_f1": 0.4017684757709503
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mini Women\u2019s Facial Painless Hair Remover Women Hair Removal Skin Soft Electric Lipstick Shape Light Hair Removal Tool\nReview Date: 2017/09/30\nAverage Rating: 3.3\nProduct Details: {'Package Dimensions': '8.74 x 6.5 x 1.73 inches; 3.42 Ounces'}\nReview Text: It\u2019s sucks, doesn\u2019t work no matter how many times I change the batteries\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Mini Women\u2019s Facial Painless Hair Remover Women Hair Removal Skin Soft Electric Lipstick Shape Light Hair Removal Tool\n{'Package Dimensions': '8.74 x 6.5 x 1.73 inches; 3.42 Ounces'}\nIt\u2019s sucks, doesn\u2019t work no matter how many times I change the batteries\nOne Star",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user shows interest in women's personal care, specifically hair removal products.\n- **Satisfaction Level:** The user appears to have a low tolerance for ineffective products, as indicated by a very low satisfaction rating (1 star).\n- **Functionality Expectation:** There is an expectation for products to perform effectively; the user expresses disappointment in the product's inability to work despite attempting to change batteries.\n- **Quality Consciousness:** The review highlights a potential pattern of valuing quality and reliability in purchased items, suggesting the user may prefer products that deliver consistent results.\n- **Review Tone:** The language used is blunt and negative, indicating a straightforward communication style without hesitation to express dissatisfaction.\n\nOverall, the user favors effective and reliable personal care tools and shows a strong aversion to products that do not perform as expected.",
+  "metrics": {
+    "rouge1_f": 0.12834224598930483,
+    "rouge2_f": 0.021621621621621623,
+    "rougeL_f": 0.0962566844919786,
+    "meteor": 0.14474646320139883,
+    "bleu1": 0.037634408602150546,
+    "bleu2": 0.004510313023364345,
+    "bleu3": 0.002227743480930638,
+    "bleu4": 0.0015677835874422074,
+    "bertscore_precision": 0.42742931842803955,
+    "bertscore_recall": 0.3507651090621948,
+    "bertscore_f1": 0.38532090187072754
+  }
+}

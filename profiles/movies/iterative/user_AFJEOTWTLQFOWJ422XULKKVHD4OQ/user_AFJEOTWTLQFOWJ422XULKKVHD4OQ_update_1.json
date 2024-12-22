@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/06/13\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Piznarski', 'Sarah Pia Anderson', 'Joshua Butler', 'Steven DePaul', 'Nick Gomez', 'Frederick King Keller', 'Eriq La Salle', 'Constantine Makris', 'Peter Markle', 'Christine Moore'], 'Producers': ['Fox'], 'Starring': ['Dermot Mulroney', 'Rachael Taylor', 'Lance Gross'], 'Studio': ['NBC']}\nReview Text: Great show. It didn't get boring in the middle like a lot of these shows do. Love it! Watch it!\nReview Title: Love it!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Piznarski', 'Sarah Pia Anderson', 'Joshua Butler', 'Steven DePaul', 'Nick Gomez', 'Frederick King Keller', 'Eriq La Salle', 'Constantine Makris', 'Peter Markle', 'Christine Moore'], 'Producers': ['Fox'], 'Starring': ['Dermot Mulroney', 'Rachael Taylor', 'Lance Gross'], 'Studio': ['NBC']}\nGreat show. It didn't get boring in the middle like a lot of these shows do. Love it! Watch it!\nLove it!",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys engaging shows with consistent pacing, avoiding those that lose momentum. \n- **Language & Accessibility:** Prefers content in English, utilizing English subtitles for clarity.\n- **Engagement with Genres:** Likely favorable towards dramatic or captivating narratives, appreciating strong storytelling.\n- **Rating Behavior:** Tends to rate content positively, as evidenced by a high average rating (4.5), reflecting a generally favorable disposition towards shows.\n- **Emotional Response:** Expresses genuine enthusiasm, indicated by the use of exclamatory language (\"Love it!\").\n- **Production Quality Consideration:** Shows an awareness or preference for works by reputable studios and established directors or producers, suggesting a value for quality production. \n\nOverall, the user appreciates well-crafted entertainment that keeps them engaged and is presented in their preferred language, showing a tendency towards positive feedback on satisfactory viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.16666666666666666,
+    "rouge2_f": 0.021052631578947368,
+    "rougeL_f": 0.08333333333333333,
+    "meteor": 0.13081884235447794,
+    "bleu1": 0.13089005235602091,
+    "bleu2": 0.03711859405742922,
+    "bleu3": 0.01938981850621022,
+    "bleu4": 0.007891159936626485,
+    "bertscore_precision": 0.3987068831920624,
+    "bertscore_recall": 0.37029850482940674,
+    "bertscore_f1": 0.3839779496192932
+  }
+}

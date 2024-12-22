@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nReview Text: sad\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nsad\nOne Star",
+  "profile": "**User Summary:**\n\n- **Rating Tendencies:** The user exhibits a strong inclination towards positive ratings (average of 4.8), but has also expressed dissatisfaction in a specific instance with a rating of 1.0. This suggests the user has high expectations and is critical of content that does not meet those standards.\n\n- **Content Preferences:** The user seems to gravitate towards films and shows that involve emotionally charged themes, as evidenced by the use of the word \"sad\" in their review. This indicates a potential interest in narratives that explore deep emotional experiences.\n\n- **Cultural Interest:** The inclusion of both English and Spanish subtitles implies the user values bilingual content, suggesting a preference for accessibility and cultural diversity.\n\n- **Media Consumption:** The involvement of well-known actors and producers indicates that the user may appreciate high-quality production values and recognizable talent in their media choices.\n\n- **Content Advisory Awareness:** The user\u2019s attention to content advisory signals an awareness and possibly a preference for content that is informative about mature themes, which may influence their selection process.\n\nOverall, this user appears to have discerning tastes, valuing emotional depth, quality production, and accessible language options in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.08403361344537814,
+    "rouge2_f": 0.00847457627118644,
+    "rougeL_f": 0.05042016806722689,
+    "meteor": 0.08278145695364239,
+    "bleu1": 0.07755102040816325,
+    "bleu2": 0.0056376595396771525,
+    "bleu3": 0.0023561185518594105,
+    "bleu4": 0.00152473374701399,
+    "bertscore_precision": 0.3871142566204071,
+    "bertscore_recall": 0.310615599155426,
+    "bertscore_f1": 0.3446713089942932
+  }
+}

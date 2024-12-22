@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Kuyang 4 IN 1 Electric Razor for Women, USB Rechargeable Electric Shaver for Women, Cordless Electric Epilator with 3 Different Razor Head 1 Facial Cleansing Brush, Wet or Dry Use\nReview Date: 2019/07/03\nStore: Kuyang\nAverage Rating: 3.8\nProduct Details: {'Package Dimensions': '8 x 4.7 x 3.9 inches; 13.62 Ounces', 'UPC': '796862932046'}\nReview Text: My first experience with a shaver Like this and I love it. The back and forth motion and no fear of getting sliced like a reg razor is definitely a plus. Very easy to clean and compact ; goes with me everywhere.\nReview Title: Slick as a whistle\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Kuyang 4 IN 1 Electric Razor for Women, USB Rechargeable Electric Shaver for Women, Cordless Electric Epilator with 3 Different Razor Head 1 Facial Cleansing Brush, Wet or Dry Use\nKuyang\n{'Package Dimensions': '8 x 4.7 x 3.9 inches; 13.62 Ounces', 'UPC': '796862932046'}\nMy first experience with a shaver Like this and I love it. The back and forth motion and no fear of getting sliced like a reg razor is definitely a plus. Very easy to clean and compact ; goes with me everywhere.\nSlick as a whistle",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user exhibits a strong preference for electric grooming devices, particularly razors designed for women. They appreciate multifunctionality, indicating an interest in products that combine various features in one device.\n  \n- **Safety and Ease of Use:** The user values safety, as highlighted by their enjoyment of a design that minimizes the risk of cuts compared to traditional razors. They prioritize ease of cleaning and compactness for portability, suggesting they favor products that fit into a mobile lifestyle.\n\n- **User Experience:** Positive first-time experiences with grooming products are essential to the user. They seem to appreciate intuitive operation and effective performance, as evidenced by their satisfaction and high rating.\n\n- **Additional Features:** The mention of wet or dry use indicates the user looks for versatility in grooming tools, preferring items adaptable to various settings.\n\nOverall, the user appears to seek reliable, safe, and convenient grooming solutions that enhance their personal care routine.",
+  "metrics": {
+    "rouge1_f": 0.22040816326530613,
+    "rouge2_f": 0.05761316872427983,
+    "rougeL_f": 0.1142857142857143,
+    "meteor": 0.2140395719105373,
+    "bleu1": 0.12562814070351758,
+    "bleu2": 0.007965460181989957,
+    "bleu3": 0.0031816458651472224,
+    "bleu4": 0.0020133758781901994,
+    "bertscore_precision": 0.4304359555244446,
+    "bertscore_recall": 0.4133279025554657,
+    "bertscore_f1": 0.42170849442481995
+  }
+}

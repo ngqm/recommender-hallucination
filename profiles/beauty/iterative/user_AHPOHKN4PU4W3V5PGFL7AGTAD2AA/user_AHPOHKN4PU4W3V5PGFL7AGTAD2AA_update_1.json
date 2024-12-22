@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: TRESemme Climate Control Shampoo, 32 Oz\nReview Date: 2015/06/12\nStore: TRESemm\u00e9\nAverage Rating: 4.5\nProduct Details: {'Brand': 'TRESemm\u00e9', 'Item Form': 'Liquid', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Item Weight': '2.55 Pounds', 'Product Dimensions': '3.2 x 3.2 x 9.2 inches; 2.55 Pounds', 'UPC': '022400651576'}\nReview Text: I use this in rotation with a couple of other brands. The scent is pretty mild and it lathers richly and my hair does feel nice and clean and soft after using this for a few days. But....there can definitely be a build up if I use it for a week straight. My hair is long and very thick and after a week with this shampoo & matching conditioner I find my hair looks weighed down and flat.\nReview Title: Does a nice job when alternated with other shampoo every few days\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "TRESemme Climate Control Shampoo, 32 Oz\nTRESemm\u00e9\n{'Brand': 'TRESemm\u00e9', 'Item Form': 'Liquid', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Item Weight': '2.55 Pounds', 'Product Dimensions': '3.2 x 3.2 x 9.2 inches; 2.55 Pounds', 'UPC': '022400651576'}\nI use this in rotation with a couple of other brands. The scent is pretty mild and it lathers richly and my hair does feel nice and clean and soft after using this for a few days. But....there can definitely be a build up if I use it for a week straight. My hair is long and very thick and after a week with this shampoo & matching conditioner I find my hair looks weighed down and flat.\nDoes a nice job when alternated with other shampoo every few days",
+  "profile": "**User Summary:**\n\n- **Hair Care Preference:** The user prefers using shampoos that can be alternated with other brands, indicating a tendency towards variety and avoidance of product buildup.\n- **Product Characteristics:** Appreciates mild scents and rich lather. Values cleanliness and softness in hair after use.\n- **Usage Behavior:** Uses hair care products in rotation, suggesting a thoughtful approach to maintaining hair health while avoiding potential issues like heaviness or flatness.\n- **Hair Type Consideration:** User has long, thick hair, which influences their choice of products to ensure they adequately address the specific needs of their hair type.\n- **Satisfaction Level:** Generally satisfied with the product's performance but acknowledges the need for moderation to prevent buildup, as indicated by a solid average rating. \n\nOverall, this user demonstrates a conscious approach to hair care, focusing on balanced usage to maintain optimal hair condition.",
+  "metrics": {
+    "rouge1_f": 0.28358208955223885,
+    "rouge2_f": 0.045112781954887216,
+    "rougeL_f": 0.14179104477611942,
+    "meteor": 0.17652437045955252,
+    "bleu1": 0.25268817204301075,
+    "bleu2": 0.07391568199085499,
+    "bleu3": 0.030966000600656938,
+    "bleu4": 0.01128628638118482,
+    "bertscore_precision": 0.4516719579696655,
+    "bertscore_recall": 0.4641508162021637,
+    "bertscore_f1": 0.4578264057636261
+  }
+}

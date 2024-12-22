@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: [KARADIUM] PUCCA LOVE EDITION Cheek & Shading 5.4g - 5 Colors (#03 BABY PINK)\nReview Date: 2017/05/31\nAverage Rating: 5.0\nProduct Details: {'Unit Count': '1 Count', 'Style': 'Compact', 'Package Type': 'Palette', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.3 x 2.3 x 0.4 inches; 0.64 Ounces', 'UPC': '887406060773'}\nReview Text: Nice smooth texture and good payoff with finger swatch. Very nice girlish colour. No smell.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "PMD Personal Microderm Replacement Discs - Includes 6 Discs and 1 Filter - For Use With Classic, Plus, Pro, Man, and Elite\n{'Brand': 'PMD Beauty', 'Item Form': 'Aluminum crystal', 'Skin Type': 'All', 'Product Benefits': 'Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.  See more', 'Item Volume': '1 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3.2 x 3.2 x 2.27 inches; 0.7 Ounces', 'Item model number': '1303', 'Department': 'unisex-adult', 'UPC': '855394003034', 'Manufacturer': 'PMD Personal Microderm', 'Country of Origin': 'Vietnam', 'Domestic Shipping': 'Item can be shipped within U.S.', 'International Shipping': 'This item can be shipped to select countries outside of the U.S.  Learn More'}\nLoving my PMD!<br />Bought these because I'm extra sensitive on cheeks.\nGreat\n[KARADIUM] PUCCA LOVE EDITION Cheek & Shading 5.4g - 5 Colors (#03 BABY PINK)\n{'Unit Count': '1 Count', 'Style': 'Compact', 'Package Type': 'Palette', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.3 x 2.3 x 0.4 inches; 0.64 Ounces', 'UPC': '887406060773'}\nNice smooth texture and good payoff with finger swatch. Very nice girlish colour. No smell.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Skincare and Makeup Enthusiast:** Demonstrates a passion for both skincare and makeup products, indicating an interest in enhancing overall beauty while maintaining skin health.\n- **Skincare Focus on Sensitivity:** Continues to prioritize gentle, effective skincare solutions suitable for sensitive areas, particularly around the cheeks.\n- **Quality-Conscious Purchaser:** Consistently values high-quality products, evidenced by multiple positive reviews and high ratings, highlighting satisfaction with product performance and texture.\n- **Regular Maintenance and Enhancement:** Engages in a comprehensive beauty routine that includes regular skincare maintenance coupled with makeup application, suggesting an integrated approach to self-care.\n- **Gender Neutrality in Product Selections:** Shows no specific gender limitations, appreciating products that cater to diverse skincare and makeup needs.\n- **Positive Experience Recognition:** Frequently expresses satisfaction with purchases, indicating a tendency to overlook minor imperfections when the overall product performance aligns with expectations. \n\nOverall, the user actively seeks effective solutions for both skincare and makeup, particularly those that offer quality results without compromising skin sensitivity. They appreciate products that enhance their beauty routine while ensuring skin health remains a priority.",
+  "metrics": {
+    "rouge1_f": 0.13577023498694518,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.0731070496083551,
+    "meteor": 0.08658008658008658,
+    "bleu1": 0.13027842010432533,
+    "bleu2": 0.020146050114194347,
+    "bleu3": 0.005026432291233235,
+    "bleu4": 0.00251344831438458,
+    "bertscore_precision": 0.3860485851764679,
+    "bertscore_recall": 0.4263885021209717,
+    "bertscore_f1": 0.4052170515060425
+  }
+}

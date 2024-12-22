@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/03/27\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Colin Trevorrow'], 'Producers': ['Frank Marshall', 'Patrick Crowley'], 'Starring': ['Chris Pratt', 'Bryce Dallas Howard', \"Vincent D'Onofrio\"], 'Studio': ['NBC Universal']}\nReview Text: Didnt order this one either\nReview Title: Someone using my account\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Colin Trevorrow'], 'Producers': ['Frank Marshall', 'Patrick Crowley'], 'Starring': ['Chris Pratt', 'Bryce Dallas Howard', \"Vincent D'Onofrio\"], 'Studio': ['NBC Universal']}\nDidnt order this one either\nSomeone using my account",
+  "profile": "**User Summary:**\n\n- **Account Security Concerns:** The user may be experiencing issues with account security, as indicated by their review regarding unauthorized purchases.\n\n- **Content Preferences:** Despite not ordering the product mentioned, the user's interaction suggests an exposure to media containing mature themes, such as violence, alcohol use, foul language, and sexual content, which could imply a tolerance or interest in adult-themed content.\n\n- **Audio and Subtitles:** The user seems to appreciate accessibility features like audio descriptions and closed captions, suggesting a preference or need for inclusive viewing options.\n\n- **Engagement with Blockbuster Productions:** Interaction with major studio productions indicates a tendency towards popular, mainstream entertainment, particularly involving well-known actors and directors.\n\n- **Mixed Satisfaction:** Their mixed ratings (4.7 and 3.0) reflect varying levels of satisfaction, possibly indicating that while they enjoy certain viewing experiences, inconsistencies in delivery or unauthorized usage significantly impact their overall enjoyment.\n\nOverall, this user is cautious about account integrity but engages with mainstream media content reflecting adult themes and values accessibility in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.15668202764976957,
+    "rouge2_f": 0.06511627906976745,
+    "rougeL_f": 0.12903225806451613,
+    "meteor": 0.12516859560720842,
+    "bleu1": 0.11261261261261261,
+    "bleu2": 0.0071383424762947924,
+    "bleu3": 0.0028505195674342777,
+    "bleu4": 0.001803358167881482,
+    "bertscore_precision": 0.40969136357307434,
+    "bertscore_recall": 0.3319936990737915,
+    "bertscore_f1": 0.3667728006839752
+  }
+}

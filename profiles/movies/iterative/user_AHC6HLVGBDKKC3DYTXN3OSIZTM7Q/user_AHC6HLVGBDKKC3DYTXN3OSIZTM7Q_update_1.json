@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/10/27\nAverage Rating: 3.5\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Donna Deitch'], 'Producers': ['Donald P. Borchers', 'John Allen Nelson', 'Daryl Sancton', 'Max Strom', 'David Tripet'], 'Starring': ['Joan Severance', 'Tony Denison', 'John Allen Nelson'], 'Studio': ['EPIX']}\nReview Text: Geez, am I the ONLY person watching Prime that would like to see a decent movie?  I got 1/10th of the way thru this and went back to read the reviews to see if I was watching the same movie reviewed by others as &#34;bad girl&#34; or &#34;character&#34; depth, and I could go on.  But yep, I was watchin' the same innocuous boring as h\u20acll, practically made for Lifetime t.v. movie.<br />I proceeded to fast forward it several mins at a time to see if I could find anything remotely worth watching.  Never found it.<br />I'll be glad when Prime has more then worthless movies to watch!\nReview Title: Bleh...\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Donna Deitch'], 'Producers': ['Donald P. Borchers', 'John Allen Nelson', 'Daryl Sancton', 'Max Strom', 'David Tripet'], 'Starring': ['Joan Severance', 'Tony Denison', 'John Allen Nelson'], 'Studio': ['EPIX']}\nGeez, am I the ONLY person watching Prime that would like to see a decent movie?  I got 1/10th of the way thru this and went back to read the reviews to see if I was watching the same movie reviewed by others as &#34;bad girl&#34; or &#34;character&#34; depth, and I could go on.  But yep, I was watchin' the same innocuous boring as h\u20acll, practically made for Lifetime t.v. movie.<br />I proceeded to fast forward it several mins at a time to see if I could find anything remotely worth watching.  Never found it.<br />I'll be glad when Prime has more then worthless movies to watch!\nBleh...",
+  "profile": "**User Profile Summary:**\n\n- **Rating Style:** The user exhibits a critical perspective on film quality, as evidenced by a low rating for a movie they found uninteresting and poorly executed.\n- **Content Preference:** Clearly prefers films with depth and engaging narratives. Shows a strong aversion to what they feel are low-quality productions, typical of specific networks or genres.\n- **Viewing Expectations:** The user seeks substantial and meaningful content, indicating frustration with perceived mediocrity in available films on streaming services.\n- **Review Engagement:** Actively engages with others' reviews to validate their own opinions, suggesting they value community feedback and thorough evaluations before committing to viewing content.\n- **Frustration with Offerings:** Expresses dissatisfaction with the selection of films available on streaming platforms, signaling a desire for more curated and high-quality options.\n\nOverall, this user is discerning, values quality over quantity, and is particularly vocal about their distaste for lackluster content.",
+  "metrics": {
+    "rouge1_f": 0.17123287671232879,
+    "rouge2_f": 0.013793103448275862,
+    "rougeL_f": 0.0821917808219178,
+    "meteor": 0.12380823199251635,
+    "bleu1": 0.1794787298397907,
+    "bleu2": 0.040749087894819534,
+    "bleu3": 0.009174059559495499,
+    "bleu4": 0.004358633497763774,
+    "bertscore_precision": 0.3779200315475464,
+    "bertscore_recall": 0.41337835788726807,
+    "bertscore_f1": 0.39485475420951843
+  }
+}

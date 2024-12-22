@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/10/27\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Asher', 'James V. Kern', 'Marc Daniels', 'Ralph Levy'], 'Producers': ['Desi Arnaz', 'Jess Oppenheimer', 'Al Simon', 'Jack Aldworth', 'Lucille Ball']}\nReview Text: I LOVE THESE  EPISODES! I WATCH THEM  OVER AND OVER!\nReview Title: Love these!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Harper Valley P.T.A.\nRichard Bennett  (Director),     Barbara Eden  (Actor),     Ronny Cox  (Actor)    &                   0                  more   Rated:    PG    Format: DVD\nMovies & TV, Featured Categories, DVD, Comedy\n['Harper Valley P.T.A. (DVD)', \"What happens when Stella Johnson and her daughter Dee come up against the unwelcome wagon of the Harper Valley P.T.A.? Hilarious comedy that's fun for the entire family!\", ']]>']\n{'Aspect Ratio': '1.78:1', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'PG (Parental Guidance Suggested)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 0.63 Ounces', 'Item model number': '90244', 'Director': 'Richard Bennett', 'Media Format': 'NTSC, Multiple Formats, Closed-captioned, Color', 'Run time': '1 hour and 41 minutes', 'Release date': 'May 31, 2005', 'Actors': 'Barbara Eden, Ronny Cox, Nanette Fabray, Louis Nye, Susan Swift', 'Producers': 'Phil Borack, George Edwards', 'Language': 'Unqualified', 'Studio': 'HBO Studios', 'Writers': 'George Edwards, Barry Schneider', 'Number of discs': '1'}\nI love Barbara Eden! I saw this movie when I was a kid and have always wanted to see it again. A fun, upbeat movie.\nLove this movie!!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Asher', 'James V. Kern', 'Marc Daniels', 'Ralph Levy'], 'Producers': ['Desi Arnaz', 'Jess Oppenheimer', 'Al Simon', 'Jack Aldworth', 'Lucille Ball']}\nI LOVE THESE  EPISODES! I WATCH THEM  OVER AND OVER!\nLove these!!",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys classic comedies, particularly those with strong female leads, with a specific affinity for laughter-filled narratives.\n- **Nostalgia Factor:** Values films and TV shows from childhood, actively seeking to relive positive experiences and joyful moments.\n- **Rating Behavior:** Tends to give high ratings, reflecting a consistently positive and enthusiastic engagement with content, highlighted by a recent 5-star review showcasing their passion.\n- **Actor Affinity:** Holds admiration for iconic stars and influential figures, suggesting a preference for content that features celebrated talent and star-driven narratives.\n- **Family-Friendly Focus:** Prefers content suitable for all ages, demonstrating a keen interest in family-oriented entertainment and wholesome viewing experiences.\n- **Format Enthusiasm:** Engages with physical media, specifically DVDs, showing a preference for tangible collections that provide a nostalgic touch.\n\nThe user clearly enjoys feel-good, upbeat narratives that evoke fond memories from their past, focusing on emotional connection and entertainment value. Their recent interaction underscores a deep appreciation for specific shows, emphasizing a delightful inclination towards watching beloved episodes repeatedly.",
+  "metrics": {
+    "rouge1_f": 0.1498708010335917,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06718346253229975,
+    "meteor": 0.07388462631429384,
+    "bleu1": 0.08074925489286168,
+    "bleu2": 0.013879260111831423,
+    "bleu3": 0.0035872085870040068,
+    "bleu4": 0.0018257434886685701,
+    "bertscore_precision": 0.34244367480278015,
+    "bertscore_recall": 0.3955332040786743,
+    "bertscore_f1": 0.3670788109302521
+  }
+}

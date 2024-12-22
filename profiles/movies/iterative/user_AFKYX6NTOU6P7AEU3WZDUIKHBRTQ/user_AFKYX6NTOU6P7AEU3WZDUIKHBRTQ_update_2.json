@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/02\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nReview Text: I didn't  care for all the actors, but the plot has kept my attention.\nReview Title: I didn't care for all the actors, but the ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Alexander Koch'], 'Studio': ['CBS']}\nGreat beginning, nothing has been predictable.\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nI didn't  care for all the actors, but the plot has kept my attention.\nI didn't care for all the actors, but the ...",
+  "profile": "User Profile Summary:\n\n- **Genre Preferences**: Enjoys narratives with engaging storytelling and unpredictability. Prefers content that incorporates elements of tension, often found in action and drama genres, and appreciates plots that maintain attention even if some cast members are not favored.\n\n- **Content Sensitivities**: Comfortable with mature themes, including violence, alcohol use, sexual content, and foul language. Open to narratives featuring complex characters and situations that challenge the viewer.\n\n- **Language**: Prefers content in English for both audio and subtitles, reflecting a focus on English-language media.\n\n- **Rating Behavior**: Generally positive reviewer with an average rating of 4.5, indicating a discerning taste while enjoying quality content. Recently displayed a willingness to rate higher (5.0) when the plot captivates, despite mixed feelings about the cast.\n\n- **Director and Cast Appeal**: Shows interest in productions associated with notable directors and a specific set of actors, suggesting a preference for established talents in the industry.\n\nOverall, the user appreciates thought-provoking and entertaining content, demonstrating a strong tolerance for mature themes and complex storytelling, while remaining critical of cast performances when they do not align with their expectations.",
+  "metrics": {
+    "rouge1_f": 0.1858974358974359,
+    "rouge2_f": 0.03225806451612904,
+    "rougeL_f": 0.11538461538461538,
+    "meteor": 0.0663632916192643,
+    "bleu1": 0.12618751907221992,
+    "bleu2": 0.030670574391810194,
+    "bleu3": 0.0070615991085676314,
+    "bleu4": 0.0033920530412746225,
+    "bertscore_precision": 0.3662461042404175,
+    "bertscore_recall": 0.37624427676200867,
+    "bertscore_f1": 0.3711778521537781
+  }
+}

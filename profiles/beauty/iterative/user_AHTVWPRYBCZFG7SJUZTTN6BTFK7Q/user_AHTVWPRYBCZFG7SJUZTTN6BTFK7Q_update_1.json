@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Dial Men 3in1 Body, Hair and Face Wash, Ultimate Clean, 32 fl oz\nReview Date: 2019/10/27\nStore: Dial\nAverage Rating: 4.7\nProduct Details: {'Item Form': 'Cream', 'Skin Type': 'All', 'Brand': 'Dial', 'Material Type Free': 'Free From Parabens,Silicones', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.41 x 3.94 x 2.68 inches; 2 Pounds', 'UPC': '017000118680'}\nReview Text: This doesn't feel like anything fancy. It's a value for money thing. This huge bottle is inexpensive. The pump to squeeze it out works fine. The scent is fine. And it isn't that thin watery substance with cheap brands where most of it just flows right down the drain. I use it to wash my hair.<br />I havent combed my hair since i was 13 and mostly just don't care about it or what I put in it. It's there and it helps keep my head warm. Whatever is in this hasn't caused my hair to fall out. So im calling that a win.<br />Good enough\nReview Title: Good enough\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Dial Men 3in1 Body, Hair and Face Wash, Ultimate Clean, 32 fl oz\nDial\n{'Item Form': 'Cream', 'Skin Type': 'All', 'Brand': 'Dial', 'Material Type Free': 'Free From Parabens,Silicones', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.41 x 3.94 x 2.68 inches; 2 Pounds', 'UPC': '017000118680'}\nThis doesn't feel like anything fancy. It's a value for money thing. This huge bottle is inexpensive. The pump to squeeze it out works fine. The scent is fine. And it isn't that thin watery substance with cheap brands where most of it just flows right down the drain. I use it to wash my hair.<br />I havent combed my hair since i was 13 and mostly just don't care about it or what I put in it. It's there and it helps keep my head warm. Whatever is in this hasn't caused my hair to fall out. So im calling that a win.<br />Good enough\nGood enough",
+  "profile": "**User Profile Summary:**\n\n- **Value-Driven:** The user prefers products that offer good value for money, as indicated by their appreciation for inexpensive options with substantial quantity.\n- **Practicality Over Luxury:** They prioritize functionality and simplicity over brand prestige or luxurious features, noting that the product is \"not fancy\" yet meets their needs effectively.\n- **Minimalist Grooming Approach:** The user exhibits a laid-back grooming philosophy, specifically mentioning that they don\u2019t invest much effort into their hair and have not used a comb in years, suggesting a preference for low-maintenance personal care routines.\n- **Scent Neutrality:** They express a neutral stance on scent, describing it as \"fine,\" indicating no strong preference for heavily scented products but rather for those that are not off-putting.\n- **Safety and Efficacy:** The user values products that do not cause adverse effects\u2014particularly noting that the product does not contribute to hair loss, reflecting a focus on safety in their grooming choices.\n- **Target Audience:** The user fits the adult demographic seeking straightforward and effective personal care solutions that cater to all skin and hair types. \n\nOverall, this profile emphasizes a preference for practicality, value, and user-friendly products that serve essential grooming needs without unnecessary complexity.",
+  "metrics": {
+    "rouge1_f": 0.2369146005509642,
+    "rouge2_f": 0.022160664819944602,
+    "rougeL_f": 0.09917355371900827,
+    "meteor": 0.15646571560055222,
+    "bleu1": 0.21484375,
+    "bleu2": 0.04104934858932407,
+    "bleu3": 0.018789978114712117,
+    "bleu4": 0.007155905149202857,
+    "bertscore_precision": 0.43294191360473633,
+    "bertscore_recall": 0.42645543813705444,
+    "bertscore_f1": 0.4296742081642151
+  }
+}

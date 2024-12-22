@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Benefit Cosmetics Hoola Lite Bronzer (Natural Light Bronze) 0.28 oz\nReview Date: 2018/12/21\nStore: Benefit Cosmetics\nAverage Rating: 4.5\nProduct Details: {'Item Form': 'Powder', 'Finish Type': 'Matte', 'Coverage': 'Light', 'Brand': 'Benefit Cosmetics', 'Color': 'Hoola Lite', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.41 x 2.6 x 1.42 inches; 1.76 Ounces', 'Item model number': 'FM46'}\nReview Text: if you are very fair (like I am) its the perfect bronzer - not orange not \"fake tan\" looking but the perfect healthy glow!! I have bought 3 more bc I fear of running out!! LOVE THiS!!\nReview Title: perfect bronzer\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Benefit Cosmetics Hoola Lite Bronzer (Natural Light Bronze) 0.28 oz\nBenefit Cosmetics\n{'Item Form': 'Powder', 'Finish Type': 'Matte', 'Coverage': 'Light', 'Brand': 'Benefit Cosmetics', 'Color': 'Hoola Lite', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.41 x 2.6 x 1.42 inches; 1.76 Ounces', 'Item model number': 'FM46'}\nif you are very fair (like I am) its the perfect bronzer - not orange not \"fake tan\" looking but the perfect healthy glow!! I have bought 3 more bc I fear of running out!! LOVE THiS!!\nperfect bronzer",
+  "profile": "**User Profile Summary:**\n\n- **Skin Tone Preference:** The user identifies as very fair-skinned and seeks cosmetic products that complement their complexion without appearing artificial or overly bronzed.\n- **Product Type:** Preference for powder formulations, particularly bronzers that offer a light coverage and matte finish.\n- **Brand Loyalty:** Favorable toward Benefit Cosmetics, indicating potential brand loyalty based on positive experiences with their products.\n- **Desired Effects:** The user values a natural, healthy glow over an artificial tanned appearance, suggesting a focus on understated beauty looks.\n- **Purchase Behavior:** Demonstrates a tendency to stock up on preferred products to avoid running out, indicating a reliance on key items within their beauty routine.\n- **Review Style:** Expresses strong enthusiasm and satisfaction in reviews, often providing high ratings for products that meet their specific needs. \n\nOverall, the user appears to prioritize natural-looking makeup suitable for fair skin, favoring reliable brands that offer products matching their aesthetic preferences.",
+  "metrics": {
+    "rouge1_f": 0.20253164556962025,
+    "rouge2_f": 0.03404255319148936,
+    "rougeL_f": 0.10126582278481013,
+    "meteor": 0.14346591620388685,
+    "bleu1": 0.12315270935960591,
+    "bleu2": 0.04276681697360177,
+    "bleu3": 0.009690345600912732,
+    "bleu4": 0.004618457491780896,
+    "bertscore_precision": 0.41151532530784607,
+    "bertscore_recall": 0.3871673345565796,
+    "bertscore_f1": 0.39897018671035767
+  }
+}

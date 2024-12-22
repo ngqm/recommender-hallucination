@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nReview Date: 2019/08/28\nStore: Hair Accessories\nProduct Description: ['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\nAverage Rating: 4.4\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nReview Text: You need to hVe thick hair\nReview Title: Ok\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nHair Accessories\n['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\n{'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nYou need to hVe thick hair\nOk\nDesigner Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nHair Accessories\n['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\n{'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nYou need to hVe thick hair\nOk",
+  "profile": "**Updated User Profile Summary:**\n\nThis user maintains a preference for fashion accessories, focusing on hair-related items that balance style and functionality. Their latest interaction reflects this trend, as they purchased a designer elastic hairtie embellished with rhinestones, which aligns with their appreciation for fashionable yet practical products. The review indicates a continued emphasis on the suitability of these accessories for users with thick hair, reinforcing their priority for product performance alongside aesthetics.\n\nThe user\u2019s consistent average rating of 3.0 suggests moderate satisfaction, implying that they expect a satisfactory balance between quality and usability. Their feedback indicates that while they are attracted to elegant and trendy items, they remain discerning about factors such as compatibility with hair type, which directly influences their purchasing decisions.\n\nOverall, this user is inclined toward versatile, high-quality fashion accessories that cater to specific needs, particularly in terms of material robustness and suitability for various hair types. Their interactions highlight a clear intent to find chic yet functional items, demonstrating a thoughtful approach to fashion accessories that blends aesthetic appeal with practical use.",
+  "metrics": {
+    "rouge1_f": 0.19883040935672514,
+    "rouge2_f": 0.011764705882352943,
+    "rougeL_f": 0.11695906432748537,
+    "meteor": 0.0903741067675494,
+    "bleu1": 0.09331347157950301,
+    "bleu2": 0.01950578620743065,
+    "bleu3": 0.005382228569653637,
+    "bleu4": 0.0028307951798279434,
+    "bertscore_precision": 0.3346315026283264,
+    "bertscore_recall": 0.33301377296447754,
+    "bertscore_f1": 0.3338206708431244
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "user_id": "AFUZMUKWSQFJQHJ5ZKAXIQ5JSBGQ",
+  "summary": "=== Purchase Information ===\nProduct Title: Red Carpet Manicure Starter Kits\nReview Date: 2020/08/03\nAverage Rating: 4.0\nProduct Details: {'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nReview Text: Easy to use and worked with my glitter.\nReview Title: Good nail kit\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Marshique Touch Fit Glitter Cream Shadow 0.2Oz (Peach Warm Orange Tangerine Sorbet) - Warm Orange Base, Opal Pearl Gold Sparkle Eyeshadow, Waterproof and Longlasting for Under Fat Eye\nReview Date: 2020/08/03\nStore: Marshique\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Marshique', 'Item Form': 'Cream,Powder,Creamy', 'Finish Type': 'Luminous,Sheer,Glitter,Shimmer', 'Special Feature': 'Waterproof', 'Number of Items': '1', 'Package Dimensions': '1.6 x 1.6 x 0.7 inches; 0.2 Ounces', 'Item model number': '0000'}\nReview Text: Did not see that this was a cream, but I'm very impressed lasted all day and it looked great.\nReview Title: Great color\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 9 PCS Professional Hair Cutting Scissors Set, Hair Cutting Set, Thinning Scissors, Razor Comb, Clip, Shawl, Hairdressing Scissors Set, Haircut Set, Suitable For Family (9 PCS Hair Cutting Set)\nReview Date: 2020/08/03\nStore: FVILIPUS\nAverage Rating: 3.8\nProduct Details: {'Package Dimensions': '7.99 x 7.32 x 1.22 inches; 8.57 Ounces', 'Manufacturer': 'FVILIPUS'}\nReview Text: Cheaply made and the cloth was dirty.\nReview Title: Nope\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin\nReview Date: 2020/08/19\nStore: Wonder4\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Wonder4', 'Is Electric': 'Yes', 'Item Form': 'Roller', 'Style': 'Modern', 'Unit Count': '11.4 Ounce'}\nReview Text: Tried using it made my heels hurt for 2 days\nReview Title: Ouch\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Qiray Hair Ties Hair Accessories Set For Girls and Women,Large Retractable Cotton,18 Colors 36 Pieces.\nReview Date: 2021/03/08\nStore: Qiray\nAverage Rating: 4.2\nProduct Details: {'Material': 'Cotton', 'Item Form': 'Elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '5.51 x 5.51 x 1.57 inches', 'Hair Type': 'Straight', 'Product Dimensions': '5.51 x 5.51 x 1.57 inches; 3.99 Ounces', 'UPC': '655160582479'}\nReview Text: They are ok, they do the job.\nReview Title: Hair tie\nRating: 3.0\n--------------------------------------------------",
+  "reference": "Red Carpet Manicure Starter Kits\n{'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nEasy to use and worked with my glitter.\nGood nail kit\nMarshique Touch Fit Glitter Cream Shadow 0.2Oz (Peach Warm Orange Tangerine Sorbet) - Warm Orange Base, Opal Pearl Gold Sparkle Eyeshadow, Waterproof and Longlasting for Under Fat Eye\nMarshique\n{'Brand': 'Marshique', 'Item Form': 'Cream,Powder,Creamy', 'Finish Type': 'Luminous,Sheer,Glitter,Shimmer', 'Special Feature': 'Waterproof', 'Number of Items': '1', 'Package Dimensions': '1.6 x 1.6 x 0.7 inches; 0.2 Ounces', 'Item model number': '0000'}\nDid not see that this was a cream, but I'm very impressed lasted all day and it looked great.\nGreat color\n9 PCS Professional Hair Cutting Scissors Set, Hair Cutting Set, Thinning Scissors, Razor Comb, Clip, Shawl, Hairdressing Scissors Set, Haircut Set, Suitable For Family (9 PCS Hair Cutting Set)\nFVILIPUS\n{'Package Dimensions': '7.99 x 7.32 x 1.22 inches; 8.57 Ounces', 'Manufacturer': 'FVILIPUS'}\nCheaply made and the cloth was dirty.\nNope\nWonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin\nWonder4\n{'Brand': 'Wonder4', 'Is Electric': 'Yes', 'Item Form': 'Roller', 'Style': 'Modern', 'Unit Count': '11.4 Ounce'}\nTried using it made my heels hurt for 2 days\nOuch\nQiray Hair Ties Hair Accessories Set For Girls and Women,Large Retractable Cotton,18 Colors 36 Pieces.\nQiray\n{'Material': 'Cotton', 'Item Form': 'Elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '5.51 x 5.51 x 1.57 inches', 'Hair Type': 'Straight', 'Product Dimensions': '5.51 x 5.51 x 1.57 inches; 3.99 Ounces', 'UPC': '655160582479'}\nThey are ok, they do the job.\nHair tie",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Red Carpet Manicure Starter Kits\nReview Date: 2020/08/03\nAverage Rating: 4.0\nProduct Details: {'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nReview Text: Easy to use and worked with my glitter.\nReview Title: Good nail kit\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Marshique Touch Fit Glitter Cream Shadow 0.2Oz (Peach Warm Orange Tangerine Sorbet) - Warm Orange Base, Opal Pearl Gold Sparkle Eyeshadow, Waterproof and Longlasting for Under Fat Eye\nReview Date: 2020/08/03\nStore: Marshique\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Marshique', 'Item Form': 'Cream,Powder,Creamy', 'Finish Type': 'Luminous,Sheer,Glitter,Shimmer', 'Special Feature': 'Waterproof', 'Number of Items': '1', 'Package Dimensions': '1.6 x 1.6 x 0.7 inches; 0.2 Ounces', 'Item model number': '0000'}\nReview Text: Did not see that this was a cream, but I'm very impressed lasted all day and it looked great.\nReview Title: Great color\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 9 PCS Professional Hair Cutting Scissors Set, Hair Cutting Set, Thinning Scissors, Razor Comb, Clip, Shawl, Hairdressing Scissors Set, Haircut Set, Suitable For Family (9 PCS Hair Cutting Set)\nReview Date: 2020/08/03\nStore: FVILIPUS\nAverage Rating: 3.8\nProduct Details: {'Package Dimensions': '7.99 x 7.32 x 1.22 inches; 8.57 Ounces', 'Manufacturer': 'FVILIPUS'}\nReview Text: Cheaply made and the cloth was dirty.\nReview Title: Nope\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin\nReview Date: 2020/08/19\nStore: Wonder4\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Wonder4', 'Is Electric': 'Yes', 'Item Form': 'Roller', 'Style': 'Modern', 'Unit Count': '11.4 Ounce'}\nReview Text: Tried using it made my heels hurt for 2 days\nReview Title: Ouch\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Qiray Hair Ties Hair Accessories Set For Girls and Women,Large Retractable Cotton,18 Colors 36 Pieces.\nReview Date: 2021/03/08\nStore: Qiray\nAverage Rating: 4.2\nProduct Details: {'Material': 'Cotton', 'Item Form': 'Elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '5.51 x 5.51 x 1.57 inches', 'Hair Type': 'Straight', 'Product Dimensions': '5.51 x 5.51 x 1.57 inches; 3.99 Ounces', 'UPC': '655160582479'}\nReview Text: They are ok, they do the job.\nReview Title: Hair tie\nRating: 3.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe analyzed purchase history reveals a preference for beauty and personal care products, particularly those associated with nail care and makeup. The individual consistently favors products that enhance aesthetics and self-care routines. This person appears to prioritize ease of use, as evidenced by positive reviews for products that are simple and effective in achieving desired effects, like a nail kit that worked well with glitter.\n\nCommon themes indicate a blend of cosmetic applications, with a particular inclination towards products that offer vibrant colors and lasting performance, such as eyeshadows. However, the individual shows varying satisfaction levels with quality, particularly for hair care tools, where dissatisfaction arises from perceived poor craftsmanship.\n\nQuality preference seems to fluctuate, with high ratings for easy-to-use beauty items yet disappointment in value for tools that lacked durability and necessary features. The individual expresses some price sensitivity, particularly in regard to hair products, revealing a tendency to expect more from budget purchases. Overall, core preferences encompass a search for beauty tools that balance functionality and quality, with an underlying expectation that beauty products should deliver reliable and aesthetic results at reasonable price points.",
+  "target_interaction": {
+    "rating": 3.0,
+    "title": "More instructions",
+    "text": "I need a video on how to use this,  I have pcos so I want to get ride or my facial hair but I would rather have a in depth video on how to use it before it goes anywhere near my face.",
+    "images": [],
+    "asin": "B08BCK4KPS",
+    "parent_asin": "B08BCK4KPS",
+    "user_id": "AFUZMUKWSQFJQHJ5ZKAXIQ5JSBGQ",
+    "timestamp": "2021-03-08 02:14:06.680000",
+    "helpful_vote": 1,
+    "verified_purchase": false,
+    "main_category": "All Beauty",
+    "title_meta": "Permanent Hair Removal for Women,Painless Hair Removal device with 500000 flashes ice function,Laser Hair Removal is used for Body Armpits Back Legs Arms Face Bikini Line (Green)",
+    "average_rating": 3.1,
+    "rating_number": 20,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41WsB1BQgoL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41WsB1BQgoL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/61F0TYXVXgL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/511J04GL5ES._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/511J04GL5ES.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71DxY-p9oNS._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/419h2NxAA2S._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/419h2NxAA2S.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/61RGPNUP9eS._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41f2zg9zbkS._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41f2zg9zbkS.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/71NSYuvpq9S._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41aemqIdp0S._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41aemqIdp0S.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/61cT0XsdadS._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41FuY1c427S._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41FuY1c427S.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/61bAcgQJbKS._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51B43IQfXoS._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51B43IQfXoS.jpg",
+        "variant": "PT06",
+        "hi_res": "https://m.media-amazon.com/images/I/71AP7Mr2-gS._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41WsB1BQgoL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41WsB1BQgoL.jpg",
+        "variant": "PT07",
+        "hi_res": "https://m.media-amazon.com/images/I/61F0TYXVXgL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41WsB1BQgoL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41WsB1BQgoL.jpg",
+        "variant": "PT08",
+        "hi_res": "https://m.media-amazon.com/images/I/61F0TYXVXgL._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "Hibeauty",
+    "categories": [],
+    "details": {
+      "Brand": "Hibeauty",
+      "Included Components": "Charger",
+      "Item Weight": "185 Grams",
+      "Head Type": "Foil",
+      "Package Dimensions": "7.7 x 4.6 x 3.9 inches; 6.53 Ounces",
+      "Item model number": "H-003",
+      "UPC": "087978165764",
+      "Manufacturer": "hibeauty"
+    },
+    "bought_together": null
+  }
+}

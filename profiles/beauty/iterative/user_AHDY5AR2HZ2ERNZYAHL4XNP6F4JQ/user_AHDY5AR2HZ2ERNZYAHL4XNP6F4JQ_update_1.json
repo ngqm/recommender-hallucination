@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Segbeauty empty bottle 290\nReview Date: 2019/09/13\nStore: TruuMe\nAverage Rating: 4.8\nProduct Details: {'Brand': 'Segbeauty', 'Color': 'Clear', 'Material Type Free': 'Dairy Free', 'Item Weight': '3.4 Ounces', 'Bottle Nipple Type': 'Vented', 'Package Dimensions': '7.99 x 3.19 x 2.24 inches; 3.4 Ounces', 'Item model number': 'AM-160083-03', 'UPC': '701822757553 701822760621'}\nReview Text: Works great. It's perfect for adding a little life back into my hair or revitalizing a hairstyle from the day before. I like that it doesn't just drench my hair in fluids. It lightly coats it allowing me better control of how much water, or other liquid, I want on my hair.\nReview Title: A great find\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Segbeauty empty bottle 290\nTruuMe\n{'Brand': 'Segbeauty', 'Color': 'Clear', 'Material Type Free': 'Dairy Free', 'Item Weight': '3.4 Ounces', 'Bottle Nipple Type': 'Vented', 'Package Dimensions': '7.99 x 3.19 x 2.24 inches; 3.4 Ounces', 'Item model number': 'AM-160083-03', 'UPC': '701822757553 701822760621'}\nWorks great. It's perfect for adding a little life back into my hair or revitalizing a hairstyle from the day before. I like that it doesn't just drench my hair in fluids. It lightly coats it allowing me better control of how much water, or other liquid, I want on my hair.\nA great find",
+  "profile": "**User Profile Summary**\n\n- **Hair Care Enthusiast:** Demonstrates a keen interest in products that enhance and revive hairstyles, indicating a focus on hair health and maintenance.\n- **Control in Application:** Prefers products that allow for precise control over application, seeking lightweight options that do not overwhelm the hair.\n- **Positive Review Tendencies:** Tends to provide high ratings for effective products, reflecting a generally optimistic attitude towards their purchases.\n- **Value for Quality:** Engages with quality products, as shown by a high average rating for items purchased, suggesting a preference for reliable brands.\n- **Practical Utility:** Appreciates functionality and practicality, opting for items that serve specific purposes for hair revitalization rather than just aesthetics. \n\nOverall, the user values effectiveness, control, and quality in hair care products, reflecting a thoughtful approach to their personal grooming and maintenance routine.",
+  "metrics": {
+    "rouge1_f": 0.16239316239316237,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07692307692307691,
+    "meteor": 0.13352073085031624,
+    "bleu1": 0.16574585635359115,
+    "bleu2": 0.030344856451720227,
+    "bleu3": 0.008012580047618146,
+    "bleu4": 0.0041231039611216,
+    "bertscore_precision": 0.4101949632167816,
+    "bertscore_recall": 0.42826950550079346,
+    "bertscore_f1": 0.419037401676178
+  }
+}

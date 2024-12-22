@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mary Kay Makeup Finishing Spray by Skindin\u00e4via\nReview Date: 2017/06/19\nStore: Mary Kay\nAverage Rating: 4.6\nProduct Details: {'Item Form': 'Spray', 'Skin Type': 'All', 'Package Information': 'Bottle', 'Brand': 'Mary Kay', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5 x 2 x 5 inches; 3.21 Ounces'}\nReview Text: I loved how this made my makeup look but I don't feel like it made much of difference in longevity. And I am not sure my skin even likes this product because the past few times I have applied it, I would get one or two breakouts. It could be related to something else but the longer I go without this product, the few the problems I have. I prefer the skindinavia lines but don't take my word for it, this product could work for you!\nReview Title: I loved how this made my makeup look but I don't ...\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Mary Kay Makeup Finishing Spray by Skindin\u00e4via\nMary Kay\n{'Item Form': 'Spray', 'Skin Type': 'All', 'Package Information': 'Bottle', 'Brand': 'Mary Kay', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5 x 2 x 5 inches; 3.21 Ounces'}\nI loved how this made my makeup look but I don't feel like it made much of difference in longevity. And I am not sure my skin even likes this product because the past few times I have applied it, I would get one or two breakouts. It could be related to something else but the longer I go without this product, the few the problems I have. I prefer the skindinavia lines but don't take my word for it, this product could work for you!\nI loved how this made my makeup look but I don't ...",
+  "profile": "**User Profile Summary:**\n\n- **Makeup Enthusiast**: Shows a strong interest in makeup application and finishing products, indicating a desire for aesthetics and presentation.\n  \n- **Spray Preference**: Favoring spray-form makeup products suggests a preference for lightweight and easy-to-apply solutions.\n\n- **Skin Sensitivity**: Experiences breakouts with some products, indicating a sensitivity to certain ingredients. This suggests caution towards new or unfamiliar products.\n\n- **Brand Loyalty**: Prefers specific brands (like Skindin\u00e4via) indicating a tendency to favor trusted names over experimenting with new brands.\n\n- **Mixed Experience**: While appreciating the visual effects of products, the user has concerns regarding performance and potential skin reactions, leading to a critical evaluation of efficacy.\n\n- **Cautious Experimentation**: The user is open to trying different products but seems to prefer items that have a good reputation and proven track record, especially regarding skin compatibility.\n\nOverall, the user values the visual enhancement that makeup provides but prioritizes skin health and experiences cautiousness toward new products due to previous adverse reactions.",
+  "metrics": {
+    "rouge1_f": 0.25913621262458475,
+    "rouge2_f": 0.013377926421404682,
+    "rougeL_f": 0.11960132890365449,
+    "meteor": 0.14394350896252037,
+    "bleu1": 0.18867924528301888,
+    "bleu2": 0.02990341841029119,
+    "bleu3": 0.007523284062474349,
+    "bleu4": 0.003778061503419049,
+    "bertscore_precision": 0.418709933757782,
+    "bertscore_recall": 0.42046934366226196,
+    "bertscore_f1": 0.41958779096603394
+  }
+}

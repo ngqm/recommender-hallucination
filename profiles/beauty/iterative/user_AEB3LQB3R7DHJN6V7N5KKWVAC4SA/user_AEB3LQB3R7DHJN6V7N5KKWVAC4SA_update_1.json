@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Rosalind Neon Nail Polish Set,Classic Neon Color Series Soak Off UV LED Lamp,Soak Off UV/LED (Neon Color Series)\nReview Date: 2020/10/25\nStore: nonbranded\nAverage Rating: 3.4\nProduct Details: {'Brand': 'nonbranded', 'Item Form': 'Gel', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '24.00 Count', 'Liquid Volume': '0.33 Fluid Ounces', 'Package Dimensions': '11.26 x 10.51 x 3.7 inches; 2.23 Pounds'}\nReview Text: I did my test swatches and most of the colors are a close match to what they show. A few are way off, but still pretty colors. All of my swatches are two coats. The only issue I had was with the black, which isn't shown in my photos. Even after at least 5 minutes, I couldn't get the color to cure. The bottles seem to be pretty full and none are goopy or thick. Although there are quite a few reds and pinks, it's still a good selection, especially for the price.\nReview Title: Good set of gel polishes at a great price!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Rosalind Neon Nail Polish Set,Classic Neon Color Series Soak Off UV LED Lamp,Soak Off UV/LED (Neon Color Series)\nnonbranded\n{'Brand': 'nonbranded', 'Item Form': 'Gel', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '24.00 Count', 'Liquid Volume': '0.33 Fluid Ounces', 'Package Dimensions': '11.26 x 10.51 x 3.7 inches; 2.23 Pounds'}\nI did my test swatches and most of the colors are a close match to what they show. A few are way off, but still pretty colors. All of my swatches are two coats. The only issue I had was with the black, which isn't shown in my photos. Even after at least 5 minutes, I couldn't get the color to cure. The bottles seem to be pretty full and none are goopy or thick. Although there are quite a few reds and pinks, it's still a good selection, especially for the price.\nGood set of gel polishes at a great price!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys a variety of nail polish colors, especially vibrant shades (neon, reds, pinks).\n- **Formulation Insight:** Favors gel nail products with a shimmery finish.\n- **Quality Expectations:** Looks for closely matching colors to product displays and values good consistency in product formulation (e.g., avoiding goopy textures).\n- **Experience Level:** Intermediate user, able to perform swatches and evaluate application results.\n- **Price Sensitivity:** Seeks value for money, appreciating affordable options without compromising too much on quality.\n- **Curing Performance:** Values effective curing time, expressing concern over performance issues, particularly with darker colors like black.\n- **Visual Appeal:** Prioritizes aesthetic qualities in nail art products, likely enjoys experimenting with designs.\n\nOverall, the user emphasizes finding well-priced products that offer a wide color selection and reliable performance in application and curing.",
+  "metrics": {
+    "rouge1_f": 0.2525597269624573,
+    "rouge2_f": 0.027491408934707907,
+    "rougeL_f": 0.12286689419795221,
+    "meteor": 0.18170900261239045,
+    "bleu1": 0.2556501950094193,
+    "bleu2": 0.04978905935167686,
+    "bleu3": 0.010650356560164914,
+    "bleu4": 0.004932196446906578,
+    "bertscore_precision": 0.44932428002357483,
+    "bertscore_recall": 0.4654567837715149,
+    "bertscore_f1": 0.4572482705116272
+  }
+}

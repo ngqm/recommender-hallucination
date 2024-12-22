@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vera Bradley Fragrance Coffret 4 Piece Set\nReview Date: 2018/11/30\nStore: Vera Bradley\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: i really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nReview Title: brought it for two scents\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Vera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** The user has a strong love for cotton and vanilla scents, favoring fresh and sweet aromas that evoke comfort. She actively seeks out sets that prominently feature these fragrances.\n\n- **Product Interest:** She values multipack or set options and prefers curated collections that align with her cotton and vanilla preferences, especially items that may be challenging to find online.\n\n- **Shopping Behavior:** The user is inclined towards discovering unique or hard-to-find products, showcasing her enthusiasm for special items that fit her fragrance profiles. Her recent purchase highlights this pursuit, as she specifically sought out a set featuring her favorite scents.\n\n- **Reviewing Habits:** The user typically leaves positive reviews and emphasizes product quality. While her ratings are generally high, her more recent reviews reflect a slightly more critical perspective, indicating a nuanced approach to evaluating her experiences.\n\nRecent interactions reaffirm her engagement with fragrance sets that resonate with her scent preferences, particularly highlighting her passion for comforting fragrances. She continues to appreciate the variety offered within those profiles and is dedicated to exploring unique finds that align with her tastes. Her latest purchase reinforces her ongoing interest in curated fragrance collections centered around cotton and vanilla.",
+  "metrics": {
+    "rouge1_f": 0.22093023255813954,
+    "rouge2_f": 0.06432748538011696,
+    "rougeL_f": 0.1569767441860465,
+    "meteor": 0.15590623638072537,
+    "bleu1": 0.12295081967213112,
+    "bleu2": 0.07113159996271998,
+    "bleu3": 0.05005955827299859,
+    "bleu4": 0.03194247018295423,
+    "bertscore_precision": 0.47364193201065063,
+    "bertscore_recall": 0.4117547869682312,
+    "bertscore_f1": 0.44053545594215393
+  }
+}

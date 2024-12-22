@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/25\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael J. Bassett'], 'Producers': ['Don Carmody', 'Samuel Hadida'], 'Starring': ['Adelaide Clemens', 'Kit Harrington', 'Deborah Kara Unger']}\nReview Text: Its lacks the cutting edge the original had, lame plot and bad acting inthe main roles. I wouldnt recommend it unless you really like horror movies..\nReview Title: Its lacks the cutting edge\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael J. Bassett'], 'Producers': ['Don Carmody', 'Samuel Hadida'], 'Starring': ['Adelaide Clemens', 'Kit Harrington', 'Deborah Kara Unger']}\nIts lacks the cutting edge the original had, lame plot and bad acting inthe main roles. I wouldnt recommend it unless you really like horror movies..\nIts lacks the cutting edge",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Strong interest in horror movies, though discerning in quality; prefers well-crafted narratives and performances.\n- **Critical Perspective:** Tends to rate content based on plot depth and acting quality; has a critical eye for sequels and derivative works.\n- **Content Sensitivity:** Aware of and considers content advisories; values transparency regarding themes like violence and language.\n- **Rating Pattern:** Generally leans towards a moderate rating system, as seen with multiple products; prefers to communicate disappointment or lack of engagement when expectations are not met.\n- **Viewing Language:** Prefers English audio with English subtitles, indicating a focus on understanding dialogue and nuances.\n  \nOverall, the user demonstrates a thoughtful approach to media consumption, aiming for meaningful and impactful storytelling, particularly in the horror genre.",
+  "metrics": {
+    "rouge1_f": 0.1978021978021978,
+    "rouge2_f": 0.03333333333333334,
+    "rougeL_f": 0.10989010989010987,
+    "meteor": 0.10593220338983052,
+    "bleu1": 0.12790697674418605,
+    "bleu2": 0.027349479264656425,
+    "bleu3": 0.007605884639217833,
+    "bleu4": 0.0040168963391384056,
+    "bertscore_precision": 0.4214537739753723,
+    "bertscore_recall": 0.4088088572025299,
+    "bertscore_f1": 0.4150350093841553
+  }
+}

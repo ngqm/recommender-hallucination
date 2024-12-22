@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/09\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Ford'], 'Producers': ['Sol M. Wurtzel'], 'Starring': ['Will Rogers', 'Anita Louise', 'Tom Brown'], 'Studio': ['Reel Enterprises']}\nReview Text: Loved the twist of the plot.\nReview Title: Excellent Movie Depicting a Long Gone Era!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Squanto: A Warrior's Tale\nDrama, Adventure, Thrilling, Ambitious\n['Squanto, a young warrior abducted from his homeland and enslaved, must battle impossible hazards on a desperate journey home. Driven by a passion to be free, he risks everything to escape his captors.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Xavier Koller'], 'Producers': ['Kathryn F. Galan'], 'Starring': ['Adam Beach', 'Eric Schweig', 'Michael Gambon']}\nA historically inaccurate piece of trash.  Whoever was the consultant/scriptwriter of this film, is an ignoramus of history.  After watching this film in agony on Thanksgiving eve,  I wanted to fall on my spear.\nWorst Thanksgiving movie ever!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Ford'], 'Producers': ['Sol M. Wurtzel'], 'Starring': ['Will Rogers', 'Anita Louise', 'Tom Brown'], 'Studio': ['Reel Enterprises']}\nLoved the twist of the plot.\nExcellent Movie Depicting a Long Gone Era!",
+  "profile": "**Updated User Profile Summary:**\n\n- **Interests in Film Genres:** The user continues to exhibit a strong preference for drama and adventure films, especially those featuring intricate plots that leave a lasting impression. Their recent interaction highlights an appreciation for storytelling within historical contexts.\n\n- **Value for Historical Accuracy:** While the user has previously stressed the importance of authenticity in historical portrayals, their latest review suggests a slight shift, as they have expressed enjoyment of a film that captures a bygone era, indicating an ability to appreciate films set in historical contexts even if they may not focus entirely on factual representation.\n\n- **Critical Reviewing Style:** The user maintains a critical eye, offering insightful feedback on films. They continue to balance their ratings by considering both the artistic scope and emotional impact of narratives, as demonstrated by their recent high rating due to a compelling plot twist.\n\n- **Emotional Engagement:** Their deep emotional investment remains evident, with their review reflecting a genuine connection to the themes of the film and its portrayal of its era.\n\n- **Expectations for Quality:** The user clearly anticipates quality and substance but is open to films that successfully engage them, showcasing their evolving criteria for what constitutes a worthwhile viewing experience.\n\n**Overall Trends:** The user prioritizes emotional engagement and narrative complexity in cinema, while balancing their appreciation for historical accuracy with an openness to imaginative storytelling.",
+  "metrics": {
+    "rouge1_f": 0.1712707182320442,
+    "rouge2_f": 0.005555555555555556,
+    "rougeL_f": 0.09944751381215469,
+    "meteor": 0.12053200332502079,
+    "bleu1": 0.16666666666666669,
+    "bleu2": 0.02435405120717416,
+    "bleu3": 0.005961123683107409,
+    "bleu4": 0.0029518551927749286,
+    "bertscore_precision": 0.3904964029788971,
+    "bertscore_recall": 0.3986515402793884,
+    "bertscore_f1": 0.39453184604644775
+  }
+}

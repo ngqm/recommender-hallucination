@@ -1,0 +1,51 @@
+{
+  "user_id": "AFJGA6O6WRS55TQUYU65JX6EYYHA",
+  "summary": "=== Purchase Information ===\nProduct Title: Sleek Matte Me Lip Cream\nReview Date: 2015/05/24\nAverage Rating: 3.4\nProduct Details: {'Item Form': 'Cream', 'Finish Type': 'Matte', 'Skin Type': 'All', 'Unit Count': '1 Count', 'Package Dimensions': '4.25 x 0.6 x 0.6 inches'}\nReview Text: Don't Like the way it dryes on my lips. Fast shipping tho.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Barry M Cosmetics Limited Edition Starry Eyed Shadow and Blush Palette 9.2g\nReview Date: 2015/09/19\nAverage Rating: 4.7\nProduct Details: {'Product Dimensions': '5.91 x 2.76 x 0.79 inches; 2.12 Ounces', 'Item model number': 'ESBP6', 'UPC': '787734410939'}\nReview Text: Great color payoff but the pallet is very light weight and shadows are small\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Barry M Cosmetics - Dazzle Dust Eye Shadow (Venus) 104 by BeautyCenter\nReview Date: 2015/11/17\nAverage Rating: 5.0\nProduct Details: {'Product Dimensions': '0.39 x 0.39 x 0.39 inches; 1.41 Ounces', 'Item model number': 'DD104'}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: MSmask Waterproof Women Lady Peel-off Lip Gloss Lipstick Liquid Tint Long Lasting Lip Tattoo (Lovely Peach)\nReview Date: 2015/11/21\nAverage Rating: 3.1\nProduct Details: {'Skin Type': 'All', 'Item Form': 'Liquid', 'Finish Type': 'Glossy', 'Age Range (Description)': 'Adult', 'Target Audience': 'Women', 'Is Discontinued By Manufacturer': 'No', 'UPC': '600686175230'}\nReview Text: Fun and easy\nReview Title: Pretty out come\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Sleek Matte Me Lip Cream\n{'Item Form': 'Cream', 'Finish Type': 'Matte', 'Skin Type': 'All', 'Unit Count': '1 Count', 'Package Dimensions': '4.25 x 0.6 x 0.6 inches'}\nDon't Like the way it dryes on my lips. Fast shipping tho.\nFive Stars\nBarry M Cosmetics Limited Edition Starry Eyed Shadow and Blush Palette 9.2g\n{'Product Dimensions': '5.91 x 2.76 x 0.79 inches; 2.12 Ounces', 'Item model number': 'ESBP6', 'UPC': '787734410939'}\nGreat color payoff but the pallet is very light weight and shadows are small\nFour Stars\nBarry M Cosmetics - Dazzle Dust Eye Shadow (Venus) 104 by BeautyCenter\n{'Product Dimensions': '0.39 x 0.39 x 0.39 inches; 1.41 Ounces', 'Item model number': 'DD104'}\nLove it\nFive Stars\nMSmask Waterproof Women Lady Peel-off Lip Gloss Lipstick Liquid Tint Long Lasting Lip Tattoo (Lovely Peach)\n{'Skin Type': 'All', 'Item Form': 'Liquid', 'Finish Type': 'Glossy', 'Age Range (Description)': 'Adult', 'Target Audience': 'Women', 'Is Discontinued By Manufacturer': 'No', 'UPC': '600686175230'}\nFun and easy\nPretty out come",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Sleek Matte Me Lip Cream\nReview Date: 2015/05/24\nAverage Rating: 3.4\nProduct Details: {'Item Form': 'Cream', 'Finish Type': 'Matte', 'Skin Type': 'All', 'Unit Count': '1 Count', 'Package Dimensions': '4.25 x 0.6 x 0.6 inches'}\nReview Text: Don't Like the way it dryes on my lips. Fast shipping tho.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Barry M Cosmetics Limited Edition Starry Eyed Shadow and Blush Palette 9.2g\nReview Date: 2015/09/19\nAverage Rating: 4.7\nProduct Details: {'Product Dimensions': '5.91 x 2.76 x 0.79 inches; 2.12 Ounces', 'Item model number': 'ESBP6', 'UPC': '787734410939'}\nReview Text: Great color payoff but the pallet is very light weight and shadows are small\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Barry M Cosmetics - Dazzle Dust Eye Shadow (Venus) 104 by BeautyCenter\nReview Date: 2015/11/17\nAverage Rating: 5.0\nProduct Details: {'Product Dimensions': '0.39 x 0.39 x 0.39 inches; 1.41 Ounces', 'Item model number': 'DD104'}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: MSmask Waterproof Women Lady Peel-off Lip Gloss Lipstick Liquid Tint Long Lasting Lip Tattoo (Lovely Peach)\nReview Date: 2015/11/21\nAverage Rating: 3.1\nProduct Details: {'Skin Type': 'All', 'Item Form': 'Liquid', 'Finish Type': 'Glossy', 'Age Range (Description)': 'Adult', 'Target Audience': 'Women', 'Is Discontinued By Manufacturer': 'No', 'UPC': '600686175230'}\nReview Text: Fun and easy\nReview Title: Pretty out come\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual's purchase history reveals a mixed but distinct set of preferences in cosmetics. A notable inconsistency in ratings indicates a sensitivity to product performance, particularly regarding texture and application; they expressed dissatisfaction with drying effects in lip products while praising color payoff in eye makeup. \n\nCommon themes illustrate a strong inclination towards vibrant colors and positive aesthetics, particularly in eyeshadows, suggesting a preference for products that enhance visual appeal. Despite finding some items lightweight or poorly formulated, the individual generally favors high-quality products, evidenced by multiple 5-star reviews, especially for eyeshadow.\n\nPrice sensitivity appears minimal, as the individual seems willing to invest in more expensive alternatives when satisfied with the quality, suggesting they prioritize performance over budget constraints. This is complemented by a favorable sentiment towards quick shipping, indicating an appreciation for efficient service in their purchasing experience.\n\nIn summary, the core preferences reflect a focus on effective, aesthetically pleasing makeup products, particularly in eyeshadows, with variable satisfaction levels based on application and finish. They value quality and color effectiveness, while being less concerned about price, and appreciate efficient delivery.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Watch out for the edges",
+    "text": "Fast shipping cute designs just have to be careful around the edges they are sharp and will cut",
+    "images": [],
+    "asin": "B017UAO4WC",
+    "parent_asin": "B017UAO4WC",
+    "user_id": "AFJGA6O6WRS55TQUYU65JX6EYYHA",
+    "timestamp": "2016-03-23 04:00:08",
+    "helpful_vote": 1,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Malloom 1pc Nail Stamping Plates Fashion Polish Image Painting Tools 42Styles",
+    "average_rating": 4.6,
+    "rating_number": 6,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/5140+jGPpZL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/5140+jGPpZL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71kHKIa8QAL._SL1265_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51iq6f0pIfL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51iq6f0pIfL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71Pmu5KSrQL._SL1150_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41uL1S-DdmL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41uL1S-DdmL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/61uy7cE8GAL._SL1150_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [],
+    "details": {},
+    "bought_together": null
+  }
+}

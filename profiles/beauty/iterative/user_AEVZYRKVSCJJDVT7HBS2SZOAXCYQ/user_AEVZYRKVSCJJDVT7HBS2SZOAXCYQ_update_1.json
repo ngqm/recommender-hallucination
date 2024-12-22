@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sky Organics Fractionated Coconut Oil for Body & Face, 100% Pure to Condition, Soften & Smooth, 16 fl. Oz\nReview Date: 2016/12/06\nStore: Sky Organics\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Sky Organics', 'Scent': 'Coconut', 'Item Form': 'Oil', 'Unit Count': '16.00 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.62 x 2.56 x 2.4 inches; 1 Pounds', 'UPC': '856045007289', 'Manufacturer': 'Sky Organics'}\nReview Text: So far so good! This works well mixed with lotion on my son for his eczema that we can't seem to get under control. This definitely helps though!\nReview Title: So far so good! This works well mixed with lotion on my ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sky Organics Fractionated Coconut Oil for Body & Face, 100% Pure to Condition, Soften & Smooth, 16 fl. Oz\nSky Organics\n{'Brand': 'Sky Organics', 'Scent': 'Coconut', 'Item Form': 'Oil', 'Unit Count': '16.00 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.62 x 2.56 x 2.4 inches; 1 Pounds', 'UPC': '856045007289', 'Manufacturer': 'Sky Organics'}\nSo far so good! This works well mixed with lotion on my son for his eczema that we can't seem to get under control. This definitely helps though!\nSo far so good! This works well mixed with lotion on my ...",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Shows a strong inclination towards natural and organic skincare products, specifically oils that serve multi-functional purposes. \n- **Concern Areas:** Prioritizes products that address skin issues, particularly sensitive skin conditions like eczema, indicating a focus on health and wellness in skincare.\n- **Usage Context:** Interested in products that can be combined with other items (e.g., lotions) for enhanced effects, suggesting a proactive approach to skincare routines.\n- **Value on Quality:** Consistently seeks high-rated products (average rating of 4.7), indicating a preference for effective solutions that yield positive results.\n- **Family-oriented:** Engages in purchasing decisions that benefit not just personal needs but also the needs of family members, such as children with specific skin health challenges. \n\nOverall, the user prefers effective, natural skincare solutions that can cater to personal and family needs while addressing specific skin conditions.",
+  "metrics": {
+    "rouge1_f": 0.15702479338842976,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09090909090909093,
+    "meteor": 0.12083605486610058,
+    "bleu1": 0.14736842105263157,
+    "bleu2": 0.008830215713766958,
+    "bleu3": 0.0034614781322454585,
+    "bleu4": 0.00217013020933546,
+    "bertscore_precision": 0.40352433919906616,
+    "bertscore_recall": 0.4011796712875366,
+    "bertscore_f1": 0.4023486077785492
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/28\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: I love the character development and the great acting, bringing it to life and building relationships among the characters.\nReview Title: Downton Abbey; building characters and relationships among them.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Producers': ['Mick Kaczorowski', 'Caroline Hawkins', 'Mark Wild', 'Chris Barker', 'Simon Willock', 'Clare Birks', 'Anne Sommerfield', 'Lucinda Axelsson', 'Renoir Tuahene', 'Anne Somerville'], 'Studio': ['Animal Planet']}\nI loved viewing this series. Please provide a wider selection of stills with the names of the Meerkats on the photographs for your loyal Meerkat enthusiasts!\nI love the Meerkat series!\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nI love the character development and the great acting, bringing it to life and building relationships among the characters.\nDownton Abbey; building characters and relationships among them.",
+  "profile": "**User Summary:**\n\n- **Interest in Wildlife and Drama:** The user maintains a strong enthusiasm for wildlife-related content, particularly series focused on animal behaviors and interactions, as demonstrated by their positive review of a Meerkat series. Recently, they also engaged with drama series, showcasing a diverse interest in storytelling across genres.\n\n- **Visual Engagement:** They express a desire for enhanced visual content, specifically requesting more stills with identifying information for wildlife documentaries, indicating a preference for visual representations that enrich their viewing experience.\n\n- **Content Enthusiasm and Character Development:** The user rates their experiences highly, suggesting they engage with high-quality productions and enjoy immersive storytelling. Their recent interaction highlights a particular appreciation for character development and relationship dynamics in narratives, indicating a broader engagement with storytelling, beyond just wildlife themes.\n\n- **Loyalty to Series and Diverse Genres:** Their request for a wider selection of materials reflects a commitment to supporting and engaging with content they enjoy, suggesting they may be a loyal fan of similar series or franchises, both within wildlife documentaries and dramatic series.\n\nThis user profile indicates a passionate viewer who values both the educational and entertainment aspects of content, seeking deeper engagement through visuals, detailed narratives, and compelling character arcs.",
+  "metrics": {
+    "rouge1_f": 0.1762917933130699,
+    "rouge2_f": 0.04892966360856269,
+    "rougeL_f": 0.0911854103343465,
+    "meteor": 0.11616227621468253,
+    "bleu1": 0.17338709677419356,
+    "bleu2": 0.07493848419696693,
+    "bleu3": 0.04091337614757808,
+    "bleu4": 0.02299362625496183,
+    "bertscore_precision": 0.3960137367248535,
+    "bertscore_recall": 0.43398594856262207,
+    "bertscore_f1": 0.414131224155426
+  }
+}

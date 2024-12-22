@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Punisher: War Zone\nReview Date: 2013/12/14\nCategories: Suspense, Drama, Gritty, Serious\nProduct Description: ['Continuing his crusade to punish violent criminals in America, former FBI agent Frank Castle arrives in New York to take on a scarred villain who plots to take control of the underworld.']\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lexi Alexander'], 'Producers': ['Gale Anne Hurd'], 'Starring': ['Ray Stevenson', 'Dominic West', 'Julie Benz']}\nReview Text: Fast paced enjoyable movie. Too much computer generated material for this old dog, otherwise a good flick. I recommend it.Thanks.\nReview Title: Action Packed\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Punisher: War Zone\nSuspense, Drama, Gritty, Serious\n['Continuing his crusade to punish violent criminals in America, former FBI agent Frank Castle arrives in New York to take on a scarred villain who plots to take control of the underworld.']\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lexi Alexander'], 'Producers': ['Gale Anne Hurd'], 'Starring': ['Ray Stevenson', 'Dominic West', 'Julie Benz']}\nFast paced enjoyable movie. Too much computer generated material for this old dog, otherwise a good flick. I recommend it.Thanks.\nAction Packed",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** Enjoys suspenseful and dramatic narratives with a gritty and serious tone. Shows a clear interest in action-packed content featuring themes of crime and justice.\n\n- **Content Preferences:** Values fast-paced storytelling. Prefers narratives that engage with darker themes, such as violence and realism, while also appreciating a well-executed visual experience, despite some reservations about excessive computer-generated content.\n\n- **Rating Trends:** Tends to give ratings around 4 stars, indicating a tendency for positive feedback but with critical observations about production choices.\n\n- **Language and Subtitles:** Prefers content in English and values accessibility through subtitles.\n\nOverall, this user demonstrates a strong affinity for thrilling, action-oriented films with depth, along with a critical eye for production quality.",
+  "metrics": {
+    "rouge1_f": 0.22641509433962265,
+    "rouge2_f": 0.028571428571428574,
+    "rougeL_f": 0.13207547169811318,
+    "meteor": 0.10624597553122987,
+    "bleu1": 0.1518987341772152,
+    "bleu2": 0.00983619774608751,
+    "bleu3": 0.00395831149912617,
+    "bleu4": 0.002515066956820497,
+    "bertscore_precision": 0.43400949239730835,
+    "bertscore_recall": 0.4483951926231384,
+    "bertscore_f1": 0.4410850703716278
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "interaction_number": 13,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/02/25\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrzej Bartkowiak'], 'Producers': ['Joel Silver', 'Jim Van Wyck'], 'Starring': ['Jet Li', 'Aaliyah', 'Isaiah Washington'], 'Studio': ['WARNER BROS.']}\nReview Text: Great action movie, great cast, supreme cast.\nReview Title: What else to say Jet Li\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jonathan Lynn'], 'Producers': ['Brian Grazer'], 'Starring': ['Steve Martin', 'Dan Aykroyd', 'Phil Hartman'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nGreat movie, excellent cast truly a classic.\nSo super funny\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['universal'], 'Producers': ['Barry Bernardi', 'Michael Bostick', 'Allen Covert', 'Lew Gallo', 'Jack Giarraputo', 'Kevin Grady', 'Ryan Kavanaugh', 'Amanda Morgan Palmer', 'Adam Sandler'], 'Starring': ['Adam Sandler', 'Kevin James', 'Jessica Biel'], 'Studio': ['NBC Universal']}\nGreat movie, excellent cast truly a classic.\nGreat movie!\nDesperado\nSuspense, Western, Intense, Sophisticated\n['A vengeful mariachi player (Antonio Banderas) delivers a bloody, bullet-ridden comeuppance to the drug lord (Joaquim de Almeida) who murdered his girlfriend and shot him through the hand, leaving him unable to play.']\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Rodriguez'], 'Producers': ['Robert Rodriguez', 'Bill Borden'], 'Starring': ['Antonio Banderas', 'Salma Hayek', 'Cheech Marin']}\nGreat movie, excellent cast truly a classic.\nClassic great movie!\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tommy Wirkola'], 'Producers': ['Kelly McCormick', 'David Leitch', 'Guy Danella'], 'Starring': ['David Harbour', 'John Leguizamo', 'Alex Hassell'], 'Studio': ['Universal Pictures']}\nGreat movie, excellent cast truly a classic.\nIntensive movie great film\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Brill'], 'Producers': ['Sid Ganis', 'Jack Giarraputo', 'Sidney Ganis'], 'Starring': ['Jb Smoove', 'Adam Sandler', 'Winona Ryder'], 'Studio': ['COLUMBIA']}\nGreat movie, excellent cast truly a classic.\nSo funny Adam Sandler is great!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Dennis Dugan'], 'Producers': ['Adam Sandler'], 'Starring': ['Adam Sandler', 'Lawrence Tanter', 'Katie Holmes'], 'Studio': ['Columbia Pictures']}\nGreat movie, excellent cast truly a classic.\nAdam Sandler so funny\n{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Verhoeven'], 'Producers': ['Arne Schmidt'], 'Starring': ['Peter Weller', 'Nancy Allen', \"Dan O'Herlihy\"]}\nGreat movie, excellent cast truly a classic.\nOldie but goodie\n{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Polski', '\u65e5\u672c\u8a9e', 'Portugu\u00eas', 'Deutsch', 'Fran\u00e7ais'], 'Subtitles': ['English', '\u0627\u0644\u0639\u0631\u0628\u064a\u0629', '\u0627\u0644\u0639\u0631\u0628\u064a\u0629 (\u0627\u0644\u0639\u0627\u0644\u0645)', 'Dansk', 'Deutsch', '\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Espa\u00f1ol (Espa\u00f1a)', 'Suomi', 'Fran\u00e7ais', '\u05e2\u05d1\u05e8\u05d9\u05ea', '\u0939\u093f\u0928\u094d\u0926\u0940', 'Indonesia', 'Italiano', '\u65e5\u672c\u8a9e', '\ud55c\uad6d\uc5b4', '\ud55c\uad6d\uc5b4(\ub300\ud55c\ubbfc\uad6d)', 'Norsk Bokm\u00e5l', 'Nederlands', 'Polski', 'Polski (Polska)', 'Portugu\u00eas', '\u0420\u0443\u0441\u0441\u043a\u0438\u0439', '\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (\u0420\u043e\u0441\u0441\u0438\u044f)', 'Svenska', 'T\u00fcrk\u00e7e', 'T\u00fcrk\u00e7e (T\u00fcrkiye)', '\u4e2d\u6587\uff08\u7b80\u4f53\uff09', '\u4e2d\u6587\uff08\u7e41\u9ad4\uff09'], 'Directors': ['Dennis Dugan'], 'Producers': ['Sid Ganis', 'Jack Giarraputo'], 'Starring': ['Adam Sandler', 'Jon Stewart', 'JoeyLauren Adams'], 'Studio': ['Columbia Pictures']}\nGreat movie, excellent cast truly a classic.\nSuch a great film\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Tamra Davis'], 'Producers': ['Robert Simonds'], 'Starring': ['Adam Sandler', 'Bradley Whitford', 'Josh Mostel'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nGreat movie, excellent cast truly a classic.\nAdam Sandler so funny\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Dennis Dugan'], 'Producers': ['Robert Simonds'], 'Starring': ['Adam Sandler', 'Christopher McDonald', 'Julie Bowen'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nGreat movie, excellent cast truly a classic.\nTruly a comedy classic\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Field Smith'], 'Producers': ['David B. Householter', 'Jimmy Miller'], 'Starring': ['Mike Vogel', 'Alice Eve', 'Krysten Ritter'], 'Studio': ['Comedy']}\nMovie is great and the cast even better\nFunny movie absolutely hilarious!\nStir Crazy\nComedy, Sassy, Exciting, Feel-good\n['Gene Wilder and Richard Pryor star in this buddy comedy about pals sentenced to jail who find a possible escape through prison rodeo.']\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sidney Poitier'], 'Producers': ['Hannah Weinstein'], 'Starring': ['Gene Wilder', 'Richard Pryor', 'Georg Stanford Brown']}\nTo funny oldie but goodie!\nSuch a classic\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrzej Bartkowiak'], 'Producers': ['Joel Silver', 'Jim Van Wyck'], 'Starring': ['Jet Li', 'Aaliyah', 'Isaiah Washington'], 'Studio': ['WARNER BROS.']}\nGreat action movie, great cast, supreme cast.\nWhat else to say Jet Li",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "What else to say Jet Li",
+    "text": "Great action movie, great cast, supreme cast.",
+    "images": [],
+    "asin": "B009XVHVWW",
+    "parent_asin": "B009XVHVWW",
+    "user_id": "AGUFDVO4TYIFQHQUMDXFHSHH43BA",
+    "timestamp": "2023-02-25 02:03:04.675000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 3537,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13a8432961ce3d31af6af232de1fb6a9cab751b88aed65215d1be24442a03914._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Andrzej Bartkowiak"
+      ],
+      "Producers": [
+        "Joel Silver",
+        "Jim Van Wyck"
+      ],
+      "Starring": [
+        "Jet Li",
+        "Aaliyah",
+        "Isaiah Washington"
+      ],
+      "Studio": [
+        "WARNER BROS."
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

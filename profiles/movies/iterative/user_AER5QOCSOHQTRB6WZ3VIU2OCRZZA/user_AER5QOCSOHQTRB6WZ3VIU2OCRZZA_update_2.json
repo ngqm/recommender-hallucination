@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/05/05\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Producers': ['Not Specified'], 'Starring': ['Rose McIver', 'Malcolm Goodwin', 'Rahul Kohli']}\nReview Text: Love I zombie own all the seasons\nReview Title: Love\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Greg Spence', 'Lisa McAtackney', 'Bryan Cogman', 'Guymon Casady', 'George R.R. Martin', 'Vince Gerardis', 'Chris Newman'], 'Starring': ['Peter Dinklage', 'Lena Headey', 'Emilia Clarke'], 'Studio': ['HBO']}\nLove this show\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Producers': ['Not Specified'], 'Starring': ['Rose McIver', 'Malcolm Goodwin', 'Rahul Kohli']}\nLove I zombie own all the seasons\nLove",
+  "profile": "**User Profile Summary:**\n\n- **Entertainment Preference**: Strong appreciation for high-quality television series, particularly those produced by major studios like HBO, and a growing interest in unique series with strong fanbases.\n- **Content Language**: Prefers content in English, including audio and subtitles.\n- **Rating Pattern**: Consistently gives high ratings (near perfect scores), reflecting a discerning taste and satisfaction with purchased content.\n- **Genre Interest**: Enjoys dramas with complex narratives and character development, indicating an openness to various sub-genres, including those that merge elements of drama and light-hearted storytelling.\n- **Creators & Cast Preferences**: Shows a preference for works by notable directors and writers, as well as popular actors in the industry, demonstrated by positive engagement with diverse casting choices.\n- **Engagement Style**: Engages enthusiastically with content, reflected in glowing reviews that express genuine love for the series owned.\n\nOverall, this user exhibits a strong connection to critically acclaimed series that feature significant creative talent and emotionally compelling stories while embracing a variety of themes and tones in their viewing choices. The recent interaction highlights a strong loyalty to series with quirky narratives, indicating an appreciation for both high drama and unique storytelling.",
+  "metrics": {
+    "rouge1_f": 0.10909090909090909,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07272727272727272,
+    "meteor": 0.06713078070611635,
+    "bleu1": 0.08906882591093117,
+    "bleu2": 0.006017211962461649,
+    "bleu3": 0.0024540016215590823,
+    "bleu4": 0.001568767839265449,
+    "bertscore_precision": 0.3704625964164734,
+    "bertscore_recall": 0.3510914146900177,
+    "bertscore_f1": 0.3605169355869293
+  }
+}

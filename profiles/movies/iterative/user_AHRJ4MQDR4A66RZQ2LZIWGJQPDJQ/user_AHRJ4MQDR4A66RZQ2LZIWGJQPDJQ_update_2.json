@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/07\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Feig'], 'Producers': ['Peter Chernin', 'Jenno Topping', 'Paul Feig', 'Michele Imperato Stabile', 'Dylan Clark'], 'Starring': ['Sandra Bullock', 'Melissa McCarthy', 'Demi\u00e1n Bichir'], 'Studio': ['Fox']}\nReview Text: Rough language but funny. NOT for kids\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Hopkins'], 'Producers': ['Jean Charles Levy', 'Luc Dayan', 'Louis-Philippe Rochon', 'Dominique Seguin', 'Stephen Hopkins', 'Kate Garwood', 'Karsten Brunig', 'Nicolas Manuel'], 'Starring': ['Stephan James', 'Jason Sudeikis', 'Jeremy Irons'], 'Studio': ['Focus Features']}\nGreat movie\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Feig'], 'Producers': ['Peter Chernin', 'Jenno Topping', 'Paul Feig', 'Michele Imperato Stabile', 'Dylan Clark'], 'Starring': ['Sandra Bullock', 'Melissa McCarthy', 'Demi\u00e1n Bichir'], 'Studio': ['Fox']}\nRough language but funny. NOT for kids\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Consistently a positive reviewer with a strong tendency to give high ratings, maintaining an average of 4.7, with a recent review scoring a perfect 5.0.\n- **Media Interest:** Exhibits a robust interest in films, particularly those that provide engaging cinematic storytelling, with a clear preference for comedic elements alongside drama.\n- **Language Accessibility:** Values English audio options, including audio description for enhanced accessibility, and prefers English subtitles, highlighting a commitment to inclusive content consumption.\n- **Director & Producer Recognition:** Demonstrates a penchant for works from specific directors and producers, suggesting a strong appreciation for distinct production styles and recurring talent, reflected in recent interactions.\n- **Diversity in Content:** Enjoys a wide variety of films that effectively mix genres and tone, particularly those featuring notable casts and creative storytelling.\n- **Strong Recommendations:** Actively engages in recommending high-quality content as indicated by the latest review. The user expresses discernment in taste, contributing to a reputation for favorable and thoughtful feedback.\n\nOverall, this user prioritizes well-crafted film experiences with quality performances and inclusive features while actively partaking in content recommendations that align with their refined cinematic preferences.",
+  "metrics": {
+    "rouge1_f": 0.09454545454545456,
+    "rouge2_f": 0.014652014652014652,
+    "rougeL_f": 0.07272727272727272,
+    "meteor": 0.0721290073141925,
+    "bleu1": 0.08571428571428572,
+    "bleu2": 0.005926955847701996,
+    "bleu3": 0.0024360472263455562,
+    "bleu4": 0.001563365184297602,
+    "bertscore_precision": 0.37281715869903564,
+    "bertscore_recall": 0.345044881105423,
+    "bertscore_f1": 0.3583938181400299
+  }
+}

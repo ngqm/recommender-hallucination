@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/05/24\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Lowell'], 'Producers': ['Paul Brooks', 'Peter Safran'], 'Starring': ['Eva Longoria', 'Paul Rudd', 'Lake Bell'], 'Studio': ['WARNER BROS.']}\nReview Text: Ok\nReview Title: Ok\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Lowell'], 'Producers': ['Paul Brooks', 'Peter Safran'], 'Starring': ['Eva Longoria', 'Paul Rudd', 'Lake Bell'], 'Studio': ['WARNER BROS.']}\nOk\nOk",
+  "profile": "The user exhibits a preference for content that includes mature themes, as indicated by the inclusion of factors such as nudity, violence, alcohol use, foul language, and sexual content. They seem to appreciate high-quality production values and are likely drawn to works featuring well-known actors and directors. The consistency in rating, particularly a high score of 5.0 despite the specific content advisory, suggests a tolerance for more provocative or unconventional material. The user engages with English-language media and prefers content with English subtitles, indicating a focus on accessibility. Overall, the user appears to enjoy contemporary, possibly comedic or dramatic films with a mix of humor and serious themes, reflecting a diverse taste in entertainment that embraces both light-hearted and more intense storytelling.",
+  "metrics": {
+    "rouge1_f": 0.18404907975460125,
+    "rouge2_f": 0.09937888198757765,
+    "rougeL_f": 0.147239263803681,
+    "meteor": 0.07552870090634442,
+    "bleu1": 0.10869565217391305,
+    "bleu2": 0.008907294319699265,
+    "bleu3": 0.003878384826411184,
+    "bleu4": 0.0025639215470662008,
+    "bertscore_precision": 0.4082491397857666,
+    "bertscore_recall": 0.3598613142967224,
+    "bertscore_f1": 0.3825311064720154
+  }
+}

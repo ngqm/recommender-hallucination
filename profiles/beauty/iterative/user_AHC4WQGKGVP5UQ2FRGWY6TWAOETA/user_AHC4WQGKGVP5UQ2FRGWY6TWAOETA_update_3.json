@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\nReview Date: 2021/08/07\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: Lightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nReview Title: Highly Moisturizing\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing",
+  "profile": "User Profile Summary:\n\n- **Hair Care Focus**: The user places a strong emphasis on hair care products, particularly those that offer moisturizing and softening benefits suitable for coarse hair. \n- **Product Characteristics**: Prefers lightweight formulas with delightful scents, particularly tropical or sweet fragrances that enhance the overall sensory experience. \n- **Effectiveness**: Values products that deliver tangible results in improving hair texture, consistently seeking solutions that transform coarse hair into soft, manageable locks. \n- **Positive Experience**: Tends to rate products highly when they meet or exceed expectations, showcasing a trend of satisfaction with quality and effectiveness. Recent interactions reinforce their preference for lightweight textures combined with superior moisturizing capabilities. \n- **Recent Interaction**: The user recently purchased a product rated 4.7 and provided a review highlighting its lightweight nature, great fragrance, and ability to significantly soften coarse hair, leading to days of continued softness. Their review title noted \"Highly Moisturizing,\" with a perfect rating of 5.0, reflecting their appreciation for products that deliver on performance and sensory enjoyment.\n\nOverall, the user demonstrates a clear inclination towards effective and pleasant-smelling hair care solutions that ensure lasting hydration and softness, consistently backed by positive past experiences.",
+  "metrics": {
+    "rouge1_f": 0.2576271186440678,
+    "rouge2_f": 0.0273037542662116,
+    "rougeL_f": 0.16271186440677965,
+    "meteor": 0.24107826293075427,
+    "bleu1": 0.17916666666666667,
+    "bleu2": 0.06706644429064951,
+    "bleu3": 0.012363588314995523,
+    "bleu4": 0.0053139971243714975,
+    "bertscore_precision": 0.46495264768600464,
+    "bertscore_recall": 0.4041769504547119,
+    "bertscore_f1": 0.4324398636817932
+  }
+}

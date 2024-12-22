@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/25\nAverage Rating: 4.1\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Doug Warner'], 'Producers': ['Andrew W. Marlowe', 'Rob Bowman'], 'Starring': ['Jon Huertas', 'Tamala Jones', 'Ruben Santiago-Hudson']}\nReview Text: This is a great video.  Fun to watch and you get to know the Actors and see how they relate to each other!  Very fun!!\nReview Title: This is a great video. Fun to watch and you get to ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Barrett', 'Ralph Hemecker', 'Robert Harmon', 'Alex Zakrzewski', 'John Behring', 'Alex Chapple', 'Jackeline Tejada', 'Eric Laneuville', 'Michael Pressman', 'Douglas Aarniokoski'], 'Studio': ['CBS']}\nGreat cast and neat storyline!  Love Tom Seleck!\nFive Stars\n{'Subtitles': ['None available'], 'Directors': ['Doug Warner'], 'Producers': ['Andrew W. Marlowe', 'Rob Bowman'], 'Starring': ['Jon Huertas', 'Tamala Jones', 'Ruben Santiago-Hudson']}\nThis is a great video.  Fun to watch and you get to know the Actors and see how they relate to each other!  Very fun!!\nThis is a great video. Fun to watch and you get to ...",
+  "profile": "**User Profile Summary**\n\nThis user demonstrates a strong preference for high-quality productions featuring talented casts, particularly expressing a fondness for specific actors. They show an inclination towards content that includes varying degrees of mature themes, such as violence, substance use, and strong language. The user appreciates engaging storylines, indicating a preference for narratives that are well-crafted and interesting. Their positive reviews, often coupled with high ratings, suggest they focus on overall entertainment value, character development, and the interpersonal dynamics among actors. Recently, they expressed particular enjoyment in watching videos that allow insight into actors' relationships, highlighting their appreciation for character interactions.\n\nAdditionally, the user favors content with English audio and subtitles, although they appear open to watching without subtitles if the quality is high and the experience engaging. Overall, the user values strong performances, intriguing plots, and an enjoyable viewing experience, while being comfortable with mature content. Their latest interaction reflects an endorsement of productions that are fun and foster a connection with the cast, reinforcing their interest in engaging and entertaining narratives.",
+  "metrics": {
+    "rouge1_f": 0.19787985865724383,
+    "rouge2_f": 0.02135231316725979,
+    "rougeL_f": 0.12014134275618375,
+    "meteor": 0.1088534107402032,
+    "bleu1": 0.17872482195000583,
+    "bleu2": 0.009314318315590788,
+    "bleu3": 0.0034848816439972874,
+    "bleu4": 0.00213425024234382,
+    "bertscore_precision": 0.392493337392807,
+    "bertscore_recall": 0.39987486600875854,
+    "bertscore_f1": 0.39614975452423096
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Bombs, SAZEN Bath Bomb with Natural & Organic Essential Oils, Shea Coconut Butter for Skin Moisturize, Bubble Spa Bath, Birthday Mothers Day Christmas Handmade Gift Set for Women Kids Her Him\nReview Date: 2020/08/27\nStore: SAZEN\nAverage Rating: 4.4\nProduct Details: {'Brand': 'SAZEN', 'Scent': 'Coconut', 'Material Feature': 'Organic Ingredients', 'Unit Count': '24.00 Count', 'Number of Items': '24', 'Package Dimensions': '12.17 x 6.26 x 2.24 inches; 2.65 Pounds', 'Item model number': 'SAZEN 01', 'UPC': '745103723622', 'Manufacturer': 'SAZEN'}\nReview Text: [[VIDEOID:73b249dcdf678ad402a99764551a434d]] When you open the box, you see 18 magical pieces and think this is excellent. Unfortunately, they are super perfume scented, but the perfume goes away in just a moment of two in the bath. I used 2 in one bath and was disappointed that the scent didn't linger for much longer than it did. Especially since the description specifies that it would be great for sinuses! These are more for children who don't enjoy the spa setting as much and just want colorful tubs.\nReview Title: Not Much Scent...\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Bath Bombs, SAZEN Bath Bomb with Natural & Organic Essential Oils, Shea Coconut Butter for Skin Moisturize, Bubble Spa Bath, Birthday Mothers Day Christmas Handmade Gift Set for Women Kids Her Him\nSAZEN\n{'Brand': 'SAZEN', 'Scent': 'Coconut', 'Material Feature': 'Organic Ingredients', 'Unit Count': '24.00 Count', 'Number of Items': '24', 'Package Dimensions': '12.17 x 6.26 x 2.24 inches; 2.65 Pounds', 'Item model number': 'SAZEN 01', 'UPC': '745103723622', 'Manufacturer': 'SAZEN'}\n[[VIDEOID:73b249dcdf678ad402a99764551a434d]] When you open the box, you see 18 magical pieces and think this is excellent. Unfortunately, they are super perfume scented, but the perfume goes away in just a moment of two in the bath. I used 2 in one bath and was disappointed that the scent didn't linger for much longer than it did. Especially since the description specifies that it would be great for sinuses! These are more for children who don't enjoy the spa setting as much and just want colorful tubs.\nNot Much Scent...",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Enjoys bath products, specifically bath bombs.\n- **Scent Preference:** Prefers natural and organic scents but finds overly strong fragrances less appealing, as evidenced by the review expressing disappointment in lasting scent.\n- **Usage Intent:** Seeks products that provide a soothing or spa-like experience, though finds some offerings more suitable for children rather than adults.\n- **Quality Expectations:** Values the quality of ingredients, particularly organic materials, and appears to favor products that are gentle and moisturizing for the skin.\n- **Experience with Products:** Has mixed feelings about product performance, particularly regarding scent longevity and effectiveness in providing a relaxing ambiance.\n- **Gift Consideration:** Considers bath products as potential gifts, indicating a thoughtfulness in selection for various occasions. \n\nThis profile reflects a user who is discerning about bath items, seeking quality and effectiveness while navigating between products more suited for children versus a more adult spa experience.",
+  "metrics": {
+    "rouge1_f": 0.3161290322580645,
+    "rouge2_f": 0.01948051948051948,
+    "rougeL_f": 0.13548387096774192,
+    "meteor": 0.169150756415228,
+    "bleu1": 0.23784028732091184,
+    "bleu2": 0.03338745868931261,
+    "bleu3": 0.008067549727596355,
+    "bleu4": 0.00397070631210758,
+    "bertscore_precision": 0.4088972210884094,
+    "bertscore_recall": 0.4445265829563141,
+    "bertscore_f1": 0.4259681701660156
+  }
+}

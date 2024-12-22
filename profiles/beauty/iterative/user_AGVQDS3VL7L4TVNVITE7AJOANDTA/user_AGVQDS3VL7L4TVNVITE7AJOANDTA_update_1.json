@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Senegalese Twist Crochet Hair Extensions - Natural Black 32 Inch 8 Packs Pre-twisted Synthetic Crochet Braids Pre Looped Crotchet Hair Synthetic Braiding Hair(32 Inch,1B)\nReview Date: 2020/09/10\nStore: ToyoTree\nAverage Rating: 4.2\nProduct Details: {'Brand': 'ToyoTree', 'Material': 'Synthetic', 'Extension Length': '32 Inches', 'Hair Type': 'Thick,Thin', 'Material Feature': 'Natural', 'Package Dimensions': '16 x 7.8 x 1.6 inches; 1.6 Pounds', 'UPC': '781827814338'}\nReview Text: Good quality hair. Enough for a whole head. It\u2019s super long. The twists are pretty. Easy to manage and install. Lightweight. No funny smell.\nReview Title: Senegalese Twist Crochet Hair Extensions Black - 32inch 8Packs\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Senegalese Twist Crochet Hair Extensions - Natural Black 32 Inch 8 Packs Pre-twisted Synthetic Crochet Braids Pre Looped Crotchet Hair Synthetic Braiding Hair(32 Inch,1B)\nToyoTree\n{'Brand': 'ToyoTree', 'Material': 'Synthetic', 'Extension Length': '32 Inches', 'Hair Type': 'Thick,Thin', 'Material Feature': 'Natural', 'Package Dimensions': '16 x 7.8 x 1.6 inches; 1.6 Pounds', 'UPC': '781827814338'}\nGood quality hair. Enough for a whole head. It\u2019s super long. The twists are pretty. Easy to manage and install. Lightweight. No funny smell.\nSenegalese Twist Crochet Hair Extensions Black - 32inch 8Packs",
+  "profile": "The user demonstrates a distinct preference for hair extensions that are both aesthetically pleasing and functional. Key trends from the interaction include:\n\n- **Product Quality:** The user values good quality products, as indicated by the positive review rating and specific praise for the hair's manageability and appearance.\n- **Length and Volume:** A preference for longer hairstyles is clear, with a focus on extensions that offer sufficient volume for a full look.\n- **Ease of Use:** The user appreciates products that are easy to install and manage, suggesting a desire for convenience.\n- **Lightweight Materials:** The preference for lightweight extensions indicates a priority for comfort over extended wear.\n- **Natural Appearance:** The desire for a natural look is emphasized through the praise for the aesthetics of the twists and the absence of unpleasant odors.\n\nOverall, the user appears to be focused on quality, convenience, and aesthetics in their hair extension choices.",
+  "metrics": {
+    "rouge1_f": 0.2033898305084746,
+    "rouge2_f": 0.05982905982905982,
+    "rougeL_f": 0.13559322033898302,
+    "meteor": 0.16393442622950818,
+    "bleu1": 0.1842105263157895,
+    "bleu2": 0.031219527052723132,
+    "bleu3": 0.00803337912321267,
+    "bleu4": 0.004080499188813577,
+    "bertscore_precision": 0.40486493706703186,
+    "bertscore_recall": 0.4312896728515625,
+    "bertscore_f1": 0.41765978932380676
+  }
+}

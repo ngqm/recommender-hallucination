@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/14\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nigel Stafford-Clark'], 'Producers': ['Nigel Stafford-Clark'], 'Starring': ['Gillian Anderson', 'Denis Lawson', 'Charles Dance'], 'Studio': ['BBC America']}\nReview Text: The plot and subplots were interesting and mysterious.  The acting was super! The costumes and setting we're excellent.  Charles D. knows how to craft a good story. PBS does a great job of telling it.\nReview Title: Superb tale.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Starzak', 'Christopher Sadler', 'Jay Grace', 'Lee Wilton', 'Seamus Malone', 'Jean-Philippe Vine', 'Richard Webber', 'Will Becher', 'Mike Mort', 'Dave Osmand'], 'Starring': ['John Sparkes', 'Justin Fletcher', 'Kate Harbour'], 'Studio': ['Aardman Animations']}\nThese shows are so clever. My little 3 year old grand daughter & I had a grand time watching all the high jinks. The humor, the expressions & grumbled by the characters is most enjoyable. I highly recommend this series for all ages.\nShaun the Sheep Season 1\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nigel Stafford-Clark'], 'Producers': ['Nigel Stafford-Clark'], 'Starring': ['Gillian Anderson', 'Denis Lawson', 'Charles Dance'], 'Studio': ['BBC America']}\nThe plot and subplots were interesting and mysterious.  The acting was super! The costumes and setting we're excellent.  Charles D. knows how to craft a good story. PBS does a great job of telling it.\nSuperb tale.",
+  "profile": "User Summary:\n\n- **Content Enjoyment**: This user continues to show a strong preference for clever and humorous animated content suitable for children and families, enjoying shared viewing experiences with grandchildren.\n- **Target Audience**: Engages warmly with content designed for young children and appreciates narratives that are interesting and mysterious.\n- **Language Preference**: Maintains a preference for English audio and subtitles, reinforcing their enjoyment of content in their primary language.\n- **Quality Rating**: Consistently rates content highly, with an average rating of 4.8 and a recent rating of 5.0, suggesting a sustained appreciation for well-crafted stories, excellent acting, and quality production.\n- **Studio Affinity**: Shows a specific appreciation for productions from notable animation studios and high-quality networks, indicating a preference for engaging animated entertainment.\n- **Recommendation Tendency**: Demonstrates a tendency to recommend engaging shows that appeal to a wide age range, emphasizing a focus on family-friendly content that intrigues both children and adults.\n\nOverall, this user values humor, quality animation, compelling storytelling, and content that fosters enjoyable family experiences, particularly with young children, while also appreciating well-developed narratives in various formats.",
+  "metrics": {
+    "rouge1_f": 0.20060790273556228,
+    "rouge2_f": 0.01834862385321101,
+    "rougeL_f": 0.0851063829787234,
+    "meteor": 0.11235955056179774,
+    "bleu1": 0.1863894320114016,
+    "bleu2": 0.05336926761692047,
+    "bleu3": 0.027959706734025938,
+    "bleu4": 0.01703604920348716,
+    "bertscore_precision": 0.39720508456230164,
+    "bertscore_recall": 0.4250413775444031,
+    "bertscore_f1": 0.4106520414352417
+  }
+}

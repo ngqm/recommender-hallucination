@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/03/14\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Frankenheimer'], 'Producers': ['Edward Lewis'], 'Starring': ['Burt Lancaster', 'Kirk Douglas', 'Fredric March'], 'Studio': ['WARNER HOME VIDEO']}\nReview Text: Saw it years ago and with this viewing found it even more exciting and disturbing.  Very well acted and produced.\nReview Title: Thought provoking.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Frankenheimer'], 'Producers': ['Edward Lewis'], 'Starring': ['Burt Lancaster', 'Kirk Douglas', 'Fredric March'], 'Studio': ['WARNER HOME VIDEO']}\nSaw it years ago and with this viewing found it even more exciting and disturbing.  Very well acted and produced.\nThought provoking.",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys thought-provoking and intense narratives that engage with complex themes such as violence and moral ambiguity. Shows a preference for content that includes elements like alcohol use, smoking, and mature language, indicating comfort with adult themes.\n\n- **Quality Appreciation:** Values high-quality production and strong performances. The user likely favors works with reputable directors and acclaimed actors, emphasizing a tendency towards classic cinema.\n\n- **Viewing Experience:** Engages with content that offers a mix of excitement and disturbance, appreciating films that leave a lasting impact. Likely enjoys rewatching films to discover deeper meanings or new insights.\n\n- **Language and Accessibility:** Prefers content in English with available subtitles, indicating a focus on accessibility for nuanced dialogue.\n\n- **Overall Ratings:** Consistently rates content highly, suggesting a discerning taste and an inclination towards cinematic excellence.",
+  "metrics": {
+    "rouge1_f": 0.2127659574468085,
+    "rouge2_f": 0.05376344086021506,
+    "rougeL_f": 0.1382978723404255,
+    "meteor": 0.11513157894736842,
+    "bleu1": 0.1270718232044199,
+    "bleu2": 0.008402110290622754,
+    "bleu3": 0.0034038826170778957,
+    "bleu4": 0.0021695813087220894,
+    "bertscore_precision": 0.4214896559715271,
+    "bertscore_recall": 0.39977312088012695,
+    "bertscore_f1": 0.4103442430496216
+  }
+}

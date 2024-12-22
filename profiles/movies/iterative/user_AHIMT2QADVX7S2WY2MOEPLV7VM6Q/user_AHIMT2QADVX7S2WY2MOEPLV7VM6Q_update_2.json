@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/16\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Starring': ['Helen Mirren', 'Jeremy Irons', 'Hugh Dancy'], 'Studio': ['HBO']}\nReview Text: This is based on a historic novel by Alison Weir, who usually writes factual biographies and so is in the spirit of accuracy. Nice visually. Helen Mirren and Jeremy Irons are of course wonderful. I've watched this five times or more.\nReview Title: Watch this\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Jay Chandrasekhar'], 'Producers': ['Jay Chandrasekhar', 'Mike Nelson', 'Colin Bates'], 'Starring': ['Jay Chandrasekhar', 'Sarah Chalke', 'Selma Blair']}\nI love the cast. The writers are good and I can actually see myself as one of this group. More, please.\nI enjoyed and want more.\n{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Starring': ['Helen Mirren', 'Jeremy Irons', 'Hugh Dancy'], 'Studio': ['HBO']}\nThis is based on a historic novel by Alison Weir, who usually writes factual biographies and so is in the spirit of accuracy. Nice visually. Helen Mirren and Jeremy Irons are of course wonderful. I've watched this five times or more.\nWatch this",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference**: Enjoys comedic films and shows with strong ensemble casts, but also appreciates historical narratives, particularly when adapted from well-regarded literature.\n- **Personal Connection**: Relates to characters and narratives, seeking stories that resonate personally; enjoys content that balances entertainment with a degree of accuracy and depth.\n- **Creativity Appreciation**: Values the contributions of writers and directors, indicating a preference for well-crafted storytelling; shows a particular admiration for visually appealing productions.\n- **Positive Engagement**: Shows enthusiasm for content featuring familiar actors, demonstrating loyalty to specific performers, notably appreciating the performances of acclaimed actors like Helen Mirren and Jeremy Irons.\n- **Desire for Quantity**: Expresses a desire for more content from favorite creators, mirroring an inclination towards franchises or series; willing to revisit content multiple times if it resonates.\n- **Rating Behavior**: Tends to rate content positively when it aligns with personal taste and emotional engagement, reflected in consistent high ratings, especially for productions that blend historical accuracy with strong narrative delivery.\n\nOverall, the user favors humorous, character-driven narratives while also valuing the depth of historical storytelling, prioritizing personal enjoyment and connection in their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.1806020066889632,
+    "rouge2_f": 0.047138047138047146,
+    "rougeL_f": 0.10033444816053512,
+    "meteor": 0.14613732693751472,
+    "bleu1": 0.19028340080971662,
+    "bleu2": 0.062189619688059354,
+    "bleu3": 0.03617959137033874,
+    "bleu4": 0.024960758900977768,
+    "bertscore_precision": 0.441029816865921,
+    "bertscore_recall": 0.41184887290000916,
+    "bertscore_f1": 0.4259401261806488
+  }
+}

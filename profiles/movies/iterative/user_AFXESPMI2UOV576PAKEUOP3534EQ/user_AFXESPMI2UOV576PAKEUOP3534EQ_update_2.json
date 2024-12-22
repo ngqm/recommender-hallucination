@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2022/10/22\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Soderbergh'], 'Producers': ['Jerry Weintraub'], 'Starring': ['George Clooney', 'Brad Pitt', 'Matt Damon'], 'Studio': ['Warner Bros.']}\nReview Text: I\u2019m behind the ball here so I\u2019m just watching this for the first time!! Great showing!!!\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve McQueen'], 'Producers': ['Iain Canning', 'Emile Sherman', 'Steve McQueen', 'Arnon Milchan'], 'Starring': ['Viola Davis', 'Michelle Rodriguez', 'Elizabeth Debicki'], 'Studio': ['20th Century Fox']}\nThis movie was awesome and worth the buy!!!\nMovie was worth the buy\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Soderbergh'], 'Producers': ['Jerry Weintraub'], 'Starring': ['George Clooney', 'Brad Pitt', 'Matt Damon'], 'Studio': ['Warner Bros.']}\nI\u2019m behind the ball here so I\u2019m just watching this for the first time!! Great showing!!!\nGreat movie",
+  "profile": "The user demonstrates a strong appreciation for high-quality films, particularly those with strong narratives and engaging performances. Their preferences continue to align with works that explore violence, mature themes, and complex character development, as indicated by their enjoyment of content with substantial content advisories. The user favors productions by acclaimed directors and studios, reflecting a consistent trend towards critically lauded projects.\n\nTheir recent interaction shows an enthusiastic response to a film featuring notable actors and a respected director, indicating their ongoing interest in those who create transformative viewing experiences. The user rates this film highly, reinforcing their tendency to engage deeply with narratives that resonate both emotionally and intellectually. Their enjoyment of films with prominent male leads alongside their previous inclination towards female-led stories suggests a broader appreciation for diverse storytelling.\n\nOverall, the user's profile showcases a preference for compelling dramas with mature content, strong performances, and reputable filmmakers, emphasizing a desire for films that captivate and provoke thought. This pattern of behavior indicates a consistent trend toward high-quality cinematic experiences that prioritize complex characters and rich narratives.",
+  "metrics": {
+    "rouge1_f": 0.11805555555555557,
+    "rouge2_f": 0.006993006993006993,
+    "rougeL_f": 0.06944444444444445,
+    "meteor": 0.05128205128205128,
+    "bleu1": 0.0742798564673392,
+    "bleu2": 0.005550527840857008,
+    "bleu3": 0.0023418482344212724,
+    "bleu4": 0.0015230927207332261,
+    "bertscore_precision": 0.3707192540168762,
+    "bertscore_recall": 0.368022620677948,
+    "bertscore_f1": 0.36936599016189575
+  }
+}

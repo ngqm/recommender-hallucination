@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/26\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bradley Buecker', 'Alfonso Gomez-Rejon', 'Michael Uppendahl', 'Loni Peristere', 'John J. Gray', 'Jennifer Lynch', 'Gwyneth Horder-Payton', 'Michael Goi', 'Ryan Murphy', 'Michael Lehmann'], 'Starring': ['Lily Rabe', 'Evan Peters', 'Sarah Paulson'], 'Studio': ['FX']}\nReview Text: I love this series, however twisted that makes me. It is funny, horrifying, and psychologically fascinating. The performances are superb and the sets harrowing.\nReview Title: Wonderfully creepy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bradley Buecker', 'Alfonso Gomez-Rejon', 'Michael Uppendahl', 'Loni Peristere', 'John J. Gray', 'Jennifer Lynch', 'Gwyneth Horder-Payton', 'Michael Goi', 'Ryan Murphy', 'Michael Lehmann'], 'Starring': ['Lily Rabe', 'Evan Peters', 'Sarah Paulson'], 'Studio': ['FX']}\nI love this series, however twisted that makes me. It is funny, horrifying, and psychologically fascinating. The performances are superb and the sets harrowing.\nWonderfully creepy",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for dark, psychologically complex narratives that blend humor with horror elements. They enjoy content that features intense themes, as indicated by their appreciation for series that contain violence, frightening scenes, and mature content. The user values high-quality performances and production value, indicating an inclination towards well-crafted storytelling, likely favoring skilled actors and directors. Their enjoyment is characterized by a fascination with the twisted aspects of narratives, as noted in their review. Overall, the user leans towards captivating, unsettling material that provokes thought and engagement while maintaining a sense of humor amidst the horror.",
+  "metrics": {
+    "rouge1_f": 0.18888888888888888,
+    "rouge2_f": 0.02247191011235955,
+    "rougeL_f": 0.1222222222222222,
+    "meteor": 0.09352037408149631,
+    "bleu1": 0.16457396003207653,
+    "bleu2": 0.04583598678831858,
+    "bleu3": 0.01105859773211754,
+    "bleu4": 0.005443407336099777,
+    "bertscore_precision": 0.3925606906414032,
+    "bertscore_recall": 0.4306136965751648,
+    "bertscore_f1": 0.41070765256881714
+  }
+}

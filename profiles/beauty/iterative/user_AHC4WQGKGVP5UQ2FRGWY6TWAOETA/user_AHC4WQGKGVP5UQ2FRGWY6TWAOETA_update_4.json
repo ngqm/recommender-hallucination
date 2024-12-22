@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\nReview Date: 2021/08/07\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: Lightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nReview Title: Highly Moisturizing\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing",
+  "profile": "User Profile Summary:\n\nThe user maintains a strong focus on hair care, particularly seeking out products that offer moisturizing and softening benefits suitable for coarse hair. They show a distinct preference for lightweight formulas that are accompanied by delightful tropical or sweet fragrances, enhancing the overall sensory experience. The effectiveness of products is paramount, as they consistently look for solutions that transform coarse hair into soft, manageable locks.\n\nRecent interactions further reinforce their inclination towards products that deliver tangible results\u2014highlighted by their latest purchase, which was rated 4.7. In their review, they praised the product for its lightweight nature, appealing scent, and notable ability to soften hair significantly, leading to prolonged softness in the days following use. The user\u2019s positive experiences lead them to rate highly when products meet or exceed their expectations, as evidenced by their perfect rating of 5.0 for products that excel in quality and performance.\n\nOverall, the user clearly values effective, pleasant-smelling hair care solutions that ensure lasting hydration and softness, consistently supported by a history of positive interactions and preferences for superior moisturizing capabilities.",
+  "metrics": {
+    "rouge1_f": 0.2222222222222222,
+    "rouge2_f": 0.024844720496894415,
+    "rougeL_f": 0.154320987654321,
+    "meteor": 0.19373866508101678,
+    "bleu1": 0.21287128712871284,
+    "bleu2": 0.08610126543759491,
+    "bleu3": 0.04200874328548909,
+    "bleu4": 0.024705377713393668,
+    "bertscore_precision": 0.41671308875083923,
+    "bertscore_recall": 0.39106863737106323,
+    "bertscore_f1": 0.4034838080406189
+  }
+}

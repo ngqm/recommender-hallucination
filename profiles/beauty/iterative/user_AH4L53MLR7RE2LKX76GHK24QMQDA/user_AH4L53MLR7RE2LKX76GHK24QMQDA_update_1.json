@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nReview Date: 2016/11/15\nStore: Too Faced\nAverage Rating: 4.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nReview Text: Great smell great for travel\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nToo Faced\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nGreat smell great for travel\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** Values travel-friendly beauty products, particularly bronzers with appealing scents.\n- **Quality Emphasis:** Shows a preference for high-quality items that deliver satisfaction, as indicated by a high rating.\n- **Brand Loyalty:** Engaged with a well-known beauty brand, suggesting a tendency to choose established names in the cosmetics industry.\n- **Size Considerations:** Interest in mini or compact sizes for convenience, indicating a practical approach to beauty purchasing.\n- **Positive Feedback:** Consistently rates purchases positively, suggesting a trend towards a more favorable view of products that meet expectations in terms of performance and experience.\n\nOverall, this user favors compact and sensory-rich beauty products from reputable brands, prioritizing convenience and quality in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.06329113924050632,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.0379746835443038,
+    "meteor": 0.09433962264150944,
+    "bleu1": 0.05031446540880505,
+    "bleu2": 0.005643101838528451,
+    "bleu3": 0.002727168934203551,
+    "bleu4": 0.0018989034399479418,
+    "bertscore_precision": 0.38396012783050537,
+    "bertscore_recall": 0.3427898585796356,
+    "bertscore_f1": 0.3622088134288788
+  }
+}

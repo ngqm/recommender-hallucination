@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/01/15\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John T. Kretchmer', 'Rob Spera', 'Joanna Kerns', 'Chris Peppe', 'Kevin Dowling', 'James Bruce', 'Allison Liddi-Brown', 'Carl Lawrence Ludwig', 'John Terlesky', 'Glenn Kershaw'], 'Studio': ['Lifetime']}\nReview Text: I really like all the action and drama in this series. It is somewhat believable. I wish they would hurry up with season 8.\nReview Title: Pretty Cool Show\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Fink', 'J. Miller Tobin', 'Bobby Roth', 'Matt Earl Beesley', 'John Terlesky', 'Sanford Bookstaver', 'Colin Bucksey', 'Matt Shakman', 'John Scott', 'Randy Zisk'], 'Starring': ['Madeleine Stowe', 'Emily VanCamp', 'Gabriel Mann'], 'Studio': ['ABC']}\nThe show is very entertaining. The plot gets a bit hard to follow at times and it feels like a &#34;soap opera&#34; more than a series.\nEntertaining\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John T. Kretchmer', 'Rob Spera', 'Joanna Kerns', 'Chris Peppe', 'Kevin Dowling', 'James Bruce', 'Allison Liddi-Brown', 'Carl Lawrence Ludwig', 'John Terlesky', 'Glenn Kershaw'], 'Studio': ['Lifetime']}\nI really like all the action and drama in this series. It is somewhat believable. I wish they would hurry up with season 8.\nPretty Cool Show",
+  "profile": "**User Summary:**\n\n- **Entertainment Preference:** Enjoys engaging narratives, particularly in television shows with rich storytelling that balance action and drama.\n- **Genre Tendencies:** Prefers dramatic series, demonstrating a liking for soap opera-like plots, though complex narratives can be challenging for comprehension. The recent interaction indicates a continued interest in action-driven storylines.\n- **Language & Accessibility:** Prefers content in English and values English closed captioning for accessibility. This reflects a focus on clear understanding and engagement with the material.\n- **Reviews & Ratings:** Maintains an average rating of 4.7, recently updated to 4.8, showcasing a discerning taste and an inclination to appreciate enjoyable content. The user remains positive in their feedback, although they have shown concern for pacing in series, indicating that while they value action and drama, they also seek coherence in the storytelling.\n\nOverall, the user appreciates well-produced, action-packed shows with substantial drama while displaying a sensitivity to narrative clarity. Their eagerness for new seasons suggests they are actively engaged with their favorite series and look forward to their continuation.",
+  "metrics": {
+    "rouge1_f": 0.20202020202020202,
+    "rouge2_f": 0.02033898305084746,
+    "rougeL_f": 0.10774410774410774,
+    "meteor": 0.10818837505303351,
+    "bleu1": 0.16717145473100783,
+    "bleu2": 0.04588863048871144,
+    "bleu3": 0.020710490916272025,
+    "bleu4": 0.007833285893857386,
+    "bertscore_precision": 0.37717658281326294,
+    "bertscore_recall": 0.42349666357040405,
+    "bertscore_f1": 0.3989968001842499
+  }
+}

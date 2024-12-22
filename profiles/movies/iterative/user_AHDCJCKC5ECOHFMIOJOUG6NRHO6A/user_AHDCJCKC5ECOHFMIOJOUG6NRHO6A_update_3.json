@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/11\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Katt'], 'Producers': ['Clifford Matthews', 'Scott Duthie', 'Glen Stephens'], 'Starring': ['Sam Huntington', 'Charles Durning', 'Caroline Goodall']}\nReview Text: o k nothing special\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Leszek Burzynski'], 'Producers': ['Julie Hartley', 'Patty Hedeen', 'Ken Promersberger', 'Robert Schwartz', 'Maggie Soboil', 'Buffie Stone'], 'Starring': ['Peter Fonda', 'Kris Kristofferson', 'Joseph Mazzello'], 'Studio': ['Lionsgate']}\nheartfelt story-- pretty good actinh\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\ndid not  watch this one it didn't seem to have a story plot\ndid not watch this one it didn't seem to have ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Katt'], 'Producers': ['Clifford Matthews', 'Scott Duthie', 'Glen Stephens'], 'Starring': ['Sam Huntington', 'Charles Durning', 'Caroline Goodall']}\no k nothing special\nThree Stars",
+  "profile": "**User Summary:**\n\nThe user maintains a strong preference for heartfelt narratives, valuing emotional depth in storytelling. While they have historically appreciated strong performances and show a notable interest in productions featuring established talent, recent interactions indicate a shift towards a more discerning outlook. Their average rating has adjusted from 4.4 to 3.9, reflecting their critical stance towards narratives that fail to engage. \n\nIn their latest review, they rated a film 3.0, describing it as \"nothing special,\" which underscores their increasing demand for compelling storytelling and coherent plots. This critique suggests that while they still enjoy media choices, their standards for narrative quality have heightened, revealing a nuanced evolution in their viewing preferences.\n\nThe user continues to gravitate towards mainstream cinema and noteworthy actors, yet their recent feedback highlights a clear expectation for originality and depth in plot structure. Overall, they value quality storytelling, emotional resonance, and solid performances, but it is evident that they now place significant emphasis on narrative coherence, indicating a desire for more substantial content in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.08421052631578947,
+    "rouge2_f": 0.007067137809187279,
+    "rougeL_f": 0.042105263157894736,
+    "meteor": 0.06732321820341922,
+    "bleu1": 0.10590415113348389,
+    "bleu2": 0.02082163212648473,
+    "bleu3": 0.005629173827256735,
+    "bleu4": 0.0029306188997712287,
+    "bertscore_precision": 0.3261178731918335,
+    "bertscore_recall": 0.335635781288147,
+    "bertscore_f1": 0.3308084011077881
+  }
+}

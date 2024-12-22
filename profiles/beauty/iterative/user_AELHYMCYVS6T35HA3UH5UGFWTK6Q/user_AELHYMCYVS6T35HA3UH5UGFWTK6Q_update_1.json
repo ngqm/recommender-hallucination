@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pantene Pro-V Damage Detox Rebuilding Conditioner 24 fl oz\nReview Date: 2015/01/05\nStore: Pantene\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Pantene', 'Hair Type': 'Damaged,Frizzy', 'Age Range (Description)': 'Adult', 'Unit Count': '24 Fl Oz', 'Number of Items': '1', 'Package Dimensions': '9 x 4 x 2.8 inches; 1.77 Pounds', 'UPC': '080878177301', 'Manufacturer': 'Pantene'}\nReview Text: It does make my hair soft but, I can't take the minty smell it has!  I use Pantene products all the time and was shocked when I was in the shower and put this conditioner on my head.  I stopped and looked at the bottle to see what exactly I was using. Doesn't smell nice like the other Pantene Conditioners I've used.  Going to have to put this bottle under my cabinet to use only when I'm desperate. Will go back to the other Pantene conditioners. And I will always open and smell any new shampoo or conditioner I buy.\nReview Title: Don't like minty smell.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Pantene Pro-V Damage Detox Rebuilding Conditioner 24 fl oz\nPantene\n{'Brand': 'Pantene', 'Hair Type': 'Damaged,Frizzy', 'Age Range (Description)': 'Adult', 'Unit Count': '24 Fl Oz', 'Number of Items': '1', 'Package Dimensions': '9 x 4 x 2.8 inches; 1.77 Pounds', 'UPC': '080878177301', 'Manufacturer': 'Pantene'}\nIt does make my hair soft but, I can't take the minty smell it has!  I use Pantene products all the time and was shocked when I was in the shower and put this conditioner on my head.  I stopped and looked at the bottle to see what exactly I was using. Doesn't smell nice like the other Pantene Conditioners I've used.  Going to have to put this bottle under my cabinet to use only when I'm desperate. Will go back to the other Pantene conditioners. And I will always open and smell any new shampoo or conditioner I buy.\nDon't like minty smell.",
+  "profile": "**User Profile Summary:**\n\n- **Brand Loyalty:** Strong preference for Pantene products, indicating a high level of brand loyalty.\n- **Hair Care Needs:** Focus on products for damaged and frizzy hair, reflecting a need for restorative hair care solutions.\n- **Fragrance Sensitivity:** Highly sensitive to scents; prefers pleasant fragrances and reacts negatively to minty smells.\n- **Product Evaluation:** Evaluates products based on sensory experience, particularly scent, alongside functionality (softness of hair).\n- ** Purchasing Behavior:** Willing to try new products but tends to revert to familiar ones if the new option is unsatisfactory.\n- **Review Patterns:** Engages with products by providing detailed reviews, highlighting both pros and cons based on personal experience.\n\nThis summary reflects a user who values effectiveness in hair care while being particular about fragrance, showcasing a balance between brand loyalty and selective experience.",
+  "metrics": {
+    "rouge1_f": 0.1971830985915493,
+    "rouge2_f": 0.014184397163120567,
+    "rougeL_f": 0.11267605633802817,
+    "meteor": 0.15092567021164158,
+    "bleu1": 0.20943415758229225,
+    "bleu2": 0.03240361600047212,
+    "bleu3": 0.008088973878274579,
+    "bleu4": 0.004047017611155525,
+    "bertscore_precision": 0.4278072416782379,
+    "bertscore_recall": 0.4404298663139343,
+    "bertscore_f1": 0.4340267777442932
+  }
+}

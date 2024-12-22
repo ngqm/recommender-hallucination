@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/05/04\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Cassar', 'Brad Turner', 'Milan Cheylov', 'Bryan Spicer', 'Stephen Hopkins', 'Ian Toynton', 'Frederick King Keller', 'James Whitmore Jr.', 'Tim Iacofano', 'Kevin Hooks'], 'Starring': ['Kiefer Sutherland', 'Leslie Hope', 'Sarah Clarke'], 'Studio': ['FOX']}\nReview Text: The main, straightforward terrorist plot is obscured by an annoying teenage girl/family thread meant to humanize the protagonist. No doubt the threads will pull together in a little while, but by the end of episode three, I am considering giving up on this. The other thing which is annoying is that it's always the least likely person who is the bad guy...\nReview Title: Hodgepodge\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Cassar', 'Brad Turner', 'Milan Cheylov', 'Bryan Spicer', 'Stephen Hopkins', 'Ian Toynton', 'Frederick King Keller', 'James Whitmore Jr.', 'Tim Iacofano', 'Kevin Hooks'], 'Starring': ['Kiefer Sutherland', 'Leslie Hope', 'Sarah Clarke'], 'Studio': ['FOX']}\nThe main, straightforward terrorist plot is obscured by an annoying teenage girl/family thread meant to humanize the protagonist. No doubt the threads will pull together in a little while, but by the end of episode three, I am considering giving up on this. The other thing which is annoying is that it's always the least likely person who is the bad guy...\nHodgepodge",
+  "profile": "User Profile Summary:\n\n- **Content Preferences**: This user shows a tendency towards narratives involving action and suspense, evidenced by their engagement with plots featuring terrorism. However, they express a preference for straightforward storylines over convoluted plots that incorporate unnecessary subplots, particularly those centered on personal or familial issues.\n\n- **Rating Behavior**: The user generally rates products positively, with an average score of 4.7, but they also exhibit critical tendencies, as seen in their mixed reviews that reflect dissatisfaction with specific narrative choices.\n\n- **Themes and Tone**: The user appreciates a balance between tension and clarity in storytelling, indicating a dislike for distractions from the main plot. They are critical of character development that complicates the overall narrative, suggesting a preference for direct and engaging storytelling.\n\n- **Content Advisory**: The user is open to content with violence, foul language, and sexual themes, indicating comfort with mature subject matter.\n\nOverall, this user values engaging, straightforward storytelling while being critical of unnecessary complexity and potentially distracting character arcs.",
+  "metrics": {
+    "rouge1_f": 0.21323529411764705,
+    "rouge2_f": 0.02962962962962963,
+    "rougeL_f": 0.09558823529411763,
+    "meteor": 0.12595837897042714,
+    "bleu1": 0.19902912621359223,
+    "bleu2": 0.04406526492392317,
+    "bleu3": 0.009836808147097406,
+    "bleu4": 0.004653359882683941,
+    "bertscore_precision": 0.3894081711769104,
+    "bertscore_recall": 0.41205549240112305,
+    "bertscore_f1": 0.40041184425354004
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ugrace Hair 13x4 Body Wave Human Hair Wigs 150% Density Brazilian Body Wave Lace Front Wigs Pre Plucked Natural Hairline Glueless With Baby Hair Body Wigs For Women (22 inch)\nReview Date: 2020/02/20\nStore: Ugrace Hair\nAverage Rating: 2.6\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Glueless', 'Brand': 'Ugrace Hair', 'Package Dimensions': '12.4 x 10.35 x 4.06 inches; 10.58 Ounces', 'UPC': '765756990660'}\nReview Text: It has a nice size lace area, so you can change the part in the hair. With a little mousse, you can make cute cornrow braids as well. It looks very natural and realistic.\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JPNK 4PCS Anti-Static Detangling Fine & Wide Tooth Shower Comb Set\nJPNK\n{'Material': 'Plastic', 'Brand': 'JPNK', 'Hair Type': 'Wavy,Straight', 'Unit Count': '1.00 Count', 'Package Dimensions': '12 x 3.1 x 0.7 inches; 5.61 Ounces'}\nThese combs are very pretty, but they are not practical for hair combing. These combs were very sharp and ruff against my hair. It didn't feel good at all and I won't be using them again.\nNot Great\nUgrace Hair 13x4 Body Wave Human Hair Wigs 150% Density Brazilian Body Wave Lace Front Wigs Pre Plucked Natural Hairline Glueless With Baby Hair Body Wigs For Women (22 inch)\nUgrace Hair\n{'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Glueless', 'Brand': 'Ugrace Hair', 'Package Dimensions': '12.4 x 10.35 x 4.06 inches; 10.58 Ounces', 'UPC': '765756990660'}\nIt has a nice size lace area, so you can change the part in the hair. With a little mousse, you can make cute cornrow braids as well. It looks very natural and realistic.\nNice",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Preference:** The user continues to show a strong preference for hair care accessories and is particularly attracted to products that combine practicality with aesthetic appeal. Their recent positive experience with a wig highlights a continued interest in versatile styling options.\n\n- **Positive Experience:** The user has recently purchased a wig that they rated highly, appreciating features such as the natural appearance and versatility in styling. This suggests an evolving perspective that values quality in hair care products, especially those that facilitate creative hairstyling like braiding.\n\n- **Hair Type Focus:** The focus on wavy hair remains strong, indicating that the user is engaged in diverse hairstyling that accommodates varying hair textures, reinforcing their need for versatile grooming tools.\n\n- **Rating Behavior:** While the user shows a tendency to provide low ratings for unsatisfactory products, their latest high rating illustrates that they are capable of recognizing and valuing high-quality items that meet or exceed expectations.\n\n- **Overall Trend:** The user emphasizes both design and functionality, with a recent emphasis on products that not only look good but also perform effectively, enhancing their hairstyling experience while remaining user-friendly and comfortable.\n\nThis updated profile suggests a balanced approach to hair care, where user satisfaction hinges on both aesthetics and practical performance, alongside continued exploration of products that enhance their hairstyling capabilities.",
+  "metrics": {
+    "rouge1_f": 0.17721518987341772,
+    "rouge2_f": 0.02035623409669211,
+    "rougeL_f": 0.09113924050632913,
+    "meteor": 0.13086066712324626,
+    "bleu1": 0.16296296296296298,
+    "bleu2": 0.03480834012812965,
+    "bleu3": 0.0076749804515433475,
+    "bleu4": 0.003607282402382671,
+    "bertscore_precision": 0.40317049622535706,
+    "bertscore_recall": 0.4224642813205719,
+    "bertscore_f1": 0.41259193420410156
+  }
+}

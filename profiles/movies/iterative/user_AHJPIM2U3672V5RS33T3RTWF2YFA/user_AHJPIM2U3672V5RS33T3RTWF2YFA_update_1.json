@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/04/19\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ralph Hemecker', 'Ron Underwood', 'Dean White', 'Romeo Tirone', 'Steve Pearlman', 'Gwyneth Horder-Payton', 'Billy Gierhart', 'David Solomon', 'Milan Cheylov', 'Alrick Riley'], 'Studio': ['ABC']}\nReview Text: I had accidentally deleted this episode from my dvr and the rest of the series kept recording, but I couldn't watch it until I had watched this one.  We couldn't find it anywhere for free and finally bought it on Amazon.  It was fast and good quality.\nReview Title: You need this episode to keep going in the series\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ralph Hemecker', 'Ron Underwood', 'Dean White', 'Romeo Tirone', 'Steve Pearlman', 'Gwyneth Horder-Payton', 'Billy Gierhart', 'David Solomon', 'Milan Cheylov', 'Alrick Riley'], 'Studio': ['ABC']}\nI had accidentally deleted this episode from my dvr and the rest of the series kept recording, but I couldn't watch it until I had watched this one.  We couldn't find it anywhere for free and finally bought it on Amazon.  It was fast and good quality.\nYou need this episode to keep going in the series",
+  "profile": "**User Profile Summary:**\n\n- **Content Consumption**: Strong preference for serialized content; values uninterrupted viewing experience by being invested in the series.\n- **Viewing Languages**: English as the primary language for both audio and subtitles.\n- **Purchase Behavior**: Willing to pay for content when unable to access it for free; prioritizes quick and quality access.\n- **Quality Expectations**: High standard for viewing quality; previous interactions suggest satisfaction with well-produced content.\n- **Emotional Engagement**: Emotionally engaged with narrative continuity, as the user expressed urgency and frustration regarding missing an episode, highlighting the importance of completing series.\n- **Platform Preferences**: Favors online purchase platforms that offer immediate access to content.\n\nThis user exhibits consistent tendencies towards prioritizing quality, accessibility, and narrative continuity in their viewing habits.",
+  "metrics": {
+    "rouge1_f": 0.20289855072463767,
+    "rouge2_f": 0.03902439024390244,
+    "rougeL_f": 0.10628019323671498,
+    "meteor": 0.11743772241992881,
+    "bleu1": 0.15697674418604649,
+    "bleu2": 0.05247835714059895,
+    "bleu3": 0.025302912484799118,
+    "bleu4": 0.009894781511163067,
+    "bertscore_precision": 0.4118984043598175,
+    "bertscore_recall": 0.4249066412448883,
+    "bertscore_f1": 0.41830143332481384
+  }
+}

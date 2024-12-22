@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/09/07\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Noah Hutton'], 'Producers': ['Taylor Hess', 'Jesse Miller', 'Alex Peace', 'Abigail Rieger', 'Joseph Varca', 'Alexandra Winter', 'Rich Winter'], 'Starring': ['Dean Imperial', 'Madeline Wise'], 'Studio': ['Film Movement']}\nReview Text: good movie\nReview Title: good movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Studio': ['NETFLIX']}\nWonderful series\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Starring': ['Mireille Enos', 'Joel Kinnaman'], 'Studio': ['NETFLIX']}\nGreat series and price\nFive Stars\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Jordan'], 'Producers': ['Joel Silver', 'Susan Downey'], 'Starring': ['Jodie Foster', 'Terrence Howard', 'Naveen Andrews'], 'Studio': ['WARNER BROS.']}\nExcellent movie\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Noah Hutton'], 'Producers': ['Taylor Hess', 'Jesse Miller', 'Alex Peace', 'Abigail Rieger', 'Joseph Varca', 'Alexandra Winter', 'Rich Winter'], 'Starring': ['Dean Imperial', 'Madeline Wise'], 'Studio': ['Film Movement']}\ngood movie\ngood movie",
+  "profile": "The user maintains a strong preference for high-quality, engaging series and films characterized by complex narratives and intense themes, including violence, alcohol use, and mature content. Their interactions reveal a discerning taste for thought-provoking television that elicits strong emotional responses. A recent interaction highlighting a well-received movie reinforces their affinity for critically acclaimed content known for its production quality and skilled cast.\n\nThis user demonstrates a notable appreciation for well-produced content from reputable studios, as reflected in their positive references to projects with high production values. They prioritize accessibility, seeking content available in English and enhanced with English subtitles for a better viewing experience.\n\nTheir pattern of consistent positive ratings indicates a deep connection with impactful storytelling that invites reflection and resonates on a personal level. This latest interaction, which involved a quality film that they rated highly, aligns seamlessly with their established viewing habits and underscores their commitment to discerning cinema. Overall, the user actively seeks out narratives that deliver enriched character development and mature themes, focusing on thought-provoking stories that engage them emotionally, while continuing to favor critically acclaimed series and films.",
+  "metrics": {
+    "rouge1_f": 0.10140845070422534,
+    "rouge2_f": 0.0226628895184136,
+    "rougeL_f": 0.0676056338028169,
+    "meteor": 0.03151837573426553,
+    "bleu1": 0.03393102965660572,
+    "bleu2": 0.008017392038022972,
+    "bleu3": 0.0023044303427748785,
+    "bleu4": 0.0012370018032768475,
+    "bertscore_precision": 0.31386521458625793,
+    "bertscore_recall": 0.3261776864528656,
+    "bertscore_f1": 0.31990301609039307
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 6 Packs/lot Goddess Faux Locs Crochet Hair Braids 16 inch Straight Faux Locs with Curly Ends Crochet Twist Braiding Hair 24 Strands/Pack\u00a0Black Goddess Locs Synthetic Hair Extensions Dreadlocks (1b)\nReview Date: 2019/02/19\nStore: LIYATE\nAverage Rating: 3.3\nProduct Details: {'Brand': 'LIYATE', 'Material': 'Synthetic', 'Extension Length': '16 Inches', 'Hair Type': 'Curly, Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.79 x 9.8 x 3.82 inches; 1.1 Pounds', 'UPC': '786391016652'}\nReview Text: Nice hair\nReview Title: Will buy again\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "8 Packs 12\" Spring Senegalese Twist Crochet Braids Hair Pre-twisted Havana Mambo Spring Twist Pre-looped Braiding Hair Synthetic Dreadlocks (T1B/30)\nAbellee\n{'Brand': 'Abellee', 'Material': 'Synthetic', 'Extension Length': '12 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.6 x 9 x 3.6 inches; 15.84 Ounces', 'UPC': '723990027108'}\nNot the best hair. Shorter than what I expected\nI returned mine\n6 Packs/lot Goddess Faux Locs Crochet Hair Braids 16 inch Straight Faux Locs with Curly Ends Crochet Twist Braiding Hair 24 Strands/Pack\u00a0Black Goddess Locs Synthetic Hair Extensions Dreadlocks (1b)\nLIYATE\n{'Brand': 'LIYATE', 'Material': 'Synthetic', 'Extension Length': '16 Inches', 'Hair Type': 'Curly, Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.79 x 9.8 x 3.82 inches; 1.1 Pounds', 'UPC': '786391016652'}\nNice hair\nWill buy again",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus**: The user continues to demonstrate a strong interest in synthetic hair extensions, specifically crochet braids and twist styles. They appreciate versatility in their hair options and are inclined to try new products within this niche.\n\n- **Quality Expectations**: The user's prior disappointment with inconsistencies between product descriptions and actual quality suggests they maintain a high standard for hair products. However, their positive recent review indicates they found a product that met or exceeded their expectations, reflecting a balance between their high standards and satisfaction when quality is achieved.\n\n- **Shopping Behavior**: The user remains cautious and discerning, likely to return items that do not align with their preferences. Their willingness to communicate feedback, both positive and critical, emphasizes their proactive approach to ensuring they receive quality products.\n\n- **Product Evaluation**: The user's evaluations continue to reflect a keen eye for detail. While they have previously articulated dissatisfaction with products, their latest interaction shows an appreciation for a product they found satisfactory, reinforcing their critical yet fair evaluation tendencies.\n\nOverall, the user prioritizes quality, accuracy, and satisfaction in hair products. They are open to purchasing again if a product aligns with their expectations, highlighting a combination of high standards and recognition of good quality when encountered.",
+  "metrics": {
+    "rouge1_f": 0.10140845070422536,
+    "rouge2_f": 0.016997167138810197,
+    "rougeL_f": 0.061971830985915494,
+    "meteor": 0.08945386064030132,
+    "bleu1": 0.09195402298850573,
+    "bleu2": 0.005947010334500526,
+    "bleu3": 0.002390190636741739,
+    "bleu4": 0.0015167691229154635,
+    "bertscore_precision": 0.3472555875778198,
+    "bertscore_recall": 0.3531491458415985,
+    "bertscore_f1": 0.3501775562763214
+  }
+}

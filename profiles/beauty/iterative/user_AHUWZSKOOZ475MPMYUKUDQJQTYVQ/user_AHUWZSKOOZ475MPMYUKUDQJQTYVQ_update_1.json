@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sayas Hair Brazilian Curly Hair Weave 3 Bundles 14 16 18 inch Total 300g(10.5oz) Brazilian Virgin Kinky Curly Human Hair Weave 8A 100% Unprocessed Hair Weft Extensions Natural Black Color\nReview Date: 2018/12/21\nStore: SAYAS\nAverage Rating: 4.0\nProduct Details: {'Brand': 'SAYAS', 'Color': 'black', 'Material': 'Human', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14 x 11 x 2 inches; 10.5 Ounces', 'UPC': '613468608178'}\nReview Text: These bundles are so good I love them\nReview Title: Those are so good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sayas Hair Brazilian Curly Hair Weave 3 Bundles 14 16 18 inch Total 300g(10.5oz) Brazilian Virgin Kinky Curly Human Hair Weave 8A 100% Unprocessed Hair Weft Extensions Natural Black Color\nSAYAS\n{'Brand': 'SAYAS', 'Color': 'black', 'Material': 'Human', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14 x 11 x 2 inches; 10.5 Ounces', 'UPC': '613468608178'}\nThese bundles are so good I love them\nThose are so good",
+  "profile": "**User Profile Summary:**\n\n- **Hair Preferences:** This user exhibits a strong preference for curly hair textures, particularly favoring human hair extensions that offer a natural look and feel. \n- **Product Quality:** They prioritize quality, as indicated by their high rating on a product they found to be satisfactory, suggesting a tendency to select premium options.\n- **Brand Loyalty:** The user purchased from the SAYAS brand, signaling possible brand loyalty or a positive perception of this brand's offerings.\n- **Length Preference:** They show an inclination towards longer hair extensions, specifically those around 18 inches.\n- **Overall Satisfaction:** Positive engagement with products, reflected in their high ratings and enthusiastic reviews, indicates a trend towards satisfaction with purchases.\n- **Review Engagement:** They participate in review activities, suggesting they not only invest in products but also share their experiences to inform others.\n\nOverall, this user's profile suggests a preference for high-quality, natural-looking curly hair extensions, an affinity for specific brands, and a willingness to engage with the community through product reviews.",
+  "metrics": {
+    "rouge1_f": 0.15767634854771784,
+    "rouge2_f": 0.03347280334728034,
+    "rougeL_f": 0.11618257261410787,
+    "meteor": 0.12684124386252046,
+    "bleu1": 0.0852017937219731,
+    "bleu2": 0.006195093733047881,
+    "bleu3": 0.002589610793807557,
+    "bleu4": 0.0016761782548737375,
+    "bertscore_precision": 0.3979143798351288,
+    "bertscore_recall": 0.3494485914707184,
+    "bertscore_f1": 0.3721100091934204
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Barbara Grandvoinet'], 'Producers': ['Barbara Grandvoinet'], 'Starring': ['Children living on the streets of Bangkok.'], 'Studio': ['Indie Rights']}\nReview Text: Thankfull to those that reach out to help the children.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean van de Velde'], 'Producers': ['Paul Brinks', 'Chris Brouwer', 'Richard Claus'], 'Starring': ['Thekla Reutin', 'Jacqueline Blom', 'Marco Borsato'], 'Studio': ['Synergetic Distribution']}\nHard to believe this is still going on. Movie done well.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Barbara Grandvoinet'], 'Producers': ['Barbara Grandvoinet'], 'Starring': ['Children living on the streets of Bangkok.'], 'Studio': ['Indie Rights']}\nThankfull to those that reach out to help the children.\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Continues to rate products positively, with an average rating now around 4.3, reflecting a consistent appreciation for quality content.\n\n- **Content Themes:** Maintains interest in narratives that may include complex themes, with the recent review indicating an emotional connection to social issues, specifically concerning vulnerable populations. This suggests an empathy towards stories highlighting real-life challenges.\n\n- **Language Preference:** Prefers English audio and appreciates English subtitles, signaling comfort with the English language.\n\n- **Director and Producer Acknowledgment:** Still values the works of specific directors and producers, as indicated by the acknowledgment of Barbara Grandvoinet. This hints at a selective taste that admires craftsmanship in film.\n\n- **Emotional Engagement:** The review indicates a strong emotional engagement with the subject matter, expressing gratitude for efforts to assist marginalized communities, suggesting a desire for meaningful, impactful cinema.\n\nOverall, the user appears to favor well-produced films that tackle serious themes, shows a growing interest in socially relevant narratives, demonstrates loyalty to specific creators, and maintains a mature viewing preference.",
+  "metrics": {
+    "rouge1_f": 0.192,
+    "rouge2_f": 0.016129032258064516,
+    "rougeL_f": 0.13599999999999998,
+    "meteor": 0.10176754151044456,
+    "bleu1": 0.14545454545454545,
+    "bleu2": 0.008149699421707284,
+    "bleu3": 0.0031232654453534382,
+    "bleu4": 0.0019357164412137436,
+    "bertscore_precision": 0.4147495627403259,
+    "bertscore_recall": 0.3954295516014099,
+    "bertscore_f1": 0.4048592150211334
+  }
+}

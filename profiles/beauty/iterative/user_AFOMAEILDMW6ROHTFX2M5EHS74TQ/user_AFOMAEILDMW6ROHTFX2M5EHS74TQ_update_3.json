@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NAIL SYSTEMS INTERNATIONAL Superbond Primer 1/2 oz\nReview Date: 2015/05/19\nStore: Nail Systems International\nAverage Rating: 3.9\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'UPC': '755332523054 785479127433 763109721985'}\nReview Text: works great watched a video on this and then ordered it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare\nBeauticom\n['Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare']\n{'Brand': 'Beauticom', 'Number of Items': '2', 'Use for': 'Whole Body', 'Unit Count': '2.00 Count'}\nThese are great to use if you angel the bottle in or out\nFour Stars\nAnself Gold Nail Drill Bit Tungsten Steel Grinding Head Tool Nail Drill Bit Gold Plated for Nail Art Polish Machine\n{'Package Dimensions': '6.2 x 5.3 x 0.4 inches; 0.35 Ounces', 'UPC': '706551128759'}\nworks great\nFive Stars\nNAIL SYSTEMS INTERNATIONAL Superbond Primer 1/2 oz\nNail Systems International\n{'Is Discontinued By Manufacturer': 'No', 'UPC': '755332523054 785479127433 763109721985'}\nworks great watched a video on this and then ordered it\nFive Stars",
+  "profile": "### Updated User Profile Summary\n\n**Keywords:** Body Care, Beauty Care, Nail Care Accessories, Functional Design, Positive Experience, Quality Performance\n\n**Trends:**\n- **Product Preference:** The user maintains a strong interest in body and beauty care products, particularly focusing on nail care accessories, indicating a commitment to improving their nail care routine.\n- **Functional Use:** Their latest purchase reinforces a continued emphasis on practicality, as they value tools that enhance the effectiveness of nail treatments.\n- **Rating Behavior:** The user consistently provides high feedback ratings, highlighted by a recent perfect score, which indicates a strong satisfaction with product performance and quality.\n- **Review Engagement:** The user's review accentuates their appreciation for functional effectiveness, pointing to a preference for products that deliver dependable results and enhance their beauty experience.\n- **Research-Oriented:** The user demonstrates a proactive approach to their purchases, as indicated by their method of watching instructional content before ordering, reflecting a dedication to informed shopping.\n- **Purchase Channel:** Their engagement suggests a preference for specialized beauty retailers that offer quality nail care tools, supporting their discerning nature regarding product selection.\n\nOverall, the user's behaviors underscore an ongoing appreciation for high-quality, functional beauty care accessories, particularly in nail care, with consistency in positive ratings that reflect their focus on achieving excellent results.",
+  "metrics": {
+    "rouge1_f": 0.16422287390029325,
+    "rouge2_f": 0.02949852507374631,
+    "rougeL_f": 0.10557184750733138,
+    "meteor": 0.12144702842377264,
+    "bleu1": 0.10035842293906812,
+    "bleu2": 0.026870114304317898,
+    "bleu3": 0.00638782612511574,
+    "bleu4": 0.003117364203855623,
+    "bertscore_precision": 0.4034278392791748,
+    "bertscore_recall": 0.38422709703445435,
+    "bertscore_f1": 0.3935934603214264
+  }
+}

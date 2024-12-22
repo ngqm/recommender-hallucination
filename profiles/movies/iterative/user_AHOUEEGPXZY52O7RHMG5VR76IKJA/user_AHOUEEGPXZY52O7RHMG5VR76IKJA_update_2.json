@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/08/03\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jocelyn Moorhouse'], 'Producers': ['Sue Maslin'], 'Starring': ['Kate Winslet', 'Liam Hemsworth', 'Judy Davis'], 'Studio': ['Amazon Studios']}\nReview Text: Refreshing story telling\nReview Title: Worth your time\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson'], 'Producers': ['Eric Rattray'], 'Starring': ['Brian Henson', 'David Bowie', 'Jennifer Connelly'], 'Studio': ['TriStar Pictures']}\nClassic for all ages\nClassic for all ages\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jocelyn Moorhouse'], 'Producers': ['Sue Maslin'], 'Starring': ['Kate Winslet', 'Liam Hemsworth', 'Judy Davis'], 'Studio': ['Amazon Studios']}\nRefreshing story telling\nWorth your time",
+  "profile": "**User Summary:**\n\nThis user continues to demonstrate a strong preference for high-quality entertainment that appeals to a broad audience, particularly classics. The recent interaction reflects their discerning taste, as evidenced by a rating of 4.0, which, while slightly lower than their typical average, still indicates a generally positive reception. \n\nThey value refreshing storytelling and appreciate narratives that are complex and creatively crafted, aligning with their openness to mature themes, including violence, alcohol use, and sexual content. Such content advisories further suggest a willingness to engage with diverse themes and storylines that provoke thought.\n\nThe user maintains a preference for productions featuring notable directors and talented casts, as highlighted by their appreciation for established creatives in the industry, along with a preference for audio and subtitle options that enhance accessibility, including various dialogue boosts. \n\nOverall, this user continues to appreciate enduring classics characterized by high production values, engaging storytelling, and exceptional performances, while embracing a spectrum of thematic elements that offer depth and complexity in the narratives they choose to explore. Their overall profile reflects a consistent dedication to well-crafted entertainment that resonates on multiple levels.",
+  "metrics": {
+    "rouge1_f": 0.13043478260869565,
+    "rouge2_f": 0.03649635036496351,
+    "rougeL_f": 0.07971014492753624,
+    "meteor": 0.08095574591494255,
+    "bleu1": 0.09859154929577466,
+    "bleu2": 0.00681949028747939,
+    "bleu3": 0.002803757564777611,
+    "bleu4": 0.0017999088820251966,
+    "bertscore_precision": 0.37229257822036743,
+    "bertscore_recall": 0.34952545166015625,
+    "bertscore_f1": 0.3605499565601349
+  }
+}

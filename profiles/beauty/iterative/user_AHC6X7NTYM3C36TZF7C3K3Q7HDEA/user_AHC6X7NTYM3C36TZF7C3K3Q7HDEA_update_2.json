@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nReview Date: 2020/08/17\nStore: Azun\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nReview Text: Nice And comfortable bath pillow.  The suction is great.  It holds up and allows the pillow to dry.\nReview Title: \ud83d\udc4d\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Nude Gel Polish 6 Colors Gel Nail Polish Set with Gift Box, Soak Off UV LED Gel Polish Kit\nFULLSEXY\n{'Brand': 'FULLSEXY', 'Item Form': 'Gel', 'Type': 'gel', 'Finish Type': 'Glossy', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '1.62 Fl Oz', 'Number of Items': '6', 'Package Dimensions': '7.4 x 3 x 1 inches; 8.01 Ounces'}\nReally nice set of colors.  It\u2019s very pigmented.  My favorite is the grey color.  It works well with my Gelish base and top coat.\nNice colors\nBath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nAzun\n{'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nNice And comfortable bath pillow.  The suction is great.  It holds up and allows the pillow to dry.\n\ud83d\udc4d",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Preference:** Enjoys gel nail polishes, specifically those that offer a variety of colors and have high pigmentation. Recently expanded interest to bath accessories that enhance relaxation and comfort.\n- **Color Selection:** Favors neutral and versatile shades, particularly grey.\n- **Product Quality:** Values high quality in products, as evidenced by satisfaction with nail products when paired with specific base and top coats. Demonstrated appreciation for comfort and functionality in bath accessories.\n- **Ethical Considerations:** Prefers non-toxic and cruelty-free products, reflecting a commitment to environmentally conscious and ethical beauty options.\n- **Rating Expectation:** Tends to rate products positively when they meet or exceed quality expectations, as shown by a favorable rating given to a bath accessory despite its average market rating.\n- **Gift Potential:** Interested in products with appealing packaging, indicated by previous purchases of gift box sets, suggesting a penchant for thoughtfully presented items that could serve as gifts.\n- **Lifestyle Preferences:** Shows an inclination towards items that enhance personal care and comfort, evidenced by the recent purchase of a bath pillow designed for relaxation. Overall, the user values quality, comfort, and design in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.24719101123595505,
+    "rouge2_f": 0.06779661016949153,
+    "rougeL_f": 0.1348314606741573,
+    "meteor": 0.15911104290627026,
+    "bleu1": 0.17857142857142858,
+    "bleu2": 0.05334566353389346,
+    "bleu3": 0.02249500417246118,
+    "bleu4": 0.008222705229028656,
+    "bertscore_precision": 0.4194045066833496,
+    "bertscore_recall": 0.4313163459300995,
+    "bertscore_f1": 0.4252769947052002
+  }
+}

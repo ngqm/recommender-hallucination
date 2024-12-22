@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/25\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Hattie Dalton'], 'Producers': ['Pauline Burt', 'Kate Crowther', 'Kate Dain', 'Kelly Broad', 'Margaret Matheson', 'Adam Robertson', 'Vaughan Sivell', 'Nigel Thomas', 'Charlotte Walls'], 'Starring': ['Benedict Cumberbatch', 'Hugh Bonneville', 'Tom Burke'], 'Studio': ['Western Edge Pictures']}\nReview Text: good one\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Chris Carter'], 'Producers': ['Chris Carter', 'Marc Rosen', 'Gabe Rotter'], 'Starring': ['Aldis Hodge', 'Andrew Howard', 'Arielle Kebbel'], 'Studio': ['Amazon Studios']}\nChris Carter.....you saucy bitch!\nChris Carter..... you saucy bitch ...\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Hattie Dalton'], 'Producers': ['Pauline Burt', 'Kate Crowther', 'Kate Dain', 'Kelly Broad', 'Margaret Matheson', 'Adam Robertson', 'Vaughan Sivell', 'Nigel Thomas', 'Charlotte Walls'], 'Starring': ['Benedict Cumberbatch', 'Hugh Bonneville', 'Tom Burke'], 'Studio': ['Western Edge Pictures']}\ngood one\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Interest in Creative Works**: The user continues to demonstrate a strong appreciation for creative content, favoring works that are produced by specific directors and producers, which aligns with a preference for original storytelling and artistic vision.\n\n- **Engagement with Genres**: Their recent interaction reflects an ongoing engagement with thought-provoking themes, and a likelihood to appreciate narratives that contain elements of drama intertwined with more serious content.\n\n- **Shift in Ratings**: With an average rating now at 4.0, this suggests a slight increase in their overall satisfaction with the media they consume, indicating that they have encountered more compelling content that resonates with their tastes.\n\n- **Personality Traits**: Their humor and lightheartedness in reviews remain evident, portraying a user who values wit in content and enjoys sharing playful perspectives on what they watch.\n\n- **Preference for Familiar Creators**: The continued focus on known creators suggests this user remains loyal to those who consistently deliver quality narratives and performances.\n\n- **Interest in Notable Performances**: The inclusion of well-known actors reinforces their appreciation for diverse and talented performances, indicating a preference for productions that showcase skilled actors.\n\nOverall, the user profile presents a media enthusiast who values creativity, originality, and humor, now exhibiting a heightened satisfaction level in their critical yet optimistic approach to media consumption.",
+  "metrics": {
+    "rouge1_f": 0.03355704697986577,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.02684563758389262,
+    "meteor": 0.04693675889328063,
+    "bleu1": 0.07063197026022307,
+    "bleu2": 0.005133732831348485,
+    "bleu3": 0.002145120805849141,
+    "bleu4": 0.0013879326976782298,
+    "bertscore_precision": 0.3607754409313202,
+    "bertscore_recall": 0.33585411310195923,
+    "bertscore_f1": 0.34786900877952576
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/03\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Sarah Timberman', 'Carl Beverly', 'Michael Dinner', 'Graham Yost', 'Elmore Leonard'], 'Studio': ['FX Cable Channel']}\nReview Text: Very good! Like the characters and drama. Good acting!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vincente Minnelli'], 'Producers': ['Howard W. Koch'], 'Starring': ['Barbra Streisand', 'Yves Montand', 'Bob Newhart']}\nNot one of Streisand best musical movies.\nTwo Stars\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Sarah Timberman', 'Carl Beverly', 'Michael Dinner', 'Graham Yost', 'Elmore Leonard'], 'Studio': ['FX Cable Channel']}\nVery good! Like the characters and drama. Good acting!\nFive Stars",
+  "profile": "**User Summary:**\n\nThis user exhibits a refined taste in film, particularly favoring musicals and drama. They consistently seek out critically acclaimed works and emphasize quality in artistic direction and performance, maintaining high standards for narrative and musical execution. Notably, they expressed high satisfaction in a recent review, indicating appreciation for strong character development and good acting. \n\nWhile the user values notable stars, they are discerning and critical when content does not meet their expectations, as evidenced by a low rating for a specific musical in the past. The user has a clear preference for English audio and subtitles, highlighting their desire for accessible viewing experiences. \n\nOverall, this user's profile reflects a love for classic cinema with a focus on character-driven stories and high-quality performances, complemented by a willingness to express disappointment when standards are not met. Their recent positive interaction reinforces a trend towards engaging with well-crafted narratives, suggesting an openness to exploring diverse genres while still prioritizing quality.",
+  "metrics": {
+    "rouge1_f": 0.10038610038610038,
+    "rouge2_f": 0.01556420233463035,
+    "rougeL_f": 0.05405405405405406,
+    "meteor": 0.06216111383123389,
+    "bleu1": 0.09370393706383259,
+    "bleu2": 0.029713529699799894,
+    "bleu3": 0.01611183746230281,
+    "bleu4": 0.006681059723127035,
+    "bertscore_precision": 0.3580162823200226,
+    "bertscore_recall": 0.3716338276863098,
+    "bertscore_f1": 0.36469796299934387
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/14\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Farrne Blackburn', 'Tom Shankland'], 'Producers': ['Caroline Skinner', 'Sue Hogg'], 'Starring': ['Iain De Caestecker', 'Daniel Kaluuya', 'Tom Ellis'], 'Studio': ['BBC America']}\nReview Text: Fantastic. Interesting, stimulating. Put it back on pretty please. I am in my 30's and I love the show.. even my parents love it.\nReview Title: Second season please\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Farrne Blackburn', 'Tom Shankland'], 'Producers': ['Caroline Skinner', 'Sue Hogg'], 'Starring': ['Iain De Caestecker', 'Daniel Kaluuya', 'Tom Ellis'], 'Studio': ['BBC America']}\nFantastic. Interesting, stimulating. Put it back on pretty please. I am in my 30's and I love the show.. even my parents love it.\nSecond season please",
+  "profile": "**User Summary:**\n\n- **Age Group:** 30s\n- **Content Preference:** Enjoys complex narratives that are interesting and stimulating. Likely appreciates thought-provoking themes, as indicated by the positive review on content with mature themes (nudity, violence, substance use).\n- **Family-Friendly Interests:** The user values shows that can appeal to a broad audience, as they mentioned their parents also enjoy the same content.\n- **Media Format:** Shows a preference for audio in English with English subtitles, indicating a comfort with media that includes textual support.\n- **Engagement Style:** Reacts positively to content that is engaging enough to warrant a desire for more (e.g., requesting a second season).\n- **Rating Behavior:** Consistently rates content highly, suggesting a discerning taste for quality productions.\n- **Production Preference:** Appears to favor shows produced by well-known studios, suggesting an inclination towards reputable content creators.\n\nOverall, this user profile indicates a mature viewer with a taste for engaging, quality entertainment that resonates with both personal and family preferences.",
+  "metrics": {
+    "rouge1_f": 0.19469026548672563,
+    "rouge2_f": 0.03571428571428571,
+    "rougeL_f": 0.10619469026548672,
+    "meteor": 0.132359580169459,
+    "bleu1": 0.13574660633484162,
+    "bleu2": 0.024840089146271886,
+    "bleu3": 0.006555725014965941,
+    "bleu4": 0.0033717193858860688,
+    "bertscore_precision": 0.42048755288124084,
+    "bertscore_recall": 0.3946264088153839,
+    "bertscore_f1": 0.40714672207832336
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Tub Pillow Bathtub Pillows Headrest with Neck and Back Support, 4D Air Mesh Bath Accessories, 6 Strong Suction Cups, Hot Tub, Jacuzzi Home Spa for Women Men\nReview Date: 2021/09/26\nStore: Apriluna\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Apriluna', 'Material': 'Foam, Mesh', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.75 x 7.95 x 5.55 inches; 15.24 Ounces', 'Item model number': 'BP4D', 'Manufacturer': 'Apriluna'}\nReview Text: It is relaxing but I thought it could\u2019ve had more cushion to it.\nReview Title: Relaxing\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Bath Tub Pillow Bathtub Pillows Headrest with Neck and Back Support, 4D Air Mesh Bath Accessories, 6 Strong Suction Cups, Hot Tub, Jacuzzi Home Spa for Women Men\nApriluna\n{'Brand': 'Apriluna', 'Material': 'Foam, Mesh', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.75 x 7.95 x 5.55 inches; 15.24 Ounces', 'Item model number': 'BP4D', 'Manufacturer': 'Apriluna'}\nIt is relaxing but I thought it could\u2019ve had more cushion to it.\nRelaxing",
+  "profile": "**User Summary:**\n\nThis user appreciates comfort and relaxation in their bathing experience, as evidenced by their purchase of a bath tub pillow designed for head and neck support. They value functionality and practical features, demonstrated by their mention of the product's suction cups and 4D mesh design. However, they express a desire for enhanced comfort, indicating a preference for higher cushioning in products. \n\nTheir feedback suggests a discerning taste, as they rate the product positively but with the expectation for better quality, reflecting a balance between enjoyment and critical evaluation. Overall, the user appears to prioritize relaxation and support in personal care products while maintaining an interest in practical design aspects. Their moderate rating indicates a thoughtful approach to purchases and an inclination towards products that enhance well-being.",
+  "metrics": {
+    "rouge1_f": 0.20952380952380953,
+    "rouge2_f": 0.028846153846153848,
+    "rougeL_f": 0.1142857142857143,
+    "meteor": 0.1499451312822165,
+    "bleu1": 0.1020408163265306,
+    "bleu2": 0.008360081942580753,
+    "bleu3": 0.0036392985864529006,
+    "bleu4": 0.002405318787843248,
+    "bertscore_precision": 0.4149782657623291,
+    "bertscore_recall": 0.41920727491378784,
+    "bertscore_f1": 0.4170820415019989
+  }
+}

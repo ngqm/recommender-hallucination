@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Roman Japanese Cypress (Hinoki) Bath Salts - 680g\nReview Date: 2015/04/21\nStore: EARTH\nProduct Description: ['Japanese Bathsalt Bathroman cypress bath']\nAverage Rating: 4.2\nProduct Details: {'Brand': 'EARTH', 'Unit Count': '680 gram', 'Number of Items': '1', 'Item Form': 'Powder', 'Item Weight': '1.8 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 4.6 x 3.4 inches; 1.76 Pounds', 'Item model number': '4901080536013', 'Manufacturer': 'Bathroman'}\nReview Text: I enjoy woodsy, earthy scents so this was a great choice. This hinoki smells like evergreen, dry cedar, with a lemon-like undertone; the scent has a calming effect and lasts throughout your soak. You can splurge a little for these salts because you only need to use a small amount to get the full effect.\nReview Title: Sacred Hinoki - Calming, Grounding Scent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Roman Japanese Cypress (Hinoki) Bath Salts - 680g\nEARTH\n['Japanese Bathsalt Bathroman cypress bath']\n{'Brand': 'EARTH', 'Unit Count': '680 gram', 'Number of Items': '1', 'Item Form': 'Powder', 'Item Weight': '1.8 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 4.6 x 3.4 inches; 1.76 Pounds', 'Item model number': '4901080536013', 'Manufacturer': 'Bathroman'}\nI enjoy woodsy, earthy scents so this was a great choice. This hinoki smells like evergreen, dry cedar, with a lemon-like undertone; the scent has a calming effect and lasts throughout your soak. You can splurge a little for these salts because you only need to use a small amount to get the full effect.\nSacred Hinoki - Calming, Grounding Scent",
+  "profile": "**User Preferences Summary:**\n\n- **Fragrance Preferences**: Enjoys woodsy and earthy scents, particularly those reminiscent of nature, like cedar and evergreen, with citrus undertones linked to calming effects.\n- **Product Types**: Prefers natural bath products, particularly bath salts, that enhance the bathing experience through unique aromatic profiles.\n- **User Experience**: Values high-quality products that provide strong sensory experiences and lasting effects, suggesting a tendency towards premium options.\n- **Sensory Effects**: Seeks calming and grounding experiences through the use of bath products, indicating a preference for relaxation and stress relief. \n- **Usage Pattern**: Appreciates products that require small amounts for maximum benefit, suggesting a conscientious approach to consumption.\n\nOverall, the user values sensory-rich and calming experiences, with a notable interest in high-quality bath products that align with natural scents.",
+  "metrics": {
+    "rouge1_f": 0.2880658436213992,
+    "rouge2_f": 0.058091286307053944,
+    "rougeL_f": 0.1728395061728395,
+    "meteor": 0.1863262195261176,
+    "bleu1": 0.2543352601156069,
+    "bleu2": 0.07690756458932127,
+    "bleu3": 0.03258221980150625,
+    "bleu4": 0.011943270578786394,
+    "bertscore_precision": 0.4321664273738861,
+    "bertscore_recall": 0.4789276123046875,
+    "bertscore_f1": 0.45434701442718506
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: DARKLATER Butterfly Hair Clips for Girls,for Toddler Girls,Baby Girls and Women,Cute Hair Clips,Beautiful Hair Accessories,12 PCS\nReview Date: 2021/09/26\nStore: DARKLATER\nAverage Rating: 4.2\nProduct Details: {'Brand': 'DARKLATER', 'Hair Type': 'All', 'Age Range (Description)': 'Babies', 'Embellishment': 'Glitter', 'Theme': 'Butterfly', 'Package Dimensions': '5 x 3.35 x 0.67 inches; 1.13 Ounces', 'UPC': '750081432770'}\nReview Text: These are beautiful. Unfortunately they only open one side. I can only clip my girl's left side unless I'm ok with the butterfly being upside down. With 12 clips, I was hoping half right and half left.\nReview Title: Beautiful\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "DARKLATER Butterfly Hair Clips for Girls,for Toddler Girls,Baby Girls and Women,Cute Hair Clips,Beautiful Hair Accessories,12 PCS\nDARKLATER\n{'Brand': 'DARKLATER', 'Hair Type': 'All', 'Age Range (Description)': 'Babies', 'Embellishment': 'Glitter', 'Theme': 'Butterfly', 'Package Dimensions': '5 x 3.35 x 0.67 inches; 1.13 Ounces', 'UPC': '750081432770'}\nThese are beautiful. Unfortunately they only open one side. I can only clip my girl's left side unless I'm ok with the butterfly being upside down. With 12 clips, I was hoping half right and half left.\nBeautiful",
+  "profile": "**User Profile Summary:**\n\n- **Demographics:** Primarily focused on products for girls, indicating potential parent or caretaker status.\n- **Product Interest:** Shows a preference for colorful and themed accessories, specifically hair clips with playful designs (e.g., butterflies).\n- **Quality Expectations:** Values aesthetics and functionality but has a critical eye for product design and usability. \n- **Recent Interaction Insight:** The user appreciates beautiful products but is concerned about practicality, as seen in their comment regarding the clips opening only on one side.\n- **Rating Behavior:** Tends to give moderate to high ratings (4.0+), suggesting an inclination to acknowledge both pros and cons in their reviews.\n- **Purchase Quantity:** Indicates a preference for value in quantity (e.g., multi-pack items).\n\nOverall, this user favors aesthetically pleasing and functional accessories for young girls, with a strong consideration for usability and design in their purchasing decisions.",
+  "metrics": {
+    "rouge1_f": 0.18421052631578946,
+    "rouge2_f": 0.02654867256637168,
+    "rougeL_f": 0.12280701754385964,
+    "meteor": 0.15207715133531158,
+    "bleu1": 0.16326530612244897,
+    "bleu2": 0.04092084994511045,
+    "bleu3": 0.020513000334693474,
+    "bleu4": 0.008177726149456907,
+    "bertscore_precision": 0.4270816743373871,
+    "bertscore_recall": 0.4102528393268585,
+    "bertscore_f1": 0.418498158454895
+  }
+}

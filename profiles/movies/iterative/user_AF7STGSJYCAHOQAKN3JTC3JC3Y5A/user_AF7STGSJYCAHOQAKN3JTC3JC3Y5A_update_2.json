@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Producers': ['Carnival Film and TV Ltd.'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Patriot\nAction, Ambitious, Bleak, Malicious\n['A family man reluctantly joins the American Revolution, aiming to avenge his son - murdered by a sadistic British officer.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Roland Emmerich'], 'Producers': ['Dean Devlin', 'Gary Levinsohn', 'Mark Gordon'], 'Starring': ['Mel Gibson', 'Heath Ledger', 'Joely Richardson']}\nGreat movie\nReview\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Producers': ['Carnival Film and TV Ltd.'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nLove it\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Genres Preferred:** Action, particularly those with historical or revolutionary themes; also enjoys period dramas.\n- **Themes:** Ambitious narratives that delve into familial bonds, vengeance, and conflict, reflecting a preference for bleak and malicious storylines exploring darker aspects of human nature.\n- **Content Sensitivity:** Open to violence, sexual content, and strong language; appreciates mature themes in storytelling without hesitation.\n- **Review Tendencies:** Generally positive and highly enthusiastic about films, often awarding high ratings. Recent interaction demonstrated a tendency to express satisfaction succinctly, maintaining a strong 5-star review pattern.\n- **Engagement Style:** Brief and straightforward in reviews, focused on overall enjoyment and quality rather than detailed critique.\n\nThe user exhibits a clear preference for intense, action-driven narratives alongside an appreciation for character-driven storylines typical of period dramas. This reflects an interest not only in entertainment but also in storytelling that evokes thought and deep emotional connections. Their reviews emphasize unequivocal enjoyment, reinforcing a consistent pattern of high ratings when content meets their expectations.",
+  "metrics": {
+    "rouge1_f": 0.13475177304964542,
+    "rouge2_f": 0.007142857142857142,
+    "rougeL_f": 0.07801418439716312,
+    "meteor": 0.06944444444444443,
+    "bleu1": 0.10379929297069732,
+    "bleu2": 0.0196617887328835,
+    "bleu3": 0.005249373374328242,
+    "bleu4": 0.0027155526409615026,
+    "bertscore_precision": 0.3763374984264374,
+    "bertscore_recall": 0.3881949484348297,
+    "bertscore_f1": 0.3821742534637451
+  }
+}

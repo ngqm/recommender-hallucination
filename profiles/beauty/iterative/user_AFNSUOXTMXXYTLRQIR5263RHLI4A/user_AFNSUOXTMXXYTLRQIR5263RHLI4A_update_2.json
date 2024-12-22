@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SNS Dipping Powder Vitamin Oil .5oz\nReview Date: 2018/04/28\nStore: SNS\nAverage Rating: 5.0\nProduct Details: {'Package Dimensions': '4.72 x 1.89 x 1.54 inches; 2.36 Ounces', 'Manufacturer': 'Bergotti'}\nReview Text: This cuticle oil is amazing! It's got a very gentle, light nice scent to it. I love it!\nReview Title: Awesome\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "30000rpm Professional Electric Nail Drill Machine Pedicure Manicure Kits Nail File Drill with Sanding Bands, Nail Salon Art Tools\nSUBAY\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 5.3 x 3.7 inches; 3.2 Pounds', 'Item model number': 'SUB3Z', 'UPC': '602668590901'}\nThis nail drill is awesome! I got it right on time, started using it right away, have used it like 6 times since, it works great. To me it's an upgrade after what I got at Sally's. Love love love it!\nThis nail drill is awesome! I got it right on time\nSNS Dipping Powder Vitamin Oil .5oz\nSNS\n{'Package Dimensions': '4.72 x 1.89 x 1.54 inches; 2.36 Ounces', 'Manufacturer': 'Bergotti'}\nThis cuticle oil is amazing! It's got a very gentle, light nice scent to it. I love it!\nAwesome",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Nail care, beauty tools, professional-grade equipment, cuticle oils\n- **Purchase Frequency:** Active user, likely to invest in high-quality beauty tools and products that enhance nail care\n- **Preference for Quality and Performance:** Values products that offer significant performance improvements, such as effective cuticle oils with pleasing scents\n- **Satisfaction with Timeliness:** Appreciates prompt delivery of products, which contributes to overall satisfaction \n- **Review Tendencies:** Tends to leave positive feedback when expectations are met, suggesting a high standard for quality; recently expressed enthusiasm for a nail care product, indicating a tendency to share positive experiences \n\nThis user exhibits a strong inclination towards upgrading their nail care tools and products, emphasizing a passion for beauty and regular self-care routines. They prioritize effective, high-quality solutions that enhance their nail care experiences, demonstrating a commitment to investing in reliable, professional-grade options. The recent interaction highlights their appreciation for well-scented, high-performance products that elevate the nail care routine.",
+  "metrics": {
+    "rouge1_f": 0.12582781456953643,
+    "rouge2_f": 0.006666666666666667,
+    "rougeL_f": 0.0662251655629139,
+    "meteor": 0.11658435591010248,
+    "bleu1": 0.13170731707317077,
+    "bleu2": 0.008035073760083703,
+    "bleu3": 0.0031683116864260384,
+    "bleu4": 0.001991971323810406,
+    "bertscore_precision": 0.40484413504600525,
+    "bertscore_recall": 0.41112571954727173,
+    "bertscore_f1": 0.40796077251434326
+  }
+}

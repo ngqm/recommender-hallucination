@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mountain Falls Advanced Formula Nail Polish Remover Pads with 96% Acetone, for Natural Nails, 10 Count\nReview Date: 2019/09/29\nStore: Mountain Falls\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Mountain Falls', 'Item Form': 'Pad', 'Item Weight': '0.01 Pounds', 'Unit Count': '10 Count'}\nReview Text: This is a great product to use on the go.<br />Nice package to carry on a purse.<br />Good quality nail polish pads remover.\nReview Title: Good quality pads, easy to use them.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "N3 No Name Necessary Pore-Minimizing Mattifying Oil and Shine Control Anti-aging Makeup Face Primer Spray (200ml)\nNo Name Necessary\n{'Brand': 'No Name Necessary', 'Skin Type': 'Combination', 'Package Information': 'Bottle', 'Finish Type': 'Matte', 'Specialty': 'Mattifying', 'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 8.78 Ounces'}\nDoesn\u2019t feel greasy\nWorks ok\nMountain Falls Advanced Formula Nail Polish Remover Pads with 96% Acetone, for Natural Nails, 10 Count\nMountain Falls\n{'Brand': 'Mountain Falls', 'Item Form': 'Pad', 'Item Weight': '0.01 Pounds', 'Unit Count': '10 Count'}\nThis is a great product to use on the go.<br />Nice package to carry on a purse.<br />Good quality nail polish pads remover.\nGood quality pads, easy to use them.",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Type Preference:** The user has a strong preference for skincare and makeup products that emphasize matting and shine control for combination skin types. Their recent purchase of nail care products indicates a growing interest in maintaining well-groomed nails alongside skincare.\n  \n- **Performance Focus:** The user prefers products that provide a non-greasy feel and likely values a natural finish. Their positive review of a nail polish remover suggests they appreciate convenience and effectiveness.\n\n- **Quality Expectation:** With a previous rating of 4.0 and a recent engagement yielding a perfect score, the user shows a balance between moderate satisfaction and enthusiastic approval for products that meet their needs.\n\n- **Brand Openness:** The recent interaction reflects the user\u2019s ongoing willingness to try products from various brands, including less well-known ones, as they seek practical solutions across different categories.\n\n- **Review Engagement:** The user actively participates in product reviews, demonstrating their desire to share experiences and influence others\u2019 purchasing decisions. Their recent reviews highlight an appreciation for quality and practicality in both skincare and nail care.\n\n- **Overall Trends:** The user continues to lean toward practical solutions that enhance personal care routines without heavy or greasy residues, suggesting a comprehensive approach to beauty that encompasses both skincare and nail care.",
+  "metrics": {
+    "rouge1_f": 0.19277108433734944,
+    "rouge2_f": 0.030303030303030307,
+    "rougeL_f": 0.12048192771084336,
+    "meteor": 0.12275720853004227,
+    "bleu1": 0.11742424242424244,
+    "bleu2": 0.021130073573408396,
+    "bleu3": 0.005544132177353877,
+    "bleu4": 0.002842595439568341,
+    "bertscore_precision": 0.4141231179237366,
+    "bertscore_recall": 0.40787431597709656,
+    "bertscore_f1": 0.41097500920295715
+  }
+}

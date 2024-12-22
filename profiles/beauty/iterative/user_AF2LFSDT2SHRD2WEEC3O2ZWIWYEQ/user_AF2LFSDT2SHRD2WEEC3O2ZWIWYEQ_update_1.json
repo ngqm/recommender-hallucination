@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hand Crafted Ceramic Aromatherapy Essential Oil Diffuser,100ml Fragrant Room Sprays Ultrasonic Aroma Mist Atomizer BPA-Free, Waterless Auto Shut-Off and 7 Color Night Lights for Office Home Study Yoga\nReview Date: 2019/09/06\nStore: BRNBW\nAverage Rating: 4.0\nProduct Details: {'Brand': 'BRNBW', 'Material': 'Ceramic', 'Special Feature': 'Multiple Light Setting, Automatic Shut Off', 'Power Source': 'Corded Electric', 'Capacity': '100 Milliliters', 'Product Dimensions': '3.6 x 3.6 x 6.3 inches; 1.12 Pounds', 'UPC': '665059186312'}\nReview Text: I\u2019ve only owned 2 defusers before and this one by far takes the cake! The amount it pushes out vs my older is INCREDIBLE. You can actually smell it within the first few seconds of turning on. I do wish you could completely shut off the little light or at least have the option - which has been my only con.\nReview Title: Powerful Defuser!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hand Crafted Ceramic Aromatherapy Essential Oil Diffuser,100ml Fragrant Room Sprays Ultrasonic Aroma Mist Atomizer BPA-Free, Waterless Auto Shut-Off and 7 Color Night Lights for Office Home Study Yoga\nBRNBW\n{'Brand': 'BRNBW', 'Material': 'Ceramic', 'Special Feature': 'Multiple Light Setting, Automatic Shut Off', 'Power Source': 'Corded Electric', 'Capacity': '100 Milliliters', 'Product Dimensions': '3.6 x 3.6 x 6.3 inches; 1.12 Pounds', 'UPC': '665059186312'}\nI\u2019ve only owned 2 defusers before and this one by far takes the cake! The amount it pushes out vs my older is INCREDIBLE. You can actually smell it within the first few seconds of turning on. I do wish you could completely shut off the little light or at least have the option - which has been my only con.\nPowerful Defuser!!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys high-performance aroma diffusers with effective scent dispersion. Values functionality and features such as automatic shut-off and adjustable lighting options.\n  \n- **Aesthetic Appreciation:** Shows an inclination toward aesthetically pleasing home d\u00e9cor items, particularly those made from traditional materials like ceramic.\n\n- **Usage Environment:** Likely to use products in versatile settings, including home, office, and wellness spaces (e.g., study, yoga).\n\n- **Critical Factors:** Places importance on ease of use and efficiency. Appreciates products that deliver quick results (fast scent release). Shows a desire for customizable features, indicating a need for personalization in product design (e.g., light control).\n\n- **Satisfaction Level:** Demonstrates a tendency toward providing high ratings for products that exceed expectations, suggesting a tendency to favor quality and performance in her purchases. \n\nOverall, the user values impactful, high-quality home accessories that enhance her environment, with an emphasis on both functionality and aesthetic appeal.",
+  "metrics": {
+    "rouge1_f": 0.16428571428571426,
+    "rouge2_f": 0.028776978417266185,
+    "rougeL_f": 0.1,
+    "meteor": 0.1278240190249703,
+    "bleu1": 0.12135922330097089,
+    "bleu2": 0.007694129003495123,
+    "bleu3": 0.003073002545069152,
+    "bleu4": 0.0019444562699243873,
+    "bertscore_precision": 0.40645360946655273,
+    "bertscore_recall": 0.3985094130039215,
+    "bertscore_f1": 0.4024423360824585
+  }
+}

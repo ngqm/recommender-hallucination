@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Embryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\nReview Date: 2019/10/24\nAverage Rating: 3.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nReview Text: My wife loves this stuff! She has been using for a few days and loves the scent! Smells a mix of rose and orange.. beautiful and very uplifting. It makes her skin feel hydrated and more firm. Very nice product!\nReview Title: Beautifully scented and sprays on like a mist!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Eye Mask for Puffy Eyes,Under Eye Patches,Dark Circles Under Eye Treatment,Eye Masks& Puffy Eyes Treatment, Eye Mask for Dark Circles\uff0860 PCS)\nMourvibe\n{'Package Dimensions': '3 x 3 x 1.5 inches; 6.07 Ounces', 'UPC': '778365190505'}\nThese are so nice and easy to apply. You instantly feel the moisture in your skin from the moment you put them on. After taking them off you notice that it really helps with the bags! My wife has used a few times and has already noticed a difference! They are even more refreshing when cold! Just keep them in your fridge!\nFeels so refreshing!\nEmbryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nMy wife loves this stuff! She has been using for a few days and loves the scent! Smells a mix of rose and orange.. beautiful and very uplifting. It makes her skin feel hydrated and more firm. Very nice product!\nBeautifully scented and sprays on like a mist!",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for skin care products, particularly those that deliver immediate effects, such as under-eye treatments for puffiness and dark circles. They value practicality and ease of application, favoring items that provide instant hydration and refreshing sensations. The user has an appreciation for temperature in enhancing the effectiveness of these products, often noting that cooling items like masks amplifies their refreshing qualities.\n\nRecently, the user has shared positive feedback about a face toner that their wife enjoys, highlighting its delightful scent and hydration benefits. This indicates a family-centric approach to skin care, with a willingness to explore products that resonate with loved ones. The user emphasizes sensory experiences, as seen in their appreciation for beautifully scented products that uplift. Overall, the user continues to be inclined toward skin care solutions that are not only effective and visible in results but also enjoyable to use, blending practicality with sensory pleasure.",
+  "metrics": {
+    "rouge1_f": 0.30635838150289013,
+    "rouge2_f": 0.046511627906976744,
+    "rougeL_f": 0.15028901734104047,
+    "meteor": 0.17577279114790725,
+    "bleu1": 0.19461411194809958,
+    "bleu2": 0.009002345965989892,
+    "bleu3": 0.0032377329791257498,
+    "bleu4": 0.0019444908056209299,
+    "bertscore_precision": 0.38642778992652893,
+    "bertscore_recall": 0.4526917338371277,
+    "bertscore_f1": 0.41694337129592896
+  }
+}

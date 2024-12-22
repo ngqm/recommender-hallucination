@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: New Retro Jewelry Gun Pistol Stlyle Rhinestone Barbells Navel Belly Button Ring\nReview Date: 2015/08/28\nStore: Keyzone\nProduct Description: ['Features:  Brand New & High quality. Gun Pistol Stlyle. Eye-catching. Attracting others attention when wear it in the street, very charming. A good decoration for fashion. Match with suitable apparel for different occasion. Special design and unique structure, a popular item. Size:5*1.4cm.  Package Included:  1X Navel Ring   NO Retail Box. Packed Safely in Bubble Bag.']\nAverage Rating: 3.4\nProduct Details: {'UPC': '701466158440 701466135397', 'Manufacturer': 'KeyZone'}\nReview Text: so cute\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "New Retro Jewelry Gun Pistol Stlyle Rhinestone Barbells Navel Belly Button Ring\nKeyzone\n['Features:  Brand New & High quality. Gun Pistol Stlyle. Eye-catching. Attracting others attention when wear it in the street, very charming. A good decoration for fashion. Match with suitable apparel for different occasion. Special design and unique structure, a popular item. Size:5*1.4cm.  Package Included:  1X Navel Ring   NO Retail Box. Packed Safely in Bubble Bag.']\n{'UPC': '701466158440 701466135397', 'Manufacturer': 'KeyZone'}\nso cute\nFive Stars",
+  "profile": "User Summary:\n\n- **Fashion Conscious**: Exhibits a strong interest in unique and eye-catching accessories that serve as fashion statements.\n- **Playful Aesthetic**: Prefers playful and trendy designs, as indicated by the selection of novelty styles such as themed jewelry.\n- **Positive Experience**: Displays an appreciation for products that evoke positive feedback and charm, reflected in high ratings despite mixed average ratings.\n- **Value for Quality**: Values high-quality items and emphasizes the importance of uniqueness and special design features.\n- **Attention to Detail**: Shows a tendency to pay attention to the visual appeal and presentation of products, endorsing those that attract attention.\n\nOverall, the user seems to favor fun and distinctive jewelry pieces that enhance their fashion sense while maintaining a quality aesthetic.",
+  "metrics": {
+    "rouge1_f": 0.22110552763819097,
+    "rouge2_f": 0.030456852791878177,
+    "rougeL_f": 0.09045226130653265,
+    "meteor": 0.16732833072432218,
+    "bleu1": 0.16455696202531644,
+    "bleu2": 0.010237839206027891,
+    "bleu3": 0.004065344339535327,
+    "bleu4": 0.0025659020753860755,
+    "bertscore_precision": 0.41141021251678467,
+    "bertscore_recall": 0.44517940282821655,
+    "bertscore_f1": 0.42762917280197144
+  }
+}

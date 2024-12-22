@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/19\nAverage Rating: 2.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Eva Gressel']}\nReview Text: I will keep it, but I didn't order this book----I just looked at it\nReview Title: Just inquired>>Amazon sent it!\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Eva Gressel']}\nI will keep it, but I didn't order this book----I just looked at it\nJust inquired>>Amazon sent it!",
+  "profile": "**User Profile Summary:**\n\n- **Interaction History:** Notable for a mixed reviews pattern, indicating a level of engagement but dissatisfaction with specific purchases.\n- **Review Sentiment:** Generally negative, with a low average rating reflecting frustration or misalignment with purchased items.\n- **Preferences:**\n  - **Product Uncertainty:** User tends to express confusion or discontent regarding unintentional purchases, suggesting a lack of clarity in product ordering process.\n  - **Interest in Content:** Engaged with products primarily for content exploration, rather than purchasing intent, which highlights a preference for browsing.\n- **Behavioral Trends:** Occasional retention of items despite dissatisfaction, indicating a willingness to maintain products out of curiosity or potential future relevance.\n\nOverall, this user demonstrates a preference for exploration over commitment and expresses a need for clearer communication in the purchasing process.",
+  "metrics": {
+    "rouge1_f": 0.04054054054054054,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04054054054054054,
+    "meteor": 0.07640067911714771,
+    "bleu1": 0.03428571428571429,
+    "bleu2": 0.004438967616184752,
+    "bleu3": 0.0022499487035109256,
+    "bleu4": 0.001604158773360751,
+    "bertscore_precision": 0.3835671842098236,
+    "bertscore_recall": 0.3091226816177368,
+    "bertscore_f1": 0.34234458208084106
+  }
+}

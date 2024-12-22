@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/01/15\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Fink', 'J. Miller Tobin', 'Bobby Roth', 'Matt Earl Beesley', 'John Terlesky', 'Sanford Bookstaver', 'Colin Bucksey', 'Matt Shakman', 'John Scott', 'Randy Zisk'], 'Starring': ['Madeleine Stowe', 'Emily VanCamp', 'Gabriel Mann'], 'Studio': ['ABC']}\nReview Text: The show is very entertaining. The plot gets a bit hard to follow at times and it feels like a &#34;soap opera&#34; more than a series.\nReview Title: Entertaining\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Fink', 'J. Miller Tobin', 'Bobby Roth', 'Matt Earl Beesley', 'John Terlesky', 'Sanford Bookstaver', 'Colin Bucksey', 'Matt Shakman', 'John Scott', 'Randy Zisk'], 'Starring': ['Madeleine Stowe', 'Emily VanCamp', 'Gabriel Mann'], 'Studio': ['ABC']}\nThe show is very entertaining. The plot gets a bit hard to follow at times and it feels like a &#34;soap opera&#34; more than a series.\nEntertaining",
+  "profile": "**User Summary:**\n\n- **Entertainment Preference:** Enjoys engaging and entertaining narratives, favoring television shows with compelling plots. \n- **Genre Tendencies:** Shows an inclination towards dramatic or soap opera-like series, though may find complex plots challenging to follow.\n- **Language & Accessibility:** Prefers content in English, values English closed captioning for accessibility, indicating a focus on clear comprehension and engagement.\n- **Reviews & Ratings:** Generally provides positive feedback, with an average rating of 4.7, suggesting a discerning taste while remaining open to enjoyable content, even if narrative complexity occasionally detracts from the experience. \n\nOverall, the user appreciates well-produced shows with rich storytelling, yet displays sensitivity to narrative clarity, balancing entertainment with the need for coherence.",
+  "metrics": {
+    "rouge1_f": 0.2033898305084746,
+    "rouge2_f": 0.022857142857142857,
+    "rougeL_f": 0.0790960451977401,
+    "meteor": 0.13049962714392244,
+    "bleu1": 0.18300653594771238,
+    "bleu2": 0.03469856435181512,
+    "bleu3": 0.009272895276335742,
+    "bleu4": 0.004801630111107961,
+    "bertscore_precision": 0.408252090215683,
+    "bertscore_recall": 0.43044477701187134,
+    "bertscore_f1": 0.4190548062324524
+  }
+}

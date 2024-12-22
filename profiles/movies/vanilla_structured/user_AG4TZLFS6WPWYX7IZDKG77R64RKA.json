@@ -1,0 +1,66 @@
+{
+  "user_id": "AG4TZLFS6WPWYX7IZDKG77R64RKA",
+  "summary": "=== Purchase Information ===\nReview Date: 2019/01/14\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hironobu Sakaguchi'], 'Producers': ['Jun Aida', 'Chris Lee', 'Akio Sakai'], 'Starring': ['Peri Gilpin', 'Alec Baldwin', 'Ving Rhames'], 'Studio': ['Columbia Pictures']}\nReview Text: Poorly done, hard to follow, boring, political Gaia crap through out.  Don't waste your time or money.  I wish I could get a refund for the time wasted.\nReview Title: Terrible, terrible movie.  I could only take about 20 minutes of it.\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Stanley'], 'Producers': ['Daniel Noah', 'Josh C. Waller', 'Lisa Whalen', 'Elijah Wood'], 'Starring': ['Nicolas Cage', 'Joely Richardson', 'Madeleine Arthur'], 'Studio': ['AMC Plus Horror']}\nReview Text: Dark, dumb, and just terrible period.  Only watched 3/4 of it and that was more than enough.\nReview Title: Terrible movie!\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol', 'Portugu\u00eas', 'Fran\u00e7ais'], 'Subtitles': ['English', 'Espa\u00f1ol', 'Fran\u00e7ais', 'Portugu\u00eas', 'Portugu\u00eas [SDH]'], 'Directors': ['Rian Johnson'], 'Producers': ['Ram Bergman', 'Rian Johnson'], 'Starring': ['Daniel Craig', 'Chris Evans', 'Jamie Lee Curtis'], 'Studio': ['Lionsgate']}\nReview Text: A lot of good actors, but a lousy movie.  Just couldn't keep my interest.\nReview Title: Not very good.\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Haynes'], 'Producers': ['Mark Ruffalo', 'Christine Vachon', 'Pamela Koffler'], 'Starring': ['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins'], 'Studio': ['Storyteller Distribution Co.', '']}\nReview Text: A movie for our time, it was interesting and thought provoking.\nReview Title: A very good movie.\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hironobu Sakaguchi'], 'Producers': ['Jun Aida', 'Chris Lee', 'Akio Sakai'], 'Starring': ['Peri Gilpin', 'Alec Baldwin', 'Ving Rhames'], 'Studio': ['Columbia Pictures']}\nPoorly done, hard to follow, boring, political Gaia crap through out.  Don't waste your time or money.  I wish I could get a refund for the time wasted.\nTerrible, terrible movie.  I could only take about 20 minutes of it.\n{'Content advisory': ['Violence', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Stanley'], 'Producers': ['Daniel Noah', 'Josh C. Waller', 'Lisa Whalen', 'Elijah Wood'], 'Starring': ['Nicolas Cage', 'Joely Richardson', 'Madeleine Arthur'], 'Studio': ['AMC Plus Horror']}\nDark, dumb, and just terrible period.  Only watched 3/4 of it and that was more than enough.\nTerrible movie!\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol', 'Portugu\u00eas', 'Fran\u00e7ais'], 'Subtitles': ['English', 'Espa\u00f1ol', 'Fran\u00e7ais', 'Portugu\u00eas', 'Portugu\u00eas [SDH]'], 'Directors': ['Rian Johnson'], 'Producers': ['Ram Bergman', 'Rian Johnson'], 'Starring': ['Daniel Craig', 'Chris Evans', 'Jamie Lee Curtis'], 'Studio': ['Lionsgate']}\nA lot of good actors, but a lousy movie.  Just couldn't keep my interest.\nNot very good.\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Haynes'], 'Producers': ['Mark Ruffalo', 'Christine Vachon', 'Pamela Koffler'], 'Starring': ['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins'], 'Studio': ['Storyteller Distribution Co.', '']}\nA movie for our time, it was interesting and thought provoking.\nA very good movie.",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2019/01/14\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hironobu Sakaguchi'], 'Producers': ['Jun Aida', 'Chris Lee', 'Akio Sakai'], 'Starring': ['Peri Gilpin', 'Alec Baldwin', 'Ving Rhames'], 'Studio': ['Columbia Pictures']}\nReview Text: Poorly done, hard to follow, boring, political Gaia crap through out.  Don't waste your time or money.  I wish I could get a refund for the time wasted.\nReview Title: Terrible, terrible movie.  I could only take about 20 minutes of it.\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Stanley'], 'Producers': ['Daniel Noah', 'Josh C. Waller', 'Lisa Whalen', 'Elijah Wood'], 'Starring': ['Nicolas Cage', 'Joely Richardson', 'Madeleine Arthur'], 'Studio': ['AMC Plus Horror']}\nReview Text: Dark, dumb, and just terrible period.  Only watched 3/4 of it and that was more than enough.\nReview Title: Terrible movie!\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol', 'Portugu\u00eas', 'Fran\u00e7ais'], 'Subtitles': ['English', 'Espa\u00f1ol', 'Fran\u00e7ais', 'Portugu\u00eas', 'Portugu\u00eas [SDH]'], 'Directors': ['Rian Johnson'], 'Producers': ['Ram Bergman', 'Rian Johnson'], 'Starring': ['Daniel Craig', 'Chris Evans', 'Jamie Lee Curtis'], 'Studio': ['Lionsgate']}\nReview Text: A lot of good actors, but a lousy movie.  Just couldn't keep my interest.\nReview Title: Not very good.\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/03/28\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Haynes'], 'Producers': ['Mark Ruffalo', 'Christine Vachon', 'Pamela Koffler'], 'Starring': ['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins'], 'Studio': ['Storyteller Distribution Co.', '']}\nReview Text: A movie for our time, it was interesting and thought provoking.\nReview Title: A very good movie.\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThis individual's purchasing patterns indicate a strong preference for well-crafted, engaging narratives, as reflected in their polarized ratings predominantly around movies. They consistently rate films poorly that are perceived as confusing, poorly executed, or lacking depth, showcasing a low tolerance for subpar storytelling. The frequent use of terms like \"terrible,\" \"boring,\" and \"lousy\" across multiple reviews suggests a critical view of films that fail to maintain their interest.\n\nThemes reveal a tendency towards movies with complex characters or compelling plots, particularly fond of thoughtful, zeitgeist-relevant narratives, as evidenced by the one high-rated review describing a film as \u201cinteresting and thought provoking.\u201d This insight indicates a preference for intellectual engagement over sheer entertainment value.\n\nIn terms of quality, the user seems indifferent to star power or associated production credits since their ratings are often disjointed from the cast or production team's prominence. Price sensitivity isn't explicitly noted, but the expressed frustration with \"wasted time\" suggests a high value placed on return-on-investment in terms of both time and monetary resources.\n\nOverall, this person's core preferences revolve around influential and serious narratives over superficial entertainment, with a particular disdain for films they consider counterproductive or poorly executed.",
+  "target_interaction": {
+    "rating": 1.0,
+    "title": "would not play, unable to watch it",
+    "text": "Unable to watch it, it kept breaking up and would not play.",
+    "images": [],
+    "asin": "B09HYV56H9",
+    "parent_asin": "B09HYV56H9",
+    "user_id": "AG4TZLFS6WPWYX7IZDKG77R64RKA",
+    "timestamp": "2022-03-25 02:12:54.201000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 3.4,
+    "rating_number": 321,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e637e8dedcb7f1879adb61361ccb5bfcc8a235b0d691d13b5a28f4c6e142cd99._RI_TTW_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Noah Luke"
+      ],
+      "Producers": [
+        "David Michael Latt"
+      ],
+      "Starring": [
+        "Jeremy London",
+        "Tyler Christopher",
+        "Jamison Jones"
+      ],
+      "Studio": [
+        "The Global Asylum",
+        "LLC"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

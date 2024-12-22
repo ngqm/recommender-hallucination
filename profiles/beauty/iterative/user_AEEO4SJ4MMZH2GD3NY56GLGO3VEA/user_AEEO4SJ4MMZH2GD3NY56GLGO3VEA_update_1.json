@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: b.m.c by Bundle Monster 20pc Nail Art Image Manicure Stamping Plates-CYO 2 Collection\nReview Date: 2014/11/24\nStore: HealthMarket\nProduct Description: ['Bundle Monster 20pc Nail Art Image Manicure Stamping Plates-2014 CYO Collection']\nAverage Rating: 4.2\nProduct Details: {'Product Dimensions': '2.2 x 2.2 x 0.1 inches; 2.4 Ounces', 'UPC': '701233192271', 'Manufacturer': 'HealthMarket'}\nReview Text: Amazing images that stamp very well. My only complaint and the reason for taking off a star is that some of the images are too small for longer nails. I'm not yet good enough at stamping to &#34;stretch&#34; the images yet, but I plan to learn.\nReview Title: Etched well, but I wish images were larger.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "b.m.c by Bundle Monster 20pc Nail Art Image Manicure Stamping Plates-CYO 2 Collection\nHealthMarket\n['Bundle Monster 20pc Nail Art Image Manicure Stamping Plates-2014 CYO Collection']\n{'Product Dimensions': '2.2 x 2.2 x 0.1 inches; 2.4 Ounces', 'UPC': '701233192271', 'Manufacturer': 'HealthMarket'}\nAmazing images that stamp very well. My only complaint and the reason for taking off a star is that some of the images are too small for longer nails. I'm not yet good enough at stamping to &#34;stretch&#34; the images yet, but I plan to learn.\nEtched well, but I wish images were larger.",
+  "profile": "**User Summary:**\n\n- **Interests**: The user shows a keen interest in nail art and manicure supplies, particularly in products that enhance the quality of stamping techniques.\n- **Preferences**: Favors products that are effective and produce clear results, emphasizing the importance of image quality in nail art. Attributes value to usability despite having room for improvement in their own skills.\n- **Experience Level**: Currently at an intermediate skill level in nail stamping, with aspirations to improve. Displays a willingness to learn and experiment with techniques.\n- **Feedback Style**: Provides constructive criticism; appreciates well-made items but is clear about areas for enhancement, indicating a detailed-oriented approach to product reviews.\n- **Consumer Behavior**: Likely to engage with products that offer versatility and quality, while also considering user experience and end results in their purchasing decisions. \n\nOverall, the user seeks high-quality, effective nail art tools that accommodate both beginner and advanced techniques, with an openness to learning and improving their skills.",
+  "metrics": {
+    "rouge1_f": 0.21621621621621623,
+    "rouge2_f": 0.023346303501945526,
+    "rougeL_f": 0.138996138996139,
+    "meteor": 0.17163966140142817,
+    "bleu1": 0.14705882352941177,
+    "bleu2": 0.02691519463268525,
+    "bleu3": 0.007104735155830345,
+    "bleu4": 0.0036547856043988754,
+    "bertscore_precision": 0.4098312258720398,
+    "bertscore_recall": 0.4160497188568115,
+    "bertscore_f1": 0.4129170775413513
+  }
+}

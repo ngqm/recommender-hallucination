@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HANA Organic Skincare - Organic/Vegan Lavender Grains Facial Cleanser + Exfoliator\nReview Date: 2015/07/11\nStore: HANA Organic Skincare\nAverage Rating: 4.5\nProduct Details: {'Brand': 'HANA Organic Skincare', 'Item Form': 'Grain', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Cleansing', 'Material Feature': 'Certified Organic, Vegan', 'Package Dimensions': '5 x 3 x 3 inches; 9.6 Ounces', 'UPC': '632709431672'}\nReview Text: Very gentle but effective! I love beauty products that are natural and non- irritating (a must for sensitive skin!). This mixes into the paste well and doesn't clump. Also, it rinses well and leaves no residue on the skin. However, my only wish is it came in other scents. While I like lavender, and lavender as an ingredient, its not one of my favorite scents. Overall though this works really well (especially on combination skin).\nReview Title: Very gentle, works good!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "HANA Organic Skincare - Organic/Vegan Lavender Grains Facial Cleanser + Exfoliator\nHANA Organic Skincare\n{'Brand': 'HANA Organic Skincare', 'Item Form': 'Grain', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Cleansing', 'Material Feature': 'Certified Organic, Vegan', 'Package Dimensions': '5 x 3 x 3 inches; 9.6 Ounces', 'UPC': '632709431672'}\nVery gentle but effective! I love beauty products that are natural and non- irritating (a must for sensitive skin!). This mixes into the paste well and doesn't clump. Also, it rinses well and leaves no residue on the skin. However, my only wish is it came in other scents. While I like lavender, and lavender as an ingredient, its not one of my favorite scents. Overall though this works really well (especially on combination skin).\nVery gentle, works good!",
+  "profile": "**User Profile Summary:**\n\n- **Skin Care Preference:** The user favors gentle, effective products, particularly those that are natural and non-irritating, indicating a strong preference for sensitive skin care solutions.\n- **Product Type:** They enjoy facial cleansers and exfoliators, especially those that come in non-clumping forms and rinse clean without residue.\n- **Ingredient Focus:** There is a clear preference for organic, vegan ingredients, highlighting a commitment to ethical and sustainable beauty products.\n- **Fragrance Sensitivity:** While the user appreciates certain scents like lavender, they express a desire for more fragrance options, suggesting a need for variety in their choices.\n- **Skin Type Concern:** The user\u2019s feedback indicates a focus on products suitable for acne-prone and combination skin types, emphasizing their concern for balancing skin health.\n\nOverall, the user is inclined towards holistic beauty products that prioritize skin sensitivity, natural ingredients, and effective cleansing, while also seeking fragrance variety.",
+  "metrics": {
+    "rouge1_f": 0.35424354243542433,
+    "rouge2_f": 0.11152416356877325,
+    "rougeL_f": 0.18450184501845018,
+    "meteor": 0.22365470523832107,
+    "bleu1": 0.2828282828282828,
+    "bleu2": 0.1366155017322028,
+    "bleu3": 0.07808566237430167,
+    "bleu4": 0.03952936347427,
+    "bertscore_precision": 0.475433886051178,
+    "bertscore_recall": 0.49364644289016724,
+    "bertscore_f1": 0.4843690097332001
+  }
+}

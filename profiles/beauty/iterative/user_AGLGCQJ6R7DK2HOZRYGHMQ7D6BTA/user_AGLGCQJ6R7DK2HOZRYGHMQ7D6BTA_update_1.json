@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 30 PCS Blue Hair Care Rollers Hair Curlers Silicone No Clip Hair Style Rollers Soft Magic DIY Curling Hairstyle Tools Hair Accessories\nReview Date: 2018/01/08\nStore: ONEONEY\nAverage Rating: 3.4\nProduct Details: {'Item Form': 'Clip', 'Material': 'Silicone', 'Brand': 'ONEONEY', 'Unit Count': '30.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.52 x 5.31 x 2.68 inches; 8.57 Ounces'}\nReview Text: These are an inexpensive and fairly comfortable way to roll my hair at night. It makes getting up and being ready to go in the morning much faster, since all I have to do is unroll, give a spray and shake - and bam waves for days.<br />However, the quality is decent but not great, one of the rollers looked like it was left out side and got chewed on. But, 1 out of 30 (I counted them) is still good odds for the price.<br />They came in the matching clear blue zipper bag, and are easy to store. I'd happily purchase another set.\nReview Title: Comfy curls\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "30 PCS Blue Hair Care Rollers Hair Curlers Silicone No Clip Hair Style Rollers Soft Magic DIY Curling Hairstyle Tools Hair Accessories\nONEONEY\n{'Item Form': 'Clip', 'Material': 'Silicone', 'Brand': 'ONEONEY', 'Unit Count': '30.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.52 x 5.31 x 2.68 inches; 8.57 Ounces'}\nThese are an inexpensive and fairly comfortable way to roll my hair at night. It makes getting up and being ready to go in the morning much faster, since all I have to do is unroll, give a spray and shake - and bam waves for days.<br />However, the quality is decent but not great, one of the rollers looked like it was left out side and got chewed on. But, 1 out of 30 (I counted them) is still good odds for the price.<br />They came in the matching clear blue zipper bag, and are easy to store. I'd happily purchase another set.\nComfy curls",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care & Styling**: Strong interest in hair styling tools, particularly DIY methods for creating curls. Prefers soft rollers that are comfortable for overnight use, indicating a desire for convenience in morning routines.\n\n- **Value for Money**: Prioritizes budget-friendly options, appreciating products that offer decent quality at an affordable price. Willing to accept minor defects given the overall value (e.g., minor issue with one roller).\n\n- **Ease of Use**: Values tools that simplify the styling process, showcasing a preference for quick and easy methods (e.g., unroll and style quickly).\n\n- **Storage & Organization**: Appreciates products that come with easy storage solutions, suggesting a tendency toward organization.\n\n- **Quality Considerations**: Although price-sensitive, the user expects reasonable quality and functionality, as indicated by their mixed ratings based on product condition.\n\nOverall, the user exhibits a practical approach to beauty and hair care, emphasizing functionality, comfort, and affordability.",
+  "metrics": {
+    "rouge1_f": 0.26623376623376627,
+    "rouge2_f": 0.0130718954248366,
+    "rougeL_f": 0.12987012987012986,
+    "meteor": 0.1869992411670524,
+    "bleu1": 0.284313725490196,
+    "bleu2": 0.06482037235521643,
+    "bleu3": 0.012765090294820569,
+    "bleu4": 0.005671773824844735,
+    "bertscore_precision": 0.42991000413894653,
+    "bertscore_recall": 0.45212191343307495,
+    "bertscore_f1": 0.4407362639904022
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/09\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Christiansen', 'Richard Correll', 'Shannon Flynn', 'Bob Koherr', 'David Kendall', 'Jody Margolin Hahn', 'Shelley Jensen', 'Adam Weissman', 'Fred Savage', 'Chip Fields'], 'Studio': ['Disney Channel']}\nReview Text: great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['The Orchard'], 'Producers': ['William Simpson'], 'Starring': ['Selena Gomez'], 'Studio': ['The Orchard']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Christiansen', 'Richard Correll', 'Shannon Flynn', 'Bob Koherr', 'David Kendall', 'Jody Margolin Hahn', 'Shelley Jensen', 'Adam Weissman', 'Fred Savage', 'Chip Fields'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** The user consistently provides high ratings, as highlighted by their recent five-star review, reinforcing a pattern of positive feedback.\n- **Content Appreciation:** They display a strong enjoyment of audio and visual content, particularly in English, indicating a preference for engaging and entertaining media formats.\n- **Interest in Artists:** The user continues to show a fondness for contemporary artists and popular figures, suggesting they are drawn to recognizable talent in their media choices.\n- **Production Quality:** They value content from reputable studios, emphasizing a preference for polished and well-produced works, which is consistent with their past interactions.\n- **Emphasis on Accessibility:** The user is attentive to accessibility features, often seeking out offerings with English subtitles, reflecting a focus on comprehension and inclusive viewing experiences. \n\nThis latest interaction reinforces the user's appreciation for high-quality, engaging content produced by well-known studios, while maintaining their preference for clear accessibility options. Their overall profile indicates a discerning taste aligned with contemporary media trends, driven by a desire for enjoyable and accessible viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.09606986899563319,
+    "rouge2_f": 0.017621145374449337,
+    "rougeL_f": 0.06986899563318777,
+    "meteor": 0.06101694915254237,
+    "bleu1": 0.08035714285714286,
+    "bleu2": 0.0060028820752602765,
+    "bleu3": 0.0025319524754991553,
+    "bleu4": 0.0016462416830984998,
+    "bertscore_precision": 0.37231844663619995,
+    "bertscore_recall": 0.3189809024333954,
+    "bertscore_f1": 0.3435920476913452
+  }
+}

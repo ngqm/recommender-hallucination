@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/01\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Luc Besson'], 'Producers': ['Virginie Besson-Silla'], 'Starring': ['Scarlett Johansson', 'Morgan Freeman', 'Amr Waked']}\nReview Text: Awesome movie! Awesome subject matter! Superior acting as usual. I just love Scarlett\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Luc Besson'], 'Producers': ['Virginie Besson-Silla'], 'Starring': ['Scarlett Johansson', 'Morgan Freeman', 'Amr Waked']}\nAwesome movie! Awesome subject matter! Superior acting as usual. I just love Scarlett\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference**: Tends to rate highly, appreciates quality (previous rating of 4.6 and recent rating of 5.0).\n- **Content Interests**: Enjoys action-packed films with strong narratives, particularly those involving complex themes such as violence and substance use.\n- **Actor Preference**: Has a clear admiration for prominent actors, especially noted enthusiastic appreciation for a specific actress.\n- **Cinematic Quality**: Values superior acting and impactful subject matter, indicating a preference for well-crafted films.\n- **Content Advisory Tolerance**: Open to content that includes mature themes, suggesting comfort with violence, substance use, and strong language.\n- **Accessibility Preferences**: Appreciates features like audio descriptions and closed captions, showing an interest in inclusive viewing options.\n\nOverall, the user shows a strong inclination towards high-quality, engaging films with complex themes and noteworthy performances, particularly from certain acclaimed actors.",
+  "metrics": {
+    "rouge1_f": 0.16393442622950818,
+    "rouge2_f": 0.06629834254143648,
+    "rougeL_f": 0.08743169398907104,
+    "meteor": 0.16733815381057837,
+    "bleu1": 0.13756613756613756,
+    "bleu2": 0.02705059656066694,
+    "bleu3": 0.007314265083784919,
+    "bleu4": 0.0038084633968554315,
+    "bertscore_precision": 0.41617077589035034,
+    "bertscore_recall": 0.3881129026412964,
+    "bertscore_f1": 0.40165242552757263
+  }
+}

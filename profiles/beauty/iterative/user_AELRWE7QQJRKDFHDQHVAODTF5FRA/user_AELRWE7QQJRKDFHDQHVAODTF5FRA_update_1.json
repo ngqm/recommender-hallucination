@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JARGOD 1pcs 100% Kolinsky Sable Acrylic Nails Round Nail Art Brush (size 4)\nReview Date: 2020/09/03\nStore: JARGOD\nAverage Rating: 4.4\nProduct Details: {'Brand': 'JARGOD', 'Handle Material': 'Acrylic', 'Head Material': 'Kolinsky', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.7 x 0.3 x 0.3 inches; 0.63 Ounces'}\nReview Text: Minimal shedding, perfect shape! Just wish I had got a bigger one!! This is good for fills and nail art though!!\nReview Title: Licensed tech GOOD BRUSH\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JARGOD 1pcs 100% Kolinsky Sable Acrylic Nails Round Nail Art Brush (size 4)\nJARGOD\n{'Brand': 'JARGOD', 'Handle Material': 'Acrylic', 'Head Material': 'Kolinsky', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.7 x 0.3 x 0.3 inches; 0.63 Ounces'}\nMinimal shedding, perfect shape! Just wish I had got a bigger one!! This is good for fills and nail art though!!\nLicensed tech GOOD BRUSH",
+  "profile": "User Summary:\n\n- **Interest in Nail Art**: The user demonstrates a strong passion for nail art, suggesting they are either a licensed technician or an enthusiastic hobbyist.\n\n- **Quality Focus**: Prioritizes high-quality tools, evident from the review praising minimal shedding and the brush's shape.\n\n- **Size Flexibility**: Shows a preference for sizing, indicating the need for various brush sizes for different purposes, as noted by the expression of interest in larger options.\n\n- **Performance Preference**: Values performance characteristics such as effectiveness for fills and detailed nail art, highlighting a desire for versatility in their tools.\n\n- **Positive Experience**: Engages positively with products that meet or exceed expectations, as shown by the 5-star rating.\n\nThis user appears to be discerning when it comes to the tools they choose for nail art, favoring quality, functionality, and a variety of sizes to support their creative process.",
+  "metrics": {
+    "rouge1_f": 0.16425120772946858,
+    "rouge2_f": 0.05853658536585365,
+    "rougeL_f": 0.11594202898550723,
+    "meteor": 0.1799275953180305,
+    "bleu1": 0.1135135135135135,
+    "bleu2": 0.04967579970549773,
+    "bleu3": 0.023801968803375737,
+    "bleu4": 0.009277731809030796,
+    "bertscore_precision": 0.3983447849750519,
+    "bertscore_recall": 0.3723835349082947,
+    "bertscore_f1": 0.3849268853664398
+  }
+}

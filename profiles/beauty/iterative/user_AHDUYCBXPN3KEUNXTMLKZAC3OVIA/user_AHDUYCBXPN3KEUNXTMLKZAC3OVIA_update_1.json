@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nReview Date: 2019/08/28\nStore: Hair Accessories\nProduct Description: ['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\nAverage Rating: 4.4\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nReview Text: You need to hVe thick hair\nReview Title: Ok\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nHair Accessories\n['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\n{'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nYou need to hVe thick hair\nOk",
+  "profile": "**User Profile Summary:**\n\nThis user exhibits a preference for fashion accessories, particularly hair-related items that feature a blend of style and functionality. They demonstrate an interest in designer products, as indicated by their choice of an elastic hairtie adorned with rhinestones. The review highlights a concern for the practical aspect of the product, specifically its suitability for users with thick hair, showcasing a focus on product performance in addition to aesthetics. \n\nThe user's average rating of 3.0 suggests moderate satisfaction, pointing to an expectation for a balance between quality and usability. This interaction reveals that while they appreciate fashionable items, they prioritize practicality, indicating that features like compatibility with hair type influence their purchasing decisions.\n\nOverall, this user is inclined toward trendy and elegant accessories but clearly values practicality, indicating potential future interests in versatile and high-quality fashion items that cater to specific needs.",
+  "metrics": {
+    "rouge1_f": 0.19213973799126635,
+    "rouge2_f": 0.00881057268722467,
+    "rougeL_f": 0.11353711790393013,
+    "meteor": 0.1116427432216906,
+    "bleu1": 0.0909090909090909,
+    "bleu2": 0.02354408046740055,
+    "bleu3": 0.006980051401375039,
+    "bleu4": 0.003806406900069766,
+    "bertscore_precision": 0.39546555280685425,
+    "bertscore_recall": 0.36093997955322266,
+    "bertscore_f1": 0.3774148225784302
+  }
+}

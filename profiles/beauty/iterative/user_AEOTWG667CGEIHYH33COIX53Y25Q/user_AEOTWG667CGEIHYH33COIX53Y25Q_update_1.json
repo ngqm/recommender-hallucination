@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Gifts for Dad from Daughter Son, Unique Fathers Day Christmas Birthday Gift Ideas for Men Father Him, Cool Gadgets Stocking Stuffers for Men, 16 in 1 Stainless Steel Manicure Set (Zang Cyan)\nReview Date: 2019/12/19\nStore: atimier\nAverage Rating: 4.5\nProduct Details: {'Brand': 'Atimier', 'Material': 'Stainless Steel', 'Blade Material': 'Stainless Steel', 'Target Audience': 'Men', 'Package Dimensions': '6.1 x 4.5 x 1.3 inches; 7.2 Ounces', 'UPC': '731889076519'}\nReview Text: My husband is ALWAYS trying to \"borrow\" pieces from my manicure kit. In particular, he always tries to take my cuticle nippers and nail clippers \u2014\u00a0and then doesn't put them back. So, then when I need them, I can't find them...not cool. So I'm giving him this as one of his many Christmas gifts because I'm tired of chasing him for my stuff. He'll say he doesn't need it...but he does!\nReview Title: Great essentials for guys\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Gifts for Dad from Daughter Son, Unique Fathers Day Christmas Birthday Gift Ideas for Men Father Him, Cool Gadgets Stocking Stuffers for Men, 16 in 1 Stainless Steel Manicure Set (Zang Cyan)\natimier\n{'Brand': 'Atimier', 'Material': 'Stainless Steel', 'Blade Material': 'Stainless Steel', 'Target Audience': 'Men', 'Package Dimensions': '6.1 x 4.5 x 1.3 inches; 7.2 Ounces', 'UPC': '731889076519'}\nMy husband is ALWAYS trying to \"borrow\" pieces from my manicure kit. In particular, he always tries to take my cuticle nippers and nail clippers \u2014\u00a0and then doesn't put them back. So, then when I need them, I can't find them...not cool. So I'm giving him this as one of his many Christmas gifts because I'm tired of chasing him for my stuff. He'll say he doesn't need it...but he does!\nGreat essentials for guys",
+  "profile": "**User Profile Summary:**\n\n- **Gifting Preferences:** Values practical gifts for men, especially items that address everyday needs or convenience. Shows a tendency to choose gifts that serve dual purposes, combining functionality with personal relevance.\n- **Target Audience:** Specifically focused on male recipients, particularly partners or fathers, indicating a likely interest in family-oriented gifting.\n- **Materials Selection:** Preference for durable materials, such as stainless steel, suggesting an inclination towards quality and longevity in products.\n- **Personal Insights:** The user displays a thoughtful approach to gift-giving, aiming to provide solutions to common issues (e.g., shared items disappearing). This shows attentiveness to the recipient\u2019s lifestyle and habits.\n- **Occasion Awareness:** Actively engages in major gifting occasions, such as Christmas and Father\u2019s Day, indicating a pattern of celebrating important family milestones.\n\nOverall, the user seeks practical, meaningful gifts that enhance daily life and prevent inconveniences, reflecting a nurturing and considerate gifting style.",
+  "metrics": {
+    "rouge1_f": 0.18493150684931503,
+    "rouge2_f": 0.027586206896551724,
+    "rougeL_f": 0.11643835616438356,
+    "meteor": 0.1390374331550802,
+    "bleu1": 0.1804878048780488,
+    "bleu2": 0.0094060838905416,
+    "bleu3": 0.0035191724781113605,
+    "bleu4": 0.0021552247814236613,
+    "bertscore_precision": 0.40726178884506226,
+    "bertscore_recall": 0.41298675537109375,
+    "bertscore_f1": 0.41010430455207825
+  }
+}

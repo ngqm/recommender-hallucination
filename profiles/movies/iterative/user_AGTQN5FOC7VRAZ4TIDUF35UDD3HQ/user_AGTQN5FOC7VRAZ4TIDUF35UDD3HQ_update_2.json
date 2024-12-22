@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/04/08\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Showalter'], 'Producers': ['Daniela Taplin Lundberg', 'Kevin Mann', 'Riva Marker', 'Jordana Mollick', 'Daniel Crown'], 'Starring': ['Sally Field', 'Max Greenfield', 'Beth Behrs'], 'Studio': ['Roadside Attractions']}\nReview Text: Enjoyed movie and Sally Field's acting \ud83d\udc4c skills.\nReview Title: Fun movie \ud83c\udfa5 \u263a\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Roman Polanski'], 'Producers': ['Sa\u00efd Ben Sa\u00efd', 'Oliver Berben', 'Fr\u00e9d\u00e9ric Blum', 'Marisa Fern\u00e1ndez Armenteros', 'Eva Garrido', 'Martin Moszkowicz', 'Javier M\u00e9ndez', 'Piotr Reisch', 'Jaume Roures'], 'Starring': ['Jodie Foster', 'Kate Winslet', 'Christoph Waltz'], 'Studio': ['Sony Pictures Television']}\nDisliked the d r a w n n n n n e  d  out  garbage!!\nNot worth watching!!\n{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Showalter'], 'Producers': ['Daniela Taplin Lundberg', 'Kevin Mann', 'Riva Marker', 'Jordana Mollick', 'Daniel Crown'], 'Starring': ['Sally Field', 'Max Greenfield', 'Beth Behrs'], 'Studio': ['Roadside Attractions']}\nEnjoyed movie and Sally Field's acting \ud83d\udc4c skills.\nFun movie \ud83c\udfa5 \u263a",
+  "profile": "**User Profile Summary: Updated**\n\n- **Rating Tendencies:** The user has exhibited a more favorable disposition towards recent experiences, as seen in a high rating, which contrasts with previous low ratings. This suggests a potential shift in their viewing satisfaction.\n\n- **Content Preferences:** While the user prefers concise narratives, they also appreciate positive and engaging storytelling, as demonstrated in their enjoyment of a recent film. They may be open to content that balances character-driven stories with entertaining elements.\n\n- **Content Advisory Sensitivity:** The user's sensitivity to content warnings remains evident, particularly regarding foul language, sexual content, and alcohol use. However, their recent enjoyment indicates a possible acceptance of such elements if they contribute to character and narrative depth.\n\n- **Genre and Themes:** Although specific genre preferences remain undefined, the appreciation for strong performances, particularly from established actors, continues to suggest a preference for familiar or acclaimed works.\n\n- **Engagement with Film Quality:** The user maintains a critical lens focused on the quality of performances and narrative flow. Recent feedback indicates that they are capable of enjoying films that align with these criteria, even if they include content they typically scrutinize.\n\n- **Overall Interaction Style:** The user retains a direct and assertive feedback style but demonstrates the ability to appreciate narratives that provide humor and relatability, balancing their critical perspective with an openness to enjoyable cinematic experiences.",
+  "metrics": {
+    "rouge1_f": 0.08797653958944282,
+    "rouge2_f": 0.02949852507374632,
+    "rougeL_f": 0.06451612903225806,
+    "meteor": 0.06605284227381907,
+    "bleu1": 0.10211267605633802,
+    "bleu2": 0.006006847566548693,
+    "bleu3": 0.002338916430111468,
+    "bleu4": 0.0014607787701368985,
+    "bertscore_precision": 0.3470548093318939,
+    "bertscore_recall": 0.3440701961517334,
+    "bertscore_f1": 0.3455560505390167
+  }
+}

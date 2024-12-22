@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/19\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholaus Goossen'], 'Producers': ['Allen Covert', 'Jack Giarraputo', 'Adam Sandler'], 'Starring': ['Allen Covert', 'Doris Roberts', 'Shirley Jones'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: I wish I could have gone back and time and got those two hours back.  My boyfriend at the time made me watch it.  Dumbest movie ever made.\nReview Title: Don't waste your time, take a nap instead.\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholaus Goossen'], 'Producers': ['Allen Covert', 'Jack Giarraputo', 'Adam Sandler'], 'Starring': ['Allen Covert', 'Doris Roberts', 'Shirley Jones'], 'Studio': ['20TH CENTURY FOX']}\nI wish I could have gone back and time and got those two hours back.  My boyfriend at the time made me watch it.  Dumbest movie ever made.\nDon't waste your time, take a nap instead.",
+  "profile": "User Summary:\n\nThis individual exhibits a strong preference for engaging media experiences, particularly valuing quality content. Their rating of 1.0 for a specific film suggests they have a low tolerance for perceived poor storytelling or lackluster production quality. The reviewer expresses a desire for meaningful entertainment, highlighting disappointment when a film does not meet expectations. Keywords indicating preferences include: \n\n- Quality-focused\n- Discontent with poor storytelling \n- Engaged audience\n- Value for time invested\n\nThe interaction indicates a tendency to express dissatisfaction straightforwardly when experiences fall short, especially in contexts involving shared viewing with others. Overall, the user prefers content that is likely thought-provoking or entertaining, and they may be critical of films that fail to deliver on those fronts.",
+  "metrics": {
+    "rouge1_f": 0.0655737704918033,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04371584699453552,
+    "meteor": 0.08503401360544217,
+    "bleu1": 0.12878787878787878,
+    "bleu2": 0.00991520841199733,
+    "bleu3": 0.00422882890277366,
+    "bleu4": 0.0027670541487681876,
+    "bertscore_precision": 0.3591575622558594,
+    "bertscore_recall": 0.35706964135169983,
+    "bertscore_f1": 0.35811057686805725
+  }
+}

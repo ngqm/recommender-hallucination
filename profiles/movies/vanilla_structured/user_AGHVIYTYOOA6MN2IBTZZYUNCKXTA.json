@@ -1,0 +1,75 @@
+{
+  "user_id": "AGHVIYTYOOA6MN2IBTZZYUNCKXTA",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/06/16\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Milos Forman'], 'Producers': ['Lester Persky', 'Michael Butler'], 'Starring': ['John Savage', 'Treat Williams', \"Beverly D'Angelo\"]}\nReview Text: such a good movie.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: RuPaul's Drag Race\nReview Date: 2016/12/02\nCategories: Unscripted, Music Videos and Concerts\nProduct Description: [\"Join RuPaul, the most famous drag queen in the world, as the host, mentor and inspiration on Logo's third season of RuPaul's Drag Race, the ultimate drag queen competition.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Michelle Visage', 'Santino Rice']}\nReview Text: Nothing is better than RuPaul.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Merle Ginsberg', 'Santino Rice'], 'Studio': ['LOGO']}\nReview Text: Nothing is better than RuPaul.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson', 'Frank Oz'], 'Producers': ['Jim Henson'], 'Starring': ['Jim Henson', 'Stephen Garlick', 'David Buck'], 'Studio': ['Universal']}\nReview Text: a classic!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Colin Higgins'], 'Producers': ['Bruce Gilbert'], 'Starring': ['Jane Fonda', 'Lily Tomlin', 'Dolly Parton']}\nReview Text: I will never not love this movie.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Milos Forman'], 'Producers': ['Lester Persky', 'Michael Butler'], 'Starring': ['John Savage', 'Treat Williams', \"Beverly D'Angelo\"]}\nsuch a good movie.\nFive Stars\nRuPaul's Drag Race\nUnscripted, Music Videos and Concerts\n[\"Join RuPaul, the most famous drag queen in the world, as the host, mentor and inspiration on Logo's third season of RuPaul's Drag Race, the ultimate drag queen competition.\"]\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Michelle Visage', 'Santino Rice']}\nNothing is better than RuPaul.\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Merle Ginsberg', 'Santino Rice'], 'Studio': ['LOGO']}\nNothing is better than RuPaul.\nFive Stars\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson', 'Frank Oz'], 'Producers': ['Jim Henson'], 'Starring': ['Jim Henson', 'Stephen Garlick', 'David Buck'], 'Studio': ['Universal']}\na classic!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Colin Higgins'], 'Producers': ['Bruce Gilbert'], 'Starring': ['Jane Fonda', 'Lily Tomlin', 'Dolly Parton']}\nI will never not love this movie.\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/06/16\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Milos Forman'], 'Producers': ['Lester Persky', 'Michael Butler'], 'Starring': ['John Savage', 'Treat Williams', \"Beverly D'Angelo\"]}\nReview Text: such a good movie.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: RuPaul's Drag Race\nReview Date: 2016/12/02\nCategories: Unscripted, Music Videos and Concerts\nProduct Description: [\"Join RuPaul, the most famous drag queen in the world, as the host, mentor and inspiration on Logo's third season of RuPaul's Drag Race, the ultimate drag queen competition.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Michelle Visage', 'Santino Rice']}\nReview Text: Nothing is better than RuPaul.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Murray', 'Bob McKinnon', 'Ian Stevenson', 'Justin Harder'], 'Producers': ['Fenton Bailey', 'Randy Barbato', 'RuPaul', 'Joelle Pezely', 'Steven Corfe', 'Michelle Visage'], 'Starring': ['RuPaul', 'Merle Ginsberg', 'Santino Rice'], 'Studio': ['LOGO']}\nReview Text: Nothing is better than RuPaul.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson', 'Frank Oz'], 'Producers': ['Jim Henson'], 'Starring': ['Jim Henson', 'Stephen Garlick', 'David Buck'], 'Studio': ['Universal']}\nReview Text: a classic!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/02\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Colin Higgins'], 'Producers': ['Bruce Gilbert'], 'Starring': ['Jane Fonda', 'Lily Tomlin', 'Dolly Parton']}\nReview Text: I will never not love this movie.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThe purchase history indicates a strong preference for high-quality entertainment, particularly in films and unscripted shows, as reflected by consistently high ratings (averaging around 4.7 to 5.0). The individual expresses a clear affinity for content featuring LGBTQ+ themes, notably through multiple purchases related to drag culture, as evidenced by the enthusiasm for shows hosted by prominent figures in this community. Additionally, the user appreciates classic films, with notable mentions of beloved actors and memorable performances. Content advisories suggest a willingness to engage with mature themes, including nudity and foul language, indicating a preference for bold and potentially provocative storytelling. \n\nQuality is a significant priority, as indicated by the high ratings across products, while specific details on price sensitivity are absent, suggesting a potential focus on quality over cost. The use of English subtitles and dialogue boosts indicates a value placed on accessibility. Overall, this individual's preferences center around high-quality entertainment that is culturally rich, diverse, and engaging, with a particular emphasis on LGBTQ+ representation and classic narratives.",
+  "target_interaction": {
+    "rating": 3.0,
+    "title": "We didn't really like this movie",
+    "text": "We didn't really like this movie, which is a bummer because it had great potential. Not one of the greats like Triplets of Bellville is!",
+    "images": [],
+    "asin": "B0055451GE",
+    "parent_asin": "B0055451GE",
+    "user_id": "AGHVIYTYOOA6MN2IBTZZYUNCKXTA",
+    "timestamp": "2017-10-14 20:16:18.625000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": "The Illusionist",
+    "average_rating": 4.6,
+    "rating_number": 609,
+    "features": [
+      "IMDb 7.5",
+      "1 h 19 min",
+      "2011",
+      "PG"
+    ],
+    "description": [
+      "A down-on-his-luck magician meets a young girl who is convinced his magic is reel."
+    ],
+    "price": 12.99,
+    "images_meta": [
+      {
+        "360w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX360_FMwebp_.jpg",
+        "480w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX480_FMwebp_.jpg",
+        "720w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX720_FMwebp_.jpg",
+        "1080w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1080_FMwebp_.jpg",
+        "1440w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1440_FMwebp_.jpg",
+        "1920w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [
+      "Animation",
+      "Drama",
+      "Gentle",
+      "Sentimental"
+    ],
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Sylvain Chomet"
+      ],
+      "Producers": [
+        "Bob Last",
+        "Sally Chomet"
+      ],
+      "Starring": [
+        "Jean-Claude Donda",
+        "Eilidh Rankin",
+        "Duncan MacNeil"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

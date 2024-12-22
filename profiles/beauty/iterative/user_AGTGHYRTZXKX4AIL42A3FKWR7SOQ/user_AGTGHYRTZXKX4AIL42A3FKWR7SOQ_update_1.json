@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: C'est Moi Gentle Cleansing Water | Gentle, Fragrance-Free Cleanser Removes Makeup and Refreshes Skin, Made with Cornflower Water, Aloe Vera, and Strawberry, Kiwi, and Apple Extracts | 5.9 fl oz.\nReview Date: 2020/09/19\nStore: C'est Moi\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Liquid', 'Skin Type': 'Acne Prone,Sensitive', 'Brand': \"C'est Moi\", 'Scent': 'Kiwi, Strawberry, Unscented, Aloe Vera', 'Age Range (Description)': 'Adult', 'Product Dimensions': '1.84 x 1.84 x 6.06 inches; 7.69 Ounces', 'UPC': '039897626055'}\nReview Text: This cleanser removed my waterproof mascara and eyeliner effortlessly without leaving any residue behind, but left my skin feeling dry and tight. Of course that went away as soon as I applied my moisturizer. If you want something that removes make up quick and effectively then get this cleanser but don't expect your skin to feel soft and hydrated after using this.\nReview Title: Removes waterproof makeup effectively\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "C'est Moi Gentle Cleansing Water | Gentle, Fragrance-Free Cleanser Removes Makeup and Refreshes Skin, Made with Cornflower Water, Aloe Vera, and Strawberry, Kiwi, and Apple Extracts | 5.9 fl oz.\nC'est Moi\n{'Item Form': 'Liquid', 'Skin Type': 'Acne Prone,Sensitive', 'Brand': \"C'est Moi\", 'Scent': 'Kiwi, Strawberry, Unscented, Aloe Vera', 'Age Range (Description)': 'Adult', 'Product Dimensions': '1.84 x 1.84 x 6.06 inches; 7.69 Ounces', 'UPC': '039897626055'}\nThis cleanser removed my waterproof mascara and eyeliner effortlessly without leaving any residue behind, but left my skin feeling dry and tight. Of course that went away as soon as I applied my moisturizer. If you want something that removes make up quick and effectively then get this cleanser but don't expect your skin to feel soft and hydrated after using this.\nRemoves waterproof makeup effectively",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Preferences:** The user favors gentle, effective cleansing products, particularly those designed for sensitive and acne-prone skin. They prioritize makeup removal, especially waterproof products.\n  \n- **Product Characteristics:** The user appreciates fragrance-free options or those with mild scents from natural ingredients, indicating a preference for gentle formulations that avoid potential irritants. \n\n- **Performance Expectations:** Effective makeup removal is essential, but the user is conscious of post-cleansing skin feel, expecting a product that clears makeup without excessive dryness. Moisturization seems important to them after cleansing.\n\n- **Rating Tendency:** The user leans towards moderately high ratings (around 4 stars), indicating that while they have specific preferences, they also have reasonable expectations regarding product performance.\n\n- **Age and Demographics:** The product reflects an adult-centric marketing approach, suggesting the user is likely an adult. \n\nIn summary, this user seeks effective, gentle cleansing solutions tailored for sensitive skin, appreciates mild sensory experiences, and values both function and skin feel in their skincare routine.",
+  "metrics": {
+    "rouge1_f": 0.26755852842809363,
+    "rouge2_f": 0.02693602693602694,
+    "rougeL_f": 0.11371237458193979,
+    "meteor": 0.17091698317959847,
+    "bleu1": 0.19626168224299065,
+    "bleu2": 0.042928227276668236,
+    "bleu3": 0.00954369788311686,
+    "bleu4": 0.0045052292829251914,
+    "bertscore_precision": 0.4307510554790497,
+    "bertscore_recall": 0.4398140013217926,
+    "bertscore_f1": 0.4352353513240814
+  }
+}

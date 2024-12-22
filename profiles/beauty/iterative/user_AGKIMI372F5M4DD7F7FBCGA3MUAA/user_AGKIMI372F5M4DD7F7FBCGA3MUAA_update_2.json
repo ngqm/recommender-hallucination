@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Susenstone20 pcs/set Makeup Brush Set (Gold2)\nReview Date: 2017/08/14\nAverage Rating: 3.8\nProduct Details: {'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '20', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Brass', 'Is Discontinued By Manufacturer': 'No', 'UPC': '644735066810'}\nReview Text: I've had these almost a year and I use them just about every day and they're holding up really well.. They don't shed, haven't broken or stretched out of shape. I like them a lot.\nReview Title: Love them.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HOSL Flat Makeup Brushes Contour Brush Foundation Brush-1 PCS Silver and Black Color (Silver and Black)\nHOSL\n{'Brand': 'HOSL', 'Recommended Uses For Product': 'Contour, For Foundation', 'Color': 'Silver', 'Material': 'Silver', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6 x 1 x 0.75 inches; 1.6 Ounces', 'UPC': '794438000540'}\nLove it. Great price.\nAwesome price.\nSusenstone20 pcs/set Makeup Brush Set (Gold2)\n{'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '20', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Brass', 'Is Discontinued By Manufacturer': 'No', 'UPC': '644735066810'}\nI've had these almost a year and I use them just about every day and they're holding up really well.. They don't shed, haven't broken or stretched out of shape. I like them a lot.\nLove them.",
+  "profile": "**User Preferences Summary:**\n\n- **Product Preference**: Maintains a strong preference for makeup tools, particularly focusing on brushes that cater to various application needs.\n- **Aesthetic Choices**: Continues to favor sleek, sophisticated designs, particularly in silver and black tones, while now also showing an appreciation for gold accents.\n- **Value Sensitivity**: Remains budget-conscious, demonstrating a commitment to finding well-priced items that do not compromise on quality.\n- **Quality Expectation**: Consistently values high product standards, with recent purchases showing a positive track record of durability and performance, even when average ratings are mixed.\n- **Inclusivity in Selection**: Prefers versatile products that cater to a broad range of skin types and tones, indicating an ongoing commitment to inclusivity in beauty.\n- **Positive Engagement**: Continues to express enthusiasm in product interactions, reflecting satisfaction with choices that support daily use and endurance.\n\nThis updated profile encapsulates a user who is discerning, budget-conscious, and committed to quality beauty tools, while being open to diverse aesthetics that enhance their application experience.",
+  "metrics": {
+    "rouge1_f": 0.15533980582524273,
+    "rouge2_f": 0.01954397394136808,
+    "rougeL_f": 0.0970873786407767,
+    "meteor": 0.09662828947368421,
+    "bleu1": 0.1452329184344465,
+    "bleu2": 0.007672063593431524,
+    "bleu3": 0.0028831234032234126,
+    "bleu4": 0.0017694674291830346,
+    "bertscore_precision": 0.36703500151634216,
+    "bertscore_recall": 0.3776356279850006,
+    "bertscore_f1": 0.37225985527038574
+  }
+}

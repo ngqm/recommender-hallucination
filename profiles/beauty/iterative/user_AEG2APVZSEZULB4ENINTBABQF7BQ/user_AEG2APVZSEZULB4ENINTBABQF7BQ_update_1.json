@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Makeup Brush Kit (10 pc, Super Soft Synthetic) - Premium Essential Makeup Brush Set, Contour Brush Kabuki Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush\nReview Date: 2015/02/15\nAverage Rating: 4.0\nProduct Details: {'Recommended Uses For Product': 'Contour, For Eyelining, For Foundation', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '10', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Package Dimensions': '6 x 6 x 1.5 inches; 4.8 Ounces', 'UPC': '856549003206'}\nReview Text: I love this make up it is all I need to have flawless almost perfect look.  It can get messy but once you get use to using it will come natural to you and the messy goes away.  Thank you for a great affordable product.\nReview Title: Great looking skin\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Makeup Brush Kit (10 pc, Super Soft Synthetic) - Premium Essential Makeup Brush Set, Contour Brush Kabuki Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush\n{'Recommended Uses For Product': 'Contour, For Eyelining, For Foundation', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '10', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Package Dimensions': '6 x 6 x 1.5 inches; 4.8 Ounces', 'UPC': '856549003206'}\nI love this make up it is all I need to have flawless almost perfect look.  It can get messy but once you get use to using it will come natural to you and the messy goes away.  Thank you for a great affordable product.\nGreat looking skin",
+  "profile": "**User Profile Summary:**\n\n- **Focus on Makeup**: Demonstrates a strong interest in makeup products, particularly brushes, which indicates a commitment to achieving a flawless and polished look.\n- **Preference for Quality**: Values high-quality, essential tools for makeup application, showing a tendency to seek premium yet affordable options.\n- **Positive Outcome Orientation**: Experiences satisfaction with products that provide effective results, as evidenced by a high rating and appreciation for their utility once mastered.\n- **Learning Curve Acknowledgment**: Shows an understanding that while some products may require a learning phase, the end results justify the initial effort.\n- **Affordability & Accessibility**: Prefers products that are affordable without sacrificing quality, indicating a pragmatic approach to beauty purchases.\n- **Inclusive Utility**: Seeks versatile products suitable for various skin types and tones, ensuring broad applicability in makeup routines. \n\nOverall, this user values effective, versatile, and affordable makeup tools, and is open to learning to achieve desired results.",
+  "metrics": {
+    "rouge1_f": 0.1992337164750958,
+    "rouge2_f": 0.007722007722007722,
+    "rougeL_f": 0.10727969348659003,
+    "meteor": 0.1545778834720571,
+    "bleu1": 0.18446601941747573,
+    "bleu2": 0.02999723722379874,
+    "bleu3": 0.007612210382360584,
+    "bleu4": 0.0038393621353400393,
+    "bertscore_precision": 0.4234030842781067,
+    "bertscore_recall": 0.4222069978713989,
+    "bertscore_f1": 0.42280420660972595
+  }
+}

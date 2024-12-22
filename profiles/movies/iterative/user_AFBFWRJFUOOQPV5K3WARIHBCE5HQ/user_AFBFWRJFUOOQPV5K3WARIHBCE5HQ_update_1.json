@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JK's House\nReview Date: 2016/12/18\nCategories: Kids, Music Videos and Concerts\nProduct Description: [\"At JK's House, Dr. Amber Jenkins and JK blend family values and life lessons with music and dance.\"]\nAverage Rating: 3.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Aaron L. Williams'], 'Producers': ['Monica Butler', 'Matt Keith', 'Aaron L. Williams'], 'Starring': ['Robin Givens', 'George Wilson', 'Cymia Telleria']}\nReview Text: It was really. Enjoyed it and learned a lot from it.\nReview Title: Enjoyed it and learned a lot from it\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "JK's House\nKids, Music Videos and Concerts\n[\"At JK's House, Dr. Amber Jenkins and JK blend family values and life lessons with music and dance.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Aaron L. Williams'], 'Producers': ['Monica Butler', 'Matt Keith', 'Aaron L. Williams'], 'Starring': ['Robin Givens', 'George Wilson', 'Cymia Telleria']}\nIt was really. Enjoyed it and learned a lot from it.\nEnjoyed it and learned a lot from it",
+  "profile": "**User Profile Summary:**\n\n- **Interest in Family-Oriented Content:** The user appreciates products that emphasize family values and life lessons, suggesting a preference for content that fosters learning and development in children.\n\n- **Engagement with Music and Dance:** The presence of music and dance in the reviewed product indicates that the user enjoys interactive and entertaining media that combines these elements.\n\n- **Positive Learning Experience:** The user expressed enjoyment and a sense of having learned from the experience, highlighting a preference for educational content that is both entertaining and informative.\n\n- **Rating Consistency:** The user rated the product positively (4.0) relative to the average rating (3.4), suggesting that their expectations align with quality and content engagement, possibly leaning towards higher-than-average satisfaction.\n\n- **Potential Interest in Music Videos:** Given the review's category, the user may have a specific interest in music videos and concerts, particularly those with educational themes or family-friendly content.\n\nOverall, the user appears to prioritize music-related, family-centric media that offers educational value and engagement through enjoyable experiences.",
+  "metrics": {
+    "rouge1_f": 0.205761316872428,
+    "rouge2_f": 0.08298755186721991,
+    "rougeL_f": 0.13168724279835392,
+    "meteor": 0.18269073836783312,
+    "bleu1": 0.16589861751152074,
+    "bleu2": 0.07332355751067662,
+    "bleu3": 0.04641975697161297,
+    "bleu4": 0.031094329929577218,
+    "bertscore_precision": 0.4026520252227783,
+    "bertscore_recall": 0.39053618907928467,
+    "bertscore_f1": 0.3965015709400177
+  }
+}

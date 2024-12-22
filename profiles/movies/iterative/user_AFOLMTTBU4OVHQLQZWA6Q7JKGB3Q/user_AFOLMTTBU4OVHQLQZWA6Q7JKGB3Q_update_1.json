@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/11/02\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Starring': ['Waters', 'Derek']}\nReview Text: Love this show\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Starring': ['Waters', 'Derek']}\nLove this show\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Enjoys shows with strong comedic elements and collaborative production teams, indicating a preference for content that features multiple influential creators.\n- **User Engagement**: Exhibits high satisfaction with content, as evidenced by a near-perfect rating (4.7) and a positive review emphasizing enjoyment.\n- **Language**: Prefers English audio and subtitles, suggesting a focus on accessibility and comprehension in media consumption.\n- **Review Behavior**: Values and participates in providing feedback, likely appreciating community engagement through ratings and reviews.\n- **Trends**: Shows consistent enjoyment of high-quality productions with notable directors, producers, and performers, suggesting a trend towards favoring well-crafted, popular entertainment.",
+  "metrics": {
+    "rouge1_f": 0.0979020979020979,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06993006993006994,
+    "meteor": 0.07905138339920949,
+    "bleu1": 0.08783783783783783,
+    "bleu2": 0.007730047294952506,
+    "bleu3": 0.003446173581518372,
+    "bleu4": 0.0023049465614658894,
+    "bertscore_precision": 0.3757893443107605,
+    "bertscore_recall": 0.34999924898147583,
+    "bertscore_f1": 0.36243608593940735
+  }
+}

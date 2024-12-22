@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mountain Falls Advanced Formula Nail Polish Remover Pads with 96% Acetone, for Natural Nails, 10 Count\nReview Date: 2019/08/29\nStore: Mountain Falls\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Mountain Falls', 'Item Form': 'Pad', 'Item Weight': '0.01 Pounds', 'Unit Count': '10 Count'}\nReview Text: I used one pad to take off the two layers of medium dark polish and a top coat from my toenails.  It only took one pad to do it all.  That will give me 10 uses per box since there are 10 pads total.  It seems pricey for what you get.  That is why I took it down a star.  If you are looking for convenience this worked well for me.\nReview Title: convenient, worked well\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Mountain Falls Advanced Formula Nail Polish Remover Pads with 96% Acetone, for Natural Nails, 10 Count\nMountain Falls\n{'Brand': 'Mountain Falls', 'Item Form': 'Pad', 'Item Weight': '0.01 Pounds', 'Unit Count': '10 Count'}\nI used one pad to take off the two layers of medium dark polish and a top coat from my toenails.  It only took one pad to do it all.  That will give me 10 uses per box since there are 10 pads total.  It seems pricey for what you get.  That is why I took it down a star.  If you are looking for convenience this worked well for me.\nconvenient, worked well",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interest: Nail Care**\n  - Preference for convenience and efficiency in nail care products.\n  - Utilizes products that provide effective results with minimal effort (e.g., single pad use for multiple layers of polish).\n  \n- **Value Sensitivity:**\n  - Shows awareness of pricing relative to product effectiveness; considers cost vs. utility in product satisfaction.\n  \n- **Product Format Preference:**\n  - Favors pad forms for nail polish removal, indicating a preference for easy-to-use, portable options.\n  \n- **Rating Behavior:**\n  - Tends to provide balanced reviews, factoring in both performance and value; willing to adjust ratings based on perceived cost-effectiveness.\n\nIn summary, the user values functional and convenient nail care solutions while being conscious of product pricing. This user leans towards practical and straightforward options that deliver satisfactory results in a minimal number of applications.",
+  "metrics": {
+    "rouge1_f": 0.24680851063829787,
+    "rouge2_f": 0.034334763948497854,
+    "rougeL_f": 0.1276595744680851,
+    "meteor": 0.16666666666666669,
+    "bleu1": 0.19540229885057472,
+    "bleu2": 0.047528792472347495,
+    "bleu3": 0.010951199856558324,
+    "bleu4": 0.005264380248239909,
+    "bertscore_precision": 0.41371941566467285,
+    "bertscore_recall": 0.3970191776752472,
+    "bertscore_f1": 0.4051973223686218
+  }
+}

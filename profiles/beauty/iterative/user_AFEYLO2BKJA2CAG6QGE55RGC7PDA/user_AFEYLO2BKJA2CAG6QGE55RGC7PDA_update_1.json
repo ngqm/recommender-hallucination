@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nReview Date: 2020/09/15\nStore: Bj\u00f6rn Hall\nAverage Rating: 4.1\nProduct Details: {'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nReview Text: I am a nurse and use headbands constantly since COVID has taken over. I love that it keeps my hair out of the way when dealing with my patients, and that I can attach my mask to the buttons to save my poor ears from rubbing raw after a long shift. Highly recommend.\nReview Title: Great headband\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nBj\u00f6rn Hall\n{'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nI am a nurse and use headbands constantly since COVID has taken over. I love that it keeps my hair out of the way when dealing with my patients, and that I can attach my mask to the buttons to save my poor ears from rubbing raw after a long shift. Highly recommend.\nGreat headband",
+  "profile": "**User Profile Summary:**\n\n- **Occupation:** Medical professional (nurse)\n- **Primary Use:** Functional accessories that enhance comfort and practicality during long shifts\n- **Preferences:** \n  - Values products that provide convenience and ease of use in demanding environments\n  - Prefers items that help manage hair while working \n  - Looks for solutions that alleviate physical discomfort caused by prolonged use of personal protective equipment\n\n- **Key Trends:**\n  - Strong focus on utility over aesthetics; seeks products that serve a specific need\n  - Positive experiences with products that improve work conditions or enhance patient care interactions\n  - High standards for comfort and quality, as indicated by satisfaction with durable and stretchy materials\n\nOverall, this user demonstrates a clear need for practical, ergonomic solutions aimed at facilitating their demanding role in the healthcare sector.",
+  "metrics": {
+    "rouge1_f": 0.20276497695852533,
+    "rouge2_f": 0.009302325581395349,
+    "rougeL_f": 0.10138248847926266,
+    "meteor": 0.14728178275055576,
+    "bleu1": 0.14906832298136646,
+    "bleu2": 0.009652341781316806,
+    "bleu3": 0.0038840912072051147,
+    "bleu4": 0.0024677592754046404,
+    "bertscore_precision": 0.41263097524642944,
+    "bertscore_recall": 0.40450698137283325,
+    "bertscore_f1": 0.408528596162796
+  }
+}

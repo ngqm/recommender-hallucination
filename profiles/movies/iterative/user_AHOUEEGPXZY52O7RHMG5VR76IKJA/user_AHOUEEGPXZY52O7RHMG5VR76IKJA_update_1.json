@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/08/29\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson'], 'Producers': ['Eric Rattray'], 'Starring': ['Brian Henson', 'David Bowie', 'Jennifer Connelly'], 'Studio': ['TriStar Pictures']}\nReview Text: Classic for all ages\nReview Title: Classic for all ages\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jim Henson'], 'Producers': ['Eric Rattray'], 'Starring': ['Brian Henson', 'David Bowie', 'Jennifer Connelly'], 'Studio': ['TriStar Pictures']}\nClassic for all ages\nClassic for all ages",
+  "profile": "**User Summary:**\n\nThis user demonstrates a strong preference for high-quality entertainment that appeals to a broad audience, particularly content regarded as classics. They appreciate productions featuring notable directors and talented casts, indicating a preference for established creators in the industry. The user's rating of 4.8 suggests they are discerning but generally positive, valuing well-crafted narratives with a focus on creativity and artistic expression.\n\nThe inclusion of content advisories hints at an openness to diverse themes, including those with mature elements like violence and strong language, indicating a level of comfort with complex storytelling. Their choice of English audio and subtitles reflects a preference for accessibility, ensuring they can fully engage with the material. \n\nOverall, this user appreciates enduring classics that boast high production values, featuring engaging storytelling and exceptional performances, while embracing a spectrum of thematic elements.",
+  "metrics": {
+    "rouge1_f": 0.1340782122905028,
+    "rouge2_f": 0.02259887005649717,
+    "rougeL_f": 0.10055865921787707,
+    "meteor": 0.08542713567839195,
+    "bleu1": 0.08227848101265822,
+    "bleu2": 0.0072392455272798206,
+    "bleu3": 0.003226665940595672,
+    "bleu4": 0.0021576578570842164,
+    "bertscore_precision": 0.3882562220096588,
+    "bertscore_recall": 0.3301996886730194,
+    "bertscore_f1": 0.356882244348526
+  }
+}

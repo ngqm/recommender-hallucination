@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Zig Zag Nail Stickers - SINGLE Style Chevron Nail Stickers - Chevron Nail Art (Classic Black)\nReview Date: 2014/08/18\nAverage Rating: 4.5\nProduct Details: {}\nReview Text: Work great I use them as guides but they would stick really well as the decoration on nails too!\nReview Title: Nice!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BMC 8 Sheet Temporary Nail Art Tattoo Effects Hydroplaning Water Transfer Stickers Decals Set - Fashion Beasts\nb.m.c\n{'Package Dimensions': '4.72 x 3.94 x 0.12 inches; 0.71 Ounces', 'Item model number': '700580463874', 'UPC': '700580463874', 'Manufacturer': 'Bundle Monster'}\nThese works like a dream the colors are vibrant also. This are an easy way to make a statement with your nails without too much work\nSo pretty\nZig Zag Nail Stickers - SINGLE Style Chevron Nail Stickers - Chevron Nail Art (Classic Black)\n{}\nWork great I use them as guides but they would stick really well as the decoration on nails too!\nNice!",
+  "profile": "**User Profile Summary:**\n\n- **Genuine Preferences:** The user continues to favor vibrant, user-friendly nail art products that enable easy creation of visually appealing designs. They demonstrate an interest in multifunctional items that serve both as guides and decorative elements.\n\n- **Trends:** \n  - Appreciates decorative items that enhance personal style while being practical and easy to use.\n  - Values effectiveness and simplicity in application, highlighting a preference for products that offer versatility.\n  - Prioritizes aesthetics, evident in their focus on color vibrancy and artistic appeal.\n\n- **Behavior Patterns:** \n  - Tends to leave positive feedback for products that meet or exceed expectations, indicating satisfaction when quality aligns with their preferences.\n  - Engages with products that infuse creativity and fun into personal grooming, showcasing a desire for stylish yet uncomplicated self-expression.\n  - Recently expressed enjoyment in using products as both functional guides and decorative pieces, reinforcing their inclination towards innovative tools that enhance the nail art experience.\n\nOverall, the user prioritizes a blend of beauty, simplicity, and creativity in their nail art choices, reflecting a commitment to stylish personal care products that enable effortless self-expression.",
+  "metrics": {
+    "rouge1_f": 0.17857142857142858,
+    "rouge2_f": 0.02158273381294964,
+    "rougeL_f": 0.0857142857142857,
+    "meteor": 0.15367937824513508,
+    "bleu1": 0.11312217194570137,
+    "bleu2": 0.022675795259753936,
+    "bleu3": 0.006169173434519568,
+    "bleu4": 0.0032214849845805782,
+    "bertscore_precision": 0.38868844509124756,
+    "bertscore_recall": 0.3919253945350647,
+    "bertscore_f1": 0.3903001844882965
+  }
+}

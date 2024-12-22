@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/09\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Michael Amundsen'], 'Producers': ['Greg Anton', 'Liz Lohof', 'Alan Chu', 'Cheryl Freeman', 'Elart Coello', 'Manuel Hinostroza', 'Sean McGillan'], 'Starring': ['Anya Benton', 'Renee Pezzotta', 'Jason Ellefson']}\nReview Text: Not bad, but didn't really interest me\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['BJ Alexander'], 'Producers': ['B.J. Alexander', 'Brian Brough', 'Dani Franklin', 'Elisa Jan', 'Lisa Jansworth', 'A.J.C. Pennyworth', 'Kent Peterson', 'Brittany Wiscombe'], 'Starring': ['Summer Naomi Smart', 'Matthew Reese', 'Everest Bishop'], 'Studio': ['Unavailable']}\nSweet love story.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\nIt started out a little slow but picked up and I enjoyed it.\nRedwood Elder\n{'Subtitles': ['None available'], 'Directors': ['Michael Amundsen'], 'Producers': ['Greg Anton', 'Liz Lohof', 'Alan Chu', 'Cheryl Freeman', 'Elart Coello', 'Manuel Hinostroza', 'Sean McGillan'], 'Starring': ['Anya Benton', 'Renee Pezzotta', 'Jason Ellefson']}\nNot bad, but didn't really interest me\nThree Stars",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** The user maintains a strong affinity for romantic narratives, favoring emotionally resonant love stories that align with their taste for engaging, heartfelt content.\n- **Content Language:** They continue to prioritize English for both audio and subtitles, emphasizing their commitment to consuming content in their native language.\n- **Community Engagement:** Recent interactions reflect a slight decline in overall satisfaction, with an average rating of 3.8 following their latest review, down from 4.0. This suggests they are becoming more discerning in their evaluations.\n- **Director and Producer Recognition:** The user shows a consistent preference for works by known creators, particularly in the romance genre, though their recent rating indicates a possible shift in the impact of specific directors or producers on their enjoyment.\n- **Demographic Insights:** They appreciate contemporary, relatable narratives and still favor feel-good entertainment but are increasingly critical, as evidenced by their latest review which suggests that the content did not capture their interest despite previous inclinations.\n- **Full-Experience Expectation:** The user continues to value straightforward storytelling but appears to be leaning towards a desire for greater engagement from the outset. Their feedback hints at a need for narratives that connect more deeply from the beginning rather than developing slowly.\n\nIn summary, the user's preferences highlight a dedication to romantic content, quality production, and straightforward narratives, though their latest interaction indicates a growing discerning attitude towards the level of engagement in the stories they consume.",
+  "metrics": {
+    "rouge1_f": 0.10644257703081232,
+    "rouge2_f": 0.005633802816901409,
+    "rougeL_f": 0.07282913165266106,
+    "meteor": 0.06941838649155724,
+    "bleu1": 0.10402684563758388,
+    "bleu2": 0.005918266127173436,
+    "bleu3": 0.002278762635535985,
+    "bleu4": 0.001415203237275762,
+    "bertscore_precision": 0.372905969619751,
+    "bertscore_recall": 0.3705454468727112,
+    "bertscore_f1": 0.37172195315361023
+  }
+}

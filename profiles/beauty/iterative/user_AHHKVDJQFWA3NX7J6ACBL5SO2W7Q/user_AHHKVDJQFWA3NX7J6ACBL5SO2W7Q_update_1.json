@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Temotei 2 in 1 Delicate Shampoo 13.5Oz\nReview Date: 2015/05/05\nStore: Timotei\nAverage Rating: 4.5\nProduct Details: {'Package Dimensions': '8.27 x 2.36 x 1.34 inches; 13.5 Ounces'}\nReview Text: I love this 2 in 1 of timotei..soft hair now!!!!\nReview Title: love this timotei\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Temotei 2 in 1 Delicate Shampoo 13.5Oz\nTimotei\n{'Package Dimensions': '8.27 x 2.36 x 1.34 inches; 13.5 Ounces'}\nI love this 2 in 1 of timotei..soft hair now!!!!\nlove this timotei",
+  "profile": "**User Summary:**\n\n- **Preferred Product Type:** 2 in 1 hair care solutions.\n- **Quality Focus:** High-quality products, evidenced by a strong average rating and expressing satisfaction in outcomes (soft hair).\n- **Emotional Response:** Positive feelings towards products, indicated by enthusiastic language.\n- **Brand Loyalty:** Displays an affinity for specific brands (Timotei).\n- **Review Engagement:** Actively shares experiences through reviews, showcasing a tendency to engage with products that meet or exceed expectations.\n- **Overall Trend:** Values convenience and effectiveness in personal care products, with a strong inclination towards those that deliver tangible benefits.",
+  "metrics": {
+    "rouge1_f": 0.11290322580645161,
+    "rouge2_f": 0.049180327868852465,
+    "rougeL_f": 0.11290322580645161,
+    "meteor": 0.10874313171023292,
+    "bleu1": 0.056737588652482275,
+    "bleu2": 0.03486840218772033,
+    "bleu3": 0.020603915702794948,
+    "bleu4": 0.00892262316810717,
+    "bertscore_precision": 0.4437432885169983,
+    "bertscore_recall": 0.3573846220970154,
+    "bertscore_f1": 0.3959093689918518
+  }
+}

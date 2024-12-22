@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Premium Oral Swabs, Disposable Swabsticks for Mouth Cleaning, Individually Wrapped Toothettes For Seniors Blue, 250 Count\nReview Date: 2017/08/05\nStore: Wave Medical Products\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Wave Medical Products', 'Item Form': 'Stick', 'Flavor': 'Mint', 'Material': 'Plastic', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.5 x 9 x 7.5 inches; 1.33 Pounds', 'Item model number': 'WMP-OS250B', 'UPC': '630605446783', 'Manufacturer': 'Wave Medical Products'}\nReview Text: Better than any other swab out there! Really great product.\nReview Title: Simply Awesome\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Premium Oral Swabs, Disposable Swabsticks for Mouth Cleaning, Individually Wrapped Toothettes For Seniors Blue, 250 Count\nWave Medical Products\n{'Brand': 'Wave Medical Products', 'Item Form': 'Stick', 'Flavor': 'Mint', 'Material': 'Plastic', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.5 x 9 x 7.5 inches; 1.33 Pounds', 'Item model number': 'WMP-OS250B', 'UPC': '630605446783', 'Manufacturer': 'Wave Medical Products'}\nBetter than any other swab out there! Really great product.\nSimply Awesome\nPremium Oral Swabs, Disposable Swabsticks for Mouth Cleaning, Individually Wrapped Toothettes For Seniors Blue, 250 Count\nWave Medical Products\n{'Brand': 'Wave Medical Products', 'Item Form': 'Stick', 'Flavor': 'Mint', 'Material': 'Plastic', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.5 x 9 x 7.5 inches; 1.33 Pounds', 'Item model number': 'WMP-OS250B', 'UPC': '630605446783', 'Manufacturer': 'Wave Medical Products'}\nBetter than any other swab out there! Really great product.\nSimply Awesome",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Strongly favors personal care items with a specific emphasis on oral hygiene, consistently seeking out products that enhance mouth cleaning.\n- **Quality Expectations**: Continues to prioritize high-quality products, evidenced by a recent 5.0 rating, and reinforces satisfaction with effectiveness as highlighted in reviews.\n- **Target Demographic**: Maintains a focus on products suitable for adults or seniors, indicating an ongoing preference for practicality, ease of use, and functionality for this demographic.\n- **Brand Loyalty**: Shows loyalty to established, reliable brands, further emphasizing a preference for products from recognized manufacturers.\n- **Usage Context**: Demonstrates a clear interest in disposable or single-use products, underscoring the importance of convenience and hygiene in personal care routines.\n- **Preference for Features**: Values individual packaging for sanitation and portability, aligning well with the need for hygienic and easy-to-carry options.\n\nWith the latest interaction, the user reinforces their inclination towards effective, convenient, and high-quality oral care solutions designed for adults, highlighting a consistent and thoughtful approach to personal hygiene choices. The positive sentiment of the recent review reflects ongoing satisfaction with product performance, further solidifying these preferences.",
+  "metrics": {
+    "rouge1_f": 0.1607142857142857,
+    "rouge2_f": 0.005988023952095808,
+    "rougeL_f": 0.08333333333333334,
+    "meteor": 0.10515675893430591,
+    "bleu1": 0.11475409836065574,
+    "bleu2": 0.00687196542412673,
+    "bleu3": 0.0026922508441663646,
+    "bleu4": 0.0016868729756162628,
+    "bertscore_precision": 0.35827556252479553,
+    "bertscore_recall": 0.36157160997390747,
+    "bertscore_f1": 0.3599160313606262
+  }
+}

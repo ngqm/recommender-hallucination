@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/24\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Chuck Bowman', 'James Keach', 'Jerry London', 'Gwen Arner', 'Alan J. Levi', \"Terrence O'Hara\", 'Jerry Jameson', 'Bethany Rooney', 'Victor Lobl', 'Daniel Attias'], 'Producers': ['Beth Sulivan', \"Richard L. O'Connor\", 'Timothy Johnson', 'Jeremy Kagan'], 'Starring': ['Jane Seymour', 'Joe Lando', 'Chad Allen'], 'Studio': ['CBS']}\nReview Text: Watched this show when I was in high school . Even better the 2nd time around.\nReview Title: Even better the 2nd time around\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Chuck Bowman', 'James Keach', 'Jerry London', 'Gwen Arner', 'Alan J. Levi', \"Terrence O'Hara\", 'Jerry Jameson', 'Bethany Rooney', 'Victor Lobl', 'Daniel Attias'], 'Producers': ['Beth Sulivan', \"Richard L. O'Connor\", 'Timothy Johnson', 'Jeremy Kagan'], 'Starring': ['Jane Seymour', 'Joe Lando', 'Chad Allen'], 'Studio': ['CBS']}\nWatched this show when I was in high school . Even better the 2nd time around.\nEven better the 2nd time around",
+  "profile": "**User Profile Summary:**\n\n- **Rating Trend:** High average rating (4.8) indicates a positive engagement with content.\n- **Nostalgia:** Relates strongly to past experiences and memories, particularly enjoying revisiting previous favorites.\n- **Content Preferences:** Favorable towards shows featuring strong performances and notable actors.\n- **Director/Producer Recognition:** Shows appreciation for works by established directors and producers, suggesting a preference for quality over quantity.\n- **Emotional Connection:** Responds positively to narratives that evoke nostalgia and personal connection, enhancing their viewing experience.\n\nOverall, this user seems to favor classic and nostalgic media experiences, reflecting a desire for quality storytelling and strong character performances.",
+  "metrics": {
+    "rouge1_f": 0.061349693251533735,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.03680981595092025,
+    "meteor": 0.061823802163833076,
+    "bleu1": 0.09154929577464788,
+    "bleu2": 0.008057827161436264,
+    "bleu3": 0.0035928240831663615,
+    "bleu4": 0.0024033845490166327,
+    "bertscore_precision": 0.37981143593788147,
+    "bertscore_recall": 0.3926875591278076,
+    "bertscore_f1": 0.38614219427108765
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Real Techniques Bold Metals: Diamond Sponge, Create Shadow or Highlighting, Multi Surfaced for Variety of Application, Synthetic Materials, Latex Free\nReview Date: 2017/04/05\nStore: Real Techniques\nProduct Description: ['Real Techniques Bold Metals: Diamond Sponge, Create Shadow or Highlighting, Multi Surfaced for Variety of Application, Synthetic Materials, Latex Free']\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Real Techniques', 'Color': 'Diamond', 'Material': 'Rubber', 'Item Dimensions LxWxH': '2.35 x 2 x 5.12 inches', 'Recommended Uses For Product': 'For Highlighting', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.35 x 2 x 5.12 inches; 0.48 Ounces', 'Item model number': '1552', 'UPC': '079625915525', 'Manufacturer': 'Paris Presents Incorporated'}\nReview Text: Very versatile sponge for makeup application! Each shape has a different use, and they all work really well. Normally I just use a wedge sponge but this is much softer and works so much better! Especially great for blending! Would buy!\nReview Title: Normally I just use a wedge sponge but this is much softer and works so much better! Especially great for blending\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Real Techniques Bold Metals: Diamond Sponge, Create Shadow or Highlighting, Multi Surfaced for Variety of Application, Synthetic Materials, Latex Free\nReal Techniques\n['Real Techniques Bold Metals: Diamond Sponge, Create Shadow or Highlighting, Multi Surfaced for Variety of Application, Synthetic Materials, Latex Free']\n{'Brand': 'Real Techniques', 'Color': 'Diamond', 'Material': 'Rubber', 'Item Dimensions LxWxH': '2.35 x 2 x 5.12 inches', 'Recommended Uses For Product': 'For Highlighting', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.35 x 2 x 5.12 inches; 0.48 Ounces', 'Item model number': '1552', 'UPC': '079625915525', 'Manufacturer': 'Paris Presents Incorporated'}\nVery versatile sponge for makeup application! Each shape has a different use, and they all work really well. Normally I just use a wedge sponge but this is much softer and works so much better! Especially great for blending! Would buy!\nNormally I just use a wedge sponge but this is much softer and works so much better! Especially great for blending",
+  "profile": "**User Profile Summary:**\n\n- **Makeup Application**: The user shows a strong preference for versatile tools that enhance makeup application, particularly those that can perform multiple functions such as highlighting and blending.\n- **Product Material Preference**: They favor synthetic and latex-free materials, indicating a preference for products that may be more gentle on the skin and possibly cruelty-free.\n- **Performance-focused**: The user values the effectiveness of products in practical use, as seen in their emphasis on softness and blending capability, leading to a preference for high-quality makeup tools.\n- **Brand Affinity**: They have a positive sentiment towards the Real Techniques brand, suggesting loyalty or satisfaction based on prior experiences.\n- **Review Behavior**: The user's tendency to give high ratings (5.0) reflects a positive experience with products that meet or exceed their expectations. \n\nThis initial assessment indicates that the user prioritizes quality, versatility, and skin-friendly materials in their makeup tools.",
+  "metrics": {
+    "rouge1_f": 0.23529411764705882,
+    "rouge2_f": 0.02631578947368421,
+    "rougeL_f": 0.11111111111111109,
+    "meteor": 0.10803193987787693,
+    "bleu1": 0.1665288613257631,
+    "bleu2": 0.05565324195090119,
+    "bleu3": 0.011312436380236249,
+    "bleu4": 0.005106883561842505,
+    "bertscore_precision": 0.3951072692871094,
+    "bertscore_recall": 0.4117765724658966,
+    "bertscore_f1": 0.4032697379589081
+  }
+}

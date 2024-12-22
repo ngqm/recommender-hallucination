@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/05/24\nAverage Rating: 3.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Osgood Perkins'], 'Studio': ['Metro-Goldwyn-Mayer (MGM)']}\nReview Text: Creepy\nReview Title: Weird\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Lowell'], 'Producers': ['Paul Brooks', 'Peter Safran'], 'Starring': ['Eva Longoria', 'Paul Rudd', 'Lake Bell'], 'Studio': ['WARNER BROS.']}\nOk\nOk\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Nilson', 'Michael Schwartz'], 'Producers': ['Lije Sarki', 'Christopher Lemole', 'David Thies', 'Ron Yerxa', 'Tim Zajaros', 'Albert Berger'], 'Starring': ['Zack Gottsagen', 'Ann \\xa0Owens'], 'Studio': ['Critically Acclaimed']}\nOk\nYeah\n{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Osgood Perkins'], 'Studio': ['Metro-Goldwyn-Mayer (MGM)']}\nCreepy\nWeird",
+  "profile": "The user maintains a strong preference for content with mature themes, consistently engaging with works that feature nudity, violence, alcohol use, foul language, and sexual content. Their enjoyment of provocative material is underscored by a high average rating of 4.7 for a prior purchase, reflecting their tolerance for unconventional storytelling. However, their recent interaction indicates a slight shift, as they rated a new acquisition 3.0, resulting in an average rating of 3.8 for this interaction, suggesting a more critical engagement with the material, which they described as \"creepy\" and \"weird.\"\n\nThe user appreciates high production values and leans towards films featuring well-known actors and directors, indicating a preference for both critically acclaimed and mainstream entertainment. They engage predominantly with English-language media, favoring titles with English subtitles for accessibility.\n\nOverall, their taste encompasses a blend of contemporary comedic and dramatic films, revealing a diverse and dynamic palate that balances humor and seriousness. While their recent rating reflects a nuanced perspective toward certain content, their enduring interest in high-quality production and mature themes continues to be a defining aspect of their entertainment preferences. This evolution in ratings illustrates a complex appreciation for storytelling that navigates between light-heartedness and intensity while remaining open to varied expressions of narrative.",
+  "metrics": {
+    "rouge1_f": 0.12883435582822086,
+    "rouge2_f": 0.04938271604938272,
+    "rougeL_f": 0.09815950920245399,
+    "meteor": 0.046164772727272735,
+    "bleu1": 0.06808040562545307,
+    "bleu2": 0.004824375517519235,
+    "bleu3": 0.001999276049138899,
+    "bleu4": 0.001288426439951038,
+    "bertscore_precision": 0.3532975912094116,
+    "bertscore_recall": 0.34195011854171753,
+    "bertscore_f1": 0.347531259059906
+  }
+}

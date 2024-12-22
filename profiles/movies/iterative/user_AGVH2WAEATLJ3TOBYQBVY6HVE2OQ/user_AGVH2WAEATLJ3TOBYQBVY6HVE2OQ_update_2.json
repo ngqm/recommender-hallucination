@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/15\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Neill Blomkamp'], 'Producers': ['Peter Jackson'], 'Starring': ['Sharlto Copley', 'Jason Cope', 'David James'], 'Studio': ['TriStar Pictures']}\nReview Text: whoa...a horror film I could watch...and be surprised by...worth it\nReview Title: sumpin special\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Klein'], 'Starring': ['Ken Klein'], 'Studio': ['Total Content Digital']}\nReview doesn't mention this is a very conservative Christian diatribe against the Catholic church that starts with the Old Testament!  I did learn where the Fundamentalist anti-intellectualism stems from but this guy is hypnotic only in that he speaks exclusively in non sequiturs...very few photos soften the ranting and I want Amazon to annotate what's religious in future\nI PAID for this RW protestant rant!\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Neill Blomkamp'], 'Producers': ['Peter Jackson'], 'Starring': ['Sharlto Copley', 'Jason Cope', 'David James'], 'Studio': ['TriStar Pictures']}\nwhoa...a horror film I could watch...and be surprised by...worth it\nsumpin special",
+  "profile": "**User Summary:**\n\n- **Content Preferences:** The user continues to exhibit a strong aversion to content that promotes conservative religious views, particularly fundamentalist perspectives. They remain critical of materials harboring anti-Catholic sentiment and emphasize the importance of transparency regarding religious themes.\n\n- **Rating Behavior:** This individual maintains a thoughtful and engaged rating pattern, as evidenced by their latest review, where they expressed satisfaction with a horror film that surprised them, suggesting a balanced judgment despite prior critical stances. Their ratings reflect high expectations for integrity and purpose, as well as appreciation for well-executed content.\n\n- **Interest in Clarity:** The user values clear content annotations, especially surrounding violence and other mature themes, indicating a continuous need for context in their media consumption.\n\n- **Language and Presentation Concerns:** They still prefer well-structured arguments and coherent presentations, avoiding disorganized narratives, which aligns with their ongoing pursuit of intellectually stimulating content.\n\nOverall, the user remains discerning about their media engagement, seeking both clarity and context, and applying a critical lens to content perceived as propaganda or lacking intellectual rigor, while also being open to unexpected enjoyment in diverse genres.",
+  "metrics": {
+    "rouge1_f": 0.23197492163009406,
+    "rouge2_f": 0.012618296529968454,
+    "rougeL_f": 0.09404388714733543,
+    "meteor": 0.11630541387551421,
+    "bleu1": 0.17289264354270253,
+    "bleu2": 0.03826924567151011,
+    "bleu3": 0.018400686620623448,
+    "bleu4": 0.007182993063558665,
+    "bertscore_precision": 0.37756940722465515,
+    "bertscore_recall": 0.3927060663700104,
+    "bertscore_f1": 0.38498902320861816
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ben Nye Nose & Scar Wax Fair, 1oz\nReview Date: 2017/10/30\nStore: Ben Nye\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\nReview Text: great for special FX mackup\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ben Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Primary Interest:** Special effects makeup\n- **Product Type Preference:** Strong preference for wax-based products suitable for application\n- **Brand Loyalty:** Loyal to high-quality brands in the FX makeup category, particularly favoring Ben Nye\n- **Satisfaction Level:** Maintains a high level of satisfaction with products, consistently giving positive ratings, including a recent purchase rated 5 stars\n- **Usage Context:** Utilizes products for theatrical or creative purposes, indicating robust engagement with performance arts or makeup artistry\n- **Review Trait:** Provides enthusiastic and positive reviews, reflecting favorable experiences with the effectiveness and ease of application of products; recent feedback particularly highlighted effectiveness for special FX makeup\n\nThe most recent purchase reinforces this user's dedication to high-quality special effects makeup, particularly emphasizing their loyalty to trusted brands. Their ongoing positive interactions showcase a deep understanding and skill in utilizing wax formulations for creative projects. The consistent trend in ratings demonstrates not only satisfaction but also a commitment to excellence in their craft. Overall, the user remains focused on enhancing their artistic expression through premium products well-suited to their specific needs in makeup artistry.",
+  "metrics": {
+    "rouge1_f": 0.11199999999999999,
+    "rouge2_f": 0.0160857908847185,
+    "rougeL_f": 0.07466666666666669,
+    "meteor": 0.07194896323579567,
+    "bleu1": 0.09159350366941416,
+    "bleu2": 0.030045835579844037,
+    "bleu3": 0.014388376300431986,
+    "bleu4": 0.005605296967988446,
+    "bertscore_precision": 0.3440249264240265,
+    "bertscore_recall": 0.3351771831512451,
+    "bertscore_f1": 0.3395434319972992
+  }
+}

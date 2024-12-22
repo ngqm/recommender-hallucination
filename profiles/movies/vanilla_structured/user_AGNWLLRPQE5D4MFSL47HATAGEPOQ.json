@@ -1,0 +1,68 @@
+{
+  "user_id": "AGNWLLRPQE5D4MFSL47HATAGEPOQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/03/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['Cartoon Network']}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kunihiko Yuyama'], 'Starring': ['Ikue Ohtani', 'Veronica Taylor'], 'Studio': ['Pokemon']}\nReview Text: Kids love it. They watch it often.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/09/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Yates'], 'Producers': ['David Heyman', 'David Barron'], 'Starring': ['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']}\nReview Text: Kids love it.\nReview Title: A Favorite\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2018/09/30\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['John Carpenter'], 'Producers': ['Larry Franco'], 'Starring': ['Dennis Dun', 'James Hong'], 'Studio': ['Crowd Pleasers']}\nReview Text: Great Movie. Oddball fun! Probably to intense for young kids.\nReview Title: Fun Movie.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Pitch Perfect 2\nReview Date: 2018/09/30\nCategories: Comedy, Arts, Entertainment, and Culture, Charming, Feel-good\nProduct Description: [\"After a scandal threatens to derails their last year at Barden, the three-time defending champs worry that they've lost their harmony for good. With one chance left at redeeming their legacy, they must face off against the toughest competition on the planet: German supergroup Das Sound Machine and fight for their right to win at the World Championships of A Cappella.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Elizabeth Banks'], 'Producers': ['Elizabeth Banks', 'Max Handelman'], 'Starring': ['Anna Kendrick', 'Rebel Wilson', 'Anna Camp']}\nReview Text: Kids happy with it\nReview Title: Made the kids happy.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2018/10/20\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burton', 'Joe Roth', 'Linda Woolverton', 'Jennifer Todd', 'Suzanne Todd'], 'Starring': ['Mia Wasikowska', 'Johnny Depp', 'Anne Hathaway'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Kids liked the movie.\nReview Title: Enjoyable\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['Cartoon Network']}\nLove it\nFive Stars\n{'Content advisory': ['Violence', 'frightening scenes', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kunihiko Yuyama'], 'Starring': ['Ikue Ohtani', 'Veronica Taylor'], 'Studio': ['Pokemon']}\nKids love it. They watch it often.\nFour Stars\n{'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Yates'], 'Producers': ['David Heyman', 'David Barron'], 'Starring': ['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']}\nKids love it.\nA Favorite\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['John Carpenter'], 'Producers': ['Larry Franco'], 'Starring': ['Dennis Dun', 'James Hong'], 'Studio': ['Crowd Pleasers']}\nGreat Movie. Oddball fun! Probably to intense for young kids.\nFun Movie.\nPitch Perfect 2\nComedy, Arts, Entertainment, and Culture, Charming, Feel-good\n[\"After a scandal threatens to derails their last year at Barden, the three-time defending champs worry that they've lost their harmony for good. With one chance left at redeeming their legacy, they must face off against the toughest competition on the planet: German supergroup Das Sound Machine and fight for their right to win at the World Championships of A Cappella.\"]\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Elizabeth Banks'], 'Producers': ['Elizabeth Banks', 'Max Handelman'], 'Starring': ['Anna Kendrick', 'Rebel Wilson', 'Anna Camp']}\nKids happy with it\nMade the kids happy.\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burton', 'Joe Roth', 'Linda Woolverton', 'Jennifer Todd', 'Suzanne Todd'], 'Starring': ['Mia Wasikowska', 'Johnny Depp', 'Anne Hathaway'], 'Studio': ['Walt Disney Pictures']}\nKids liked the movie.\nEnjoyable",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/03/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['Cartoon Network']}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kunihiko Yuyama'], 'Starring': ['Ikue Ohtani', 'Veronica Taylor'], 'Studio': ['Pokemon']}\nReview Text: Kids love it. They watch it often.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/09/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Yates'], 'Producers': ['David Heyman', 'David Barron'], 'Starring': ['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']}\nReview Text: Kids love it.\nReview Title: A Favorite\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2018/09/30\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['John Carpenter'], 'Producers': ['Larry Franco'], 'Starring': ['Dennis Dun', 'James Hong'], 'Studio': ['Crowd Pleasers']}\nReview Text: Great Movie. Oddball fun! Probably to intense for young kids.\nReview Title: Fun Movie.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Pitch Perfect 2\nReview Date: 2018/09/30\nCategories: Comedy, Arts, Entertainment, and Culture, Charming, Feel-good\nProduct Description: [\"After a scandal threatens to derails their last year at Barden, the three-time defending champs worry that they've lost their harmony for good. With one chance left at redeeming their legacy, they must face off against the toughest competition on the planet: German supergroup Das Sound Machine and fight for their right to win at the World Championships of A Cappella.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Elizabeth Banks'], 'Producers': ['Elizabeth Banks', 'Max Handelman'], 'Starring': ['Anna Kendrick', 'Rebel Wilson', 'Anna Camp']}\nReview Text: Kids happy with it\nReview Title: Made the kids happy.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2018/10/20\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burton', 'Joe Roth', 'Linda Woolverton', 'Jennifer Todd', 'Suzanne Todd'], 'Starring': ['Mia Wasikowska', 'Johnny Depp', 'Anne Hathaway'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Kids liked the movie.\nReview Title: Enjoyable\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for family-oriented media, particularly animated and entertaining films that appeal to children. The buyer consistently rates products highly, often scoring between 4.7 and 5.0, indicating satisfaction with the quality and entertainment value. Common themes include a focus on engaging narratives that are accessible and enjoyable for young audiences while also incorporating elements like humor and creativity.\n\nFrequent mentions of kids\u2019 enjoyment highlight the importance of family approval in the purchasing decisions. There is also a noticeable acceptance of content with mild violence and some adult themes, suggesting a willingness to expose children to broader thematic material, albeit cautiously.\n\nQuality preferences lean towards well-produced films involving recognized studios or directors, reflecting a discerning taste despite price sensitivity. The consumer appears to favor reasonably priced products from reputable sources rather than high-end options, aligning with a pragmatic approach to family entertainment. Overall, the synthesis underscores a desire for enjoyable, wholesome, and engaging entertainment suitable for shared family experiences, with a balance of quality and cost-effectiveness.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Kids loved it.",
+    "text": "Kept the kids attention for duration of movie.",
+    "images": [],
+    "asin": "B009EE4YWI",
+    "parent_asin": "B009EE4YWI",
+    "user_id": "AGNWLLRPQE5D4MFSL47HATAGEPOQ",
+    "timestamp": "2018-10-20 10:55:10.741000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.6,
+    "rating_number": 14770,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d17421290bb6a21519b19ffaeea25013c28e672df7f872693360a7d9c5268b8._RI_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Chris Columbus"
+      ],
+      "Producers": [
+        "Karen Rosenfelt",
+        "Chris Columbus",
+        "Michael Barnathan"
+      ],
+      "Starring": [
+        "Alexandra Daddario",
+        "Pierce Brosnan",
+        "Steve Coogan"
+      ],
+      "Studio": [
+        "Fox"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

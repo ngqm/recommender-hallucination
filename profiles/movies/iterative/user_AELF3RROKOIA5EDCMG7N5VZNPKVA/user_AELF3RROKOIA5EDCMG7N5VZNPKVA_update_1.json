@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Squanto: A Warrior's Tale\nReview Date: 2013/11/28\nCategories: Drama, Adventure, Thrilling, Ambitious\nProduct Description: ['Squanto, a young warrior abducted from his homeland and enslaved, must battle impossible hazards on a desperate journey home. Driven by a passion to be free, he risks everything to escape his captors.']\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Xavier Koller'], 'Producers': ['Kathryn F. Galan'], 'Starring': ['Adam Beach', 'Eric Schweig', 'Michael Gambon']}\nReview Text: A historically inaccurate piece of trash.  Whoever was the consultant/scriptwriter of this film, is an ignoramus of history.  After watching this film in agony on Thanksgiving eve,  I wanted to fall on my spear.\nReview Title: Worst Thanksgiving movie ever!\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Squanto: A Warrior's Tale\nDrama, Adventure, Thrilling, Ambitious\n['Squanto, a young warrior abducted from his homeland and enslaved, must battle impossible hazards on a desperate journey home. Driven by a passion to be free, he risks everything to escape his captors.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Xavier Koller'], 'Producers': ['Kathryn F. Galan'], 'Starring': ['Adam Beach', 'Eric Schweig', 'Michael Gambon']}\nA historically inaccurate piece of trash.  Whoever was the consultant/scriptwriter of this film, is an ignoramus of history.  After watching this film in agony on Thanksgiving eve,  I wanted to fall on my spear.\nWorst Thanksgiving movie ever!",
+  "profile": "**User Profile Summary:**\n\n- **Interests in Film Genres:** The user seems to have a keen interest in drama and adventure films, particularly those with thrilling and ambitious narratives.\n\n- **Value for Historical Accuracy:** They express strong dissatisfaction with films lacking historical accuracy, indicating a preference for authentic storytelling and factual representations in films.\n\n- **Critical Reviewing Style:** The user does not shy away from providing blunt and negative feedback, as evidenced by a stark contrast between a high rating for the film\u2019s ambition and a low rating due to perceived inaccuracies. This suggests a tendency to evaluate films based on both artistic merit and adherence to historical facts.\n\n- **Emotional Engagement:** Their review implies a deep emotional engagement with the content, as they humorously convey their disappointment during a family holiday, indicating that movie selections may be influenced by social or cultural contexts. \n\n- **Expectations for Quality:** The dramatic drop from a high rating to a low rating showcases a clear expectation for quality and substance in film, particularly regarding storytelling and character development.\n\n**Overall Trends:**\nThe user prioritizes historical accuracy in cinema, enjoys dramatic and adventurous narratives, and engages with films on a deeply emotional level, providing candid feedback on their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.17940199335548174,
+    "rouge2_f": 0.013377926421404684,
+    "rougeL_f": 0.11960132890365448,
+    "meteor": 0.1513317191283293,
+    "bleu1": 0.14785992217898833,
+    "bleu2": 0.04162611515665398,
+    "bleu3": 0.008791517820406974,
+    "bleu4": 0.004044263709901869,
+    "bertscore_precision": 0.3942936360836029,
+    "bertscore_recall": 0.3863876760005951,
+    "bertscore_f1": 0.3903006315231323
+  }
+}

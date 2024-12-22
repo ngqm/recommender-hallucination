@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wonder Pets!: Save the Nursery Rhyme\nReview Date: 2015/02/13\nStore: Rated:    Unrated    Format: DVD\nCategories: Movies & TV, Genre for Featured Categories, Kids & Family\nAverage Rating: 4.6\nProduct Details: {'Genre': 'Music Videos & Concerts', 'Format': 'Multiple Formats, Animated, Color, Full Screen, NTSC', 'Contributor': 'Wonder Pets', 'Language': 'Unqualified', 'Runtime': '1 hour and 37 minutes', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'Unrated (Not Rated)', 'Package Dimensions': '7.5 x 5.3 x 0.6 inches; 2.4 Ounces', 'Media Format': 'Multiple Formats, Animated, Color, Full Screen, NTSC', 'Run time': '1 hour and 37 minutes', 'Release date': 'June 3, 2008', 'Actors': 'Wonder Pets', 'Dubbed': 'English', 'Studio': 'Nickelodeon', 'Number of discs': '1'}\nReview Text: Love reading this.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jennifer Oxley', 'Robert Powers', 'Robert M. Wallace', 'Josh Selig', 'Dave Heiss', 'Michael T. Cocuzza', 'Melanie Pal', 'Ren Smith', 'Maciek Albrecht', 'John Canemaker'], 'Studio': ['Noggin']}\nLove it and so does my daughter\nFive Stars\nWonder Pets!: Save the Nursery Rhyme\nRated:    Unrated    Format: DVD\nMovies & TV, Genre for Featured Categories, Kids & Family\n{'Genre': 'Music Videos & Concerts', 'Format': 'Multiple Formats, Animated, Color, Full Screen, NTSC', 'Contributor': 'Wonder Pets', 'Language': 'Unqualified', 'Runtime': '1 hour and 37 minutes', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'Unrated (Not Rated)', 'Package Dimensions': '7.5 x 5.3 x 0.6 inches; 2.4 Ounces', 'Media Format': 'Multiple Formats, Animated, Color, Full Screen, NTSC', 'Run time': '1 hour and 37 minutes', 'Release date': 'June 3, 2008', 'Actors': 'Wonder Pets', 'Dubbed': 'English', 'Studio': 'Nickelodeon', 'Number of discs': '1'}\nLove reading this.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Enjoys children's programming that is engaging and entertaining for young audiences, with a notable focus on family-friendly content.\n- **Family-Oriented**: Values media that can be appreciated by both themselves and their child, emphasizing the importance of shared viewing experiences.\n- **Language Accessibility**: Prefers productions available in English, highlighting a need for understanding and accessibility through the use of English subtitles when available.\n- **High Standards**: Maintains a discerning taste for quality, evidenced by a consistent average rating of 4.7, and has recently demonstrated continued enthusiasm for high-quality children's media by giving a perfect score to a new purchase.\n- **Creators and Studios**: Displays a clear affinity towards reputable directors and production companies known for quality children's content, indicating trust in their output.\n\nThe user's recent interaction, marked by a positive review of a children's media title, reinforces their commitment to engaging, high-quality content that resonates with both themselves and their daughter, while remaining open to various formats and genres within the children's media category.",
+  "metrics": {
+    "rouge1_f": 0.14465408805031446,
+    "rouge2_f": 0.006329113924050633,
+    "rougeL_f": 0.07547169811320754,
+    "meteor": 0.06598793363499246,
+    "bleu1": 0.09071634095357223,
+    "bleu2": 0.005750371072115578,
+    "bleu3": 0.0022962677001708708,
+    "bleu4": 0.0014527152032402393,
+    "bertscore_precision": 0.36495548486709595,
+    "bertscore_recall": 0.37390661239624023,
+    "bertscore_f1": 0.3693768382072449
+  }
+}

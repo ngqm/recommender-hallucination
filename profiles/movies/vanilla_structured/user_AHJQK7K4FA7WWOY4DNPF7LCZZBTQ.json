@@ -1,0 +1,68 @@
+{
+  "user_id": "AHJQK7K4FA7WWOY4DNPF7LCZZBTQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2015/02/21\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael M. Robin', 'Rick Wallace', 'Arvin Brown', 'Elodie Keene', 'Nelson McCormick', 'Steve Robin', 'Kevin Bacon', 'James Duff', 'Roxann Dawson', 'David McWhirter'], 'Producers': ['Not Specified'], 'Starring': ['Kyra Sedgwick', 'J.K. Simmons', 'Corey Reynolds'], 'Studio': ['Discovery Global']}\nReview Text: I love Kyra. She is very good actress and lovable character\u200b in the drama.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Divergent Series: Insurgent\nReview Date: 2015/08/22\nCategories: Science Fiction, Suspense, Exciting, Frightening\nProduct Description: [\"HD. Tris and Four are on the run from sinister Erudite leader Jeanine and her faction in this thrilling sequel to 'Divergent.'\"]\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nReview Text: It was not worth to watch it. Sucks!\nReview Title: Sucks!\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/11/23\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gus Van Sant'], 'Producers': ['F. Gary Gray', 'E. Brian Dobbins', 'Allen Fischer', 'Chris Sparling', 'Gil Netter', 'Ken Kao', 'Kevin Halloran'], 'Starring': ['Matthew McConaughey', 'Ken Watanabe', 'Naomi Watts']}\nReview Text: Very nice story, It is kind of a Japanese Methology.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/11/23\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Avnet'], 'Producers': ['Wolfgang Petersen', 'Gail Katz', 'Jon Avnet', 'Jordan Kerner', 'Charles B. Mulvehill', 'Rosalie Swedlin'], 'Starring': ['Richard Gere', 'Bai Ling', 'Bradley Whitford']}\nReview Text: I like it!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/31\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nReview Text: I like it.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael M. Robin', 'Rick Wallace', 'Arvin Brown', 'Elodie Keene', 'Nelson McCormick', 'Steve Robin', 'Kevin Bacon', 'James Duff', 'Roxann Dawson', 'David McWhirter'], 'Producers': ['Not Specified'], 'Starring': ['Kyra Sedgwick', 'J.K. Simmons', 'Corey Reynolds'], 'Studio': ['Discovery Global']}\nI love Kyra. She is very good actress and lovable character\u200b in the drama.\nFive Stars\nThe Divergent Series: Insurgent\nScience Fiction, Suspense, Exciting, Frightening\n[\"HD. Tris and Four are on the run from sinister Erudite leader Jeanine and her faction in this thrilling sequel to 'Divergent.'\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nIt was not worth to watch it. Sucks!\nSucks!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gus Van Sant'], 'Producers': ['F. Gary Gray', 'E. Brian Dobbins', 'Allen Fischer', 'Chris Sparling', 'Gil Netter', 'Ken Kao', 'Kevin Halloran'], 'Starring': ['Matthew McConaughey', 'Ken Watanabe', 'Naomi Watts']}\nVery nice story, It is kind of a Japanese Methology.\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Avnet'], 'Producers': ['Wolfgang Petersen', 'Gail Katz', 'Jon Avnet', 'Jordan Kerner', 'Charles B. Mulvehill', 'Rosalie Swedlin'], 'Starring': ['Richard Gere', 'Bai Ling', 'Bradley Whitford']}\nI like it!\nFour Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nI like it.\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2015/02/21\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael M. Robin', 'Rick Wallace', 'Arvin Brown', 'Elodie Keene', 'Nelson McCormick', 'Steve Robin', 'Kevin Bacon', 'James Duff', 'Roxann Dawson', 'David McWhirter'], 'Producers': ['Not Specified'], 'Starring': ['Kyra Sedgwick', 'J.K. Simmons', 'Corey Reynolds'], 'Studio': ['Discovery Global']}\nReview Text: I love Kyra. She is very good actress and lovable character\u200b in the drama.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Divergent Series: Insurgent\nReview Date: 2015/08/22\nCategories: Science Fiction, Suspense, Exciting, Frightening\nProduct Description: [\"HD. Tris and Four are on the run from sinister Erudite leader Jeanine and her faction in this thrilling sequel to 'Divergent.'\"]\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nReview Text: It was not worth to watch it. Sucks!\nReview Title: Sucks!\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/11/23\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gus Van Sant'], 'Producers': ['F. Gary Gray', 'E. Brian Dobbins', 'Allen Fischer', 'Chris Sparling', 'Gil Netter', 'Ken Kao', 'Kevin Halloran'], 'Starring': ['Matthew McConaughey', 'Ken Watanabe', 'Naomi Watts']}\nReview Text: Very nice story, It is kind of a Japanese Methology.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/11/23\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Avnet'], 'Producers': ['Wolfgang Petersen', 'Gail Katz', 'Jon Avnet', 'Jordan Kerner', 'Charles B. Mulvehill', 'Rosalie Swedlin'], 'Starring': ['Richard Gere', 'Bai Ling', 'Bradley Whitford']}\nReview Text: I like it!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/31\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nReview Text: I like it.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual demonstrates a strong preference for engaging and captivating storytelling, highlighting an affinity for drama and suspense genres. Ratings indicate high satisfaction with character-driven narratives, particularly emphasizing the quality of performances by notable actors. There is a pattern of extreme sentiment, oscillating from enthusiastic praise to stark criticism, as seen in one instance where a highly rated series is sharply denounced. \n\nRecurring themes in the purchase data suggest a penchant for films that explore complex narratives and deeper emotional themes, as evidenced by favorable remarks on storyline depth and cultural elements. Quality consistency is important, with higher ratings typically linked to emotionally resonant and well-acted films.\n\nPrice sensitivity patterns are less discernible, but the individual appears willing to invest in quality content, as indicated by high ratings despite varied production team prominence. The inclusion of content advisories also suggests a level of comfort with mature themes. Overall, this person favors well-crafted visual narratives that offer strong character development and emotional resonance, valuing both quality performances and compelling storytelling.",
+  "target_interaction": {
+    "rating": 4.0,
+    "title": "Four Stars",
+    "text": "Beautiful!",
+    "images": [],
+    "asin": "B016AT8EKM",
+    "parent_asin": "B016AT8EKM",
+    "user_id": "AHJQK7K4FA7WWOY4DNPF7LCZZBTQ",
+    "timestamp": "2017-01-31 02:38:50",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.4,
+    "rating_number": 549,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX360_FMwebp_.jpg",
+        "480w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX480_FMwebp_.jpg",
+        "720w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX720_FMwebp_.jpg",
+        "1080w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1080_FMwebp_.jpg",
+        "1440w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1440_FMwebp_.jpg",
+        "1920w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Greg MacGillivray"
+      ],
+      "Producers": [
+        "Greg MacGillivray",
+        "Alec Lorimore",
+        "Christopher N. Palmer",
+        "Chat Reynders"
+      ],
+      "Starring": [
+        "Liam Neeson",
+        "Howard Hall",
+        "Michele Hall"
+      ],
+      "Studio": [
+        "MacGillivray Freeman Films"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

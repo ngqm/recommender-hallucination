@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/04\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Judd Apatow'], 'Producers': ['Judd Apatow', 'Barry Mendel'], 'Starring': ['Amy Schumer', 'Bill Hader', 'Daniel Radcliffe']}\nReview Text: Enjoy it\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Mangold'], 'Producers': ['Hugh Jackman', 'Lauren Shuler Donner', 'Hutch Parker'], 'Starring': ['Hugh Jackman', 'Hiroyuki Sanada', 'Famke Janssen'], 'Studio': ['20th Century Fox']}\nI thought the movie was ok.  It had more action than plot.  I was able to enjoy it with family.\nIt was Ok\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nMovie was ok\nFour Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Judd Apatow'], 'Producers': ['Judd Apatow', 'Barry Mendel'], 'Starring': ['Amy Schumer', 'Bill Hader', 'Daniel Radcliffe']}\nEnjoy it\nThree Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Rating Tendencies:** The user's average rating has slipped slightly to 4.5, reflecting a discernible shift in their engagement with content, as evidenced by a recent 3.0 rating for a film that, despite its entertaining elements, did not meet their expectations. This indicates a growing discernment in their viewing choices.\n\n- **Content Preferences:** The user remains a fan of engaging and entertaining content with a particular affinity for the action genre. They continue to emphasize coherent storytelling and have a strong preference for family-friendly options, although their recent interactions suggest they may be exploring more diverse narratives that balance humor and adult themes.\n\n- **Themes and Advisory:** The user is accepting of mature themes and content that includes violence, nudity, and strong language, aligning with their openness to adult-oriented material. However, their recent review reflects a critical perspective, showing they are becoming increasingly selective about the entertainment they endorse.\n\n- **Language and Accessibility:** The user consistently prefers English audio featuring options for audio description and closed captions, reinforcing their commitment to accessibility in their viewing experiences.\n\nIn summary, the user enjoys action-oriented narratives that engage families, yet their recent rating suggests a more discerning approach, reflecting evolving preferences in content quality and appropriateness.",
+  "metrics": {
+    "rouge1_f": 0.11209439528023599,
+    "rouge2_f": 0.011869436201780418,
+    "rougeL_f": 0.07669616519174041,
+    "meteor": 0.06924153156066762,
+    "bleu1": 0.09532737074614508,
+    "bleu2": 0.00560882445578961,
+    "bleu3": 0.002184377312536647,
+    "bleu4": 0.0013645377565480524,
+    "bertscore_precision": 0.35181495547294617,
+    "bertscore_recall": 0.37116292119026184,
+    "bertscore_f1": 0.3612300455570221
+  }
+}

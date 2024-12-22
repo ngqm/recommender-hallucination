@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 13X6 Lace Front Wigs Human Hair Pre Plucked With Baby Hair Brazilian Virgin Hair Kinky Straight Human Hair Wigs For Women Deep Part Space 13 By 6 Wigs Wet And Wavy 100% Human Hair 9A Grade 20 Inch\nReview Date: 2021/08/17\nStore: Isufer\nAverage Rating: 1.0\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Brand': 'Isufer', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.69 x 6.85 x 0.94 inches; 12.35 Ounces'}\nReview Text: [[VIDEOID:3de2bb88b3773ef8a1507ffa36dfd57c]] This whole wig is a scam. I\u2019m really trying to understand where all of these great reviews came from.<br />This is worth Nowhere near the amount of money that I paid for this. The hairline was not pre-plucked, the knots were not bleached, and the frontal part is not the same length as the rest of the hair. I ordered a 20 inch and the frontal part is maybe 10 inches long.<br />I have included pictures. This will be going back today.\nReview Title: So disappointed\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "13X6 Lace Front Wigs Human Hair Pre Plucked With Baby Hair Brazilian Virgin Hair Kinky Straight Human Hair Wigs For Women Deep Part Space 13 By 6 Wigs Wet And Wavy 100% Human Hair 9A Grade 20 Inch\nIsufer\n{'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Brand': 'Isufer', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.69 x 6.85 x 0.94 inches; 12.35 Ounces'}\n[[VIDEOID:3de2bb88b3773ef8a1507ffa36dfd57c]] This whole wig is a scam. I\u2019m really trying to understand where all of these great reviews came from.<br />This is worth Nowhere near the amount of money that I paid for this. The hairline was not pre-plucked, the knots were not bleached, and the frontal part is not the same length as the rest of the hair. I ordered a 20 inch and the frontal part is maybe 10 inches long.<br />I have included pictures. This will be going back today.\nSo disappointed",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** This user has shown a preference for human hair wigs, indicating a focus on quality and realism in hair options.\n  \n- **Quality Expectation:** The interaction reflects high expectations in terms of product quality, specifically regarding features like pre-plucked hairlines and bleached knots.\n\n- **Disappointment in Value:** The user experienced significant dissatisfaction with a recent purchase, feeling the product did not meet its advertised standards or justify its price, suggesting a strong emphasis on perceived value and honesty in product representation.\n\n- **Attention to Detail:** The review highlights specific concerns regarding product length and accuracy, pointing to a detail-oriented mindset when assessing purchases.\n\n- **Return Behavior:** The user indicates a willingness to return products that do not meet expectations, suggesting a proactive approach to consumer rights and satisfaction.\n\n- **Communication Style:** The user communicates openly about their dissatisfaction, seeking to understand discrepancies between reviews and their own experience, indicative of skepticism towards potentially misleading marketing.\n\nOverall, the user is a discerning buyer who values quality, accuracy, and transparency in product features, particularly in the beauty and hair care category.",
+  "metrics": {
+    "rouge1_f": 0.22089552238805968,
+    "rouge2_f": 0.030030030030030026,
+    "rougeL_f": 0.11940298507462685,
+    "meteor": 0.16912766746383,
+    "bleu1": 0.16806722689075632,
+    "bleu2": 0.05325953125068132,
+    "bleu3": 0.010632308244297574,
+    "bleu4": 0.004755582317747752,
+    "bertscore_precision": 0.40369755029678345,
+    "bertscore_recall": 0.3973087966442108,
+    "bertscore_f1": 0.40047770738601685
+  }
+}

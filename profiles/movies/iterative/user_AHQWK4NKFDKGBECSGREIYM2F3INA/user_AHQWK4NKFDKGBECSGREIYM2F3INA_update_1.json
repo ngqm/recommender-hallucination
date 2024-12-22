@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Train - Midnight Moon\nReview Date: 2010/11/17\nStore: Rated:    Unrated    Format: DVD\nCategories: Movies & TV, Studio Specials, Sony Pictures Home Entertainment, All Sony Pictures Titles\nProduct Description: ['Train Midnight Moon']\nAverage Rating: 4.4\nProduct Details: {'Genre': 'Musicals & Performing Arts, Train Midnight Moon', 'Format': 'Multiple Formats, Color, NTSC', 'Contributor': 'Train', 'Language': 'English', 'Runtime': '3 hours and 14 minutes', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '5.3 x 7.5 x 0.62 inches; 4 Ounces', 'Media Format': 'Multiple Formats, Color, NTSC', 'Run time': '3 hours and 14 minutes', 'Release date': 'December 18, 2001', 'Actors': 'Train', 'Studio': 'Sony Legacy', 'Number of discs': '1'}\nReview Text: This DVD arrived as promised, actually they came in a little earlier than promised and they are good quality. Would order again from this site.\nReview Title: Great Product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Train - Midnight Moon\nRated:    Unrated    Format: DVD\nMovies & TV, Studio Specials, Sony Pictures Home Entertainment, All Sony Pictures Titles\n['Train Midnight Moon']\n{'Genre': 'Musicals & Performing Arts, Train Midnight Moon', 'Format': 'Multiple Formats, Color, NTSC', 'Contributor': 'Train', 'Language': 'English', 'Runtime': '3 hours and 14 minutes', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '5.3 x 7.5 x 0.62 inches; 4 Ounces', 'Media Format': 'Multiple Formats, Color, NTSC', 'Run time': '3 hours and 14 minutes', 'Release date': 'December 18, 2001', 'Actors': 'Train', 'Studio': 'Sony Legacy', 'Number of discs': '1'}\nThis DVD arrived as promised, actually they came in a little earlier than promised and they are good quality. Would order again from this site.\nGreat Product",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference**: Strong inclination towards music-related content, particularly live performances and musical documentaries.\n- **Genre Affinity**: Enjoys musicals and performing arts, indicating a preference for entertainment that features music and performance elements.\n- **Quality Expectation**: Values product quality and timely delivery, as evident from positive experiences with purchases arriving ahead of schedule.\n- **Shopping Behavior**: Likely to repeat purchases or loyalty to platforms that deliver quality products promptly.\n- **Rating Tendencies**: Tends to provide positive feedback and high ratings for products that meet or exceed expectations.\n- **Media Format**: Open to various formats, suggesting flexibility in viewing preferences, possibly for both physical and digital media.\n\nOverall, this user demonstrates a passion for music performances, appreciates quality service, and shows a tendency towards positive reinforcement through their reviews.",
+  "metrics": {
+    "rouge1_f": 0.19433198380566802,
+    "rouge2_f": 0.02448979591836735,
+    "rougeL_f": 0.1214574898785425,
+    "meteor": 0.10235554065121201,
+    "bleu1": 0.14758931676869486,
+    "bleu2": 0.008544710040796172,
+    "bleu3": 0.0033117023051099266,
+    "bleu4": 0.0020646028751289793,
+    "bertscore_precision": 0.39295658469200134,
+    "bertscore_recall": 0.42110663652420044,
+    "bertscore_f1": 0.40654489398002625
+  }
+}

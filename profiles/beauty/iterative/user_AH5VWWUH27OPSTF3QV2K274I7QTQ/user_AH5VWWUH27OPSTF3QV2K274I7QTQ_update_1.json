@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nReview Date: 2020/08/02\nStore: Azun\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nReview Text: This bath pillow is so soft and comfortable! It offers perfect neck support for true relaxation. I love that it has big suction cups that are durable and strong, it allows the pillow to stay in place and not float away like other neck pillows I've owned. I squeezed out the water and hung it in my shower until it stopped dripping all the access water, then I just hung in on my towel hooks to completely dry (it's lightweight and dried fast). This is the perfect bathtime accessory, I highly recommend it.\nReview Title: Perfect for comfort and relaxation \ud83d\udec0\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nAzun\n{'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nThis bath pillow is so soft and comfortable! It offers perfect neck support for true relaxation. I love that it has big suction cups that are durable and strong, it allows the pillow to stay in place and not float away like other neck pillows I've owned. I squeezed out the water and hung it in my shower until it stopped dripping all the access water, then I just hung in on my towel hooks to completely dry (it's lightweight and dried fast). This is the perfect bathtime accessory, I highly recommend it.\nPerfect for comfort and relaxation \ud83d\udec0",
+  "profile": "**User Summary:**\n\n- **Comfort & Relaxation:** The user prioritizes comfort, particularly during bathing, as indicated by their strong appreciation for a supportive bath pillow. \n- **Effective Design:** They value products with practical features like strong suction cups for stability, highlighting a preference for functionality in accessories.\n- **Durability & Care:** The user likely prefers items that are easy to maintain, demonstrated by their attention to the product's quick-drying ability and lightweight design.\n- **Positive Experience Sharing:** The user enjoys sharing their positive experiences and recommendations, suggesting a tendency to engage with brands or products that meet their high standards for quality and utility.\n- **High-Quality Materials:** Preference for certain materials, such as breathable and fast-drying mesh, suggests an inclination towards quality that enhances the overall experience.\n- **Wellness Focus:** The review reflects a broader interest in wellness and pampering, seeking products that contribute to relaxation and self-care routines. \n\nOverall, this user demonstrates a clear trend towards seeking comfortable, functional, and easy-to-maintain products that enhance their bath time experience.",
+  "metrics": {
+    "rouge1_f": 0.32121212121212117,
+    "rouge2_f": 0.018292682926829267,
+    "rougeL_f": 0.13939393939393938,
+    "meteor": 0.17031098456199667,
+    "bleu1": 0.22972972972972974,
+    "bleu2": 0.05584355932874551,
+    "bleu3": 0.011233312325266453,
+    "bleu4": 0.005043939244583032,
+    "bertscore_precision": 0.4371035099029541,
+    "bertscore_recall": 0.44466066360473633,
+    "bertscore_f1": 0.4408496916294098
+  }
+}

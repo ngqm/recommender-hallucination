@@ -1,0 +1,72 @@
+{
+  "user_id": "AF6LVJ6SBJLDN4VUZEAI5Z2M223Q",
+  "summary": "=== Purchase Information ===\nProduct Title: TOODOO 2 Pack Double Head Cuticle and Gel Nail Polish Pusher Cuticle Remove Tool Set Stainless Steel Triangle Cuticle Pusher\nReview Date: 2019/03/12\nStore: MTLEE\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 0.98 x 0.59 inches; 0.81 Ounces', 'Item model number': 'TOODOO-Cuticle Pushers-01', 'UPC': '710560340422'}\nReview Text: Ok\nReview Title: Ok\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: NEE JOLIE 7.5ml 3D Cat Eye Nail Polish Shining Magnetic Nail Art Varnish Manicure Nail Design(6 Bottles)\nReview Date: 2019/11/28\nStore: NEE JOLIE\nAverage Rating: 2.6\nProduct Details: {'Package Dimensions': '6.1 x 1.4 x 0.4 inches; 7.2 Ounces'}\nReview Text: No sali\u00f3 como dicen\nReview Title: No\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 2 Pack Magic Soak Off Gel Nail Polish Remover, Professional Remover Nail Polish Delete Primer Acrylic Clean Degreaser For Nail Art Lacquer, Easily and Quickly(15ml)\nReview Date: 2019/11/28\nStore: God Blosmter\nAverage Rating: 3.2\nProduct Details: {'Package Dimensions': '3.5 x 2.8 x 1.4 inches; 4.8 Ounces', 'UPC': '882235206682'}\nReview Text: Bueno\nReview Title: Bueno\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Gel Nail Polish Soak Off UV LED Professsional Nails Art Pearl White Beau Gel 15ml (373)\nReview Date: 2019/11/28\nStore: Beau Gel\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Beau Gel', 'Item Form': 'Gel', 'Color': 'White', 'Type': 'Gel', 'Finish Type': 'Pearl', 'Special Feature': 'Chip Widest,Peel Off', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.6 x 3.7 x 1.2 inches; 2.24 Ounces', 'UPC': '712809701285'}\nReview Text: NO LO HE RECIBIDO, QUIERO MI PINTURA.\nReview Title: No lo he recibido, adonde esta????\nRating: 1.0\n--------------------------------------------------",
+  "reference": "TOODOO 2 Pack Double Head Cuticle and Gel Nail Polish Pusher Cuticle Remove Tool Set Stainless Steel Triangle Cuticle Pusher\nMTLEE\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 0.98 x 0.59 inches; 0.81 Ounces', 'Item model number': 'TOODOO-Cuticle Pushers-01', 'UPC': '710560340422'}\nOk\nOk\nNEE JOLIE 7.5ml 3D Cat Eye Nail Polish Shining Magnetic Nail Art Varnish Manicure Nail Design(6 Bottles)\nNEE JOLIE\n{'Package Dimensions': '6.1 x 1.4 x 0.4 inches; 7.2 Ounces'}\nNo sali\u00f3 como dicen\nNo\n2 Pack Magic Soak Off Gel Nail Polish Remover, Professional Remover Nail Polish Delete Primer Acrylic Clean Degreaser For Nail Art Lacquer, Easily and Quickly(15ml)\nGod Blosmter\n{'Package Dimensions': '3.5 x 2.8 x 1.4 inches; 4.8 Ounces', 'UPC': '882235206682'}\nBueno\nBueno\nGel Nail Polish Soak Off UV LED Professsional Nails Art Pearl White Beau Gel 15ml (373)\nBeau Gel\n{'Brand': 'Beau Gel', 'Item Form': 'Gel', 'Color': 'White', 'Type': 'Gel', 'Finish Type': 'Pearl', 'Special Feature': 'Chip Widest,Peel Off', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.6 x 3.7 x 1.2 inches; 2.24 Ounces', 'UPC': '712809701285'}\nNO LO HE RECIBIDO, QUIERO MI PINTURA.\nNo lo he recibido, adonde esta????",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: TOODOO 2 Pack Double Head Cuticle and Gel Nail Polish Pusher Cuticle Remove Tool Set Stainless Steel Triangle Cuticle Pusher\nReview Date: 2019/03/12\nStore: MTLEE\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 0.98 x 0.59 inches; 0.81 Ounces', 'Item model number': 'TOODOO-Cuticle Pushers-01', 'UPC': '710560340422'}\nReview Text: Ok\nReview Title: Ok\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: NEE JOLIE 7.5ml 3D Cat Eye Nail Polish Shining Magnetic Nail Art Varnish Manicure Nail Design(6 Bottles)\nReview Date: 2019/11/28\nStore: NEE JOLIE\nAverage Rating: 2.6\nProduct Details: {'Package Dimensions': '6.1 x 1.4 x 0.4 inches; 7.2 Ounces'}\nReview Text: No sali\u00f3 como dicen\nReview Title: No\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 2 Pack Magic Soak Off Gel Nail Polish Remover, Professional Remover Nail Polish Delete Primer Acrylic Clean Degreaser For Nail Art Lacquer, Easily and Quickly(15ml)\nReview Date: 2019/11/28\nStore: God Blosmter\nAverage Rating: 3.2\nProduct Details: {'Package Dimensions': '3.5 x 2.8 x 1.4 inches; 4.8 Ounces', 'UPC': '882235206682'}\nReview Text: Bueno\nReview Title: Bueno\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Gel Nail Polish Soak Off UV LED Professsional Nails Art Pearl White Beau Gel 15ml (373)\nReview Date: 2019/11/28\nStore: Beau Gel\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Beau Gel', 'Item Form': 'Gel', 'Color': 'White', 'Type': 'Gel', 'Finish Type': 'Pearl', 'Special Feature': 'Chip Widest,Peel Off', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.6 x 3.7 x 1.2 inches; 2.24 Ounces', 'UPC': '712809701285'}\nReview Text: NO LO HE RECIBIDO, QUIERO MI PINTURA.\nReview Title: No lo he recibido, adonde esta????\nRating: 1.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual's purchase history reveals a blend of positive and negative experiences with nail care products. A significant inconsistency in ratings indicates a discerning preference, with high satisfaction on effective tools (e.g., cuticle pushers), while dissatisfaction arises from products that fail to meet expectations regarding performance or delivery.\n\nCommon themes show a focus on nail beauty and maintenance, highlighting a strong interest in effective nail art solutions and removal tools. Reviews indicate a desire for products that perform as advertised, suggesting that false claims lead to disappointment.\n\nQuality preferences manifest as a tendency towards stainless steel tools and specialized nail gels, valuing durability and professional-grade effectiveness. The presence of mixed ratings across similar product types underscores a sensitivity to quality versus price, with lower-rated products often reflecting poorer value perceptions.\n\nOverall, this person exhibits a preference for high-quality nail care tools and reliable results, balanced with a critical view of marketing claims. Price sensitivity appears moderate; the individual is willing to invest in trusted brands but displays skepticism towards cheaper alternatives that disappoint. This delineates a core preference for credible, high-performance nail care solutions.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "De todo",
+    "text": "Gracias",
+    "images": [],
+    "asin": "B087TQ8NHY",
+    "parent_asin": "B087TQ8NHY",
+    "user_id": "AF6LVJ6SBJLDN4VUZEAI5Z2M223Q",
+    "timestamp": "2021-03-27 20:52:52.187000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Professional Portable Electric Nail Kit Manicure Set Pen Shape Gel Nail Polish Remover Machine with 30 PCS Iron 3/32 Nail Drill Bit Set for Acrylic Nail Tools",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51+99cvKQ3L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51+99cvKQ3L.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71bKeJhjTdL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51ttZrYHeUL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51ttZrYHeUL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/614Gdv74tBL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51G2uvB6EOL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51G2uvB6EOL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/61rhv3tGwNL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51N6aSJBPhL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51N6aSJBPhL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/6140-u5IAgL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51G2uvB6EOL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51G2uvB6EOL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/61rhv3tGwNL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61ghhK6e0rL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61ghhK6e0rL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/71CWfM8F5NL._SL1001_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "Vastitude",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "5.91 x 3.94 x 0.39 inches; 11.99 Ounces",
+      "UPC": "779303919240"
+    },
+    "bought_together": null
+  }
+}

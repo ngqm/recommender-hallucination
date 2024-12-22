@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/07/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Olin', 'Lawrence Trilling', 'Jack Bender', 'Daniel Attias', 'J.J. Abrams', 'Tucker Gates', 'Frederick E.O. Toye', 'Craig Zisk', 'Perry Lang', 'Jeffrey Bell'], 'Starring': ['Jennifer Garner', 'Ron Rifkin', 'Michael Vartan'], 'Studio': ['ABC']}\nReview Text: This is a fascinating program. I'm glad Amazon offers it so I can watch more than one episode at a time. The CIA or not. The truth or not. Good person or bad. That's what we get to ponder. Well acted with likable but devious characters\nReview Title: Cliffhanger\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Olin', 'Lawrence Trilling', 'Jack Bender', 'Daniel Attias', 'J.J. Abrams', 'Tucker Gates', 'Frederick E.O. Toye', 'Craig Zisk', 'Perry Lang', 'Jeffrey Bell'], 'Starring': ['Jennifer Garner', 'Ron Rifkin', 'Michael Vartan'], 'Studio': ['ABC']}\nThis is a fascinating program. I'm glad Amazon offers it so I can watch more than one episode at a time. The CIA or not. The truth or not. Good person or bad. That's what we get to ponder. Well acted with likable but devious characters\nCliffhanger",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys thrilling, engaging narratives with elements of intrigue and moral ambiguity.\n- **Themes:** Prefers content that explores complex character dynamics, including likable but morally ambiguous characters.\n- **Content Advisory Tolerance:** Open to storylines that include violence, alcohol use, smoking, foul language, and sexual content, suggesting a preference for mature themes.\n- **Viewing Behavior:** Appreciates binge-watching, indicating a preference for series that allow for consecutive episode viewing.\n- **Content Language and Accessibility:** Values English audio and subtitles, reflecting a need for clear comprehension and accessibility.\n- **Production Quality:** Shows an inclination towards well-acted productions with reputable directors and casts, indicating a preference for high-quality storytelling.\n\nThis user demonstrates a keen interest in intricate plots that provoke thought and discussion, along with a preference for mature and complex themes in their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.24242424242424243,
+    "rouge2_f": 0.07860262008733623,
+    "rougeL_f": 0.15584415584415587,
+    "meteor": 0.12514935655923165,
+    "bleu1": 0.19047619047619047,
+    "bleu2": 0.031830350703961514,
+    "bleu3": 0.0081523048902379,
+    "bleu4": 0.004131255681988569,
+    "bertscore_precision": 0.4279906749725342,
+    "bertscore_recall": 0.43174654245376587,
+    "bertscore_f1": 0.429860383272171
+  }
+}

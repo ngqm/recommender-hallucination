@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/23\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Bay'], 'Producers': ['Donald De Line', 'Michael Bay', 'Ian Bryce'], 'Starring': ['Mark Wahlberg', 'Dwayne Johnson', 'Anthony Mackie']}\nReview Text: It's kind of fun.  A little weird and pretty good entertainment.  It was worth the watch.\nReview Title: Kind of Fun-Little Weird-Worth the time to watch it.\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.C. Chandor'], 'Producers': ['Neal Dodson', 'Anna Gerb', 'Justin Nappi', 'Teddy Schwarzman'], 'Starring': ['Robert Redford'], 'Studio': ['Lionsgate']}\nA compelling movie, I really enjoyed the silence and the dedication that Robert Redford gave his  character to just keep doing whatever until the end... then.\nI really enjoyed the silence and the dedication that Robert Redford gave ...\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Bay'], 'Producers': ['Donald De Line', 'Michael Bay', 'Ian Bryce'], 'Starring': ['Mark Wahlberg', 'Dwayne Johnson', 'Anthony Mackie']}\nIt's kind of fun.  A little weird and pretty good entertainment.  It was worth the watch.\nKind of Fun-Little Weird-Worth the time to watch it.",
+  "profile": "User Summary:\n\n- **Rating Trends**: Generally positive, with an average rating of 4.2, recently updated to reflect a new interaction that rated a film at 3.0, suggesting a slightly more critical stance on certain entertainment forms.\n- **Content Preference**: Enjoys movies featuring elements of silence and a strong narrative, but has shown openness to films that might mix fun with unconventional storytelling, even if they include a lighter tone.\n- **Preferred Themes**: Prefers engaging storytelling that often includes darker themes, while also appreciating a blend of humor and entertainment, hinting at a flexible approach to theme depth.\n- **Artistic Elements**: Values performances from seasoned actors, with a continued inclination towards prominent leading roles, indicating a desire for diverse entertainment options that still hold complexity.\n- **Language & Accessibility**: Favors English audio and English subtitled content, indicating a consistent preference for accessibility in viewing that remains unchanged.\n- **Director & Production Influence**: Appreciates films produced by notable studios and directors, including recent interactions with well-known filmmakers, suggesting a continued loyalty to established cinematic quality despite exploring more varied genres.\n\nOverall, this user gravitates towards thoughtfully crafted films that combine strong performances and compelling storytelling, while increasingly showing flexibility towards different styles, including those that offer a lighter or more entertaining angle.",
+  "metrics": {
+    "rouge1_f": 0.1647058823529412,
+    "rouge2_f": 0.01775147928994083,
+    "rougeL_f": 0.09411764705882353,
+    "meteor": 0.10444874274661509,
+    "bleu1": 0.15969581749049427,
+    "bleu2": 0.024688580780516434,
+    "bleu3": 0.006158154507117413,
+    "bleu4": 0.003078538568051495,
+    "bertscore_precision": 0.3798772990703583,
+    "bertscore_recall": 0.38665106892585754,
+    "bertscore_f1": 0.38323426246643066
+  }
+}

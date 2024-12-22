@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Gents of London Design Paste Matt Firm Hold Professional Hair Styling Wax (3 oz)\nReview Date: 2020/02/23\nStore: GENTS OF LONDON\nAverage Rating: 4.0\nProduct Details: {'Hair Type': 'All', 'Scent': 'Aloe', 'Liquid Volume': '3 Fluid Ounces', 'Item Form': 'Wax', 'Brand': 'GENTS OF LONDON'}\nReview Text: This hair paste is awesome! for the price, it almost even out performs some way more expensive hair products! I used to use Paul Mitchell hair paste, but this is probably going to be my go to now.<br /><br />This stuff does have somewhat of a smell, but it smells sort of like the original old spice.  It's not too strong though, but if you want something scentless, then you may wanna try something else.\nReview Title: Smells Kinda like Old Spice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Gents of London Design Paste Matt Firm Hold Professional Hair Styling Wax (3 oz)\nGENTS OF LONDON\n{'Hair Type': 'All', 'Scent': 'Aloe', 'Liquid Volume': '3 Fluid Ounces', 'Item Form': 'Wax', 'Brand': 'GENTS OF LONDON'}\nThis hair paste is awesome! for the price, it almost even out performs some way more expensive hair products! I used to use Paul Mitchell hair paste, but this is probably going to be my go to now.<br /><br />This stuff does have somewhat of a smell, but it smells sort of like the original old spice.  It's not too strong though, but if you want something scentless, then you may wanna try something else.\nSmells Kinda like Old Spice",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Preference:** The user values effective hair styling products, indicating a preference for professional-grade items that provide a firm hold. They have a tendency to switch from higher-priced brands to more affordable options that deliver comparable results.\n  \n- **Scent Sensitivity:** The user expresses a moderate tolerance for scents, noting that while the product has a distinct smell reminiscent of Old Spice, it is not overpowering. They seem to prefer products with subtle fragrances rather than overpowering ones.\n\n- **Brand Loyalty:** The user appears to show flexibility in brand allegiance, as demonstrated by their shift from a well-known brand to a more cost-effective alternative. This suggests openness to trying new products based on performance rather than brand reputation alone.\n\n- **Value-Consciousness:** The user appreciates good value, willing to switch to products that offer superior quality for a lower price, reflecting a budget-conscious approach to personal care. \n\nOverall, this user is likely to prioritize performance and value in hair care products, while showing moderate flexibility towards scents and brand choices.",
+  "metrics": {
+    "rouge1_f": 0.22680412371134023,
+    "rouge2_f": 0.02768166089965398,
+    "rougeL_f": 0.10309278350515463,
+    "meteor": 0.1785296333408913,
+    "bleu1": 0.17757009345794392,
+    "bleu2": 0.05000987134358603,
+    "bleu3": 0.010566355166975159,
+    "bleu4": 0.004862653114849673,
+    "bertscore_precision": 0.42961400747299194,
+    "bertscore_recall": 0.4283943772315979,
+    "bertscore_f1": 0.4290033280849457
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BeautyBio GloPRO Regeneration Tools\nReview Date: 2018/12/06\nAverage Rating: 4.3\nProduct Details: {'Product Dimensions': '9.88 x 2.38 x 7.88 inches; 1.3 Pounds', 'Item model number': 'ZumYu', 'Batteries': '2 AAA batteries required. (included)', 'UPC': '810813030237 851262002673', 'Manufacturer': 'BeautyBio', 'Country of Origin': 'China'}\nReview Text: This is a very nice Microneedling tool.  Although it is probably more of an exfoliation than a true microneedling session by a pro, it definitely makes a difference.  No redness, no swelling and no bleeding.  Skin was definitely softer after use and moisturizer was absorbed better and more thoroughly.<br /><br />The 2 different sized rollers and red light therapy are a nice bonus.<br /><br />Recommend.\nReview Title: Really nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BeautyBio GloPRO Regeneration Tools\n{'Product Dimensions': '9.88 x 2.38 x 7.88 inches; 1.3 Pounds', 'Item model number': 'ZumYu', 'Batteries': '2 AAA batteries required. (included)', 'UPC': '810813030237 851262002673', 'Manufacturer': 'BeautyBio', 'Country of Origin': 'China'}\nThis is a very nice Microneedling tool.  Although it is probably more of an exfoliation than a true microneedling session by a pro, it definitely makes a difference.  No redness, no swelling and no bleeding.  Skin was definitely softer after use and moisturizer was absorbed better and more thoroughly.<br /><br />The 2 different sized rollers and red light therapy are a nice bonus.<br /><br />Recommend.\nReally nice",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Skincare and beauty tools, particularly those that enhance skin texture and overall appearance.\n- **User Preference:** Prefers non-invasive, effective solutions that help with skin softness and absorption of skincare products, indicating a focus on improving skincare routines.\n- **Positive Experience Indicators:** User appreciates features such as multiple roller sizes and additional therapies like red light, suggesting a preference for multifunctional tools that enhance efficacy and convenience.\n- **Performance Expectations:** Expects products to deliver noticeable results without causing adverse effects like redness or swelling, pointing to a desire for gentle yet effective skincare solutions.\n- **Recommendation Behavior:** Willing to recommend products that align with their positive experiences, highlighting trust in efficacy and satisfaction with the purchase. \n\nThis user demonstrates a clear inclination towards effective, innovative skincare technologies that provide tangible benefits without invasive procedures or discomfort.",
+  "metrics": {
+    "rouge1_f": 0.18930041152263377,
+    "rouge2_f": 0.008298755186721992,
+    "rougeL_f": 0.09053497942386832,
+    "meteor": 0.14883594747576856,
+    "bleu1": 0.17391304347826086,
+    "bleu2": 0.030827658034323767,
+    "bleu3": 0.008052608018449845,
+    "bleu4": 0.0041212862077429305,
+    "bertscore_precision": 0.42521101236343384,
+    "bertscore_recall": 0.4448239207267761,
+    "bertscore_f1": 0.43479639291763306
+  }
+}

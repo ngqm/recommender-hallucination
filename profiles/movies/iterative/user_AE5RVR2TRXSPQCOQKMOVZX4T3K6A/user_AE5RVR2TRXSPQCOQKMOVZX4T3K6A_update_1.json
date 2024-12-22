@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/15\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Byron Howard', 'Rich Moore'], 'Producers': ['Clark Spencer'], 'Starring': ['Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba']}\nReview Text: Entertaining\nReview Title: Cute movie\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Byron Howard', 'Rich Moore'], 'Producers': ['Clark Spencer'], 'Starring': ['Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba']}\nEntertaining\nCute movie",
+  "profile": "**User Profile Summary:**\n\n- **General Attitude:** Enthusiastic and positive approach to entertainment; appreciates quality and engaging content.\n- **Content Preferences:** Enjoys animated and family-oriented films, indicating a preference for light-hearted and cute narratives.\n- **Language and Accessibility:** Values options for audio descriptions and closed captions, showing consideration for inclusivity in viewing experiences.\n- **Rating Behavior:** Tends to rate products highly, with an average score indicating satisfaction and enjoyment.\n- **Themes:** Shows an interest in animal characters or stories, based on the context of the review and titles associated with animated features.\n- **Audience Focus:** Likely enjoys content suitable for all ages, emphasizing family-friendly entertainment. \n\nOverall, the user appears to favor entertaining, well-produced animated films with accessibility features, maintaining a generally favorable outlook on their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.07947019867549668,
+    "rouge2_f": 0.01342281879194631,
+    "rougeL_f": 0.052980132450331126,
+    "meteor": 0.1290980158183793,
+    "bleu1": 0.07344632768361581,
+    "bleu2": 0.006459943343563812,
+    "bleu3": 0.002878324734894068,
+    "bleu4": 0.0019240552122251249,
+    "bertscore_precision": 0.413973867893219,
+    "bertscore_recall": 0.3369104564189911,
+    "bertscore_f1": 0.37148767709732056
+  }
+}

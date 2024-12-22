@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Cutting Scissors Set 10 Pcs Professional Hairdressing Scissors Kit, Hair Cutting Scissors, Thinning Shears, Hair Razor Comb, Clips, Cape, Shears Kit for Home, Salon, Barber\nReview Date: 2020/09/15\nStore: P.travel\nAverage Rating: 4.1\nProduct Details: {'Brand': 'P.travel', 'Included Components': 'Scissors', 'Unit Count': '1 Count', 'Blade Material': 'Stainless Steel', 'Package Dimensions': '11.2 x 5.5 x 1.5 inches; 11.22 Ounces', 'UPC': '740646020214', 'Manufacturer': 'P.travel'}\nReview Text: [[VIDEOID:e63684315904fe3d7cd3092a12671e7d]] This is a great kit for my household. We do touch ups in between our appointments. The cape is thin and has small ties in the back but works perfect for both my husband and I. The scissors are a little bigger so for my smaller hands I could use a little bit smaller pair but it does the trick. I also have used the cape when I dye my roots and it works great to keep me protected.\nReview Title: Perfect kit for my touch ups\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Cutting Scissors Set 10 Pcs Professional Hairdressing Scissors Kit, Hair Cutting Scissors, Thinning Shears, Hair Razor Comb, Clips, Cape, Shears Kit for Home, Salon, Barber\nP.travel\n{'Brand': 'P.travel', 'Included Components': 'Scissors', 'Unit Count': '1 Count', 'Blade Material': 'Stainless Steel', 'Package Dimensions': '11.2 x 5.5 x 1.5 inches; 11.22 Ounces', 'UPC': '740646020214', 'Manufacturer': 'P.travel'}\n[[VIDEOID:e63684315904fe3d7cd3092a12671e7d]] This is a great kit for my household. We do touch ups in between our appointments. The cape is thin and has small ties in the back but works perfect for both my husband and I. The scissors are a little bigger so for my smaller hands I could use a little bit smaller pair but it does the trick. I also have used the cape when I dye my roots and it works great to keep me protected.\nPerfect kit for my touch ups",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus:** This user is interested in personal grooming, particularly hair cutting and styling tools for home use, reflecting a DIY approach to hair care.\n  \n- **Product Preference:** They value comprehensive kits that include multiple tools for versatility, indicating a preference for bundled products over individual items.\n\n- **Practicality:** The user seeks functional solutions that cater to both personal and household needs, suggesting a practical mindset when it comes to personal care.\n\n- **Ease of Use:** Acknowledges the importance of user-friendly tools, as evidenced by their comment on the size of scissors, indicating a preference for ergonomics.\n\n- **Multi-Use Capability:** Appreciates items that serve various purposes, as shown by using the cape for both hair cutting and dyeing, indicating a multifaceted approach to hair care.\n\n- **Overall Experience:** Reports high satisfaction with the products purchased, reflecting positive interaction with brands that deliver quality and functionality in personal care items. \n\nThis profile points to a user who is detail-oriented, values convenience, and seeks effective ways to maintain their hair care routine at home.",
+  "metrics": {
+    "rouge1_f": 0.2429906542056075,
+    "rouge2_f": 0.03134796238244514,
+    "rougeL_f": 0.1308411214953271,
+    "meteor": 0.1743306383792629,
+    "bleu1": 0.22608695652173913,
+    "bleu2": 0.044436005358743286,
+    "bleu3": 0.009531876160909147,
+    "bleu4": 0.004419542648483631,
+    "bertscore_precision": 0.4057600200176239,
+    "bertscore_recall": 0.4142075777053833,
+    "bertscore_f1": 0.40994027256965637
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/16\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['BJ Alexander'], 'Producers': ['B.J. Alexander', 'Brian Brough', 'Dani Franklin', 'Elisa Jan', 'Lisa Jansworth', 'A.J.C. Pennyworth', 'Kent Peterson', 'Brittany Wiscombe'], 'Starring': ['Summer Naomi Smart', 'Matthew Reese', 'Everest Bishop'], 'Studio': ['Unavailable']}\nReview Text: Sweet love story.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['BJ Alexander'], 'Producers': ['B.J. Alexander', 'Brian Brough', 'Dani Franklin', 'Elisa Jan', 'Lisa Jansworth', 'A.J.C. Pennyworth', 'Kent Peterson', 'Brittany Wiscombe'], 'Starring': ['Summer Naomi Smart', 'Matthew Reese', 'Everest Bishop'], 'Studio': ['Unavailable']}\nSweet love story.\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** The user enjoys romantic narratives, indicating a strong preference for love stories.\n- **Content Language:** English is the primary language of choice for both audio and subtitles, highlighting a preference for content in their native language.\n- **Community Engagement:** The user rates products positively, as indicated by a 4.4 average rating, suggesting a generally favorable view of the content they consume.\n- **Director and Producer Recognition:** Shows an appreciation for content created by specific directors and producers, reflecting a pattern of favoring works from known creators in the romance genre.\n- **Demographic Insights:** The user relates with contemporary and perhaps lighter storylines, suggesting a taste for relatable and feel-good entertainment.\n- **Full-Experience Expectation:** The review indicates that the user enjoys narratives that are not excessively complex, hinting at a preference for straightforward storytelling.\n\nOverall, the user\u2019s interactions suggest a consistent affinity for heartfelt romantic content, an appreciation for quality production, and an enjoyment of engaging storytelling in a familiar language.",
+  "metrics": {
+    "rouge1_f": 0.08695652173913045,
+    "rouge2_f": 0.019512195121951216,
+    "rougeL_f": 0.05797101449275362,
+    "meteor": 0.10848910331299669,
+    "bleu1": 0.09132420091324199,
+    "bleu2": 0.0064723902293745885,
+    "bleu3": 0.002682603896844793,
+    "bleu4": 0.0017290357603541996,
+    "bertscore_precision": 0.37631916999816895,
+    "bertscore_recall": 0.3337876498699188,
+    "bertscore_f1": 0.35377970337867737
+  }
+}

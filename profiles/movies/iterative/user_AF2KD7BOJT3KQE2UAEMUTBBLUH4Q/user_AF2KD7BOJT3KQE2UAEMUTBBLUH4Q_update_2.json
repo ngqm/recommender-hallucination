@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/06\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Good dimentional characters.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nEntertaining\nFour Stars\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nGood dimentional characters.\nFour Stars",
+  "profile": "**User Profile Summary**\n\n- **Overall Rating Preference**: Maintains a strong inclination towards quality, with an average rating of 4.8 across interactions, reflecting a discerning yet appreciative attitude toward content.\n\n- **Content Preferences**: Enjoys a variety of genres featuring elements such as violence and adult themes. Recent interactions indicate an appreciation for narratives with dimensional characters, suggesting a preference for well-developed storylines.\n\n- **Language & Accessibility**: Continues to prioritize English-language content, with a consistent interest in options for dialogue boosts and audio descriptions for enhanced understanding and engagement.\n\n- **Entertainment Value**: Values high entertainment quality, as demonstrated by a recent review describing the content as \"Good\" but with a lower rating (4.0), pointing to nuanced expectations.\n\n- **Production Team Engagement**: Shows awareness of the influence of directors and actors on user satisfaction. Engagement with a wide array of creators indicates an appreciation for diverse storytelling approaches.\n\n- **Diversity of Content**: Engages with a broad range of content from various directors and studios, highlighting an openness to different styles and creative techniques.\n\nThis profile reflects a critical viewer who seeks engaging and well-written content that resonates with complex themes while appreciating the contributions of esteemed industry creators and maintaining a preference for accessible audio features.",
+  "metrics": {
+    "rouge1_f": 0.1217948717948718,
+    "rouge2_f": 0.012903225806451611,
+    "rougeL_f": 0.07692307692307691,
+    "meteor": 0.05794932266576459,
+    "bleu1": 0.07364285480602195,
+    "bleu2": 0.005353038838222374,
+    "bleu3": 0.0022369532891811043,
+    "bleu4": 0.00144747740121526,
+    "bertscore_precision": 0.3627168536186218,
+    "bertscore_recall": 0.3599550127983093,
+    "bertscore_f1": 0.36133065819740295
+  }
+}

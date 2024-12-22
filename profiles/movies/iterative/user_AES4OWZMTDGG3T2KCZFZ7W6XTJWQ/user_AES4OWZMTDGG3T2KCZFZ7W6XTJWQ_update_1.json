@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/01/24\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Stoller'], 'Producers': ['Seth Rogen', 'Evan Goldberg', 'James Weaver', 'Nathan Kahane', 'Joseph Drake', 'Brian Bell', 'Andrew Jay Cohen', \"Brendan O'Brien\"], 'Starring': ['Seth Rogen', 'Zac Efron', 'Rose Byrne'], 'Studio': ['NBC Universal']}\nReview Text: Ok\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Stoller'], 'Producers': ['Seth Rogen', 'Evan Goldberg', 'James Weaver', 'Nathan Kahane', 'Joseph Drake', 'Brian Bell', 'Andrew Jay Cohen', \"Brendan O'Brien\"], 'Starring': ['Seth Rogen', 'Zac Efron', 'Rose Byrne'], 'Studio': ['NBC Universal']}\nOk\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Tends to rate products positively, with an average rating of 4.6.\n- **Content Consumption:** Prefers content in English, both in audio and subtitles, suggesting a strong preference for English-language media.\n- **Genre Inclination:** Engages with comedic or light-hearted film genres, as indicated by the choice of actors and directors associated with humorous content.\n- **Favorite Actors/Directors:** Shows a preference for well-known figures in comedy, including specific actors and producers known for their contributions to the genre.\n- **Studio Affinity:** Displays an inclination towards productions from major studios, indicating a tendency for well-produced and mainstream content.\n- **Interaction Style:** Feedback is straightforward, typically expressing satisfaction without elaborate commentary, hinting at a practical approach to reviews.\n  \nThis initial profile reflects a user who appreciates quality comedic content that is readily accessible and engaging, primarily in English.",
+  "metrics": {
+    "rouge1_f": 0.08888888888888888,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06666666666666667,
+    "meteor": 0.06996268656716419,
+    "bleu1": 0.07894736842105263,
+    "bleu2": 0.006463056119412345,
+    "bleu3": 0.002811292290079548,
+    "bleu4": 0.0018566032208367335,
+    "bertscore_precision": 0.3883475661277771,
+    "bertscore_recall": 0.33538976311683655,
+    "bertscore_f1": 0.3599311411380768
+  }
+}

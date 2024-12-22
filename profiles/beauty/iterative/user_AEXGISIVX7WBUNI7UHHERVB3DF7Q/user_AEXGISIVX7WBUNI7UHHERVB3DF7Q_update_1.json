@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Eye Mask for Puffy Eyes,Under Eye Patches,Dark Circles Under Eye Treatment,Eye Masks& Puffy Eyes Treatment, Eye Mask for Dark Circles\uff0860 PCS)\nReview Date: 2019/09/15\nStore: Mourvibe\nAverage Rating: 3.0\nProduct Details: {'Package Dimensions': '3 x 3 x 1.5 inches; 6.07 Ounces', 'UPC': '778365190505'}\nReview Text: These are so nice and easy to apply. You instantly feel the moisture in your skin from the moment you put them on. After taking them off you notice that it really helps with the bags! My wife has used a few times and has already noticed a difference! They are even more refreshing when cold! Just keep them in your fridge!\nReview Title: Feels so refreshing!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Eye Mask for Puffy Eyes,Under Eye Patches,Dark Circles Under Eye Treatment,Eye Masks& Puffy Eyes Treatment, Eye Mask for Dark Circles\uff0860 PCS)\nMourvibe\n{'Package Dimensions': '3 x 3 x 1.5 inches; 6.07 Ounces', 'UPC': '778365190505'}\nThese are so nice and easy to apply. You instantly feel the moisture in your skin from the moment you put them on. After taking them off you notice that it really helps with the bags! My wife has used a few times and has already noticed a difference! They are even more refreshing when cold! Just keep them in your fridge!\nFeels so refreshing!",
+  "profile": "**User Summary:**\n\nThe user demonstrates a preference for skin care products, particularly focused on under-eye treatments targeted at reducing puffiness and dark circles. They value ease of application and immediate effects, as indicated by their appreciation for products that offer instant moisture and refreshing sensations. The user also shows a tendency to consider temperature in enhancing product effectiveness, noting that cooling the eye mask amplifies its refreshing qualities. Moreover, there is an indication of family sharing, as the user mentions their wife's positive experience with the product. Overall, the user is inclined towards practical, effective skin care solutions that provide visible results.",
+  "metrics": {
+    "rouge1_f": 0.2679425837320574,
+    "rouge2_f": 0.04830917874396136,
+    "rougeL_f": 0.12440191387559808,
+    "meteor": 0.15517319885009942,
+    "bleu1": 0.22195353238349994,
+    "bleu2": 0.04212114689507853,
+    "bleu3": 0.011266816335208993,
+    "bleu4": 0.005839501369381498,
+    "bertscore_precision": 0.4236467480659485,
+    "bertscore_recall": 0.44574153423309326,
+    "bertscore_f1": 0.4344133734703064
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: DATEWORK 1PCS Professional Cosmetic Flat Contour Brush (Black)\nReview Date: 2017/04/04\nAverage Rating: 4.4\nProduct Details: {'UPC': '644735906840 794168249219'}\nReview Text: I like it! The handle was shorter then I thought it would be! Or I would have giving 5 stars\nReview Title: I like it! The handle was shorter then I thought ...\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "DATEWORK 1PCS Professional Cosmetic Flat Contour Brush (Black)\n{'UPC': '644735906840 794168249219'}\nI like it! The handle was shorter then I thought it would be! Or I would have giving 5 stars\nI like it! The handle was shorter then I thought ...",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user shows a preference for professional cosmetic tools, specifically contour brushes, indicating an interest in makeup application and beauty routines.\n  \n- **Experience with Products:** The user values functionality and design, as seen in their feedback on handle length, suggesting a focus on practicality and ease of use in beauty tools.\n  \n- **Rating Tendencies:** The user tends to rate products positively, with a 4-star rating indicating satisfaction, but also points out specific areas for improvement, reflecting a constructive approach to reviews.\n\n- **General Attitude:** The user exhibits a genuine appreciation for products that meet their expectations while being open to constructive feedback based on their experiences.\n\nOverall, the user appears to be engaged in the beauty and cosmetic space, looking for professional-grade tools that enhance their makeup application experience while valuing practicality and efficiency in design.",
+  "metrics": {
+    "rouge1_f": 0.0989010989010989,
+    "rouge2_f": 0.02222222222222222,
+    "rougeL_f": 0.0879120879120879,
+    "meteor": 0.09776923076923076,
+    "bleu1": 0.02747252747252747,
+    "bleu2": 0.003895919913675343,
+    "bleu3": 0.002035397228351915,
+    "bleu4": 0.0014732404221984093,
+    "bertscore_precision": 0.3810167908668518,
+    "bertscore_recall": 0.3269438147544861,
+    "bertscore_f1": 0.35191529989242554
+  }
+}

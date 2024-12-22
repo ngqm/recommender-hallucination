@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mars Attacks!\nReview Date: 2012/12/13\nCategories: Science Fiction, Comedy, Coarse, Futuristic\nProduct Description: ['Superstar Jack Nicholson as the President of the United States greetinginvaders from outer space? Anything can and does happen when the twistedmind of director Tim Burton.']\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burtin', 'Larry Franco'], 'Starring': ['Jack Nicholson', 'Glenn Close', 'Annette Bening']}\nReview Text: This could really happen and the stupid responses and reaction are well within the range of possibilities.  Hopefully,<br />Tex or Bruce or someone's music will save the world.\nReview Title: best movie ever\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mars Attacks!\nScience Fiction, Comedy, Coarse, Futuristic\n['Superstar Jack Nicholson as the President of the United States greetinginvaders from outer space? Anything can and does happen when the twistedmind of director Tim Burton.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burtin', 'Larry Franco'], 'Starring': ['Jack Nicholson', 'Glenn Close', 'Annette Bening']}\nThis could really happen and the stupid responses and reaction are well within the range of possibilities.  Hopefully,<br />Tex or Bruce or someone's music will save the world.\nbest movie ever",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Strong interest in science fiction and comedy genres, particularly those with a satirical edge.\n- **Favorite Themes:** Enjoys narratives that blend humor with absurd or fantastical elements, particularly those involving extraterrestrial encounters.\n- **Director Influence:** Preference for works by Tim Burton, indicating an appreciation for unique storytelling styles and visual aesthetics.\n- **Engagement with Content:** Values thought-provoking content that prompts reflection on societal reactions to unusual scenarios.\n- **Viewer Sensibility:** Shows a tolerance for mature themes including violence and coarse language, suggesting comfort with edgy content.\n- **Rating Tendencies:** Tends to give high ratings to media that resonate with their sense of humor and thematic preferences, as seen in the enthusiastic review of a specific movie.\n- **Cultural References:** May enjoy music and cultural commentary, looking for additional layers of meaning in media experiences.\n\nThis profile indicates a preference for whimsical yet insightful entertainment that challenges norms and entertains simultaneously.",
+  "metrics": {
+    "rouge1_f": 0.19433198380566802,
+    "rouge2_f": 0.0163265306122449,
+    "rougeL_f": 0.11336032388663968,
+    "meteor": 0.12071311254381878,
+    "bleu1": 0.14761904761904762,
+    "bleu2": 0.0265765165630679,
+    "bleu3": 0.006976606999409256,
+    "bleu4": 0.003578826200500926,
+    "bertscore_precision": 0.4142248332500458,
+    "bertscore_recall": 0.4013756215572357,
+    "bertscore_f1": 0.40769901871681213
+  }
+}

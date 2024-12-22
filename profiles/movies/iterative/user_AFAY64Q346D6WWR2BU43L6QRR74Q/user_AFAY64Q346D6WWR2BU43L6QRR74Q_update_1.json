@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Genesis Code\nReview Date: 2012/07/19\nStore: Kelsey Sanders  (Actor),     Fred Thompson  (Actor),     C. Thomas Howell  (Director),     Patrick Read Johnson  (Director)    &                   1                  more   Rated:    PG    Format: DVD\nCategories: Movies & TV, Genre for Featured Categories, Drama\nProduct Description: ['Genesis Code, The']\nAverage Rating: 4.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'PG (Parental Guidance Suggested)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '997173', 'Director': 'C. Thomas Howell, Patrick Read Johnson', 'Media Format': 'Multiple Formats, Color, AC-3, Dolby, NTSC, Widescreen', 'Run time': '2 hours and 17 minutes', 'Release date': 'July 1, 2016', 'Actors': 'Kelsey Sanders, Fred Thompson, Ernest Borgnine, Louise Fletcher, Jerry Zandstra', 'Studio': 'Entertainment One', 'Number of discs': '1'}\nReview Text: This is a sleeper that would enlighten all who watch. Time well spent with family...especially teens. An every family must have.\nReview Title: Amazing facts you must know\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Genesis Code\nKelsey Sanders  (Actor),     Fred Thompson  (Actor),     C. Thomas Howell  (Director),     Patrick Read Johnson  (Director)    &                   1                  more   Rated:    PG    Format: DVD\nMovies & TV, Genre for Featured Categories, Drama\n['Genesis Code, The']\n{'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'PG (Parental Guidance Suggested)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '997173', 'Director': 'C. Thomas Howell, Patrick Read Johnson', 'Media Format': 'Multiple Formats, Color, AC-3, Dolby, NTSC, Widescreen', 'Run time': '2 hours and 17 minutes', 'Release date': 'July 1, 2016', 'Actors': 'Kelsey Sanders, Fred Thompson, Ernest Borgnine, Louise Fletcher, Jerry Zandstra', 'Studio': 'Entertainment One', 'Number of discs': '1'}\nThis is a sleeper that would enlighten all who watch. Time well spent with family...especially teens. An every family must have.\nAmazing facts you must know",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Strong preference for family-oriented drama films.\n- **Content Type:** Favors movies that offer enlightening themes and moral insights suitable for teens and family viewing.\n- **Rating Behavior:** Tends to rate content highly, with a recent review giving a perfect score, indicating a strong appreciation for quality and meaningful material.\n- **Social Influences:** Values shared viewing experiences and is inclined to recommend films for family gatherings.\n- **Genre Preference:** Drama appears to be the favored genre, with a specific interest in narratives that provoke thought and discussion.\n- **Engagement Style:** Engages in sharing opinions and reflections through reviews, showcasing a desire to influence and guide others in their viewing choices. \n\nOverall, the user exhibits a nurturing attitude towards media consumption, seeking options that foster family bonding and stimulate intellectual engagement.",
+  "metrics": {
+    "rouge1_f": 0.13584905660377358,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06037735849056604,
+    "meteor": 0.08556891766882516,
+    "bleu1": 0.12485610238809047,
+    "bleu2": 0.007482162987300727,
+    "bleu3": 0.002933379941514103,
+    "bleu4": 0.0018392626989441794,
+    "bertscore_precision": 0.34767717123031616,
+    "bertscore_recall": 0.3913814425468445,
+    "bertscore_f1": 0.36823707818984985
+  }
+}

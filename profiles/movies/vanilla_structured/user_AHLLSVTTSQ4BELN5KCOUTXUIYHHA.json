@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLLSVTTSQ4BELN5KCOUTXUIYHHA",
+  "summary": "=== Purchase Information ===\nReview Date: 2015/02/11\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Lembeck', 'Gil Junger', 'Bob Koherr', 'Rob Schiller'], 'Producers': ['Shepard Boucher', 'Scott Hartle', 'Timothy Marx', 'Sivert Glarum', 'David Hartle', 'Maggie Malina']}\nReview Text: Glad this was cancelled - I would like my money back ...\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/02/11\nAverage Rating: 3.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Karl Kimbrough'], 'Producers': ['Erin Flinn'], 'Starring': ['Tori Spelling', 'Dean McDermott'], 'Studio': ['A&E Television Networks']}\nReview Text: Sad that these people have to resort to reality TV to make a living but I get a kick out of watching others misery and if you do too, you will get that watching both seasons of True Tori.\nReview Title: sad family - good for reality TV buffs\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/01\nAverage Rating: 4.3\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Robert Young', 'Simon Langton', 'Ferdinand Fairfax'], 'Producers': ['Brian Eastman'], 'Starring': ['Hugh Laurie', 'Stephen Fry'], 'Studio': ['RLJ Entertainment']}\nReview Text: Loved this show - Hugh Laurie and Stephen Fry are hysterical and this is the beginning of their careers they are so funny \u2013 I recommend this 100% for people who like to watch PBS shows and British comedy!\nReview Title: hystetivak old Brish comedy!!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Bowman'], 'Producers': ['Chris Carter', 'Daniel Sackheim', 'Lata Ryan'], 'Starring': ['David Duchovny', 'Gillian Anderson', 'Martin Landau'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: The best\nReview Title: A must-have for X-Files fans.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2021/03/05\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Halina Dyrschka'], 'Producers': ['Halina Dyrschka', 'Alexandra Dewart', 'Manfred Dyrschka', 'Eva Illmer'], 'Starring': ['Johan af Klint', 'Petra van der Voort'], 'Studio': ['Zeitgeist Films']}\nReview Text: If you don\u2019t know how much of Clint is and you\u2019re an artist especially watercolor that I highly recommend this film\nReview Title: Great art documentary\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Lembeck', 'Gil Junger', 'Bob Koherr', 'Rob Schiller'], 'Producers': ['Shepard Boucher', 'Scott Hartle', 'Timothy Marx', 'Sivert Glarum', 'David Hartle', 'Maggie Malina']}\nGlad this was cancelled - I would like my money back ...\nOne Star\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Karl Kimbrough'], 'Producers': ['Erin Flinn'], 'Starring': ['Tori Spelling', 'Dean McDermott'], 'Studio': ['A&E Television Networks']}\nSad that these people have to resort to reality TV to make a living but I get a kick out of watching others misery and if you do too, you will get that watching both seasons of True Tori.\nsad family - good for reality TV buffs\n{'Subtitles': ['None available'], 'Directors': ['Robert Young', 'Simon Langton', 'Ferdinand Fairfax'], 'Producers': ['Brian Eastman'], 'Starring': ['Hugh Laurie', 'Stephen Fry'], 'Studio': ['RLJ Entertainment']}\nLoved this show - Hugh Laurie and Stephen Fry are hysterical and this is the beginning of their careers they are so funny \u2013 I recommend this 100% for people who like to watch PBS shows and British comedy!\nhystetivak old Brish comedy!!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Bowman'], 'Producers': ['Chris Carter', 'Daniel Sackheim', 'Lata Ryan'], 'Starring': ['David Duchovny', 'Gillian Anderson', 'Martin Landau'], 'Studio': ['20TH CENTURY FOX']}\nThe best\nA must-have for X-Files fans.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Halina Dyrschka'], 'Producers': ['Halina Dyrschka', 'Alexandra Dewart', 'Manfred Dyrschka', 'Eva Illmer'], 'Starring': ['Johan af Klint', 'Petra van der Voort'], 'Studio': ['Zeitgeist Films']}\nIf you don\u2019t know how much of Clint is and you\u2019re an artist especially watercolor that I highly recommend this film\nGreat art documentary",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2015/02/11\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Lembeck', 'Gil Junger', 'Bob Koherr', 'Rob Schiller'], 'Producers': ['Shepard Boucher', 'Scott Hartle', 'Timothy Marx', 'Sivert Glarum', 'David Hartle', 'Maggie Malina']}\nReview Text: Glad this was cancelled - I would like my money back ...\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/02/11\nAverage Rating: 3.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Karl Kimbrough'], 'Producers': ['Erin Flinn'], 'Starring': ['Tori Spelling', 'Dean McDermott'], 'Studio': ['A&E Television Networks']}\nReview Text: Sad that these people have to resort to reality TV to make a living but I get a kick out of watching others misery and if you do too, you will get that watching both seasons of True Tori.\nReview Title: sad family - good for reality TV buffs\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/01\nAverage Rating: 4.3\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Robert Young', 'Simon Langton', 'Ferdinand Fairfax'], 'Producers': ['Brian Eastman'], 'Starring': ['Hugh Laurie', 'Stephen Fry'], 'Studio': ['RLJ Entertainment']}\nReview Text: Loved this show - Hugh Laurie and Stephen Fry are hysterical and this is the beginning of their careers they are so funny \u2013 I recommend this 100% for people who like to watch PBS shows and British comedy!\nReview Title: hystetivak old Brish comedy!!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Bowman'], 'Producers': ['Chris Carter', 'Daniel Sackheim', 'Lata Ryan'], 'Starring': ['David Duchovny', 'Gillian Anderson', 'Martin Landau'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: The best\nReview Title: A must-have for X-Files fans.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2021/03/05\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Halina Dyrschka'], 'Producers': ['Halina Dyrschka', 'Alexandra Dewart', 'Manfred Dyrschka', 'Eva Illmer'], 'Starring': ['Johan af Klint', 'Petra van der Voort'], 'Studio': ['Zeitgeist Films']}\nReview Text: If you don\u2019t know how much of Clint is and you\u2019re an artist especially watercolor that I highly recommend this film\nReview Title: Great art documentary\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe shopping behavior indicates a strong preference for quality entertainment, particularly in the realms of British comedy and art-related documentaries. Positive sentiments are predominantly associated with programs featuring humor and artistic exploration, as reflected in high ratings for British comedy, art documentaries, and cult classics. \n\nPatterns show a tendency to appreciate well-crafted narratives but also a critical eye for content involving reality TV, with a significant dip in ratings when sentiment is negative. This suggests a preference for traditional scripted content over reality programming for its artistic value.\n\nQuality is favored, demonstrated by consistently high ratings (above 4.5) for content that resonates on a personal level or offers an engaging experience. The trend indicates a low tolerance for disappointing experiences, highlighted by the extreme dissatisfaction expressed in lower ratings. Price sensitivity seems secondary; the focus appears more on entertainment value and content quality rather than affordability, as these experiences seem central to the individual's preferences. Overall, the person's core tastes emphasize well-produced, engaging narratives with humor or artistic merit, indicating a blend of entertainment and appreciation for craftsmanship in media.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Loved it",
+    "text": "Totally entertaining I don\u2019t know how much of it was true but I was it Studio 54 back in those days so I will say that that was all true! Loved it love you in McGregor very entertaining I don\u2019t know if they made that in the sadder or like happier that he went off into the sunset but wonderful",
+    "images": [],
+    "asin": "B08CS4QNK1",
+    "parent_asin": "B08CS4QNK1",
+    "user_id": "AHLLSVTTSQ4BELN5KCOUTXUIYHHA",
+    "timestamp": "2021-06-12 10:18:40.013000",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.5,
+    "rating_number": 168,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ea244f729dd434d376bb9be5c812102fd7f7c4e44e871547385edbb363b1d91d._RI_TTW_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Smoking",
+        "foul language"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: Low",
+        "English Dialogue Boost: High",
+        "English",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]",
+        "Deutsch",
+        "\u65e5\u672c\u8a9e"
+      ],
+      "Directors": [
+        "Fr\u00e9d\u00e9ric Tcheng"
+      ],
+      "Producers": [
+        "Fr\u00e9d\u00e9ric Tcheng",
+        "Roland Ballester",
+        "Stephanie Levy",
+        "Paul Dallas"
+      ],
+      "Starring": [
+        "Tavi Gevinson",
+        "Cornelia Guest",
+        "Sean Dugan"
+      ],
+      "Studio": [
+        "CNN Films"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

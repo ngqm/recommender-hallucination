@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\nReview Date: 2021/08/07\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: Lightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nReview Title: Highly Moisturizing\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing",
+  "profile": "User Profile Summary:\n\n- **Hair Care Focus**: The user prioritizes hair care products, particularly those that offer moisturizing and softening benefits.\n- **Product Characteristics**: Prefers lightweight formulas with pleasant scents, such as tropical or sweet fragrances.\n- **Effectiveness**: Values products that deliver tangible results, especially in enhancing hair texture for coarse hair.\n- **Positive Experience**: Tends to give high ratings to products that meet their expectations, indicating a trend of satisfaction with quality and performance.\n\nOverall, the user exhibits a clear preference for effective, pleasant-smelling hair care solutions that provide lasting softness and hydration.",
+  "metrics": {
+    "rouge1_f": 0.20634920634920637,
+    "rouge2_f": 0.016129032258064516,
+    "rougeL_f": 0.1111111111111111,
+    "meteor": 0.2046783625730994,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.04216370213557839,
+    "bleu3": 0.011275918529364437,
+    "bleu4": 0.005843023986433709,
+    "bertscore_precision": 0.45800530910491943,
+    "bertscore_recall": 0.4176717698574066,
+    "bertscore_f1": 0.43690964579582214
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Kevin Lima', 'Chris Buck'], 'Producers': ['Bonnie Arnold'], 'Starring': ['Tony Goldwyn', 'Sean Bussoli', 'Reuben Sallmander'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Bought online, daughter loved it.\nReview Title: daughter loved it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Kevin Lima', 'Chris Buck'], 'Producers': ['Bonnie Arnold'], 'Starring': ['Tony Goldwyn', 'Sean Bussoli', 'Reuben Sallmander'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.",
+  "profile": "**User Summary:**\n\n- **Family-Oriented**: Key decision-making influenced by their daughter's preferences.\n- **Content Quality**: High standards for entertainment, evident from a 4.8 average rating.\n- **Language and Accessibility**: Prefers content with diverse audio options and subtitles, particularly in English and Spanish.\n- **Brand Preference**: Shows a strong inclination towards reputable studios, specifically Disney, indicating a preference for well-produced family-friendly content.\n- **Positive Experiences**: Focus on enjoyable and engaging content for children, reflected in enthusiastic feedback and high ratings. \n\nOverall, the user demonstrates a clear trend toward family-friendly entertainment that prioritizes quality, accessibility, and strong brand alignment.",
+  "metrics": {
+    "rouge1_f": 0.11188811188811187,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08391608391608392,
+    "meteor": 0.09831460674157302,
+    "bleu1": 0.12765957446808512,
+    "bleu2": 0.009549105211188454,
+    "bleu3": 0.00403308014331215,
+    "bleu4": 0.0026257771671243353,
+    "bertscore_precision": 0.4006279706954956,
+    "bertscore_recall": 0.36664149165153503,
+    "bertscore_f1": 0.3828819990158081
+  }
+}

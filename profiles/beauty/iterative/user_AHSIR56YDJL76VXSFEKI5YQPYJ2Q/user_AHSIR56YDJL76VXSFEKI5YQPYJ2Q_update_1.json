@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Baoyuan Makeup Brushes Color Removal Sponge and Mat Kit\nReview Date: 2020/04/27\nStore: Baoyuan\nAverage Rating: 4.2\nProduct Details: {'Package Dimensions': '6.61 x 5.55 x 1.69 inches; 2.54 Ounces', 'UPC': '703681245158'}\nReview Text: This thing does exactly what it says. Its actually made me kind of lazy cleaning my brushes because it does such a great job getting all the makeup off. The little silicone brush thingy is pretty useful.  It definitely helps me get my brushes clean faster.\nReview Title: It works\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Baoyuan Makeup Brushes Color Removal Sponge and Mat Kit\nBaoyuan\n{'Package Dimensions': '6.61 x 5.55 x 1.69 inches; 2.54 Ounces', 'UPC': '703681245158'}\nThis thing does exactly what it says. Its actually made me kind of lazy cleaning my brushes because it does such a great job getting all the makeup off. The little silicone brush thingy is pretty useful.  It definitely helps me get my brushes clean faster.\nIt works",
+  "profile": "**User Summary:**\n\n- **Product Preference**: This user values efficiency and ease in makeup application tools. They show a preference for products that simplify maintenance tasks, specifically cleaning tools for makeup brushes.\n\n- **Performance Appreciation**: The user appreciates products that perform well and meet their expectations, as indicated by their high rating for effective makeup removal.\n\n- **Practicality**: They display a tendency towards practical solutions that save time, highlighting a preference for tools that enhance their makeup routine without adding extra effort.\n\n- **Simplicity**: The user\u2019s positive feedback about the auxiliary silicone tool suggests a preference for straightforward, multifunctional items that contribute to overall convenience.\n\nOverall, this user profile indicates a strong inclination towards products that enhance the makeup experience through practicality, efficiency, and effectiveness.",
+  "metrics": {
+    "rouge1_f": 0.11282051282051282,
+    "rouge2_f": 0.02072538860103627,
+    "rougeL_f": 0.07179487179487179,
+    "meteor": 0.10764262648008613,
+    "bleu1": 0.0975609756097561,
+    "bleu2": 0.02446494620263634,
+    "bleu3": 0.007175593677821785,
+    "bleu4": 0.003892126167099325,
+    "bertscore_precision": 0.41368046402931213,
+    "bertscore_recall": 0.3978695869445801,
+    "bertscore_f1": 0.4056210219860077
+  }
+}

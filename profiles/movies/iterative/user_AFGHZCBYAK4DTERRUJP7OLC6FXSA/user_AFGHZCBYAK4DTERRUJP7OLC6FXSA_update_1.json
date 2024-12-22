@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/12/31\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Albert Hughes'], 'Producers': ['Andrew Rona', 'Albert Hughes'], 'Starring': ['Kodi Smit-McPhee', 'J\u00f3hannes Haukur J\u00f3hannesson', 'Leonor Varela'], 'Studio': ['Studio 8']}\nReview Text: This was a good watch. Sad at times but all in all a great story.\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Albert Hughes'], 'Producers': ['Andrew Rona', 'Albert Hughes'], 'Starring': ['Kodi Smit-McPhee', 'J\u00f3hannes Haukur J\u00f3hannesson', 'Leonor Varela'], 'Studio': ['Studio 8']}\nThis was a good watch. Sad at times but all in all a great story.\nGreat movie",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys storytelling with emotional depth, often appreciating narratives that can be both sad and engaging. Values strong plotlines and character development.\n  \n- **Rating Tendencies:** Generally positive rating behavior, with an average rating of 4.5, indicating a preference for high-quality content.\n\n- **Genres & Themes:** Shows interest in films with dramatic and possibly intense themes, as indicated by the content advisory for violence.\n\n- **Language & Accessibility:** Prefers content in English and values accessibility options, such as audio descriptions and closed captions, suggesting a focus on inclusivity in viewing experiences.\n\n- **Engagement with Creative Teams:** Takes note of directors and producers, indicating an awareness of the creative aspects behind the content they consume. \n\nThis initial profile suggests a user that seeks impactful narratives and supports creators who deliver compelling stories, while also considering accessibility in their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.15873015873015875,
+    "rouge2_f": 0.021390374331550797,
+    "rougeL_f": 0.12698412698412698,
+    "meteor": 0.13190759325243323,
+    "bleu1": 0.11170212765957446,
+    "bleu2": 0.00772876174472498,
+    "bleu3": 0.0031785981886671066,
+    "bleu4": 0.002041191689966684,
+    "bertscore_precision": 0.3857387900352478,
+    "bertscore_recall": 0.3632393479347229,
+    "bertscore_f1": 0.3741511106491089
+  }
+}

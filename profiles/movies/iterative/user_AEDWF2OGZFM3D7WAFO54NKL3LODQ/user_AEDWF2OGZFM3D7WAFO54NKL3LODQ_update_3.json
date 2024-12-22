@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/08/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'sexual content'], 'Audio languages': ['\u65e5\u672c\u8a9e'], 'Subtitles': ['None available'], 'Directors': ['Makoto Shinkai'], 'Producers': ['Hideaki Hatta', 'Atsushi Ito', 'Mayumi Yamaguchi', 'Nagaharu \u00d4hashi'], 'Studio': ['FUNimation']}\nReview Text: Nice\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Adrian McCarthy'], 'Producers': ['Adrian McCarthy'], 'Studio': ['MagellanTV']}\nInformative\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hiromasa Yonebayashi'], 'Producers': ['Yoshiaki Nishimura', 'Geoffrey Wexler'], 'Starring': ['Ruby Barnhill', 'Kate Winslet', 'Jim Broadbent'], 'Studio': ['Gkids']}\nNice\nNice\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'sexual content'], 'Audio languages': ['\u65e5\u672c\u8a9e'], 'Subtitles': ['None available'], 'Directors': ['Makoto Shinkai'], 'Producers': ['Hideaki Hatta', 'Atsushi Ito', 'Mayumi Yamaguchi', 'Nagaharu \u00d4hashi'], 'Studio': ['FUNimation']}\nNice\nNice",
+  "profile": "The user exhibits a sophisticated engagement with content, demonstrated by a clear appreciation for works that balance educational components with emotional and thematic complexity. Their previous reviews reveal a discerning taste, as illustrated by a moderate rating of 3.5 for content featuring challenging themes like violence and foul language, indicating a critical perspective on sensitive portrayals. \n\nIn their latest interaction, the user awarded a high rating of 5.0 to a product that featured Japanese audio, reflecting an inclination towards accessibility, even in the absence of subtitles. The succinct nature of their review, marked simply by the word \"Nice,\" suggests a strong appreciation for high-quality content that resonates with them without requiring extensive elaboration. \n\nThis recent feedback underscores a versatile palate that can shift from critical to highly favorable based on individual experiences, while still prioritizing depth in narrative and presentation. The user seems particularly responsive to engaging and enlightening themes, demonstrating an openness towards diverse, sometimes edgy topics. Their consistent preference for accessible formats continues to enhance their viewing experience, reaffirming their identity as a selective viewer who values both quality and substance in the content they consume.",
+  "metrics": {
+    "rouge1_f": 0.07490636704119849,
+    "rouge2_f": 0.007547169811320755,
+    "rougeL_f": 0.06741573033707865,
+    "meteor": 0.03844305622296973,
+    "bleu1": 0.07655502392344497,
+    "bleu2": 0.006066737176044029,
+    "bleu3": 0.00261003704857158,
+    "bleu4": 0.0017140291317184065,
+    "bertscore_precision": 0.34423115849494934,
+    "bertscore_recall": 0.32891541719436646,
+    "bertscore_f1": 0.33639904856681824
+  }
+}

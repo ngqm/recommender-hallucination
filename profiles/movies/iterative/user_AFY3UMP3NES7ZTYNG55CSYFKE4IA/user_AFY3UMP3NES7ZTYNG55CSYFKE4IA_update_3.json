@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/01\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Allison Anders'], 'Producers': ['Ruth Charny', 'Burtt Harris', 'Daniel Hassid', 'Elliot Lewis Rosenblatt', 'Martin Scorsese'], 'Starring': ['Illeana Douglas', 'Sissy Boyd', 'Christina Pickles']}\nReview Text: Love this movie and Illeana Douglas who I think is so very under recognized! My opinion!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Luc Besson'], 'Producers': ['Virginie Besson-Silla'], 'Starring': ['Scarlett Johansson', 'Morgan Freeman', 'Amr Waked']}\nAwesome movie! Awesome subject matter! Superior acting as usual. I just love Scarlett\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Spottiswoode'], 'Producers': ['Jonathan Shteinman', 'Wieland Schulz-Keil', 'Peter Loehr', 'Arthur Cohn', 'Martin Hagemann'], 'Starring': ['Jonathan Meyers', 'Radha Mitchell', 'Chow Yun-Fat'], 'Studio': ['Sony Pictures Classics']}\nWonderful movie and acting was superior. Story was sad and magnificent!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Allison Anders'], 'Producers': ['Ruth Charny', 'Burtt Harris', 'Daniel Hassid', 'Elliot Lewis Rosenblatt', 'Martin Scorsese'], 'Starring': ['Illeana Douglas', 'Sissy Boyd', 'Christina Pickles']}\nLove this movie and Illeana Douglas who I think is so very under recognized! My opinion!\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference**: Consistently rates films highly, with an average rating of 4.6 and recent ratings of 5.0, reflecting a strong appreciation for quality cinema.\n- **Content Interests**: Enjoys action-packed films with strong narratives, particularly those exploring complex themes such as violence and substance use. Values emotionally resonant stories that combine sadness with magnificence.\n- **Actor Preference**: Shows clear admiration for prominent actors, specifically noting a fondness for underrecognized performers, highlighting a preference for strong performances that enhance storytelling. \n- **Cinematic Quality**: Equally values superior acting and impactful subject matter, indicating a preference for well-crafted films that leave a lasting impression.\n- **Content Advisory Tolerance**: Open to mature themes, suggesting comfort with content that includes violence, substance use, and strong language.\n- **Accessibility Preferences**: Values inclusive viewing options, such as audio descriptions and closed captions, reflecting an interest in enhancing the viewing experience for all audiences.\n\nOverall, the user demonstrates a strong inclination towards high-quality, engaging films with complex themes and emotionally powerful narratives, prioritizing films that deliver profound cinematic experiences. Their admiration for specific actors, especially those who may not receive mainstream recognition, further enhances their cinematic interests.",
+  "metrics": {
+    "rouge1_f": 0.13253012048192772,
+    "rouge2_f": 0.036363636363636355,
+    "rougeL_f": 0.06626506024096386,
+    "meteor": 0.08793832622895836,
+    "bleu1": 0.1250424700273643,
+    "bleu2": 0.02032509583572051,
+    "bleu3": 0.005155504559198949,
+    "bleu4": 0.002599126267920289,
+    "bertscore_precision": 0.3852812647819519,
+    "bertscore_recall": 0.4028189778327942,
+    "bertscore_f1": 0.3938549757003784
+  }
+}

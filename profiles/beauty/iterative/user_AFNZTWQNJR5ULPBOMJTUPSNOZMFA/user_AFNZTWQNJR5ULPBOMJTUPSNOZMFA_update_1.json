@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Creamily Natural Black to Mixed Olives to Peacock Green 3-tone Ombre Color Wavy Clip in Hair Extensions 8 Pieces 18\" for a Full Head\nReview Date: 2015/07/20\nStore: Creamily\nAverage Rating: 3.3\nProduct Details: {'Brand': 'Creamily', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Oily, Wavy, Curly, Dry, Normal', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8 x 5.2 x 1.4 inches; 5.64 Ounces', 'UPC': '703501888657'}\nReview Text: This hair is perfect and thicker than I expected the only downside is that when its curly it tends to tangle quickly, but a lot of hair extensions are like that, I will definitly be buying more colors.\nReview Title: Love this purchace\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Creamily Natural Black to Mixed Olives to Peacock Green 3-tone Ombre Color Wavy Clip in Hair Extensions 8 Pieces 18\" for a Full Head\nCreamily\n{'Brand': 'Creamily', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Oily, Wavy, Curly, Dry, Normal', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8 x 5.2 x 1.4 inches; 5.64 Ounces', 'UPC': '703501888657'}\nThis hair is perfect and thicker than I expected the only downside is that when its curly it tends to tangle quickly, but a lot of hair extensions are like that, I will definitly be buying more colors.\nLove this purchace",
+  "profile": "**User Profile Summary:**\n\n- **Product Category**: Hair extensions, specifically interested in color and texture variations.\n- **Preferences**: Favors high-quality, thicker extensions made from natural materials. \n- **Hair Type**: Engages with products designed for various hair types including wavy, curly, and oily textures.\n- **Review Behavior**: Engaged positively with products that meet expectations, emphasizing the importance of quality and functionality.\n- **Trends**: Willing to explore multiple color options and frequently purchase variations, indicating a desire for versatility in hair styling.\n- **Quality Criteria**: Tangles easily when curly noted as a minor concern; balanced with overall satisfaction with the product's quality.\n- **Overall Attitude**: Generally positive towards purchases; likely to provide feedback highlighting both strengths and weaknesses in products.",
+  "metrics": {
+    "rouge1_f": 0.28440366972477066,
+    "rouge2_f": 0.03703703703703704,
+    "rougeL_f": 0.13761467889908255,
+    "meteor": 0.1689330950821801,
+    "bleu1": 0.20231213872832374,
+    "bleu2": 0.010845429289334551,
+    "bleu3": 0.004097312871074301,
+    "bleu4": 0.0025220989169239694,
+    "bertscore_precision": 0.4291766285896301,
+    "bertscore_recall": 0.4527601897716522,
+    "bertscore_f1": 0.44065311551094055
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/17\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Heming', 'Andrei Svislotski', 'Cathy Malkasian', 'Jeff McGrath', 'Davis Doi', 'Frank Marino', 'Dean Criswell', 'Steve Socki', 'Frank Molieri', 'Geoff Adams'], 'Starring': ['William H. Macy'], 'Studio': ['PBS']}\nReview Text: I like it my daughter loves it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Heming', 'Andrei Svislotski', 'Cathy Malkasian', 'Jeff McGrath', 'Davis Doi', 'Frank Marino', 'Dean Criswell', 'Steve Socki', 'Frank Molieri', 'Geoff Adams'], 'Starring': ['William H. Macy'], 'Studio': ['PBS']}\nI like it my daughter loves it\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Type:** Enjoys family-oriented and educational content.\n- **Language Preference:** Prefers English audio and subtitles, indicating a strong preference for English-language media.\n- **Quality Rating:** Consistently rates purchases highly, as evidenced by a 4.8 average rating in this first interaction.\n- **Audience Focus:** Engages with content suitable for children, suggesting a focus on family-friendly themes. \n- **Positive Sentiment:** Displays a positive attitude towards products, as indicated by enthusiastic feedback about both personal enjoyment and satisfaction of a family member.\n\nOverall, this user appears to value high-quality, engaging content that can be enjoyed with children while maintaining a consistent preference for English-language options.",
+  "metrics": {
+    "rouge1_f": 0.06711409395973154,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05369127516778523,
+    "meteor": 0.06598984771573603,
+    "bleu1": 0.07432432432432433,
+    "bleu2": 0.007110609316119057,
+    "bleu3": 0.0032595195715723686,
+    "bleu4": 0.002210666317609879,
+    "bertscore_precision": 0.37670814990997314,
+    "bertscore_recall": 0.3422207832336426,
+    "bertscore_f1": 0.358637273311615
+  }
+}

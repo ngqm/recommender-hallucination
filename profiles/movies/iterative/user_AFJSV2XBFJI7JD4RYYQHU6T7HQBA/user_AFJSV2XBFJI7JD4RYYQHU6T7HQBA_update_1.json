@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/07/24\nAverage Rating: 4.5\nProduct Details: {'Subtitles': ['None available'], 'Directors': [\"Darragh O'Connell\", 'Timothy Bj\u00f6rklund'], 'Producers': ['Kate Boutilier', 'Eryk Casemiro', 'Patricia Resnick', 'Cathal Gaffney', 'Gillian Higgins', 'Karen Ialacci', 'Megan Laughton', 'Diana Manson'], 'Starring': ['Olivia']}\nReview Text: Really wish this show was still on the air! It's clever in a way that makes me laugh almost as much as my daughter. Adorable!\nReview Title: Olivia is adorable\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': [\"Darragh O'Connell\", 'Timothy Bj\u00f6rklund'], 'Producers': ['Kate Boutilier', 'Eryk Casemiro', 'Patricia Resnick', 'Cathal Gaffney', 'Gillian Higgins', 'Karen Ialacci', 'Megan Laughton', 'Diana Manson'], 'Starring': ['Olivia']}\nReally wish this show was still on the air! It's clever in a way that makes me laugh almost as much as my daughter. Adorable!\nOlivia is adorable",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys clever and humorous shows that appeal to both adults and children. Values content that is engaging for the entire family, particularly with a focus on humor.\n  \n- **Viewership Patterns:** Shows a tendency to appreciate animated or family-oriented programming. Likely enjoys content that features cute and endearing characters.\n  \n- **Emotional Engagement:** Expresses a strong emotional connection to shows that resonate with familial experiences, highlighting the importance of shared viewing with a child.\n\n- **Sentiment Analysis:** Positive sentiment towards watched content, as evidenced by high ratings and enthusiastic reviews indicating a desire for continued availability of favorite shows.\n\n- **Younger Audience Appeal:** Displays a preference for entertainment that can entertain younger audiences while maintaining wit and cleverness for adult viewers. \n\nOverall, this user exhibits a preference for charming, family-friendly programming that fosters shared enjoyment and laughter.",
+  "metrics": {
+    "rouge1_f": 0.10204081632653061,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06122448979591836,
+    "meteor": 0.10064043915827996,
+    "bleu1": 0.09782608695652174,
+    "bleu2": 0.007311421073793926,
+    "bleu3": 0.003085394739953039,
+    "bleu4": 0.0020070741032162595,
+    "bertscore_precision": 0.37639695405960083,
+    "bertscore_recall": 0.3843396008014679,
+    "bertscore_f1": 0.3803268074989319
+  }
+}

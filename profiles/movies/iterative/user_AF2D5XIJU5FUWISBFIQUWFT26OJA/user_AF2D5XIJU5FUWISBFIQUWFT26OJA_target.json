@@ -1,0 +1,69 @@
+{
+  "interaction_number": 11,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/07/14\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Craig Gillespie'], 'Producers': ['Andrew Gunn'], 'Starring': ['Emma Stone', 'Emma Thompson'], 'Studio': ['Marc Platt Productions / Gunn Films']}\nReview Text: Cute movie\nReview Title: Good movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sebasti\u00e1n Lelio'], 'Starring': ['Julianne Moore', 'John Turturro', 'Michael Cera'], 'Studio': ['A24 Distribution LLC']}\nGood\nMovie\n{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Robitel'], 'Producers': ['Neal H. Moritz', 'Ori Marmur'], 'Starring': ['Logan Miller', 'Deborah Woll', 'Taylor Russell'], 'Studio': ['SONY PICTURES HOME ENTERTAINMENT']}\nOk\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Strauss-Schulson'], 'Producers': ['Gina Matthews', 'Grant Scharbo', 'Todd Garner'], 'Starring': ['Rebel Wilson', 'Liam Hemsworth', 'Adam DeVine'], 'Studio': ['New Line']}\nOk\nMovie\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Nick Cassavetes'], 'Producers': ['Rene Cleitman'], 'Starring': ['Sean Penn', 'Robin Wright', 'John Travolta'], 'Studio': ['Paramount Pictures Corp.']}\nReally like it\nMovie\n{'Content advisory': ['Substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Damian Harris'], 'Producers': ['Andrew Karsch', 'Dick Tarlow'], 'Starring': ['Glenn Close', 'John Malkovich', 'Patrick Stewart']}\nFunny\nMovie\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Niki Caro'], 'Producers': ['Nick Wechsler'], 'Starring': ['Charlize Theron', 'Frances McDormand', 'Sean Bean'], 'Studio': ['WARNER BROS.']}\nGood movie\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary David Goldberg'], 'Producers': ['Suzanne Todd', 'Jennifer Todd', 'Gary David Goldberg'], 'Starring': ['Diane Lane', 'John Cusack', 'Dermot Mulroney'], 'Studio': ['WARNER BROS.']}\nGood movie\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sarah Daggar-Nickson'], 'Producers': ['Lars Knudsen', 'Andrew D. Corkin', 'Randall Emmett', 'George Furla', 'Ambyr Childers', 'Allison Rose Carter'], 'Starring': ['Olivia Wilde', 'Morgan Spector', 'Tonye Patano'], 'Studio': ['tribecashortlist']}\nI wasn't really into it\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve McQueen'], 'Producers': ['Iain Canning', 'Emile Sherman', 'Steve McQueen', 'Arnon Milchan'], 'Starring': ['Viola Davis', 'Michelle Rodriguez', 'Elizabeth Debicki'], 'Studio': ['20th Century Fox']}\nGood movie\nMovie\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Knight'], 'Producers': ['Steven Knight', 'Greg Shapiro', 'Guy Heeley'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jason Clarke']}\nSuspenseful\nMovie\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Craig Gillespie'], 'Producers': ['Andrew Gunn'], 'Starring': ['Emma Stone', 'Emma Thompson'], 'Studio': ['Marc Platt Productions / Gunn Films']}\nCute movie\nGood movie",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Good movie",
+    "text": "Cute movie",
+    "images": [],
+    "asin": "B0977T4ZYM",
+    "parent_asin": "B0977T4ZYM",
+    "user_id": "AF2D5XIJU5FUWISBFIQUWFT26OJA",
+    "timestamp": "2021-07-14 11:59:24.636000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 22671,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f0d65a150446bbec3698ca7a7ed31b08053e90094ffb349e70e1e46ab9aa73c._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Nudity",
+        "violence",
+        "alcohol use",
+        "foul language"
+      ],
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Craig Gillespie"
+      ],
+      "Producers": [
+        "Andrew Gunn"
+      ],
+      "Starring": [
+        "Emma Stone",
+        "Emma Thompson"
+      ],
+      "Studio": [
+        "Marc Platt Productions / Gunn Films"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

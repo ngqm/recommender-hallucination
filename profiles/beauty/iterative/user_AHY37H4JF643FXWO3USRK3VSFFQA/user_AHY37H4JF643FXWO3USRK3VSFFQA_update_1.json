@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: UV LED Nail Lamp 120W High Power Nail Dryer for Gel Nail Polish with 4 Timer Setting 42 gel Light,Professional Auto Sensor Nail Light for Fingernail,Toenail,Home,Salon\nReview Date: 2020/06/23\nStore: LWQIONG\nAverage Rating: 4.2\nProduct Details: {'Brand': 'LWQIONG', 'Special Feature': 'Motion Sensor', 'Light Source Type': 'LED', 'Material': 'Plastic, Acrylonitrile Butadiene Styrene', 'Room Type': 'Office'}\nReview Text: I used this to put on my first set of polygel nails.  It was super easy to use and did the job as I expected it would.  The auto function was extremely handy, as was the ability to time it if I wanted.\nReview Title: Did the job as expected\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "UV LED Nail Lamp 120W High Power Nail Dryer for Gel Nail Polish with 4 Timer Setting 42 gel Light,Professional Auto Sensor Nail Light for Fingernail,Toenail,Home,Salon\nLWQIONG\n{'Brand': 'LWQIONG', 'Special Feature': 'Motion Sensor', 'Light Source Type': 'LED', 'Material': 'Plastic, Acrylonitrile Butadiene Styrene', 'Room Type': 'Office'}\nI used this to put on my first set of polygel nails.  It was super easy to use and did the job as I expected it would.  The auto function was extremely handy, as was the ability to time it if I wanted.\nDid the job as expected",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Prefers high-power nail drying solutions, particularly for gel nail applications, indicating an interest in nail care and DIY manicure tools.\n  \n- **Ease of Use**: Values user-friendly features such as auto-sensor functions and timer settings, suggesting a preference for convenience in beauty routines.\n\n- **Quality and Performance**: Looks for reliable performance, as evidenced by a positive rating despite a moderate average product rating, showing a tendency to prioritize functionality over brand reputation.\n\n- **Home and Salon Use**: Indicates flexibility in usage for both home and professional settings, suggesting a dual interest in personal care and potentially providing services to others.\n\n- **Material Awareness**: Shows an awareness of product materials, hinting at a consideration for durability and safety in beauty products.\n\nOverall, the user appears to prioritize effective, convenient nail care solutions that function well in various settings while being durable and easy to use.",
+  "metrics": {
+    "rouge1_f": 0.2693877551020408,
+    "rouge2_f": 0.06584362139917695,
+    "rougeL_f": 0.1469387755102041,
+    "meteor": 0.171898355754858,
+    "bleu1": 0.17435897435897435,
+    "bleu2": 0.05192564683627527,
+    "bleu3": 0.024084382014543604,
+    "bleu4": 0.009235838352226881,
+    "bertscore_precision": 0.4178609251976013,
+    "bertscore_recall": 0.4116722047328949,
+    "bertscore_f1": 0.4147435128688812
+  }
+}

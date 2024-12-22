@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: GreenIVe - Anti-Age Hemp Extract Cream - Lift, Revitalize, Heal - Exclusively on Amazon (300mg)\nReview Date: 2019/12/30\nStore: GreenIVe\nAverage Rating: 3.6\nProduct Details: {'Brand': 'GreenIVe', 'Item Form': 'Cream', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Skin Type': 'All', 'Package Dimensions': '6.1 x 2.1 x 1.7 inches; 4.8 Ounces', 'UPC': '810017842063'}\nReview Text: Feels very nice , the scent is a bit earthy which I much prefer to perfumy\nReview Title: Smooth\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "IQ:Natural Eco-Smart Formula Mineral Fair 2 Foundation 12g (MED BEIGE)\niQ Natural\n{'Item Form': 'Powder', 'Finish Type': 'Natural', 'Package Information': 'Bottle', 'Brand': 'IQ Natural', 'Skin Tone': 'Medium', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.8 x 4.1 x 1.2 inches; 0.42 Ounces'}\nthe color of this make is so unreal I couldnt believe it. the price was good so I ordered it, I went back and looked at all of the shades and none of them look real also really light I am a light blonde and I still looked like the bride of frankenstien not worth the money to send back they need to fix the colors to human shades the mineral veil is nice will buy again sorry\norange yikes\nGreenIVe - Anti-Age Hemp Extract Cream - Lift, Revitalize, Heal - Exclusively on Amazon (300mg)\nGreenIVe\n{'Brand': 'GreenIVe', 'Item Form': 'Cream', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Skin Type': 'All', 'Package Dimensions': '6.1 x 2.1 x 1.7 inches; 4.8 Ounces', 'UPC': '810017842063'}\nFeels very nice , the scent is a bit earthy which I much prefer to perfumy\nSmooth",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Preference:** Engages with mineral makeup products, particularly foundations, while also exploring skincare items like creams with anti-aging properties.\n- **Skin Tone Consideration:** Prioritizes the appropriateness of shades for medium to fair skin tones, emphasizing the importance of realistic color matching.\n- **Feedback on Color Accuracy:** Maintains a strong aversion to unflattering or artificial color representations; experiences disappointment when products do not align with color expectations.\n- **Value Sensitivity:** Seeks reasonably priced products, demonstrating an interest in cost-effectiveness while still valuing quality.\n- **Mixed Experiences:** Appreciates certain aspects of products, such as texture and natural scents, but remains cautious in repurchasing due to previous negative experiences with specific shades in foundations.\n- **Overall Rating Tendency:** Exhibits a dual tendency in reviews, where extreme opinions\u2014either exceptionally positive or poor\u2014significantly influence their overall satisfaction, showcasing a discerning nature regarding product performance.\n- **Scent Preference:** Revealed a preference for earthy scents over heavily perfumed products, indicating a sensitivity to fragrance in skincare and cosmetic items.\n\nThis summary reflects a user who is meticulous about product quality, effectiveness, and sensory experiences, looking for true-to-skin finishes and reliable performance in both makeup and skincare.",
+  "metrics": {
+    "rouge1_f": 0.23437499999999997,
+    "rouge2_f": 0.010471204188481674,
+    "rougeL_f": 0.09375,
+    "meteor": 0.1421339563862928,
+    "bleu1": 0.1984375079784029,
+    "bleu2": 0.008804240720847388,
+    "bleu3": 0.003120941930327381,
+    "bleu4": 0.001859998410321353,
+    "bertscore_precision": 0.3876934051513672,
+    "bertscore_recall": 0.4074971377849579,
+    "bertscore_f1": 0.39734867215156555
+  }
+}

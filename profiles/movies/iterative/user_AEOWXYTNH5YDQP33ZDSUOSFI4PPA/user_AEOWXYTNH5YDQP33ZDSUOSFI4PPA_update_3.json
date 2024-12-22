@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/07/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Phil Lord', 'Christopher Miller'], 'Producers': ['Zareh Nalbandian', 'Matt Skiena', 'Jon Burton', 'Allison Abbate', 'Bruce Berman', 'Kathleen Fleming', 'Matthew Ashton', 'Steven Mnuchin', 'James Packer', 'Seanne Winslow Wehrenfennig', 'Jill Wilfert', 'Benjamin Melniker', 'Michael E. Uslan', 'Dan Lin', 'Roy Lee'], 'Starring': ['Will Arnett', 'Elizabeth Banks', 'Alison Brie']}\nReview Text: so cute\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nA little slow but godd movie.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['20th Century Fox'], 'Producers': ['Jason Blum', 'Mark Ciardi', 'Gordon Gray', 'Kevin Halloran', 'Jim Piddock', 'Emma Watts'], 'Starring': ['Dwayne Johnson', 'Ashley Judd', 'Stephen Merchant'], 'Studio': ['20th Century Fox']}\nSo funny.\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Phil Lord', 'Christopher Miller'], 'Producers': ['Zareh Nalbandian', 'Matt Skiena', 'Jon Burton', 'Allison Abbate', 'Bruce Berman', 'Kathleen Fleming', 'Matthew Ashton', 'Steven Mnuchin', 'James Packer', 'Seanne Winslow Wehrenfennig', 'Jill Wilfert', 'Benjamin Melniker', 'Michael E. Uslan', 'Dan Lin', 'Roy Lee'], 'Starring': ['Will Arnett', 'Elizabeth Banks', 'Alison Brie']}\nso cute\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Maintains a tendency to rate products positively, with an impressive average rating of 4.7. The user recently gave a rating of 5.0, demonstrating an ongoing commitment to engaging with appealing content.\n- **Content Sensitivity:** Prefers media with mature themes, particularly those involving violence, smoking, and foul language, reflecting a comfort with more complex narratives.\n- **Language Accessibility:** Consistently values English audio options and the availability of subtitles, indicating a strong preference for accessibility features in viewing experiences.\n- **Engagement with Popular Content:** Displays a strong affinity for well-known actors and reputable production teams, reinforcing a pattern of favoring mainstream media with high production quality.\n- **Pacing Tolerance:** Enjoys slower-paced narratives, often highlighting this aspect positively in reviews, suggesting an appreciation for character development and nuanced storytelling.\n- **Overall Enjoyment:** Generally expresses high satisfaction with media, showcasing optimism and enjoyment, particularly in comedy and entertainment. Recent interactions describe content as \u201ccute\u201d and fun, further reinforcing a positive outlook towards lighthearted and engaging experiences.\n\nThis summary portrays a user who seeks quality, accessible entertainment that resonates with mainstream offerings while embracing mature themes, all viewed through a lens of positivity and engagement.",
+  "metrics": {
+    "rouge1_f": 0.0676923076923077,
+    "rouge2_f": 0.018575851393188857,
+    "rougeL_f": 0.0676923076923077,
+    "meteor": 0.04815675855197609,
+    "bleu1": 0.08360591352292776,
+    "bleu2": 0.005195135766127604,
+    "bleu3": 0.0020603933123103106,
+    "bleu4": 0.0012988331438614185,
+    "bertscore_precision": 0.3633210361003876,
+    "bertscore_recall": 0.35728850960731506,
+    "bertscore_f1": 0.36027953028678894
+  }
+}

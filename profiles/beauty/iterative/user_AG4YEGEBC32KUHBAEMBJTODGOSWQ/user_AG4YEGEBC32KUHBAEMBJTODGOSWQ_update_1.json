@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 2Pcs Summer Crystal Sequins Unicorn Girl Alligator Hair Clips (Holo+Pome Purple)\nReview Date: 2021/12/27\nStore: Summer Crystal\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Summer Crystal', 'Age Range (Description)': 'Adult', 'Material': 'Polyester, Cotton', 'Unit Count': '2.00 Count', 'Number of Pieces': '2', 'Product Dimensions': '3.25 x 2.75 x 0.75 inches; 0.63 Ounces', 'UPC': '635638430488'}\nReview Text: There are two sparkling unicorn hair accessories with alligator clips included in this set. They are good quality and handmade. They are easy to stick into thin hair for any little girl to enjoy. I love the sparkle and the girlyness of these hair clips!\nReview Title: Cute!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "2Pcs Summer Crystal Sequins Unicorn Girl Alligator Hair Clips (Holo+Pome Purple)\nSummer Crystal\n{'Brand': 'Summer Crystal', 'Age Range (Description)': 'Adult', 'Material': 'Polyester, Cotton', 'Unit Count': '2.00 Count', 'Number of Pieces': '2', 'Product Dimensions': '3.25 x 2.75 x 0.75 inches; 0.63 Ounces', 'UPC': '635638430488'}\nThere are two sparkling unicorn hair accessories with alligator clips included in this set. They are good quality and handmade. They are easy to stick into thin hair for any little girl to enjoy. I love the sparkle and the girlyness of these hair clips!\nCute!",
+  "profile": "**User Profile Summary:**\n\n- **Style Preferences:** The user enjoys accessories that are sparkly and playful, particularly those with whimsical themes like unicorns. This indicates a lean towards youthful, vibrant aesthetics.\n\n- **Target Audience:** While the product is suitable for children, the user identifies with adult tastes in decorative elements, suggesting an appreciation for youthful charm regardless of age.\n\n- **Quality and Craftsmanship:** The user values quality in products, as shown by their positive feedback regarding the handmade nature and durability of the items.\n\n- **Functionality:** They favor accessories that are easy to use, particularly those that work well with fine hair, showcasing a preference for practical yet stylish solutions.\n\n- **Overall Sentiment:** The user expresses a high level of satisfaction with cute, girly accessories, indicating a trend toward products that enhance personal expression through fun and vibrant designs.",
+  "metrics": {
+    "rouge1_f": 0.21929824561403508,
+    "rouge2_f": 0.02654867256637168,
+    "rougeL_f": 0.14035087719298248,
+    "meteor": 0.1602021303876379,
+    "bleu1": 0.18579234972677594,
+    "bleu2": 0.04518488876628683,
+    "bleu3": 0.022426902072763304,
+    "bleu4": 0.008897312381346603,
+    "bertscore_precision": 0.4196290969848633,
+    "bertscore_recall": 0.43558308482170105,
+    "bertscore_f1": 0.4274572730064392
+  }
+}

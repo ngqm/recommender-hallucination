@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sunny Isle Jamaican Black Castor Oil Pure Butter infused with Tea Tree Oil, 4 Oz\nReview Date: 2022/07/07\nStore: Sunny Isle\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Sunny Isle', 'Item Form': 'Butter', 'Unit Count': '4.0 Ounce', 'Number of Items': '1', 'Skin Type': 'Sensitive, Dry', 'Package Dimensions': '5.67 x 3.9 x 2.56 inches; 4 Ounces', 'UPC': '850006021659', 'Manufacturer': 'JBC Distributors Inc. (Sunny Isle)'}\nReview Text: nice and thick like a grease, moisturizing and strong Tea tree smell. multiple uses. my jar lid did come cracked due to shipping\nReview Title: strong tee tree smell\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sunny Isle Jamaican Black Castor Oil Pure Butter infused with Tea Tree Oil, 4 Oz\nSunny Isle\n{'Brand': 'Sunny Isle', 'Item Form': 'Butter', 'Unit Count': '4.0 Ounce', 'Number of Items': '1', 'Skin Type': 'Sensitive, Dry', 'Package Dimensions': '5.67 x 3.9 x 2.56 inches; 4 Ounces', 'UPC': '850006021659', 'Manufacturer': 'JBC Distributors Inc. (Sunny Isle)'}\nnice and thick like a grease, moisturizing and strong Tea tree smell. multiple uses. my jar lid did come cracked due to shipping\nstrong tee tree smell",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys thicker, moisturizing products ideal for sensitive and dry skin types.\n- **Aroma Sensitivity:** Prefers items with strong scents, specifically highlighting a fondness for tea tree.\n- **Versatility:** Values products with multiple uses, indicating a preference for functionality.\n- **Quality Assurance:** There is an awareness of packaging quality, as the user noted issues with the product's lid during shipping.\n- **Satisfaction Level:** Generally has a positive experience with products, as evidenced by high ratings in their reviews (5.0 for this interaction).\n- **Brand Loyalty:** Demonstrates an inclination towards specific brands (Sunny Isle) known for their quality in herbal or natural products.\n\nOverall, the user favors skincare products that cater to sensitive skin, provide substantial moisture, possess strong natural fragrances, and come from reputable brands.",
+  "metrics": {
+    "rouge1_f": 0.2571428571428572,
+    "rouge2_f": 0.04807692307692308,
+    "rougeL_f": 0.10476190476190476,
+    "meteor": 0.2149191177865013,
+    "bleu1": 0.1989247311827957,
+    "bleu2": 0.07332355751067662,
+    "bleu3": 0.03880607715464358,
+    "bleu4": 0.02377179819028848,
+    "bertscore_precision": 0.4288891553878784,
+    "bertscore_recall": 0.4097343683242798,
+    "bertscore_f1": 0.4190930128097534
+  }
+}

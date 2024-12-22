@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10 Movie Princess Collection\nReview Date: 2017/12/29\nStore: Format: DVD\nCategories: Movies & TV, Movies\nAverage Rating: 4.2\nProduct Details: {'Product Dimensions': '0.7\"L x 7.5\"W', 'Item Weight': '0.32 Pounds', 'Number of Items': '1', 'Orientation': 'Portrait', 'Shape': 'Rectangular', 'Aspect Ratio': '1.33:1', 'Is Discontinued By Manufacturer': 'No', 'Item model number': 'GDTV4422DVD', 'Media Format': 'NTSC, Color, Multiple Formats', 'Run time': '8 hours and 20 minutes', 'Release date': 'March 5, 2013', 'Language': 'English (Stereo)', 'Studio': 'Good Times Video', 'Number of discs': '1'}\nReview Text: poor quality and fairly tales are odd\nReview Title: not worth buying\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nHilarious\nHilarious\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Tibbitt', 'Mike Mitchell'], 'Producers': ['Paul Tibbitt', 'Mary Parent', 'Stephen Hillenburg', 'Cale Boyter'], 'Starring': ['Antonio Banderas'], 'Studio': ['Paramount Pictures']}\nkids loved it\nkids loved it\n10 Movie Princess Collection\nFormat: DVD\nMovies & TV, Movies\n{'Product Dimensions': '0.7\"L x 7.5\"W', 'Item Weight': '0.32 Pounds', 'Number of Items': '1', 'Orientation': 'Portrait', 'Shape': 'Rectangular', 'Aspect Ratio': '1.33:1', 'Is Discontinued By Manufacturer': 'No', 'Item model number': 'GDTV4422DVD', 'Media Format': 'NTSC, Color, Multiple Formats', 'Run time': '8 hours and 20 minutes', 'Release date': 'March 5, 2013', 'Language': 'English (Stereo)', 'Studio': 'Good Times Video', 'Number of discs': '1'}\npoor quality and fairly tales are odd\nnot worth buying",
+  "profile": "**User Summary:**\n\n- **Rating Preferences:** The user typically rates content highly, especially comedic works, but has shown a significant deviation by rating a recent purchase very low (1.0), indicating a dislike for certain family-oriented entertainment.\n- **Content Type:** Enjoys humorous entertainment, particularly family-friendly comedies, showcasing a versatile taste that accommodates both adult and children\u2019s humor. However, the recent negative rating suggests that not all family-oriented content aligns with their expectations.\n- **Language & Accessibility:** Consistently prefers content in English and appreciates accessibility features like audio descriptions and closed captions to enhance the viewing experience.\n- **Industry Connections:** Maintains a preference for content created by notable figures in comedy, reflecting an appreciation for established talent within the industry.\n- **Overall Sentiment:** Predominantly maintains a positive sentiment towards engaging and entertaining content, but the recent interaction reveals a critical stance towards specific quality issues in family-oriented films. This indicates a desire for high production values, even in material aimed at younger audiences, establishing a clear distinction between the types of family content the user finds acceptable.",
+  "metrics": {
+    "rouge1_f": 0.0875,
+    "rouge2_f": 0.006289308176100628,
+    "rougeL_f": 0.04375,
+    "meteor": 0.05589229539923827,
+    "bleu1": 0.07246053294468492,
+    "bleu2": 0.004687736080942415,
+    "bleu3": 0.0018846530619207637,
+    "bleu4": 0.0011963369520217471,
+    "bertscore_precision": 0.3557480573654175,
+    "bertscore_recall": 0.3442956805229187,
+    "bertscore_f1": 0.3499281704425812
+  }
+}

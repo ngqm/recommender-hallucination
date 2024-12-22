@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/12/10\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Tibbitt', 'Mike Mitchell'], 'Producers': ['Paul Tibbitt', 'Mary Parent', 'Stephen Hillenburg', 'Cale Boyter'], 'Starring': ['Antonio Banderas'], 'Studio': ['Paramount Pictures']}\nReview Text: kids loved it\nReview Title: kids loved it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nHilarious\nHilarious\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Tibbitt', 'Mike Mitchell'], 'Producers': ['Paul Tibbitt', 'Mary Parent', 'Stephen Hillenburg', 'Cale Boyter'], 'Starring': ['Antonio Banderas'], 'Studio': ['Paramount Pictures']}\nkids loved it\nkids loved it",
+  "profile": "**User Summary:**\n\n- **Rating Preferences:** Continues to give high ratings, notably a consistent pattern of 5.0 for comedic content, reflecting a strong appreciation for quality entertainment.\n- **Content Type:** Enjoys humorous entertainment, with a recent engagement indicating a positive response to family-friendly comedies. This suggests an interest in comedic material that appeals to both adult and younger audiences.\n- **Language & Accessibility:** Prefers content in English and values accessibility features, particularly audio descriptions and closed captions, to enhance the viewing experience.\n- **Industry Connections:** Shows a preference for works produced or directed by influential figures in comedy, demonstrating an appreciation for established talent in the industry, including notable directors and producers.\n- **Overall Sentiment:** Maintains a positive sentiment towards engaging and entertaining content, with an emphasis on films that are enjoyable for families, which aligns with their inclination towards laugh-inducing experiences.\n\nThe latest interaction indicates the user not only enjoys adult-oriented humor but also appreciates content suitable for children, highlighting a versatile taste in comedic media while still emphasizing high production quality and accessibility.",
+  "metrics": {
+    "rouge1_f": 0.059829059829059825,
+    "rouge2_f": 0.008620689655172414,
+    "rougeL_f": 0.059829059829059825,
+    "meteor": 0.07485160288783517,
+    "bleu1": 0.07239819004524889,
+    "bleu2": 0.0057365728621177545,
+    "bleu3": 0.0024676693738078293,
+    "bleu4": 0.0016203211651332943,
+    "bertscore_precision": 0.3840026557445526,
+    "bertscore_recall": 0.33648398518562317,
+    "bertscore_f1": 0.3586762845516205
+  }
+}

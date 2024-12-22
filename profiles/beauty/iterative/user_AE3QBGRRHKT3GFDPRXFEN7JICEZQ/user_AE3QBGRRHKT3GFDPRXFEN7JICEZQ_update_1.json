@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4D Silk Fiber Lash Mascara Black, Waterproof Natural Thick Fiber Mascara, Thick Thickening Lengthening, Dramatic Extension Voluminous Eyelashes Mascara, No Clumping, No Smudging Lasting All Day\nReview Date: 2020/08/25\nStore: SIKEMAY\nAverage Rating: 4.0\nProduct Details: {'Color': 'black', 'Special Feature': 'Water, Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.2 x 4 x 1.1 inches; 2.4 Ounces', 'UPC': '764690676838', 'Manufacturer': 'SIKEMAY'}\nReview Text: Does a great job of making my lashes look lush and full plus it also makes them look longer. I usually have mascara that does one or the other but not both  so this product is great. It's waterproof but easily removable with a makeup wipe or eye makeup remover. Very happy with this purchase.\nReview Title: Great mascara\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "4D Silk Fiber Lash Mascara Black, Waterproof Natural Thick Fiber Mascara, Thick Thickening Lengthening, Dramatic Extension Voluminous Eyelashes Mascara, No Clumping, No Smudging Lasting All Day\nSIKEMAY\n{'Color': 'black', 'Special Feature': 'Water, Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.2 x 4 x 1.1 inches; 2.4 Ounces', 'UPC': '764690676838', 'Manufacturer': 'SIKEMAY'}\nDoes a great job of making my lashes look lush and full plus it also makes them look longer. I usually have mascara that does one or the other but not both  so this product is great. It's waterproof but easily removable with a makeup wipe or eye makeup remover. Very happy with this purchase.\nGreat mascara",
+  "profile": "**User Profile Summary:**\n\n- **Focus on Eye Products:** The user shows a strong preference for eye cosmetics, particularly mascaras that enhance lash fullness and length.\n- **Performance Attributes:** Values products that offer dual benefits, such as volumizing and lengthening lashes simultaneously, indicating a desire for efficacy in makeup products.\n- **Waterproof & Easy Removal:** Prefers waterproof features for longevity but also appreciates products that can be easily removed, suggesting a balance between durability and convenience.\n- **Hypoallergenic Options:** Appears to consider skin sensitivity, leaning towards hypoallergenic products, which indicates a preference for gentle formulations.\n- **Positive Experience with Quality:** The user expresses satisfaction with high-quality products, as inferred from the positive rating and review, highlighting a tendency to seek out well-reviewed items.\n\nOverall, the user leans towards effective, high-performing makeup solutions, particularly in eye care, with a clear preference for waterproof and easily removable options.",
+  "metrics": {
+    "rouge1_f": 0.19771863117870722,
+    "rouge2_f": 0.02298850574712644,
+    "rougeL_f": 0.10646387832699619,
+    "meteor": 0.1577485101311085,
+    "bleu1": 0.20725388601036268,
+    "bleu2": 0.04646390691645804,
+    "bleu3": 0.010416760858426027,
+    "bleu4": 0.004938682651343673,
+    "bertscore_precision": 0.43676528334617615,
+    "bertscore_recall": 0.45807790756225586,
+    "bertscore_f1": 0.4471677839756012
+  }
+}

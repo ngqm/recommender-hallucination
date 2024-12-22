@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/02\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kris Greengrove', 'Susan Holden', 'Steve Oakes', 'David Starr', 'Richard Winkler', 'Soo Kim', 'Jennifer Twomey', 'Marcy Pritchard', 'Amy Steinberg', 'Max Goodman'], 'Starring': ['Donovan Patton', 'P.T. Walkley', 'Ethan Kempner'], 'Studio': ['NICKELODEON']}\nReview Text: Great teaching program.  Well done and easy to follow.\nReview Title: Let your kids watch it...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philip Martin'], 'Producers': ['Simon Moseley'], 'Starring': ['Kenneth Branagh', 'Sarah Smart', 'Jeany Spark']}\nWallender is an interesting, introspective and clever (not to overlook moody) detective who investigates tragic and often gruesome murders.  It is well written, well photographed, generally believable and worth watching.  You should begin to connect with the character by the third episode.\nNot disappointing\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kris Greengrove', 'Susan Holden', 'Steve Oakes', 'David Starr', 'Richard Winkler', 'Soo Kim', 'Jennifer Twomey', 'Marcy Pritchard', 'Amy Steinberg', 'Max Goodman'], 'Starring': ['Donovan Patton', 'P.T. Walkley', 'Ethan Kempner'], 'Studio': ['NICKELODEON']}\nGreat teaching program.  Well done and easy to follow.\nLet your kids watch it...",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys introspective and moody detective stories, particularly those that focus on complex characters and intricate plots. Recently showed interest in educational content, indicating a potential openness to diverse genres that also emphasize quality.\n- **Content Quality:** Appreciates well-written and well-produced content, demonstrating a tendency towards high production values. The latest interaction highlights a favorable view on well-executed educational programming.\n- **Character and Emotional Development:** Values character growth and emotional connections, expecting to develop an attachment to characters over time. This includes a desire for programs that are engaging and easily digestible, reflecting an appreciation for user-friendly content.\n- **Language and Accessibility:** Prefers content in English with English subtitles, focusing on accessible viewing experiences. The consistent use of English in both entertainment and educational content aligns with this preference.\n- **Rating Trends:** Generally positive with an average rating of 4.4, now slightly increased to 4.6, suggesting discerning taste and a tendency to favor content that balances storytelling, production quality, and educational value.\n\nThis user's interactions illustrate a clear trend towards thoughtfully crafted narratives that balance atmosphere, character depth, and quality educational experiences, reflecting a preference for quality over quantity in diverse media consumption.",
+  "metrics": {
+    "rouge1_f": 0.18471337579617833,
+    "rouge2_f": 0.025641025641025637,
+    "rougeL_f": 0.10828025477707008,
+    "meteor": 0.1084010840108401,
+    "bleu1": 0.1507936507936508,
+    "bleu2": 0.02451064089545964,
+    "bleu3": 0.0062171275188407146,
+    "bleu4": 0.003134313942988525,
+    "bertscore_precision": 0.39804667234420776,
+    "bertscore_recall": 0.40940558910369873,
+    "bertscore_f1": 0.40364623069763184
+  }
+}

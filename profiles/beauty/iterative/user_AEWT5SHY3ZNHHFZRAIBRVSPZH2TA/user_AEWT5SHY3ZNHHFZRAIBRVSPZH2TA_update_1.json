@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Women 4D Silk Fibre Mascara Eyelash Waterproof Extension Volume Long Lasting for women Mascara (Black)\nReview Date: 2019/04/03\nStore: jumpjisper\nAverage Rating: 3.8\nProduct Details: {'Special Feature': 'Waterproof', 'Brand': 'Jumpjisper', 'Unit Count': '1 Count', 'Package Information': 'Tube', 'Water Resistance Level': 'Water Resistant', 'Is Discontinued By Manufacturer': 'No', 'UPC': '715002653979'}\nReview Text: This mascara is nice. It lengthens and holds all day.\nReview Title: Volume\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Women 4D Silk Fibre Mascara Eyelash Waterproof Extension Volume Long Lasting for women Mascara (Black)\njumpjisper\n{'Special Feature': 'Waterproof', 'Brand': 'Jumpjisper', 'Unit Count': '1 Count', 'Package Information': 'Tube', 'Water Resistance Level': 'Water Resistant', 'Is Discontinued By Manufacturer': 'No', 'UPC': '715002653979'}\nThis mascara is nice. It lengthens and holds all day.\nVolume",
+  "profile": "**User Profile Summary:**\n\nThe user demonstrates a preference for cosmetic products, specifically focusing on eye makeup, with a strong inclination towards waterproof formulas. They value cosmetics that not only enhance appearance but also offer long-lasting wear and reliable performance throughout the day. The positive reception of the mascara, highlighted by a perfect rating for its lengthening and holding capabilities, suggests a trend towards products that deliver on both volume and durability. The user may appreciate brands that balance effectiveness with user-friendly packaging. Overall, their preferences indicate a desire for high-quality beauty products that align with practicality and longevity.",
+  "metrics": {
+    "rouge1_f": 0.17105263157894737,
+    "rouge2_f": 0.04,
+    "rougeL_f": 0.11842105263157894,
+    "meteor": 0.11865842683989987,
+    "bleu1": 0.10619469026548671,
+    "bleu2": 0.0307923184799459,
+    "bleu3": 0.009488275078990768,
+    "bleu4": 0.005278885947447726,
+    "bertscore_precision": 0.38861751556396484,
+    "bertscore_recall": 0.41370889544487,
+    "bertscore_f1": 0.4007708728313446
+  }
+}

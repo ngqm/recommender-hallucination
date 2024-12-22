@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 6 Pcs Comb Mold for Resin Set Include 4Pcs Resin Comb Mold and 2Pcs Craft Mirror for DIY Hair Comb Craft\nReview Date: 2021/03/14\nStore: Pistha\nAverage Rating: 4.1\nProduct Details: {'Material': 'Plastic', 'Brand': 'Pistha', 'Size': '6 Piece Set', 'Unit Count': '6.00 Count', 'Package Dimensions': '9 x 6.5 x 0.5 inches; 6.38 Ounces'}\nReview Text: I don\u2019t know if I did something wrong but my combs were not usable. It\u2019s almost like the molds weren\u2019t deep enough\nReview Title: Meh\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "6 Pcs Comb Mold for Resin Set Include 4Pcs Resin Comb Mold and 2Pcs Craft Mirror for DIY Hair Comb Craft\nPistha\n{'Material': 'Plastic', 'Brand': 'Pistha', 'Size': '6 Piece Set', 'Unit Count': '6.00 Count', 'Package Dimensions': '9 x 6.5 x 0.5 inches; 6.38 Ounces'}\nI don\u2019t know if I did something wrong but my combs were not usable. It\u2019s almost like the molds weren\u2019t deep enough\nMeh",
+  "profile": "**User Profile Summary:**\n\n- **Crafting Enthusiast**: The user engages in DIY projects, specifically in crafting items such as hair combs, indicating a strong interest in hands-on activities.\n- **Preference for Molds**: Their purchase of a resin mold set signifies a tendency towards creating custom or personalized products rather than opting for ready-made solutions.\n- **Learning and Experimentation**: The user's review suggests a willingness to experiment with new materials and techniques, despite encountering challenges with usability, indicating a growth mindset in crafting.\n- **Attention to Functionality**: The critical rating implies a focus on product effectiveness and quality, suggesting that the user values practical results over aesthetics in crafting supplies.\n- **Room for Improvement**: The dissatisfaction points to a desire for better design or functionality in craft products, highlighting that the user seeks items that meet specific usability criteria. \n\nOverall, the user is a crafting enthusiast who values practicality and is open to learning from their experiences, with a careful consideration of product functionality.",
+  "metrics": {
+    "rouge1_f": 0.13675213675213677,
+    "rouge2_f": 0.008620689655172415,
+    "rougeL_f": 0.08547008547008547,
+    "meteor": 0.12295081967213113,
+    "bleu1": 0.07729468599033815,
+    "bleu2": 0.006125495263921074,
+    "bleu3": 0.0026353776102793374,
+    "bleu4": 0.0017307111718574439,
+    "bertscore_precision": 0.3867887854576111,
+    "bertscore_recall": 0.358807235956192,
+    "bertscore_f1": 0.37227293848991394
+  }
+}

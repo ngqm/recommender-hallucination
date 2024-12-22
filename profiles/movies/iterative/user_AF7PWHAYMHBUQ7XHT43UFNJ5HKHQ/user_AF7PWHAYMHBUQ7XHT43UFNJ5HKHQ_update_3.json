@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/24\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Arna Selznick'], 'Producers': ['Jack Chojnacki', 'Lou Gioia', 'Carole MacGillvray', 'Robert Unkel', 'Michael Hirsh', 'Patrick Loubert', 'Clive Smith'], 'Starring': ['Mickey Rooney', 'Georgia Engel'], 'Studio': ['Orion']}\nReview Text: Good for kids.\nReview Title: Nice!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philip Martin'], 'Producers': ['Simon Moseley'], 'Starring': ['Kenneth Branagh', 'Sarah Smart', 'Jeany Spark']}\nWallender is an interesting, introspective and clever (not to overlook moody) detective who investigates tragic and often gruesome murders.  It is well written, well photographed, generally believable and worth watching.  You should begin to connect with the character by the third episode.\nNot disappointing\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kris Greengrove', 'Susan Holden', 'Steve Oakes', 'David Starr', 'Richard Winkler', 'Soo Kim', 'Jennifer Twomey', 'Marcy Pritchard', 'Amy Steinberg', 'Max Goodman'], 'Starring': ['Donovan Patton', 'P.T. Walkley', 'Ethan Kempner'], 'Studio': ['NICKELODEON']}\nGreat teaching program.  Well done and easy to follow.\nLet your kids watch it...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Arna Selznick'], 'Producers': ['Jack Chojnacki', 'Lou Gioia', 'Carole MacGillvray', 'Robert Unkel', 'Michael Hirsh', 'Patrick Loubert', 'Clive Smith'], 'Starring': ['Mickey Rooney', 'Georgia Engel'], 'Studio': ['Orion']}\nGood for kids.\nNice!",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Continues to enjoy introspective and moody detective stories with a focus on complex character development. Recently demonstrated an increased openness to diverse educational content, particularly with a focus on quality production.\n- **Content Quality:** Maintains a strong appreciation for well-crafted and high-quality content, as indicated by favorable views on well-executed educational programming. The latest interaction reflects a positive experience with children\u2019s content, suggesting versatility in genre preference.\n- **Character and Emotional Development:** Values character growth and emotional connections, expecting to build attachments over time. The desire for engaging and digestible programs persists, highlighting an appreciation for user-friendly content.\n- **Language and Accessibility:** Prefers content in English with English subtitles for an accessible viewing experience. This consistent preference for language remains aligned with previous interactions in both entertainment and educational spheres.\n- **Rating Trends:** The average rating has increased to 4.6, showcasing a discerning taste and a tendency to favor high-quality storytelling and production. Most recent interactions suggest an emerging interest in children\u2019s programming while maintaining expectations for depth and quality.\n\nOverall, the user's interactions underscore a commitment to thoughtfully crafted narratives that balance atmosphere, character depth, and educational value while embracing a wider range of media, including family-friendly content.",
+  "metrics": {
+    "rouge1_f": 0.15041782729805014,
+    "rouge2_f": 0.016806722689075633,
+    "rougeL_f": 0.08356545961002786,
+    "meteor": 0.08077810748433895,
+    "bleu1": 0.12480092770440684,
+    "bleu2": 0.020022536307025572,
+    "bleu3": 0.0050564305105259225,
+    "bleu4": 0.002543469501441911,
+    "bertscore_precision": 0.3732043504714966,
+    "bertscore_recall": 0.40632498264312744,
+    "bertscore_f1": 0.3890610337257385
+  }
+}

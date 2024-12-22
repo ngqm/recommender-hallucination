@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: [Upgrade] FUGACAL Hair Straightener Brush, 30s Fast Heating, 3 Temp Settings, Anti-Scald Design and 30mins Auto-Off, Bring You Ultra Straight Hair with Natural Shiny Look in Minutes\nReview Date: 2022/03/30\nStore: Fugacal\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Fugacal', 'Material': 'Ceramic', 'Power Source': 'Corded Electric', 'Hair Type': 'Thick', 'Product Dimensions': '12.2 x 1.8 x 1.7 inches; 1.79 Pounds', 'Item model number': 'FG-HS01', 'Manufacturer': 'Fugacal'}\nReview Text: I am a habitual flat iron user and recently purchased a wet to dry heating tool/comb, but decided to take a chance on this straightening brush steamer: I must say:  I am quite impressed with this apparatus.  It took me a quick second to get in a groove of running it through my hair, but after a few times, it was pretty easy.  The tension/pull is really good and I liked how it left my hair.  My hair feels so smooth and I am pretty satisfied with how my hair turned out (after my first try)...\nReview Title: Really happy with this item\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "[Upgrade] FUGACAL Hair Straightener Brush, 30s Fast Heating, 3 Temp Settings, Anti-Scald Design and 30mins Auto-Off, Bring You Ultra Straight Hair with Natural Shiny Look in Minutes\nFugacal\n{'Brand': 'Fugacal', 'Material': 'Ceramic', 'Power Source': 'Corded Electric', 'Hair Type': 'Thick', 'Product Dimensions': '12.2 x 1.8 x 1.7 inches; 1.79 Pounds', 'Item model number': 'FG-HS01', 'Manufacturer': 'Fugacal'}\nI am a habitual flat iron user and recently purchased a wet to dry heating tool/comb, but decided to take a chance on this straightening brush steamer: I must say:  I am quite impressed with this apparatus.  It took me a quick second to get in a groove of running it through my hair, but after a few times, it was pretty easy.  The tension/pull is really good and I liked how it left my hair.  My hair feels so smooth and I am pretty satisfied with how my hair turned out (after my first try)...\nReally happy with this item",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Prefers hair styling tools, particularly those that combine functionality with ease of use, like straightening brushes.\n- **Performance Expectations:** Values quick heating capabilities and multiple temperature settings for versatile styling.\n- **User Experience:** Appreciates tools that are easy to master after a short learning curve, indicating a preference for products that offer intuitive design.\n- **Hair Type Consideration:** Specifically seeks tools suitable for thick hair, suggesting a focus on products that can handle texture and density effectively.\n- **Desired Outcome:** Looks for products that enhance the natural shine and smoothness of hair, reflecting a preference for aesthetics in hair care.\n- **Safety Features:** Values devices with safety features such as auto shut-off and anti-scald design, indicating a concern for safety during use.\n- **Satisfaction Level:** Exhibits a strong satisfaction with products that meet or exceed expectations, as evidenced by positive ratings and feedback.\n\nOverall, the user has a keen interest in effective hair styling solutions that combine performance, safety, and ease of use.",
+  "metrics": {
+    "rouge1_f": 0.27963525835866265,
+    "rouge2_f": 0.030581039755351678,
+    "rougeL_f": 0.11550151975683891,
+    "meteor": 0.16994754898977607,
+    "bleu1": 0.22466960352422904,
+    "bleu2": 0.044589534420763285,
+    "bleu3": 0.009596093092354877,
+    "bleu4": 0.0044566531436325595,
+    "bertscore_precision": 0.43031707406044006,
+    "bertscore_recall": 0.4480050206184387,
+    "bertscore_f1": 0.43898293375968933
+  }
+}

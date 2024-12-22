@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10pcs Baby Girl Elastic Multicolor Flower Headband Rhinestone Hair Band\nReview Date: 2016/09/10\nStore: Susenstone\u00ae610\nAverage Rating: 3.9\nProduct Details: {'Age Range (Description)': 'Baby', 'Occasion': 'Wedding, Birthday', 'Material': 'Rhinestone', 'Fabric Type': 'elastic', 'Number of Items': '10', 'Is Discontinued By Manufacturer': 'No', 'Manufacturer recommended age': '0 - 5 months', 'UPC': '638823006215', 'Manufacturer': 'Susenstone\u00ae'}\nReview Text: They're beautiful and look just like the picture! everything is solid on them! I can't wait to see our baby girl in them!!\nReview Title: They're beautiful and look just like the picture\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10pcs Baby Girl Elastic Multicolor Flower Headband Rhinestone Hair Band\nSusenstone\u00ae610\n{'Age Range (Description)': 'Baby', 'Occasion': 'Wedding, Birthday', 'Material': 'Rhinestone', 'Fabric Type': 'elastic', 'Number of Items': '10', 'Is Discontinued By Manufacturer': 'No', 'Manufacturer recommended age': '0 - 5 months', 'UPC': '638823006215', 'Manufacturer': 'Susenstone\u00ae'}\nThey're beautiful and look just like the picture! everything is solid on them! I can't wait to see our baby girl in them!!\nThey're beautiful and look just like the picture",
+  "profile": "**User Profile Summary:**\n\n- **Target Audience:** Focus on products for babies, particularly girls.\n- **Product Type:** Preference for accessories, specifically hairbands or similar items.\n- **Occasions:** Interest in products suitable for special events such as weddings and birthdays.\n- **Aesthetic Preferences:** Values beauty and visual appeal; likely attracted to colorful and decorative items.\n- **Quality Expectations:** High regard for product quality, expecting them to be as described in visuals and durable.\n- **Emotional Connection:** Shows excitement and anticipation regarding the appearance of the product on their child, indicating a nurturing aspect and strong familial connections. \n\nOverall, the user demonstrates a clear interest in stylish, functional baby apparel and accessories, reflecting a keen eye for aesthetics and a focus on quality suitable for memorable occasions.",
+  "metrics": {
+    "rouge1_f": 0.19487179487179487,
+    "rouge2_f": 0.010362694300518135,
+    "rougeL_f": 0.13333333333333333,
+    "meteor": 0.14937106918238996,
+    "bleu1": 0.14942528735632185,
+    "bleu2": 0.009293707466445368,
+    "bleu3": 0.003689349933752703,
+    "bleu4": 0.00232789485153998,
+    "bertscore_precision": 0.4212552011013031,
+    "bertscore_recall": 0.42192408442497253,
+    "bertscore_f1": 0.42158937454223633
+  }
+}

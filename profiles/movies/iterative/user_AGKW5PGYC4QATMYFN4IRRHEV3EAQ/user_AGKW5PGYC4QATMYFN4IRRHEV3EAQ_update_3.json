@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/04/27\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Carlos Saldanha'], 'Producers': ['John Davis', 'Lisa Marie Stetler', 'Lori Forte', 'Bruce Anderson'], 'Starring': ['John Cena', 'Kate McKinnon', 'Anthony Anderson']}\nReview Text: cute movie\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adrian Molina', 'Lee Unkrich'], 'Producers': ['Darla K. Anderson'], 'Starring': ['Anthony Gonzalez', 'Gael Garc\u00eda Bernal', 'Benjamin Bratt'], 'Studio': ['Pixar']}\ngreat movie\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Ford Coppola'], 'Producers': ['Joseph Landon'], 'Starring': ['Fred Astaire', 'Petula Clark', 'Tommy Steele'], 'Studio': ['WARNER BROS.']}\nomg. I could not wait for this movie to end.<br />my son is doing this for his choir group<br />watched it to get ideas of the show\nomg. I could not wait for this movie to ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Carlos Saldanha'], 'Producers': ['John Davis', 'Lisa Marie Stetler', 'Lori Forte', 'Bruce Anderson'], 'Starring': ['John Cena', 'Kate McKinnon', 'Anthony Anderson']}\ncute movie\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally rates products highly with an average rating of 4.8. Recently expressed a more moderate rating of 4.0, reflecting a consistent appreciation for quality, though slightly less enthusiasm than before.\n\n- **Content Preferences:** Strong preference for animated features from renowned studios, with a recent interaction indicating enjoyment of a cute movie, reinforcing their fondness for lighter narratives. The user continues to show openness to various genres.\n\n- **Language Accessibility:** Values inclusivity, emphasizing the importance of multiple audio and subtitle options, which aligns with their previous interactions.\n\n- **Engagement Style:** Typically shares satisfaction through simple, positive feedback. The moderate recent rating suggests a balanced view that recognizes quality while maintaining optimism.\n\n- **Cultural Appreciation:** Maintains interest in diverse cultural elements and representation, though high production quality remains essential. Recent engagements indicate that cultural authenticity enhances their enjoyment.\n\n- **Visual and Auditory Focus:** Prefers visually engaging narratives with strong storytelling. Their latest experience underscores that while they enjoy aesthetic appeal, coherence and overall quality are critical for satisfaction.\n\nOverall, the user enjoys a diverse array of high-quality animated films, appreciates inclusive elements and multicultural narratives, and continues to explore different content types. Recent feedback indicates a moderate shift in expectations, signaling a reflective approach to their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.0960960960960961,
+    "rouge2_f": 0.006042296072507554,
+    "rougeL_f": 0.06006006006006005,
+    "meteor": 0.07458828359325267,
+    "bleu1": 0.12087912087912088,
+    "bleu2": 0.02108099932744713,
+    "bleu3": 0.005473574488220304,
+    "bleu4": 0.002791658775945319,
+    "bertscore_precision": 0.36091330647468567,
+    "bertscore_recall": 0.35063034296035767,
+    "bertscore_f1": 0.35569751262664795
+  }
+}

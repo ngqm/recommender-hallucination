@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Purple Shampoo and Conditioner Set - No, Orange, Yellow or Brassy Tones - Best Toner Treatment for Brassiness - Blonde, Grey, Bleached or Silver Hair - Sulfate Free\nReview Date: 2021/05/26\nStore: PURE NATURE LUX SPA\nAverage Rating: 4.0\nProduct Details: {'Product Benefits': 'Nourishing,Clean,Gentle', 'Material Type Free': 'Sulfate Free', 'Item Form': 'Gel', 'Brand': 'PURE NATURE LUX SPA', 'Hair Type': 'Color', 'Package Dimensions': '7.68 x 6.06 x 3.19 inches; 2.68 Pounds', 'Item model number': 'PURE NATURE LUX SPA', 'UPC': '765066671143'}\nReview Text: If I could I would give this minus stars. It's horrible. The shampoo does not lather and the conditioner does not condition. It does not smell good and it left my hair feeling like straw. Very dry straw. I do not recommend this. You will be sorry.<br />To be fair though this does cut down on that brassy or yellowish look.<br />I hate giving bad reviews but this product is no good.\nReview Title: Horrid\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Purple Shampoo and Conditioner Set - No, Orange, Yellow or Brassy Tones - Best Toner Treatment for Brassiness - Blonde, Grey, Bleached or Silver Hair - Sulfate Free\nPURE NATURE LUX SPA\n{'Product Benefits': 'Nourishing,Clean,Gentle', 'Material Type Free': 'Sulfate Free', 'Item Form': 'Gel', 'Brand': 'PURE NATURE LUX SPA', 'Hair Type': 'Color', 'Package Dimensions': '7.68 x 6.06 x 3.19 inches; 2.68 Pounds', 'Item model number': 'PURE NATURE LUX SPA', 'UPC': '765066671143'}\nIf I could I would give this minus stars. It's horrible. The shampoo does not lather and the conditioner does not condition. It does not smell good and it left my hair feeling like straw. Very dry straw. I do not recommend this. You will be sorry.<br />To be fair though this does cut down on that brassy or yellowish look.<br />I hate giving bad reviews but this product is no good.\nHorrid",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user is focused on hair care products, particularly those aimed at addressing specific hair concerns such as brassiness in color-treated, blonde, grey, or silver hair.\n\n- **Quality Expectations:** High expectations for product performance are evident, particularly regarding aspects like lather, conditioning, and scent. The strong negative reaction to the shampoo and conditioner highlights a preference for effective, nourishing products that enhance hair quality without leaving it dry or straw-like.\n\n- **Ingredient Sensitivity:** The user shows an inclination towards sulfate-free formulations, indicating a concern for gentle and non-harmful ingredients, which suggests a preference for healthier hair care options.\n\n- **Review Behavior:** The user tends to express strong opinions in reviews, leaning towards detailed feedback that highlights both positive and negative experiences, although recent interactions indicate a clear dissatisfaction with products that fail to meet expectations.\n\n- **Overall Disposition:** The user values product effectiveness and is likely to voice their disappointments when a product does not perform as claimed. They are inclined to provide critical reviews when their expectations are not met.",
+  "metrics": {
+    "rouge1_f": 0.24000000000000002,
+    "rouge2_f": 0.04953560371517029,
+    "rougeL_f": 0.11692307692307692,
+    "meteor": 0.1710402118517365,
+    "bleu1": 0.23348017621145375,
+    "bleu2": 0.04545543146488528,
+    "bleu3": 0.009719927306625098,
+    "bleu4": 0.004499717595762786,
+    "bertscore_precision": 0.4382513165473938,
+    "bertscore_recall": 0.44751039147377014,
+    "bertscore_f1": 0.44283244013786316
+  }
+}

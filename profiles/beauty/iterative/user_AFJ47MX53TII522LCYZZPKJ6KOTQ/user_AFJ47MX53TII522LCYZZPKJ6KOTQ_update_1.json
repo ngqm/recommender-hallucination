@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Premium Oral Swabs, Disposable Swabsticks for Mouth Cleaning, Individually Wrapped Toothettes For Seniors Blue, 250 Count\nReview Date: 2017/08/05\nStore: Wave Medical Products\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Wave Medical Products', 'Item Form': 'Stick', 'Flavor': 'Mint', 'Material': 'Plastic', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.5 x 9 x 7.5 inches; 1.33 Pounds', 'Item model number': 'WMP-OS250B', 'UPC': '630605446783', 'Manufacturer': 'Wave Medical Products'}\nReview Text: Better than any other swab out there! Really great product.\nReview Title: Simply Awesome\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Premium Oral Swabs, Disposable Swabsticks for Mouth Cleaning, Individually Wrapped Toothettes For Seniors Blue, 250 Count\nWave Medical Products\n{'Brand': 'Wave Medical Products', 'Item Form': 'Stick', 'Flavor': 'Mint', 'Material': 'Plastic', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.5 x 9 x 7.5 inches; 1.33 Pounds', 'Item model number': 'WMP-OS250B', 'UPC': '630605446783', 'Manufacturer': 'Wave Medical Products'}\nBetter than any other swab out there! Really great product.\nSimply Awesome",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Favors personal care items, particularly those aimed at oral hygiene.\n- **Quality Expectations**: Prioritizes high-quality products as evidenced by a strong rating (5.0) and positive sentiment indicating strong satisfaction (\"better than any other swab out there\").\n- **Target Demographic**: Shows consideration for products aimed at adults or seniors, suggesting a focus on practicality and ease of use for this age group.\n- **Brand Loyalty**: Appreciates products from reliable brands, indicating a preference for established manufacturers.\n- **Usage Context**: Likely interested in disposable or single-use products which emphasize convenience and hygiene.\n- **Preference for Features**: Values specific features such as being individually wrapped, suggesting a preference for sanitation and portability.\n\nOverall, the user demonstrates a clear inclination towards effective, convenient, and high-quality oral care products suitable for adults, reflecting a thoughtful approach to personal hygiene.",
+  "metrics": {
+    "rouge1_f": 0.2429906542056075,
+    "rouge2_f": 0.0660377358490566,
+    "rougeL_f": 0.11214953271028039,
+    "meteor": 0.22791088397171572,
+    "bleu1": 0.12690355329949238,
+    "bleu2": 0.0568975882033184,
+    "bleu3": 0.04049527617324432,
+    "bleu4": 0.031833409432193184,
+    "bertscore_precision": 0.42205849289894104,
+    "bertscore_recall": 0.40613916516304016,
+    "bertscore_f1": 0.4139458239078522
+  }
+}

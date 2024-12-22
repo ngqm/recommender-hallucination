@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/01\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Leitch'], 'Producers': ['Simon Kinberg', 'Ryan Reynolds', 'Lauren Shuler Donner'], 'Starring': ['Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin'], 'Studio': ['20th Century Fox']}\nReview Text: I enjoyed the first Dead Pool movie. So, had to see the sequel. It's just as good as the first. But, there was so much vulgarity in it, I felt a little let down that they had to go that far with it, to push the 'anti-hero' theme.\nReview Title: A great sequel to the original Dead Pool. But, much more vulgarity.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Leitch'], 'Producers': ['Simon Kinberg', 'Ryan Reynolds', 'Lauren Shuler Donner'], 'Starring': ['Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin'], 'Studio': ['20th Century Fox']}\nI enjoyed the first Dead Pool movie. So, had to see the sequel. It's just as good as the first. But, there was so much vulgarity in it, I felt a little let down that they had to go that far with it, to push the 'anti-hero' theme.\nA great sequel to the original Dead Pool. But, much more vulgarity.",
+  "profile": "**User Profile Summary:**\n\n- **Entertainment Preferences:** Enjoys action-packed films, particularly those with a comedic or anti-hero theme. Has a favorable view of sequels when they maintain the quality of the original.\n- **Content Sensitivity:** Appreciates engaging narratives but is sensitive to excessive vulgarity and inappropriate content, indicating a preference for balanced themes rather than over-the-top elements.\n- **Viewing Language:** Favors English audio with the option for audio descriptions, suggesting inclusivity in experience.\n- **Rating Behavior:** Tends to rate media positively, showing a tendency to appreciate quality despite minor flaws, as evidenced by a high average rating.\n- **Engagement Style:** Engages with content through reviews that reflect both enjoyment and critical observations, demonstrating a thoughtful approach to viewing experiences.\n\nOverall, this user seeks quality in action films while valuing storytelling that balances humor and appropriateness.",
+  "metrics": {
+    "rouge1_f": 0.2586206896551724,
+    "rouge2_f": 0.04347826086956522,
+    "rougeL_f": 0.09482758620689655,
+    "meteor": 0.13666958273367444,
+    "bleu1": 0.20224719101123595,
+    "bleu2": 0.04780459177189199,
+    "bleu3": 0.010909600648684454,
+    "bleu4": 0.005219118141861938,
+    "bertscore_precision": 0.4279480278491974,
+    "bertscore_recall": 0.4324294924736023,
+    "bertscore_f1": 0.43017706274986267
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 8 Packs 12\" Spring Senegalese Twist Crochet Braids Hair Pre-twisted Havana Mambo Spring Twist Pre-looped Braiding Hair Synthetic Dreadlocks (T1B/30)\nReview Date: 2019/02/16\nStore: Abellee\nAverage Rating: 3.5\nProduct Details: {'Brand': 'Abellee', 'Material': 'Synthetic', 'Extension Length': '12 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.6 x 9 x 3.6 inches; 15.84 Ounces', 'UPC': '723990027108'}\nReview Text: Not the best hair. Shorter than what I expected\nReview Title: I returned mine\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "8 Packs 12\" Spring Senegalese Twist Crochet Braids Hair Pre-twisted Havana Mambo Spring Twist Pre-looped Braiding Hair Synthetic Dreadlocks (T1B/30)\nAbellee\n{'Brand': 'Abellee', 'Material': 'Synthetic', 'Extension Length': '12 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.6 x 9 x 3.6 inches; 15.84 Ounces', 'UPC': '723990027108'}\nNot the best hair. Shorter than what I expected\nI returned mine",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus**: The user shows a particular interest in synthetic hair extensions, specifically crochet braids and twist styles. They have engaged with products related to hair styling and appear to seek versatility in their hair options.\n\n- **Quality Expectations**: The review indicates a high standard for product quality, as the user expressed disappointment regarding the hair being shorter than anticipated. This suggests a preference for accuracy in product descriptions and expectations.\n\n- **Shopping Behavior**: The user has a likelihood of returning products that do not meet their expectations, indicating a strong assertion of their preferences and a willingness to seek alternatives.\n\n- **Product Evaluation**: A tendency towards critical evaluation is evident, given the stark contrast between the average rating and the individual review score, reflecting the user\u2019s inclination to communicate dissatisfaction clearly.\n\nOverall, the user prioritizes quality, accuracy, and satisfaction in hair products, with a more critical approach to items that fall short.",
+  "metrics": {
+    "rouge1_f": 0.1504424778761062,
+    "rouge2_f": 0.01785714285714286,
+    "rougeL_f": 0.09734513274336284,
+    "meteor": 0.15005197789571592,
+    "bleu1": 0.0845771144278607,
+    "bleu2": 0.0065029652631649814,
+    "bleu3": 0.002769852210671343,
+    "bleu4": 0.0018099898956423644,
+    "bertscore_precision": 0.3787901699542999,
+    "bertscore_recall": 0.3630428910255432,
+    "bertscore_f1": 0.3707493841648102
+  }
+}

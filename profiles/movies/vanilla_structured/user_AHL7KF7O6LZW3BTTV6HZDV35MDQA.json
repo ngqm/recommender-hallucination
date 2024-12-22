@@ -1,0 +1,55 @@
+{
+  "user_id": "AHL7KF7O6LZW3BTTV6HZDV35MDQA",
+  "summary": "=== Purchase Information ===\nReview Date: 2015/04/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Slow, disappointing special effects and very unlikely story/plot line introducing the main character to the adventure ahead. A real (you must be kidding ) pivot that ruined the movie.\nReview Title: Disappointed :( I love Sci-Fi)\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/05/15\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['---'], 'Producers': ['Various'], 'Studio': ['Lionsgate']}\nReview Text: Slow and awful\nReview Title: Waste of time\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/20\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Jonas Pate', 'Michael Waxman', 'Stephen Williams', 'Peter Berg', 'Gwyneth Horder-Payton', 'Laura Innes', 'Roxann Dawson', 'Bart Freundlich'], 'Producers': ['Alexandra Cunningham', 'Sarah Aubrey'], 'Starring': ['Maria Bello', 'Aidan Quinn', \"Br\u00edan F. O'Byrne\"]}\nReview Text: Action without a plot. Best to watch another cop detective show with a better storyline.\nReview Title: Limited audience appeal\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/18\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Schechter'], 'Producers': ['Ellen Goldsmith-Vein', 'Lee Stollman', 'Liz Destro', 'Jordan Kessler', 'Ashok Amritraj'], 'Starring': ['Jennifer Aniston', 'Yasiin Bey', 'Isla Fisher'], 'Studio': ['Lionsgate']}\nReview Text: S l o w . .  .\nReview Title: Waste of time\nRating: 1.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nSlow, disappointing special effects and very unlikely story/plot line introducing the main character to the adventure ahead. A real (you must be kidding ) pivot that ruined the movie.\nDisappointed :( I love Sci-Fi)\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['---'], 'Producers': ['Various'], 'Studio': ['Lionsgate']}\nSlow and awful\nWaste of time\n{'Subtitles': ['None available'], 'Directors': ['Jonas Pate', 'Michael Waxman', 'Stephen Williams', 'Peter Berg', 'Gwyneth Horder-Payton', 'Laura Innes', 'Roxann Dawson', 'Bart Freundlich'], 'Producers': ['Alexandra Cunningham', 'Sarah Aubrey'], 'Starring': ['Maria Bello', 'Aidan Quinn', \"Br\u00edan F. O'Byrne\"]}\nAction without a plot. Best to watch another cop detective show with a better storyline.\nLimited audience appeal\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Schechter'], 'Producers': ['Ellen Goldsmith-Vein', 'Lee Stollman', 'Liz Destro', 'Jordan Kessler', 'Ashok Amritraj'], 'Starring': ['Jennifer Aniston', 'Yasiin Bey', 'Isla Fisher'], 'Studio': ['Lionsgate']}\nS l o w . .  .\nWaste of time",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2015/04/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Slow, disappointing special effects and very unlikely story/plot line introducing the main character to the adventure ahead. A real (you must be kidding ) pivot that ruined the movie.\nReview Title: Disappointed :( I love Sci-Fi)\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/05/15\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['---'], 'Producers': ['Various'], 'Studio': ['Lionsgate']}\nReview Text: Slow and awful\nReview Title: Waste of time\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/20\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Jonas Pate', 'Michael Waxman', 'Stephen Williams', 'Peter Berg', 'Gwyneth Horder-Payton', 'Laura Innes', 'Roxann Dawson', 'Bart Freundlich'], 'Producers': ['Alexandra Cunningham', 'Sarah Aubrey'], 'Starring': ['Maria Bello', 'Aidan Quinn', \"Br\u00edan F. O'Byrne\"]}\nReview Text: Action without a plot. Best to watch another cop detective show with a better storyline.\nReview Title: Limited audience appeal\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/18\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Schechter'], 'Producers': ['Ellen Goldsmith-Vein', 'Lee Stollman', 'Liz Destro', 'Jordan Kessler', 'Ashok Amritraj'], 'Starring': ['Jennifer Aniston', 'Yasiin Bey', 'Isla Fisher'], 'Studio': ['Lionsgate']}\nReview Text: S l o w . .  .\nReview Title: Waste of time\nRating: 1.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThe purchase history reveals a strong preference for movies within the science fiction genre, yet the individual consistently expresses disappointment when the execution, such as special effects and plot coherence, falls short. A recurring sentiment of dissatisfaction is evident, especially towards slow pacing and weak storylines, resulting in notably low ratings (1.0) for perceived poorly crafted content. Common themes highlight frustration with a lack of engaging narratives and poor production quality, creating a clear expectation for dynamic and well-structured plots.\n\nQuality preferences lean towards productions that deliver both visual appeal and compelling storytelling; the reviewer demonstrates significant price sensitivity, as even a slight deviation from these expectations results in harsh critiques. Despite a few higher ratings (4.0-4.7) indicating appreciation for better films, an overarching trend leans toward frustration, suggesting a critical and discerning viewing approach.\n\nOverall, this individual values innovative science fiction films but is highly critical of execution quality, pacing, and narrative depth. Engaging and well-produced films are favored, while any perceived mediocrity leads to significant discontent.",
+  "target_interaction": {
+    "rating": 1.0,
+    "title": "Overrated",
+    "text": "Plotline subject etc. is overrated suggested a different choice",
+    "images": [],
+    "asin": "B09PRGTBCH",
+    "parent_asin": "B09PRGTBCH",
+    "user_id": "AHL7KF7O6LZW3BTTV6HZDV35MDQA",
+    "timestamp": "2022-09-11 20:08:09.955000",
+    "helpful_vote": 1,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.5,
+    "rating_number": 1902,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/901c9dc7e41fdec20a3463ff6d59ea12dbbb0f766ce5c3a5236d073b9c319aed._RI_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "foul language"
+      ],
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

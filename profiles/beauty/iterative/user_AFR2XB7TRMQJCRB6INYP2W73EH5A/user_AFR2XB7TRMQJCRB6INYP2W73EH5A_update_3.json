@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: FASHION IDOL 5 Packs Long Faux Locs Crochet Hair 26 Inch Dreadlocks Crochet Hair Extensions Pink Ombre Straight Synthetic Crochet Locs\nReview Date: 2021/01/21\nStore: FASHION IDOL\nAverage Rating: 5.0\nProduct Details: {'Brand': 'FASHION IDOL', 'Color': 'pink', 'Material': 'Synthetic', 'Extension Length': '26 Inches', 'Hair Type': 'Straight', 'Package Dimensions': '15.6 x 11.7 x 3.5 inches; 1.55 Pounds', 'UPC': '727780522439'}\nReview Text: I love the hair. It is soft, bouncy, and comes with plenty of locs. Take care of them and you can use them multiple times.\nReview Title: Very cute!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nHOMELEX\n{'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nthe material is so smooth, love the variety of ways to wear it.\nlove it\nUntangled Fine Tooth Pin Tail Parting Comb - For Difficult Styling and Hair Extensions\nUntangled\n{'Material': 'Stainless Steel', 'Brand': 'Untangled', 'Hair Type': 'Fine, Thin', 'Unit Count': '1.00 Count'}\na comb that everyone should have tp reates precise parting lines\ngreat tool\nFASHION IDOL 5 Packs Long Faux Locs Crochet Hair 26 Inch Dreadlocks Crochet Hair Extensions Pink Ombre Straight Synthetic Crochet Locs\nFASHION IDOL\n{'Brand': 'FASHION IDOL', 'Color': 'pink', 'Material': 'Synthetic', 'Extension Length': '26 Inches', 'Hair Type': 'Straight', 'Package Dimensions': '15.6 x 11.7 x 3.5 inches; 1.55 Pounds', 'UPC': '727780522439'}\nI love the hair. It is soft, bouncy, and comes with plenty of locs. Take care of them and you can use them multiple times.\nVery cute!",
+  "profile": "**Updated User Profile Summary:**\n\n- **Fashion Orientation:** Strong preference for women's accessories, with an emphasis on versatility and aesthetics. The user enjoys items like scarves and shawls suitable for formal occasions, including weddings.\n\n- **Material Preference:** Appreciates high-quality materials that emphasize comfort and luxury, extending to grooming and styling tools as well.\n\n- **Variability in Use:** Values multifunctional fashion items that can be styled in various ways, demonstrating a creative approach to personal style.\n\n- **Positive Purchasing Experience:** Frequently leaves positive feedback, especially for products that meet or exceed expectations, as reflected in the recent perfect rating for hair extensions.\n\n- **Attention to Detail:** Displays discernment in purchasing decisions, with a mixed rating average for other products. While the user values quality and functionality, they maintain specific standards that influence their feedback.\n\n- **Grooming Tools Interest:** Recently showcased an interest in hair grooming and styling tools, further indicating an appreciation for quality accessories that enhance personal care routines.\n\n- **New Interest in Hair Products:** A noted purchase of hair extensions in a unique color indicates an expanding interest in hair fashion, aligning with their existing focus on versatile and aesthetically pleasing accessories.\n\nOverall, the user embraces quality and versatility across fashion and grooming, upholding high standards in their purchasing behavior while exploring new accessories that complement their creative style.",
+  "metrics": {
+    "rouge1_f": 0.1942257217847769,
+    "rouge2_f": 0.0158311345646438,
+    "rougeL_f": 0.12073490813648295,
+    "meteor": 0.14883833145546213,
+    "bleu1": 0.1524822695035461,
+    "bleu2": 0.0073664206266162305,
+    "bleu3": 0.002686076219830051,
+    "bleu4": 0.0016234454420361777,
+    "bertscore_precision": 0.39094674587249756,
+    "bertscore_recall": 0.4160533547401428,
+    "bertscore_f1": 0.40310949087142944
+  }
+}

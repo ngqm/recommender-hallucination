@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/19\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Stoller'], 'Producers': ['Judd Apatow', 'Shauna Robertson'], 'Starring': ['Liz Cackowski', 'Taylor Wily', \"Da'vone McDonald\"], 'Studio': ['NBCUniversal']}\nReview Text: hilarious!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'Fran\u00e7ais (Canada)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Espa\u00f1ol (Latinoam\u00e9rica)', '\u65e5\u672c\u8a9e', 'Portugu\u00eas', 'Deutsch', 'Fran\u00e7ais (France)'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Nederlands', 'Portugu\u00eas', 'Svenska'], 'Directors': ['Randall Wallace'], 'Producers': ['Randall Wallace', 'Russell Smith'], 'Starring': ['Leonardo DiCaprio', 'Jeremy Irons', 'John Malkovich'], 'Studio': ['MGM Domestic Television Distri']}\nClassic movie. Love Leonardo DiCaprio. If you like action movies especially in this time theme\nLove Leonardo DiCaprio\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Stoller'], 'Producers': ['Judd Apatow', 'Shauna Robertson'], 'Starring': ['Liz Cackowski', 'Taylor Wily', \"Da'vone McDonald\"], 'Studio': ['NBCUniversal']}\nhilarious!\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Genres**: Strong preference for action movies and classics, particularly those featuring historical or thematic elements, with a newfound appreciation for comedies that blend humor with mature themes.\n- **Favorites**: Enjoys performances by Leonardo DiCaprio and has expanded interest toward films featuring strong comedic ensembles, indicating a diverse taste in acting styles.\n- **Content Sensitivity**: Open to content with mature themes, including nudity, violence, and foul language, reflecting a tolerance for adult content and humor that challenges social norms.\n- **Language Variety**: Shows interest in content available in multiple languages and formats, suggesting a global perspective or diverse cultural interests.\n- **Overall Rating Behavior**: Tends to rate films positively, with an average rating of 4.7 and instances of perfect ratings (5.0), indicating a generally favorable response to films that resonate with personal preferences, including both action-packed narratives and comedic works. \n\nOverall, the user enjoys critically acclaimed movies across genres, particularly valuing strong storytelling, notable performances, and humor, while remaining open to varied cinematic experiences that may include adult themes.",
+  "metrics": {
+    "rouge1_f": 0.13157894736842105,
+    "rouge2_f": 0.026490066225165563,
+    "rougeL_f": 0.07894736842105264,
+    "meteor": 0.07578920661195707,
+    "bleu1": 0.11295651687812969,
+    "bleu2": 0.02706197681154647,
+    "bleu3": 0.006201260555741141,
+    "bleu4": 0.0029718588758324152,
+    "bertscore_precision": 0.36207449436187744,
+    "bertscore_recall": 0.37641090154647827,
+    "bertscore_f1": 0.3691035509109497
+  }
+}

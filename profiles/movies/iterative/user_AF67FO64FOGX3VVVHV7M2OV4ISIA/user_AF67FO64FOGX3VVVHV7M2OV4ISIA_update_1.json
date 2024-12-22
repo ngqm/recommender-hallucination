@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/12/28\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gabrielle Salvatore', 'Ron Cornwall', 'Keith Koslov'], 'Producers': ['Matthew Ostrom', 'Laura Palumbo Johnson', 'Jordan Brodsky', 'Brian Flanagan', 'Dominick Pupa', 'Jonathan Partridge', 'Marni Ellis'], 'Studio': ['TLC']}\nReview Text: Decent show if you like this kind of stuff. It was a test to see how the whole prime thing worked.\nReview Title: Was new to Prime,\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gabrielle Salvatore', 'Ron Cornwall', 'Keith Koslov'], 'Producers': ['Matthew Ostrom', 'Laura Palumbo Johnson', 'Jordan Brodsky', 'Brian Flanagan', 'Dominick Pupa', 'Jonathan Partridge', 'Marni Ellis'], 'Studio': ['TLC']}\nDecent show if you like this kind of stuff. It was a test to see how the whole prime thing worked.\nWas new to Prime,",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user shows an interest in TV shows and possibly documentary-style content. They are open to exploring diverse genres, indicated by a trial of Prime services.\n- **Language & Accessibility:** They prefer content available in English with English subtitles, suggesting a preference for accessibility in viewing experiences.\n- **Ratings Trends:** The user tends to rate content positively, with an average rating of 4.6, but also provides moderate ratings (e.g., 3.0), indicating a balanced and critical approach to evaluating shows.\n- **Engagement Level:** The review reflects a willingness to engage with new platforms and technologies (e.g., Prime), highlighting curiosity and a desire to expand their viewing options.\n- **Cautious Explorer:** The phrase \"decent show if you like this kind of stuff\" suggests a discerning taste, where the user appreciates quality but may require specific interests to fully enjoy content.\n\nOverall, this user appears to be a cautious but curious consumer of media, primarily engaging with English-language content while adapting to new services and platforms.",
+  "metrics": {
+    "rouge1_f": 0.17777777777777778,
+    "rouge2_f": 0.08071748878923767,
+    "rougeL_f": 0.13333333333333333,
+    "meteor": 0.19978850273998983,
+    "bleu1": 0.14349775784753363,
+    "bleu2": 0.06726592061566973,
+    "bleu3": 0.04971068174185856,
+    "bleu4": 0.04087653929333163,
+    "bertscore_precision": 0.41045838594436646,
+    "bertscore_recall": 0.38151484727859497,
+    "bertscore_f1": 0.39545774459838867
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/21\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Evans', 'Robert Del Mastro', 'Joss Agnew', 'Lawrence Till', 'Dominic Barlow', 'Andrew Davies'], 'Producers': ['Kate Brooke'], 'Studio': ['ITV']}\nReview Text: Want to see more!\nReview Title: Good Show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J. McMahon', 'Lance Jeffery'], 'Producers': ['Jon Kramer', 'Laura Keats', 'Lisa Bosak Lucas', 'Rasha Drachkovitch', 'Michael Dinco', 'Patrick Keegan', 'Heather Hollin', 'Keith Guinto'], 'Starring': ['Tia Torres', 'Matt \"Country\" Eldridge', 'Mariah \"M2\" Chock'], 'Studio': ['Animal Planet']}\nGreat show!! My dream would to one day be able to adopt a pit from here. I can dream!!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Callie Khouri', 'Stephen Cragg', 'Michael Lohmann', 'Mike Listo', 'Paul McCrane', 'Julie H\u00e9bert', 'Michael Waxman', 'Allan Arkush', 'Dan Lerner', 'Mario Van Peebles'], 'Studio': ['ABC']}\nLove this show, have seen all episodes.\nExcellent Show\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Evans', 'Robert Del Mastro', 'Joss Agnew', 'Lawrence Till', 'Dominic Barlow', 'Andrew Davies'], 'Producers': ['Kate Brooke'], 'Studio': ['ITV']}\nWant to see more!\nGood Show",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** The user continues to favor uplifting animal-related content, particularly shows focusing on pet adoption and rescue. Their enthusiasm for heartwarming narratives promoting animal welfare remains strong, reflecting a consistent desire to engage with such themes.\n\n- **Viewing Patterns:** The user shows a preference for English language content with closed captions, underscoring their commitment to accessibility and a comprehensive viewing experience. This trend is maintained across their interactions.\n\n- **Engagement Level:** The user exhibits a high level of engagement, as evidenced by their recent perfect rating and positive feedback on new shows. Their emotionally expressive reviews highlight a strong connection to the material, reinforcing their enthusiasm for quality content.\n\n- **Aspirational Values:** The user aspires to adopt a pet, aligning with their interests in animal welfare and rescue. This goal illustrates a deeper commitment to compassion and empathy, values that resonate throughout their viewing choices and interactions.\n\nOverall, the user demonstrates a consistent pattern of valuing and actively engaging with heartwarming, animal-centered content, marked by high ratings and encouraging feedback. Their interactions suggest an eagerness for more uplifting material, further solidifying their dedication to supporting animal welfare initiatives.",
+  "metrics": {
+    "rouge1_f": 0.08955223880597014,
+    "rouge2_f": 0.012012012012012012,
+    "rougeL_f": 0.05970149253731344,
+    "meteor": 0.058195926285160036,
+    "bleu1": 0.08162371855588377,
+    "bleu2": 0.022261589096764088,
+    "bleu3": 0.011474481596936733,
+    "bleu4": 0.004637444042350936,
+    "bertscore_precision": 0.3422713279724121,
+    "bertscore_recall": 0.3649759888648987,
+    "bertscore_f1": 0.35325920581817627
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Gel Nail Polish Kit with Gel Base and Top Coat, 12 Pcs All Seasons Skin Tones Pink Neutral Brown Gel Polish Kit, Soak Off LED Gel Nail Kit Manicure DIY Nail Art Home Salon\nReview Date: 2021/06/20\nStore: BEUXITUN\nAverage Rating: 4.4\nProduct Details: {'Brand': 'BEUXITUN', 'Item Form': 'Gel', 'Type': 'gel', 'Finish Type': 'Glossy', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '4.32 Fl Oz', 'Number of Items': '15', 'Liquid Volume': '0.33 Fluid Ounces', 'Package Dimensions': '8.5 x 4 x 3 inches; 1.35 Pounds'}\nReview Text: This is an ok gel polish. I got the gold and the silver and by themselves they don\u2019t pop but I made a design with other colors and it looked good. It takes a few more dries under the light to cure. One bottle did come with the label upside down. It\u2019s inexpensive and kinda feels it.\nReview Title: Ok\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Gel Nail Polish Kit with Gel Base and Top Coat, 12 Pcs All Seasons Skin Tones Pink Neutral Brown Gel Polish Kit, Soak Off LED Gel Nail Kit Manicure DIY Nail Art Home Salon\nBEUXITUN\n{'Brand': 'BEUXITUN', 'Item Form': 'Gel', 'Type': 'gel', 'Finish Type': 'Glossy', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '4.32 Fl Oz', 'Number of Items': '15', 'Liquid Volume': '0.33 Fluid Ounces', 'Package Dimensions': '8.5 x 4 x 3 inches; 1.35 Pounds'}\nThis is an ok gel polish. I got the gold and the silver and by themselves they don\u2019t pop but I made a design with other colors and it looked good. It takes a few more dries under the light to cure. One bottle did come with the label upside down. It\u2019s inexpensive and kinda feels it.\nOk",
+  "profile": "**User Summary**\n\n- **Product Preference:** Shows interest in DIY nail care, particularly in gel nail polishes and kits that offer a wide range of colors.\n- **Quality Expectations:** Prefers non-toxic and cruelty-free products, indicating a concern for ethical and health aspects in their choices.\n- **Aesthetics:** Values versatility in color options (pink, neutral, brown) but indicates that certain colors may not be bold enough individually, suggesting a preference for design and combination in nail art.\n- **Performance Concerns:** Has noted issues with curing time and quality control (e.g., labels), implying a desire for reliable product efficacy and presentation.\n- **Pricing Sensitivity:** Chooses inexpensive products, indicating a budget-conscious approach to purchases while still seeking acceptable quality.\n- **Rating Behavior:** Tends to provide balanced reviews with constructive feedback, as seen in the provided review which highlights both pros and cons. \n\nOverall, the user favors budget-friendly, versatile, and ethically produced nail products but maintains expectations for quality and functionality in their selections.",
+  "metrics": {
+    "rouge1_f": 0.23255813953488372,
+    "rouge2_f": 0.053511705685618735,
+    "rougeL_f": 0.132890365448505,
+    "meteor": 0.15220700152207,
+    "bleu1": 0.2037037037037037,
+    "bleu2": 0.00973375100870148,
+    "bleu3": 0.0035376557066481872,
+    "bleu4": 0.0021352157887354487,
+    "bertscore_precision": 0.42791885137557983,
+    "bertscore_recall": 0.4320370554924011,
+    "bertscore_f1": 0.42996808886528015
+  }
+}

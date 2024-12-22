@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Foamie Shampoo Bar Hibiskiss, Shampoo Bar for Damaged Hair, Plastic Free, Cruelty Free, Vegan Shampoo Bar for Men, Women, and Kids\nReview Date: 2021/06/21\nStore: Foamie\nAverage Rating: 3.6\nProduct Details: {'Package Dimensions': '4.41 x 2.99 x 1.18 inches; 3.53 Ounces'}\nReview Text: The bar soap is extremely expensive and it doesn\u2019t worth the price. It\u2019s very small and will probably only last two weeks top if you use it every day. The scent is very strong and disgusting\nReview Title: The quality is so bad\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "BIOSSANCE Marine Algae Eye Cream Mini 0.1oz/3mL\nBIOSSANCE\n['BIOSSANCE Marine Algae Eye Cream Mini 0.1oz / 3mL']\n{'Brand': 'BIOSSANCE', 'Item Form': 'Cream', 'Number of Items': '1', 'Use for': 'Eyes', 'Item Volume': '3 Milliliters', 'Package Dimensions': '3.98 x 2.6 x 1.1 inches; 1.45 Ounces', 'UPC': '859049007866'}\nI don\u2019t see any result from using this. And they shouldn\u2019t sell it for money as this is supposed to be a free sample\nShouldn\u2019t sell for money\nFoamie Shampoo Bar Hibiskiss, Shampoo Bar for Damaged Hair, Plastic Free, Cruelty Free, Vegan Shampoo Bar for Men, Women, and Kids\nFoamie\n{'Package Dimensions': '4.41 x 2.99 x 1.18 inches; 3.53 Ounces'}\nThe bar soap is extremely expensive and it doesn\u2019t worth the price. It\u2019s very small and will probably only last two weeks top if you use it every day. The scent is very strong and disgusting\nThe quality is so bad",
+  "profile": "**User Profile Summary:**\n\n- **Brand Preferences:** Shows interest in skincare brands that offer clean and sustainable products. Specifically engaged with BIOSSANCE and has also explored Foamie, indicating a commitment to eco-friendly options.\n- **Product Formulation:** Prefers eye creams, indicating a focus on targeted skincare, but is also open to hair care products in alignment with their values.\n- **Value Sensitivity:** Highly critical of perceived value; recent purchase led to dissatisfaction due to the high price relative to product size and efficacy, reinforcing the preference for cost-effective solutions and skepticism about premium pricing.\n- **Effectiveness Concern:** Values tangible results from products, expressing measurable dissatisfaction when expectations are not met. The recent interaction demonstrated strong disappointment regarding product performance.\n- **Rating Tendencies:** Tends to use a nuanced rating system, often giving low ratings when products fail to deliver on their promises, as seen in the latest review.\n\nOverall, this user prioritizes effective and reasonably priced skincare and hair care solutions while maintaining a strong commitment to quality formulations from reputable, sustainable brands. Their focus on value and efficacy suggests careful consideration in future purchases.",
+  "metrics": {
+    "rouge1_f": 0.16470588235294117,
+    "rouge2_f": 0.01183431952662722,
+    "rougeL_f": 0.08823529411764706,
+    "meteor": 0.13062928557963127,
+    "bleu1": 0.16883116883116883,
+    "bleu2": 0.027093330547120202,
+    "bleu3": 0.006843786240107501,
+    "bleu4": 0.0034434090412400684,
+    "bertscore_precision": 0.39554035663604736,
+    "bertscore_recall": 0.406430721282959,
+    "bertscore_f1": 0.4009115695953369
+  }
+}

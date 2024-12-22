@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hotrose Double Wave Barber Hair Brush Sponge Dread Afro\nReview Date: 2016/03/17\nStore: HOTantenna\nAverage Rating: 4.1\nProduct Details: {'Brand': 'HOTantenna', 'Shape': 'Oblong', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Is Discontinued By Manufacturer': 'No', 'Item model number': 'Hotrose\u252c\u00ab', 'UPC': '709112180944'}\nReview Text: My son loves this sponge does exactly what it says it's going to do\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hotrose Double Wave Barber Hair Brush Sponge Dread Afro\nHOTantenna\n{'Brand': 'HOTantenna', 'Shape': 'Oblong', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Is Discontinued By Manufacturer': 'No', 'Item model number': 'Hotrose\u252c\u00ab', 'UPC': '709112180944'}\nMy son loves this sponge does exactly what it says it's going to do\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Family-Oriented**: The user seems to prioritize products for family members, as evidenced by the focus on their son's satisfaction.\n- **Value for Performance**: They appreciate products that deliver on their promises, reflected in the high rating given despite not providing extensive details.\n- **Interest in Hair Care**: The purchase reflects a specific interest in hair care tools, particularly those that cater to diverse hair types, suggesting a preference for multifunctional items.\n- **Positive Experience**: The review indicates a tendency to share positive experiences with products that work well, as shown by the five-star rating.\n- **Involvement in Grooming Trends**: The interest in a styling product linked to dread or afro hairstyles suggests an awareness of current grooming trends.\n\nOverall, the user values practical and effective family-oriented grooming products that meet specific needs.",
+  "metrics": {
+    "rouge1_f": 0.1297297297297297,
+    "rouge2_f": 0.021857923497267756,
+    "rougeL_f": 0.07567567567567568,
+    "meteor": 0.12235817575083427,
+    "bleu1": 0.0893854748603352,
+    "bleu2": 0.0070863642942132635,
+    "bleu3": 0.0030499395217769795,
+    "bleu4": 0.0020037348595593318,
+    "bertscore_precision": 0.3930906653404236,
+    "bertscore_recall": 0.3584699034690857,
+    "bertscore_f1": 0.37498289346694946
+  }
+}

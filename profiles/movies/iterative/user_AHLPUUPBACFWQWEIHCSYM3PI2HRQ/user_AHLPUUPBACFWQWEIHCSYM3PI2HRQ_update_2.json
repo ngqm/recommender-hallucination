@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/02/15\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anders Engstr\u00f6m', 'Kristoffer Nyholm'], 'Producers': ['Dean Baker', 'Tim Bricknell', 'Kate Crowe', 'Carlo Dusi', 'Chips Hardy', 'Tom Hardy', 'Steven Knight', 'Tom Lesinski'], 'Starring': ['Tom Hardy', 'David Hayman', 'Jonathan Pryce'], 'Studio': ['FOX']}\nReview Text: Excellent mini series- I'm hooked!\nReview Title: Great mini series\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Mackenzie'], 'Producers': ['Carla Hacken', 'Jim Tauber', 'Peter Berg'], 'Starring': ['Chris Pine', 'Ben Foster', 'Jeff Bridges']}\nI love Jeff Bridges.  Great little drama.\nLOVE Jeff Bridges!\n{'Content advisory': ['Violence'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anders Engstr\u00f6m', 'Kristoffer Nyholm'], 'Producers': ['Dean Baker', 'Tim Bricknell', 'Kate Crowe', 'Carlo Dusi', 'Chips Hardy', 'Tom Hardy', 'Steven Knight', 'Tom Lesinski'], 'Starring': ['Tom Hardy', 'David Hayman', 'Jonathan Pryce'], 'Studio': ['FOX']}\nExcellent mini series- I'm hooked!\nGreat mini series",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for emotionally engaging films and series, particularly those showcasing prominent performances. They have a notable appreciation for actors like Tom Hardy, reflecting a consistent affinity for high-caliber talent. Their enjoyment of character-driven narratives is further affirmed by their enthusiastic rating of a recent mini-series, where they expressed a deep engagement with the storyline, rating it 5.0.\n\nThe user's positive review indicates a discerning taste for quality storytelling, supported by their high ratings and commitment to well-produced content. This aligns with their previous focus on dramas and quality narratives. Additionally, the interest in series produced by notable filmmakers and production teams signifies a consistent appreciation for quality and expertise in film creation.\n\nThe user also continues to value accessibility features, as seen in their choice for audio descriptions and subtitles. This commitment to inclusivity in media consumption suggests a broader appreciation for content that caters to diverse audiences.\n\nOverall, the user leans towards well-crafted, emotionally impactful dramas and series with strong performances, while consistently supporting content that is both engaging and accessible. Their latest interaction reinforces their ongoing dedication to high-quality storytelling.",
+  "metrics": {
+    "rouge1_f": 0.08480565371024736,
+    "rouge2_f": 0.021352313167259787,
+    "rougeL_f": 0.0353356890459364,
+    "meteor": 0.056960368893320054,
+    "bleu1": 0.06976744186046512,
+    "bleu2": 0.005709781812469872,
+    "bleu3": 0.002482865196311808,
+    "bleu4": 0.0016391960178747452,
+    "bertscore_precision": 0.371127724647522,
+    "bertscore_recall": 0.35239821672439575,
+    "bertscore_f1": 0.36152055859565735
+  }
+}

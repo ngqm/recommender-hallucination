@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/12/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Joss Whedon'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr. Chris Evans'], 'Studio': ['Hit Movies']}\nReview Text: Five Stars is all you need to know\nReview Title: Five Stars is all you need to know\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Favreau'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle'], 'Studio': ['Marvel']}\nJust watch it.\nLoved it.\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matthew Ross'], 'Producers': ['Braden Aftergood', 'Gabriela Bacher', 'Keanu Reeves', 'Cassian Elwes', 'Stephen Hamel', 'Dave Hansen'], 'Starring': ['Keanu Reeves', 'Molly Ringwald', 'Ana Ularu'], 'Studio': ['LIONSGATE']}\nTerrible ending. Quite lame actually.\n3 Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Joss Whedon'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr. Chris Evans'], 'Studio': ['Hit Movies']}\nFive Stars is all you need to know\nFive Stars is all you need to know",
+  "profile": "**User Summary:**\n\n- **Media Preference**: Enjoys content produced by major studios, particularly Marvel films and productions featuring prominent actors like Keanu Reeves. Recently expressed a favorable view of works from notable directors and producers in the superhero genre.\n- **Genre**: Strong preference for superhero and action-adventure genres, though open to other categories; recent interactions reaffirm a commitment to high-quality blockbusters.\n- **Language**: Prefers English audio, valuing options like audio descriptions and dialogue boost features for accessibility.\n- **Viewing Experience**: Highly values top-tier production quality, indicated by a recent five-star rating in addition to a general average of 4.7. This reflects an appreciation for well-executed storytelling, but frustration is evident when expectations are not met; a recent average rating of 3.1 suggests disappointment with certain content.\n- **Engagement Style**: Engages with concise remarks on enjoyment (e.g., \"Five Stars is all you need to know\"), demonstrating a capacity for both enthusiastic praise and critical feedback. Recent feedback reflects a positive reception to high-quality productions and a readiness to articulate concerns when necessary.\n- **Rating Pattern**: Generally rates highly, maintaining an average rating of 4.7, but willingness to express dissatisfaction with mid-range scores shows a discerning approach to content quality.\n\nOverall, the user prioritizes blockbuster films with engaging narratives and high production values, remaining vocal about both commendations and critiques.",
+  "metrics": {
+    "rouge1_f": 0.1736694677871148,
+    "rouge2_f": 0.0676056338028169,
+    "rougeL_f": 0.11204481792717087,
+    "meteor": 0.1012926184370092,
+    "bleu1": 0.1106579077165367,
+    "bleu2": 0.049576647574114334,
+    "bleu3": 0.03607847196516338,
+    "bleu4": 0.0294327597587253,
+    "bertscore_precision": 0.3855709135532379,
+    "bertscore_recall": 0.37511733174324036,
+    "bertscore_f1": 0.3802722990512848
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/10/18\nAverage Rating: 3.1\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matthew Ross'], 'Producers': ['Braden Aftergood', 'Gabriela Bacher', 'Keanu Reeves', 'Cassian Elwes', 'Stephen Hamel', 'Dave Hansen'], 'Starring': ['Keanu Reeves', 'Molly Ringwald', 'Ana Ularu'], 'Studio': ['LIONSGATE']}\nReview Text: Terrible ending. Quite lame actually.\nReview Title: 3 Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Favreau'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle'], 'Studio': ['Marvel']}\nJust watch it.\nLoved it.\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matthew Ross'], 'Producers': ['Braden Aftergood', 'Gabriela Bacher', 'Keanu Reeves', 'Cassian Elwes', 'Stephen Hamel', 'Dave Hansen'], 'Starring': ['Keanu Reeves', 'Molly Ringwald', 'Ana Ularu'], 'Studio': ['LIONSGATE']}\nTerrible ending. Quite lame actually.\n3 Stars",
+  "profile": "**User Summary:**\n\n- **Media Preference**: Enjoys content produced by major studios, particularly Marvel and films from Lionsgate featuring well-known actors like Keanu Reeves.\n- **Genre**: Likely favors superhero and action-adventure genres but may also engage with other categories, albeit less enthusiastically.\n- **Language**: Prefers English audio and appreciates options such as audio descriptions for accessibility.\n- **Viewing Experience**: Values high-quality productions, leaning towards positive ratings, although has displayed instances of disappointment in content quality indicated by a recent average rating of 3.1.\n- **Engagement Style**: Engages with content using concise expressions of enjoyment (e.g., \"Just watch it\", \"Loved it\") but has also shown the capacity to critique harshly when not satisfied, citing specific narrative flaws.\n- **Rating Pattern**: Generally rates highly (average rating of 4.7) but has recently provided a mid-range rating (3.0) suggesting a willingness to express discontent when the content does not meet expectations.\n\nOverall, this user maintains a strong preference for blockbuster films with top-tier production values and favors clear and engaging storytelling, but is not afraid to voice dissatisfaction when the execution falls short.",
+  "metrics": {
+    "rouge1_f": 0.15267175572519084,
+    "rouge2_f": 0.05384615384615384,
+    "rougeL_f": 0.07633587786259542,
+    "meteor": 0.10047969554141026,
+    "bleu1": 0.11297071129707115,
+    "bleu2": 0.0377359319822384,
+    "bleu3": 0.01817972341541833,
+    "bleu4": 0.0071033375528452005,
+    "bertscore_precision": 0.42269811034202576,
+    "bertscore_recall": 0.3799205720424652,
+    "bertscore_f1": 0.40016937255859375
+  }
+}

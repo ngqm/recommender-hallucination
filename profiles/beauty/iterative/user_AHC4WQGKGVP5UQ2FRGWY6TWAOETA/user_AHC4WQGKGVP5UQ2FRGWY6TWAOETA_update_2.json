@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\nReview Date: 2021/08/07\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: Lightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nReview Title: Highly Moisturizing\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing\nNEUMA Neumoisture Instant Fix, Kalette, Coconut and Vanilla, 6.8 Fl Oz\n{}\nLightweight, smells great, and oh does it softens the hair. Helps the most coarse hair to feel soft days following use.\nHighly Moisturizing",
+  "profile": "User Profile Summary:\n\n- **Hair Care Focus**: The user prioritizes hair care products, with a strong emphasis on moisturizing and softening benefits, especially for coarse hair.\n- **Product Characteristics**: Prefers lightweight formulas that feature pleasant scents, particularly enjoying tropical or sweet fragrances that enhance the overall experience.\n- **Effectiveness**: Values products that provide tangible results in improving hair texture, consistently seeking solutions that transform coarse hair into softer, more manageable locks.\n- **Positive Experience**: Tends to rate products highly when they meet or exceed expectations, indicating a trend of satisfaction with quality and effectiveness. The user\u2019s recent purchase highlights a strong preference for lightweight texture and superior moisturizing capabilities.\n- **Recent Interaction**: The user recently reviewed a hair care product that they found to be effective in softening coarse hair while also delivering a delightful fragrance. The high rating reflects their appreciation for products that align well with their standards for performance and sensory enjoyment.\n\nOverall, the user exhibits a clear inclination towards effective, pleasant-smelling hair care solutions that ensure lasting softness and hydration, backed by positive past experiences.",
+  "metrics": {
+    "rouge1_f": 0.20325203252032523,
+    "rouge2_f": 0.01639344262295082,
+    "rougeL_f": 0.13008130081300814,
+    "meteor": 0.2154308617234469,
+    "bleu1": 0.12053571428571427,
+    "bleu2": 0.04026855714359096,
+    "bleu3": 0.009005884807389983,
+    "bleu4": 0.004263798989601557,
+    "bertscore_precision": 0.4298270642757416,
+    "bertscore_recall": 0.38751623034477234,
+    "bertscore_f1": 0.4075765013694763
+  }
+}

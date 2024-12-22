@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Helene Hair Brazilian Virgin Hair Human Hair Body Wave Top Lace Closure (4\"4\") Part 8-20 Inch Naturl Black Bleached Knots (18 Inch)\nReview Date: 2015/08/28\nStore: Helene Hair\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Helene Hair', 'Color': 'Brown', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '13.5 x 5.4 x 1.5 inches; 0.35 Ounces', 'UPC': '889583690927'}\nReview Text: These closures never disappoint. I usually get the 10 or 12 inch closures but this time I got the 18 inch closure and its still beautiful. The hair is soft and luscious as always and the ends are healthy and full. I used these closure every time I make a wig I DO NOT WEAR SEW-INS only wigs. I have purchased over 15 of these closures, I love them and will continue to buy.\nReview Title: Great closure and great hair as ALWAYS!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Helene Hair Brazilian Virgin Hair Human Hair Body Wave Top Lace Closure (4\"4\") Part 8-20 Inch Naturl Black Bleached Knots (18 Inch)\nHelene Hair\n{'Brand': 'Helene Hair', 'Color': 'Brown', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '13.5 x 5.4 x 1.5 inches; 0.35 Ounces', 'UPC': '889583690927'}\nThese closures never disappoint. I usually get the 10 or 12 inch closures but this time I got the 18 inch closure and its still beautiful. The hair is soft and luscious as always and the ends are healthy and full. I used these closure every time I make a wig I DO NOT WEAR SEW-INS only wigs. I have purchased over 15 of these closures, I love them and will continue to buy.\nGreat closure and great hair as ALWAYS!!",
+  "profile": "**User Profile Summary:**\n\n- **Hair Products:** Strong preference for high-quality human hair closures, specifically body wave styles. Engages exclusively with wig-making, not sew-ins.\n  \n- **Brand Loyalty:** Consistently purchases from a specific brand, indicating satisfaction and trust in product performance. Has made multiple purchases from this brand, suggesting reliability and customer satisfaction.\n\n- **Product Length Preference:** Typically prefers shorter hair lengths (10-12 inches) but appreciates longer options (18 inches) for versatility, maintaining healthy and full ends.\n\n- **Quality Expectations:** Focuses on soft, luscious hair with a natural appearance. Values healthy ends in hair products.\n\n- **Reviewing Behavior:** Actively leaves positive reviews showcasing enthusiasm and strong recommendations for products that meet her standards. Expresses intent to continue future purchases based on previous satisfactory experiences.\n\n- **Overall Trend:** Indicates a discerning approach towards hair care products with a strong inclination towards quality, convenience (wig-making), and brand consistency.",
+  "metrics": {
+    "rouge1_f": 0.2727272727272727,
+    "rouge2_f": 0.04929577464788732,
+    "rougeL_f": 0.14685314685314685,
+    "meteor": 0.17613014513442782,
+    "bleu1": 0.22167487684729065,
+    "bleu2": 0.06625406796362414,
+    "bleu3": 0.027951793558093355,
+    "bleu4": 0.010222326806116826,
+    "bertscore_precision": 0.45071837306022644,
+    "bertscore_recall": 0.44170892238616943,
+    "bertscore_f1": 0.4461681544780731
+  }
+}

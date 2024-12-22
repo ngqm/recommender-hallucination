@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Straight 13x4 Lace Front Wigs Burgundy Lace Front Wigs Long Bob Synthetic Ombre Wine Red Wig Pre-plucked with Baby Hair Free Part Heat Resistant Synthetic Lace Wigs for Women 20 Inch\nReview Date: 2020/01/15\nStore: NOBLE\nAverage Rating: 3.8\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Straight', 'Style': 'Modern', 'Special Feature': 'Heat Resistant', 'Brand': 'NOBLE', 'Package Dimensions': '13.74 x 7.87 x 2.2 inches; 12.63 Ounces'}\nReview Text: Looks really nice.  It's easy to use and looks natural.  It has a good weight to it.  It even came with some eyelashes.\nReview Title: Good color\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Straight 13x4 Lace Front Wigs Burgundy Lace Front Wigs Long Bob Synthetic Ombre Wine Red Wig Pre-plucked with Baby Hair Free Part Heat Resistant Synthetic Lace Wigs for Women 20 Inch\nNOBLE\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Style': 'Modern', 'Special Feature': 'Heat Resistant', 'Brand': 'NOBLE', 'Package Dimensions': '13.74 x 7.87 x 2.2 inches; 12.63 Ounces'}\nLooks really nice.  It's easy to use and looks natural.  It has a good weight to it.  It even came with some eyelashes.\nGood color",
+  "profile": "**User Profile Summary:**\n\n- **Hair Preferences:** Favors modern, straight styles, particularly in bold colors like burgundy and ombre shades. Values ease of use and natural appearance in hair products.\n- **Material Preference:** Shows a preference for synthetic hair that mimics human hair quality, particularly in heat-resistant options.\n- **Functional Features:** Appreciates additional features such as pre-plucking and baby hair, indicating a desire for realistic styling.\n- **Review Focus:** The user emphasizes product aesthetics, ease of application, and overall satisfaction with the product's quality weight and presentation.\n- **General Feedback Trend:** Tends to provide ratings around the 4.0 mark, suggesting a balanced perspective on value and performance, with some room for improvement noted.\n\nThis profile reflects a user who prioritizes style, convenience, and quality in hair-related purchases.",
+  "metrics": {
+    "rouge1_f": 0.27230046948356806,
+    "rouge2_f": 0.06635071090047394,
+    "rougeL_f": 0.1408450704225352,
+    "meteor": 0.18158047800338412,
+    "bleu1": 0.15517241379310345,
+    "bleu2": 0.04235446537842881,
+    "bleu3": 0.010141214930974049,
+    "bleu4": 0.004969566000085275,
+    "bertscore_precision": 0.45620760321617126,
+    "bertscore_recall": 0.4566880166530609,
+    "bertscore_f1": 0.45644769072532654
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/09/13\nAverage Rating: 3.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sebasti\u00e1n Lelio'], 'Starring': ['Julianne Moore', 'John Turturro', 'Michael Cera'], 'Studio': ['A24 Distribution LLC']}\nReview Text: Good\nReview Title: Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sebasti\u00e1n Lelio'], 'Starring': ['Julianne Moore', 'John Turturro', 'Michael Cera'], 'Studio': ['A24 Distribution LLC']}\nGood\nMovie",
+  "profile": "The user demonstrates a moderate interest in films, as indicated by their engagement and somewhat positive rating in their review. They appreciate content that may contain mature themes, including nudity, violence, and substance use, suggesting a comfort level with complex and potentially controversial subjects. The user prefers films available in English, indicating a preference for accessible language options. Their top rating points to an affinity for high-quality storytelling and possibly a favor towards films produced by notable studios known for unique or thought-provoking narratives. The presence of notable actors may also play a role in their enjoyment of films. Overall, the user seems drawn to artistic cinema that navigates deeper or darker themes, while maintaining a critical yet enthusiastic perspective on their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.09696969696969697,
+    "rouge2_f": 0.024539877300613498,
+    "rougeL_f": 0.08484848484848485,
+    "meteor": 0.05934718100890207,
+    "bleu1": 0.07971014492753621,
+    "bleu2": 0.007627751145543989,
+    "bleu3": 0.003497448872010024,
+    "bleu4": 0.0023726303894077276,
+    "bertscore_precision": 0.389797568321228,
+    "bertscore_recall": 0.3438178300857544,
+    "bertscore_f1": 0.3653668165206909
+  }
+}

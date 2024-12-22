@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 613 lace front wig human hair 14inch Silky Straight 613 Frontal lace Wigs Glueless Pre Plucked 13x6 Lace Net 150% Density Bleached Knots 14In for black and white woman blonde human hair wigs\nReview Date: 2020/02/08\nStore: HUAYI\nAverage Rating: 3.0\nProduct Details: {'Material': 'Human Hair', 'Item Dimensions LxWxH': '27 x 7 x 0.5 inches', 'Hair Type': 'Straight', 'Brand': 'HUAYI', 'Product Dimensions': '27 x 7 x 0.5 inches; 12.03 Ounces'}\nReview Text: It arrived on time. The cap is very big. You can adjust the elastic straps but the cap has bumps from being so big.  The hair is brassy but toner would fix this. The hair gets very thin the longer it gets. I\u2019m not thrilled.\nReview Title: Not impressed\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Beauty HAO Eyebrow Tattoo Pen, Waterproof Natural Convenient Long-Lasting Eyebrow Pencil\nBeauty HAO\n{'Brand': 'Beauty HAO', 'Item Form': 'Pencil', 'Product Benefits': 'Long Lasting', 'Skin Type': 'All', 'Package Information': 'Tube', 'Package Dimensions': '5.1 x 1 x 0.4 inches; 0.49 Ounces'}\nit arrived on time and I read the directions. simple. barely any product came out. I ended up washing it off and using my pencil.\nBEWARE\n613 lace front wig human hair 14inch Silky Straight 613 Frontal lace Wigs Glueless Pre Plucked 13x6 Lace Net 150% Density Bleached Knots 14In for black and white woman blonde human hair wigs\nHUAYI\n{'Material': 'Human Hair', 'Item Dimensions LxWxH': '27 x 7 x 0.5 inches', 'Hair Type': 'Straight', 'Brand': 'HUAYI', 'Product Dimensions': '27 x 7 x 0.5 inches; 12.03 Ounces'}\nIt arrived on time. The cap is very big. You can adjust the elastic straps but the cap has bumps from being so big.  The hair is brassy but toner would fix this. The hair gets very thin the longer it gets. I\u2019m not thrilled.\nNot impressed",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Primarily engages with beauty and makeup products, specifically eyebrow cosmetics and hair-related items like wigs.\n- **Preference for Performance:** Continues to seek products that are long-lasting and effective, although recent wig experience reveals challenges with product thickness over time.\n- **Skepticism towards Effectiveness:** Maintains a critical view of product effectiveness, as indicated by mixed ratings and dissatisfaction with past purchases, reflecting disappointment in performance consistency.\n- **Value for Convenience:** Appreciates straightforward usage instructions and timely delivery, demonstrating a preference for user-friendly products.\n- **Critical Reviewer:** Actively provides feedback based on personal experiences, noting both positive aspects (like timely arrival) and flaws in product quality, such as fit and durability.\n\nThis user exhibits a desire for reliable beauty products that meet expectations without unnecessary complexity. The recent interaction with a wig indicates an exploration beyond eyebrow cosmetics, yet consistent themes of performance dissatisfaction continue to guide future purchases, suggesting an ongoing focus on products that deliver proven efficacy and user satisfaction.",
+  "metrics": {
+    "rouge1_f": 0.1507246376811594,
+    "rouge2_f": 0.0058309037900874635,
+    "rougeL_f": 0.09275362318840578,
+    "meteor": 0.10893484608164625,
+    "bleu1": 0.13914034320502755,
+    "bleu2": 0.034334298860340805,
+    "bleu3": 0.007946169101804023,
+    "bleu4": 0.0038272423563160607,
+    "bertscore_precision": 0.368336021900177,
+    "bertscore_recall": 0.39224371314048767,
+    "bertscore_f1": 0.37991413474082947
+  }
+}

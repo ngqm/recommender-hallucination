@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/06/13\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerald Rascionato'], 'Producers': ['Charles Barsamian', 'Gerald Rascionato'], 'Starring': ['Megan Peta Hill', 'Joel Hogan', 'Josh Potthoff'], 'Studio': ['Lionsgate']}\nReview Text: Great movie kept me on the edge of my seat\nReview Title: Time well spent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerald Rascionato'], 'Producers': ['Charles Barsamian', 'Gerald Rascionato'], 'Starring': ['Megan Peta Hill', 'Joel Hogan', 'Josh Potthoff'], 'Studio': ['Lionsgate']}\nGreat movie kept me on the edge of my seat\nTime well spent",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys thrillers that provide suspense and excitement, indicating a preference for engaging and intense storylines.\n- **Language and Accessibility:** Favors English audio and subtitles, suggesting a likelihood of enjoying content in the English language while valuing accessibility features such as closed captions.\n- **Quality and Experience:** Prioritizes quality entertainment, as indicated by a high rating for a movie that provided a captivating experience.\n- **Production Appreciation:** Shows an interest in well-produced content, often acknowledging the roles of directors and producers, which may reflect an appreciation for quality filmmaking.\n- **Overall Engagement:** Considers viewing experiences as valuable and satisfying, showing a pattern of positive feedback and a tendency to enjoy media that can evoke strong emotional responses. \n\nThis initial profile suggests a user who seeks out thrilling, high-quality entertainment in English, valuing both the emotional impact of stories and their production quality.",
+  "metrics": {
+    "rouge1_f": 0.12154696132596685,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.0883977900552486,
+    "meteor": 0.10226049515608182,
+    "bleu1": 0.08900523560209425,
+    "bleu2": 0.00684433056209353,
+    "bleu3": 0.002915636530918354,
+    "bleu4": 0.001905507115902391,
+    "bertscore_precision": 0.38623687624931335,
+    "bertscore_recall": 0.33180302381515503,
+    "bertscore_f1": 0.3569566607475281
+  }
+}

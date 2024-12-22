@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/12/18\nAverage Rating: 3.9\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Dome Karukoski'], 'Producers': ['Joanie Blaikie', 'Marina Brackenbury', 'Emma Broughton', 'Gaby Chiappe', 'Sarada McDermott', 'Arnon Milchan', 'Yariv Milchan', 'Nathaniel Parker', 'Ed Rubin'], 'Starring': ['Jared Harris', 'Cush Jumbo', 'Billy Howle']}\nReview Text: Loved it, would write more however I do not wat to give anything away.  Purchase it an you shall see\nReview Title: FANTASTIC\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Dome Karukoski'], 'Producers': ['Joanie Blaikie', 'Marina Brackenbury', 'Emma Broughton', 'Gaby Chiappe', 'Sarada McDermott', 'Arnon Milchan', 'Yariv Milchan', 'Nathaniel Parker', 'Ed Rubin'], 'Starring': ['Jared Harris', 'Cush Jumbo', 'Billy Howle']}\nLoved it, would write more however I do not wat to give anything away.  Purchase it an you shall see\nFANTASTIC",
+  "profile": "**User Summary:**\n\n- **Overall Enthusiasm:** High enthusiasm for engaging content; expresses a strong positive reaction with a tendency to rate items favorably.\n- **Rating Patterns:** Frequently provides ratings at or near the highest level, indicating a preference for quality and impactful experiences.\n- **Preference for Surprise:** Values storyline twists and narrative depth, as suggested by reluctance to disclose details, emphasizing a desire for others to experience the content without prior knowledge.\n- **Focus on Production Quality:** Engages with works that feature notable directors and producers, suggesting an appreciation for well-crafted films.\n- **Interest in Character-Driven Narratives:** Likely enjoys stories with strong performances from established actors, indicating a preference for character development and emotional depth.\n- **Sharing Experience:** Tends towards recommending the purchase of content, showcasing a desire to share enjoyable experiences with others.\n\nOverall, this individual demonstrates a clear trend towards high-quality, narrative-driven media and an eagerness to engage and recommend that content to others.",
+  "metrics": {
+    "rouge1_f": 0.048543689320388356,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.03883495145631068,
+    "meteor": 0.09041591320072333,
+    "bleu1": 0.0728155339805825,
+    "bleu2": 0.005959846698821616,
+    "bleu3": 0.0025918707270667332,
+    "bleu4": 0.0017113387848419553,
+    "bertscore_precision": 0.36192354559898376,
+    "bertscore_recall": 0.3443942070007324,
+    "bertscore_f1": 0.3529413342475891
+  }
+}

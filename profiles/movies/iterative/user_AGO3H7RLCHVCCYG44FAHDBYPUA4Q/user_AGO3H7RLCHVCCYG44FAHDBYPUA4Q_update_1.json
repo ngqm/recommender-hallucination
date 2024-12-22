@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/27\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Blair'], 'Producers': ['David Snodin', 'Kate Harwood'], 'Starring': ['Gemma Arterton', 'Eddie Redmayne', 'Hans Matheson'], 'Studio': ['BBC America']}\nReview Text: All the drama and wickedness one can hope for in the long list of great British stories and productions. Certainly not your usual love story, that is for sure.\nReview Title: So sad\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Blair'], 'Producers': ['David Snodin', 'Kate Harwood'], 'Starring': ['Gemma Arterton', 'Eddie Redmayne', 'Hans Matheson'], 'Studio': ['BBC America']}\nAll the drama and wickedness one can hope for in the long list of great British stories and productions. Certainly not your usual love story, that is for sure.\nSo sad",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Strong affinity for British dramas, particularly those with complex narratives and emotional depth.\n- **Language:** Prefers content in English, including both audio and subtitles.\n- **Rating Behavior:** Generally rates products highly, with consistent ratings near 4.5 to 5.0.\n- **Engagement Style:** Writes reflective and thoughtful reviews, emphasizing emotional impact and narrative quality.\n- **Themes:** Enjoys stories that diverge from typical romantic tropes, suggesting a preference for originality and perhaps darker themes within narratives.\n- **Favorite Elements:** Appreciates well-crafted productions with notable directors, producers, and cast members, indicating a preference for quality over quantity in entertainment.\n\nThis summary captures the user's interests and behaviors based on early interactions, suggesting a discerning viewer who values storytelling in British productions.",
+  "metrics": {
+    "rouge1_f": 0.1931818181818182,
+    "rouge2_f": 0.01149425287356322,
+    "rougeL_f": 0.12500000000000003,
+    "meteor": 0.13611615245009073,
+    "bleu1": 0.15428571428571428,
+    "bleu2": 0.029777500019127903,
+    "bleu3": 0.0080028274789641,
+    "bleu4": 0.0041548034090245975,
+    "bertscore_precision": 0.42702823877334595,
+    "bertscore_recall": 0.40141865611076355,
+    "bertscore_f1": 0.4138276278972626
+  }
+}

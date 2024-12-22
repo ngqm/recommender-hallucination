@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nReview Text: Some of us are very lost\nReview Title: Good Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Dobkin'], 'Producers': ['Susan Downey', 'David Dobkin', 'David Gambino'], 'Starring': ['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga'], 'Studio': ['Warner Bros.']}\nGood Show worth watching, Powerful actors\nI'll watch this one again...\n{'Subtitles': ['None available'], 'Directors': ['---'], 'Producers': ['Adam Shaheen'], 'Starring': ['Colin Mochrie', 'Roy Billing', 'Jacqueline Pillon']}\nClaymation\nClaymations\n{'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nSome of us are very lost\nGood Movie",
+  "profile": "**Updated User Profile Summary:**\n\nThe user exhibits a strong preference for high-quality entertainment featuring renowned actors, emphasizing their appreciation for performances from well-known talent. Their previous average rating of 4.7 has been positively influenced by a recent high rating of 5.0, indicating a consistent engagement with impactful storytelling. However, a trend of slightly varied ratings, with one at 3.9, suggests they also embrace a diverse range of content as long as it remains engaging and thought-provoking.\n\nTheir inclination towards narratives with mature themes persists, accepting elements such as violence, alcohol use, foul language, and sexual content, which aligns with their enjoyment of complex and gritty stories. This also includes a notable openness to innovative formats, exemplified by their enthusiastic reception of a claymation project.\n\nAccessibility features remain crucial for the user\u2019s viewing experience, highlighting their commitment to inclusivity in media consumption by utilizing audio descriptions and closed captions. Overall, they prioritize productions that promise emotional resonance and involve notable talent while valuing creativity across various genres and formats. This balance between classic storytelling and innovative approaches enriches their entertainment preferences, ensuring an engaging and thoughtful viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.10932475884244372,
+    "rouge2_f": 0.03883495145631068,
+    "rougeL_f": 0.07717041800643087,
+    "meteor": 0.060927983539094656,
+    "bleu1": 0.08065600904226959,
+    "bleu2": 0.005330653533178259,
+    "bleu3": 0.002158588841860731,
+    "bleu4": 0.0013752232496286718,
+    "bertscore_precision": 0.3301279544830322,
+    "bertscore_recall": 0.32943111658096313,
+    "bertscore_f1": 0.32977914810180664
+  }
+}

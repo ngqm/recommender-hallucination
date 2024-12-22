@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/02\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jamie Payne', 'James Kent', 'Colin Teague'], 'Producers': ['John Griffin', 'Colin Callender', 'George Faber', 'Charles Pattinson', 'Philippa Gregory', 'Eurydice Gysel', 'Jan Vrints'], 'Starring': ['Rebecca Ferguson', 'James Frain', 'Amanda Hale'], 'Studio': ['Starz']}\nReview Text: Quality production with good acting.\nReview Title: Better than was expected\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jamie Payne', 'James Kent', 'Colin Teague'], 'Producers': ['John Griffin', 'Colin Callender', 'George Faber', 'Charles Pattinson', 'Philippa Gregory', 'Eurydice Gysel', 'Jan Vrints'], 'Starring': ['Rebecca Ferguson', 'James Frain', 'Amanda Hale'], 'Studio': ['Starz']}\nQuality production with good acting.\nBetter than was expected",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys quality productions with strong narratives. Shows appreciation for well-developed characters and performances by skilled actors.\n- **Rating Behavior:** Tends to rate highly, typically averaging around 4.7 to 5.0, indicating a positive reception towards the content.\n- **Genre Interest:** Based on the content advisory, likely comfortable with mature themes, including nudity, violence, and sexual content.\n- **Audio/Visual Preferences:** Prefers English audio options, including high dialogue boost, suggesting a focus on clarity in communication and detail.\n- **Age Group:** Likely interested in shows/movies targeted at adults, given the content advisory themes.\n- **Production Value:** Values high production quality, as indicated by the user's commentary on quality and acting.\n\nOverall, the user appears to favor well-crafted narratives that engage an adult audience, are delivered through high-quality production, and feature strong performances.",
+  "metrics": {
+    "rouge1_f": 0.1492537313432836,
+    "rouge2_f": 0.07035175879396985,
+    "rougeL_f": 0.12935323383084577,
+    "meteor": 0.1105548088410992,
+    "bleu1": 0.13541666666666666,
+    "bleu2": 0.02662682451204261,
+    "bleu3": 0.007199379222777966,
+    "bleu4": 0.0037484855128472002,
+    "bertscore_precision": 0.41571491956710815,
+    "bertscore_recall": 0.40331190824508667,
+    "bertscore_f1": 0.4094195067882538
+  }
+}

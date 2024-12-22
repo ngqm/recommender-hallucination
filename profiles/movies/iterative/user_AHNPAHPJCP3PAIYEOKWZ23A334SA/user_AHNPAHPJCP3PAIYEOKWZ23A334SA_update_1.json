@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/04/23\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David SanAngelo', 'Steve Young', 'Will Shepard'], 'Producers': ['Deborah Forte', 'David Trexler', 'Danielle Gillis', 'Lynn Kestin-Sessler', 'Jessica Wollman', 'Dorothea Gillim'], 'Studio': ['PBS']}\nReview Text: This series has something for everyone. The boys like it as well as the girls, and the adults can appreciate the educational message it offers. It's funny and educational.\nReview Title: Vocabulary builder\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David SanAngelo', 'Steve Young', 'Will Shepard'], 'Producers': ['Deborah Forte', 'David Trexler', 'Danielle Gillis', 'Lynn Kestin-Sessler', 'Jessica Wollman', 'Dorothea Gillim'], 'Studio': ['PBS']}\nThis series has something for everyone. The boys like it as well as the girls, and the adults can appreciate the educational message it offers. It's funny and educational.\nVocabulary builder",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys family-friendly programming that appeals to various age groups, including children and adults.\n- **Educational Value:** Values content that is both entertaining and educational, indicating a preference for shows that promote learning and knowledge.\n- **Humor and Engagement:** Appreciates humorous elements within programming, suggesting a preference for content that is engaging and enjoyable.\n- **Language and Accessibility:** Prefers content with English audio and subtitles, highlighting a priority for accessibility and understanding.\n- **Diverse Themes:** Shows interest in programming that incorporates a variety of themes to cater to different audience segments, indicating openness to diverse narratives.\n- **Positive Experience:** Tends to leave highly favorable ratings, illustrating a trend towards satisfaction with quality content.\n\nOverall, this user seeks content that balances fun and learning, suitable for family viewing while also ensuring accessibility through language options.",
+  "metrics": {
+    "rouge1_f": 0.12371134020618556,
+    "rouge2_f": 0.010416666666666666,
+    "rougeL_f": 0.06185567010309278,
+    "meteor": 0.10530749789385002,
+    "bleu1": 0.11170212765957446,
+    "bleu2": 0.02444049060610778,
+    "bleu3": 0.0068480822033369195,
+    "bleu4": 0.003629809154210304,
+    "bertscore_precision": 0.4092105031013489,
+    "bertscore_recall": 0.4121055006980896,
+    "bertscore_f1": 0.41065290570259094
+  }
+}

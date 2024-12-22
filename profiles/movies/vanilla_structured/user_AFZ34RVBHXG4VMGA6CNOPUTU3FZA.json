@@ -1,0 +1,79 @@
+{
+  "user_id": "AFZ34RVBHXG4VMGA6CNOPUTU3FZA",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/02/16\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English (UK) [CC]', 'English (US) [CC]', 'Deutsch'], 'Directors': ['Charles McDougall'], 'Producers': ['Shawn Ryan', 'Cris Cole'], 'Starring': ['Ben Chaplin', 'Michael Imperioli', 'Romany Malco']}\nReview Text: Good series.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/27\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Niall MacCormick'], 'Producers': ['Helen Gregory'], 'Studio': ['Amazon Studios']}\nReview Text: It is not of the caliber of Downton Abbey.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/27\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ben Taylor'], 'Producers': ['Rob Delaney', 'Sharon Horgan', 'Richard Allen-Turner', 'Kara Baker', 'Jon Thoday'], 'Starring': ['Sharon Horgan', 'Rob Delaney']}\nReview Text: Unnecessarily vulgar language.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Annet Mahendru'], 'Studio': ['FX']}\nReview Text: Good historical drama.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English (UK) [CC]', 'English (US) [CC]', 'Deutsch'], 'Directors': ['Charles McDougall'], 'Producers': ['Shawn Ryan', 'Cris Cole'], 'Starring': ['Ben Chaplin', 'Michael Imperioli', 'Romany Malco']}\nGood series.\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Niall MacCormick'], 'Producers': ['Helen Gregory'], 'Studio': ['Amazon Studios']}\nIt is not of the caliber of Downton Abbey.\nThree Stars\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ben Taylor'], 'Producers': ['Rob Delaney', 'Sharon Horgan', 'Richard Allen-Turner', 'Kara Baker', 'Jon Thoday'], 'Starring': ['Sharon Horgan', 'Rob Delaney']}\nUnnecessarily vulgar language.\nThree Stars\n{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Annet Mahendru'], 'Studio': ['FX']}\nGood historical drama.\nFour Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/02/16\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English (UK) [CC]', 'English (US) [CC]', 'Deutsch'], 'Directors': ['Charles McDougall'], 'Producers': ['Shawn Ryan', 'Cris Cole'], 'Starring': ['Ben Chaplin', 'Michael Imperioli', 'Romany Malco']}\nReview Text: Good series.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/27\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Niall MacCormick'], 'Producers': ['Helen Gregory'], 'Studio': ['Amazon Studios']}\nReview Text: It is not of the caliber of Downton Abbey.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/05/27\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ben Taylor'], 'Producers': ['Rob Delaney', 'Sharon Horgan', 'Richard Allen-Turner', 'Kara Baker', 'Jon Thoday'], 'Starring': ['Sharon Horgan', 'Rob Delaney']}\nReview Text: Unnecessarily vulgar language.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Annet Mahendru'], 'Studio': ['FX']}\nReview Text: Good historical drama.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThis individual's purchase history reveals a preference for drama series characterized by mature content, including themes of violence, substance use, and complex emotional narratives. Consistently high ratings around the 4.0 to 4.7 range suggest a general satisfaction; however, there are notable instances where the person expressed disappointment regarding quality, particularly in comparison to highly regarded shows. \n\nThe sentiment reflects a dichotomy: while the individual appreciates engaging storylines, there is sensitivity to excessive vulgarity and superficial writing, indicating a desire for quality in dialogue and narrative depth. \n\nPrice sensitivity is not overtly analyzed but exists within the context of product quality, where a higher regard for overall production values correlates with better ratings. This suggests that while they are willing to invest in entertainment, the perceived value must justify the expense.\n\nCore preferences lean towards well-crafted series with engaging plots and strong character development, but they are critical of products lacking depth or overly relying on shock factors such as explicit content. Overall, this consumer is discerning and seeks a balance between entertainment and thoughtful storytelling.",
+  "target_interaction": {
+    "rating": 4.0,
+    "title": "Four Stars",
+    "text": "Really good series.",
+    "images": [],
+    "asin": "B00B8PCLTY",
+    "parent_asin": "B00B8PCLTY",
+    "user_id": "AFZ34RVBHXG4VMGA6CNOPUTU3FZA",
+    "timestamp": "2016-06-05 02:05:29",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.6,
+    "rating_number": 24378,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/063afaa6329a4452a14e67bb2f1e3447fdcf0073f63b3b1812c0d8724335cd3e._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Nudity",
+        "violence",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Chris Long",
+        "Daniel Sackheim",
+        "Thomas Schlamme",
+        "Daniel Attias",
+        "Stefan Schwartz",
+        "Kevin Dowling",
+        "Nicole Kassell",
+        "Adam Arkin",
+        "Noah Emmerich",
+        "Matthew Rhys"
+      ],
+      "Starring": [
+        "Keri Russell",
+        "Matthew Rhys",
+        "Maximiliano Hern\u00e1ndez"
+      ],
+      "Studio": [
+        "FX"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

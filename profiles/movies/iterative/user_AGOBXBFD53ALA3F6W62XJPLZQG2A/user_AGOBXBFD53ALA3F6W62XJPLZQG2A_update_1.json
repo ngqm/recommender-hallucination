@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/20\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium', 'Espa\u00f1ol', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch', 'Espa\u00f1ol'], 'Directors': ['Alex Zakrzewski', 'Ernest R. Dickerson', 'Patrick Cady', 'Aaron Lipstadt', 'Kevin Dowling', 'Adam Davidson', 'Daisy von Scherler Mayer', 'Tim Hunter', 'Christine Moore', 'Zetna Fuentes'], 'Producers': ['Eric Overmyer', 'Michael Connelly', 'Henrik Bastin', 'Mikkel Bondesen', 'Pieter Jan Brugge', 'Jan David Frouman'], 'Starring': ['Titus Welliver', 'Jamie Hector', 'Amy Aquino'], 'Studio': ['Amazon Studios']}\nReview Text: Well acted - Welliver was not the physical picture I had of Bosch, when I read the books, but he really was Bosch in this series! Was a snowed in weekend &#34;binger&#34; for me.\nReview Title: Bosch a \" binger\"\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium', 'Espa\u00f1ol', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch', 'Espa\u00f1ol'], 'Directors': ['Alex Zakrzewski', 'Ernest R. Dickerson', 'Patrick Cady', 'Aaron Lipstadt', 'Kevin Dowling', 'Adam Davidson', 'Daisy von Scherler Mayer', 'Tim Hunter', 'Christine Moore', 'Zetna Fuentes'], 'Producers': ['Eric Overmyer', 'Michael Connelly', 'Henrik Bastin', 'Mikkel Bondesen', 'Pieter Jan Brugge', 'Jan David Frouman'], 'Starring': ['Titus Welliver', 'Jamie Hector', 'Amy Aquino'], 'Studio': ['Amazon Studios']}\nWell acted - Welliver was not the physical picture I had of Bosch, when I read the books, but he really was Bosch in this series! Was a snowed in weekend &#34;binger&#34; for me.\nBosch a \" binger\"",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Shows a clear interest in crime drama and mystery genres, particularly adaptations of book series.\n- **Viewing Habits:** Enjoys binge-watching series, indicating a preference for engaging and immersive content.\n- **Content Tolerance:** Open to mature content themes, including violence, nudity, and foul language.\n- **Production Appreciation:** Values strong performances, particularly in character portrayals, and shows a discerning taste in acting quality.\n- **Audience Engagement:** Engages with both native English content and translations, demonstrating a bilingual capability or interest.\n- **Interest Areas:** Likely enjoys character-driven narratives and complex storytelling that combines personal and procedural elements.\n\nOverall, this user appears to appreciate well-crafted series that align closely with their literary interests, focusing on character depth and high production values.",
+  "metrics": {
+    "rouge1_f": 0.15833333333333333,
+    "rouge2_f": 0.008403361344537815,
+    "rougeL_f": 0.06666666666666668,
+    "meteor": 0.07368877329865627,
+    "bleu1": 0.11603905833732212,
+    "bleu2": 0.006833713534372782,
+    "bleu3": 0.0026638729798078736,
+    "bleu4": 0.0016656163239265518,
+    "bertscore_precision": 0.3522244095802307,
+    "bertscore_recall": 0.40087658166885376,
+    "bertscore_f1": 0.3749789595603943
+  }
+}

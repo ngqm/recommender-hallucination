@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Diagnosis Murder - Season 4\nReview Date: 2009/03/21\nStore: Format: DVD\nCategories: Movies & TV, First to Know, Television\nAverage Rating: 4.6\nProduct Details: {'Media Format': 'NTSC', 'Studio': 'Paramount'}\nReview Text: I agree with the other person whose review is going on a year old! Please Amazon, if you have any clout with Paramount TV, get them to release the rest of the Diagnosis Murder series. I couldn't find how to sign up to be notified of any new DM DVDs so I thought I'd just write this review in the hopes that someone at Amazon will see it and realize we DM fans just want the rest of our show on DVD. Pretty much everything else I like is already making good progress on DVDs such as House, Bones, and some of the newer ones. Please light a fire under the powers that be so that the rest of DM can be released soon! Season 4 is awesome, I remember from watching it first time around and from my tapes that I have to rely on if I want anything past season 3.\nReview Title: Diagnosis Starved Here!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Diagnosis Murder - Season 4\nFormat: DVD\nMovies & TV, First to Know, Television\n{'Media Format': 'NTSC', 'Studio': 'Paramount'}\nI agree with the other person whose review is going on a year old! Please Amazon, if you have any clout with Paramount TV, get them to release the rest of the Diagnosis Murder series. I couldn't find how to sign up to be notified of any new DM DVDs so I thought I'd just write this review in the hopes that someone at Amazon will see it and realize we DM fans just want the rest of our show on DVD. Pretty much everything else I like is already making good progress on DVDs such as House, Bones, and some of the newer ones. Please light a fire under the powers that be so that the rest of DM can be released soon! Season 4 is awesome, I remember from watching it first time around and from my tapes that I have to rely on if I want anything past season 3.\nDiagnosis Starved Here!",
+  "profile": "**User Summary:**\n\n- **Media Preference:** Strong interest in classic television series, particularly crime and mystery genres.\n- **Format Preference:** Favors physical media, specifically DVDs, demonstrating a desire for complete collections of shows.\n- **Engagement Level:** Actively seeks updates and communicates with retailers about availability of desired products, indicating a passion for maintaining a full collection.\n- **Community Involvement:** Participates in public discussions and reviews to advocate for content release, showing a commitment to engaging with fellow fans and influencing product availability.\n- **Nostalgia Factor:** Values shows from the past, suggesting a preference for content that evokes personal memories and experiences.\n- **Request for Action:** Shows an inclination to prompt retailers for more releases, reflecting a proactive approach to fandom.\n\nOverall, the user demonstrates a clear passion for television shows and a strong desire for comprehensive access to their favorite series on DVD, along with an eagerness to connect and engage within the fan community.",
+  "metrics": {
+    "rouge1_f": 0.2105263157894737,
+    "rouge2_f": 0.006230529595015576,
+    "rougeL_f": 0.09907120743034056,
+    "meteor": 0.13157894736842107,
+    "bleu1": 0.2146341463414634,
+    "bleu2": 0.032436525219889184,
+    "bleu3": 0.008032625816235315,
+    "bleu4": 0.00400226010822427,
+    "bertscore_precision": 0.4191665053367615,
+    "bertscore_recall": 0.4297386109828949,
+    "bertscore_f1": 0.42438673973083496
+  }
+}

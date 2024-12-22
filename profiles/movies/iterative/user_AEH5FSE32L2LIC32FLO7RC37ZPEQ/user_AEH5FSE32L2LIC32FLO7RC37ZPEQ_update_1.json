@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Insane Clown Posse & Twiztid's American Psycho Tour Documentary\nReview Date: 2014/12/04\nStore: Format: DVD\nCategories: Movies & TV, Movies\nProduct Description: ['First and only documentary that showcases both Twiztid and ICP on tour together. Viewers go with ICP as they do interviews in NYC, which is behind the scenes stuff that has never been revealed to fans.']\nAverage Rating: 4.0\nProduct Details: {'Product Dimensions': '7.5 x 5.34 x 0.55 inches; 2.56 Ounces', 'Media Format': 'Multiple Formats, Color, NTSC, Subtitled', 'Release date': 'April 1, 2015', 'Actors': \"Insane Clown Posse, Twiztid's\", 'Subtitles': 'English', 'Studio': 'Psychopathic', 'Number of discs': '2'}\nReview Text: A+\nReview Title: A+\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Insane Clown Posse & Twiztid's American Psycho Tour Documentary\nFormat: DVD\nMovies & TV, Movies\n['First and only documentary that showcases both Twiztid and ICP on tour together. Viewers go with ICP as they do interviews in NYC, which is behind the scenes stuff that has never been revealed to fans.']\n{'Product Dimensions': '7.5 x 5.34 x 0.55 inches; 2.56 Ounces', 'Media Format': 'Multiple Formats, Color, NTSC, Subtitled', 'Release date': 'April 1, 2015', 'Actors': \"Insane Clown Posse, Twiztid's\", 'Subtitles': 'English', 'Studio': 'Psychopathic', 'Number of discs': '2'}\nA+\nA+",
+  "profile": "The user displays a strong interest in music-related documentaries, particularly focusing on artists from the underground hip-hop and horrorcore scenes. They favor behind-the-scenes content that provides exclusive looks into the lives and tours of their favorite performers. The high rating and enthusiastic review suggest a deep appreciation for detailed storytelling and authenticity in music narratives. The user likely values engaging visuals and well-produced content, as evidenced by their positive feedback. This interaction hints at potential preferences for similar genres or themes, as well as a tendency to seek out limited-edition or exclusive materials. Overall, the user profile indicates an inclination towards niche music culture and a desire for immersive experiences within that realm.",
+  "metrics": {
+    "rouge1_f": 0.16113744075829384,
+    "rouge2_f": 0.019138755980861247,
+    "rougeL_f": 0.0947867298578199,
+    "meteor": 0.08537490720118783,
+    "bleu1": 0.12434913458992665,
+    "bleu2": 0.009576150146097815,
+    "bleu3": 0.00408537405830426,
+    "bleu4": 0.002673950097045535,
+    "bertscore_precision": 0.3466561734676361,
+    "bertscore_recall": 0.4051074683666229,
+    "bertscore_f1": 0.3736094534397125
+  }
+}

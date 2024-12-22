@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Amazing Race\nReview Date: 2016/06/23\nCategories: Unscripted, Drama, Sports, Adventure\nProduct Description: ['Eleven teams will embark on the adventure of a lifetime on the new season of The Amazing Race. Phil Keoghan is the host. This season, the multi-Emmy Award-winning series sends 11 new Teams on a Race around the globe, making first time visits to exotic locations such as Indonesia, Malawi, Belgium and Denmark.']\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bertram van Munster', 'Phil Keoghan'], 'Producers': ['Bertram van Munster', 'Phil Keoghan', 'Jerry Bruckheimer', 'Elise Doganieri', 'Jonathan Littman', 'Patrick Cariaga', 'Matthew R. Schmidt', 'Mark A. Vertullo', 'Michael Norton', 'Mark Islam']}\nReview Text: love this show\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Amazing Race\nUnscripted, Drama, Sports, Adventure\n['Eleven teams will embark on the adventure of a lifetime on the new season of The Amazing Race. Phil Keoghan is the host. This season, the multi-Emmy Award-winning series sends 11 new Teams on a Race around the globe, making first time visits to exotic locations such as Indonesia, Malawi, Belgium and Denmark.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bertram van Munster', 'Phil Keoghan'], 'Producers': ['Bertram van Munster', 'Phil Keoghan', 'Jerry Bruckheimer', 'Elise Doganieri', 'Jonathan Littman', 'Patrick Cariaga', 'Matthew R. Schmidt', 'Mark A. Vertullo', 'Michael Norton', 'Mark Islam']}\nlove this show\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Viewing Preferences:** Enjoys unscripted content, particularly reality and adventure genres.\n- **Interest in Competition:** Shows a preference for competitive formats like races or challenges.\n- **Travel Enthusiasm:** Appreciates shows that feature diverse and exotic global locations.\n- **Positive Engagement:** Exhibits a high level of enthusiasm and satisfaction with chosen content, as indicated by a five-star rating.\n- **Familiarity with Series:** Likely a dedicated viewer of long-running shows that build on consistent themes and formats.\n\n**Keywords:** Unscripted, drama, adventure, competition, global travel, satisfaction, dedicated viewer.",
+  "metrics": {
+    "rouge1_f": 0.20212765957446807,
+    "rouge2_f": 0.02150537634408602,
+    "rougeL_f": 0.10638297872340426,
+    "meteor": 0.10403530895334175,
+    "bleu1": 0.15928394217585937,
+    "bleu2": 0.03135278693133212,
+    "bleu3": 0.008486186712087817,
+    "bleu4": 0.004423214913767038,
+    "bertscore_precision": 0.3970688581466675,
+    "bertscore_recall": 0.433493971824646,
+    "bertscore_f1": 0.4144827127456665
+  }
+}

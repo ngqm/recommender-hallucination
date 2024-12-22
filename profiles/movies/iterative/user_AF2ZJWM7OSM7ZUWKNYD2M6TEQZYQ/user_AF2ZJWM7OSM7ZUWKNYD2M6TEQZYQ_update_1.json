@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/08\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Koepp'], 'Producers': ['Andrew Lazar', 'Johnny Depp', 'Christi Dembrowski'], 'Starring': ['Johnny Depp', 'Gwyneth Paltrow', 'Ewan McGregor'], 'Studio': ['LIONSGATE']}\nReview Text: I liked Mordecai... Johnny Depp is always funny, it was a little draggy in parts but overall worth watching.\nReview Title: Ok\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Koepp'], 'Producers': ['Andrew Lazar', 'Johnny Depp', 'Christi Dembrowski'], 'Starring': ['Johnny Depp', 'Gwyneth Paltrow', 'Ewan McGregor'], 'Studio': ['LIONSGATE']}\nI liked Mordecai... Johnny Depp is always funny, it was a little draggy in parts but overall worth watching.\nOk",
+  "profile": "**User Profile Summary:**\n\n- **Overall Rating Trend:** Generally positive, with a tendency to rate around 4.2 on average; however, occasionally provides average ratings (e.g., 3.0).\n  \n- **Content Preferences:** Enjoys humor and performances from notable actors, specifically appreciating the comedic talent of a well-known male lead. Shows a preference for films that may contain mature themes, including violence and sexual content, suggesting comfort with edgier content. \n\n- **Viewing Experience:** Values engaging storytelling but may find pacing issues distracting, as indicated by noting parts that felt \"draggy.\" \n\n- **Language and Accessibility:** Uses English audio and appreciates subtitled content, indicating a preference for inclusivity in viewing.\n\n- **Notable Trends:** The user is likely to appreciate films with a mix of comedic elements and some degree of drama, often featuring well-recognized casts. They may also prioritize films from specific production studios known for high-profile projects. \n\nThis summary indicates a viewer who seeks entertainment that balances humor with a bit of depth, while also favoring accessible viewing options.",
+  "metrics": {
+    "rouge1_f": 0.16216216216216217,
+    "rouge2_f": 0.018181818181818184,
+    "rougeL_f": 0.09009009009009009,
+    "meteor": 0.1111111111111111,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.007188851546895893,
+    "bleu3": 0.0028904696863787855,
+    "bleu4": 0.001834980331073062,
+    "bertscore_precision": 0.415973961353302,
+    "bertscore_recall": 0.39492857456207275,
+    "bertscore_f1": 0.40517815947532654
+  }
+}

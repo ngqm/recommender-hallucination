@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/11\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Padilha'], 'Producers': ['Gary Barber', 'Roger Birnbaum'], 'Starring': ['Jay Baruchel', 'Abbie Cornish'], 'Studio': ['MGM']}\nReview Text: Good movie\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Padilha'], 'Producers': ['Gary Barber', 'Roger Birnbaum'], 'Starring': ['Jay Baruchel', 'Abbie Cornish'], 'Studio': ['MGM']}\nGood movie\nFour Stars",
+  "profile": "**User Summary:**\n\n- **General Sentiment:** Positive attitude towards media, as reflected in a favorable rating of 4.4.\n- **Content Preferences:** Enjoys films that may contain mature themes such as violence, substance use, and sexual content, indicating a tolerance for intense or adult-rated material.\n- **Audio Preferences:** Shows a preference for enhanced audio options, including dialogue boosts and descriptive audio, suggesting a focus on auditory clarity and accessibility.\n- **Subtitles:** Utilizes closed captions, which may indicate a preference for thorough understanding or ensuring accessibility.\n- **Movie Elements:** Appreciates high-quality production values, indicated by awareness of directors, producers, and cast, signaling an interest in notable industry professionals and star performances.\n- **Overall Trend:** A discerning viewer likely drawn to impactful storytelling with a blend of mature themes and strong production, highlighting both entertainment value and technical quality in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.18579234972677597,
+    "rouge2_f": 0.044198895027624314,
+    "rougeL_f": 0.15300546448087432,
+    "meteor": 0.12682320465131863,
+    "bleu1": 0.11458333333333331,
+    "bleu2": 0.00774540341083081,
+    "bleu3": 0.0031606627734086326,
+    "bleu4": 0.002021706791132994,
+    "bertscore_precision": 0.4234083890914917,
+    "bertscore_recall": 0.3589591383934021,
+    "bertscore_f1": 0.3885292112827301
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz\nReview Date: 2020/07/06\nStore: Higher Education\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Higher Education', 'Scent': 'Cucumber', 'Item Form': 'Creme', 'Unit Count': '1.7 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.88 x 2.88 x 2.13 inches; 7.2 Ounces', 'UPC': '811381032050'}\nReview Text: This is one of the most refreshing moisturizers I have tried, and I really like this one a lot!  It is very creamy and pale green in color, goes on smooth, and has a wonderful cucumber smell, but is much more subtle and not overpowering.  I have very dry skin, so am very happy that this moisturizer applies easily and absorbs into the skin very well.  It definitely makes dry skin look more alive.  Definitely a 5 star moisturizer!\nReview Title: Wonderful cucumber scent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz\nHigher Education\n{'Brand': 'Higher Education', 'Scent': 'Cucumber', 'Item Form': 'Creme', 'Unit Count': '1.7 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.88 x 2.88 x 2.13 inches; 7.2 Ounces', 'UPC': '811381032050'}\nThis is one of the most refreshing moisturizers I have tried, and I really like this one a lot!  It is very creamy and pale green in color, goes on smooth, and has a wonderful cucumber smell, but is much more subtle and not overpowering.  I have very dry skin, so am very happy that this moisturizer applies easily and absorbs into the skin very well.  It definitely makes dry skin look more alive.  Definitely a 5 star moisturizer!\nWonderful cucumber scent",
+  "profile": "**User Profile Summary:**\n\n- **Skin Type:** Prefers products suitable for dry and sensitive skin.\n- **Product Preferences:** Enjoys creamy moisturizers that are refreshing and hydrating, particularly those with natural extracts.\n- **Scent Preference:** Appreciates subtle, refreshing scents, notably cucumber, without being overpowering.\n- **Application Experience:** Values smooth application and good absorption, enhancing skin vitality.\n- **Quality Expectations:** Prioritizes high-quality products with effective results, as indicated by a high rating given to products.\n- **Brand Affinity:** Shows a preference for brands that focus on skin health and natural ingredients.\n\nOverall, this user seeks moisturizers that deliver significant hydration while providing a pleasant sensory experience, aligning with their skincare needs and preferences for gentle, natural formulations.",
+  "metrics": {
+    "rouge1_f": 0.2692307692307692,
+    "rouge2_f": 0.03875968992248061,
+    "rougeL_f": 0.13076923076923078,
+    "meteor": 0.14558232931726908,
+    "bleu1": 0.2214392247041141,
+    "bleu2": 0.07322859247473373,
+    "bleu3": 0.042798172954560204,
+    "bleu4": 0.029610301776662594,
+    "bertscore_precision": 0.45254749059677124,
+    "bertscore_recall": 0.48838743567466736,
+    "bertscore_f1": 0.4697849154472351
+  }
+}

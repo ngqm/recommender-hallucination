@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/09/29\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philipp St\u00f6lzl'], 'Producers': ['Claude L\u00e9ger', 'Adrian Politowski', 'Karl Richards'], 'Starring': ['Aaron Eckhart', 'Olga Kurylenko', 'Liana Liberato'], 'Studio': ['Lionsgate']}\nReview Text: Entertaining action packed\nReview Title: Erased\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Otto Bathurst', 'Simon Curtis'], 'Producers': ['Paul Rutman', 'Simon Curtis', 'Hilary Salmon'], 'Starring': ['David Oyelowo', 'Edward Woodward', 'Hugh Bonneville'], 'Studio': ['HBO']}\nVery well written kept me entertained\nFive days\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philipp St\u00f6lzl'], 'Producers': ['Claude L\u00e9ger', 'Adrian Politowski', 'Karl Richards'], 'Starring': ['Aaron Eckhart', 'Olga Kurylenko', 'Liana Liberato'], 'Studio': ['Lionsgate']}\nEntertaining action packed\nErased",
+  "profile": "**User Summary:**\n\nThis user showcases a strong preference for well-crafted narratives, highlighting their appreciation for quality writing that engages and entertains. They favor a blend of strong storytelling with skilled direction and production, which is underscored by their recent interaction where they rated an action-packed film positively. Their interest in English audio and subtitles indicates a desire for clarity and accessibility in content consumption. The user appears to value performances by established talent, as evidenced by their enjoyment of notable actors in recent works. Their positive reviews suggest a tendency to appreciate immersive experiences and dynamic narratives.\n\nMoreover, the user seems open to diverse genres, including action films, while still prioritizing engaging storytelling. With an average rating of 4.1 for their recent content interaction, they demonstrate a consistent pattern of rewarding productions that effectively combine thrilling elements with quality craftsmanship. Overall, the user seeks content that is entertaining and well-executed, delivering both satisfaction and immersion.",
+  "metrics": {
+    "rouge1_f": 0.07111111111111112,
+    "rouge2_f": 0.008968609865470852,
+    "rougeL_f": 0.04444444444444444,
+    "meteor": 0.04019789734075449,
+    "bleu1": 0.062146892655367235,
+    "bleu2": 0.005942283606769103,
+    "bleu3": 0.0027224269424624887,
+    "bleu4": 0.0018453547348979426,
+    "bertscore_precision": 0.3397337794303894,
+    "bertscore_recall": 0.3314720392227173,
+    "bertscore_f1": 0.33555206656455994
+  }
+}

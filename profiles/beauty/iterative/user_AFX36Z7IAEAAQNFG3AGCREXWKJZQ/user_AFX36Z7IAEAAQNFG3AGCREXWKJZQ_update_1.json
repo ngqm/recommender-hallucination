@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Blonde Tape in Hair Extensions Human Hair 20pcs/50g 14in Tape in Platinum Blonde Hair Extensions Remy Human Hair Straight For Women With Salon Style\nReview Date: 2022/05/25\nStore: LaaVoo\nAverage Rating: 3.0\nProduct Details: {'Brand': 'LaaVoo', 'Color': 'Platinum blonde', 'Material': 'Human Hair', 'Extension Length': '14 Inches', 'Hair Type': 'Straight', 'Product Dimensions': '14 x 1 x 1 inches; 1.76 Ounces'}\nReview Text: These hair extensions are gorgeous and the hair itself is good quality. My only complaint is how weak the tape is. I\u2019ve only had them on for a couple days before the first one fell off. I\u2019ve never had tape extensions fall off this soon. It seems this is anticipated as the box comes with replacement tapes.\nReview Title: Soft hair, weak tape\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Blonde Tape in Hair Extensions Human Hair 20pcs/50g 14in Tape in Platinum Blonde Hair Extensions Remy Human Hair Straight For Women With Salon Style\nLaaVoo\n{'Brand': 'LaaVoo', 'Color': 'Platinum blonde', 'Material': 'Human Hair', 'Extension Length': '14 Inches', 'Hair Type': 'Straight', 'Product Dimensions': '14 x 1 x 1 inches; 1.76 Ounces'}\nThese hair extensions are gorgeous and the hair itself is good quality. My only complaint is how weak the tape is. I\u2019ve only had them on for a couple days before the first one fell off. I\u2019ve never had tape extensions fall off this soon. It seems this is anticipated as the box comes with replacement tapes.\nSoft hair, weak tape",
+  "profile": "**User Profile Summary:**\n\n- **Hair Extensions Preference:** The user prefers hair extensions, specifically seeking high-quality human hair products that can blend seamlessly. They have a particular interest in platinum blonde shades and straight styles.\n  \n- **Quality Concerns:** While the user appreciates the aesthetic appeal and softness of the hair, they exhibit sensitivity to product durability, notably regarding the effectiveness of attachment methods (tape strength).\n\n- **Rating Behavior:** The user seems to value quality but is not afraid to express disappointment when products do not meet expectations, as evidenced by their average rating of 3.0. This suggests a balanced approach in evaluation, where both positive attributes and shortcomings are taken into account.\n\n- **Replacement Options:** The mention of replacement tapes indicates the user is proactive in seeking solutions for product issues and may prioritize brands that offer such contingencies.\n\nOverall, the user values high-quality hair extensions but expects them to perform reliably, showing a clear interest in both aesthetics and product functionality.",
+  "metrics": {
+    "rouge1_f": 0.26181818181818184,
+    "rouge2_f": 0.05860805860805861,
+    "rougeL_f": 0.16,
+    "meteor": 0.18342213844259378,
+    "bleu1": 0.21287128712871284,
+    "bleu2": 0.07276885082209271,
+    "bleu3": 0.013834188187656103,
+    "bleu4": 0.006039513971014139,
+    "bertscore_precision": 0.4465801417827606,
+    "bertscore_recall": 0.4369463324546814,
+    "bertscore_f1": 0.4417107403278351
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10Pcs 3D Face Inner Silicone Bracket for Comfortable Breathing, Washable Reusable Silicone Bracket\u00a0Under Frame Lipstick Protector Keep Fabric off Mouth to Create More Breathing Space\nReview Date: 2020/12/09\nStore: Blaikepcam\nAverage Rating: 3.1\nProduct Details: {'Package Dimensions': '10.2 x 6.18 x 3.43 inches; 2.4 Ounces'}\nReview Text: These silicon brackets were the best product I ever purchased. It has made breathing so much easy while wearing masks. I normally wear glasses so whenever I wear a mask it always fogs with my glasses esp when it's cold outside. After putting these on I am finally able to breathe and not worry about the way the fabric touches my face when I am walking outside and no fogs in my glasses. The brackets were lightweight and comfortable to wear,great buy in these difficult times.\nReview Title: Great design!!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10Pcs 3D Face Inner Silicone Bracket for Comfortable Breathing, Washable Reusable Silicone Bracket\u00a0Under Frame Lipstick Protector Keep Fabric off Mouth to Create More Breathing Space\nBlaikepcam\n{'Package Dimensions': '10.2 x 6.18 x 3.43 inches; 2.4 Ounces'}\nThese silicon brackets were the best product I ever purchased. It has made breathing so much easy while wearing masks. I normally wear glasses so whenever I wear a mask it always fogs with my glasses esp when it's cold outside. After putting these on I am finally able to breathe and not worry about the way the fabric touches my face when I am walking outside and no fogs in my glasses. The brackets were lightweight and comfortable to wear,great buy in these difficult times.\nGreat design!!!",
+  "profile": "**User Preferences Summary:**\n\n- **Comfort & Functionality:** The user prioritizes products that enhance comfort during daily activities, particularly when wearing masks. They value solutions that alleviate common issues, such as fogging glasses and uncomfortable fabric contact.\n\n- **Practical Solutions:** Emphasis on practical designs that facilitate easier breathing and usability, showing a preference for items that address specific challenges faced during the pandemic.\n\n- **Positive Experience:** The user expresses satisfaction with products that deliver tangible benefits, rating high for those that improve their experience in constraining situations.\n\n- **Lightweight & Wearable:** Preference for items that are lightweight and comfortable, indicating a desire for unobtrusive solutions that do not hinder normal activities.\n\n- **Adaptability:** Seek products that are effective in various environmental conditions, such as cold weather, demonstrating a need for versatility.\n\nOverall, the user values innovation that improves their quality of life during challenging times while ensuring comfort and practicality.",
+  "metrics": {
+    "rouge1_f": 0.22710622710622708,
+    "rouge2_f": 0.02952029520295203,
+    "rougeL_f": 0.13186813186813187,
+    "meteor": 0.15430452397029037,
+    "bleu1": 0.16494845360824742,
+    "bleu2": 0.05846897297003713,
+    "bleu3": 0.032899798083625094,
+    "bleu4": 0.011685211638907652,
+    "bertscore_precision": 0.42884761095046997,
+    "bertscore_recall": 0.42343205213546753,
+    "bertscore_f1": 0.42612263560295105
+  }
+}

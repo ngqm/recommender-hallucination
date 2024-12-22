@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hetian Sonic Facial Cleansing Brush\uff0cExfoliating and Waterproof Electric Face Wash Brush Deep Skin Care Tools Silicone Cleanser Scrubber Suitable for Any Skin Condition for Women (Pink)\nReview Date: 2020/12/28\nStore: Hetian\nAverage Rating: 3.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.3 x 1.5 x 1.77 inches; 5.89 Ounces', 'Batteries': '1 AA batteries required.', 'UPC': '791568745273', 'Manufacturer': 'Hetian'}\nReview Text: I've been told by my girlfriend that compared to other skin care brushes that this model is comparable or better than most. The device leaves your skin feeling softer after a few uses, so it may take more than your first use to see effects.\nReview Title: Noticeable difference\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Hetian Sonic Facial Cleansing Brush\uff0cExfoliating and Waterproof Electric Face Wash Brush Deep Skin Care Tools Silicone Cleanser Scrubber Suitable for Any Skin Condition for Women (Pink)\nHetian\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.3 x 1.5 x 1.77 inches; 5.89 Ounces', 'Batteries': '1 AA batteries required.', 'UPC': '791568745273', 'Manufacturer': 'Hetian'}\nI've been told by my girlfriend that compared to other skin care brushes that this model is comparable or better than most. The device leaves your skin feeling softer after a few uses, so it may take more than your first use to see effects.\nNoticeable difference",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Focus:** The user prioritizes effective skincare tools, specifically electric cleansing devices that enhance skin softness and overall care.\n- **Quality Expectation:** They expect noticeable results over time, suggesting a preference for products that provide gradual improvement rather than instant effects.\n- **Influenced by recommendations:** The user values suggestions from peers, indicating a reliance on trusted opinions when selecting skincare products.\n- **Willingness to Experiment:** They are open to trying different brands and models, as evidenced by choosing a product deemed comparable to others based on personal feedback.\n- **Gendered Marketing Preference:** User\u2019s interactions indicate a potential focus on products marketed towards women, aligning with their skincare interests.\n\nOverall, this user shows a thoughtful approach to skincare, valuing peer recommendations, gradual efficacy, and the quality of cleansing devices.",
+  "metrics": {
+    "rouge1_f": 0.22413793103448276,
+    "rouge2_f": 0.017391304347826087,
+    "rougeL_f": 0.11206896551724138,
+    "meteor": 0.15643184472116733,
+    "bleu1": 0.1564245810055866,
+    "bleu2": 0.029644388692132987,
+    "bleu3": 0.007918396488914773,
+    "bleu4": 0.004098262441356244,
+    "bertscore_precision": 0.43644601106643677,
+    "bertscore_recall": 0.446361780166626,
+    "bertscore_f1": 0.44134822487831116
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beard Straightener, Beard Straightener Brush Comb Hair Straightener Brush for Men & Women, USB Rechargeable 2 in 1 Beard Comb Straightener, Portable Cordless Beard For Travel, Black\nReview Date: 2019/08/26\nStore: VITI\nAverage Rating: 3.4\nProduct Details: {'Package Dimensions': '10.1 x 4.3 x 2.2 inches; 15.2 Ounces', 'UPC': '787894560994'}\nReview Text: Easier to get a cool and perfect beard or a smooth long hair. Lightweight and small size, easy to carry. Best for home, traveling, party and dating working. Safety and easy to use.\nReview Title: Good for man and woman\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Beard Straightener, Beard Straightener Brush Comb Hair Straightener Brush for Men & Women, USB Rechargeable 2 in 1 Beard Comb Straightener, Portable Cordless Beard For Travel, Black\nVITI\n{'Package Dimensions': '10.1 x 4.3 x 2.2 inches; 15.2 Ounces', 'UPC': '787894560994'}\nEasier to get a cool and perfect beard or a smooth long hair. Lightweight and small size, easy to carry. Best for home, traveling, party and dating working. Safety and easy to use.\nGood for man and woman",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Grooming products, particularly for facial hair and hair styling.\n- **Product Preferences:** Values portable and lightweight items, ideal for travel and on-the-go use.\n- **Usage Context:** Seeks versatility in products for home use, travel, social events, and everyday grooming.\n- **Target Audience:** Products appealing to both men and women, indicating a gender-neutral preference.\n- **Key Attributes Sought:** Ease of use, safety, and effectiveness in achieving desired grooming results (e.g., smooth hair/beard).\n- **Expectations:** Looks for products that enhance appearance with practicality and convenience.\n- **Value Indicators:** Considers reasonable average ratings important, showing a focus on balanced quality and functionality.\n\nOverall, the user appears to prioritize grooming efficiency and convenience while being open to products suitable for all genders.",
+  "metrics": {
+    "rouge1_f": 0.27722772277227725,
+    "rouge2_f": 0.03,
+    "rougeL_f": 0.1485148514851485,
+    "meteor": 0.21363150414428925,
+    "bleu1": 0.17391304347826086,
+    "bleu2": 0.04359689208834058,
+    "bleu3": 0.0101456503489972,
+    "bleu4": 0.004901062881210473,
+    "bertscore_precision": 0.45180055499076843,
+    "bertscore_recall": 0.43851804733276367,
+    "bertscore_f1": 0.44506019353866577
+  }
+}

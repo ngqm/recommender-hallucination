@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SIMPEXPE Spray Bottles Fine Mister, Refillable Cosmetic Containers for Cleaning 6.8 oz\nReview Date: 2021/01/23\nStore: SIMPEXPE\nAverage Rating: 3.9\nProduct Details: {'Brand': 'SIMPEXPE', 'Material': 'Plastic', 'Capacity': '200 Milliliters', 'Number of Items': '1', 'Item Dimensions LxWxH': '7.3 x 2.4 x 2.2 inches', 'Product Dimensions': '7.3 x 2.4 x 2.2 inches; 2.4 Ounces', 'UPC': '761344588684'}\nReview Text: Package includes: 2 spray bottles<br />This 7oz spray bottle has an adjustable nozzle and translucent bottle to easily see liquid levels. It can be used for a variety of home and garden application.\nReview Title: Looks neat but small\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "SIMPEXPE Spray Bottles Fine Mister, Refillable Cosmetic Containers for Cleaning 6.8 oz\nSIMPEXPE\n{'Brand': 'SIMPEXPE', 'Material': 'Plastic', 'Capacity': '200 Milliliters', 'Number of Items': '1', 'Item Dimensions LxWxH': '7.3 x 2.4 x 2.2 inches', 'Product Dimensions': '7.3 x 2.4 x 2.2 inches; 2.4 Ounces', 'UPC': '761344588684'}\nPackage includes: 2 spray bottles<br />This 7oz spray bottle has an adjustable nozzle and translucent bottle to easily see liquid levels. It can be used for a variety of home and garden application.\nLooks neat but small",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user appreciates spray bottles and versatile containers for practical applications, indicating a preference for functional home and garden tools.\n  \n- **Capacity Preference:** Shows interest in moderate-sized products, as indicated by choosing a bottle with a 6.8 oz capacity.\n  \n- **Quality Awareness:** The user rates products thoughtfully, seeking a balance between aesthetics and functionality, evidenced by a review highlighting appearance (\"looks neat\") and a slight disappointment in size (\"but small\").\n\n- **Versatility:** Values products that can serve multiple purposes, as the reviewed spray bottle is suitable for various applications.\n\n- **Material Preference:** Indicates a preference for lightweight and practical materials, such as plastic.\n\n- **Review Engagement:** Actively engages in providing feedback on purchases, suggesting a thoughtful consumer behavior that weighs pros and cons.\n\nOverall, the user leans towards practical, aesthetically pleasing household items with a focus on usability and size considerations.",
+  "metrics": {
+    "rouge1_f": 0.23076923076923075,
+    "rouge2_f": 0.07758620689655173,
+    "rougeL_f": 0.12820512820512822,
+    "meteor": 0.20532495900503228,
+    "bleu1": 0.1650485436893204,
+    "bleu2": 0.0695031588029628,
+    "bleu3": 0.028716156147270865,
+    "bleu4": 0.010392516439353027,
+    "bertscore_precision": 0.4444325864315033,
+    "bertscore_recall": 0.41268134117126465,
+    "bertscore_f1": 0.4279688596725464
+  }
+}

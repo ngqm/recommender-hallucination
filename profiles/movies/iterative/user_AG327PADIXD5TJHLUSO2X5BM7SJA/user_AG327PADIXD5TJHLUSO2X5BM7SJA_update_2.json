@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/08/17\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tommy Lee Wallace'], 'Producers': [\"Matthew O'Connor\"], 'Starring': ['Harry Anderson', 'Dennis Christopher', 'Richard Masur'], 'Studio': ['WARNER BROS.']}\nReview Text: was decent\nReview Title: was decent\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English', 'Deutsch [UT]'], 'Directors': ['Michael Lehmann', 'Todd Strauss-Schulson', 'Andy Tennant', 'Alex Winter', 'Lev L. Spiro'], 'Producers': ['Michael Lehmann', 'Alan R. Cohen', 'Alan Freedland', 'Aaron Hilliard', 'Matt Patterson', 'Evan Endicott'], 'Starring': ['Joe Dinicol', 'Karan Soni', 'Jon Daly'], 'Studio': ['Amazon Studios']}\nBring it back!\nGreat\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tommy Lee Wallace'], 'Producers': [\"Matthew O'Connor\"], 'Starring': ['Harry Anderson', 'Dennis Christopher', 'Richard Masur'], 'Studio': ['WARNER BROS.']}\nwas decent\nwas decent",
+  "profile": "User Profile Summary:\n\n- **Average Rating Preference**: The user's average rating remains generally positive, now reflecting a 4.3 average, with recent ratings suggesting a more critical view as demonstrated by a 3.0 rating on a recent purchase.\n- **Content Sensitivity**: Continues to show awareness of content advisories, now indicating an acceptance of more mature themes including violence, alcohol use, foul language, and sexual content, while maintaining a discerning taste for thoughtfully curated content.\n- **Language Features**: Preference for English audio and subtitles persists, reinforcing their bilingual capability and comprehension.\n- **Interest in Creators**: Engagement with various directors and producers remains consistent, indicating a sustained appreciation for diverse storytelling styles and production backgrounds.\n- **Emotional Engagement**: While they express enthusiasm for certain content, the recent rating of \"decent\" shows a slight shift towards more moderate feedback, indicating evolving expectations from content.\n- **Viewer Demographics**: Appreciation for diverse casts and inclusive representation continues to be a key interest.\n- **Content Type**: Interest in a mix of comedy, drama, and lighter themes is still evident, though the recent engagement reflects a potential for more critical evaluation of content quality and thematic execution.\n\nOverall, the user values high-quality, engaging content with thoughtful production values and a broader cultural appreciation, now demonstrating a more nuanced approach to evaluating thematic elements and content quality.",
+  "metrics": {
+    "rouge1_f": 0.11838006230529596,
+    "rouge2_f": 0.03761755485893417,
+    "rougeL_f": 0.09968847352024922,
+    "meteor": 0.06762132060461416,
+    "bleu1": 0.11347517730496456,
+    "bleu2": 0.006354732518008307,
+    "bleu3": 0.00243413973720949,
+    "bleu4": 0.0015078497866069585,
+    "bertscore_precision": 0.3917524218559265,
+    "bertscore_recall": 0.35579341650009155,
+    "bertscore_f1": 0.3729080557823181
+  }
+}

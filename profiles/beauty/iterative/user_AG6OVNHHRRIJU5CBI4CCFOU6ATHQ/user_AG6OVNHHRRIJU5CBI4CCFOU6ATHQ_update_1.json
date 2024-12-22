@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brazilian Straight With Lace Closure Unprocessed 100% Human Hair 4 Bundles with 4x4 Free Part Closure Natural Black (8'' 8'' 8'' 8''With 8'' Closure)\nReview Date: 2019/12/09\nStore: Xuchang Jinhongze Fazhipin Co.,Ltd\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Xuchang Jinhongze Fazhipin Co.,Ltd', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '8 Inches', 'Hair Type': 'Straight'}\nReview Text: Good hair\nReview Title: Good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Straight With Lace Closure Unprocessed 100% Human Hair 4 Bundles with 4x4 Free Part Closure Natural Black (8'' 8'' 8'' 8''With 8'' Closure)\nXuchang Jinhongze Fazhipin Co.,Ltd\n{'Brand': 'Xuchang Jinhongze Fazhipin Co.,Ltd', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '8 Inches', 'Hair Type': 'Straight'}\nGood hair\nGood",
+  "profile": "**User Profile Summary:**\n\n- **Preference for High-Quality Hair Products:** User values natural, unprocessed human hair, indicating a preference for authenticity and quality over synthetic alternatives.\n- **Specific Hair Type:** User specifically chooses straight hair, suggesting a desire for sleek styles or easy maintenance.\n- **Length Specification:** User opted for an 8-inch length, indicating a preference for shorter hairstyles that may be more manageable or suitable for their needs.\n- **Consistent Satisfaction:** User gave a high rating for their purchase, which shows a trend of positive experiences with hair products.\n- **Color Choice:** A consistent selection of natural black color suggests a preference for classic, timeless shades rather than experimenting with vibrant or unnatural colors.\n- **Vendor Trust:** User has interacted with a particular vendor previously, indicating a tendency to stick with trusted brands for repeat purchases.\n\nOverall, this user demonstrates a strong preference for quality, natural hair products, with a focus on straight styles and manageable lengths, while showing loyalty to specific brands that meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.17757009345794392,
+    "rouge2_f": 0.03773584905660377,
+    "rougeL_f": 0.09345794392523364,
+    "meteor": 0.12409513960703204,
+    "bleu1": 0.07727272727272728,
+    "bleu2": 0.005940063160677964,
+    "bleu3": 0.0025295418988222932,
+    "bleu4": 0.0016525951526687218,
+    "bertscore_precision": 0.3894672989845276,
+    "bertscore_recall": 0.3472070097923279,
+    "bertscore_f1": 0.3671249747276306
+  }
+}

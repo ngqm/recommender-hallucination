@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Riding Rio Branco\nReview Date: 2019/03/06\nStore: Alex Jr.  (Actor),     Carlos Gomes  (Actor),     Vidway  (Director)    &                   0                  more   Rated:    X    Format: DVD\nCategories: Movies & TV, Featured Categories, DVD, LGBT\nProduct Description: ['This bucking bronco is looking for a bucking hard cock to fuck and suck until the sun comes up.']\nAverage Rating: 3.3\nProduct Details: {'MPAA rating': 'X (Mature Audiences Only)', 'Package Dimensions': '7.52 x 5.39 x 0.55 inches; 3.03 Ounces', 'Director': 'Vidway', 'Media Format': 'NTSC', 'Run time': '1 hour', 'Release date': 'June 2, 2010', 'Actors': 'Alex Jr., Carlos Gomes, Ramon Lemos', 'Studio': 'Pau Brasil', 'Country of Origin': 'USA', 'Number of discs': '1'}\nReview Text: Bad video..video kept skipping the end of dvd.\nReview Title: Nothing\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Riding Rio Branco\nAlex Jr.  (Actor),     Carlos Gomes  (Actor),     Vidway  (Director)    &                   0                  more   Rated:    X    Format: DVD\nMovies & TV, Featured Categories, DVD, LGBT\n['This bucking bronco is looking for a bucking hard cock to fuck and suck until the sun comes up.']\n{'MPAA rating': 'X (Mature Audiences Only)', 'Package Dimensions': '7.52 x 5.39 x 0.55 inches; 3.03 Ounces', 'Director': 'Vidway', 'Media Format': 'NTSC', 'Run time': '1 hour', 'Release date': 'June 2, 2010', 'Actors': 'Alex Jr., Carlos Gomes, Ramon Lemos', 'Studio': 'Pau Brasil', 'Country of Origin': 'USA', 'Number of discs': '1'}\nBad video..video kept skipping the end of dvd.\nNothing",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user shows an inclination towards LGBT-themed adult movies.\n- **Media Format:** Preference for DVDs, particularly adult content, indicating a traditional viewing method over digital.\n- **Quality Expectations:** The user values video quality and is critical when it doesn't meet expectations, as evidenced by a specific complaint about video skipping.\n- **Rating Behavior:** A tendency to provide low ratings (1.0), suggesting a high standard for content quality and possible dissatisfaction with previous purchases.\n- **Engagement with Content:** Based on the chosen categories, the user engages with explicit material but may be cautious or disappointed if quality does not align with their preferences.\n  \nOverall, this user appears to have specific tastes in adult media with a focus on LGBT content and a strong emphasis on video quality, leading to critical feedback on their purchases.",
+  "metrics": {
+    "rouge1_f": 0.17427385892116184,
+    "rouge2_f": 0.008368200836820083,
+    "rougeL_f": 0.07468879668049792,
+    "meteor": 0.10675129832660127,
+    "bleu1": 0.15675675675675677,
+    "bleu2": 0.04127805459120273,
+    "bleu3": 0.009764779723562843,
+    "bleu4": 0.004755859227535809,
+    "bertscore_precision": 0.3742234408855438,
+    "bertscore_recall": 0.3826107680797577,
+    "bertscore_f1": 0.37837064266204834
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/23\nAverage Rating: 4.1\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['John Hough'], 'Producers': ['John Hough', 'Albert Fennell', 'Lew Grade', 'Peter Manley'], 'Starring': ['Emma Simm', 'Oliver Reed', 'Michael York']}\nReview Text: Quality of color was so poor, I decided not watch it.  Very orange and pale.\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['John Hough'], 'Producers': ['John Hough', 'Albert Fennell', 'Lew Grade', 'Peter Manley'], 'Starring': ['Emma Simm', 'Oliver Reed', 'Michael York']}\nQuality of color was so poor, I decided not watch it.  Very orange and pale.\nTwo Stars",
+  "profile": "**User Profile Summary**\n\n- **General Preferences:** This user exhibits a tendency towards visual quality in their viewing experiences. They value high production standards and have a low tolerance for poor quality, as evidenced by their dissatisfaction with color accuracy.\n\n- **Rating Trends:** The user tends to provide lower ratings for experiences that do not meet their expectations, reflecting a critical approach towards content quality. The two-star rating indicates a significant disappointment, emphasizing their expectation for better visual presentation.\n\n- **Content Insights:** The user may prioritize films that demonstrate strong directorial and production efforts. They seem to appreciate narratives that also involve recognized actors, which suggests a focus on well-regarded talent in their viewing choices.\n\n- **Engagement Style:** Their review indicates a willingness to share feedback when their expectations are not met, suggesting a preference for transparency and a potential interest in community feedback about similar experiences.\n\nOverall, this user's profile suggests a strong inclination towards quality cinema and an appreciation for well-executed visual storytelling, while displaying a critical and discerning attitude in their evaluations.",
+  "metrics": {
+    "rouge1_f": 0.06572769953051644,
+    "rouge2_f": 0.009478672985781991,
+    "rougeL_f": 0.046948356807511735,
+    "meteor": 0.11025358324145534,
+    "bleu1": 0.0794392523364486,
+    "bleu2": 0.006106997923049877,
+    "bleu3": 0.002600797632916398,
+    "bleu4": 0.0016992579368519986,
+    "bertscore_precision": 0.3892256021499634,
+    "bertscore_recall": 0.34035539627075195,
+    "bertscore_f1": 0.36315372586250305
+  }
+}

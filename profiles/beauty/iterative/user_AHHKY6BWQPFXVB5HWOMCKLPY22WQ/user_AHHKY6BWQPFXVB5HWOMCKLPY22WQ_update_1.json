@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Gel Nail Polish Acrylic Steamer Remover Portable Harmless Nail Machine Nail Art Tools BLUETOP (Electric,White)\nReview Date: 2017/07/12\nStore: BLUETOP\nAverage Rating: 3.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.7 x 7.5 x 7.1 inches; 1.6 Pounds'}\nReview Text: Works on acrylic nails without pealing off the top layer of nail or hurting my hands. I have only used once because I only remove my nails once a month or longer if I can, but it was much.  Better than soaking or using foil or gloves. Both hands took me about 3 hours so I purchased a 2nd one so I could do each hand at the same time and I think I got the hang of getting the Acrylic off better towards the end so I hope to cut the time down to less than a hour next time.<br /><br />It also came quickly\nReview Title: Better than soaking\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Gel Nail Polish Acrylic Steamer Remover Portable Harmless Nail Machine Nail Art Tools BLUETOP (Electric,White)\nBLUETOP\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.7 x 7.5 x 7.1 inches; 1.6 Pounds'}\nWorks on acrylic nails without pealing off the top layer of nail or hurting my hands. I have only used once because I only remove my nails once a month or longer if I can, but it was much.  Better than soaking or using foil or gloves. Both hands took me about 3 hours so I purchased a 2nd one so I could do each hand at the same time and I think I got the hang of getting the Acrylic off better towards the end so I hope to cut the time down to less than a hour next time.<br /><br />It also came quickly\nBetter than soaking",
+  "profile": "**User Profile Summary:**\n\n- **Preferences:**\n  - **Nail Care:** Strong interest in efficient nail care tools, particularly for acrylic nails.\n  - **Technique:** Favor innovative methods over traditional ones (preferred electric remover over soaking).\n  - **Frequency:** Uses products rarely, with an emphasis on quality and effectiveness during occurrences (removes nails once monthly).\n  \n- **Product Experience:**\n  - **Multiple Use:** Willing to invest in additional units for improved efficiency (purchased a second remover).\n  - **Learning Curve:** Demonstrates a commitment to mastering new techniques to enhance the user experience (improved skill over time).\n\n- **Rating Behavior:**\n  - **Balanced Evaluation:** Provides honest feedback reflecting both effective usage and areas for improvement (average rating of 3.2 with a perfect review on one aspect).\n\n- **Delivery Expectations:**\n  - **Timeliness:** Appreciates quick delivery, indicating prompt customer service is valued.\n\n**Trends:**\n- **Innovation Seeking:** Looks for modern, efficient solutions in nail care.\n- **Hands-On Experience:** Engages deeply with products to maximize usability and results.\n  \nThis summary indicates a user who values practical, time-saving tools while being open to learning and improving their processes.",
+  "metrics": {
+    "rouge1_f": 0.20064724919093851,
+    "rouge2_f": 0.019543973941368076,
+    "rougeL_f": 0.12297734627831713,
+    "meteor": 0.12713395110921186,
+    "bleu1": 0.10622710622710624,
+    "bleu2": 0.03422897157601885,
+    "bleu3": 0.007561468318944882,
+    "bleu4": 0.0035572440500253265,
+    "bertscore_precision": 0.4178295135498047,
+    "bertscore_recall": 0.37572088837623596,
+    "bertscore_f1": 0.395658016204834
+  }
+}

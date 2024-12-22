@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Fani Short Bob Wig For Women With Free Wig Cap Yaki Straight Synthetic Wigs Side Bangs Wig Natural Color Cospaly Wigs by fani\nReview Date: 2016/11/24\nAverage Rating: 3.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.4 x 6.9 x 2.6 inches; 8 Ounces'}\nReview Text: Great synthetic wig looks and feel good best company to order from\nReview Title: Great hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "3 Part Lace Closure 4x4 Body Wave Human Hair Closure Piece with Baby Hair Natural Black Color No Bleached Knots (10 inch)\n{'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5.24 x 0.39 inches; 1.59 Ounces', 'UPC': '605175459785'}\nGreat texture\nFive Stars\nRossy&Nancy Cheap Braided Synthetic Lace Front Wigs for Black Women Natural Black Color 24inch\nRossy&Nancy\n{'Color': 'Black', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Brand': 'Rossy&Nancy', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.6 x 7.1 x 2.6 inches; 2.53 Pounds'}\nNice wig easy to maintain long braids  all or even a can be glued on or sewd on the wig is full of braids I'm happy with this product looks real\nHappy\nFani Short Bob Wig For Women With Free Wig Cap Yaki Straight Synthetic Wigs Side Bangs Wig Natural Color Cospaly Wigs by fani\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.4 x 6.9 x 2.6 inches; 8 Ounces'}\nGreat synthetic wig looks and feel good best company to order from\nGreat hair",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Preference:** The user remains focused on high-quality human hair products but has also found satisfaction with a recent synthetic wig, indicating a growing interest in diverse options that blend authenticity with versatility.\n  \n- **Style Preference:** Their trend toward modern styles is reinforced by the latest acquisition of a synthetic wig with a straight texture and bangs, which aligns with current fashion trends while still catering to their preference for practical and stylish looks.\n\n- **Quality Focus:** Despite a moderately low average rating on this recent synthetic product, the user appreciates quality, as evidenced by their positive feedback. They still prioritize realistic appearances, suggesting a discerning approach even within the synthetic category.\n\n- **Simplicity in Use:** The user's inclination for low-maintenance products is echoed in their feedback, noting the ease of use and comfortable feel of the new purchase, aligning with their established preferences for user-friendly styling options.\n\n- **Positive Feedback:** Their history of favorable experiences continues, showcased by the enthusiastic review of their new wig, confirming their tendency to gravitate towards products that meet their standards of quality and ease.\n\n- **Age Range:** The user remains within the adult demographic, indicating continued interest in sophisticated and elegant styles that reflect maturity and refined taste.\n\nOverall, the user values quality, versatility, and ease of use in hair products, maintaining an open-minded yet selective approach towards both human and synthetic styles.",
+  "metrics": {
+    "rouge1_f": 0.20000000000000004,
+    "rouge2_f": 0.01869158878504673,
+    "rougeL_f": 0.10232558139534884,
+    "meteor": 0.11762509335324871,
+    "bleu1": 0.15358361774744025,
+    "bleu2": 0.022934064045772994,
+    "bleu3": 0.005654007119241688,
+    "bleu4": 0.002809750542709205,
+    "bertscore_precision": 0.38060539960861206,
+    "bertscore_recall": 0.38119789958000183,
+    "bertscore_f1": 0.38090142607688904
+  }
+}

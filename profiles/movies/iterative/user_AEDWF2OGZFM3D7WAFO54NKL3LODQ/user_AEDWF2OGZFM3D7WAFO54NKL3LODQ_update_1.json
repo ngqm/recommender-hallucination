@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/10/24\nAverage Rating: 3.5\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Adrian McCarthy'], 'Producers': ['Adrian McCarthy'], 'Studio': ['MagellanTV']}\nReview Text: Informative\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Adrian McCarthy'], 'Producers': ['Adrian McCarthy'], 'Studio': ['MagellanTV']}\nInformative\nThree Stars",
+  "profile": "The user appears to have a moderate level of engagement with content that may include challenging themes, given their review of a product featuring violence, smoking, foul language, and sexual content. The use of the term \"Informative\" in their review suggests an appreciation for educational aspects, even if the overall enjoyment is reflected in a 3.5 rating. Their neutral stance (three stars) indicates that while they find value in the material, it may not meet their expectations or preferences fully. The absence of subtitles might also suggest a preference for content that is straightforward and accessible without requiring additional aids for comprehension.\n\nOverall, this user seems to prefer content that presents informative insights, potentially leaning towards topics that are a bit edgy or controversial, but requires careful consideration regarding the presentation of sensitive themes. Their moderate ratings may indicate a selective approach to evaluating content, appreciating quality but with an awareness of its limitations. This could hint at a more discerning taste that values substance over entertainment alone.",
+  "metrics": {
+    "rouge1_f": 0.11518324607329843,
+    "rouge2_f": 0.05291005291005291,
+    "rougeL_f": 0.10471204188481674,
+    "meteor": 0.10247878086419755,
+    "bleu1": 0.052910052910052914,
+    "bleu2": 0.005305058450660254,
+    "bleu3": 0.0024689535158495747,
+    "bleu4": 0.0016865780696409542,
+    "bertscore_precision": 0.43500471115112305,
+    "bertscore_recall": 0.2985883951187134,
+    "bertscore_f1": 0.35411280393600464
+  }
+}

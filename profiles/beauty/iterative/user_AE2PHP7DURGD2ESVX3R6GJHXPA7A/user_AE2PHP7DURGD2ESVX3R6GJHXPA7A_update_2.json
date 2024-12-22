@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 48 Pairs Eyebrow Stencils Templates Shaping Eyebrow Stencils and 3 Pieces Eyebrow Razors Eyebrow Shavers for Women Makeup Tools\nReview Date: 2019/10/17\nStore: Blulu\nAverage Rating: 2.9\nProduct Details: {}\nReview Text: Pretty neat & luv the ways 2 help U2 do ur brows these days\ud83d\udc4d\nReview Title: It helps very much:)\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Cai Cosmetics Gel Eyeliner & Brush 2-Piece Set Stay All Day Waterproof (Brown)\nCai Cosmetics New York\n{'Brand': 'Cai Cosmetics New York', 'Item Form': 'Gel', 'Finish Type': 'Natural', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 1 inches; 0.16 Ounces', 'UPC': '844952182489'}\nIt stays put..except 4 it dries out 2 fast..other than that..I would of gave it 5 \ud83c\udf1f\nOverallll greatttt product)..\n48 Pairs Eyebrow Stencils Templates Shaping Eyebrow Stencils and 3 Pieces Eyebrow Razors Eyebrow Shavers for Women Makeup Tools\nBlulu\n{}\nPretty neat & luv the ways 2 help U2 do ur brows these days\ud83d\udc4d\nIt helps very much:)",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user continues to favor cosmetics, with a particular emphasis on products that enhance makeup application, such as eyebrow shaping tools. They appreciate practical items that assist in achieving desired looks efficiently and effectively. Their focus remains on products that provide reliability and usability over time.\n\n- **Rating Tendencies:** The user displays a tendency to give a higher rating (5 out of 5 stars) for items they feel add significant value to their makeup routine, even when the overall product average may be lower. This suggests they are willing to overlook shortcomings if certain aspects of a product resonate positively with them. \n\n- **Brand Affinity:** They engage with brands that not only meet their standards for quality but also offer innovative tools that enhance their makeup application process. This indicates a continued exploration for reliable brands that deliver multi-functional products.\n\n- **Overall Behavior:** The interaction illustrates the user as a thoughtful and appreciative consumer who values tools that simplify and enhance their grooming rituals. They are practical in their purchasing choices, highlighting a balance between practical usability and enjoyable aesthetics, while still maintaining a critical lens towards overall product performance. Their willingness to try new items that support their beauty routine suggests an open-minded approach to product exploration.",
+  "metrics": {
+    "rouge1_f": 0.10526315789473684,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06191950464396284,
+    "meteor": 0.09193357058125742,
+    "bleu1": 0.07843137254901959,
+    "bleu2": 0.005556842010488982,
+    "bleu3": 0.00230238806757809,
+    "bleu4": 0.0014834870487638663,
+    "bertscore_precision": 0.369609534740448,
+    "bertscore_recall": 0.35426318645477295,
+    "bertscore_f1": 0.36177369952201843
+  }
+}

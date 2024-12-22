@@ -1,0 +1,81 @@
+{
+  "user_id": "AFY3BWQ44AELLUBHFA5QFJOFEPSA",
+  "summary": "=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jody Hill', 'David Gordon Green', 'Adam McKay'], 'Producers': ['Will Ferrell', 'Adam McKay', 'Chris Henchy', 'Jody Hill', 'Danny McBride', 'Ben Best', 'Stephanie Laing'], 'Starring': ['Danny McBride', 'John Hawkes', 'Jennifer Irwin'], 'Studio': ['HBO']}\nReview Text: Meh, it's funny don't get me wrong . But it needs to pick up speed fast.\nReview Title: Meh ~\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nReview Text: Great effects, and a new spin to all the story's we grew up on.\nReview Title: Super fun\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 3.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Eduardo Quiroz', 'Jose Quiroz'], 'Producers': ['Eduardo Quiroz', 'Jose Quiroz'], 'Starring': ['Angel Aviles', 'Victor Miller'], 'Studio': ['Itn Distribution']}\nReview Text: Did not even finest this.\nReview Title: Thumbs down\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 3.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['None available'], 'Directors': ['Brad Rego'], 'Producers': ['Brad Rego'], 'Starring': ['Elizabeth Drake', 'Gerard J Savoy', 'Alyssa Mann'], 'Studio': ['Kinonation']}\nReview Text: Meh.\nReview Title: Meh~\nRating: 3.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jody Hill', 'David Gordon Green', 'Adam McKay'], 'Producers': ['Will Ferrell', 'Adam McKay', 'Chris Henchy', 'Jody Hill', 'Danny McBride', 'Ben Best', 'Stephanie Laing'], 'Starring': ['Danny McBride', 'John Hawkes', 'Jennifer Irwin'], 'Studio': ['HBO']}\nMeh, it's funny don't get me wrong . But it needs to pick up speed fast.\nMeh ~\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nGreat effects, and a new spin to all the story's we grew up on.\nSuper fun\n{'Subtitles': ['None available'], 'Directors': ['Eduardo Quiroz', 'Jose Quiroz'], 'Producers': ['Eduardo Quiroz', 'Jose Quiroz'], 'Starring': ['Angel Aviles', 'Victor Miller'], 'Studio': ['Itn Distribution']}\nDid not even finest this.\nThumbs down\n{'Audio languages': ['English'], 'Subtitles': ['None available'], 'Directors': ['Brad Rego'], 'Producers': ['Brad Rego'], 'Starring': ['Elizabeth Drake', 'Gerard J Savoy', 'Alyssa Mann'], 'Studio': ['Kinonation']}\nMeh.\nMeh~",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jody Hill', 'David Gordon Green', 'Adam McKay'], 'Producers': ['Will Ferrell', 'Adam McKay', 'Chris Henchy', 'Jody Hill', 'Danny McBride', 'Ben Best', 'Stephanie Laing'], 'Starring': ['Danny McBride', 'John Hawkes', 'Jennifer Irwin'], 'Studio': ['HBO']}\nReview Text: Meh, it's funny don't get me wrong . But it needs to pick up speed fast.\nReview Title: Meh ~\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nReview Text: Great effects, and a new spin to all the story's we grew up on.\nReview Title: Super fun\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 3.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Eduardo Quiroz', 'Jose Quiroz'], 'Producers': ['Eduardo Quiroz', 'Jose Quiroz'], 'Starring': ['Angel Aviles', 'Victor Miller'], 'Studio': ['Itn Distribution']}\nReview Text: Did not even finest this.\nReview Title: Thumbs down\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/11\nAverage Rating: 3.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['None available'], 'Directors': ['Brad Rego'], 'Producers': ['Brad Rego'], 'Starring': ['Elizabeth Drake', 'Gerard J Savoy', 'Alyssa Mann'], 'Studio': ['Kinonation']}\nReview Text: Meh.\nReview Title: Meh~\nRating: 3.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a mixed but predominantly positive sentiment towards entertainment products, particularly in the film genre. The individual consistently rates items with an average rating around 3.0 to 4.7, indicating a tendency to appreciate content with engaging elements such as strong effects and creative storytelling. Common themes indicate a preference for humorous or fantastical narratives, yet a notable critique of pacing and quality emerges, as shown in the lower ratings where content failed to capture attention.\n\nQuality preferences lean towards well-produced media, particularly from established studios, signifying a value placed on production standards and storytelling innovation. The recurring dissatisfaction with subtitles and lack of availability highlights a potential barrier in their viewing experience, suggesting a need for accessible content.\n\nPrice sensitivity appears moderate; while specific pricing data is absent, the ratings imply a willingness to invest in quality content but unwillingness to tolerate poorly executed offerings. Overall, this individual favors entertainment that combines humor and a creative twist, with a clear appreciation for production quality and an expectation for engaging pacing.",
+  "target_interaction": {
+    "rating": 3.0,
+    "title": "Meh~",
+    "text": "Meh. What else can I say I did not turn it off.",
+    "images": [],
+    "asin": "B0027WCN8G",
+    "parent_asin": "B0027WCN8G",
+    "user_id": "AFY3BWQ44AELLUBHFA5QFJOFEPSA",
+    "timestamp": "2014-07-11 12:26:50",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.2,
+    "rating_number": 610,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2f7deb99681e4289d232d293cf7dfae49a4764a3ceee012985250150c8f5fcf5._RI_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "alcohol use",
+        "foul language"
+      ],
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Robby Henson"
+      ],
+      "Producers": [
+        "Ted Dekker",
+        "Wojtek Frykowski",
+        "Joe Goodman",
+        "Erick Goss",
+        "Bobby Neutz",
+        "Kelly Neutz",
+        "Frank Peretti",
+        "Dan Raines",
+        "Daniel Russell",
+        "Marek Sledziewski",
+        "Michael Webber",
+        "Ralph Winter"
+      ],
+      "Starring": [
+        "Michael Madsen",
+        "Reynaldo Rosales",
+        "Heidi Dippold"
+      ],
+      "Studio": [
+        "Lionsgate"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

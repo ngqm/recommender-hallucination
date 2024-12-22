@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sunshiny Reusable Hair Colouring Hairdressing Highlighting Dye Cap Hook Frosting Random Color\nReview Date: 2015/02/14\nAverage Rating: 3.3\nProduct Details: {}\nReview Text: Nice professional quality product\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sunshiny Reusable Hair Colouring Hairdressing Highlighting Dye Cap Hook Frosting Random Color\n{}\nNice professional quality product\nNice",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Hairdressing and beauty tools, specifically focusing on hair coloring and highlighting methods.\n- **Quality Preference:** Values professional quality products, as indicated by a high satisfaction rating despite mixed overall ratings for the product category.\n- **Rating Behavior:** Tends to rate products positively when they meet quality expectations, suggesting a discerning taste.\n- **Review Style:** Provides concise and straightforward feedback reflecting satisfaction with product performance and quality. \n\nOverall, the user exhibits a clear interest in effective hairdressing products, displaying a preference for high-quality tools that enhance their beauty regimen.",
+  "metrics": {
+    "rouge1_f": 0.12962962962962962,
+    "rouge2_f": 0.03773584905660377,
+    "rougeL_f": 0.0925925925925926,
+    "meteor": 0.11666666666666667,
+    "bleu1": 0.031007751937984492,
+    "bleu2": 0.015564320159117262,
+    "bleu3": 0.0057564163335985085,
+    "bleu4": 0.0035076924770557766,
+    "bertscore_precision": 0.48067018389701843,
+    "bertscore_recall": 0.3454340696334839,
+    "bertscore_f1": 0.40198278427124023
+  }
+}

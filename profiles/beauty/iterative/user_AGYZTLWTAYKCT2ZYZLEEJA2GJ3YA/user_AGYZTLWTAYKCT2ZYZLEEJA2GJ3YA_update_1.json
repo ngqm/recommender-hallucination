@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Huxley Secret of Sahara Clay Mask Balanced Blend 4.23 fl. oz. | Korean Clay Mask to Refine Pores and Absorb Excess Oil and Sebum | Made with Moroccan Rhassoul Clay\nReview Date: 2021/01/19\nStore: Huxley\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Huxley', 'Item Form': 'Clay', 'Skin Type': 'Sensitive', 'Special Feature': 'Hypoallergenic', 'Unit Count': '4.23 Fl Oz', 'Product Dimensions': '2.68 x 2.68 x 6.97 inches; 6.38 Ounces'}\nReview Text: This mask is one my favorite clay masks that I've tried. It so gentle on the skin and hardly any scent to it. It's not too thick and easily applied in a thin layer. It exfoliates well and leaves my face feeling clean and visibly brighter after the first use. I was also pleasantly surprised that my face didn't feel dry after and it actually felt moisturized. A little goes a long way and it's well worth the price. The packaging is beautiful and looks like a luxury item. This would make a great gift! Will absolutely be buying this again when this tube is finished.\nReview Title: Visibly brightens my skin\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Huxley Secret of Sahara Clay Mask Balanced Blend 4.23 fl. oz. | Korean Clay Mask to Refine Pores and Absorb Excess Oil and Sebum | Made with Moroccan Rhassoul Clay\nHuxley\n{'Brand': 'Huxley', 'Item Form': 'Clay', 'Skin Type': 'Sensitive', 'Special Feature': 'Hypoallergenic', 'Unit Count': '4.23 Fl Oz', 'Product Dimensions': '2.68 x 2.68 x 6.97 inches; 6.38 Ounces'}\nThis mask is one my favorite clay masks that I've tried. It so gentle on the skin and hardly any scent to it. It's not too thick and easily applied in a thin layer. It exfoliates well and leaves my face feeling clean and visibly brighter after the first use. I was also pleasantly surprised that my face didn't feel dry after and it actually felt moisturized. A little goes a long way and it's well worth the price. The packaging is beautiful and looks like a luxury item. This would make a great gift! Will absolutely be buying this again when this tube is finished.\nVisibly brightens my skin",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Strong inclination towards skincare, specifically clay masks that offer gentle exfoliation and brightening effects.\n- **Skin Type:** Sensitive skin, showing a preference for hypoallergenic and non-irritating products.\n- **Key Features Valued:** Effective cleansing, moisturizing properties post-use, minimal scent, easy application, and aesthetically pleasing packaging.\n- **Consumer Behavior:** Willing to repurchase high-quality products and values luxury aesthetics, indicating a preference for premium or well-packaged items.\n- **Satisfaction Level:** High satisfaction with products that meet their specific needs, evident from a high overall rating for the reviewed product. \n\n**Trends:** Emphasis on effective skincare rituals, sensitivity to product formulation, and appreciation for gift-worthy packaging.",
+  "metrics": {
+    "rouge1_f": 0.25531914893617025,
+    "rouge2_f": 0.02857142857142857,
+    "rougeL_f": 0.12765957446808512,
+    "meteor": 0.13368758297324032,
+    "bleu1": 0.18216735108086893,
+    "bleu2": 0.0408633777780357,
+    "bleu3": 0.019748639797205852,
+    "bleu4": 0.007732801760037802,
+    "bertscore_precision": 0.43969234824180603,
+    "bertscore_recall": 0.4731398820877075,
+    "bertscore_f1": 0.4558033347129822
+  }
+}

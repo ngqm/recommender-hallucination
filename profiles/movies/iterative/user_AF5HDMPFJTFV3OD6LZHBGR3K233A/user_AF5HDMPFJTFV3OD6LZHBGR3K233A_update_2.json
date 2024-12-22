@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/05/24\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Tim O'Sullivan\", 'Sarah Gomes Harris', 'Tim Fehrenbach'], 'Producers': ['Chris White', 'Alison Stewart', 'Henrietta Hurford-Jones', 'Jamie Badminton'], 'Studio': ['BBC America']}\nReview Text: My children love this series! Great for any age. It's definitely a classic and well-worth every penny!\nReview Title: LOVE SARAH & DUCK!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrew Stanton'], 'Producers': ['Jim Morris'], 'Starring': ['Ben Burtt', 'Elissa Knight', 'Jeff Garlin'], 'Studio': ['Pixar']}\nThis movie is enjoyable for everyone. I saw this in the theater when it first came out; still a classic.\nWonderful Movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Tim O'Sullivan\", 'Sarah Gomes Harris', 'Tim Fehrenbach'], 'Producers': ['Chris White', 'Alison Stewart', 'Henrietta Hurford-Jones', 'Jamie Badminton'], 'Studio': ['BBC America']}\nMy children love this series! Great for any age. It's definitely a classic and well-worth every penny!\nLOVE SARAH & DUCK!",
+  "profile": "### Updated User Profile Summary\n\n- **Overall Preferences:** Enjoys high-quality family-friendly entertainment, particularly animated films. Recently expressed enthusiasm for a children's series that appeals to all ages, reinforcing a family-oriented mindset. \n- **Rating Tendencies:** Maintains an impressive average rating of 4.9 based on recent interactions, indicating a continued appreciation for enjoyable experiences and high production quality.\n- **Content Formats:** Prefers media with multiple audio languages and descriptions, emphasizing accessibility options. Recent engagement with a series highlights their focus on family-friendly content accessible to younger audiences.\n- **Engagement with Classics:** Shows nostalgia and appreciation for classic films, reinforced through recent interactions that highlight timeless quality and family appeal.\n- **Target Audience:** Favorable towards content that is universal in appeal, as demonstrated by the enjoyment expressed for family-oriented series that cater to diverse age groups.\n- **Production Quality:** Values contributions from reputable studios and recognized professionals in the industry, reflecting a strong preference for high production values. The recent review highlights satisfaction with the quality of the series produced by a well-known studio.\n\nOverall, this user demonstrates a strong inclination towards accessible, high-quality animated films and series that resonate with both personal nostalgia and the enjoyment of family audiences.",
+  "metrics": {
+    "rouge1_f": 0.1584158415841584,
+    "rouge2_f": 0.013289036544850499,
+    "rougeL_f": 0.0924092409240924,
+    "meteor": 0.09747979077508323,
+    "bleu1": 0.13654618473895583,
+    "bleu2": 0.02346464264787691,
+    "bleu3": 0.006063317523667225,
+    "bleu4": 0.003085311068470915,
+    "bertscore_precision": 0.3837019205093384,
+    "bertscore_recall": 0.39746642112731934,
+    "bertscore_f1": 0.3904629051685333
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/01\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Guy Ferland', 'Scott Brazil', 'Clark Johnson', 'Dean White', 'Stephen Kay'], 'Producers': ['Shawn Ryan'], 'Studio': ['FX Cable Channel']}\nReview Text: Enjoyed\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Producers': ['Rudd Simmons', 'Terence Winter', 'Martin Scorsese', 'Tim Van Patten', 'Stephen Levinson', 'Mark Wahlberg'], 'Starring': ['Steve Buscemi', 'Michael Pitt', 'Kelly Macdonald'], 'Studio': ['HBO']}\nThe best New Jersey has to offer. Always wondered why New Jersey had the best road in the northeast.The Parkway was the best<br />example.\nThe best.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Guy Ferland', 'Scott Brazil', 'Clark Johnson', 'Dean White', 'Stephen Kay'], 'Producers': ['Shawn Ryan'], 'Studio': ['FX Cable Channel']}\nEnjoyed\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user appreciates content with mature themes, including nudity, violence, and substance use. They gravitate towards productions that feature substantial narrative depth and intricate character development.\n\n- **Artistic Appreciation:** The user favors works by notable filmmakers and reputable studios, indicating a strong preference for high-quality cinematography and storytelling. Their recent review showcases a clear appreciation for productions from the FX Cable Channel, further emphasizing this trend.\n\n- **Regional Interest:** The user has a particular affinity for narratives connected to New Jersey, suggesting an interest in regional stories that authentically depict local culture.\n\n- **Rating Trends:** The user rates content positively, reflecting a discerning yet appreciative taste. They rated a recent product five stars for its enjoyment factor, demonstrating their inclination towards compelling viewing experiences.\n\n- **Communication Style:** Their review style is concise and straightforward, effectively conveying enthusiasm and clarity in their opinions. The latest review reinforces this pattern through its simple yet positive feedback.\n\nOverall, the user continues to exhibit a discerning nature, valuing quality storytelling, mature content, and regional relevance, while maintaining an engaging and positive dialogue about their viewing experiences. The consistent high ratings underscore their appreciation for impactful narratives and skilled production.",
+  "metrics": {
+    "rouge1_f": 0.15141955835962148,
+    "rouge2_f": 0.0380952380952381,
+    "rougeL_f": 0.10094637223974762,
+    "meteor": 0.09964719717757742,
+    "bleu1": 0.140625,
+    "bleu2": 0.04067446084099803,
+    "bleu3": 0.00866835384479928,
+    "bleu4": 0.004005643945224262,
+    "bertscore_precision": 0.3815110921859741,
+    "bertscore_recall": 0.37745600938796997,
+    "bertscore_f1": 0.3794727325439453
+  }
+}

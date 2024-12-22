@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/10/14\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brett Ratner'], 'Producers': ['Tony Ludwig', 'Zvi Howard Rosenman', 'Marc Abraham'], 'Starring': ['Nicolas Cage', 'T\u00e9a Leoni', 'Makenzie Vega'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: A funny, enjoyable film about what is truly of value in this life:  family, with all of its ups and downs.\nReview Title: One of my favorite movies\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brett Ratner'], 'Producers': ['Tony Ludwig', 'Zvi Howard Rosenman', 'Marc Abraham'], 'Starring': ['Nicolas Cage', 'T\u00e9a Leoni', 'Makenzie Vega'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nA funny, enjoyable film about what is truly of value in this life:  family, with all of its ups and downs.\nOne of my favorite movies",
+  "profile": "**User Summary:**\n\n- **Content Preference:** The user enjoys films with themes centered around family values, capturing both the positive and negative aspects of familial relationships.\n- **Humor Appreciation:** Shows a preference for comedic elements in films, indicating a tendency to favor enjoyable and light-hearted narratives.\n- **Rating Behavior:** Tends to rate films positively, with an average rating of 4.8, suggesting a generally favorable outlook on their movie choices.\n- **Content Sensitivity:** Engages with content that includes mature themes, such as nudity, violence, and foul language, indicating comfort with complex and adult-oriented narratives.\n- **Language & Accessibility:** Prefers films available in English, valuing accessibility features like audio descriptions and closed captions.\n- **Director & Actor Affinity:** Shows an interest in productions by specific directors and actors, indicating possible loyalty to their work.\n\nOverall, the user appears to balance an appreciation for humor with deeper familial themes, enjoying movies that provoke thought while also providing entertainment and laughter.",
+  "metrics": {
+    "rouge1_f": 0.20909090909090908,
+    "rouge2_f": 0.03669724770642202,
+    "rougeL_f": 0.11818181818181818,
+    "meteor": 0.1366175543432883,
+    "bleu1": 0.14285714285714285,
+    "bleu2": 0.026144349280800106,
+    "bleu3": 0.006900768308140945,
+    "bleu4": 0.003549608848829631,
+    "bertscore_precision": 0.40838706493377686,
+    "bertscore_recall": 0.4014589488506317,
+    "bertscore_f1": 0.40489333868026733
+  }
+}

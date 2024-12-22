@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Barrett', 'Ralph Hemecker', 'Robert Harmon', 'Alex Zakrzewski', 'John Behring', 'Alex Chapple', 'Jackeline Tejada', 'Eric Laneuville', 'Michael Pressman', 'Douglas Aarniokoski'], 'Studio': ['CBS']}\nReview Text: Great cast and neat storyline!  Love Tom Seleck!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Barrett', 'Ralph Hemecker', 'Robert Harmon', 'Alex Zakrzewski', 'John Behring', 'Alex Chapple', 'Jackeline Tejada', 'Eric Laneuville', 'Michael Pressman', 'Douglas Aarniokoski'], 'Studio': ['CBS']}\nGreat cast and neat storyline!  Love Tom Seleck!\nFive Stars",
+  "profile": "**User Profile Summary**\n\nThis user demonstrates a strong preference for high-quality productions featuring talented casts, particularly expressing a fondness for specific actors. They show an inclination towards content that includes varying degrees of mature themes, such as violence, substance use, and strong language. The user appreciates engaging storylines, indicating a preference for narratives that are well-crafted and interesting. Their positive review, coupled with a high rating, suggests they tend to focus on overall entertainment value and character development. Additionally, they favor content with English audio and subtitles, highlighting an accessibility preference. Overall, the user values strong performances and intriguing plots, while being comfortable with mature content.",
+  "metrics": {
+    "rouge1_f": 0.1509433962264151,
+    "rouge2_f": 0.025477707006369428,
+    "rougeL_f": 0.11320754716981131,
+    "meteor": 0.07372072853425846,
+    "bleu1": 0.11811023622047245,
+    "bleu2": 0.009681853268597945,
+    "bleu3": 0.004216987626011646,
+    "bleu4": 0.0027886648570482077,
+    "bertscore_precision": 0.3885011374950409,
+    "bertscore_recall": 0.38359972834587097,
+    "bertscore_f1": 0.38603487610816956
+  }
+}

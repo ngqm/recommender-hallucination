@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Wes Ball'], 'Producers': ['Ellen Goldsmith-Vein', 'Marty Bowen', 'Wyck Godfrey', 'Lee Stollman'], 'Starring': [\"Dylan O'Brien\", 'Kate Scodelario', 'Thomas Brodie-Sangster'], 'Studio': ['20th Century Fox']}\nReview Text: Good movie\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Patriot\nAction, Ambitious, Bleak, Malicious\n['A family man reluctantly joins the American Revolution, aiming to avenge his son - murdered by a sadistic British officer.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Roland Emmerich'], 'Producers': ['Dean Devlin', 'Gary Levinsohn', 'Mark Gordon'], 'Starring': ['Mel Gibson', 'Heath Ledger', 'Joely Richardson']}\nGreat movie\nReview\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Producers': ['Carnival Film and TV Ltd.'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nLove it\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Wes Ball'], 'Producers': ['Ellen Goldsmith-Vein', 'Marty Bowen', 'Wyck Godfrey', 'Lee Stollman'], 'Starring': [\"Dylan O'Brien\", 'Kate Scodelario', 'Thomas Brodie-Sangster'], 'Studio': ['20th Century Fox']}\nGood movie\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Genres Preferred:** Action, particularly with historical or revolutionary themes; enjoys period dramas.\n- **Themes:** Ambitious narratives exploring familial bonds, vengeance, and conflict, favoring bleak and malicious storylines that examine darker aspects of human nature.\n- **Content Sensitivity:** Open to violence, sexual content, and strong language; embraces mature themes in storytelling without reservation.\n- **Review Tendencies:** Generally positive and enthusiastic about films, often awarding high ratings. Their recent reviews continue to reflect a strong inclination towards expressing satisfaction succinctly, consistently awarding 5-star ratings despite a slightly lower average for one interaction.\n- **Engagement Style:** Brief and direct in reviews, concentrating on overall enjoyment and quality rather than in-depth critique. The user tends to provide concise feedback with a clear emphasis on appreciation for the film.\n\nThe user maintains a steadfast preference for intense, action-driven narratives alongside an appreciation for character-centric storytelling found in period dramas. Their interactions underscore not only a desire for entertainment but also an affinity for thought-provoking storytelling that catalyzes deep emotional responses. Their latest interaction maintains the established pattern of high enjoyment, reinforcing a commitment to rating films favorably when they meet their standards.",
+  "metrics": {
+    "rouge1_f": 0.10982658959537572,
+    "rouge2_f": 0.005813953488372093,
+    "rougeL_f": 0.06358381502890174,
+    "meteor": 0.054961378490790254,
+    "bleu1": 0.0777894740102811,
+    "bleu2": 0.014474957250655486,
+    "bleu3": 0.0038410404658852414,
+    "bleu4": 0.0019806882678010435,
+    "bertscore_precision": 0.36248913407325745,
+    "bertscore_recall": 0.3756033778190613,
+    "bertscore_f1": 0.36892974376678467
+  }
+}

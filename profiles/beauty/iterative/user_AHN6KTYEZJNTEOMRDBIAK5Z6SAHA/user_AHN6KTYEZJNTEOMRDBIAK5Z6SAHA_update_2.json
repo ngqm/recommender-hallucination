@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: KLEANCOLOR NEON COLORS 12 FULL COLLETION SET NAIL POLISH LACQUER-2 SETS\nReview Date: 2018/10/12\nStore: Kleancolor\nAverage Rating: 3.2\nProduct Details: {'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Special Feature': 'Long-lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.8 x 5.9 x 3.4 inches; 3.3 Pounds', 'UPC': '303726031113'}\nReview Text: Great\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)\nEBOOT\n{'Brand': 'EBOOT', 'Unit Count': '4.19 Count', 'Shape': 'Round', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.29 x 0.79 x 0.79 inches; 1.13 Ounces', 'UPC': '712971920705'}\nGreat\nGreat\nKLEANCOLOR NEON COLORS 12 FULL COLLETION SET NAIL POLISH LACQUER-2 SETS\nKleancolor\n{'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Special Feature': 'Long-lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.8 x 5.9 x 3.4 inches; 3.3 Pounds', 'UPC': '303726031113'}\nGreat\nGreat",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Interest**: The user continues to exhibit a strong preference for beauty and personal care items, especially tools and products for nail and makeup application.\n- **Brand Affinity**: In addition to previously noted loyalty to the EBOOT brand, the user has also engaged with Kleancolor, indicating an openness to exploring products from diverse brands within the beauty sector.\n- **Positive Experiences**: The user maintains a consistent pattern of high ratings for their product purchases, reflecting overall satisfaction and a tendency toward positive experiences with the items they choose.\n- **Specific Functionality**: They have a clear focus on products that offer precise application, whether for nail art or makeup, underscoring their interest in detailed grooming techniques.\n- **Quality Appreciation**: Their high ratings align with a strong appreciation for quality and effective beauty tools, ensuring these products meet their standards.\n- **Aesthetic Consideration**: The user remains inclined towards aesthetically appealing products, with an evident preference for vibrant colors that enhance their beauty routine.\n\nOverall, the user prioritizes quality beauty tools and products that deliver functionality and visual appeal, demonstrating a thoughtful and engaging approach to their personal care regimen.",
+  "metrics": {
+    "rouge1_f": 0.08695652173913043,
+    "rouge2_f": 0.0202020202020202,
+    "rougeL_f": 0.05351170568561873,
+    "meteor": 0.08287292817679559,
+    "bleu1": 0.08606557377049182,
+    "bleu2": 0.0059512966312220555,
+    "bleu3": 0.0024460722250022058,
+    "bleu4": 0.0015698121877965121,
+    "bertscore_precision": 0.3681676983833313,
+    "bertscore_recall": 0.3582940697669983,
+    "bertscore_f1": 0.3631637990474701
+  }
+}

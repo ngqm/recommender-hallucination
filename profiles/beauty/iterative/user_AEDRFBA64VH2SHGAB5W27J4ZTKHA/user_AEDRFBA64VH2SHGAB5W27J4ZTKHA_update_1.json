@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mr. Pristine Organic Beard Shampoo with Natural Essential Oils for Moisturizing Skin & Hair, 8.5 oz.\nReview Date: 2020/09/07\nStore: Mr. Pristine\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Mr. Pristine', 'Item Form': 'Liquid', 'Hair Type': 'Color Treated', 'Scent': 'Peppermint', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.21 x 2.8 x 2.3 inches; 7.76 Ounces', 'UPC': '627843801832', 'Manufacturer': 'Mr. Pristine'}\nReview Text: This is a really nice shampoo specifically designed for your beard. It has a nice minty smell that doesn't over power and leaves your beard and skin feeling soft and smelling good. Also,grab their conditioner. I recommend this to anyone with a beard. Notable upgrade from traditional soap or shampoo.\nReview Title: Great stuff for your beard.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mr. Pristine Organic Beard Shampoo with Natural Essential Oils for Moisturizing Skin & Hair, 8.5 oz.\nMr. Pristine\n{'Brand': 'Mr. Pristine', 'Item Form': 'Liquid', 'Hair Type': 'Color Treated', 'Scent': 'Peppermint', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.21 x 2.8 x 2.3 inches; 7.76 Ounces', 'UPC': '627843801832', 'Manufacturer': 'Mr. Pristine'}\nThis is a really nice shampoo specifically designed for your beard. It has a nice minty smell that doesn't over power and leaves your beard and skin feeling soft and smelling good. Also,grab their conditioner. I recommend this to anyone with a beard. Notable upgrade from traditional soap or shampoo.\nGreat stuff for your beard.",
+  "profile": "User Summary:\n\nThis user prioritizes grooming products aimed at enhancing beard care, with a clear preference for organic and natural formulations. They appreciate items with moisturizing properties that promote skin and hair health, indicating an awareness of both personal care and ingredient quality. The user favors products with pleasant, subtle scents, specifically enjoying mint fragrances that offer a refreshing experience without being overpowering. Their review reflects a strong inclination towards recommending high-quality grooming products, showing both satisfaction and a desire to share positive experiences with others. Overall, this user values effective, scented, and skin-friendly grooming solutions.",
+  "metrics": {
+    "rouge1_f": 0.2403846153846154,
+    "rouge2_f": 0.01941747572815534,
+    "rougeL_f": 0.125,
+    "meteor": 0.1303475935828877,
+    "bleu1": 0.1828145580097198,
+    "bleu2": 0.03352997603693227,
+    "bleu3": 0.008869687372023816,
+    "bleu4": 0.0045725224017193426,
+    "bertscore_precision": 0.4051415026187897,
+    "bertscore_recall": 0.4474826455116272,
+    "bertscore_f1": 0.4252607226371765
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/04/18\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: This is a delightful story set in an eventful time in history. I recommend it highly for anyone with a love of history and culture.\nReview Title: Can't stop watching.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nThis is a delightful story set in an eventful time in history. I recommend it highly for anyone with a love of history and culture.\nCan't stop watching.",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Strong inclination towards historical narratives and period dramas, showcasing an appreciation for deep storytelling and cultural context.\n- **Ratings Behavior:** Consistently high ratings; typically fields reviews leaning towards a 4.5 or 5-star standard, indicating satisfaction with quality and entertainment value.\n- **Interest in Content Advisory:** Open to mature themes featuring violence, alcohol use, and mature language, suggesting a mature audience with a broad interest in complex topics.\n- **Language and Accessibility:** Favorable towards English audio and subtitles, indicating importance on comprehension and inclusivity.\n- **Production Quality:** Preference for content with notable directors and producers, hinting at a discerning taste for well-crafted productions.\n- **Engagement Style:** Expresses strong enthusiasm in reviews, often recommending content to others, showcasing an eagerness to share positive experiences.\n- **Overall Trend:** Drawn to rich narratives that deliver both entertainment and cultural reflection, likely seeking out similar content in the future.",
+  "metrics": {
+    "rouge1_f": 0.23255813953488372,
+    "rouge2_f": 0.05633802816901409,
+    "rougeL_f": 0.15813953488372093,
+    "meteor": 0.14023901697174282,
+    "bleu1": 0.15384615384615385,
+    "bleu2": 0.027262027336984355,
+    "bleu3": 0.007118956827265365,
+    "bleu4": 0.003642283983842212,
+    "bertscore_precision": 0.4419931471347809,
+    "bertscore_recall": 0.42549628019332886,
+    "bertscore_f1": 0.43358784914016724
+  }
+}

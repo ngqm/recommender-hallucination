@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Intern\nReview Date: 2016/02/05\nStore: Robert De Niro  (Actor),     Anne Hathaway  (Actor),     Nancy Meyers  (Director, Producer, Writer)    &                   0                  more   Rated:    PG-13    Format: DVD\nCategories: Movies & TV, Genre for Featured Categories, Comedy\nAverage Rating: 4.8\nProduct Details: {'Genre': 'Drama/Love & Romance, Comedy/Romantic Comedies, Comedy', 'Format': 'NTSC, Subtitled', 'Contributor': 'Robert De Niro, Anders Holm, Linda Lavin, Nat Wolff, Nancy Meyers, Adam DeVine, Rene Russo, Zack Pearlman, Anne Hathaway, Scott Rudin, Suzanne Farwell, Andrew Rannells, Celia Costas, Christina Scherer, Jason OrleyRobert De Niro, Anders Holm, Linda Lavin, Nat Wolff, Nancy Meyers, Adam DeVine, Rene Russo, Zack Pearlman, Anne Hathaway, Scott Rudin, Suzanne Farwell, Andrew Rannells, Celia Costas, Christina Scherer, Jason Orley  See more', 'Language': 'English', 'Runtime': '2 hours and 1 minute'}\nReview Text: Cute movie.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "The Intern\nRobert De Niro  (Actor),     Anne Hathaway  (Actor),     Nancy Meyers  (Director, Producer, Writer)    &                   0                  more   Rated:    PG-13    Format: DVD\nMovies & TV, Genre for Featured Categories, Comedy\n{'Genre': 'Drama/Love & Romance, Comedy/Romantic Comedies, Comedy', 'Format': 'NTSC, Subtitled', 'Contributor': 'Robert De Niro, Anders Holm, Linda Lavin, Nat Wolff, Nancy Meyers, Adam DeVine, Rene Russo, Zack Pearlman, Anne Hathaway, Scott Rudin, Suzanne Farwell, Andrew Rannells, Celia Costas, Christina Scherer, Jason OrleyRobert De Niro, Anders Holm, Linda Lavin, Nat Wolff, Nancy Meyers, Adam DeVine, Rene Russo, Zack Pearlman, Anne Hathaway, Scott Rudin, Suzanne Farwell, Andrew Rannells, Celia Costas, Christina Scherer, Jason Orley  See more', 'Language': 'English', 'Runtime': '2 hours and 1 minute'}\nCute movie.\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys Comedy and Romantic Comedies, with a particular interest in films that blend elements of drama and romance.\n- **Actor and Director Favorability:** Favors works featuring prominent actors and skilled directors, especially those with notable industry credentials.\n- **Content Rating:** Prefers family-friendly movies rated PG-13, indicating comfort with a mainstream selection.\n- **Format Preference:** Shows interest in physical media (DVD format) instead of streaming options, suggesting a preference for tangible collections.\n- **Overall Sentiment:** Demonstrates a positive disposition towards enjoyable films, indicating a preference for feel-good narratives and light-hearted viewing experiences.\n- **Engagement Style:** Engages with movies through thoughtful reviews, providing concise insights and a rating system.\n\nThis user profile reflects a commitment to enjoyable, well-crafted cinematic experiences, leaning towards feel-good content infused with humor and emotional depth.",
+  "metrics": {
+    "rouge1_f": 0.1606425702811245,
+    "rouge2_f": 0.0242914979757085,
+    "rougeL_f": 0.08835341365461846,
+    "meteor": 0.09547190398254227,
+    "bleu1": 0.15053763440860216,
+    "bleu2": 0.028525724228303146,
+    "bleu3": 0.007618775535514419,
+    "bleu4": 0.003942766986716143,
+    "bertscore_precision": 0.3608945310115814,
+    "bertscore_recall": 0.3992379307746887,
+    "bertscore_f1": 0.37909916043281555
+  }
+}

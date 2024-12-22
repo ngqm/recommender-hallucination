@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Color Shooting Star Effect Glitter Nail Polish Lacquer\nReview Date: 2016/01/22\nAverage Rating: 3.9\nProduct Details: {'Item Form': 'Liquid', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.91 x 2.28 x 0.59 inches; 1.59 Ounces', 'UPC': '802851281511'}\nReview Text: Like the color. Sturdy product\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Color Shooting Star Effect Glitter Nail Polish Lacquer\n{'Item Form': 'Liquid', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.91 x 2.28 x 0.59 inches; 1.59 Ounces', 'UPC': '802851281511'}\nLike the color. Sturdy product\nFive Stars",
+  "profile": "The user displays a preference for vibrant, shimmery nail products, indicating an interest in cosmetics that offer a distinct visual appeal, particularly with sparkling or glittery effects. The positive review rating suggests a satisfaction with both the color and quality of the item, highlighting a desire for durable and sturdy beauty products. The specific focus on color and finish indicates an inclination towards aesthetically pleasing options, emphasizing personal style and self-expression through nail art. Overall, the user appreciates high-quality nail products that enhance their appearance while exhibiting a liking for standout visual effects.",
+  "metrics": {
+    "rouge1_f": 0.16107382550335572,
+    "rouge2_f": 0.013605442176870748,
+    "rougeL_f": 0.08053691275167786,
+    "meteor": 0.104052573932092,
+    "bleu1": 0.09708737864077671,
+    "bleu2": 0.030851856435193836,
+    "bleu3": 0.009804235696201168,
+    "bleu4": 0.005540644776561413,
+    "bertscore_precision": 0.3707660436630249,
+    "bertscore_recall": 0.3800210654735565,
+    "bertscore_f1": 0.37533649802207947
+  }
+}

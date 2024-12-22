@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/03/19\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Genndy Tartakovsky'], 'Producers': ['Michelle Murdocca'], 'Starring': ['Adam Sandler', 'Andy Samberg', 'Selena Gomez'], 'Studio': ['Columbia Pictures']}\nReview Text: My grandchildren love this movie. Happy endings are always perfect ! And even a grandparent can enjoy the fun loving characters.\nReview Title: Perfect for the sleepover with grandkids\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['Bradley Cooper', 'George Parra', 'Harvey Weinstein', 'Bob Weinstein', 'Bruce Cohen', 'Jonathan Gordon', 'Donna Gigliotti', 'Mark Kamine'], 'Starring': ['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro'], 'Studio': ['Weinstein Company LLC', 'The']}\nVery real and honest interpretation of mental illness. Actors were fantastic.Kudos to the cast and writers .Academy award material for sure .\nGreat movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Genndy Tartakovsky'], 'Producers': ['Michelle Murdocca'], 'Starring': ['Adam Sandler', 'Andy Samberg', 'Selena Gomez'], 'Studio': ['Columbia Pictures']}\nMy grandchildren love this movie. Happy endings are always perfect ! And even a grandparent can enjoy the fun loving characters.\nPerfect for the sleepover with grandkids",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user appreciates films that explore deep and complex themes, particularly those related to mental health and personal struggles. However, they also enjoy family-friendly content that appeals to a wider audience, especially when it features happy endings and fun characters.\n- **Rating Tendencies:** The user tends to rate content positively, maintaining a high average rating of 4.7. \n- **Actor Preferences:** Shows a preference for renowned actors, favoring familiar names like Bradley Cooper and Jennifer Lawrence, yet also enjoys performances from more diverse casts, including comedic actors like Adam Sandler.\n- **Production Quality:** Values high production standards and the involvement of prominent filmmakers, associating such elements with quality content, regardless of genre.\n- **Review Characteristics:** Provides thoughtful and detailed reviews, highlighting performances and writing, demonstrating a discerning taste in cinema while also appreciating lighthearted and entertaining narratives suitable for family viewing.\n- **Content Advisory:** Generally interested in content with mature themes, but also embracing films that are accessible and enjoyable for all ages, indicating versatility in their viewing preferences.\n\nOverall, the user gravitates towards critically acclaimed films that provide an honest exploration of serious issues, alongside a willingness to enjoy lighter, family-oriented fare that can engage younger audiences and foster shared enjoyment with grandchildren.",
+  "metrics": {
+    "rouge1_f": 0.20606060606060606,
+    "rouge2_f": 0.030487804878048787,
+    "rougeL_f": 0.09696969696969696,
+    "meteor": 0.12479742106394998,
+    "bleu1": 0.1865671641791045,
+    "bleu2": 0.026433944539016065,
+    "bleu3": 0.006404434240683331,
+    "bleu4": 0.0031553614083724437,
+    "bertscore_precision": 0.4311656951904297,
+    "bertscore_recall": 0.42869833111763,
+    "bertscore_f1": 0.4299284815788269
+  }
+}

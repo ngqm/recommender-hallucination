@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/03/12\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Alan Poul', 'Greg Mottola', 'Anthony Hemingway', 'Lesli Linka Glatter', 'Jeremy Podeswa', 'Alex Graves', 'Joshua Marston', 'Daniel Minahan', 'Jason Ensler', 'Julian Farino'], 'Studio': ['HBO']}\nReview Text: Great show, great story, and great cast!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Ron White', 'John MacDonald'], 'Producers': ['Ron White', 'John MacDonald'], 'Starring': ['Ron White'], 'Studio': ['Image Entertainment']}\nGreat show, funny, very entertaining. Ron White is one of my favorites! Great to be able to watch on my iPad\nRon White is awesome\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alan Poul', 'Greg Mottola', 'Anthony Hemingway', 'Lesli Linka Glatter', 'Jeremy Podeswa', 'Alex Graves', 'Joshua Marston', 'Daniel Minahan', 'Jason Ensler', 'Julian Farino'], 'Starring': ['Jeff Daniels', 'Emily Mortimer', 'Sam Waterston'], 'Studio': ['HBO']}\nGreat show! 5 STARS****\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Alan Poul', 'Greg Mottola', 'Anthony Hemingway', 'Lesli Linka Glatter', 'Jeremy Podeswa', 'Alex Graves', 'Joshua Marston', 'Daniel Minahan', 'Jason Ensler', 'Julian Farino'], 'Studio': ['HBO']}\nGreat show, great story, and great cast!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Favorite Genre:** Comedy\n- **Preferred Comedian:** Ron White\n- **Content Format:** Enjoys watching shows on mobile devices (iPad)\n- **Engagement:** Engages with content that has high entertainment value\n- **Rating Trends:** Strong positive rating pattern (average rating of 4.8), recently awarded a 5-star rating for a new show\n- **Content Appreciation:** Values humor, performance quality, and engaging storylines; has shown interest in well-crafted narratives with strong casts\n- **Review Behavior:** Provides thoughtful feedback expressing enjoyment; recent review praised a show for its great story and cast, reflecting a consistent appreciation for quality entertainment\n- **Content Accessibility:** Favors shows without language barriers (prefers content with minimal subtitles)\n\nThe user's ongoing admiration for comedic performances, particularly in relation to Ron White, remains evident. Their recent purchase highlights a discernment for well-made shows with impactful storytelling, aligning with their established preference for humor and engaging performances. With a consistently high average rating, this user continues to demonstrate a strong inclination for accessible content that provides a mix of entertainment and quality.",
+  "metrics": {
+    "rouge1_f": 0.17956656346749225,
+    "rouge2_f": 0.03115264797507788,
+    "rougeL_f": 0.08668730650154799,
+    "meteor": 0.08761803118976372,
+    "bleu1": 0.11161690112535036,
+    "bleu2": 0.04679152036766105,
+    "bleu3": 0.008509321297682046,
+    "bleu4": 0.0036326353610772106,
+    "bertscore_precision": 0.3752007782459259,
+    "bertscore_recall": 0.38873326778411865,
+    "bertscore_f1": 0.38184717297554016
+  }
+}

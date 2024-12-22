@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Modern Family\nReview Date: 2015/10/08\nCategories: Comedy\nProduct Description: ['A recipient of the 2010 Emmy Award for Outstanding Comedy Series and a Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series, Modern Family returns to ABC for its third season!']\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker']}\nReview Text: Love this show!!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker'], 'Studio': ['ABC']}\nReally great show and so easy to buy on prime!!\nFive Stars\nModern Family\nComedy\n['A recipient of the 2010 Emmy Award for Outstanding Comedy Series and a Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series, Modern Family returns to ABC for its third season!']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker']}\nLove this show!!!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Maintains a strong inclination towards highly positive ratings, evidenced by an average rating of 4.9 with consistently perfect 5-star reviews.\n- **Content Consumption:** Prefers English audio and subtitles, demonstrating a commitment to accessible viewing options.\n- **Genre and Themes:** Enjoys comedic series with solid production quality from diverse directors; this indicates a deep appreciation for storytelling and high-caliber direction.\n- **Platform Preference:** Continues to favor online purchasing and streaming, particularly enjoying platforms that offer convenience, such as Prime.\n- **Engagement Style:** Displays enthusiastic engagement with content, emphasizing positivity in reviews and values user-friendly experiences during media consumption.\n- **Social Aspect:** Appears to appreciate shows that enhance social interactions and cultural dialogues, shown by their enjoyment of various series.\n\nRecent interactions reinforce these preferences, highlighting a strong affinity for well-directed comedy series that resonate with quality storytelling and engaging ensemble casts. The user\u2019s reviews reflect their discernment in media choices, prioritizing both the accessibility and enjoyment of content.",
+  "metrics": {
+    "rouge1_f": 0.18505338078291814,
+    "rouge2_f": 0.014336917562724014,
+    "rougeL_f": 0.09252669039145907,
+    "meteor": 0.09669599516151832,
+    "bleu1": 0.1336405529953917,
+    "bleu2": 0.024873806782789675,
+    "bleu3": 0.006602098776107583,
+    "bleu4": 0.0034053211042110016,
+    "bertscore_precision": 0.36724716424942017,
+    "bertscore_recall": 0.36908087134361267,
+    "bertscore_f1": 0.36816173791885376
+  }
+}

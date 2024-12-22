@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/10\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kevin Reynolds'], 'Producers': ['John Watson', 'Pen Densham'], 'Starring': ['Christian Slater', 'Mary Elizabeth Mastrantonio', 'Morgan Freeman'], 'Studio': ['Warner Bros.']}\nReview Text: Throwback from when my boys were younger!  Love this movie!\nReview Title: Oldie but goodie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Mulcahy', 'Tim Andrew', 'Jennifer Lynch', 'Toby Wilkins', 'Christian Taylor', 'Robert Hall', 'James J.D. Taylor', 'David Daniel', 'Katie Eastridge', 'Joseph P. Genier'], 'Starring': ['Tyler Posey', 'Crystal Reed', \"Dylan O'Brien\"], 'Studio': ['MTV']}\nLove this series!\nA lot of fun to watch!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jesse Peretz'], 'Producers': ['Anthony Bregman', 'Anne Carey'], 'Starring': ['Jason Bateman', 'Amanda Peet', 'Zach Braff'], 'Studio': ['Lionsgate']}\nLove Justin Bateman!!  Haha\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kevin Reynolds'], 'Producers': ['John Watson', 'Pen Densham'], 'Starring': ['Christian Slater', 'Mary Elizabeth Mastrantonio', 'Morgan Freeman'], 'Studio': ['Warner Bros.']}\nThrowback from when my boys were younger!  Love this movie!\nOldie but goodie",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Consistently high ratings, averaging around 4.8 to 5.0, with flexibility demonstrated by a recent 3.0 review, suggesting a discerning taste that prioritizes personal enjoyment alongside production quality.\n- **Content Interest:** Enjoys nostalgic content along with series featuring intense themes, including violence and frightening elements, and is comfortable with mature content.\n- **Genres:** Strong preference for horror, thriller, and drama genres, indicating a continued fascination with narratives that explore darker themes and complex emotional landscapes.\n- **Engagement Style:** Enthusiastic reviewer with a playful tone, showcasing a sense of humor in reviews and expressing deep enjoyment of content. The recent interaction highlighted a fondness for classic films that evoke personal memories.\n- **Linguistic Accessibility:** Values content available in English and prefers audio descriptions and closed captions for enhanced engagement.\n- **Key Elements:** Appreciates character-driven storytelling and strong performances, with notable admiration for specific actors, indicating that star power influences viewing choices.\n- **Viewing Context:** Prioritizes high entertainment quality and multi-dimensional narratives that offer immersive storytelling experiences, including nostalgic favorites that resonate with personal history.\n\nOverall, this user demonstrates a strong affinity for engaging, mature-themed television series and classic films, maintaining a humorous and flexible approach to ratings based on personal connections and preferences.",
+  "metrics": {
+    "rouge1_f": 0.07807807807807808,
+    "rouge2_f": 0.006042296072507553,
+    "rougeL_f": 0.07207207207207209,
+    "meteor": 0.07166450322268864,
+    "bleu1": 0.09790881216422741,
+    "bleu2": 0.005760080127213743,
+    "bleu3": 0.0022430378452932076,
+    "bleu4": 0.0014010270569447749,
+    "bertscore_precision": 0.37683141231536865,
+    "bertscore_recall": 0.3695744574069977,
+    "bertscore_f1": 0.37316766381263733
+  }
+}

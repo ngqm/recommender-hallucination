@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Avon Foot Work Action Pedi - Peel 22 Pads\nReview Date: 2017/09/12\nStore: Avon Footworks\nProduct Description: ['Brand New 22 pads']\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Avon Footworks', 'Unit Count': '22.0 Count', 'Number of Items': '22', 'Arch Type': 'Low Arch', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.7 x 2.7 x 1.5 inches; 3.2 Ounces', 'UPC': '094000723045', 'Manufacturer': 'avon'}\nReview Text: I keep it on my bed tray to slough my lips and hands daily. It makes my moisturizer penetrate deeper and I get better results.\nReview Title: not just for feet\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ApHogee Two-Step Protein Treatment 1oz & Balancing Moisturizer 0.75oz Packet\"Pack of 2\"\nAphogee\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.39 x 3.19 x 0.83 inches; 3.84 Ounces', 'UPC': '638302438452'}\nthe best product I've ever used for severely damaged hair (I've used over 50 products).\nyou can't go wrong\nAvon Foot Work Action Pedi - Peel 22 Pads\nAvon Footworks\n['Brand New 22 pads']\n{'Brand': 'Avon Footworks', 'Unit Count': '22.0 Count', 'Number of Items': '22', 'Arch Type': 'Low Arch', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.7 x 2.7 x 1.5 inches; 3.2 Ounces', 'UPC': '094000723045', 'Manufacturer': 'avon'}\nI keep it on my bed tray to slough my lips and hands daily. It makes my moisturizer penetrate deeper and I get better results.\nnot just for feet",
+  "profile": "**User Summary:**\n\n- **Focus on Hair Care:** User prioritizes solutions for severely damaged hair, reflecting a strong commitment to hair health and repair.\n- **Product Variety:** Has experience with a wide range of personal care products, indicating a willingness to experiment and find effective solutions tailored to their needs.\n- **High Standards:** Rates products highly, demonstrating a preference for quality and effectiveness in all beauty and care items.\n- **Positive Experiences:** Shows satisfaction with past purchases, emphasizing a trend towards products that deliver tangible results across categories.\n- **Preference for Specialized Treatments:** Likely seeks targeted treatments over general products for hair, showcasing a detailed understanding of their specific needs.\n- **Expanded Interests:** Recently expressed interest in foot care products, suggesting a broader approach to personal care beyond just hair. Their review highlights an innovative use for a foot treatment product, illustrating their resourcefulness and focus on enhancing overall skin health.\n- **Emphasis on Multi-Functionality:** Values products that offer multiple benefits, indicating a discerning consumer mentality that seeks efficient and effective solutions in personal care.\n\nThis behavior aligns with a sophisticated consumer profile that prioritizes quality across various aspects of personal wellness and beauty.",
+  "metrics": {
+    "rouge1_f": 0.12232415902140673,
+    "rouge2_f": 0.024615384615384615,
+    "rougeL_f": 0.07339449541284404,
+    "meteor": 0.12426423361728722,
+    "bleu1": 0.144,
+    "bleu2": 0.04165260807003738,
+    "bleu3": 0.024096515091932075,
+    "bleu4": 0.015427353831456997,
+    "bertscore_precision": 0.3776811957359314,
+    "bertscore_recall": 0.4066216051578522,
+    "bertscore_f1": 0.39161744713783264
+  }
+}

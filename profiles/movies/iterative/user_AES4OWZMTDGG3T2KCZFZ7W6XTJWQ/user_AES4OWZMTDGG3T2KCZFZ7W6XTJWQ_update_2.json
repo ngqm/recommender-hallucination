@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/01/24\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paris Barclay', 'Guy Ferland', 'Gwyneth Horder-Payton', 'Peter Weller', 'Billy Gierhart', 'Kurt Sutter', 'Stephen Kay', 'Adam Arkin', \"Terrence O'Hara\", 'Paul Maibaum'], 'Starring': ['Charlie Hunnam', 'Katey Sagal', 'Katey Sagal'], 'Studio': ['FX']}\nReview Text: Sad it's gone\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Stoller'], 'Producers': ['Seth Rogen', 'Evan Goldberg', 'James Weaver', 'Nathan Kahane', 'Joseph Drake', 'Brian Bell', 'Andrew Jay Cohen', \"Brendan O'Brien\"], 'Starring': ['Seth Rogen', 'Zac Efron', 'Rose Byrne'], 'Studio': ['NBC Universal']}\nOk\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paris Barclay', 'Guy Ferland', 'Gwyneth Horder-Payton', 'Peter Weller', 'Billy Gierhart', 'Kurt Sutter', 'Stephen Kay', 'Adam Arkin', \"Terrence O'Hara\", 'Paul Maibaum'], 'Starring': ['Charlie Hunnam', 'Katey Sagal', 'Katey Sagal'], 'Studio': ['FX']}\nSad it's gone\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** The user maintains a high average rating, now reflecting a shift towards even more positive ratings with an average now at 4.8, indicating a consistent enjoyment of products.\n- **Content Consumption:** Continues to prefer English-language content, both in audio and subtitles, demonstrating a strong affinity for English media.\n- **Genre Inclination:** While primarily engaged with comedic or light-hearted genres, the recent interaction suggests a broader appreciation for dramatic narratives, especially those incorporating themes of violence and complex storylines.\n- **Favorite Actors/Directors:** The user still favors well-known figures in comedy but appears open to works featuring dramatic actors and directors, suggesting versatility in their viewing preferences.\n- **Studio Affinity:** Remains inclined towards productions from major studios, now also including notable TV networks, indicating appreciation for both high-quality comedic and dramatic content.\n- **Interaction Style:** The feedback remains straightforward and concise, suggesting a practical approach to reviews. Recent feedback indicates satisfaction with content, hinting at emotional connections to certain themes or characters.\n\nThis updated profile reflects a user who appreciates quality content across comedic and dramatic genres, emphasizing accessibility and engagement in primarily English.",
+  "metrics": {
+    "rouge1_f": 0.08571428571428573,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05,
+    "meteor": 0.0434583714547118,
+    "bleu1": 0.07851239669421486,
+    "bleu2": 0.005707692875795309,
+    "bleu3": 0.0023854481630227035,
+    "bleu4": 0.0015437537033122627,
+    "bertscore_precision": 0.3661649227142334,
+    "bertscore_recall": 0.34392449259757996,
+    "bertscore_f1": 0.3546963930130005
+  }
+}

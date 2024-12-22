@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/05/09\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rosemary Rodriguez', 'Michael Zinberg', 'Brooke Kennedy', 'James Whitmore Jr.', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Jim McKay', 'Frederick E.O. Toye', 'Robert King', 'Matt Shakman', 'Nelson McCormick']}\nReview Text: My new favorite show.  Each show has a plot and builds off the previous episode, although if you miss one you can pick up pretty quick.\nReview Title: My new favorite show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rosemary Rodriguez', 'Michael Zinberg', 'Brooke Kennedy', 'James Whitmore Jr.', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Jim McKay', 'Frederick E.O. Toye', 'Robert King', 'Matt Shakman', 'Nelson McCormick']}\nMy new favorite show.  Each show has a plot and builds off the previous episode, although if you miss one you can pick up pretty quick.\nMy new favorite show",
+  "profile": "**User Profile Summary:**\n\n- **Engagement with Serialized Narratives:** The user enjoys shows with strong, cohesive plots that build upon previous episodes, indicating a preference for continuity and character development.\n  \n- **Content Themes:** The user is receptive to mature themes, including violence, substance use, and sexual content, suggesting an openness to complex, sometimes gritty storytelling.\n\n- **High Rating Standards:** The user rates content favorably, with an average rating of 4.7, indicating a discerning taste for quality in entertainment.\n\n- **Accessibility Features:** The preference for English audio and subtitles demonstrates a focus on accessibility when consuming content.\n\n- **Positive Reception:** The user's excitement is reflected in their review titled \"My new favorite show,\" highlighting a tendency to passionately engage with content they enjoy. \n\nOverall, the user favors engaging, mature narratives with strong plots and characters, prioritizes content quality, and appreciates accessibility in their viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.19626168224299062,
+    "rouge2_f": 0.07547169811320756,
+    "rougeL_f": 0.14018691588785048,
+    "meteor": 0.16943922969781386,
+    "bleu1": 0.15816326530612246,
+    "bleu2": 0.04932829821420536,
+    "bleu3": 0.029273423148015884,
+    "bleu4": 0.018987413380132587,
+    "bertscore_precision": 0.4299973249435425,
+    "bertscore_recall": 0.4120686650276184,
+    "bertscore_f1": 0.42084214091300964
+  }
+}

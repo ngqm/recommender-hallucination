@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nReview Date: 2020/08/06\nStore: Natwag\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nReview Text: Natwag Makeup Remover Pads are great for the whole family. Not just for make up. These pads are so soft everybody wants to use them to wash their faces. I love that it comes with 18 pads! Then we use the convenient laundry bag and wash them with a load of laundry. The ones I did use to wash my make up off had black from the mascara but after washing them they were clean again. They also have a little loop that allows you to hang them up in the shower. The only downfall for me was they are a little small, but over all the whole family loves these.\nReview Title: Everybody in the family uses one\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nNatwag\n{'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nNatwag Makeup Remover Pads are great for the whole family. Not just for make up. These pads are so soft everybody wants to use them to wash their faces. I love that it comes with 18 pads! Then we use the convenient laundry bag and wash them with a load of laundry. The ones I did use to wash my make up off had black from the mascara but after washing them they were clean again. They also have a little loop that allows you to hang them up in the shower. The only downfall for me was they are a little small, but over all the whole family loves these.\nEverybody in the family uses one",
+  "profile": "**User Profile Summary**\n\n- **Family-Oriented**: Prefers products that can be used by the whole family, indicating a focus on practicality and shared usage.\n  \n- **Softness and Comfort**: Values softness in products, suggesting a preference for gentle materials that are easy on the skin. \n\n- **Reusability and Sustainability**: Shows a strong inclination towards reusable products, indicating an eco-conscious mindset and a desire to reduce waste.\n\n- **Storage and Convenience**: Appreciates convenient features like laundry bags for easy care, highlighting a preference for products that simplify maintenance.\n\n- **Versatility**: Chooses items that serve multiple functions, such as removing makeup and general face washing, reflecting a need for versatile solutions.\n\n- **Size Considerations**: Sensitive to product size, with some concerns mentioned about smaller dimensions, suggesting a preference for functionality and usability in dimension. \n\nOverall, the user demonstrates a preference for practical, family-friendly, and sustainable products that offer softness, versatility, and ease of maintenance.",
+  "metrics": {
+    "rouge1_f": 0.24464831804281345,
+    "rouge2_f": 0.01846153846153846,
+    "rougeL_f": 0.11009174311926606,
+    "meteor": 0.14788732394366194,
+    "bleu1": 0.2147032997280025,
+    "bleu2": 0.044878865089182624,
+    "bleu3": 0.021174563789360685,
+    "bleu4": 0.008189164660156,
+    "bertscore_precision": 0.39453139901161194,
+    "bertscore_recall": 0.4155745506286621,
+    "bertscore_f1": 0.40477967262268066
+  }
+}

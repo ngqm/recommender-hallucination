@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 8inch Short Afro Puff Synthetic Hair Bun Chignon Hairpiece For Women Drawstring Ponytail Kinky Curly Updo Clip Hair Extensions(1B#)\nReview Date: 2020/10/02\nStore: BURHAIR\nAverage Rating: 2.9\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Curly, Coily', 'Brand': 'BURHAIR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.8 x 5.8 x 1.5 inches; 2.4 Ounces', 'UPC': '782947259689'}\nReview Text: I loved this synthetic Afro puff for a number of resins , like color, puff factor, the drawstring, the fullness of the puff. The clips inside and drawstring helps the ponytail stay. It looked so realistic. The price was very low for such a good product.\nReview Title: 8inch Afro puff\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nBj\u00f6rn Hall\n{'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nLove that the bjorn hall band came in black. It\u2019s versatile to match my work uniforms . Made of very high quality material. The only thing I wasn\u2019t crazy about was my buttons not seeming symmetrical. Other than that this head band will last a very long time.5 stars for me.\nBjorn hall headband\n8inch Short Afro Puff Synthetic Hair Bun Chignon Hairpiece For Women Drawstring Ponytail Kinky Curly Updo Clip Hair Extensions(1B#)\nBURHAIR\n{'Material': 'Synthetic', 'Hair Type': 'Curly, Coily', 'Brand': 'BURHAIR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.8 x 5.8 x 1.5 inches; 2.4 Ounces', 'UPC': '782947259689'}\nI loved this synthetic Afro puff for a number of resins , like color, puff factor, the drawstring, the fullness of the puff. The clips inside and drawstring helps the ponytail stay. It looked so realistic. The price was very low for such a good product.\n8inch Afro puff",
+  "profile": "**User Profile Summary:**\n\n- **Profession**: Likely in the medical field (indicated by the use of a nurse headband).\n- **Color Preference**: Prefers versatile colors that can match work uniforms, with a specific interest in black.\n- **Material Quality**: Values high-quality materials, particularly those that are smooth, stretchy, and durable. \n- **Functionality**: Appreciates practical features such as buttons on headbands for comfort during extended wear, indicating a focus on usability.\n- **Attention to Detail**: Notices design elements like symmetry, which suggests a preference for well-finished and aesthetically pleasing products.\n- **Overall Satisfaction**: Generally a positive reviewer, with a tendency to give high ratings based on quality and usability, although experiences can vary.\n\n**Recent Interaction**: The user has recently expressed strong satisfaction with a synthetic hair product, noting its realistic appearance, ease of use due to practical features like clips and a drawstring, and an excellent price-to-quality ratio. This indicates an openness to diverse products that mix practicality with aesthetics while still being budget-conscious.\n\nOverall, the user exhibits a clear preference for practical, high-quality items that blend functionality with style in their professional environment, and they appreciate both versatility in color and thoughtful design features.",
+  "metrics": {
+    "rouge1_f": 0.2365038560411311,
+    "rouge2_f": 0.03617571059431525,
+    "rougeL_f": 0.11311053984575835,
+    "meteor": 0.16921224381046604,
+    "bleu1": 0.2596899224806202,
+    "bleu2": 0.07107976591260731,
+    "bleu3": 0.027024064625980216,
+    "bleu4": 0.009379462642772065,
+    "bertscore_precision": 0.4218442738056183,
+    "bertscore_recall": 0.446362167596817,
+    "bertscore_f1": 0.4337570071220398
+  }
+}

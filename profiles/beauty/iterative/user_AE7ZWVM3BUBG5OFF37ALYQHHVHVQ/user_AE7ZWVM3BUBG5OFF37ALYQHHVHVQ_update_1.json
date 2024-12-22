@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Precious LUXURY CAVIAR GEL CREAM-sheer and weightless,rich with precious caviar extract,full of vitamins and minerals.Smooth skin.Light texture,quickly absorbed. 1.7fl.oz(50Ml)\nReview Date: 2016/10/05\nAverage Rating: 4.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.56 x 2.56 x 2.24 inches; 4.8 Ounces'}\nReview Text: I really want to give this product 5 stars, but the heavy perfumey smell is what downgrades it to a 4 star review.<br /><br />Other than that, this product is GREAT for the face.  It is chock full of great ingredients of the skin, and looks like a super high end spa face cream.  I love that it has caviar extract in it, which makes it not run-of-the-mill.  It absorbs so quicky into the skin and leaves my face feeling soft and supple for days afterward.<br /><br />If only it didn't have such a strong perfume smell, then I'd wear it more often.  If you are sensitive or allergic to perfumed creams, then I would skip this.  The smell lingers heavily all day.\nReview Title: Nice facial cream, but heavy on the perfumes.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Precious LUXURY CAVIAR GEL CREAM-sheer and weightless,rich with precious caviar extract,full of vitamins and minerals.Smooth skin.Light texture,quickly absorbed. 1.7fl.oz(50Ml)\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.56 x 2.56 x 2.24 inches; 4.8 Ounces'}\nI really want to give this product 5 stars, but the heavy perfumey smell is what downgrades it to a 4 star review.<br /><br />Other than that, this product is GREAT for the face.  It is chock full of great ingredients of the skin, and looks like a super high end spa face cream.  I love that it has caviar extract in it, which makes it not run-of-the-mill.  It absorbs so quicky into the skin and leaves my face feeling soft and supple for days afterward.<br /><br />If only it didn't have such a strong perfume smell, then I'd wear it more often.  If you are sensitive or allergic to perfumed creams, then I would skip this.  The smell lingers heavily all day.\nNice facial cream, but heavy on the perfumes.",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Enthusiast:** Shows a strong interest in high-quality skincare products, particularly those containing unique and beneficial ingredients like caviar extract.\n- **Texture Preference:** Prefers lightweight, easily absorbed formulations that leave skin feeling soft and supple without heaviness.\n- **Sensitivity to Fragrance:** Sensitive to strong fragrances in skincare products, indicating a preference for options with minimal or pleasant scents. Heavy perfume notes can detract from overall satisfaction with the product.\n- **Quality over Quantity:** Values high-end, spa-like formulations and is willing to pay for premium ingredients that enhance skin health.\n- **Critical Evaluator:** Takes care in reviewing products, providing detailed feedback based on personal experience, which suggests a thoughtful and discerning approach to purchases.\n\nOverall, this user appreciates luxury skincare that combines effective ingredients with a lightweight feel but places significant importance on the sensory experience, particularly regarding fragrance.",
+  "metrics": {
+    "rouge1_f": 0.3015384615384615,
+    "rouge2_f": 0.04953560371517028,
+    "rougeL_f": 0.1353846153846154,
+    "meteor": 0.17502840787896887,
+    "bleu1": 0.247287219930712,
+    "bleu2": 0.09543641497128504,
+    "bleu3": 0.043850916356743125,
+    "bleu4": 0.025028909554808017,
+    "bertscore_precision": 0.44895848631858826,
+    "bertscore_recall": 0.48483845591545105,
+    "bertscore_f1": 0.46620914340019226
+  }
+}

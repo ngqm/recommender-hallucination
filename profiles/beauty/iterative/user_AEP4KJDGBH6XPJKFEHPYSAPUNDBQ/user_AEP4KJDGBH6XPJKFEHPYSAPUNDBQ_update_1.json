@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 6 Pack Wig Caps, Neutral Nude Beige and Black, Nylon and Mesh\nReview Date: 2016/12/13\nStore: BTOOP\nAverage Rating: 3.9\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Straight', 'Brand': 'BTOOP', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.98 x 4.02 x 2.01 inches; 1.59 Ounces', 'UPC': '711420853809'}\nReview Text: These are so helpful to wear underneath my wig.  It keeps all my natural hair flat and tucked under the cap so that I don't get those little strays that poke out the sides or out the bottom.<br />These are just a great solution for that issue and these are the best I have ever used.<br />Great price and well made.  What more could you ask?\nReview Title: It will take you a long time to wear these out and I don't ever want to be without them.  Highly recommended\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "6 Pack Wig Caps, Neutral Nude Beige and Black, Nylon and Mesh\nBTOOP\n{'Material': 'Synthetic', 'Hair Type': 'Straight', 'Brand': 'BTOOP', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.98 x 4.02 x 2.01 inches; 1.59 Ounces', 'UPC': '711420853809'}\nThese are so helpful to wear underneath my wig.  It keeps all my natural hair flat and tucked under the cap so that I don't get those little strays that poke out the sides or out the bottom.<br />These are just a great solution for that issue and these are the best I have ever used.<br />Great price and well made.  What more could you ask?\nIt will take you a long time to wear these out and I don't ever want to be without them.  Highly recommended",
+  "profile": "**User Summary:**\n\n- **Preferred Product Types**: Wig accessories, specifically wig caps.\n- **Material Preference**: Favors synthetic materials for functionality and comfort.\n- **Quality and Durability**: Values well-made products that offer long-lasting use.\n- **Functionality**: Prioritizes solutions that enhance personal grooming, notably keeping natural hair flat and secure under wigs.\n- **Price Sensitivity**: Appreciates good pricing without compromising on quality.\n- **User Experience**: Seeks products that effectively address specific issues related to wig wear, indicating a practical approach to purchases.\n- **Overall Satisfaction**: Shows a strong likelihood of recommending products that meet or exceed expectations.\n\nThis user demonstrates a consistent trend towards finding practical, durable, and cost-effective solutions in the realm of wig care and maintenance.",
+  "metrics": {
+    "rouge1_f": 0.2962962962962963,
+    "rouge2_f": 0.041493775933609964,
+    "rougeL_f": 0.13991769547325103,
+    "meteor": 0.1591281001249918,
+    "bleu1": 0.21893104807547453,
+    "bleu2": 0.0625264147074194,
+    "bleu3": 0.03604302986076127,
+    "bleu4": 0.023046167346525905,
+    "bertscore_precision": 0.43654000759124756,
+    "bertscore_recall": 0.4721396565437317,
+    "bertscore_f1": 0.45364248752593994
+  }
+}

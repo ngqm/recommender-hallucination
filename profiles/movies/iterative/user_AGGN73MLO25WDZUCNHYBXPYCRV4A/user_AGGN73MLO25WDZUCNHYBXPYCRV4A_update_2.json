@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/06\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J Blakeson'], 'Producers': ['Tobey Maguire'], 'Starring': ['Chlo\u00eb Grace Moretz', 'Nick Robinson', 'Ron Livingston'], 'Studio': ['Columbia Pictures']}\nReview Text: Just terrible....and cheesy.\nReview Title: Don't waste your time.  Watch Cspan or an infomercial instead.\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Keanu\nComedy, Action, Intense, Fun\n['Cousins hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.']\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Atencio'], 'Producers': ['Keegan-Michael Key', 'Jordan Peele', 'Peter Principato', 'Paul Young', 'Joel Zadak'], 'Starring': ['Jordan Peele', 'Keegan-Michael Key', 'Tiffany Haddish']}\nit had a few funny scenes but I could only suffer through 30-40mins till I got bored and started washing clothes instead.  I like the main actors.  I would like to see them in a better movie.\nKinda funny but lost interest less than half way through....\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J Blakeson'], 'Producers': ['Tobey Maguire'], 'Starring': ['Chlo\u00eb Grace Moretz', 'Nick Robinson', 'Ron Livingston'], 'Studio': ['Columbia Pictures']}\nJust terrible....and cheesy.\nDon't waste your time.  Watch Cspan or an infomercial instead.",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** The user favors comedy and action genres, enjoying films that successfully blend humor with dynamic storytelling.\n\n- **Engagement Level:** Demonstrates a low engagement level, commonly losing interest within the first 30-40 minutes of viewing. This indicates a selective watching habit, prioritizing strong narratives and pacing.\n\n- **Actor Appreciation:** The user values performances by specific actors, influencing their movie choices. They are keen on discovering superior roles for their favorite actors, reflecting a high standard for talent and performance.\n\n- **Review Disposition:** Maintains a critical yet constructive stance in reviews, expressing both admiration and disappointment. Their discerning taste suggests high expectations for content quality.\n\n- **Tolerance for Content:** Exhibits limited tolerance for elements like violence, nudity, and explicit language, which heavily influences their viewing decisions. Recent feedback indicates a strong aversion to films that employ cheesy storytelling or poorly executed content.\n\n- **Overall Trend:** The user actively seeks compelling narratives and high-quality performances but can easily disengage when content does not meet their expectations. Their recent negative review highlights a firm stance against films that fail to deliver on both story and execution, suggesting a need for greater narrative integrity in their viewing selections.",
+  "metrics": {
+    "rouge1_f": 0.16806722689075632,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08403361344537816,
+    "meteor": 0.09707084468664849,
+    "bleu1": 0.1522972284842692,
+    "bleu2": 0.00711491444162998,
+    "bleu3": 0.0025658754376136424,
+    "bleu4": 0.001542411369736654,
+    "bertscore_precision": 0.37239301204681396,
+    "bertscore_recall": 0.4162178933620453,
+    "bertscore_f1": 0.3930877149105072
+  }
+}

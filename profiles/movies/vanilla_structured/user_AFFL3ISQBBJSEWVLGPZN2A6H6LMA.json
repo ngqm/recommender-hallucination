@@ -1,0 +1,65 @@
+{
+  "user_id": "AFFL3ISQBBJSEWVLGPZN2A6H6LMA",
+  "summary": "=== Purchase Information ===\nReview Date: 2013/05/04\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Robert Tronson', 'David Tucker'], 'Producers': ['Colin Rogers'], 'Starring': ['Richard Wilson', 'Jan Francis', 'Michael Siberry']}\nReview Text: This very smart British series is equally approachable.  While it reminds me a bit of the Lovejoy series, it has a distinct charm.\nReview Title: Need more seasons!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2013/05/30\nAverage Rating: 3.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Arthur Lubin'], 'Producers': ['Charles R. Rogers', 'Joseph S. Tushinsky'], 'Starring': ['Ralph Bellamy', 'Constance Moore', 'Jane Powell'], 'Studio': ['Reel Enterprises']}\nReview Text: Jane Powell is an American treasure!  I think she must be all of 15 in this film but she has the presence and voice of a seasoned pro.  The story is a little silly and I would have loved to see more of Louise Beavers.  But the opportunities to hear Jane Powell sing outweigh the faults.  I suppose I'm naive but I think sometimes its nice to see a film that's delightful.\nReview Title: What an amazing voice!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/15\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nReview Text: Sweet, charming, goofy and real. These are real people who are grateful for their good fortune. Enjoyable family fun.\nReview Title: Sweet, charming\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/09\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking'], 'Subtitles': ['English'], 'Directors': ['Richard Whorf'], 'Producers': ['Jack Cummings'], 'Starring': ['Frank Sinatra', 'Kathryn Grayson', 'Peter Lawford'], 'Studio': ['WARNER BROS.']}\nReview Text: This is such a charming film. A young Frank Sinatra...oh my you can hardly believe how well developed his voice is. He was truly amazing. The duet from Don Giovanni sung with Kathryn Grayson really shows his range. I can watch it over and over again. Jimmy Durante is a gem. And Peter Lawford is perfect as the shy Jamie.\nReview Title: Buy it. You won't be sorry.\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Subtitles': ['None available'], 'Directors': ['Robert Tronson', 'David Tucker'], 'Producers': ['Colin Rogers'], 'Starring': ['Richard Wilson', 'Jan Francis', 'Michael Siberry']}\nThis very smart British series is equally approachable.  While it reminds me a bit of the Lovejoy series, it has a distinct charm.\nNeed more seasons!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Arthur Lubin'], 'Producers': ['Charles R. Rogers', 'Joseph S. Tushinsky'], 'Starring': ['Ralph Bellamy', 'Constance Moore', 'Jane Powell'], 'Studio': ['Reel Enterprises']}\nJane Powell is an American treasure!  I think she must be all of 15 in this film but she has the presence and voice of a seasoned pro.  The story is a little silly and I would have loved to see more of Louise Beavers.  But the opportunities to hear Jane Powell sing outweigh the faults.  I suppose I'm naive but I think sometimes its nice to see a film that's delightful.\nWhat an amazing voice!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nSweet, charming, goofy and real. These are real people who are grateful for their good fortune. Enjoyable family fun.\nSweet, charming\n{'Content advisory': ['Alcohol use', 'smoking'], 'Subtitles': ['English'], 'Directors': ['Richard Whorf'], 'Producers': ['Jack Cummings'], 'Starring': ['Frank Sinatra', 'Kathryn Grayson', 'Peter Lawford'], 'Studio': ['WARNER BROS.']}\nThis is such a charming film. A young Frank Sinatra...oh my you can hardly believe how well developed his voice is. He was truly amazing. The duet from Don Giovanni sung with Kathryn Grayson really shows his range. I can watch it over and over again. Jimmy Durante is a gem. And Peter Lawford is perfect as the shy Jamie.\nBuy it. You won't be sorry.",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2013/05/04\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Robert Tronson', 'David Tucker'], 'Producers': ['Colin Rogers'], 'Starring': ['Richard Wilson', 'Jan Francis', 'Michael Siberry']}\nReview Text: This very smart British series is equally approachable.  While it reminds me a bit of the Lovejoy series, it has a distinct charm.\nReview Title: Need more seasons!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2013/05/30\nAverage Rating: 3.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Arthur Lubin'], 'Producers': ['Charles R. Rogers', 'Joseph S. Tushinsky'], 'Starring': ['Ralph Bellamy', 'Constance Moore', 'Jane Powell'], 'Studio': ['Reel Enterprises']}\nReview Text: Jane Powell is an American treasure!  I think she must be all of 15 in this film but she has the presence and voice of a seasoned pro.  The story is a little silly and I would have loved to see more of Louise Beavers.  But the opportunities to hear Jane Powell sing outweigh the faults.  I suppose I'm naive but I think sometimes its nice to see a film that's delightful.\nReview Title: What an amazing voice!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/07/15\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nReview Text: Sweet, charming, goofy and real. These are real people who are grateful for their good fortune. Enjoyable family fun.\nReview Title: Sweet, charming\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/09\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking'], 'Subtitles': ['English'], 'Directors': ['Richard Whorf'], 'Producers': ['Jack Cummings'], 'Starring': ['Frank Sinatra', 'Kathryn Grayson', 'Peter Lawford'], 'Studio': ['WARNER BROS.']}\nReview Text: This is such a charming film. A young Frank Sinatra...oh my you can hardly believe how well developed his voice is. He was truly amazing. The duet from Don Giovanni sung with Kathryn Grayson really shows his range. I can watch it over and over again. Jimmy Durante is a gem. And Peter Lawford is perfect as the shy Jamie.\nReview Title: Buy it. You won't be sorry.\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe analysis of the purchase history reveals consistent positive sentiment towards charming, nostalgic, and musical content. The individual demonstrates a strong preference for family-friendly themes that evoke enjoyment and appreciation for talent, particularly in film and music. High ratings consistently indicated satisfaction, with average scores between 4.0 and 5.0, suggesting an affinity for quality entertainment.\n\nCommon themes emerge, showing a tendency towards vintage productions featuring well-known performers, particularly those with strong vocal abilities. The buyer particularly appreciates engaging storytelling despite minor flaws in narrative structure, indicating a preference for substance and character over critical or technical perfection.\n\nQuality preferences lean towards well-acted films with musical elements, often praising the talent of actors and singers involved. The individual appears to favor productions that are heartfelt and evoke a sense of nostalgia or charm, and is likely less sensitive to price, considering the value offered by a delightful experience rather than solely focusing on cheaper alternatives.\n\nIn summary, this consumer values high-quality, wholesome entertainment, often nostalgic in nature, that showcases musical talent and storytelling.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Hoo-ray for Hollywood Hotel",
+    "text": "The best version for Benny Goodman\u2019s signature composition \u201cSing,Sing,Sing\u201d. And Gene Krupa totally ROCKS that drum solo. Musical genius. Johnny Davis swings and sings and if you look carefully you see a baby Harry James next to him on the bandstand.",
+    "images": [],
+    "asin": "B00GNYCZ1E",
+    "parent_asin": "B00GNYCZ1E",
+    "user_id": "AFFL3ISQBBJSEWVLGPZN2A6H6LMA",
+    "timestamp": "2017-10-30 16:07:57.100000",
+    "helpful_vote": 4,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.5,
+    "rating_number": 79,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX360_FMwebp_.jpg",
+        "480w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX480_FMwebp_.jpg",
+        "720w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX720_FMwebp_.jpg",
+        "1080w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1080_FMwebp_.jpg",
+        "1440w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1440_FMwebp_.jpg",
+        "1920w": "https://m.media-amazon.com/images/G/01/digital/video/web/Default_Background_Art_LTR._SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Busby Berkeley"
+      ],
+      "Producers": [
+        "Samuel Bischoff",
+        "Bryan Foy",
+        "Hal B. Wallis",
+        "Jack L. Warner"
+      ],
+      "Starring": [
+        "Dick Powell",
+        "Rosemary Lane",
+        "Lola Lane"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

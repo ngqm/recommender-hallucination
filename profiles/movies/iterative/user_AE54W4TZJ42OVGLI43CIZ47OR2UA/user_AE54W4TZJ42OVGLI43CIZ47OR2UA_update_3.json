@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/08/29\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Reader's Digest\"], 'Producers': [\"Reader's Digest\"], 'Studio': ['Questar']}\nReview Text: Great - loved It!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Captive\nSuspense, Drama, Bleak, Downbeat\n[\"After Matthew's daughter vanishes mysteriously, his life falls apart. Years later when image of his daughter appear online, Matthew risks everything to ensure his daughter's safe return. Starring Ryan Reynolds\"]\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Atom Egoyan'], 'Producers': ['Atom Egoyan', 'Stephen Traynor', 'Simone Urdl', 'Jennifer Weiss'], 'Starring': ['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']}\nGreat movie!\nLoved it!\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexs Stadermann'], 'Producers': ['Jim Ballantine', 'Patrick Elemendorff', 'Alexia Gates-Foale', 'Kacy McDonald', 'Barbara Stephen', 'Thorsten Wegener'], 'Starring': ['Kodi Smit-McPhee', 'Richard Roxburgh', 'Miriam Margolyes']}\nVery cute movie.  Would watch again!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Reader's Digest\"], 'Producers': [\"Reader's Digest\"], 'Studio': ['Questar']}\nGreat - loved It!\nFive Stars",
+  "profile": "**User Summary:**\n\nThis user continues to showcase a strong preference for dramatic and suspenseful narratives, particularly those that explore themes of personal loss and resilience. Their recent interaction, which includes a high rating and an enthusiastic review of a family-oriented product, suggests an expanding appreciation for uplifting and feel-good stories, indicating a balance in their viewing preferences.\n\nKey Preferences:\n- **Genres:** Suspense, Drama, Lighthearted\n- **Themes:** Personal loss, Resilience, Intensity, Family-oriented stories\n- **Content Tolerance:** Accepts violence, alcohol use, foul language, and sexual content while remaining open to lighter themes\n- **Engagement:** Highly engaged, often expressing strong positive reactions even to less intense films and media\n\nThe user's profile reflects an appreciation for emotionally charged narratives that present characters with significant obstacles, while also embracing lighter content that can evoke joy and warmth. This nuanced viewing approach highlights their love for quality filmmaking, strong performances, and the ability to find value in a diverse spectrum of storytelling. Their recent engagement reinforces their capacity for enjoying both intense dramas and endearing, family-friendly narratives, revealing a well-rounded cinematic taste.",
+  "metrics": {
+    "rouge1_f": 0.09345794392523364,
+    "rouge2_f": 0.037617554858934164,
+    "rougeL_f": 0.07476635514018692,
+    "meteor": 0.06791171477079797,
+    "bleu1": 0.11713495110684045,
+    "bleu2": 0.03342758293319057,
+    "bleu3": 0.01925407623623867,
+    "bleu4": 0.012301488618824226,
+    "bertscore_precision": 0.3736763596534729,
+    "bertscore_recall": 0.37993353605270386,
+    "bertscore_f1": 0.3767789900302887
+  }
+}

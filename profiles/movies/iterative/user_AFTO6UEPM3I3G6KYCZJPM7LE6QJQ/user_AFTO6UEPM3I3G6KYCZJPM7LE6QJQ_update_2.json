@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/12/18\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Guillermin'], 'Producers': ['Irwin Allen'], 'Starring': ['Paul Newman', 'Steve McQueen', 'William Holden'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: While we have all been home wondering what to do with all of the excess time on hand, pulling up old great movies is a great way to pass time.  This old movie is a classic and a must watch\nReview Title: An oldy but GREAT entertainment\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Dome Karukoski'], 'Producers': ['Joanie Blaikie', 'Marina Brackenbury', 'Emma Broughton', 'Gaby Chiappe', 'Sarada McDermott', 'Arnon Milchan', 'Yariv Milchan', 'Nathaniel Parker', 'Ed Rubin'], 'Starring': ['Jared Harris', 'Cush Jumbo', 'Billy Howle']}\nLoved it, would write more however I do not wat to give anything away.  Purchase it an you shall see\nFANTASTIC\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Guillermin'], 'Producers': ['Irwin Allen'], 'Starring': ['Paul Newman', 'Steve McQueen', 'William Holden'], 'Studio': ['20TH CENTURY FOX']}\nWhile we have all been home wondering what to do with all of the excess time on hand, pulling up old great movies is a great way to pass time.  This old movie is a classic and a must watch\nAn oldy but GREAT entertainment",
+  "profile": "**User Summary:**\n\n- **Overall Enthusiasm:** High enthusiasm for engaging content; consistently expresses positive reactions and rates items favorably.\n- **Rating Patterns:** Frequently provides ratings at or near the highest level, indicating a strong preference for quality and impactful experiences.\n- **Preference for Nostalgia:** Recently expressed a fondness for classic films, highlighting an enjoyment for revisiting great movies during downtime.\n- **Focus on Production Quality:** Engages with works featuring notable directors and producers, reflecting an appreciation for well-crafted cinema.\n- **Interest in Character-Driven Narratives:** Enjoys stories with strong performances from established actors, indicating a preference for deep character development and emotional resonance.\n- **Sharing Experience:** Demonstrates a tendency to recommend purchasing content, showcasing a desire to share enjoyable cinematic experiences with others.\n- **Enjoyment of Classics:** Recognizes the enduring value of classic films, considering them must-watches that provide great entertainment.\n\nOverall, this individual maintains a clear trend towards high-quality, narrative-driven media, with an eagerness to engage with both modern and classic films, while actively recommending such content to others. The recent interaction emphasizes their appreciation for timeless cinematic experiences alongside their ongoing enthusiasm for compelling storytelling.",
+  "metrics": {
+    "rouge1_f": 0.16447368421052633,
+    "rouge2_f": 0.019867549668874173,
+    "rougeL_f": 0.08552631578947369,
+    "meteor": 0.11085528945535114,
+    "bleu1": 0.15102040816326534,
+    "bleu2": 0.024878426377682644,
+    "bleu3": 0.006338889481580349,
+    "bleu4": 0.003202993397616007,
+    "bertscore_precision": 0.3824275732040405,
+    "bertscore_recall": 0.39825886487960815,
+    "bertscore_f1": 0.3901827037334442
+  }
+}

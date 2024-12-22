@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/16\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['M. Night Shyamalan'], 'Producers': ['Frank Marshall', 'Sam Mercer', 'M. Night Shyamalan'], 'Starring': ['Mel Gibson', 'Joaquin Phoenix'], 'Studio': ['WALT DISNEY PICTURES']}\nReview Text: Never get tired of watching this movie.  Just wish I could afford Premium LOL\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['M. Night Shyamalan'], 'Producers': ['Frank Marshall', 'Sam Mercer', 'M. Night Shyamalan'], 'Starring': ['Mel Gibson', 'Joaquin Phoenix'], 'Studio': ['WALT DISNEY PICTURES']}\nNever get tired of watching this movie.  Just wish I could afford Premium LOL\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** Enjoys films with a mix of drama, suspense, and psychological elements, often favoring intense storytelling with strong directorial vision.\n- **Content Tolerance:** Comfortable with mature content, including themes of violence, frightening scenes, smoking, and strong language.\n- **Language & Accessibility:** Prefers English audio and appreciates options like English subtitles for enhanced comprehension.\n- **Favorite Directors:** Shows a preference for works by notable directors, particularly those with a unique storytelling approach, such as M. Night Shyamalan.\n- **Artist Affinity:** Tends to gravitate towards films starring well-known actors, indicating an appreciation for performances by established talent.\n- **Rating Inclination:** Consistently rates films highly, suggesting a tendency to enjoy and value well-crafted cinema.\n- **Consumption Habits:** Indicates a desire for premium content but may have budget constraints, reflecting an interest in quality entertainment that is also accessible.\n\nOverall, this user demonstrates a strong appreciation for engaging films with complex narratives, while also being conscious of cost when it comes to premium viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.18009478672985782,
+    "rouge2_f": 0.057416267942583726,
+    "rougeL_f": 0.15165876777251186,
+    "meteor": 0.15450326829998504,
+    "bleu1": 0.12280701754385966,
+    "bleu2": 0.023259408360612382,
+    "bleu3": 0.0062091139388263175,
+    "bleu4": 0.003211638034312429,
+    "bertscore_precision": 0.4385809302330017,
+    "bertscore_recall": 0.37188562750816345,
+    "bertscore_f1": 0.40248903632164
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10A Brazilian Virgin Hair Straight Remy Human Hair Weave 4 Bundles 18 20 22 24inch 100% Unprocessed Brazilian Straight Hair Bundles Natural Black Color Straight Hair Extensions\nReview Date: 2019/01/25\nAverage Rating: 3.2\nProduct Details: {'Material': 'Human Hair', 'Extension Length': '24 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12 x 6.1 x 2.1 inches; 1.1 Pounds', 'UPC': '699747933483'}\nReview Text: It is not healthy, split ends and empty\nReview Title: not 10a  It's not healthy, split ends\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "10A Brazilian Virgin Hair Straight Remy Human Hair Weave 4 Bundles 18 20 22 24inch 100% Unprocessed Brazilian Straight Hair Bundles Natural Black Color Straight Hair Extensions\n{'Material': 'Human Hair', 'Extension Length': '24 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12 x 6.1 x 2.1 inches; 1.1 Pounds', 'UPC': '699747933483'}\nIt is not healthy, split ends and empty\nnot 10a  It's not healthy, split ends",
+  "profile": "**User Summary:**\n\n- **Hair Preferences:** The user prefers human hair products, specifically straight styles, indicating a preference for natural looks and high-quality materials.\n- **Quality Expectations:** The user has high expectations regarding the quality of products, as evidenced by their negative feedback focused on health and durability issues (e.g., split ends).\n- **Detail Orientation:** The user's review emphasizes the importance of product authenticity, suggesting they are discerning and value transparency in product descriptions.\n- **Critical Reviewer:** The user is not hesitant to express dissatisfaction, shown by their low rating and specific criticism.\n- **Length Preferences:** The user is interested in longer hair extensions, indicating a preference for volume and versatility in styling.\n\nOverall, the user appears to prioritize high-quality, healthy hair extensions that maintain a natural look, while being critical of products that do not meet these standards.",
+  "metrics": {
+    "rouge1_f": 0.20370370370370372,
+    "rouge2_f": 0.04672897196261682,
+    "rougeL_f": 0.1111111111111111,
+    "meteor": 0.15745474269441992,
+    "bleu1": 0.13368983957219252,
+    "bleu2": 0.04643584536794138,
+    "bleu3": 0.022673139568639047,
+    "bleu4": 0.008921323551555857,
+    "bertscore_precision": 0.4132353961467743,
+    "bertscore_recall": 0.37850716710090637,
+    "bertscore_f1": 0.395109623670578
+  }
+}

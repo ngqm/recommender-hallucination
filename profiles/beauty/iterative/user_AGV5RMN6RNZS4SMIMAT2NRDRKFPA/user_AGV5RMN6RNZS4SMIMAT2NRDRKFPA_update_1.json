@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Yeshan Rhinestone and Crystal Teeth Comb Plastic Hairband Hair Hoop Headband for Women,Multicolor by Yeshan\nReview Date: 2016/07/24\nStore: Yeshan\nAverage Rating: 4.1\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Plastic', 'Fabric Type': 'plastic', 'Number of Items': '1', 'Brand': 'Yeshan', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 4.72 x 0.79 inches; 0.35 Ounces', 'UPC': '702114359257'}\nReview Text: This headband is cute, but it is cheap. The first time I tried it on, some of the bling popped off. It is lightweight, so I don't expect it to last long.<br /><br />It's hard to tell from their pictures how this is designed. The tines are bent forward before bending back. They are also split at the band. The effect is separated hair.\nReview Title: Cute, but cheap\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Yeshan Rhinestone and Crystal Teeth Comb Plastic Hairband Hair Hoop Headband for Women,Multicolor by Yeshan\nYeshan\n{'Age Range (Description)': 'Adult', 'Material': 'Plastic', 'Fabric Type': 'plastic', 'Number of Items': '1', 'Brand': 'Yeshan', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 4.72 x 0.79 inches; 0.35 Ounces', 'UPC': '702114359257'}\nThis headband is cute, but it is cheap. The first time I tried it on, some of the bling popped off. It is lightweight, so I don't expect it to last long.<br /><br />It's hard to tell from their pictures how this is designed. The tines are bent forward before bending back. They are also split at the band. The effect is separated hair.\nCute, but cheap",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user shows a tendency toward fashion accessories, specifically hair accessories, indicating an interest in aesthetic appearance and style.\n- **Quality Awareness:** The user expresses a clear concern for product quality, highlighting that while they appreciate the design, they were disappointed with the durability and construction.\n- **Value Sensitivity:** The user's rating reflects a measure of dissatisfaction with the perceived value for money. They are likely to prefer items that balance style and longevity.\n- **Aesthetic Appreciation:** The user seems drawn to visually appealing items, as evidenced by their initial attraction to the product's \"cute\" appearance, despite its shortcomings.\n- **Practical Use:** Comments about the product's structure suggest a practical approach to accessories, favoring functionality alongside style. They also indicate a preference for items that fit comfortably and effectively in everyday use.\n  \nOverall, this user appreciates stylish accessories but prioritizes quality and durability, showing a discerning eye when evaluating value and practicality.",
+  "metrics": {
+    "rouge1_f": 0.17266187050359713,
+    "rouge2_f": 0.007246376811594203,
+    "rougeL_f": 0.10071942446043164,
+    "meteor": 0.14066654339800688,
+    "bleu1": 0.19617224880382775,
+    "bleu2": 0.04343122866226247,
+    "bleu3": 0.02088709114869709,
+    "bleu4": 0.008155332388642446,
+    "bertscore_precision": 0.41348379850387573,
+    "bertscore_recall": 0.4252600371837616,
+    "bertscore_f1": 0.4192892909049988
+  }
+}

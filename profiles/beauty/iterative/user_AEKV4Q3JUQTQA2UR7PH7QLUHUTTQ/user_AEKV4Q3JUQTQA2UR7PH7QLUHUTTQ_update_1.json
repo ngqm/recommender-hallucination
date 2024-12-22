@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: DERMAL 10 Combo Pack Premium Collagen Essence Full Face Facial Mask Sheet - The Ultimate Supreme Collection for Every Skin Condition Day to Day Skin Concerns - Silky Cellulose Mask Sheet\nReview Date: 2020/01/07\nStore: DERMAL\nAverage Rating: 4.3\nProduct Details: {'Brand': 'DERMAL', 'Item Form': 'Sheet', 'Scent': 'Rose', 'Special Feature': 'Not Tested On Animals', 'Unit Count': '10 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.26 x 5 x 1.34 inches; 11.2 Ounces', 'UPC': '703856882157'}\nReview Text: I like these masks for daily use, as they are somewhat moisturizing and no real fragrance that I can detect.  I like the variety of the pack and they are easy on my skin.  I did take off one star as they are not as moisturizing as a jelly type mask..these are more water-like...but they are nice in that they are collagen masks.  For the price they are nice.\nReview Title: Nice Daily Mask\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "DERMAL 10 Combo Pack Premium Collagen Essence Full Face Facial Mask Sheet - The Ultimate Supreme Collection for Every Skin Condition Day to Day Skin Concerns - Silky Cellulose Mask Sheet\nDERMAL\n{'Brand': 'DERMAL', 'Item Form': 'Sheet', 'Scent': 'Rose', 'Special Feature': 'Not Tested On Animals', 'Unit Count': '10 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.26 x 5 x 1.34 inches; 11.2 Ounces', 'UPC': '703856882157'}\nI like these masks for daily use, as they are somewhat moisturizing and no real fragrance that I can detect.  I like the variety of the pack and they are easy on my skin.  I did take off one star as they are not as moisturizing as a jelly type mask..these are more water-like...but they are nice in that they are collagen masks.  For the price they are nice.\nNice Daily Mask",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys facial masks, particularly collagen-based options.\n- **Usage Frequency:** Prefers masks suitable for daily use, indicating a routine skincare regimen.\n- **Moisturizing Quality:** Looks for moisturizing effects but shows a slight preference for products with higher hydration levels, such as jelly masks.\n- **Scent Sensitivity:** Prefers products with minimal or undetectable fragrance, specifically appreciating the lightness of the masks.\n- **Skin Compatibility:** Values products that are gentle and easy on the skin, suggesting sensitivity or careful consideration of skincare ingredients.\n- **Brand Values:** Shows an inclination towards cruelty-free products and brands not testing on animals.\n- **Value Consciousness:** Emphasizes the importance of product affordability while still maintaining quality or effectiveness.\n\nOverall, the user seems to prioritize effective, gentle skincare solutions that can be incorporated into their daily routine, with an emphasis on hydration and ethical considerations.",
+  "metrics": {
+    "rouge1_f": 0.2939068100358423,
+    "rouge2_f": 0.05776173285198556,
+    "rougeL_f": 0.12903225806451613,
+    "meteor": 0.19767079737711057,
+    "bleu1": 0.25252525252525254,
+    "bleu2": 0.08769905610890848,
+    "bleu3": 0.04281420861578237,
+    "bleu4": 0.025187339021473656,
+    "bertscore_precision": 0.44412708282470703,
+    "bertscore_recall": 0.4651668071746826,
+    "bertscore_f1": 0.45440351963043213
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: De Luxe Shampoo and Conditioner Rosemary Mint 14 Ounces Each\nReview Date: 2016/08/19\nStore: M&T HEALTH\nAverage Rating: 4.5\nProduct Details: {'Item Form': 'Liquid', 'Brand': 'M&T HEALTH', 'Special Ingredients': 'Rosemary', 'Number of Items': '2', 'Unit Count': '12.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.3 x 4.7 x 2.1 inches; 14 Ounces', 'UPC': '763109536183 794437494968 796433632658 639939994946'}\nReview Text: I tried shampoo and conditioner sample and it lathered well despite packets being more than 3 yrs old. Would choose this over more toxic conventional brands such as VO5 or Pantene. FYI &#34;Mill Creek&#34; aloe vera shampoo is much cheaper and better quality\nReview Title: good lather and nice scent\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "De Luxe Shampoo and Conditioner Rosemary Mint 14 Ounces Each\nM&T HEALTH\n{'Item Form': 'Liquid', 'Brand': 'M&T HEALTH', 'Special Ingredients': 'Rosemary', 'Number of Items': '2', 'Unit Count': '12.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.3 x 4.7 x 2.1 inches; 14 Ounces', 'UPC': '763109536183 794437494968 796433632658 639939994946'}\nI tried shampoo and conditioner sample and it lathered well despite packets being more than 3 yrs old. Would choose this over more toxic conventional brands such as VO5 or Pantene. FYI &#34;Mill Creek&#34; aloe vera shampoo is much cheaper and better quality\ngood lather and nice scent",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user prefers health-conscious personal care products, specifically shampoos and conditioners with natural ingredients like rosemary, indicating a focus on wellness and quality over conventional brands.\n  \n- **Quality Over Cost:** They express a willingness to prioritize better quality products even if they are slightly more expensive, as shown by their choice to favor non-toxic options over mainstream brands.\n\n- **Scent and Performance:** The user appreciates products that have a pleasant scent and perform well, highlighting a positive experience with lathering ability.\n\n- **Comparison Habits:** They engage in comparative analysis while shopping, noting both price and quality, suggesting a careful consideration before making purchases.\n\n- **Environmental/Health Consideration:** By rejecting toxic ingredients typically found in conventional brands, the user exhibits a preference for environmentally friendly or less harmful personal care solutions. \n\nOverall, the user leans towards natural, effective, and pleasantly scented personal care products, valuing quality and health-conscious considerations in their choices.",
+  "metrics": {
+    "rouge1_f": 0.1923076923076923,
+    "rouge2_f": 0.0310077519379845,
+    "rougeL_f": 0.12307692307692308,
+    "meteor": 0.15049401504266766,
+    "bleu1": 0.15763546798029557,
+    "bleu2": 0.0395062932673479,
+    "bleu3": 0.009191340102954998,
+    "bleu4": 0.004438912950778922,
+    "bertscore_precision": 0.399761825799942,
+    "bertscore_recall": 0.4207606911659241,
+    "bertscore_f1": 0.4099925458431244
+  }
+}

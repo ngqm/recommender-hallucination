@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/04/26\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Theodore Melfi'], 'Producers': ['Donna Gigliotti', 'Peter Chernin', 'Jenno Topping', 'Pharrell Williams', 'Theodore Melfi'], 'Starring': ['Taraji P. Henson', 'Janelle Monae', 'Kevin Costner'], 'Studio': ['20th Century Fox']}\nReview Text: great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Theodore Melfi'], 'Producers': ['Donna Gigliotti', 'Peter Chernin', 'Jenno Topping', 'Pharrell Williams', 'Theodore Melfi'], 'Starring': ['Taraji P. Henson', 'Janelle Monae', 'Kevin Costner'], 'Studio': ['20th Century Fox']}\ngreat\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys media with strong storytelling elements, often featuring engaging character dynamics. \n- **Language and Accessibility:** Prefers content with multiple audio options, including enhanced dialogue features, indicating a sensitivity to sound clarity and potentially a hearing preference.\n- **Genre Tendencies:** Shows an openness to content with adult themes, as denoted by appreciation for works with foul language and sexual content.\n- **Rating Behavior:** Consistently rates items highly (4.9 average rating), suggesting a tendency towards discerning but positive evaluation of experiences.\n- **Engagement Style:** Demonstrates a preference for emotional connection with characters and narratives, as reflected in the concise review \"great\" and a five-star rating, indicating satisfaction.\n  \nOverall, this user seems to appreciate high-quality, character-driven content with accessibility features, while maintaining a positive outlook on their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.13114754098360656,
+    "rouge2_f": 0.03314917127071824,
+    "rougeL_f": 0.08743169398907104,
+    "meteor": 0.0904799370574351,
+    "bleu1": 0.1043956043956044,
+    "bleu2": 0.007594546036487888,
+    "bleu3": 0.003176218548859629,
+    "bleu4": 0.002056930062343526,
+    "bertscore_precision": 0.4046308994293213,
+    "bertscore_recall": 0.3489835858345032,
+    "bertscore_f1": 0.3747527301311493
+  }
+}

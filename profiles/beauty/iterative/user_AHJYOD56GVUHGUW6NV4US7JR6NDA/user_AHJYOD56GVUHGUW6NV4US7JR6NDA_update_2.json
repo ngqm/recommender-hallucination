@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ImplantClean Dental Implant Toothbrush - for implants, bridges, fixed dentures, and gums - SOFT Bristles\nReview Date: 2021/02/27\nStore: IMPLANT & PERIO CARE\nAverage Rating: 4.1\nProduct Details: {'Brand': 'IMPLANT & PERIO CARE', 'Age Range (Description)': 'Adult', 'Item Firmness Description': 'Soft', 'Number of Items': '1', 'Unit Count': '1.00 Count'}\nReview Text: It fell apart after a few uses\nReview Title: Poor quality\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "6 Pieces Bouffant Caps with Buttons, Soft Unisex Stretch Headband Elastic Turban Headwrap with Ear Loop Holder Button (Black, Grey, Lake Blue, Royal Blue, Navy, Purple)\nGeyoga\n{'Age Range (Description)': 'Adult', 'Material': 'Cotton', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Geyoga', 'Package Dimensions': '12.24 x 10.2 x 1 inches; 7.05 Ounces'}\nI bought these for my son who is on the autism spectrum.  Because of his sensory issues,  he hates the ear loops on his mask that he wears to school.  These are super comfortable and the mask loops can be moved to the side buttons.  I was a little concerned that he would get hot wearing a hat all day, but they are very lightweight and breathable.\nVery comfortable\nImplantClean Dental Implant Toothbrush - for implants, bridges, fixed dentures, and gums - SOFT Bristles\nIMPLANT & PERIO CARE\n{'Brand': 'IMPLANT & PERIO CARE', 'Age Range (Description)': 'Adult', 'Item Firmness Description': 'Soft', 'Number of Items': '1', 'Unit Count': '1.00 Count'}\nIt fell apart after a few uses\nPoor quality",
+  "profile": "**User Profile Summary**\n\n- **Demographics:** Parent of a child on the autism spectrum.\n- **Key Preferences:**\n  - Prioritizes comfort and sensory-friendly products.\n  - Looks for items that alleviate discomfort associated with traditional designs (e.g., ear loops).\n  - Values lightweight and breathable materials in clothing/accessories.\n  - Recently demonstrated a concern for product durability and quality, indicating a preference for items that withstand regular use.\n  \n- **Behavior Patterns:**\n  - Engages with products aimed at enhancing the sensory experiences for children with specific needs.\n  - Demonstrates a strong inclination towards finding practical solutions for everyday challenges faced by their child.\n  - Displays a tendency to seek out high-rated products that support the well-being of their child.\n  - Increasingly vigilant about product quality, as indicated by recent purchases leading to negative experiences, which might affect future shopping decisions.\n  \n- **Shopping Focus:** \n  - Functional, comfort-oriented items that help manage sensory sensitivities.\n  - Now also includes an emphasis on the durability and reliability of products, marking a shift towards ensuring long-term usability in their selections.",
+  "metrics": {
+    "rouge1_f": 0.24096385542168675,
+    "rouge2_f": 0.04242424242424243,
+    "rougeL_f": 0.10240963855421686,
+    "meteor": 0.1439678706425872,
+    "bleu1": 0.2015821215728994,
+    "bleu2": 0.07637121404525564,
+    "bleu3": 0.04593008960742028,
+    "bleu4": 0.02998760937930555,
+    "bertscore_precision": 0.40301474928855896,
+    "bertscore_recall": 0.44798797369003296,
+    "bertscore_f1": 0.4243130087852478
+  }
+}

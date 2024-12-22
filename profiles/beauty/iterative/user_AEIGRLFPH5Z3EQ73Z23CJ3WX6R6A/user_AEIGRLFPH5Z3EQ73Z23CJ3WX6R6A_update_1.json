@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: No Brainer Gentle Facial Cleanser, 6 fl. oz, For Dry & Sensitive Skin, Leaves Skin Feeling Clean, Soft and Hydrated, Hydrolyzed Rice Protein & Amino Acids Restores Skin by Higher Education Skincare\nReview Date: 2020/08/12\nStore: Higher Education\nAverage Rating: 4.8\nProduct Details: {'Item Form': 'Liquid', 'Skin Type': 'Sensitive', 'Brand': 'Higher Education', 'Age Range (Description)': 'Adult', 'Unit Count': '6.00 Fl Oz', 'Package Dimensions': '7.2 x 2.3 x 2.3 inches; 8.01 Ounces', 'UPC': '811381030056'}\nReview Text: I like the smell of this and how light it is. It does kinda feel like jelly and doesn\u2019t lather up super great for me, but it gets the job done and makes my face feel good. Haven\u2019t broken out or had irritated skin from it. The smell is light and reminds me of something I can\u2019t put my finger on...maybe light citrus candy or something? It smells pretty good to me and I enjoy washing with this in the shower. Good size too!\nReview Title: A pleasant, non-irritating face wash\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "No Brainer Gentle Facial Cleanser, 6 fl. oz, For Dry & Sensitive Skin, Leaves Skin Feeling Clean, Soft and Hydrated, Hydrolyzed Rice Protein & Amino Acids Restores Skin by Higher Education Skincare\nHigher Education\n{'Item Form': 'Liquid', 'Skin Type': 'Sensitive', 'Brand': 'Higher Education', 'Age Range (Description)': 'Adult', 'Unit Count': '6.00 Fl Oz', 'Package Dimensions': '7.2 x 2.3 x 2.3 inches; 8.01 Ounces', 'UPC': '811381030056'}\nI like the smell of this and how light it is. It does kinda feel like jelly and doesn\u2019t lather up super great for me, but it gets the job done and makes my face feel good. Haven\u2019t broken out or had irritated skin from it. The smell is light and reminds me of something I can\u2019t put my finger on...maybe light citrus candy or something? It smells pretty good to me and I enjoy washing with this in the shower. Good size too!\nA pleasant, non-irritating face wash",
+  "profile": "**User Profile Summary:**\n\n- **Skin Concern:** Prefers products suitable for dry and sensitive skin, emphasizing non-irritating formulations.\n- **Product Functionality:** Values gentle, effective cleansing that maintains skin hydration without causing breakouts or irritation.\n- **Scent Preference:** Enjoys light, pleasant scents, particularly reminiscent of citrus or sweet notes.\n- **Texture Preference:** Favors lightweight textures over heavy or overly foamy products.\n- **Usage Context:** Likely integrates skincare routine into daily activities like showering, indicating a preference for convenient, easy-to-use products.\n- **Purchase Consideration:** Evaluates products based on a balance of quality performance and pleasurable sensory experience, as seen in the preference for effective, well-scented cleansers.\n\nOverall, the user displays a clear inclination towards gentleness and sensory enjoyment in skincare, prioritizing reliable, non-aggravating solutions that are effective for sensitive skin types.",
+  "metrics": {
+    "rouge1_f": 0.2569444444444444,
+    "rouge2_f": 0.03496503496503497,
+    "rougeL_f": 0.125,
+    "meteor": 0.1527643064985451,
+    "bleu1": 0.19878656936278508,
+    "bleu2": 0.03075851955103455,
+    "bleu3": 0.007678882986763129,
+    "bleu4": 0.0038421349739081595,
+    "bertscore_precision": 0.4317573606967926,
+    "bertscore_recall": 0.46362653374671936,
+    "bertscore_f1": 0.44712477922439575
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: COSYMAY 20 inch Human Hair Wig for Women Long Black Wig with Bangs 4x4 Lace Closure Straight Wig Brazilian Virgin Hair Full Wig Average Size 1B\nReview Date: 2020/08/07\nStore: COSYMAY\nAverage Rating: 3.6\nProduct Details: {'Hair Type': 'Straight', 'Brand': 'COSYMAY', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.96 x 6.73 x 2.72 inches; 11.99 Ounces', 'UPC': '738627428647'}\nReview Text: [[VIDEOID:9118ad20b0e9a447f9b3a276479f331c]] Wow! This hair is gorgeous! Very nice thickness for a 20 inch and silky to the touch with so much body. The closure is perfect on this wig as well! Just to give you guys an idea of the body of this hair I uploaded videos but excuse me for still having my edges wrapped up lol\nReview Title: Silky and Quality Hair!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "COSYMAY 20 inch Human Hair Wig for Women Long Black Wig with Bangs 4x4 Lace Closure Straight Wig Brazilian Virgin Hair Full Wig Average Size 1B\nCOSYMAY\n{'Hair Type': 'Straight', 'Brand': 'COSYMAY', 'Age Range (Description)': 'Adult', 'Package Dimensions': '9.96 x 6.73 x 2.72 inches; 11.99 Ounces', 'UPC': '738627428647'}\n[[VIDEOID:9118ad20b0e9a447f9b3a276479f331c]] Wow! This hair is gorgeous! Very nice thickness for a 20 inch and silky to the touch with so much body. The closure is perfect on this wig as well! Just to give you guys an idea of the body of this hair I uploaded videos but excuse me for still having my edges wrapped up lol\nSilky and Quality Hair!",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** Strong interest in wigs, particularly those that are long, straight, and feature bangs.\n- **Quality Expectations:** High regard for hair quality, focusing on silkiness, thickness, and body.\n- **Brand Familiarity:** Positive experience with specific brands, indicating brand loyalty.\n- **Visual Engagement:** Enjoys sharing multimedia content (videos) to express satisfaction and provide visual feedback on products.\n- **Attention to Detail:** Appreciates product specifics such as closure type and overall appearance.\n- **User Engagement Style:** Enthusiastic and expressive in reviews, providing a personal touch to feedback.\n- **Rating Trends:** Indicates a tendency to rate products positively when they meet or exceed expectations.\n\nOverall, the user demonstrates a clear preference for high-quality, aesthetically pleasing wigs and actively engages with their purchasing experience through detailed reviews and visual sharing.",
+  "metrics": {
+    "rouge1_f": 0.22406639004149376,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.10788381742738588,
+    "meteor": 0.13440860215053765,
+    "bleu1": 0.16666666666666669,
+    "bleu2": 0.029539809563369566,
+    "bleu3": 0.007715319708693865,
+    "bleu4": 0.003948207728656365,
+    "bertscore_precision": 0.3948686718940735,
+    "bertscore_recall": 0.41671550273895264,
+    "bertscore_f1": 0.40549802780151367
+  }
+}

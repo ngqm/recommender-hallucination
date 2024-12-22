@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Paul McEvoy'], 'Producers': ['Paul McEvoy'], 'Starring': ['Frank Welker', 'Mindy Cohn', 'Grey DeLisle Griffin'], 'Studio': ['WARNER BROS.']}\nReview Text: The kids loved it . For an adult it was okay not to boring there were some scare parts\nReview Title: The kids loved it. For an adult it was okay not ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Heming', 'Andrei Svislotski', 'Cathy Malkasian', 'Jeff McGrath', 'Davis Doi', 'Frank Marino', 'Dean Criswell', 'Steve Socki', 'Frank Molieri', 'Geoff Adams'], 'Starring': ['William H. Macy'], 'Studio': ['PBS']}\nI like it my daughter loves it\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Paul McEvoy'], 'Producers': ['Paul McEvoy'], 'Starring': ['Frank Welker', 'Mindy Cohn', 'Grey DeLisle Griffin'], 'Studio': ['WARNER BROS.']}\nThe kids loved it . For an adult it was okay not to boring there were some scare parts\nThe kids loved it. For an adult it was okay not ...",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Type:** Enjoys family-oriented and educational content, with a growing interest in animated features.\n- **Language Preference:** Prefers English audio and subtitles, maintaining a strong preference for English-language media.\n- **Quality Rating:** Continues to rate purchases highly, with an average rating of 4.7 in the recent interaction, reflecting consistent satisfaction.\n- **Audience Focus:** Engages frequently with content suitable for children, indicating a clear focus on family-friendly themes that resonate with younger audiences.\n- **Positive Sentiment:** Displays a positive attitude towards products, as evidenced by enthusiastic feedback about enjoyment from both children and adults, despite noting some scary elements.\n\nOverall, this user values high-quality, engaging content that can be enjoyed with children, with particular emphasis on items that balance entertainment for both kids and adults while remaining consistent with their preference for English-language options.",
+  "metrics": {
+    "rouge1_f": 0.13793103448275862,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09482758620689653,
+    "meteor": 0.08528784648187632,
+    "bleu1": 0.11699402256407102,
+    "bleu2": 0.007909257220419685,
+    "bleu3": 0.0032278965596032865,
+    "bleu4": 0.002064951077694275,
+    "bertscore_precision": 0.3671412765979767,
+    "bertscore_recall": 0.3672448992729187,
+    "bertscore_f1": 0.3671930432319641
+  }
+}

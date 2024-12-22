@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/31\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Eli Craig'], 'Producers': ['Thomas Augsberger', 'Crawford Hawkins', 'Morgan Jurgenson', 'Albert Klychak', 'Jennifer Kraft', 'Rosanne Milliken', 'Deepak Nayar', 'Alissa Phillips', 'Mark Ryan'], 'Starring': ['Tyler Labine', 'Alan Tudyk', 'Katrina Bowden'], 'Studio': ['Magnolia']}\nReview Text: Some gore with humorous little twists\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Eli Craig'], 'Producers': ['Thomas Augsberger', 'Crawford Hawkins', 'Morgan Jurgenson', 'Albert Klychak', 'Jennifer Kraft', 'Rosanne Milliken', 'Deepak Nayar', 'Alissa Phillips', 'Mark Ryan'], 'Starring': ['Tyler Labine', 'Alan Tudyk', 'Katrina Bowden'], 'Studio': ['Magnolia']}\nSome gore with humorous little twists\nThree Stars",
+  "profile": "**User Profile Summary:**\n\n- **General Preferences**: Enjoys content that balances humor with darker themes, such as horror or gore. \n- **Content Types**: Prefers media with elements of violence and adult themes, including substance and alcohol use.\n- **Humor**: Appreciates clever or quirky takes on serious subjects, suggesting a taste for dark comedy.\n- **Media Characteristics**: Favors English-language content with accessible features, such as Audio Descriptions and Closed Captions.\n- **Engagement Level**: Engages with media that prompts strong responses, as indicated by a high average rating but also a critical perspective on quality or delivery.\n- **Overall Rating Trend**: Tends toward giving moderately high ratings, indicating a generally positive engagement with content while being discerning in judgment. \n\nThis initial profile indicates a user who navigates through genres that blend humor with more intense narratives, with a consistent focus on accessibility.",
+  "metrics": {
+    "rouge1_f": 0.13402061855670103,
+    "rouge2_f": 0.020833333333333332,
+    "rougeL_f": 0.11340206185567012,
+    "meteor": 0.08290274645878738,
+    "bleu1": 0.10106382978723402,
+    "bleu2": 0.007351518806561456,
+    "bleu3": 0.0030743058181430115,
+    "bleu4": 0.0019907529507989003,
+    "bertscore_precision": 0.40301358699798584,
+    "bertscore_recall": 0.3719238042831421,
+    "bertscore_f1": 0.38684505224227905
+  }
+}

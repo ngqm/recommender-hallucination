@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/09/13\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Nick Cassavetes'], 'Producers': ['Rene Cleitman'], 'Starring': ['Sean Penn', 'Robin Wright', 'John Travolta'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: Really like it\nReview Title: Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sebasti\u00e1n Lelio'], 'Starring': ['Julianne Moore', 'John Turturro', 'Michael Cera'], 'Studio': ['A24 Distribution LLC']}\nGood\nMovie\n{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Robitel'], 'Producers': ['Neal H. Moritz', 'Ori Marmur'], 'Starring': ['Logan Miller', 'Deborah Woll', 'Taylor Russell'], 'Studio': ['SONY PICTURES HOME ENTERTAINMENT']}\nOk\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Strauss-Schulson'], 'Producers': ['Gina Matthews', 'Grant Scharbo', 'Todd Garner'], 'Starring': ['Rebel Wilson', 'Liam Hemsworth', 'Adam DeVine'], 'Studio': ['New Line']}\nOk\nMovie\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Nick Cassavetes'], 'Producers': ['Rene Cleitman'], 'Starring': ['Sean Penn', 'Robin Wright', 'John Travolta'], 'Studio': ['Paramount Pictures Corp.']}\nReally like it\nMovie",
+  "profile": "The user maintains a moderate interest in films, underscored by a engagement with diverse narratives and a consistent appreciation for content with mature themes such as violence, alcohol use, foul language, and sexual content. They favor films available in English and are open to enhancements like audio descriptions and closed captions to enrich their viewing experience. Their preference for high-quality storytelling is evident in their interest in works from renowned studios and established talent, often gravitating toward thought-provoking narratives that tackle deeper or darker themes.\n\nRecent interactions reveal a critical yet enthusiastic engagement with films. While the user's average rating is solidly at 4.0, indicating a generally positive outlook, they recently rated a film lower at 3.0, suggesting a nuanced perspective on diverse storytelling. This indicates an ability to critically assess even the films they typically enjoy.\n\nIn a recent interaction, the user rated a film highly at 5.0, reaffirming their appreciation for strong narratives and quality production, while also reflecting a consistent taste in established actors like Sean Penn and Robin Wright. Overall, the user navigates the landscape of artistic cinema with a discerning eye, embracing narratives with mature content and significant character depth, while maintaining openness to new perspectives.",
+  "metrics": {
+    "rouge1_f": 0.10764872521246459,
+    "rouge2_f": 0.045584045584045586,
+    "rougeL_f": 0.09065155807365438,
+    "meteor": 0.03800443454625439,
+    "bleu1": 0.05163989525610337,
+    "bleu2": 0.0034893584868058913,
+    "bleu3": 0.0014233650525944219,
+    "bleu4": 0.0009101056867244375,
+    "bertscore_precision": 0.3515150845050812,
+    "bertscore_recall": 0.344984769821167,
+    "bertscore_f1": 0.3482193350791931
+  }
+}

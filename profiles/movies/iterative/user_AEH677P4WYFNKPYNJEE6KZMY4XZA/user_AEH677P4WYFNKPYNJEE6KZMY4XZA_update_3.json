@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/20\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Daniel Minahan', 'Davis Guggenheim', 'Gregg Fienberg', 'Mark Tinker', 'Steve Shill', 'Alan Taylor', 'Michael Engler', 'Walter Hill', 'Michael Almereyda'], 'Producers': ['David Milch', 'Gregg Fienberg', 'Ed Bianchi', 'Ted Mann', 'Elizabeth Sarnoff'], 'Starring': ['Timothy Olyphant', 'Ian McShane', 'Molly Parker'], 'Studio': ['HBO']}\nReview Text: Love the characters!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Mark Huffam', 'Carolyn Strauss', 'Joanna Burn', 'Frank Doelger', 'Guymon Casady', 'George R.R. Martin', 'Ralph Vicinanza', 'Vince Gerardis'], 'Starring': ['Sean Bean', 'Mark Addy', 'Peter Dinklage'], 'Studio': ['Discovery Global']}\nThis is not usually the kind of thing I choose, but I am enjoying it thoroughly! Well done.\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Daniel Minahan', 'Davis Guggenheim', 'Gregg Fienberg', 'Mark Tinker', 'Steve Shill', 'Alan Taylor', 'Michael Engler', 'Walter Hill', 'Michael Almereyda'], 'Producers': ['David Milch', 'Davis Guggenheim', 'Scott Stephens'], 'Starring': ['Timothy Olyphant', 'Ian McShane', 'Molly Parker'], 'Studio': ['HBO']}\nVery entertaining. Love the characters.\nLove the characters\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Daniel Minahan', 'Davis Guggenheim', 'Gregg Fienberg', 'Mark Tinker', 'Steve Shill', 'Alan Taylor', 'Michael Engler', 'Walter Hill', 'Michael Almereyda'], 'Producers': ['David Milch', 'Gregg Fienberg', 'Ed Bianchi', 'Ted Mann', 'Elizabeth Sarnoff'], 'Starring': ['Timothy Olyphant', 'Ian McShane', 'Molly Parker'], 'Studio': ['HBO']}\nLove the characters!\nFive Stars",
+  "profile": "The user maintains a strong preference for high-quality storytelling, valuing intricate narratives and well-produced content, as evidenced by their recent 5.0 rating for a character-driven story they thoroughly enjoyed. This aligns with their historical average rating of 4.7 and reinforces their discerning taste for production quality, direction, and performances by notable casts. \n\nTheir commitment to English for both audio and subtitles underscores their focus on accessibility and enhances their viewing experiences. Recent reviews showcase a particular affinity for well-defined characters and highlight their enjoyment of character depth and development, consistent with their past interactions. \n\nThe user continues to demonstrate an openness to exploring new genres, enjoying content that ventures outside their usual choices, which indicates a willingness to embrace diverse storytelling styles and themes. Their emphasis on strong direction further emphasizes their gravitation towards works that excel in narrative complexity. Overall, the user remains dedicated to engaging with media that meets their high standards for quality, character engagement, and intricate storytelling.",
+  "metrics": {
+    "rouge1_f": 0.09248554913294799,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05202312138728323,
+    "meteor": 0.036251342642320085,
+    "bleu1": 0.03338881141131701,
+    "bleu2": 0.0023676054405789354,
+    "bleu3": 0.0009818210043566137,
+    "bleu4": 0.0006331585391530191,
+    "bertscore_precision": 0.3021843135356903,
+    "bertscore_recall": 0.3419383466243744,
+    "bertscore_f1": 0.32083457708358765
+  }
+}

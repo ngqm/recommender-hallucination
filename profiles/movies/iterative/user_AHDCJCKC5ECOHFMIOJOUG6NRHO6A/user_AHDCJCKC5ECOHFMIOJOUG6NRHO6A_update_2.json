@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/11\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\nReview Text: did not  watch this one it didn't seem to have a story plot\nReview Title: did not watch this one it didn't seem to have ...\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Leszek Burzynski'], 'Producers': ['Julie Hartley', 'Patty Hedeen', 'Ken Promersberger', 'Robert Schwartz', 'Maggie Soboil', 'Buffie Stone'], 'Starring': ['Peter Fonda', 'Kris Kristofferson', 'Joseph Mazzello'], 'Studio': ['Lionsgate']}\nheartfelt story-- pretty good actinh\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\ndid not  watch this one it didn't seem to have a story plot\ndid not watch this one it didn't seem to have ...",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for heartfelt narratives and consistently values emotional depth in storytelling. They appreciate strong performances, often highlighting the quality of acting in their reviews. Previously reflecting a favorable rating average of 4.4, the recent interaction indicates a slight shift, with a new average of 3.9 due to a critical review of a film that lacked a compelling story. This suggests that while they tend to enjoy their media choices, their standards for narratives are becoming more stringent.\n\nThe user continues to show a fondness for productions featuring notable actors, underscoring their interest in star power and established talent. However, the recent review indicates that they are discerning about story structure, as they did not engage with the content due to perceived narrative weaknesses. Their previous engagement with films from well-known studios still suggests a lean towards mainstream cinema.\n\nOverall, the user values quality storytelling, emotional resonance, and solid performances, yet their latest feedback highlights an increasing demand for a coherent plot, reflecting a nuanced evolution in their viewing preferences.",
+  "metrics": {
+    "rouge1_f": 0.09230769230769231,
+    "rouge2_f": 0.007751937984496125,
+    "rougeL_f": 0.06923076923076923,
+    "meteor": 0.07183908045977012,
+    "bleu1": 0.10945273631840793,
+    "bleu2": 0.023393667553251236,
+    "bleu3": 0.00650301142647043,
+    "bleu4": 0.0034329666960882005,
+    "bertscore_precision": 0.35568079352378845,
+    "bertscore_recall": 0.35090172290802,
+    "bertscore_f1": 0.3532750904560089
+  }
+}

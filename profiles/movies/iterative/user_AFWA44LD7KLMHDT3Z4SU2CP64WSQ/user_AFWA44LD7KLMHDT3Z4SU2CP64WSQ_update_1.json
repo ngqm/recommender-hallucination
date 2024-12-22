@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/09\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Kenner'], 'Producers': ['Robert Kenner', 'Sascha Goldhor', 'Richard Pearce', 'Elise Pearlstein', 'Bill Pohlad', 'Jay Redmond', 'Melissa Robledo', 'Eric Schlosser', 'Robin Schorr', 'Jeff Skoll'], 'Starring': ['Michael Pollan', 'Eric Schlosser', 'Richard Lobb'], 'Studio': ['Magnolia Pictures']}\nReview Text: Great informative! Will support local small farmers from now on.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Kenner'], 'Producers': ['Robert Kenner', 'Sascha Goldhor', 'Richard Pearce', 'Elise Pearlstein', 'Bill Pohlad', 'Jay Redmond', 'Melissa Robledo', 'Eric Schlosser', 'Robin Schorr', 'Jeff Skoll'], 'Starring': ['Michael Pollan', 'Eric Schlosser', 'Richard Lobb'], 'Studio': ['Magnolia Pictures']}\nGreat informative! Will support local small farmers from now on.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Content Preference:** The user shows a strong preference for informative content, particularly related to food and agriculture, highlighting a focus on supporting local, small farmers.\n- **Rating Behavior:** Consistently gives high ratings (average of 4.6), indicating a positive reaction to quality content.\n- **Language & Accessibility:** Prefers English language options and appreciates accessibility features, such as audio descriptions and closed captions.\n- **Interest in Documentaries:** Engages with documentaries, especially those focusing on social or ecological themes.\n- **Producers and Directors:** Values content from well-regarded producers and directors, suggesting a tendency to follow specific creators known for their impactful storytelling.\n- **Social Responsibility:** Exhibits a sense of social responsibility by prioritizing support for local communities through informed choices.\n\nOverall, the user appears to value quality informative content that aligns with ethical and community-oriented views, with a notable focus on food systems and sustainability.",
+  "metrics": {
+    "rouge1_f": 0.1326530612244898,
+    "rouge2_f": 0.041237113402061855,
+    "rougeL_f": 0.09183673469387756,
+    "meteor": 0.12172182043976916,
+    "bleu1": 0.11616161616161616,
+    "bleu2": 0.02428276907432168,
+    "bleu3": 0.00670059624172382,
+    "bleu4": 0.0035243289246714854,
+    "bertscore_precision": 0.39945125579833984,
+    "bertscore_recall": 0.3755090832710266,
+    "bertscore_f1": 0.38711032271385193
+  }
+}

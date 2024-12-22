@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Face and Body Paint Kit By Color Technik 24 Professional Oil Based Flash Colors, 2 Sets of 12 Color Palettes, 6 Paint Brushes 70 Stencils 2 Sponges Non-Toxic For Adults & Kids Halloween Painting Party\nReview Date: 2020/10/11\nStore: Color Technik\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Color Technik', 'Package Information': 'Palette', 'Package Type': 'Palette', 'Skin Type': 'Sensitive', 'Package Dimensions': '9 x 5 x 1 inches; 8.78 Ounces', 'Item model number': 'CTFPS24'}\nReview Text: Face and Body Paint Kit By Color Technik 24 Professional Oil Based Flash Colors, 2 Sets of 12 Color Palettes, 6 paint brushes is a fun to do thang to do.  You see all these TV shows these days with people painting their face, painting their body, you might just want to try it yourself and this is the perfect opportunity to do it, with this set of face painting paints. You can achieve many colors and effects with this set. What the heck, I might just wanna go green for a day, what do you say?  OZ\nReview Title: EZ on EZ off Face Paint\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Face and Body Paint Kit By Color Technik 24 Professional Oil Based Flash Colors, 2 Sets of 12 Color Palettes, 6 Paint Brushes 70 Stencils 2 Sponges Non-Toxic For Adults & Kids Halloween Painting Party\nColor Technik\n{'Brand': 'Color Technik', 'Package Information': 'Palette', 'Package Type': 'Palette', 'Skin Type': 'Sensitive', 'Package Dimensions': '9 x 5 x 1 inches; 8.78 Ounces', 'Item model number': 'CTFPS24'}\nFace and Body Paint Kit By Color Technik 24 Professional Oil Based Flash Colors, 2 Sets of 12 Color Palettes, 6 paint brushes is a fun to do thang to do.  You see all these TV shows these days with people painting their face, painting their body, you might just want to try it yourself and this is the perfect opportunity to do it, with this set of face painting paints. You can achieve many colors and effects with this set. What the heck, I might just wanna go green for a day, what do you say?  OZ\nEZ on EZ off Face Paint",
+  "profile": "### User Profile Summary\n\n**Interests:**\n- Creative expression through face and body painting.\n- Engaging in activities suitable for both adults and children, indicating a family-oriented mindset.\n- Enjoyment of themed events, particularly Halloween or similar festivities.\n\n**Preferences:**\n- Values non-toxic products, suggesting a concern for safety and health.\n- Prefers products that are user-friendly and easy to apply/remove, hinting at a desire for convenience in creative pursuits.\n- Interested in a variety of colors and effects, indicating an appreciation for artistic versatility.\n\n**Behavior Patterns:**\n- Positive engagement with products that enable fun and creativity.\n- Likely to engage in social or community-driven artistic activities based on the enjoyment expressed in the review.\n\nOverall, this user favors artistic expression that combines safety, ease of use, and enjoyment, making them inclined towards versatile and family-friendly creative supplies.",
+  "metrics": {
+    "rouge1_f": 0.1926910299003322,
+    "rouge2_f": 0.04013377926421405,
+    "rougeL_f": 0.11295681063122924,
+    "meteor": 0.11992168379833579,
+    "bleu1": 0.18369542728302304,
+    "bleu2": 0.04172099279812331,
+    "bleu3": 0.020243431745986543,
+    "bleu4": 0.007941330030984703,
+    "bertscore_precision": 0.3866630792617798,
+    "bertscore_recall": 0.420549213886261,
+    "bertscore_f1": 0.40289491415023804
+  }
+}

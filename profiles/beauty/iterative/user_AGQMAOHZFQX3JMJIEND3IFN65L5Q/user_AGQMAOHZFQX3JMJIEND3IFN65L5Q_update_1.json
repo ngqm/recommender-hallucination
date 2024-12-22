@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Korean Face Mask - Korean Skin Care - Sano Silk Mask - All In One Pore Minimizer Anti Aging Facial Mask is the Best of K Beauty\nReview Date: 2018/07/01\nStore: Sano Naturals\nAverage Rating: 3.5\nProduct Details: {'Brand': 'Sano Naturals', 'Scent': 'Silk', 'Skin Type': 'All', 'Special Feature': 'Not Tested On Animals', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.4 x 4.7 x 0.7 inches; 0.81 Ounces', 'UPC': '653981768157'}\nReview Text: First time user and I liked it alot. I do go to a spa to get facials regularly but it gets harder when you becomes extremely busy. I hope I could use this mask for the weeks I cannot make a trip to my spa.\nReview Title: First time user and I liked it alot\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Korean Face Mask - Korean Skin Care - Sano Silk Mask - All In One Pore Minimizer Anti Aging Facial Mask is the Best of K Beauty\nSano Naturals\n{'Brand': 'Sano Naturals', 'Scent': 'Silk', 'Skin Type': 'All', 'Special Feature': 'Not Tested On Animals', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.4 x 4.7 x 0.7 inches; 0.81 Ounces', 'UPC': '653981768157'}\nFirst time user and I liked it alot. I do go to a spa to get facials regularly but it gets harder when you becomes extremely busy. I hope I could use this mask for the weeks I cannot make a trip to my spa.\nFirst time user and I liked it alot",
+  "profile": "**User Profile Summary:**\n\n- **Interest in Skincare:** This user demonstrates a strong interest in skincare, particularly in products that align with K-beauty trends.\n- **Spa Alternatives:** Prefers convenient alternatives to spa treatments due to a busy lifestyle, indicating a preference for at-home skincare solutions.\n- **Quality and Effectiveness:** Values product effectiveness, as reflected in their positive review despite a moderate rating, suggesting selective appreciation based on performance.\n- **Cruelty-Free Products:** Shows a preference for skincare items that are cruelty-free, indicating an awareness of ethical considerations in product selection.\n- **Exploration of New Products:** Willing to try new products, indicating an openness to experimentation in their skincare routine.\n- **Regular Usage Patterns:** Likely to incorporate masks into their routine, especially when unable to visit a spa, suggesting regular skincare maintenance habits.\n\nOverall, the user values effective, convenient, and ethical skincare products that complement or replace traditional spa experiences.",
+  "metrics": {
+    "rouge1_f": 0.17424242424242425,
+    "rouge2_f": 0.022900763358778626,
+    "rougeL_f": 0.09848484848484847,
+    "meteor": 0.13949163050216987,
+    "bleu1": 0.18000000000000002,
+    "bleu2": 0.042532872300500166,
+    "bleu3": 0.009703492578414514,
+    "bleu4": 0.004640657341184437,
+    "bertscore_precision": 0.40764859318733215,
+    "bertscore_recall": 0.4129864573478699,
+    "bertscore_f1": 0.4103001654148102
+  }
+}

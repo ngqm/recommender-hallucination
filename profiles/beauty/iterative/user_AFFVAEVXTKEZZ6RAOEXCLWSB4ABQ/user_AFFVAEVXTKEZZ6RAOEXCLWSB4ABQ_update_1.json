@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Beachwaver Co. Dual Voltage, S1, White\nReview Date: 2019/07/19\nAverage Rating: 4.5\nProduct Details: {'Product Benefits': 'This ceramic, rotating curling iron provides easy, quality waves in minutes!', 'Shape': 'Barrel', 'Brand': 'The Beachwaver Co.', 'Hair Type': 'All', 'Material': 'Ceramic', 'Product Dimensions': '15.75 x 1.75 x 2 inches; 14.4 Ounces', 'Item model number': '1', 'UPC': '817741020613', 'Manufacturer': 'AmazonUs/SB10T', 'Country of Origin': 'China'}\nReview Text: Heats up super fast, adjustable heat and no more needing to twist, it does it automatically with a push of a button.  It takes much lesser time to curl with the automatic curling.\nReview Title: Auto rolling, and so easy to use.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Beachwaver Co. Dual Voltage, S1, White\n{'Product Benefits': 'This ceramic, rotating curling iron provides easy, quality waves in minutes!', 'Shape': 'Barrel', 'Brand': 'The Beachwaver Co.', 'Hair Type': 'All', 'Material': 'Ceramic', 'Product Dimensions': '15.75 x 1.75 x 2 inches; 14.4 Ounces', 'Item model number': '1', 'UPC': '817741020613', 'Manufacturer': 'AmazonUs/SB10T', 'Country of Origin': 'China'}\nHeats up super fast, adjustable heat and no more needing to twist, it does it automatically with a push of a button.  It takes much lesser time to curl with the automatic curling.\nAuto rolling, and so easy to use.",
+  "profile": "**User Summary:**\n\n- **Product Type Preference:** Favors innovative hair styling tools, particularly those that simplify the curling process.\n- **Quality Focus:** Prioritizes efficiency and ease of use in products, as indicated by the positive experience with automatic functions.\n- **Heat Management:** Values adjustable heat settings for optimal styling, suggesting attention to hair care and styling versatility.\n- **Time Efficiency:** Looks for tools that minimize the time required for hairstyling, reflecting a preference for convenience in daily routines.\n- **Material Preference:** Appreciates ceramic materials likely due to their heat distribution benefits and overall hair health.\n- **Versatility:** Interested in products suitable for various hair types, indicating a broad appeal in styling options.\n- **Simplicity in Design:** Attracted to products that feature automated functions to reduce manual effort during use. \n\nThis user appears to be a practical individual who appreciates advancements in beauty technology that enhance user experience while maintaining hair quality.",
+  "metrics": {
+    "rouge1_f": 0.24166666666666667,
+    "rouge2_f": 0.016806722689075633,
+    "rougeL_f": 0.11666666666666667,
+    "meteor": 0.1310615989515072,
+    "bleu1": 0.17733990147783252,
+    "bleu2": 0.041902751803329225,
+    "bleu3": 0.00955937893016246,
+    "bleu4": 0.004571563525339105,
+    "bertscore_precision": 0.41991111636161804,
+    "bertscore_recall": 0.4284904897212982,
+    "bertscore_f1": 0.42415741086006165
+  }
+}

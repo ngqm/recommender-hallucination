@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2022/10/22\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve McQueen'], 'Producers': ['Iain Canning', 'Emile Sherman', 'Steve McQueen', 'Arnon Milchan'], 'Starring': ['Viola Davis', 'Michelle Rodriguez', 'Elizabeth Debicki'], 'Studio': ['20th Century Fox']}\nReview Text: This movie was awesome and worth the buy!!!\nReview Title: Movie was worth the buy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve McQueen'], 'Producers': ['Iain Canning', 'Emile Sherman', 'Steve McQueen', 'Arnon Milchan'], 'Starring': ['Viola Davis', 'Michelle Rodriguez', 'Elizabeth Debicki'], 'Studio': ['20th Century Fox']}\nThis movie was awesome and worth the buy!!!\nMovie was worth the buy",
+  "profile": "The user demonstrates a strong appreciation for high-quality movies, particularly those that feature strong narratives and engaging performances. They are attracted to films that include elements of violence, mature themes, and complex character development, as indicated by their enjoyment of content with significant content advisories. The user seems to favor productions from notable directors and studios, suggesting a preference for critically acclaimed works. \n\nPositive engagement is reflected in their enthusiastic review, emphasizing satisfaction with the purchase and overall enjoyment. The user is likely to appreciate diverse storytelling and may have a preference for films with prominent female leads and rich, compelling narratives. Overall, they lean towards transformative viewing experiences that resonate emotionally and intellectually. \n\nIn summary, the user's profile reflects preferences for compelling drama, mature content, strong performances, and reputable filmmakers.",
+  "metrics": {
+    "rouge1_f": 0.10869565217391304,
+    "rouge2_f": 0.010989010989010988,
+    "rougeL_f": 0.07608695652173912,
+    "meteor": 0.07588532883642496,
+    "bleu1": 0.10596026490066225,
+    "bleu2": 0.008404771061750672,
+    "bleu3": 0.00361927710850771,
+    "bleu4": 0.002379035639639018,
+    "bertscore_precision": 0.38958263397216797,
+    "bertscore_recall": 0.3752361238002777,
+    "bertscore_f1": 0.3822748064994812
+  }
+}

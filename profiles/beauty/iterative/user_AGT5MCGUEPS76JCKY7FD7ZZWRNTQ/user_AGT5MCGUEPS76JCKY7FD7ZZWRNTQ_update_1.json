@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ombre Jumbo Braid Hair Extension High Temperature Fiber 3pcs/Lot 100g/pc for Twist Braiding Hair(Black to Dark Grey) \u2026\nReview Date: 2017/04/28\nStore: BEAUTY ON LINE\nAverage Rating: 4.0\nProduct Details: {'Brand': 'BEAUTY ON LINE', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.2 x 6.42 x 2.8 inches; 11.22 Ounces'}\nReview Text: Love it and so many people have told me how much they like my hair I will buy again\nReview Title: Love  it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ombre Jumbo Braid Hair Extension High Temperature Fiber 3pcs/Lot 100g/pc for Twist Braiding Hair(Black to Dark Grey) \u2026\nBEAUTY ON LINE\n{'Brand': 'BEAUTY ON LINE', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12.2 x 6.42 x 2.8 inches; 11.22 Ounces'}\nLove it and so many people have told me how much they like my hair I will buy again\nLove  it",
+  "profile": "**User Profile Summary:**\n\n- **Hair Products Enthusiast:** User expresses a strong interest in hair extensions, particularly styles that allow for creativity like braiding.\n  \n- **Preference for Quality:** Indicates satisfaction with product quality through a positive review, highlighting both enjoyment and compliments received.\n\n- **Color Trends:** Shows inclination for bold and blended colors (e.g., transitioning shades like black to dark grey).\n\n- **Material Choice:** Prefers high-temperature synthetic fibers that mimic a natural look, suggesting a focus on both aesthetics and durability.\n\n- **Installation Method:** Has a preference for sew-in installation type, indicating a familiarity with more involved hair styling techniques.\n\n- **Positive Experience and Loyalty:** The intent to repurchase reflects a loyalty to brands that meet her quality standards and aesthetic preferences.\n\n**Overall Trends:**\n- Values appearance and creativity in hairstyling.\n- Appreciates compliments and social validation from hair choices.\n- Favors practical and natural-looking products, along with reliable installation methods.",
+  "metrics": {
+    "rouge1_f": 0.22321428571428575,
+    "rouge2_f": 0.06306306306306306,
+    "rougeL_f": 0.14285714285714288,
+    "meteor": 0.17884814049586775,
+    "bleu1": 0.10144927536231882,
+    "bleu2": 0.007017636429002959,
+    "bleu3": 0.00288542167126259,
+    "bleu4": 0.0018524624997032924,
+    "bertscore_precision": 0.40071144700050354,
+    "bertscore_recall": 0.3713626265525818,
+    "bertscore_f1": 0.385479211807251
+  }
+}

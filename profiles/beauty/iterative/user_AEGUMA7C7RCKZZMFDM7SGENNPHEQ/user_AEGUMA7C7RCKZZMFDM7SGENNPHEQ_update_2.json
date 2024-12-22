@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bold Men, Mens Hair Brush For Head and Beard, Thick and Thin Hair Types\nReview Date: 2021/02/12\nStore: BOLD MEN\nAverage Rating: 3.6\nProduct Details: {'Brand': 'BOLD MEN', 'Shape': 'Oblong', 'Handle Material': 'Wood', 'Product Benefits': 'Smoothing', 'Unit Count': '1.00 Count', 'Product Dimensions': '2.36 x 2.36 x 1.97 inches; 1.76 Ounces', 'UPC': '793611800557'}\nReview Text: I like that this brush is small enough to fit comfortably in my palm, but I expected the bristles to be more dense like other hair/beard brushes I've used in the past. However, it works well and I have not had any issue with it at all.\nReview Title: Bristles are not densely packed\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Hetian Sonic Facial Cleansing Brush\uff0cExfoliating and Waterproof Electric Face Wash Brush Deep Skin Care Tools Silicone Cleanser Scrubber Suitable for Any Skin Condition for Women (Pink)\nHetian\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.3 x 1.5 x 1.77 inches; 5.89 Ounces', 'Batteries': '1 AA batteries required.', 'UPC': '791568745273', 'Manufacturer': 'Hetian'}\nI've been told by my girlfriend that compared to other skin care brushes that this model is comparable or better than most. The device leaves your skin feeling softer after a few uses, so it may take more than your first use to see effects.\nNoticeable difference\nBold Men, Mens Hair Brush For Head and Beard, Thick and Thin Hair Types\nBOLD MEN\n{'Brand': 'BOLD MEN', 'Shape': 'Oblong', 'Handle Material': 'Wood', 'Product Benefits': 'Smoothing', 'Unit Count': '1.00 Count', 'Product Dimensions': '2.36 x 2.36 x 1.97 inches; 1.76 Ounces', 'UPC': '793611800557'}\nI like that this brush is small enough to fit comfortably in my palm, but I expected the bristles to be more dense like other hair/beard brushes I've used in the past. However, it works well and I have not had any issue with it at all.\nBristles are not densely packed",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Focus:** The user prioritizes effective skincare tools, especially electric cleansing devices that promote skin softness and overall care.\n- **Quality Expectation:** They expect noticeable results over time, favoring products that provide gradual improvement rather than instant effects.\n- **Influenced by Recommendations:** The user highly values suggestions from peers, indicating a reliance on trusted opinions when selecting skincare and grooming products.\n- **Willingness to Experiment:** They are open to trying different brands and models, evidenced by choosing products based on positive personal feedback, even when stepping into grooming categories outside skincare.\n- **Gendered Marketing Preference:** Their interactions suggest a focus on products marketed towards women in skincare, but they also explore men's grooming items, indicating a broader interest in quality personal care regardless of targeted demographics.\n- **Grooming Interest:** Recent interactions show they have an interest in grooming products, such as hair and beard brushes, assessing their effectiveness based on usability and design preferences.\n\nOverall, the user demonstrates a thoughtful and exploratory approach to personal care, valuing peer recommendations, gradual efficacy, and quality across both skincare and grooming products.",
+  "metrics": {
+    "rouge1_f": 0.21874999999999997,
+    "rouge2_f": 0.010471204188481674,
+    "rougeL_f": 0.10416666666666666,
+    "meteor": 0.12663085188027626,
+    "bleu1": 0.18164865020918036,
+    "bleu2": 0.0371566906007436,
+    "bleu3": 0.008076778664091126,
+    "bleu4": 0.003769622362593426,
+    "bertscore_precision": 0.39943626523017883,
+    "bertscore_recall": 0.4415346384048462,
+    "bertscore_f1": 0.41943174600601196
+  }
+}

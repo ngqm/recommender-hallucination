@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bed & Breakfast\nReview Date: 2014/03/12\nCategories: Comedy, Charming, Cheerful, Emotional\nProduct Description: ['In this charming romantic comedy, Jake inherits a small bed and breakfast in California wine country.  Problem is, so did sultry Brazilian Ana. Her life is complicated ... his is worse.']\nAverage Rating: 3.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marcio Garcia'], 'Starring': ['Dean Cain', 'Juliana Paes', 'Bill Engvall']}\nReview Text: I really liked this show, I would recommend it to my friends and I would watch it again if I chose.\nReview Title: Very enjoyable!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bed & Breakfast\nComedy, Charming, Cheerful, Emotional\n['In this charming romantic comedy, Jake inherits a small bed and breakfast in California wine country.  Problem is, so did sultry Brazilian Ana. Her life is complicated ... his is worse.']\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marcio Garcia'], 'Starring': ['Dean Cain', 'Juliana Paes', 'Bill Engvall']}\nI really liked this show, I would recommend it to my friends and I would watch it again if I chose.\nVery enjoyable!",
+  "profile": "**User Summary:**\n\n- **Genres:** Favorable towards romantic comedies, demonstrating a preference for light-hearted and charming narratives.\n- **Themes:** Enjoys cheerful, emotional storytelling with an emphasis on relatable and engaging plots.\n- **Tone:** Appreciates content that evokes positive emotions and offers a feel-good experience.\n- **Content Sensitivity:** Some comfort with mature content but likely prefers it to be presented in a humorous or comedic context.\n- **Social Influence:** Tends to recommend enjoyable content to friends, indicating a social aspect to media consumption.\n- **Viewing Habits:** Shows inclination towards rewatching content that resonates positively, reflecting a desire for familiarity and comfort in entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.20879120879120883,
+    "rouge2_f": 0.03333333333333333,
+    "rougeL_f": 0.13186813186813187,
+    "meteor": 0.12171278438807533,
+    "bleu1": 0.17006802721088432,
+    "bleu2": 0.03412989161196404,
+    "bleu3": 0.009296096113651278,
+    "bleu4": 0.004859983904527263,
+    "bertscore_precision": 0.41879284381866455,
+    "bertscore_recall": 0.4356103539466858,
+    "bertscore_f1": 0.4270361065864563
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Caudalie Favorites Set\nReview Date: 2020/08/15\nAverage Rating: 4.6\nProduct Details: {'Package Dimensions': '9.09 x 6.54 x 2.05 inches; 9.59 Ounces', 'Item model number': '2346203'}\nReview Text: I am a big fan of caudalie products. This is a mini size kit and is perfect for travel. There are five products in this kit. I have sensitive skin and I always trust caudalie! Plus, the products always have a pleasant smell.\nReview Title: Favorite\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Caudalie Favorites Set\n{'Package Dimensions': '9.09 x 6.54 x 2.05 inches; 9.59 Ounces', 'Item model number': '2346203'}\nI am a big fan of caudalie products. This is a mini size kit and is perfect for travel. There are five products in this kit. I have sensitive skin and I always trust caudalie! Plus, the products always have a pleasant smell.\nFavorite",
+  "profile": "**User Profile Summary:**\n\n- **Brand Preference**: Strong inclination towards Caudalie products, indicating a loyalty to the brand.\n- **Skin Sensitivity**: Preference for products suitable for sensitive skin, suggesting the user prioritizes gentle and safe ingredients.\n- **Convenience**: Appreciates travel-friendly product sizes (mini kits), indicating a lifestyle that values portability and ease of use.\n- **Fragrance**: Enjoys products with pleasant scents, highlighting a preference for sensory experiences in beauty products.\n- **High Standards**: Values quality, as reflected in the high ratings given, which suggests the user has discerning taste and looks for effective performance. \n\nOverall, the user is health-conscious, prioritizes effective skincare for sensitive skin, and enjoys convenient, pleasantly scented products from trusted brands.",
+  "metrics": {
+    "rouge1_f": 0.25142857142857145,
+    "rouge2_f": 0.034682080924855495,
+    "rougeL_f": 0.14857142857142858,
+    "meteor": 0.2022434910921205,
+    "bleu1": 0.16149068322981366,
+    "bleu2": 0.05502681446857526,
+    "bleu3": 0.012395114413575315,
+    "bleu4": 0.00589214781263599,
+    "bertscore_precision": 0.46864449977874756,
+    "bertscore_recall": 0.44968295097351074,
+    "bertscore_f1": 0.45896798372268677
+  }
+}

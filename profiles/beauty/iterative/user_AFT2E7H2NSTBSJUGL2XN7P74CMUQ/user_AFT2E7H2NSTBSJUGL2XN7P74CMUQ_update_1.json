@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: PrettyDiva Winged Eyeliner Stamp - Waterproof Long Lasting Liquid Eyeliner Pen Smudgeproof Eye Makeup Seal Stamp Tool for Wing or Cat Eye - Black\nReview Date: 2018/03/08\nStore: Pretty Diva\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Pretty Diva', 'Special Feature': 'Waterproof', 'Product Benefits': 'Long Lasting', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.2 x 0.7 x 0.7 inches; 0.64 Ounces'}\nReview Text: Pen is dried out\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "PrettyDiva Winged Eyeliner Stamp - Waterproof Long Lasting Liquid Eyeliner Pen Smudgeproof Eye Makeup Seal Stamp Tool for Wing or Cat Eye - Black\nPretty Diva\n{'Brand': 'Pretty Diva', 'Special Feature': 'Waterproof', 'Product Benefits': 'Long Lasting', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.2 x 0.7 x 0.7 inches; 0.64 Ounces'}\nPen is dried out\nOne Star",
+  "profile": "**User Profile Summary:**\n\n- **Product Usage:** The user engages with makeup products, specifically focusing on items designed for eye makeup.\n- **Preference for Quality:** Shows a tendency to prioritize durability and effectiveness, as indicated by a negative experience with a dried-out product.\n- **Rating Behavior:** The user is critical of product performance, reflected in their one-star rating due to product malfunction.\n- **Expectations:** Values waterproof and long-lasting features in eye makeup, suggesting a desire for reliability in cosmetic products.\n- **Feedback Engagement:** Actively participates in providing feedback and reviews, indicating a desire to share experiences and possibly influence product quality. \n\nOverall, this user exhibits a discerning approach to beauty products, emphasizing functionality and reliability while being unafraid to express dissatisfaction when expectations are not met.",
+  "metrics": {
+    "rouge1_f": 0.15873015873015872,
+    "rouge2_f": 0.04278074866310161,
+    "rougeL_f": 0.08465608465608467,
+    "meteor": 0.11241446725317691,
+    "bleu1": 0.09523809523809525,
+    "bleu2": 0.007551741490793339,
+    "bleu3": 0.003250838395784009,
+    "bleu4": 0.0021361195236069695,
+    "bertscore_precision": 0.39112260937690735,
+    "bertscore_recall": 0.3524608910083771,
+    "bertscore_f1": 0.3707866668701172
+  }
+}

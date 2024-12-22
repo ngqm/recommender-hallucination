@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/04\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sam Esmail', 'Jim McKay', 'Tricia Brock', 'Deborah Chow', 'Nisha Ganatra', 'Niels Arden Oplev', 'Christoph Schrewe'], 'Producers': ['Sam Esmail', 'Kyle Bradstreet', 'Steve Golin', 'Chad Hamilton'], 'Starring': ['Rami Malek', 'Christian Slater']}\nReview Text: Pretty clever plot lines (though not always realistic) and very good acting. Far more interesting than you think a &#34;hacker&#34; drama would be.  Definitely R-rated and pushes the limit of that at times. I'll keep watching on Amazon Prime.\nReview Title: Better than expected for a hacker drama\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sam Esmail', 'Jim McKay', 'Tricia Brock', 'Deborah Chow', 'Nisha Ganatra', 'Niels Arden Oplev', 'Christoph Schrewe'], 'Producers': ['Sam Esmail', 'Kyle Bradstreet', 'Steve Golin', 'Chad Hamilton'], 'Starring': ['Rami Malek', 'Christian Slater']}\nPretty clever plot lines (though not always realistic) and very good acting. Far more interesting than you think a &#34;hacker&#34; drama would be.  Definitely R-rated and pushes the limit of that at times. I'll keep watching on Amazon Prime.\nBetter than expected for a hacker drama",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user exhibits a strong interest in mature-rated content, particularly those that incorporate themes of technology, hacking, and thriller elements. They appreciate complex and clever plot lines, even if they may stretch realism.\n\n- **Genre Affinity:** The user favors dramas that blend suspense with intellectual engagement, indicating a preference for narratives that challenge conventional storytelling.\n\n- **Quality of Production:** High value is placed on acting and production quality, with the user showing a tendency to praise standout performances and skilled direction.\n\n- **Platform Engagement:** The user appears to favor streaming services, specifically highlighting their enjoyment of content on Amazon Prime, suggesting a preference for on-demand viewing experiences.\n\n- **Content Advisory Awareness:** The user is cognizant of content advisories, indicating they are comfortable with and seek out adult themes such as violence and substance use, which align with their viewing preferences.\n\n- **Rating Behavior:** The tendency to rate content positively (averaging 4.5) indicates an inclination to seek and appreciate high-quality entertainment while maintaining a critical lens on its realism and effectiveness. \n\nOverall, the user expresses a clear preference for engaging, high-quality, and mature-themed dramas within a streaming context.",
+  "metrics": {
+    "rouge1_f": 0.1694915254237288,
+    "rouge2_f": 0.040955631399317405,
+    "rougeL_f": 0.10847457627118644,
+    "meteor": 0.15046525990735976,
+    "bleu1": 0.16733067729083662,
+    "bleu2": 0.05174254377833956,
+    "bleu3": 0.027808361471143784,
+    "bleu4": 0.009649807054691293,
+    "bertscore_precision": 0.3941119909286499,
+    "bertscore_recall": 0.399507999420166,
+    "bertscore_f1": 0.3967916667461395
+  }
+}

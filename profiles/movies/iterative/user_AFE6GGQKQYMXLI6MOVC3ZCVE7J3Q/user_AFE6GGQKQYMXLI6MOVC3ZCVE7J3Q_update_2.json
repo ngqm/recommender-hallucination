@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/11/16\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Conrad Vernon', 'Greg Tiernan'], 'Producers': ['Seth Rogen'], 'Starring': ['Michael Cera', 'James Franco', 'Bill Hader'], 'Studio': ['Columbia Pictures']}\nReview Text: Could not stop laughing\nReview Title: Hilarious\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Amiel', 'Michael Trim', 'Adam Bernstein', 'Andrew Bernstein', 'Rosemary Rodriguez', 'Peter Werner', 'Keith Boak', 'Bill Johnson', 'David Rodriguez', 'Peter Weller'], 'Studio': ['WGN America']}\nNot bad just not excellent\nDecent show\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Conrad Vernon', 'Greg Tiernan'], 'Producers': ['Seth Rogen'], 'Starring': ['Michael Cera', 'James Franco', 'Bill Hader'], 'Studio': ['Columbia Pictures']}\nCould not stop laughing\nHilarious",
+  "profile": "User Profile Summary:\n\nThe user exhibits a balanced appreciation for television and film, evident from their overall average rating of 4.6 and a recently given 5.0 for a specific title. This suggests a slight upward shift in their enthusiasm and enjoyment, especially towards content that elicits strong emotional responses, such as comedy. Despite their previous critiques, the latest interaction reflects a more favorable reception, indicating that the user can find exceptional value in well-crafted entertainment that balances humor with complex themes.\n\nTheir ratings and reviews continue to point towards an affinity for content that includes layered themes, as indicated by mentions of nudity, violence, substance use, and foul language in both prior and recent interactions. The consistent preference for English audio and subtitle accessibility highlights their focus on understanding and engagement. \n\nThe involvement of various directors and a notable producer underscores their openness to diverse storytelling styles and artistic approaches. Although the user often maintains a critical perspective\u2014previously noting shows as \"not bad just not excellent\"\u2014their latest remark of \"could not stop laughing\" shows they are capable of appreciating high-quality, entertaining work. \n\nIn summary, the user favors well-produced, engaging content that balances humor with depth while remaining open to various narratives and creative perspectives. Their enjoyment leans towards comedic facets of storytelling as highlighted by their latest interaction.",
+  "metrics": {
+    "rouge1_f": 0.1567398119122257,
+    "rouge2_f": 0.07570977917981073,
+    "rougeL_f": 0.10658307210031347,
+    "meteor": 0.09747635500710733,
+    "bleu1": 0.09387755102040816,
+    "bleu2": 0.043860236066342026,
+    "bleu3": 0.02874433750795146,
+    "bleu4": 0.017699475066961512,
+    "bertscore_precision": 0.39252030849456787,
+    "bertscore_recall": 0.3540388345718384,
+    "bertscore_f1": 0.3722878098487854
+  }
+}

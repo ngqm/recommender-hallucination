@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: STARINKMAKEUP - 7 ROUND SHADER (0.25mm) - Sterile and disposable cartridges for permanent makeup and tattoos - Box of 10 units\nReview Date: 2020/09/27\nStore: Viking-Ink B&W\nAverage Rating: 5.0\nProduct Details: {'Product Dimensions': '6.3 x 3.35 x 0.59 inches; 1.52 Ounces', 'Item model number': 'EU Starink Cart-08-7RS'}\nReview Text: Properly sealed, sterilized, dated, and haven't run into a bent needle yet.\nReview Title: Perfect!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nEMMOR\n{'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nIt looks more like really hair than most I have seen. I am thrilled!\nGreat Deal!\nSTARINKMAKEUP - 7 ROUND SHADER (0.25mm) - Sterile and disposable cartridges for permanent makeup and tattoos - Box of 10 units\nViking-Ink B&W\n{'Product Dimensions': '6.3 x 3.35 x 0.59 inches; 1.52 Ounces', 'Item model number': 'EU Starink Cart-08-7RS'}\nProperly sealed, sterilized, dated, and haven't run into a bent needle yet.\nPerfect!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Displays a strong interest in high-quality, realistic hair products, while now also appreciating sterile and reliable cosmetic tools.\n- **Material Preference:** Prefers synthetic hair that mimics human hair, reflecting a desire for authenticity and realism in appearance.\n- **Style Orientation:** Leans towards modern styles, indicating a preference for contemporary aesthetics across different product categories.\n- **Functionality:** Values versatility for various occasions, including everyday use, special events (like cosplay and parties), and precise cosmetic applications.\n- **Quality Expectation:** Maintains a high standard for product efficacy, as evidenced by satisfaction with the appearance and performance of prior purchases, alongside a recent focus on the reliability and quality of professional tools.\n- **Positive Engagement:** Expresses enthusiasm and satisfaction with purchases, demonstrating a likelihood to engage positively with brands that consistently meet or exceed expectations.\n- **Rating Behavior:** Utilizes a broad rating scale (from 4.0 to 5.0), indicating a critical but fair reviewing approach, further validated by a perfect rating for high-quality products.\n\nOverall, this user prioritizes quality and realism in hair-related products while expanding interest towards professional-grade cosmetic tools, emphasizing functionality, reliability, and aesthetic appeal across diverse scenarios.",
+  "metrics": {
+    "rouge1_f": 0.1728395061728395,
+    "rouge2_f": 0.012422360248447204,
+    "rougeL_f": 0.08641975308641975,
+    "meteor": 0.14886575898081722,
+    "bleu1": 0.14671814671814673,
+    "bleu2": 0.023846907289618052,
+    "bleu3": 0.0060484440514504524,
+    "bleu4": 0.003049107663345801,
+    "bertscore_precision": 0.4110735058784485,
+    "bertscore_recall": 0.4164828658103943,
+    "bertscore_f1": 0.4137605130672455
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brotherhood\nReview Date: 2011/11/09\nStore: Rated:    Unrated    Format: VHS Tape\nCategories: Movies & TV, Genre for Featured Categories, Mystery & Thrillers\nProduct Description: ['vhs']\nAverage Rating: 4.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Release date': 'September 30, 1992', 'Date First Available': 'October 26, 2006', 'Actors': 'Douglas, Cord, Papas', 'Studio': 'Paramount'}\nReview Text: We caught this movie on TV and just had to have it! The theme, family, New York, loyalty and the Mob were familiar to us as New Yorkers. Kirk Douglas was incredible!\nReview Title: Great movie, a classic\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Brotherhood\nRated:    Unrated    Format: VHS Tape\nMovies & TV, Genre for Featured Categories, Mystery & Thrillers\n['vhs']\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Release date': 'September 30, 1992', 'Date First Available': 'October 26, 2006', 'Actors': 'Douglas, Cord, Papas', 'Studio': 'Paramount'}\nWe caught this movie on TV and just had to have it! The theme, family, New York, loyalty and the Mob were familiar to us as New Yorkers. Kirk Douglas was incredible!\nGreat movie, a classic",
+  "profile": "**User Profile Summary:**\n\n- **Location Influence:** Strong connection to New York cultural themes.\n- **Movie Preferences:** Enjoys classic films, particularly in the mystery and thriller genres. \n- **Genre Affinity:** Has a notable interest in themes of family, loyalty, and crime; appreciates narratives focusing on the mob lifestyle.\n- **Format Preference:** Shows a tendency towards older media formats, specifically VHS tapes, indicating a preference for nostalgia.\n- **Cinematic Appreciation:** Values performances by iconic actors, as evidenced by praise for Kirk Douglas; likely appreciates films with strong acting and storytelling.\n- **Rating Behavior:** Tends to give high ratings for movies that resonate personally, indicating a selective but appreciative taste in film. \n\nIn summary, the user favors classic mystery and thriller films with strong family and loyalty themes, particularly those set in New York, and has an affinity for nostalgia in their movie-watching experience.",
+  "metrics": {
+    "rouge1_f": 0.28699551569506726,
+    "rouge2_f": 0.04524886877828054,
+    "rougeL_f": 0.13452914798206278,
+    "meteor": 0.21161974120554009,
+    "bleu1": 0.2,
+    "bleu2": 0.0717958158617738,
+    "bleu3": 0.02989145029888725,
+    "bleu4": 0.010860127727696293,
+    "bertscore_precision": 0.4372802972793579,
+    "bertscore_recall": 0.42409396171569824,
+    "bertscore_f1": 0.43058618903160095
+  }
+}

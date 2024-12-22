@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/11\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu'], 'Producers': ['Alejandro G. I\u00f1\u00e1rritu', 'Armando Bo', 'Molly Conners', 'Alexander Dinelaris', 'Nicol\u00e1s Giacobone', 'Drew Houpt', 'Sarah E. Johnson', 'John Lesher', 'Arnon Milchan', 'James W. Skotchdopole'], 'Starring': ['Michael Keaton', 'Zach Galifianakis', 'Edward Norton']}\nReview Text: Honestly, I liked it more AFTER I was done watching. Keaton and his supporting actors do a great job. The film laughs at itself (although one could argue a little more laughter would go a long way). Not for everyone.\nReview Title: Grows on you\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu'], 'Producers': ['Alejandro G. I\u00f1\u00e1rritu', 'Armando Bo', 'Molly Conners', 'Alexander Dinelaris', 'Nicol\u00e1s Giacobone', 'Drew Houpt', 'Sarah E. Johnson', 'John Lesher', 'Arnon Milchan', 'James W. Skotchdopole'], 'Starring': ['Michael Keaton', 'Zach Galifianakis', 'Edward Norton']}\nHonestly, I liked it more AFTER I was done watching. Keaton and his supporting actors do a great job. The film laughs at itself (although one could argue a little more laughter would go a long way). Not for everyone.\nGrows on you",
+  "profile": "**User Profile Summary:**\n\n- **Film Appreciation**: Enjoys films that offer complex narratives and character development. Values performances from both leading and supporting actors, showing a preference for engaging and thought-provoking content.\n- **Humor & Self-awareness**: Appreciates films that incorporate humor, particularly those that are self-reflective or meta in nature, indicating a taste for creativity and originality in storytelling.\n- **Diverse Language Options**: Prefers content that includes multiple audio language options and English subtitles, which suggests an inclination towards accessibility and inclusion in viewing experiences.\n- **Director & Producer Interest**: Shows a specific interest in works by notable directors and producers, indicating a tendency to follow certain creators and a preference for higher-quality productions.\n- **Gradual Appreciation**: Displays a tendency to have films grow on them over time, suggesting a reflective viewing approach that allows for deeper engagement with the material post-viewing.\n\nOverall, the user leans towards thoughtfully crafted films that combine humor and depth, with an appreciation for skilled performances and creative direction.",
+  "metrics": {
+    "rouge1_f": 0.13492063492063494,
+    "rouge2_f": 0.024000000000000004,
+    "rougeL_f": 0.09523809523809525,
+    "meteor": 0.12190444739914197,
+    "bleu1": 0.12019230769230768,
+    "bleu2": 0.02409645549859334,
+    "bleu3": 0.006556615297276655,
+    "bleu4": 0.0034242961038840137,
+    "bertscore_precision": 0.39863821864128113,
+    "bertscore_recall": 0.39962852001190186,
+    "bertscore_f1": 0.39913272857666016
+  }
+}

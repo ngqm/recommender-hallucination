@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Electric Shaver for Men, SOOCAS Mens Electric Razor, Wet & Dry IPX7 Waterproof Rotary Facial Shaver, Portable Face Shaver Cordless Travel USB Rechargeable for Husband Dad, Black\nReview Date: 2020/09/22\nStore: SOOCAS\nAverage Rating: 2.9\nProduct Details: {'Brand': 'SOOCAS', 'Special Feature': 'Portable,Rechargeable,Cordless,Waterproof,Compact', 'Power Source': 'Battery Powered', 'Included Components': 'Charger', 'Blade Material': 'Stainless Steel', 'Package Dimensions': '7.36 x 4.21 x 2.68 inches; 11.18 Ounces', 'Batteries': '1 Lithium Ion batteries required. (included)', 'Manufacturer': 'SOOCAS'}\nReview Text: i'm surprise about the quality of this shaver, for most part it cuts really well and smooth.<br />the design is compact and not that heavy on hand, the battery last quite long, and i like the USB-C charging so i can use 1 charging for all. the battery last long enough.<br />over all this shaver is affordable and great purchase\nReview Title: Good inexpensive shaver\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Electric Shaver for Men, SOOCAS Mens Electric Razor, Wet & Dry IPX7 Waterproof Rotary Facial Shaver, Portable Face Shaver Cordless Travel USB Rechargeable for Husband Dad, Black\nSOOCAS\n{'Brand': 'SOOCAS', 'Special Feature': 'Portable,Rechargeable,Cordless,Waterproof,Compact', 'Power Source': 'Battery Powered', 'Included Components': 'Charger', 'Blade Material': 'Stainless Steel', 'Package Dimensions': '7.36 x 4.21 x 2.68 inches; 11.18 Ounces', 'Batteries': '1 Lithium Ion batteries required. (included)', 'Manufacturer': 'SOOCAS'}\ni'm surprise about the quality of this shaver, for most part it cuts really well and smooth.<br />the design is compact and not that heavy on hand, the battery last quite long, and i like the USB-C charging so i can use 1 charging for all. the battery last long enough.<br />over all this shaver is affordable and great purchase\nGood inexpensive shaver",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Quality and Performance:** The user values products that deliver high-quality performance and efficiency, as indicated by their positive experience with the shaver's cutting ability and battery longevity.\n\n- **Compact and Portable Design:** A preference for products that are lightweight and easy to carry is evident, suggesting a lifestyle that appreciates convenience, especially for travel or on-the-go use.\n\n- **Rechargeable and Versatile Charging Options:** The user appreciates rechargeable items and specifically values USB-C charging capabilities, indicating a trend towards modern, multifunctional convenience.\n\n- **Affordability:** The user favors inexpensive yet effective products, as highlighted by their focus on the shaver being an \u201caffordable and great purchase.\"\n\n- **Waterproof Features:** Interest in waterproof functionalities suggests a preference for durability and practicality in grooming tools.\n\nOverall, this user shows an inclination towards smart, functional purchases that combine value, performance, and convenience, particularly in grooming products.",
+  "metrics": {
+    "rouge1_f": 0.28169014084507044,
+    "rouge2_f": 0.0425531914893617,
+    "rougeL_f": 0.15492957746478875,
+    "meteor": 0.16505054477655423,
+    "bleu1": 0.2385786802030457,
+    "bleu2": 0.07801404246356082,
+    "bleu3": 0.039668610007910395,
+    "bleu4": 0.02381687650555932,
+    "bertscore_precision": 0.427077054977417,
+    "bertscore_recall": 0.4296833276748657,
+    "bertscore_f1": 0.4283762276172638
+  }
+}

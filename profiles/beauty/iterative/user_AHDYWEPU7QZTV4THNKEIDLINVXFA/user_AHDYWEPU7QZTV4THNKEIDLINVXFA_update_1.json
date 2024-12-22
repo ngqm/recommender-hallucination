@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Glass Spray Bottles 16oz Refillable Container suitable for essential oils, cleaning products, aromatherapy, water mist plants (2 Pack\uff0cBlue)\nReview Date: 2021/03/11\nStore: RONGCHUANG\nAverage Rating: 4.3\nProduct Details: {'Brand': 'RONGCHUANG', 'Material': 'Glass', 'Capacity': '16 Ounces', 'Item Dimensions LxWxH': '2.76 x 2.76 x 8.27 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '2.76 x 2.76 x 8.27 inches; 1.36 Pounds', 'UPC': '768253664713'}\nReview Text: I got these to replace a bottle of cleaning solution that no longer worked. These bottles are made of glass so they are much sturdier than the typical plastic bottles. The blue glass also looks more \"elegant\" on a countertop if you plan to display it. There are 2 spray settings (fine mist and stream). I didn't have any issues with leaking. It comes with 2 16 oz bottles, 4 labels, 2 caps, and a funnel (not pictured because I somehow misplaced it already).\nReview Title: Looks nice on the counter\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Glass Spray Bottles 16oz Refillable Container suitable for essential oils, cleaning products, aromatherapy, water mist plants (2 Pack\uff0cBlue)\nRONGCHUANG\n{'Brand': 'RONGCHUANG', 'Material': 'Glass', 'Capacity': '16 Ounces', 'Item Dimensions LxWxH': '2.76 x 2.76 x 8.27 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '2.76 x 2.76 x 8.27 inches; 1.36 Pounds', 'UPC': '768253664713'}\nI got these to replace a bottle of cleaning solution that no longer worked. These bottles are made of glass so they are much sturdier than the typical plastic bottles. The blue glass also looks more \"elegant\" on a countertop if you plan to display it. There are 2 spray settings (fine mist and stream). I didn't have any issues with leaking. It comes with 2 16 oz bottles, 4 labels, 2 caps, and a funnel (not pictured because I somehow misplaced it already).\nLooks nice on the counter",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Strong inclination towards glass containers for their sturdiness and aesthetic appeal. Values functionality in household products with features like adjustable spray settings.\n  \n- **Style & Aesthetics:** Prefers products that enhance home decor and looks elegant when displayed, indicating an appreciation for design and aesthetics in everyday items.\n\n- **Practicality:** Chooses items that offer versatility, such as refillable containers suitable for multiple uses (cleaning, aromatherapy, etc.). \n\n- **Quality Consciousness:** Shows a tendency towards durable and high-quality materials over plastic, reflecting a preference for sustainability and longevity.\n\n- **Organizational Traits:** Enjoys having organized and labeled products, as indicated by the inclusion of labels with the purchased items.\n\n- **User Experience:** Values seamless user experience, such as no leaking issues and ease of washing, highlighting attention to detail in product functionality.\n\nOverall, the user demonstrates a preference for high-quality, stylish, and practical products that contribute positively to their home environment.",
+  "metrics": {
+    "rouge1_f": 0.2608695652173913,
+    "rouge2_f": 0.026936026936026935,
+    "rougeL_f": 0.11371237458193979,
+    "meteor": 0.19676023332753567,
+    "bleu1": 0.2631578947368421,
+    "bleu2": 0.09410778556338323,
+    "bleu3": 0.03497520384244934,
+    "bleu4": 0.012004757335808629,
+    "bertscore_precision": 0.41665124893188477,
+    "bertscore_recall": 0.43613359332084656,
+    "bertscore_f1": 0.42616987228393555
+  }
+}

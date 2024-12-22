@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/18\nAverage Rating: 3.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Chris Carter'], 'Producers': ['Chris Carter', 'Marc Rosen', 'Gabe Rotter'], 'Starring': ['Aldis Hodge', 'Andrew Howard', 'Arielle Kebbel'], 'Studio': ['Amazon Studios']}\nReview Text: Chris Carter.....you saucy bitch!\nReview Title: Chris Carter..... you saucy bitch ...\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Chris Carter'], 'Producers': ['Chris Carter', 'Marc Rosen', 'Gabe Rotter'], 'Starring': ['Aldis Hodge', 'Andrew Howard', 'Arielle Kebbel'], 'Studio': ['Amazon Studios']}\nChris Carter.....you saucy bitch!\nChris Carter..... you saucy bitch ...",
+  "profile": "**User Summary:**\n\n- **Interest in Creative Works**: The user shows a notable appreciation for creative content, particularly from specific directors and producers, indicating a preference for original storytelling and artistic vision.\n\n- **Engagement with Genres**: They seem to be engaged with content that may blend genres or contain unique narrative styles, possibly hinting at an inclination towards unconventional or provocative themes.\n\n- **Moderate Ratings**: The average rating of 3.8 suggests a critical but fair perspective on quality, implying that while they enjoy certain works, they maintain a discerning taste and value substantial content over mere entertainment.\n\n- **Personality Traits**: The user's playful and informal review indicates a lighthearted, humorous personality, suggesting they appreciate wit in both the content they consume and in their interactions about it.\n\n- **Preference for Familiar Creators**: The focus on specific creators points to a tendency to favor familiar names in the industry, suggesting loyalty to creators who deliver compelling narratives.\n\n- **Openness to Diverse Performances**: With multiple actors mentioned, the user likely enjoys a range of performances, indicating an interest in diverse character portrayals and casting choices.\n\nOverall, this user profile depicts someone who values creativity, humor, and originality, with a critical but optimistic approach to their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.017167381974248927,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.017167381974248927,
+    "meteor": 0.0687830687830688,
+    "bleu1": 0.04980842911877396,
+    "bleu2": 0.004376881095324085,
+    "bleu3": 0.0019483930763932592,
+    "bleu4": 0.001301225323869125,
+    "bertscore_precision": 0.3631609380245209,
+    "bertscore_recall": 0.2866080701351166,
+    "bertscore_f1": 0.3203749358654022
+  }
+}

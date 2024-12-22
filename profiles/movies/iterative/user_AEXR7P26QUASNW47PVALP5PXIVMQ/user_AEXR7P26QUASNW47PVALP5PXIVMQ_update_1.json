@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/03\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.C. Chandor'], 'Producers': ['Neal Dodson', 'Anna Gerb', 'Justin Nappi', 'Teddy Schwarzman'], 'Starring': ['Robert Redford'], 'Studio': ['Lionsgate']}\nReview Text: I have to say it was a bit concerting without any or very little dialog.  I also found myself a bit empty as I had no idea how he got himself in the predicament in the first place.  Odd ending, but that was OK, sort of.  We had sailboats for years and I related to the sailing part of it.  Never been lost myself, but was in some pretty foggy weather.\nReview Title: but was in some pretty foggy weather\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.C. Chandor'], 'Producers': ['Neal Dodson', 'Anna Gerb', 'Justin Nappi', 'Teddy Schwarzman'], 'Starring': ['Robert Redford'], 'Studio': ['Lionsgate']}\nI have to say it was a bit concerting without any or very little dialog.  I also found myself a bit empty as I had no idea how he got himself in the predicament in the first place.  Odd ending, but that was OK, sort of.  We had sailboats for years and I related to the sailing part of it.  Never been lost myself, but was in some pretty foggy weather.\nbut was in some pretty foggy weather",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Exhibits a preference for content featuring minimal dialogue, suggesting an appreciation for visual storytelling and atmospheric narratives.\n- **Emotion and Engagement:** Shows a tendency towards introspection, feeling a sense of emptiness regarding plot development and character backstory.\n- **Interest in Themes:** Relates to themes of isolation and survival, demonstrated by a personal connection to sailing experiences.\n- **Critical Approach:** Provides balanced reviews, indicating the ability to recognize both strengths and weaknesses in narratives; rated experiences based on emotional resonance rather than conventional plot structure.\n- **Genre Awareness:** Displays sensitivity towards content advisory labels, particularly concerning violence and language, hinting at selective viewing habits and a preference for more thoughtful content choices. \n- **Viewing Format:** Prefers English audio and subtitles, suggesting a need for clarity in understanding complex narratives. \n\nOverall, the user showcases a thoughtful engagement with media, valuing emotional connection and thematic relevance over traditional storytelling approaches.",
+  "metrics": {
+    "rouge1_f": 0.18110236220472442,
+    "rouge2_f": 0.015873015873015876,
+    "rougeL_f": 0.08661417322834646,
+    "meteor": 0.12456546929316338,
+    "bleu1": 0.18536585365853658,
+    "bleu2": 0.009532345699695239,
+    "bleu3": 0.0035505953236126967,
+    "bleu4": 0.0021696418043593703,
+    "bertscore_precision": 0.4084785580635071,
+    "bertscore_recall": 0.40339669585227966,
+    "bertscore_f1": 0.4059217572212219
+  }
+}

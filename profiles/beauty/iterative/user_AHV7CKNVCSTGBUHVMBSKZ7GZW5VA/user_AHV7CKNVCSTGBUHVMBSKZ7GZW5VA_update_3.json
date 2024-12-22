@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vera Bradley Fragrance Coffret 4 Piece Set\nReview Date: 2018/11/30\nStore: Vera Bradley\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: i really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nReview Title: brought it for two scents\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Vera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** The user enjoys cotton and vanilla scents, with a strong appreciation for fresh and sweet aromas. She specifically gravitates towards sets that feature these beloved fragrances.\n\n- **Product Interest:** Values multipack or set options, showing a clear preference for curated collections that include specific scents she favors, particularly seeking out items that resonate with her preferred cotton and vanilla profiles.\n\n- **Shopping Behavior:** The user prefers purchasing unique or hard-to-find products that are not easily found online, reinforcing her interest in discovering special items that align with her fragrance taste.\n\n- **Reviewing Habits:** Generally a positive reviewer, she highlights the quality of her purchases. While her reviews reflect a high average rating and satisfaction with products, her newer reviews indicate a slightly more critical approach, suggesting a nuanced evaluation of her experiences.\n\nRecent interactions confirm her engagement with fragrance sets that align with her scent preferences, particularly reflecting her affinity for cotton and vanilla during her latest purchase. She continues to demonstrate a passion for exploring comforting fragrances and values the variety offered within those scent profiles, further emphasizing her pursuit of appealing and hard-to-find products.",
+  "metrics": {
+    "rouge1_f": 0.24000000000000005,
+    "rouge2_f": 0.07382550335570469,
+    "rougeL_f": 0.17333333333333334,
+    "meteor": 0.15119439887958408,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.05777631046154126,
+    "bleu3": 0.038609176505422206,
+    "bleu4": 0.022341632769904966,
+    "bertscore_precision": 0.46640652418136597,
+    "bertscore_recall": 0.3919826149940491,
+    "bertscore_f1": 0.4259682297706604
+  }
+}

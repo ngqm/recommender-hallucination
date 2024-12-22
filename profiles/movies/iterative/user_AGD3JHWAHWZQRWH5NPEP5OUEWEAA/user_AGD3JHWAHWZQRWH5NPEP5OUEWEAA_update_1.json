@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/17\nAverage Rating: 3.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mullti Media Arts Limited'], 'Starring': ['Sir Ian Holm'], 'Studio': ['Janson Media']}\nReview Text: This documentary had a lot of great information and really covered some interesting ideas and where the ideas for the series originated from.\nReview Title: Informative\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mullti Media Arts Limited'], 'Starring': ['Sir Ian Holm'], 'Studio': ['Janson Media']}\nThis documentary had a lot of great information and really covered some interesting ideas and where the ideas for the series originated from.\nInformative",
+  "profile": "**User Summary:**\n\n- **Content Interests:** Engages with documentaries, particularly those that explore interesting ideas and origins of concepts. Values informative content and appreciates in-depth discussions.\n  \n- **Content Sensitivity:** Shows awareness of and preference for content warnings, specifically regarding violence, alcohol use, and foul language.\n\n- **Language Preferences:** Prefers English audio and subtitles, indicating a focus on clarity and comprehension in media consumption.\n\n- **Overall Engagement:** Tends to provide moderate ratings, suggesting a balanced perspective on quality and content. This user may expect a combination of entertainment and educational value, leaning towards more thought-provoking material.\n\n- **Decision-Making Factors:** Prioritizes the depth of information and the overall concept over production quality, as evidenced by the average rating given despite acknowledgement of great information.\n\nThis initial profile highlights a preference for educational and informative content, with a conscious consideration of sensitivity to potentially troubling themes.",
+  "metrics": {
+    "rouge1_f": 0.2751322751322752,
+    "rouge2_f": 0.0855614973262032,
+    "rougeL_f": 0.19047619047619047,
+    "meteor": 0.1798861099307284,
+    "bleu1": 0.14814814814814814,
+    "bleu2": 0.0627702980962258,
+    "bleu3": 0.03479890596354771,
+    "bleu4": 0.012268626826894972,
+    "bertscore_precision": 0.42668241262435913,
+    "bertscore_recall": 0.39152199029922485,
+    "bertscore_f1": 0.4083467423915863
+  }
+}

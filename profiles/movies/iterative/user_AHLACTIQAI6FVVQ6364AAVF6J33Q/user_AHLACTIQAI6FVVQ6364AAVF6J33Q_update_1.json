@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/06/13\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['Bradley Cooper', 'George Parra', 'Harvey Weinstein', 'Bob Weinstein', 'Bruce Cohen', 'Jonathan Gordon', 'Donna Gigliotti', 'Mark Kamine'], 'Starring': ['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro'], 'Studio': ['Weinstein Company LLC', 'The']}\nReview Text: Very real and honest interpretation of mental illness. Actors were fantastic.Kudos to the cast and writers .Academy award material for sure .\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['Bradley Cooper', 'George Parra', 'Harvey Weinstein', 'Bob Weinstein', 'Bruce Cohen', 'Jonathan Gordon', 'Donna Gigliotti', 'Mark Kamine'], 'Starring': ['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro'], 'Studio': ['Weinstein Company LLC', 'The']}\nVery real and honest interpretation of mental illness. Actors were fantastic.Kudos to the cast and writers .Academy award material for sure .\nGreat movie",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user appreciates films that explore deep and complex themes, particularly related to mental health and personal struggles. \n- **Rating Tendencies:** Tends to rate content positively, as seen with an average rating of 4.6. \n- **Actor Preferences:** Shows a preference for renowned actors and possibly familiar names, as indicated by a favor for specific well-known actors like Bradley Cooper and Jennifer Lawrence.\n- **Production Quality:** Values high production standards and the involvement of prominent filmmakers, associating such elements with quality content.\n- **Review Characteristics:** Provides thoughtful and detailed reviews, highlighting performances and writing, demonstrating a discerning taste in cinema.\n- **Content Advisory:** Shows interest in content that might include mature themes such as violence, alcohol use, and strong language, indicating comfort with intense narratives.\n\nOverall, this user seems to gravitate towards critically acclaimed films that provide an honest exploration of serious issues, combined with strong performances from reputable actors and creators.",
+  "metrics": {
+    "rouge1_f": 0.18584070796460175,
+    "rouge2_f": 0.044642857142857144,
+    "rougeL_f": 0.10619469026548672,
+    "meteor": 0.1188118811881188,
+    "bleu1": 0.15714285714285714,
+    "bleu2": 0.008671099695241198,
+    "bleu3": 0.0033064478300616085,
+    "bleu4": 0.002044224879656081,
+    "bertscore_precision": 0.4429715573787689,
+    "bertscore_recall": 0.4177262783050537,
+    "bertscore_f1": 0.4299786686897278
+  }
+}

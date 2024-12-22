@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/03/29\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['John Crowley'], 'Producers': ['Finola Dwyer', 'Amanda Posey'], 'Starring': ['Saoirse Ronan', 'Domhnall Gleeson', 'Emory Cohen'], 'Studio': ['Fox Searchlight']}\nReview Text: Awesome\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['John Crowley'], 'Producers': ['Finola Dwyer', 'Amanda Posey'], 'Starring': ['Saoirse Ronan', 'Domhnall Gleeson', 'Emory Cohen'], 'Studio': ['Fox Searchlight']}\nAwesome\nFive Stars",
+  "profile": "The user shows a strong preference for high-quality content, reflected in their average rating of 4.7. They appreciate productions that feature notable directors and producers, as well as strong performances by the cast. The user seems to favor narratives with complex themes, as indicated by their positive reaction to content involving elements like alcohol use, smoking, and adult language, suggesting they are comfortable with mature themes. \n\nThe user's choice of audio options, including English Dialogue Boost, indicates a preference for clear and accessible audio experiences, possibly prioritizing comprehension. Their use of subtitles also suggests they may appreciate visual reinforcement of dialogue, enhancing their overall viewing experience.\n\nOverall, this user values well-crafted storytelling, strong character development, and high production values, leaning towards content that engages them on both emotional and intellectual levels.",
+  "metrics": {
+    "rouge1_f": 0.17582417582417584,
+    "rouge2_f": 0.04444444444444444,
+    "rougeL_f": 0.1208791208791209,
+    "meteor": 0.09337860780984719,
+    "bleu1": 0.12500000000000003,
+    "bleu2": 0.02877176688242181,
+    "bleu3": 0.008202519450343341,
+    "bleu4": 0.004386962121344301,
+    "bertscore_precision": 0.38358956575393677,
+    "bertscore_recall": 0.34653013944625854,
+    "bertscore_f1": 0.3641193211078644
+  }
+}

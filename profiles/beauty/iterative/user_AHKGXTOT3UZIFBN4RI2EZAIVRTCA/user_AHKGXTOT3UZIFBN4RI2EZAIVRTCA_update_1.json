@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beauty Treats Eye shadow NUDES & SMOKY 2pc Palette\nReview Date: 2018/06/18\nStore: Beauty Treats\nAverage Rating: 3.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.51 x 4.02 x 0.98 inches; 6.4 Ounces', 'Item model number': 'SG_B01B6WTCCM_US', 'UPC': '784179131863 755332577347 676768409012'}\nReview Text: Truly unreal this is really good no joke just as good as high end brands no lie. I was truly shocked but what can it hurt to try and see for yourself. This was a huge shock really good if you had blind folds on you would NOT know the differences between this and visesrts.\nReview Title: Just because things are cheaper doesn't mean they are not as good or better then higher priced brands\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Beauty Treats Eye shadow NUDES & SMOKY 2pc Palette\nBeauty Treats\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.51 x 4.02 x 0.98 inches; 6.4 Ounces', 'Item model number': 'SG_B01B6WTCCM_US', 'UPC': '784179131863 755332577347 676768409012'}\nTruly unreal this is really good no joke just as good as high end brands no lie. I was truly shocked but what can it hurt to try and see for yourself. This was a huge shock really good if you had blind folds on you would NOT know the differences between this and visesrts.\nJust because things are cheaper doesn't mean they are not as good or better then higher priced brands",
+  "profile": "**User Profile Summary**\n\n- **Product Interest:** Cosmetics, particularly eye makeup (eyeshadow palettes).\n- **Brand Perception:** Values quality products regardless of price; open to trying affordable options.\n- **Preference for Performance:** Strong emphasis on effective performance, indicating a willingness to compare with high-end brands.\n- **Positive Attitude:** Optimistic about product experiences; appreciates surprising quality in budget options.\n- **Engagement:** Willingness to share opinions through reviews and experiences.\n\nThis user exhibits a clear trend towards discovering and advocating for cost-effective beauty solutions, suggesting a preference for functional, high-quality cosmetics that rival more expensive offerings.",
+  "metrics": {
+    "rouge1_f": 0.14778325123152708,
+    "rouge2_f": 0.01990049751243781,
+    "rougeL_f": 0.09852216748768472,
+    "meteor": 0.0996168582375479,
+    "bleu1": 0.14074074074074075,
+    "bleu2": 0.03240839452022673,
+    "bleu3": 0.009243174052442557,
+    "bleu4": 0.004945638464957356,
+    "bertscore_precision": 0.3861539959907532,
+    "bertscore_recall": 0.43465757369995117,
+    "bertscore_f1": 0.40897268056869507
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "user_id": "AHXQGBTPB5SJKPXXBZHBDLJII6NQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2012/12/09\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Peter Jackson', 'Kathleen Kennedy'], 'Starring': ['Jamie Bell', 'Andy Serkis', 'Simon Pegg'], 'Studio': ['Epix']}\nReview Text: Tedious, too long, could have ended at several points and should have...just not very imaginative, should have been true to the original cartooning rather than 'humanoid' figures\nReview Title: tedious\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Justified\nReview Date: 2014/01/08\nCategories: Suspense, Western, Drama, Action\nProduct Description: [\"Deputy US Marshal Raylan Givens (Timothy Olyphant) will start to pick at the thread of a cold case over 30 years in the making, unraveling a riddle that echoes all the way back to his boyhood and his criminal father's bad dealings. Meanwhile, Boyd Crowder (Walton Goggins) finds his grip on Harlan loosening due to a Pentecostal preacher with a penchant for theatrics and a knack for manipulation...\"]\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Fred Golan', 'Sarah Timberman', 'Carl Beverly', 'Michael Dinner', 'Graham Yost', 'Elmore Leonard']}\nReview Text: the first 3 seasons were a bit more creative. Season 4 is Starting to get a bit repititious..still fun, though\nReview Title: Starting to get a bit repititious...\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/11/04\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Tom Cook', 'David Dugan', 'Alex Tate'], 'Producers': ['David Dugan', 'David Elisco', 'Michael Rosenfeld'], 'Starring': ['Neil Shubin'], 'Studio': ['PBS']}\nReview Text: Wonderful journey through the web of life...genetics, physiology, and paleontology.\nReview Title: erudite, but not dry...a joyous journey\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Felix Herngren'], 'Producers': ['Malte Forssell', 'Felix Herngren', 'Henrik Jansson-Schweizer', 'Patrick Nebout'], 'Starring': ['Robert Gustafsson', 'Iwar Wiklander', 'David Wiberg'], 'Studio': ['Music Box Films']}\nReview Text: Swedish Forest Gump\nReview Title: Swedish Forest Gump\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Peter Jackson', 'Kathleen Kennedy'], 'Starring': ['Jamie Bell', 'Andy Serkis', 'Simon Pegg'], 'Studio': ['Epix']}\nTedious, too long, could have ended at several points and should have...just not very imaginative, should have been true to the original cartooning rather than 'humanoid' figures\ntedious\nJustified\nSuspense, Western, Drama, Action\n[\"Deputy US Marshal Raylan Givens (Timothy Olyphant) will start to pick at the thread of a cold case over 30 years in the making, unraveling a riddle that echoes all the way back to his boyhood and his criminal father's bad dealings. Meanwhile, Boyd Crowder (Walton Goggins) finds his grip on Harlan loosening due to a Pentecostal preacher with a penchant for theatrics and a knack for manipulation...\"]\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Fred Golan', 'Sarah Timberman', 'Carl Beverly', 'Michael Dinner', 'Graham Yost', 'Elmore Leonard']}\nthe first 3 seasons were a bit more creative. Season 4 is Starting to get a bit repititious..still fun, though\nStarting to get a bit repititious...\n{'Subtitles': ['None available'], 'Directors': ['Tom Cook', 'David Dugan', 'Alex Tate'], 'Producers': ['David Dugan', 'David Elisco', 'Michael Rosenfeld'], 'Starring': ['Neil Shubin'], 'Studio': ['PBS']}\nWonderful journey through the web of life...genetics, physiology, and paleontology.\nerudite, but not dry...a joyous journey\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Felix Herngren'], 'Producers': ['Malte Forssell', 'Felix Herngren', 'Henrik Jansson-Schweizer', 'Patrick Nebout'], 'Starring': ['Robert Gustafsson', 'Iwar Wiklander', 'David Wiberg'], 'Studio': ['Music Box Films']}\nSwedish Forest Gump\nSwedish Forest Gump",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2012/12/09\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Peter Jackson', 'Kathleen Kennedy'], 'Starring': ['Jamie Bell', 'Andy Serkis', 'Simon Pegg'], 'Studio': ['Epix']}\nReview Text: Tedious, too long, could have ended at several points and should have...just not very imaginative, should have been true to the original cartooning rather than 'humanoid' figures\nReview Title: tedious\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Justified\nReview Date: 2014/01/08\nCategories: Suspense, Western, Drama, Action\nProduct Description: [\"Deputy US Marshal Raylan Givens (Timothy Olyphant) will start to pick at the thread of a cold case over 30 years in the making, unraveling a riddle that echoes all the way back to his boyhood and his criminal father's bad dealings. Meanwhile, Boyd Crowder (Walton Goggins) finds his grip on Harlan loosening due to a Pentecostal preacher with a penchant for theatrics and a knack for manipulation...\"]\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Fred Golan', 'Sarah Timberman', 'Carl Beverly', 'Michael Dinner', 'Graham Yost', 'Elmore Leonard']}\nReview Text: the first 3 seasons were a bit more creative. Season 4 is Starting to get a bit repititious..still fun, though\nReview Title: Starting to get a bit repititious...\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/11/04\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Tom Cook', 'David Dugan', 'Alex Tate'], 'Producers': ['David Dugan', 'David Elisco', 'Michael Rosenfeld'], 'Starring': ['Neil Shubin'], 'Studio': ['PBS']}\nReview Text: Wonderful journey through the web of life...genetics, physiology, and paleontology.\nReview Title: erudite, but not dry...a joyous journey\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Felix Herngren'], 'Producers': ['Malte Forssell', 'Felix Herngren', 'Henrik Jansson-Schweizer', 'Patrick Nebout'], 'Starring': ['Robert Gustafsson', 'Iwar Wiklander', 'David Wiberg'], 'Studio': ['Music Box Films']}\nReview Text: Swedish Forest Gump\nReview Title: Swedish Forest Gump\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual demonstrates a strong preference for narratives that blend creativity with engaging storytelling, particularly in suspense and drama genres. They frequently rate content highly, especially when it aligns with their appreciation for depth and character development. However, there is a notable critical streak when faced with repetitive storytelling, as seen in their in-depth analysis of series progression and pacing. \n\nThis person has a genuine interest in educational and thought-provoking content, enjoying documentaries that explore themes like genetics and evolution. They value rich storytelling that evokes emotion, as indicated by high ratings for character-driven narratives. They show a preference for productions that are well-crafted and creatively original, displaying sensitivity to pacing and imagination in storytelling.\n\nDespite their willingness to invest in quality content, there is also an underlying awareness of price sensitivity, suggesting they may balance quality with cost-effectiveness in their purchasing decisions. Overall, their core preferences center on meaningful, imaginative entertainment that induces reflection and engages intellectually while maintaining high standards for quality.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "amazing animation!",
+    "images": [],
+    "asin": "B00CF2TEJO",
+    "parent_asin": "B00CF2TEJO",
+    "user_id": "AHXQGBTPB5SJKPXXBZHBDLJII6NQ",
+    "timestamp": "2016-12-09 18:09:22",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.8,
+    "rating_number": 6190,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e83d523c1a2ce9705fc30d9c8ce626c1f052473e5553495b6bed09564ac97dd7._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Richard Starzak",
+        "Christopher Sadler",
+        "Jay Grace",
+        "Lee Wilton",
+        "Seamus Malone",
+        "Jean-Philippe Vine",
+        "Richard Webber",
+        "Will Becher",
+        "Mike Mort",
+        "Dave Osmand"
+      ],
+      "Starring": [
+        "John Sparkes",
+        "Justin Fletcher",
+        "Kate Harbour"
+      ],
+      "Studio": [
+        "Aardman Animations"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

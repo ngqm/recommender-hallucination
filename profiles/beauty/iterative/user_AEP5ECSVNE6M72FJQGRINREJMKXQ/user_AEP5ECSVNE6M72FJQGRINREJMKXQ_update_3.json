@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 8 oz - Bargz Perfume - Polo Blue Body Oil For Men Scented Fragrance\nReview Date: 2017/10/21\nStore: Bargz\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'Oil', 'Unit Count': '8.0 Ounce', 'Number of Items': '1', 'Skin Type': 'All', 'UPC': '781772914817'}\nReview Text: Not crazy about the fragrance.  Lasts long though.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "1 oz, Brown - Bargz Perfume - Oud Wood Body Oil For Men by Tom Ford Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'oil', 'Item Volume': '1 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.2 x 3.1 x 1.3 inches; 1 Ounces', 'UPC': '781772917443'}\nFantastic fragrance!!  And it lasts all day.  Love it.\nFive Stars\n4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'Package Dimensions': '7.5 x 4 x 0.2 inches; 4 Ounces', 'UPC': '781772913728'}\nLove this.  Majorly.  Great fragrance.\nFive Stars\n8 oz - Bargz Perfume - Polo Blue Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Unit Count': '8.0 Ounce', 'Number of Items': '1', 'Skin Type': 'All', 'UPC': '781772914817'}\nNot crazy about the fragrance.  Lasts long though.\nThree Stars",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** Enjoys strong, lasting scents, particularly oil-based fragrances. While the user appreciates alcohol-free options, recent feedback indicates that not all new purchases meet their scent expectations, despite maintaining an emphasis on longevity.\n  \n- **Product Style:** Prefers modern formulations and contemporary branding, consistently drawn to products that exhibit a fresh, modern aesthetic.\n\n- **Satisfaction Levels:** Generally positive experiences are highlighted; however, recent interactions reveal mixed feelings about certain fragrances, as evidenced by a less enthusiastic review. The user's commitment to quality remains, though some products may not fully resonate.\n\n- **Review Behavior:** Actively engages in providing feedback characterized by enthusiastic remarks, but the latest review reflects a more moderate satisfaction level. The user emphasizes longevity in fragrances, even when the scent itself may not be favored.\n\n- **Purchase Motivation:** Likely prioritizes quality and reliability in scent choices, searching for options that deliver a strong impression. The preference for oil-based products persists, but recent experiences suggest an avenue for exploration in finding scents that truly align with their tastes.\n\nOverall, the user values effective, modern fragrances that produce a lasting impact but is open to refining their selections based on recent experiences.",
+  "metrics": {
+    "rouge1_f": 0.16477272727272727,
+    "rouge2_f": 0.005714285714285714,
+    "rougeL_f": 0.07954545454545454,
+    "meteor": 0.11077731881336839,
+    "bleu1": 0.14892647239661555,
+    "bleu2": 0.007461201404134237,
+    "bleu3": 0.002754236762099536,
+    "bleu4": 0.0016750757098966103,
+    "bertscore_precision": 0.3682767450809479,
+    "bertscore_recall": 0.3771046996116638,
+    "bertscore_f1": 0.37263843417167664
+  }
+}

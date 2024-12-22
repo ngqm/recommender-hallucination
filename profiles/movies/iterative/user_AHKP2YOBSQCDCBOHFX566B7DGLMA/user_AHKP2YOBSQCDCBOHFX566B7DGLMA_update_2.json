@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/04/05\nAverage Rating: 3.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Delgado'], 'Producers': ['Pacific Media'], 'Studio': ['CLA GmbH']}\nReview Text: This series is excellent and provides information not available on other WWII figures in a clear and unbiased way.  Recommended for anyone interested in the major players and the details of their lives, involvement in the war and their contributions to history.\nReview Title: GREAT AND INFORMATIVE SERIES\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Irving Rapper', 'Lionello De Felice'], 'Producers': ['Ferdinand Felicioni'], 'Starring': ['Cornel Wilde', 'Belinda Lee'], 'Studio': ['Zeta Four Films', 'LLC']}\nCornell Wilde a believable Constantine, but the film's dubbing detracts from its overall impact.  After a while, it's just too much to watch.\nDubbing dulls this film\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Delgado'], 'Producers': ['Pacific Media'], 'Studio': ['CLA GmbH']}\nThis series is excellent and provides information not available on other WWII figures in a clear and unbiased way.  Recommended for anyone interested in the major players and the details of their lives, involvement in the war and their contributions to history.\nGREAT AND INFORMATIVE SERIES",
+  "profile": "**User Profile Summary:**\n\n- **Viewing Preferences:** This user has a strong preference for English audio and subtitles, consistently favoring content in their primary language.\n\n- **Critical Evaluation:** The user exhibits a discerning taste in film and series quality, particularly regarding dubbing. Their inclination toward authentic performances suggests a preference for original versions over dubbed content.\n\n- **Content Engagement:** The user maintains a balanced and thoughtful approach to evaluating films and series, as reflected in their average ratings. While previously exhibiting a mid-range rating of 3.5, a recent interaction increased this to 3.7, showcasing a slight upward trend in appreciation for quality content.\n\n- **Actor and Director Appreciation:** The user demonstrates a tradition of exploring works by established talent, indicating a preference for content that features reputable actors and experienced directors.\n\n- **Content Interest:** The user's recent engagement suggests an interest in historical content, especially regarding significant WWII figures, emphasizing a desire for informative and unbiased storytelling. Their recent high rating of 5.0 further highlights a growing interest in series that provide in-depth insights into historical contexts.\n\nIn summary, the user favors English-language films and series, values authentic performances, showcases a moderate yet evolving critical stance towards content quality, and displays a keen interest in historically significant narratives featuring established talent.",
+  "metrics": {
+    "rouge1_f": 0.2805970149253731,
+    "rouge2_f": 0.018018018018018014,
+    "rougeL_f": 0.13134328358208955,
+    "meteor": 0.1493161666829282,
+    "bleu1": 0.1870229007633588,
+    "bleu2": 0.03785664639594448,
+    "bleu3": 0.00819917790296159,
+    "bleu4": 0.0038194672563451352,
+    "bertscore_precision": 0.40552210807800293,
+    "bertscore_recall": 0.4198133945465088,
+    "bertscore_f1": 0.41254401206970215
+  }
+}

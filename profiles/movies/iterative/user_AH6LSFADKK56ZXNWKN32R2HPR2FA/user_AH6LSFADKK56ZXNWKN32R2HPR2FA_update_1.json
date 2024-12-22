@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Zumba Fitness Exhilarate Body Shaping System DVD Set + Toning Sticks\nReview Date: 2015/08/09\nStore: ZUMBA\nCategories: Movies & TV, TV\nProduct Description: ['Please note: product is missing toning sticks.']\nAverage Rating: 4.1\nProduct Details: {'Item Package Dimensions L x W x H': '12.2 x 5.1 x 2.5 inches', 'Package Weight': '1 Kilograms', 'Item Dimensions  LxWxH': '12.2 x 5.1 x 2.5 inches', 'Item Weight': '2.2 Pounds', 'Brand Name': 'ZUMBA', 'Country of Origin': 'United States', 'Manufacturer': 'Zumba Fitness', 'Part Number': '1', 'Date First Available': 'December 22, 2014', 'Brand': 'ZUMBA', 'Format': 'DVD', 'Target Audience': 'Adult', 'Binding': 'Misc.', 'Item Dimensions LxWxH': '12.2 x 5.1 x 2.5 inches'}\nReview Text: I am enjoying the workouts. Lots of fun. I'm not a dancer, so at times I miss some steps. But I just keeping moving along.\nReview Title: Love\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Zumba Fitness Exhilarate Body Shaping System DVD Set + Toning Sticks\nZUMBA\nMovies & TV, TV\n['Please note: product is missing toning sticks.']\n{'Item Package Dimensions L x W x H': '12.2 x 5.1 x 2.5 inches', 'Package Weight': '1 Kilograms', 'Item Dimensions  LxWxH': '12.2 x 5.1 x 2.5 inches', 'Item Weight': '2.2 Pounds', 'Brand Name': 'ZUMBA', 'Country of Origin': 'United States', 'Manufacturer': 'Zumba Fitness', 'Part Number': '1', 'Date First Available': 'December 22, 2014', 'Brand': 'ZUMBA', 'Format': 'DVD', 'Target Audience': 'Adult', 'Binding': 'Misc.', 'Item Dimensions LxWxH': '12.2 x 5.1 x 2.5 inches'}\nI am enjoying the workouts. Lots of fun. I'm not a dancer, so at times I miss some steps. But I just keeping moving along.\nLove",
+  "profile": "**User Profile Summary:**\n\n- **Activity Preference:** Strong interest in fitness and exercise, particularly through engaging and fun workout routines.\n- **Workout Style:** Enjoys dynamic and lively workouts, suggesting a preference for high-energy activities over traditional exercise forms.\n- **User Level:** Beginner in dance-related workouts, indicating a willingness to learn and adapt despite lacking prior experience in dancing.\n- **Social and Enjoyable:** Appreciates a fun atmosphere during exercise, indicating a preference for activities that combine fitness with enjoyment and social interaction.\n- **Product Engagement:** Values well-structured workout systems, likely favoring those that provide guidance and instruction for novices.\n- **Positive Outlook:** Tends to have a positive attitude towards new experiences and is flexible when faced with challenges, as seen in their comment about adapting to missed steps.",
+  "metrics": {
+    "rouge1_f": 0.08800000000000001,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.056,
+    "meteor": 0.09994739610731194,
+    "bleu1": 0.12429912079443811,
+    "bleu2": 0.02544610201791609,
+    "bleu3": 0.006974554066649419,
+    "bleu4": 0.003656796841350001,
+    "bertscore_precision": 0.35963761806488037,
+    "bertscore_recall": 0.39235472679138184,
+    "bertscore_f1": 0.37528446316719055
+  }
+}

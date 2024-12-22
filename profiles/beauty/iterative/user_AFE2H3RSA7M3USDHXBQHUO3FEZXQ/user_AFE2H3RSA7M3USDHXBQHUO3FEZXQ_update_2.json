@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Selina, Brazilian Curly Hair Bundles, 1 Bundle,cheap bundles, Kinky Curly, human hair bundles, Remy Hair bundles, virgin curly hair bundles, 100 Gram/Bundle (18\", Natural Black)\nReview Date: 2020/09/07\nStore: Selina\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Selina', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 5 x 2.6 inches; 3.99 Ounces', 'UPC': '824918169808'}\nReview Text: This hair was very soft and natural. Very thin but nice hair\nReview Title: Nice hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Curly Hair Wave 1 Bundles 18 Inch 100% Unprocessed Kinky Curly Human Hair Bundles Extensions Natural Black Color\nSnowHair\n{'Brand': 'SnowHair', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Product Dimensions': '4.8 x 1 x 0.4 inches; 4.8 Ounces', 'UPC': '682559651836'}\nExcellent hair. I  really enjoying it\nI love this hair, very soft and natural\nSelina, Brazilian Curly Hair Bundles, 1 Bundle,cheap bundles, Kinky Curly, human hair bundles, Remy Hair bundles, virgin curly hair bundles, 100 Gram/Bundle (18\", Natural Black)\nSelina\n{'Brand': 'Selina', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 5 x 2.6 inches; 3.99 Ounces', 'UPC': '824918169808'}\nThis hair was very soft and natural. Very thin but nice hair\nNice hair",
+  "profile": "**User Profile Summary:**\n\n- **Purchase Preference:** The user has a strong inclination towards human hair extensions, particularly curly textures, and shows a growing interest in brands beyond SnowHair, like Selina.\n- **Quality Expectation:** They continue to value softness and a natural look in hair products, highlighted by their positive review indicating satisfaction with the texture of new purchases.\n- **Rating Trend:** The user maintains a positive attitude towards products, as evidenced by their high ratings, reflecting consistent satisfaction with quality.\n- **Brand Affinity:** While currently engaged with SnowHair, their recent purchase from Selina suggests openness to exploring other trusted brands.\n- **Hair Color Preference:** Prefers natural black tones, aligning with their latest purchase choice.\n- **Length Preference:** Interested in 18-inch extensions, as confirmed by both recent and previous purchases.\n- **Interaction Style:** Expresses satisfaction in reviews using positive language, demonstrating an enjoyable experience with hair products. They noted the softness and natural appearance of the recent purchase, though mentioned it was thinner than expected, yet still satisfactory.\n\nOverall, the user exhibits a clear preference for high-quality, natural-looking curly hair extensions with a focus on softness and brand reliability, while also showing a willingness to explore new brands that meet their standards.",
+  "metrics": {
+    "rouge1_f": 0.20895522388059704,
+    "rouge2_f": 0.054054054054054064,
+    "rougeL_f": 0.12537313432835823,
+    "meteor": 0.14725346151696644,
+    "bleu1": 0.16226415094339622,
+    "bleu2": 0.04294078255196283,
+    "bleu3": 0.008883717105094733,
+    "bleu4": 0.00404455473795317,
+    "bertscore_precision": 0.41344693303108215,
+    "bertscore_recall": 0.40388697385787964,
+    "bertscore_f1": 0.4086110293865204
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/09/19\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol', 'Fran\u00e7ais', 'Portugu\u00eas'], 'Directors': ['Rob Greenberg'], 'Producers': ['Eugenio Derbez', 'Benjamin Odell', 'Bob Fisher'], 'Starring': ['Eugenio Derbez', 'Anna Faris', 'Eva Longoria'], 'Studio': ['Lionsgate']}\nReview Text: It's a remake and they are never as good as the original\nReview Title: It was ok\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerald Rascionato'], 'Producers': ['Charles Barsamian', 'Gerald Rascionato'], 'Starring': ['Megan Peta Hill', 'Joel Hogan', 'Josh Potthoff'], 'Studio': ['Lionsgate']}\nGreat movie kept me on the edge of my seat\nTime well spent\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol', 'Fran\u00e7ais', 'Portugu\u00eas'], 'Directors': ['Rob Greenberg'], 'Producers': ['Eugenio Derbez', 'Benjamin Odell', 'Bob Fisher'], 'Starring': ['Eugenio Derbez', 'Anna Faris', 'Eva Longoria'], 'Studio': ['Lionsgate']}\nIt's a remake and they are never as good as the original\nIt was ok",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** Continues to enjoy thrillers with suspense and excitement but recently expressed disappointment with a remake, indicating a possible preference for original content over adaptations. This suggests that while engaging storylines are crucial, authenticity may play a significant role in the user's enjoyment.\n  \n- **Language and Accessibility:** Maintains a preference for English audio and subtitles, highlighting the user's focus on understanding and engagement while still being open to additional options for accessibility.\n\n- **Quality and Experience:** Values high-quality entertainment, as seen in previous ratings. However, the recent low rating indicates a strong aversion to poorly executed remakes, reinforcing the importance of quality in storytelling and production.\n\n- **Production Appreciation:** Continues to show interest in well-produced content, recognizing the contributions of directors and producers. The disappointment in the recent interaction may suggest a more critical outlook toward production quality in remakes.\n\n- **Overall Engagement:** Previously viewed experiences positively, but the recent feedback reflects a heightened sensitivity to how adaptations compare to originals. This suggests a pattern where emotional impact and authenticity are key factors for satisfaction.\n\nThis updated profile indicates a user who seeks thrilling, high-quality entertainment with an emphasis on authentic storytelling, while continuing to value emotional impact and production quality.",
+  "metrics": {
+    "rouge1_f": 0.14285714285714288,
+    "rouge2_f": 0.0130718954248366,
+    "rougeL_f": 0.0909090909090909,
+    "meteor": 0.07035860190649114,
+    "bleu1": 0.10810810810810814,
+    "bleu2": 0.020470067778041875,
+    "bleu3": 0.005463049630434034,
+    "bleu4": 0.002824986444076588,
+    "bertscore_precision": 0.3613986372947693,
+    "bertscore_recall": 0.35973185300827026,
+    "bertscore_f1": 0.3605633080005646
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Eyebrow Stamp Stencil Kit for Beginner - Eye Brow Stamping Kit, 24 Shaping Eyebrow Stencils and Stamp Kit, Waterproof Chocolate Brow Pomade Eyebrow Makeup Kit for Girls, Teens\nReview Date: 2022/08/11\nStore: POZILAN\nAverage Rating: 2.9\nProduct Details: {'Brand': 'POZILAN', 'Finish Type': 'Natural', 'Special Feature': 'Waterproof', 'Material Feature': 'Natural', 'Product Benefits': 'Softening,Long Lasting', 'Package Dimensions': '5.75 x 5.43 x 1.61 inches; 0.32 Ounces'}\nReview Text: This  product is fast and easy to apply.  Hardest thing about it is trying to make both sides even.  I'm definitely happy with this product.\nReview Title: Fast and easy!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Eyebrow Stamp Stencil Kit for Beginner - Eye Brow Stamping Kit, 24 Shaping Eyebrow Stencils and Stamp Kit, Waterproof Chocolate Brow Pomade Eyebrow Makeup Kit for Girls, Teens\nPOZILAN\n{'Brand': 'POZILAN', 'Finish Type': 'Natural', 'Special Feature': 'Waterproof', 'Material Feature': 'Natural', 'Product Benefits': 'Softening,Long Lasting', 'Package Dimensions': '5.75 x 5.43 x 1.61 inches; 0.32 Ounces'}\nThis  product is fast and easy to apply.  Hardest thing about it is trying to make both sides even.  I'm definitely happy with this product.\nFast and easy!",
+  "profile": "**User Summary:**\n\n- **Makeup Preference:** Generally favors easy and quick application products, particularly in the eyebrow category. \n- **Experience Level:** Appears to be a beginner in makeup application, seeking products that support a straightforward experience.\n- **Desired Features:** Values products that offer a natural finish and are waterproof, indicating a preference for long-lasting makeup.\n- **Review Sentiment:** Positive experience with the ease of use, though with some concern about achieving symmetry. Generally satisfied with performance.\n- **Target Demographic:** Likely a younger audience, possibly teens or young adults, as indicated by the purchase of beginner-friendly makeup products. \n\nOverall, the user is inclined towards practical, user-friendly makeup solutions that help simplify the beauty routine.",
+  "metrics": {
+    "rouge1_f": 0.2131979695431472,
+    "rouge2_f": 0.010256410256410256,
+    "rougeL_f": 0.10152284263959391,
+    "meteor": 0.1547231270358306,
+    "bleu1": 0.17197452229299362,
+    "bleu2": 0.010499527531891359,
+    "bleu3": 0.004143200385404522,
+    "bleu4": 0.002606884402457033,
+    "bertscore_precision": 0.43949437141418457,
+    "bertscore_recall": 0.4531589150428772,
+    "bertscore_f1": 0.44622206687927246
+  }
+}

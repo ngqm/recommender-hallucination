@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: PMD Personal Microderm Replacement Discs - Includes 6 Discs and 1 Filter - For Use With Classic, Plus, Pro, Man, and Elite\nReview Date: 2015/06/09\nAverage Rating: 4.6\nProduct Details: {'Brand': 'PMD Beauty', 'Item Form': 'Aluminum crystal', 'Skin Type': 'All', 'Product Benefits': 'Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.  See more', 'Item Volume': '1 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3.2 x 3.2 x 2.27 inches; 0.7 Ounces', 'Item model number': '1303', 'Department': 'unisex-adult', 'UPC': '855394003034', 'Manufacturer': 'PMD Personal Microderm', 'Country of Origin': 'Vietnam', 'Domestic Shipping': 'Item can be shipped within U.S.', 'International Shipping': 'This item can be shipped to select countries outside of the U.S.  Learn More'}\nReview Text: Loving my PMD!<br />Bought these because I'm extra sensitive on cheeks.\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "PMD Personal Microderm Replacement Discs - Includes 6 Discs and 1 Filter - For Use With Classic, Plus, Pro, Man, and Elite\n{'Brand': 'PMD Beauty', 'Item Form': 'Aluminum crystal', 'Skin Type': 'All', 'Product Benefits': 'Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.Promotes fresh cell growth and reduces the appearance of blemishes, fine lines and wrinkles and large pores.  See more', 'Item Volume': '1 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3.2 x 3.2 x 2.27 inches; 0.7 Ounces', 'Item model number': '1303', 'Department': 'unisex-adult', 'UPC': '855394003034', 'Manufacturer': 'PMD Personal Microderm', 'Country of Origin': 'Vietnam', 'Domestic Shipping': 'Item can be shipped within U.S.', 'International Shipping': 'This item can be shipped to select countries outside of the U.S.  Learn More'}\nLoving my PMD!<br />Bought these because I'm extra sensitive on cheeks.\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Enthusiast:** Shows a strong interest in skincare products, particularly those that promote skin renewal and address blemishes and signs of aging.\n- **Sensitivity Awareness:** Indicates a concern for skin sensitivity, especially around sensitive areas like the cheeks, suggesting a preference for gentle, effective products.\n- **Quality-Oriented:** Values high-quality products, as evidenced by a positive review with a high rating.\n- **Regular Upkeep:** Engages in regular skincare maintenance, likely prioritizing skin health as a part of their routine.\n- **Gender Neutrality in Products:** Shows no specific gender preference in product selections, indicating a broader approach to skincare needs.\n- **Positive Experience Recognition:** Tends to express satisfaction with purchases and appreciates when products perform as expected.\n\nOverall, the user appears to prioritize effective skincare solutions suitable for sensitive skin and appreciates quality and performance in their selections.",
+  "metrics": {
+    "rouge1_f": 0.16197183098591547,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08450704225352113,
+    "meteor": 0.09176470588235296,
+    "bleu1": 0.15227069436299576,
+    "bleu2": 0.008404371794940704,
+    "bleu3": 0.0032055524284476593,
+    "bleu4": 0.0019823519345508593,
+    "bertscore_precision": 0.3979308605194092,
+    "bertscore_recall": 0.42702680826187134,
+    "bertscore_f1": 0.4119657576084137
+  }
+}

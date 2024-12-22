@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Skin Brightening & Lightening Cream - Brighten & Even Out Skin Tone - Helps Fade Age Spots, Lighten Hyperpigmentation and Skin Discolorations - With 2% Kojic Acid - Without Hydroquinone - Made in USA\nReview Date: 2015/08/23\nStore: KESHIMA\nAverage Rating: 3.1\nProduct Details: {'Brand': 'KESHIMA', 'Item Form': 'Cream', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Skin Type': 'All', 'Package Dimensions': '6 x 4 x 1.3 inches; 3.2 Ounces', 'UPC': '754207935558'}\nReview Text: My face feels and looks great. Light weight and cant even tell I have it on.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Skin Brightening & Lightening Cream - Brighten & Even Out Skin Tone - Helps Fade Age Spots, Lighten Hyperpigmentation and Skin Discolorations - With 2% Kojic Acid - Without Hydroquinone - Made in USA\nKESHIMA\n{'Brand': 'KESHIMA', 'Item Form': 'Cream', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Skin Type': 'All', 'Package Dimensions': '6 x 4 x 1.3 inches; 3.2 Ounces', 'UPC': '754207935558'}\nMy face feels and looks great. Light weight and cant even tell I have it on.\nFive Stars\nSkin Brightening & Lightening Cream - Brighten & Even Out Skin Tone - Helps Fade Age Spots, Lighten Hyperpigmentation and Skin Discolorations - With 2% Kojic Acid - Without Hydroquinone - Made in USA\nKESHIMA\n{'Brand': 'KESHIMA', 'Item Form': 'Cream', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Skin Type': 'All', 'Package Dimensions': '6 x 4 x 1.3 inches; 3.2 Ounces', 'UPC': '754207935558'}\nMy face feels and looks great. Light weight and cant even tell I have it on.\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Skin Care Focus:** The user maintains a strong interest in skin care products aimed at brightening and evening out skin tone, with a consistent emphasis on addressing issues like age spots and hyperpigmentation.\n- **Product Effectiveness:** Values products that deliver visible improvements in skin appearance, as demonstrated by recent purchases and five-star reviews.\n- **Product Texture Preference:** Prefers lightweight formulations that feel comfortable and natural on the skin, appreciating products that can be worn without noticing them.\n- **Positive Experience:** Recent purchasing patterns indicate high satisfaction, reflected in consistent five-star ratings, suggesting effective product performance.\n- **Brand Awareness:** Exhibits a preference for products made in the USA, seeking quality and reliability from local brands.\n- **Inclusiveness:** Open to all skin types, indicating a flexible approach to skin care solutions that cater to a broad audience.\n\nOverall, the user prioritizes effective, lightweight skin care solutions focused on skin tone improvement while consistently rewarding brands and products that meet their criteria with positive feedback. They show a strong commitment to skincare that blends performance with comfort.",
+  "metrics": {
+    "rouge1_f": 0.24316109422492402,
+    "rouge2_f": 0.055045871559633024,
+    "rougeL_f": 0.1458966565349544,
+    "meteor": 0.14183742812784048,
+    "bleu1": 0.16097977026176172,
+    "bleu2": 0.008276020864629164,
+    "bleu3": 0.003081785820828572,
+    "bleu4": 0.0018826433274151272,
+    "bertscore_precision": 0.37049600481987,
+    "bertscore_recall": 0.38672709465026855,
+    "bertscore_f1": 0.3784375786781311
+  }
+}

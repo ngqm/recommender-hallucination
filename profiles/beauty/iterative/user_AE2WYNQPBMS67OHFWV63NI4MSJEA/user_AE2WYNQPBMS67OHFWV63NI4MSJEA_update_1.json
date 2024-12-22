@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: PRETTISEST Long Curly Wavy Wig Ombre 28 Inches Body Wave Wigs for Black White Women Replacement Synthetic Body Wave Wig (Color:#1B)\nReview Date: 2021/08/05\nStore: PRETTIEST\nAverage Rating: 4.2\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Wavy, Curly', 'Style': 'Modern', 'Special Feature': 'Tangle Free', 'Brand': 'PRETTIEST', 'Package Dimensions': '11.5 x 8.54 x 2.05 inches; 7.44 Ounces', 'UPC': '778862790109'}\nReview Text: Honestly I love this wig &lt;3 shes pretty thick for the price. If you ever see this wig on sale, get it !! I literally took it out of the bag and started using it. Imagine when I style it. I have brushed it and it does shed but not as much as other cheap wigs. Overall this wig is amazing. I wish bought multiple now\nReview Title: Amazing &lt;3\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "PRETTISEST Long Curly Wavy Wig Ombre 28 Inches Body Wave Wigs for Black White Women Replacement Synthetic Body Wave Wig (Color:#1B)\nPRETTIEST\n{'Material': 'Synthetic', 'Hair Type': 'Wavy, Curly', 'Style': 'Modern', 'Special Feature': 'Tangle Free', 'Brand': 'PRETTIEST', 'Package Dimensions': '11.5 x 8.54 x 2.05 inches; 7.44 Ounces', 'UPC': '778862790109'}\nHonestly I love this wig &lt;3 shes pretty thick for the price. If you ever see this wig on sale, get it !! I literally took it out of the bag and started using it. Imagine when I style it. I have brushed it and it does shed but not as much as other cheap wigs. Overall this wig is amazing. I wish bought multiple now\nAmazing &lt;3",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Enjoys long, wavy, and curly synthetic wigs, specifically favoring modern styles with vibrant colors.\n- **Quality Expectations:** Seeks good value for the price, appreciating thickness and durability in wigs. Tangle-free features are particularly important.\n- **Purchase Behavior:** Tends to buy products that provide a positive initial experience and shows interest in purchasing multiple items when satisfied.\n- **Reviewing Style:** Expresses genuine affection for products, often highlighting specific attributes like texture and functionality. Uses enthusiastic language, indicating strong satisfaction with purchases.\n- **Trend Awareness:** Likely to take advantage of sales or promotions and maintain an interest in keeping up-to-date with product availability. \n\nOverall, this user appears to prioritize quality, value, and aesthetic appeal in their wig purchases, alongside a positive and enthusiastic approach to sharing their experiences.",
+  "metrics": {
+    "rouge1_f": 0.22310756972111553,
+    "rouge2_f": 0.0321285140562249,
+    "rougeL_f": 0.12749003984063745,
+    "meteor": 0.15606728366385803,
+    "bleu1": 0.1787709497206704,
+    "bleu2": 0.06338236910075272,
+    "bleu3": 0.02831313045494866,
+    "bleu4": 0.010656454882160028,
+    "bertscore_precision": 0.42523035407066345,
+    "bertscore_recall": 0.43388134241104126,
+    "bertscore_f1": 0.4295123219490051
+  }
+}

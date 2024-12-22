@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/28\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Joe Berlinger', 'Bruce Sinofsky'], 'Producers': ['Joe Berlinger', 'Bruce Sinofsky', 'IFC'], 'Starring': ['Delbert Ward', 'Roscoe Ward', 'Connie Chung']}\nReview Text: I felt this was well done and true. No need to make a story this one tells itself in the footage alone and does a great job. I think it is easy to understand the peoples emotions in this movie and how they feel about the family.\nReview Title: Well Done\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Matthew Bonifacio'], 'Producers': ['Stephen Ashkinos', 'Matthew Bonifacio', 'Carmine Famiglietti'], 'Starring': ['Lou Martini Jr.', 'Susan Varon', 'Sharon Angela'], 'Studio': ['FilmBuff']}\nThis was listed as being a documentary and so I started it. It's clearly not, and from what I can tell (I only watched 20 minutes it's not that great of a movie.\nNot a Documentary\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Joe Berlinger', 'Bruce Sinofsky'], 'Producers': ['Joe Berlinger', 'Bruce Sinofsky', 'IFC'], 'Starring': ['Delbert Ward', 'Roscoe Ward', 'Connie Chung']}\nI felt this was well done and true. No need to make a story this one tells itself in the footage alone and does a great job. I think it is easy to understand the peoples emotions in this movie and how they feel about the family.\nWell Done",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preferred Genres:** The user remains aligned with a preference for documentaries, particularly those that present authentic narratives without unnecessary embellishments.\n- **Expectations:** Reinforcing their desire for accurate genre representation, the user actively seeks films that fulfill their advertised qualities, contributing to their critical engagement.\n- **Engagement Duration:** The user's critical nature is highlighted by their tendency to disengage from content that fails to meet their expectations, often stopping viewing after a short period, like 20 minutes.\n- **Rating Tendencies:** The user displays a discerning perspective, evidenced by a moderately high average rating of 4.3 in their recent review, reflecting a balanced and thoughtful evaluation of film quality.\n- **Content Appreciation:** The user shows a clear inclination towards films that are well-crafted and tell their own stories effectively. They appreciate emotional depth and insightful portrayal of real-life situations, favoring documentaries that resonate with the human experience and provide clarity.\n\nOverall, this updated profile illustrates a user who values authenticity, emotional engagement, and substantive storytelling in their film selections, maintaining a critical eye towards media that diverges from these expectations.",
+  "metrics": {
+    "rouge1_f": 0.20253164556962028,
+    "rouge2_f": 0.006369426751592356,
+    "rougeL_f": 0.10759493670886076,
+    "meteor": 0.13604592215899441,
+    "bleu1": 0.20600858369098712,
+    "bleu2": 0.04214185646482145,
+    "bleu3": 0.009160906468399456,
+    "bleu4": 0.004275844253898088,
+    "bertscore_precision": 0.40228575468063354,
+    "bertscore_recall": 0.41929036378860474,
+    "bertscore_f1": 0.4106120765209198
+  }
+}

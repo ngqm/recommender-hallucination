@@ -1,0 +1,69 @@
+{
+  "user_id": "AG7PJVDYWSC6EQ2XIWYCUJBK2GMQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/06/23\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['John Davis', 'Ken Mok', 'Megan Ellison', 'Jonathan Gordon', 'David O. Russell'], 'Starring': ['Jennifer Lawrence', 'Robert De Niro', 'Edgar Ramirez'], 'Studio': ['20th Century Fox']}\nReview Text: This movie was a bit eclectic. Slow at the beginning but improved as the movie progressed.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/12\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Entertaining!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Burton and Richard Starzak'], 'Producers': ['Sean Clarke', 'Olivier Courson', 'Ben Curtis', 'Alicia Gold', 'Ron Halpern', 'Paul Kewley', 'Kerry Lock', 'Julie Lockhart'], 'Starring': ['Justin Fletcher', 'John Sparkes', 'Omid Djalili']}\nReview Text: Not very good\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/07/28\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Condon'], 'Producers': ['David Hoberman', 'Todd Lieberman'], 'Starring': ['Emma Watson', 'Dan Stevens', 'Luke Evans'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Not impressed.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['John Davis', 'Ken Mok', 'Megan Ellison', 'Jonathan Gordon', 'David O. Russell'], 'Starring': ['Jennifer Lawrence', 'Robert De Niro', 'Edgar Ramirez'], 'Studio': ['20th Century Fox']}\nThis movie was a bit eclectic. Slow at the beginning but improved as the movie progressed.\nThree Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nEntertaining!\nFour Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Burton and Richard Starzak'], 'Producers': ['Sean Clarke', 'Olivier Courson', 'Ben Curtis', 'Alicia Gold', 'Ron Halpern', 'Paul Kewley', 'Kerry Lock', 'Julie Lockhart'], 'Starring': ['Justin Fletcher', 'John Sparkes', 'Omid Djalili']}\nNot very good\nTwo Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Condon'], 'Producers': ['David Hoberman', 'Todd Lieberman'], 'Starring': ['Emma Watson', 'Dan Stevens', 'Luke Evans'], 'Studio': ['Walt Disney Pictures']}\nNot impressed.\nThree Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/06/23\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['David O. Russell'], 'Producers': ['John Davis', 'Ken Mok', 'Megan Ellison', 'Jonathan Gordon', 'David O. Russell'], 'Starring': ['Jennifer Lawrence', 'Robert De Niro', 'Edgar Ramirez'], 'Studio': ['20th Century Fox']}\nReview Text: This movie was a bit eclectic. Slow at the beginning but improved as the movie progressed.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/12\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Entertaining!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/12/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Burton and Richard Starzak'], 'Producers': ['Sean Clarke', 'Olivier Courson', 'Ben Curtis', 'Alicia Gold', 'Ron Halpern', 'Paul Kewley', 'Kerry Lock', 'Julie Lockhart'], 'Starring': ['Justin Fletcher', 'John Sparkes', 'Omid Djalili']}\nReview Text: Not very good\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/07/28\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Condon'], 'Producers': ['David Hoberman', 'Todd Lieberman'], 'Starring': ['Emma Watson', 'Dan Stevens', 'Luke Evans'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Not impressed.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThis individual's purchase history reveals a nuanced preference for high-quality entertainment with a leaning towards films that feature engaging narratives. Consistently high ratings suggest a tendency to appreciate well-crafted productions, particularly those by notable directors and featuring strong casts. However, their polarized ratings indicate an aversion to content that fails to maintain interest or quality, as seen in several two- and three-star reviews.\n\nCommon themes across the reviews include an appreciation for English audio options and subtitles, indicating a preference for immersive experiences that cater to diverse viewing needs. The individual appears to prioritize narrative progression, as stated in various reviews describing fluctuations in entertainment value.\n\nQuality appears to be a significant preference, as evidenced by consistently high ratings for well-received productions contrasted with negative feedback on perceived poor-quality films. There is also a hint of price sensitivity, as the ratings seem to reflect expectations relative to perceived value; positive experiences yield higher scores while lackluster performances lead to diminished ratings.\n\nIn conclusion, the core preferences suggest a discerning viewer who seeks out quality storytelling and engaging performances, is responsive to narrative flow, and exhibits critical judgment towards less impressive offerings while valuing subtitled and audio accommodations.",
+  "target_interaction": {
+    "rating": 3.0,
+    "title": "Three Stars",
+    "text": "Just ok.",
+    "images": [],
+    "asin": "B01HQUTVOW",
+    "parent_asin": "B01HQUTVOW",
+    "user_id": "AG7PJVDYWSC6EQ2XIWYCUJBK2GMQ",
+    "timestamp": "2017-07-28 21:35:19.292000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.8,
+    "rating_number": 6702,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/085b8b8100686f1293d88ef25e06257b8f82fb3df0cc313b1528bd1159aed2e0._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English",
+        "Espa\u00f1ol"
+      ],
+      "Subtitles": [
+        "English",
+        "English [CC]",
+        "Espa\u00f1ol (Latinoam\u00e9rica)"
+      ],
+      "Directors": [
+        "Steven Spielberg"
+      ],
+      "Producers": [
+        "Steven Spielberg",
+        "Frank Marshall",
+        "Sam Mercer"
+      ],
+      "Starring": [
+        "Ruby Barnhill",
+        "Penelope Wilton"
+      ],
+      "Studio": [
+        "Walt Disney Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

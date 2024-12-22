@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Caillou's Fun Outside!\nReview Date: 2013/10/09\nStore: Rated:    Unrated    Format: DVD\nCategories: Movies & TV, 3-6 Years\nProduct Description: ['Caillous Fun Outside! episodes include: Caillou Outdoors, Springtime for Caillou, All Wet, Outdoor Adventures.']\nAverage Rating: 4.5\nProduct Details: {'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '841887012706', 'Media Format': 'Multiple Formats, Closed-captioned, Color, Dolby, NTSC, Full Screen', 'Run time': '2 hours', 'Release date': 'January 2, 2012', 'Language': 'Unqualified', 'Studio': 'PBS', 'Number of discs': '1'}\nReview Text: My daughter loves Caillou. She can watch this DVD for hours and hours. Great episodes, my daughter likes them a lot. She never gets bored. Duration more than 1 hour.\nReview Title: Great Product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Caillou's Fun Outside!\nRated:    Unrated    Format: DVD\nMovies & TV, 3-6 Years\n['Caillous Fun Outside! episodes include: Caillou Outdoors, Springtime for Caillou, All Wet, Outdoor Adventures.']\n{'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '841887012706', 'Media Format': 'Multiple Formats, Closed-captioned, Color, Dolby, NTSC, Full Screen', 'Run time': '2 hours', 'Release date': 'January 2, 2012', 'Language': 'Unqualified', 'Studio': 'PBS', 'Number of discs': '1'}\nMy daughter loves Caillou. She can watch this DVD for hours and hours. Great episodes, my daughter likes them a lot. She never gets bored. Duration more than 1 hour.\nGreat Product",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interest:** Educational and entertaining content for young children, particularly in the age range of 3-6 years.\n- **Preferences:** \n  - Positive emotional connections with children's media, demonstrated by high ratings for products.\n  - Content that encourages outdoor activities and exploration.\n  - Focus on engaging narratives that hold the attention of young viewers, as indicated by the prolonged viewing time.\n- **Viewing Habits:** Consistent preference for content that can be watched repeatedly, showcasing a desire for quality and engaging storytelling.\n- **Feedback Tendencies:** Likely to leave favorable reviews for products that meet or exceed expectations, especially when they resonate well with a child's interests.\n- **Overall Engagement:** Demonstrates a commitment to selecting high-quality, child-friendly media that promotes development and enjoyment in early childhood.",
+  "metrics": {
+    "rouge1_f": 0.15450643776824036,
+    "rouge2_f": 0.017316017316017316,
+    "rougeL_f": 0.10300429184549356,
+    "meteor": 0.11260832833219021,
+    "bleu1": 0.15605877233737153,
+    "bleu2": 0.009525327106168614,
+    "bleu3": 0.0037577787683102997,
+    "bleu4": 0.0023637482421851844,
+    "bertscore_precision": 0.3999477028846741,
+    "bertscore_recall": 0.424575537443161,
+    "bertscore_f1": 0.4118938446044922
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/09\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nReview Text: Movie was ok\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Mangold'], 'Producers': ['Hugh Jackman', 'Lauren Shuler Donner', 'Hutch Parker'], 'Starring': ['Hugh Jackman', 'Hiroyuki Sanada', 'Famke Janssen'], 'Studio': ['20th Century Fox']}\nI thought the movie was ok.  It had more action than plot.  I was able to enjoy it with family.\nIt was Ok\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nMovie was ok\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** The user generally maintains positive ratings (average 4.6), though they demonstrate discernment, as evidenced by a recent 3.0 rating. Their latest review reflects a slight dip in enthusiasm, leading to a new average rating of 4.5.\n\n- **Content Preferences:** The user enjoys entertaining content, particularly in the action genre, while emphasizing the importance of coherent storytelling. They favor family-friendly options, indicating a desire for films suitable for family viewing.\n\n- **Themes and Advisory:** The user is open to mature themes, comfortably engaging with content that includes violence, nudity, and strong language, signaling their acceptance of adult themes in media.\n\n- **Language and Accessibility:** The user prefers English audio with options for audio description and closed captions. This highlights their commitment to inclusivity and accessibility in their viewing choices.\n\nOverall, the user appreciates action-oriented narratives that engage families, aligning their entertainment enjoyment with a thoughtful outlook on content quality and appropriateness. Their discerning approach to ratings continues to evolve, reflecting minor shifts in preferences.",
+  "metrics": {
+    "rouge1_f": 0.1297709923664122,
+    "rouge2_f": 0.015384615384615385,
+    "rougeL_f": 0.0916030534351145,
+    "meteor": 0.09189312176639923,
+    "bleu1": 0.12385321100917433,
+    "bleu2": 0.007554813859164506,
+    "bleu3": 0.002978502222646013,
+    "bleu4": 0.0018723577446377376,
+    "bertscore_precision": 0.3675004839897156,
+    "bertscore_recall": 0.37901604175567627,
+    "bertscore_f1": 0.3731694221496582
+  }
+}

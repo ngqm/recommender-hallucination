@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Shattered Trust: The Shari Karney Story\nReview Date: 2014/12/31\nStore: Format: DVD\nCategories: Movies & TV, Movies\nAverage Rating: 4.0\nProduct Details: {'Aspect Ratio': '1.33:1', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Number of discs': '1'}\nReview Text: Very informative. It was a good movie. I was with Melissa Gilbert in every situation that came up.  This is a movie everyone should see, including predators so they find out what they are in for. Didn't give 5 stars only because some situations I feel needed a little more details and finishing out some of them.  Just my own opinion others may think it is fine the way it is.\nReview Title: It was a good movie. I was with Melissa Gilbert in every ...\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Shattered Trust: The Shari Karney Story\nFormat: DVD\nMovies & TV, Movies\n{'Aspect Ratio': '1.33:1', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Number of discs': '1'}\nVery informative. It was a good movie. I was with Melissa Gilbert in every situation that came up.  This is a movie everyone should see, including predators so they find out what they are in for. Didn't give 5 stars only because some situations I feel needed a little more details and finishing out some of them.  Just my own opinion others may think it is fine the way it is.\nIt was a good movie. I was with Melissa Gilbert in every ...",
+  "profile": "**User Profile Summary**\n\n- **Media Preferences**: Enjoys movies with strong narratives and informative content, particularly those that address serious themes.\n- **Rating Tendencies**: Frequently rates movies around 4 stars, indicating a tendency to appreciate quality but also a willingness to critique areas for improvement.\n- **Emotional Engagement**: Engages deeply with characters and storylines, demonstrating a preference for emotionally resonant content.\n- **Educational Value**: Values films that offer insights and provoke thought, especially regarding social issues and personal experiences.\n- **Subject Matter Interest**: Shows interest in biographical or true-story adaptations, particularly those that shine a light on personal struggles or societal injustices. \n- **Constructive Critique**: Provides balanced feedback, acknowledging both strengths and weaknesses in the media consumed, suggesting a thoughtful and discerning perspective on storytelling. \n\nOverall, this user appears to prioritize meaningful cinema that blends entertainment with educational value, while also being reflective and critical in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.14559386973180077,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09195402298850576,
+    "meteor": 0.13211382113821138,
+    "bleu1": 0.15656565656565657,
+    "bleu2": 0.008914872549363746,
+    "bleu3": 0.003435511463496406,
+    "bleu4": 0.0021354278314669704,
+    "bertscore_precision": 0.41557109355926514,
+    "bertscore_recall": 0.41360151767730713,
+    "bertscore_f1": 0.4145839810371399
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pink Gellac 157 Sky Blue Soak-Off UV/LED Gel Polish\nReview Date: 2016/07/27\nStore: PG Pink Gellac\nAverage Rating: 4.3\nProduct Details: {'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Blue,Pink,Sky Blue', 'Type': 'gel', 'Finish Type': 'Creme', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Dimensions LxWxH': '1.18 x 1.18 x 2.95 inches', 'Item Weight': '0.03 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.48 Ounces', 'UPC': '794168455238'}\nReview Text: Beautiful color but isn't that bright as on the picture\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Pink Gellac 152 Naked Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Pink', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Number of Items': '152', 'Number of Pieces': '152', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.53 Ounces'}\nSuper! Love the color and quality!\nFive Stars\nPink Gellac 157 Sky Blue Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Blue,Pink,Sky Blue', 'Type': 'gel', 'Finish Type': 'Creme', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Dimensions LxWxH': '1.18 x 1.18 x 2.95 inches', 'Item Weight': '0.03 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.48 Ounces', 'UPC': '794168455238'}\nBeautiful color but isn't that bright as on the picture\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Color Preference:** Strong inclination towards pink shades, with recent interest in blue tones.\n- **Product Type:** Preference for gel polish formulations, particularly soak-off options, maintaining a focus on quality brands.\n- **Quality Appreciation:** Values product quality highly, as reflected in previous five-star reviews, though recent interaction indicates a slightly less favorable experience leading to a four-star rating.\n- **Finish Preference:** Enjoys shimmery finishes but has also explored creme finishes.\n- **Ethical Standards:** Committed to non-toxic and cruelty-free products, aligning with their values.\n- **Age Demographic:** Adult consumers likely seeking reliable, stylish nail care products that are both visually appealing and safe.\n- **Positive Experience:** Consistently positive experiences are evident, though recent feedback suggests a desire for better color representation in product imagery.\n\nOverall, this user demonstrates a keen interest in high-quality nail products that reflect their aesthetic preferences and ethical values, while also exploring a broader color palette. Their feedback indicates a willingness to provide constructive criticism based on product experiences.",
+  "metrics": {
+    "rouge1_f": 0.19584569732937684,
+    "rouge2_f": 0.035820895522388055,
+    "rougeL_f": 0.10682492581602374,
+    "meteor": 0.07609100995231417,
+    "bleu1": 0.09632431912380937,
+    "bleu2": 0.005875299498809176,
+    "bleu3": 0.0023162295488008146,
+    "bleu4": 0.001455961160397533,
+    "bertscore_precision": 0.36028751730918884,
+    "bertscore_recall": 0.38517701625823975,
+    "bertscore_f1": 0.37231674790382385
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JIMIRE False Eyelashes with Glue, Full Volume Lashes 3 Pairs with Drying Clear Adhesive\nReview Date: 2020/01/12\nStore: JIMIRE\nAverage Rating: 4.0\nProduct Details: {'Brand': 'JIMIRE', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Glue Free', 'Item Form': 'Pair', 'Unit Count': '4.00 Count', 'Package Dimensions': '5.3 x 3.5 x 0.7 inches; 0.63 Ounces', 'UPC': '732376371186'}\nReview Text: Very nice lashes. They\u2019re nice quality and soft. I picked the full volume ones not the wispy.\nReview Title: Must buy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ALICROWN 3D False Eyelashes 4 Styles Volume Soft Lashes Hand-made Reusable Long Lash\nALICROWN HAIR\n{'Brand': 'ALICROWN HAIR', 'Item Dimensions LxWxH': '3.94 x 3.94 x 0.59 inches', 'Material Feature': 'Lash', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Product Dimensions': '3.94 x 3.94 x 0.59 inches; 0.81 Ounces', 'UPC': '734830078440'}\nWhen I received the lashes (which was in two days from purchase date), I immediately was fond of the packaging. The package was cute and then I opened the boxes the lashes came in. There were multiple styles! All were so pretty and unique. I recommend these lashes for the quality and price. I will recommend these to my friends!\nGreat\nJIMIRE False Eyelashes with Glue, Full Volume Lashes 3 Pairs with Drying Clear Adhesive\nJIMIRE\n{'Brand': 'JIMIRE', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Glue Free', 'Item Form': 'Pair', 'Unit Count': '4.00 Count', 'Package Dimensions': '5.3 x 3.5 x 0.7 inches; 0.63 Ounces', 'UPC': '732376371186'}\nVery nice lashes. They\u2019re nice quality and soft. I picked the full volume ones not the wispy.\nMust buy",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences**: The user continues to show a strong interest in beauty products, particularly false eyelashes, with a current focus on options that offer full volume. There is an evident preference for a variety of styles and high-quality selections.\n  \n- **Quality Sensitivity**: The user prioritizes quality, as seen in their recent purchase of soft and well-made lashes, further emphasizing the value placed on craftsmanship and materials such as faux mink.\n\n- **Value for Money**: They appreciate products that balance affordability with quality, indicating a focus on cost-effectiveness without sacrificing notable features, such as being glue-free.\n\n- **Aesthetics**: The user remains drawn to visually appealing products, valuing presentation as part of their overall experience, which is crucial in the beauty category.\n\n- **Social Influence**: The willingness to recommend products to friends persists, underscoring a strong tendency towards sharing positive experiences and engaging socially regarding their beauty finds.\n\n- **Positive Feedback**: The user expresses satisfaction through high ratings when experiences meet or surpass expectations, as evidenced by their latest review reflecting enthusiasm and positivity.\n\nOverall, the user remains an avid beauty enthusiast who values high-quality, aesthetically pleasing, and cost-effective beauty options, particularly in the realm of false eyelashes.",
+  "metrics": {
+    "rouge1_f": 0.23255813953488372,
+    "rouge2_f": 0.03116883116883117,
+    "rougeL_f": 0.11369509043927647,
+    "meteor": 0.16107972297341636,
+    "bleu1": 0.2217898832684825,
+    "bleu2": 0.041626115156654,
+    "bleu3": 0.008791517820406974,
+    "bleu4": 0.004044263709901869,
+    "bertscore_precision": 0.38667669892311096,
+    "bertscore_recall": 0.41432151198387146,
+    "bertscore_f1": 0.40002205967903137
+  }
+}

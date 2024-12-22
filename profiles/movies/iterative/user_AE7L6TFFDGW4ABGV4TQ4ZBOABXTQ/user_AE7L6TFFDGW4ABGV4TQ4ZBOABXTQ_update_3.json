@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/09\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Victor Gonzalez', 'Bob Koherr', 'Robert Berlinger', 'Mark Cendrowski', 'Guy Distad', 'David DeLuise', 'Robbie Countryman', 'Fred Savage', 'Andrew Tsao', 'Joe Regalbuto'], 'Studio': ['Disney Channel']}\nReview Text: great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['The Orchard'], 'Producers': ['William Simpson'], 'Starring': ['Selena Gomez'], 'Studio': ['The Orchard']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Christiansen', 'Richard Correll', 'Shannon Flynn', 'Bob Koherr', 'David Kendall', 'Jody Margolin Hahn', 'Shelley Jensen', 'Adam Weissman', 'Fred Savage', 'Chip Fields'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Victor Gonzalez', 'Bob Koherr', 'Robert Berlinger', 'Mark Cendrowski', 'Guy Distad', 'David DeLuise', 'Robbie Countryman', 'Fred Savage', 'Andrew Tsao', 'Joe Regalbuto'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** The user maintains a pattern of providing high ratings, bolstered by their recent five-star review reflecting their satisfaction with multiple offerings.\n- **Content Appreciation:** There is a clear enjoyment of audio and visual content, particularly in English, underscoring a strong preference for engaging media formats that captivate their attention.\n- **Interest in Artists:** The user shows a consistent fondness for contemporary artists and notable figures, indicating a preference for recognizable talent within their selected media.\n- **Production Quality:** They exhibit a clear inclination towards well-produced works from reputable studios, reinforcing their desire for polished and high-quality content.\n- **Emphasis on Accessibility:** The user continues to prioritize accessibility features, often opting for media with English subtitles or closed captions, which reflects their commitment to inclusive viewing experiences.\n\nThis latest interaction reaffirms the user\u2019s appreciation for high-quality, engaging content from established studios. Their preference for clear accessibility options remains a significant aspect of their viewing choices, further highlighting their discerning taste that aligns with contemporary media trends focused on enjoyable and accessible experiences. Overall, the user is consistently drawn to polished productions that enable clear comprehension while showcasing popular talent.",
+  "metrics": {
+    "rouge1_f": 0.07801418439716312,
+    "rouge2_f": 0.014285714285714285,
+    "rougeL_f": 0.06382978723404255,
+    "meteor": 0.03641329085116068,
+    "bleu1": 0.06557377049180328,
+    "bleu2": 0.005194717580135385,
+    "bleu3": 0.002234101184966917,
+    "bleu4": 0.0014666377816406873,
+    "bertscore_precision": 0.35309842228889465,
+    "bertscore_recall": 0.3250928819179535,
+    "bertscore_f1": 0.338517427444458
+  }
+}

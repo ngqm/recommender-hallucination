@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare\nReview Date: 2014/09/27\nStore: Beauticom\nProduct Description: ['Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare']\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Beauticom', 'Number of Items': '2', 'Use for': 'Whole Body', 'Unit Count': '2.00 Count'}\nReview Text: These are great to use if you angel the bottle in or out\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare\nBeauticom\n['Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare']\n{'Brand': 'Beauticom', 'Number of Items': '2', 'Use for': 'Whole Body', 'Unit Count': '2.00 Count'}\nThese are great to use if you angel the bottle in or out\nFour Stars",
+  "profile": "### User Profile Summary\n\n**Keywords:** Body Care, Beauty Care, Nail Polish Accessories, Functional Design, Positive Experience\n\n**Trends:**\n- **Product Preference:** The user has a clear interest in body and beauty care products, specifically related to nail care. \n- **Functional Use:** The mention of angling the bottle suggests that the user values practicality and ease of use in beauty accessories.\n- **Rating Behavior:** The user tends to provide positive feedback, as evidenced by a four-star rating, indicating satisfaction with product quality and performance.\n- **Purchase Channel:** The user engages with specific beauty retailers, hinting at a preference for dedicated beauty products.\n\nOverall, this initial interaction points to a user who appreciates functional, high-quality beauty care accessories with a focus on nail care. They are discerning in their purchases and maintain a positive outlook on their experiences.",
+  "metrics": {
+    "rouge1_f": 0.22797927461139894,
+    "rouge2_f": 0.08376963350785341,
+    "rougeL_f": 0.16580310880829016,
+    "meteor": 0.13371537726838587,
+    "bleu1": 0.11475409836065574,
+    "bleu2": 0.05022019609518253,
+    "bleu3": 0.011169303134256688,
+    "bleu4": 0.005274744550148414,
+    "bertscore_precision": 0.45583391189575195,
+    "bertscore_recall": 0.38165798783302307,
+    "bertscore_f1": 0.41546112298965454
+  }
+}

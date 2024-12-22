@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Veda Tinda Gel Nail Polish Kit 20 Colors Fall Winter Modern Stage Soak off UV/LED Lamp Nail Polish Set with Glossy & Matte Top Coat and Base Coat Christmas\nReview Date: 2021/12/01\nStore: veda Tinda\nAverage Rating: 4.4\nProduct Details: {'Brand': 'veda Tinda', 'Item Form': 'Gel', 'Type': 'base', 'Finish Type': 'Glossy, Matte', 'Material Feature': 'Cruelty Free', 'Unit Count': '3.50 Fl Oz', 'Liquid Volume': '0.25 Fluid Ounces', 'Package Dimensions': '10.63 x 3.98 x 3.94 inches; 1.81 Pounds'}\nReview Text: These colors are so pretty! I love neutral tones and sparkles. The bottles are a tad small, but that's no biggie for me. The quality the gel polish is great.\nReview Title: Looooove!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "False Eyelashes Faux Mink 20 Pairs 5 Styles Natural Lashes Wispy Fluffy 3D Volume Fake Lashes Pack by HeyAlice\nHeyAlice\n{'Brand': 'HeyAlice', 'Material': 'Faux Mink', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Package Dimensions': '8.9 x 7.6 x 0.55 inches; 1.45 Ounces'}\n[[VIDEOID:ddf150995980386ab3068dcb7c2e3a4f]] I absolutely love love these lashes! They aren't heavy at all and I love the different styles included. Very lightweight, fashionable, and stylish. Worth the money and I'd definitely be shopping again!\nLove these!\nVeda Tinda Gel Nail Polish Kit 20 Colors Fall Winter Modern Stage Soak off UV/LED Lamp Nail Polish Set with Glossy & Matte Top Coat and Base Coat Christmas\nveda Tinda\n{'Brand': 'veda Tinda', 'Item Form': 'Gel', 'Type': 'base', 'Finish Type': 'Glossy, Matte', 'Material Feature': 'Cruelty Free', 'Unit Count': '3.50 Fl Oz', 'Liquid Volume': '0.25 Fluid Ounces', 'Package Dimensions': '10.63 x 3.98 x 3.94 inches; 1.81 Pounds'}\nThese colors are so pretty! I love neutral tones and sparkles. The bottles are a tad small, but that's no biggie for me. The quality the gel polish is great.\nLooooove!",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Demonstrates a strong affinity for beauty and cosmetics, with a recent addition of gel nail polish, indicating openness to a broader range of beauty products beyond false eyelashes. \n\n- **Material Choice:** Continues to favor cruelty-free options, reinforcing a preference for ethical and responsible products.\n\n- **Variety:** Appreciates variety, shown by enjoyment of multiple colors in nail polish and multiple lash styles in past purchases, emphasizing a love for diverse beauty aesthetics.\n\n- **Quality Emphasis:** Aligns with quality over quantity; the positive review and high rating of the gel polish suggest a willingness to invest in high-quality items that meet aesthetic standards.\n\n- **Shopping Behavior:** Engages in repeat purchasing and shows enthusiasm for trying new beauty items, highlighting a consistent interest in replenishing and expanding their beauty collection.\n\n- **Overall Sentiment:** Expresses enthusiasm and satisfaction with products, valuing both functionality and aesthetics. The excitement over pretty colors and quality highlights a joyful engagement with beauty routines.\n\nThis user\u2019s preferences lean towards fashionable, ethical beauty products that offer versatility, comfort, and delightful aesthetics, reflecting a commitment to enhancing their beauty regimen.",
+  "metrics": {
+    "rouge1_f": 0.1978609625668449,
+    "rouge2_f": 0.03763440860215053,
+    "rougeL_f": 0.0962566844919786,
+    "meteor": 0.13660330292610345,
+    "bleu1": 0.16902316440597132,
+    "bleu2": 0.05645830998564393,
+    "bleu3": 0.02294049939823233,
+    "bleu4": 0.00823181498708397,
+    "bertscore_precision": 0.38164350390434265,
+    "bertscore_recall": 0.4282572269439697,
+    "bertscore_f1": 0.40360891819000244
+  }
+}

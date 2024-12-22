@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ZDU Collagen Firming Mask, 20 PCS Collagen Firming Sleeping Mask, Wash-Free Firming Anti Aging Moisturizing Facial Mask 20 Count (Pack of 1)\nReview Date: 2022/05/21\nStore: ZDU\nAverage Rating: 3.5\nProduct Details: {'Brand': 'ZDU', 'Product Benefits': 'Moisturizing', 'Scent': 'Wash Free', 'Material Type Free': 'Oil Free', 'Skin Type': 'All', 'Package Dimensions': '4.72 x 2.68 x 1.54 inches; 3.84 Ounces'}\nReview Text: This product helped moisturize my skin and keep it free of acne! I love this product it also helped smooth my skin and lighten my dark marks! 10/10 very good product\nReview Title: Mask\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BOOSCA Turmeric Facial Cleansing Mask Stick Moisturizing Face Clean Clay Deep Cleanse Mask for All Skin Types\nBOOSCA\n{'Brand': 'BOOSCA', 'Item Form': 'Clay', 'Recommended Uses For Product': 'Hydrating,Acne,Cleansing,Moisturizing', 'Material Feature': 'Natural', 'Skin Tone': 'All', 'Package Dimensions': '3.07 x 1.54 x 1.5 inches; 2.89 Ounces'}\nI love this facial cleanser it\u2019s easy to use and works great! It helps clear the skin and remove the blemishes and acne scars.\nFacial cleanser\nZDU Collagen Firming Mask, 20 PCS Collagen Firming Sleeping Mask, Wash-Free Firming Anti Aging Moisturizing Facial Mask 20 Count (Pack of 1)\nZDU\n{'Brand': 'ZDU', 'Product Benefits': 'Moisturizing', 'Scent': 'Wash Free', 'Material Type Free': 'Oil Free', 'Skin Type': 'All', 'Package Dimensions': '4.72 x 2.68 x 1.54 inches; 3.84 Ounces'}\nThis product helped moisturize my skin and keep it free of acne! I love this product it also helped smooth my skin and lighten my dark marks! 10/10 very good product\nMask",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preference for Natural Products:** The user continues to demonstrate a strong inclination towards products with natural ingredients and effective formulations, which align with their interests in skincare.\n\n- **Effective Skin Care Solutions:** The user values products that yield visible results, such as improving skin texture, addressing acne, and lightening dark marks. Their recent interaction indicates satisfaction with a product that supports these goals, further emphasizing their focus on effective skincare.\n\n- **Simple and Convenient Usage:** The user appreciates easy-to-apply products. The review of the new item suggests a preference for straightforward, wash-free applications that fit seamlessly into their routine.\n\n- **Broad Product Compatibility:** The continued mention of compatibility with all skin types confirms the user's preference for versatile solutions that can address varying skincare needs.\n\n- **Moderate Critical Approach:** Maintaining an average rating of 3.5, the user exhibits a balanced perspective on skincare products, indicating that while they experience positive outcomes, they still hold high expectations regarding performance and quality. Their recent review with a perfect score suggests moments of strong approval when a product exceeds their standards. \n\nOverall, the user's profile reflects a consistent desire for effective, convenient, and broadly applicable skincare solutions with a preference for natural ingredients.",
+  "metrics": {
+    "rouge1_f": 0.18328840970350402,
+    "rouge2_f": 0.032520325203252036,
+    "rougeL_f": 0.10242587601078167,
+    "meteor": 0.11780240320427236,
+    "bleu1": 0.1511627906976744,
+    "bleu2": 0.024252465131847846,
+    "bleu3": 0.006124781558819024,
+    "bleu4": 0.0030809376397716495,
+    "bertscore_precision": 0.417415976524353,
+    "bertscore_recall": 0.4263232946395874,
+    "bertscore_f1": 0.42182260751724243
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HOSL Flat Makeup Brushes Contour Brush Foundation Brush-1 PCS Silver and Black Color (Silver and Black)\nReview Date: 2016/06/23\nStore: HOSL\nAverage Rating: 3.9\nProduct Details: {'Brand': 'HOSL', 'Recommended Uses For Product': 'Contour, For Foundation', 'Color': 'Silver', 'Material': 'Silver', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6 x 1 x 0.75 inches; 1.6 Ounces', 'UPC': '794438000540'}\nReview Text: Love it. Great price.\nReview Title: Awesome price.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HOSL Flat Makeup Brushes Contour Brush Foundation Brush-1 PCS Silver and Black Color (Silver and Black)\nHOSL\n{'Brand': 'HOSL', 'Recommended Uses For Product': 'Contour, For Foundation', 'Color': 'Silver', 'Material': 'Silver', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6 x 1 x 0.75 inches; 1.6 Ounces', 'UPC': '794438000540'}\nLove it. Great price.\nAwesome price.",
+  "profile": "**User Preferences Summary:**\n\n- **Product Preference**: Favorable towards makeup tools, specifically brushes for contouring and foundation application.\n- **Aesthetic Choices**: Prefers items with a sleek color palette, favoring silver and black tones.\n- **Value Sensitivity**: Demonstrates a high appreciation for good pricing, indicating a trend towards budget-friendly purchasing decisions.\n- **Quality Expectation**: Values product quality, as evidenced by a perfect rating for a purchase described as \"awesome\" despite a mixed average rating from others.\n- **Inclusivity in Selection**: Chooses products suitable for a wide range of skin types and tones, suggesting a preference for versatility.\n- **Positive Engagement**: Shows enthusiasm in interactions, pointing to a likely overall satisfied consumer experience. \n\nThis profile reflects a user who is discerning yet budget-conscious, seeking quality beauty tools that align with their aesthetic preferences.",
+  "metrics": {
+    "rouge1_f": 0.21782178217821782,
+    "rouge2_f": 0.03,
+    "rougeL_f": 0.1485148514851485,
+    "meteor": 0.13083451202263083,
+    "bleu1": 0.11602209944751382,
+    "bleu2": 0.008028494374120555,
+    "bleu3": 0.003302212836378799,
+    "bleu4": 0.002120795510488663,
+    "bertscore_precision": 0.41519132256507874,
+    "bertscore_recall": 0.39245784282684326,
+    "bertscore_f1": 0.4035046398639679
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/21\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J. McMahon', 'Lance Jeffery'], 'Producers': ['Jon Kramer', 'Laura Keats', 'Lisa Bosak Lucas', 'Rasha Drachkovitch', 'Michael Dinco', 'Patrick Keegan', 'Heather Hollin', 'Keith Guinto'], 'Starring': ['Tia Torres', 'Matt \"Country\" Eldridge', 'Mariah \"M2\" Chock'], 'Studio': ['Animal Planet']}\nReview Text: Great show!! My dream would to one day be able to adopt a pit from here. I can dream!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J. McMahon', 'Lance Jeffery'], 'Producers': ['Jon Kramer', 'Laura Keats', 'Lisa Bosak Lucas', 'Rasha Drachkovitch', 'Michael Dinco', 'Patrick Keegan', 'Heather Hollin', 'Keith Guinto'], 'Starring': ['Tia Torres', 'Matt \"Country\" Eldridge', 'Mariah \"M2\" Chock'], 'Studio': ['Animal Planet']}\nGreat show!! My dream would to one day be able to adopt a pit from here. I can dream!!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user enjoys animal-related content, particularly shows focused on pet adoption and rescue, as indicated by their enthusiasm for a specific show and desire to adopt a pet.\n\n- **Viewing Patterns:** The user favors English language content with closed captions, suggesting a preference for accessibility in their viewing experience.\n\n- **Engagement Level:** The user demonstrates a high level of engagement with the content, reflected in their positive reviews and ratings. They express strong emotions, signifying deep connection and interest.\n\n- **Aspirational Values:** The desire to adopt a pet indicates values aligned with animal welfare and rescue, reflecting a compassionate personality.\n\nOverall, the user values uplifting and heartwarming content centered around animals, showcasing aspirations towards pet adoption while engaging actively with their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.0851063829787234,
+    "rouge2_f": 0.021505376344086023,
+    "rougeL_f": 0.06382978723404256,
+    "meteor": 0.08797717710486358,
+    "bleu1": 0.11904761904761905,
+    "bleu2": 0.0377587074539667,
+    "bleu3": 0.020478998623273778,
+    "bleu4": 0.008493966651362199,
+    "bertscore_precision": 0.3674546182155609,
+    "bertscore_recall": 0.37118592858314514,
+    "bertscore_f1": 0.36931082606315613
+  }
+}

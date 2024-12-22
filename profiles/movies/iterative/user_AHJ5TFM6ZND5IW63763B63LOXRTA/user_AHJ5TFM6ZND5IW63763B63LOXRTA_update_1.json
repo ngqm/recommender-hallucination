@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/29\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Gordon-Levitt'], 'Producers': ['Ram Bergman'], 'Starring': ['Joseph Gordon-Levitt', 'Scarlett Johansson', 'Julianne Moore'], 'Studio': ['RELATIVITY MEDIA']}\nReview Text: stupid\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Gordon-Levitt'], 'Producers': ['Ram Bergman'], 'Starring': ['Joseph Gordon-Levitt', 'Scarlett Johansson', 'Julianne Moore'], 'Studio': ['RELATIVITY MEDIA']}\nstupid\nOne Star",
+  "profile": "User Profile Summary:\n\n- **Rating Trends**: Users exhibit a tendency towards critical evaluations, with significant disparity in ratings, ranging from very low (1 star) to a higher average rating (4.3).\n  \n- **Content Preferences**: Attention to media with adult themes, including elements such as nudity, violence, and substance use. Likely drawn to narratives addressing complex or mature subjects.\n\n- **Language and Accessibility**: Preference for English audio and closed-captioned subtitles; indicates a focus on compatibility with various viewing needs.\n\n- **Creative Involvement**: Interests may include projects involving established actors and directors, especially those with a reputation for thought-provoking or controversial content.\n\n- **Emotional Reaction**: User\u2019s engagement with content may include strong emotional responses, as evidenced by a starkly negative review despite engaging with content from notable creators. \n\n- **Customization Preferences**: Likely values the ability to tailor viewing experiences, suggesting openness to media that provides accessibility features.\n\nOverall, the user appears to appreciate thought-provoking and potentially controversial media while maintaining a critical outlook on quality and narrative execution.",
+  "metrics": {
+    "rouge1_f": 0.12560386473429952,
+    "rouge2_f": 0.02926829268292683,
+    "rougeL_f": 0.10628019323671498,
+    "meteor": 0.11018507485757897,
+    "bleu1": 0.0818181818181818,
+    "bleu2": 0.006112274566280458,
+    "bleu3": 0.0025781988198858813,
+    "bleu4": 0.0016763796126143082,
+    "bertscore_precision": 0.39202648401260376,
+    "bertscore_recall": 0.32784503698349,
+    "bertscore_f1": 0.35707464814186096
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/10/23\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Ray Rhodes'], 'Producers': ['Ellwood Keiser'], 'Starring': ['Moira Kelly', 'Martin Sheen', 'Heather Graham'], 'Studio': ['WARNER BROS.']}\nReview Text: Great Story\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Eva Gressel']}\nI will keep it, but I didn't order this book----I just looked at it\nJust inquired>>Amazon sent it!\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Mark Schwahn'], 'Producers': ['Mark Schwahn', 'Brian Robbins', 'Joe Davola', 'Shuana Phelan'], 'Starring': ['Elizabeth Hurley (Queen Helena)', 'William Moseley (Prince Liam)', 'Alexandra Park (Princess Eleanor)'], 'Studio': ['lionsgate']}\nWaiting for season 2, depicts everything that is affecting our society today and how character is paramount to victory to survive/\nWaiting for season 2,\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Ray Rhodes'], 'Producers': ['Ellwood Keiser'], 'Starring': ['Moira Kelly', 'Martin Sheen', 'Heather Graham'], 'Studio': ['WARNER BROS.']}\nGreat Story\nFive Stars",
+  "profile": "**User Profile Summary (Updated):**\n\n- **Interaction History:** The user demonstrates a significant positive trend in engagement, highlighted by an average recent review rating of 4.4, indicating heightened satisfaction with content that resonates both thematically and narratively.\n  \n- **Review Sentiment:** The latest review showcases a strong appreciation with a rating of 5.0, reflecting admiration for compelling storytelling and character depth, reinforcing an ongoing evolution in the user's taste.\n\n- **Preferences:**\n  - **Product Reception:** Transitioning from initial confusion or dissatisfaction with past purchases, the user now exhibits a clear preference for quality narratives, engaging more deeply with content that reflects their values and interests.\n  - **Interest in Content:** Maintains a clear focus on exploring rich narratives, demonstrating excitement for future seasons or offerings, thereby affirming a commitment to content that delivers significant emotional or intellectual engagement.\n\n- **Behavioral Trends:** The user continues to curate and retain items, signaling an attachment to meaningful content, while also actively exploring new options. This indicates a discerning nature in selecting works that mirror contemporary issues and feature strong characterizations.\n\nOverall, the user prioritizes narrative exploration and has become increasingly selective, valuing thoughtful, relevant content and seeking clearer purchasing information during transactions.",
+  "metrics": {
+    "rouge1_f": 0.07028753993610223,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04472843450479233,
+    "meteor": 0.07042253521126762,
+    "bleu1": 0.11857707509881422,
+    "bleu2": 0.006859620607619772,
+    "bleu3": 0.002656493904688257,
+    "bleu4": 0.0016548042044198718,
+    "bertscore_precision": 0.36794793605804443,
+    "bertscore_recall": 0.3693157434463501,
+    "bertscore_f1": 0.3686305582523346
+  }
+}

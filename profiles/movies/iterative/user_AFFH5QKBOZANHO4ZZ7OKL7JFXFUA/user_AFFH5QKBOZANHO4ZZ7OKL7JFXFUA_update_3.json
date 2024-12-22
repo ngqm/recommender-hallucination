@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/12\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Judd Saul'], 'Producers': ['Trevor Loudon'], 'Starring': ['Trevor Loudon', 'Frank Gaffney', 'Ace Lyons']}\nReview Text: Liberals hate the truth. Hope someday people will open there eyes and stop the take over of our country before its to late.\nReview Title: Liberals hate the truth\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean van de Velde'], 'Producers': ['Paul Brinks', 'Chris Brouwer', 'Richard Claus'], 'Starring': ['Thekla Reutin', 'Jacqueline Blom', 'Marco Borsato'], 'Studio': ['Synergetic Distribution']}\nHard to believe this is still going on. Movie done well.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Barbara Grandvoinet'], 'Producers': ['Barbara Grandvoinet'], 'Starring': ['Children living on the streets of Bangkok.'], 'Studio': ['Indie Rights']}\nThankfull to those that reach out to help the children.\nFour Stars\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Judd Saul'], 'Producers': ['Trevor Loudon'], 'Starring': ['Trevor Loudon', 'Frank Gaffney', 'Ace Lyons']}\nLiberals hate the truth. Hope someday people will open there eyes and stop the take over of our country before its to late.\nLiberals hate the truth",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** The user's average rating has increased to 4.4, indicating a strong inclination towards high-quality content. They continue to rate positively, now averaging above 4.3, reflecting their appreciation for impactful narratives.\n\n- **Content Themes:** Their interest in narratives with complex themes persists, but the recent review indicates a shift towards politically charged content. The review showcases a strong viewpoint on social issues, suggesting a blend of empathy with a critical perspective on political topics.\n\n- **Language Preference:** The user retains a preference for English audio and appreciates English subtitles, demonstrating comfort with the English language in media consumption.\n\n- **Director and Producer Acknowledgment:** They continue to acknowledge specific directors and producers, with recent mentions including Judd Saul and Trevor Loudon. This reflects their selective taste in filmmakers whose works align with their values and interests.\n\n- **Emotional Engagement:** The review reveals a heightened emotional engagement with politically relevant subject matter, expressing a desire for societal awareness and change. They display strong opinions regarding political narratives, indicating an interest in media that challenges mainstream perspectives.\n\nOverall, the user favors well-produced films that tackle significant and sometimes controversial themes, exhibits a growing interest in socio-political narratives, continues to show loyalty to specific creators, and maintains a mature and critical approach to their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.19373219373219372,
+    "rouge2_f": 0.017191977077363897,
+    "rougeL_f": 0.10826210826210826,
+    "meteor": 0.08753126116470167,
+    "bleu1": 0.14223377878480956,
+    "bleu2": 0.007124895429611332,
+    "bleu3": 0.002629720380264525,
+    "bleu4": 0.0015991197756534921,
+    "bertscore_precision": 0.38883429765701294,
+    "bertscore_recall": 0.3835226893424988,
+    "bertscore_f1": 0.3861602246761322
+  }
+}

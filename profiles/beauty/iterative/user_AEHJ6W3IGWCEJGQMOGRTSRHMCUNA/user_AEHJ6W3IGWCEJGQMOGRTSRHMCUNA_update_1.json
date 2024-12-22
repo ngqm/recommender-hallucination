@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: DeepDream Portable Electric Nail Drill - Professional Efile Nail Drill Kit For Acrylic, Gel Nails, Manicure Pedicure Polishing Shape Tools with 11Pcs Nail Drill Bits and 36 Sanding Bands\nReview Date: 2020/08/02\nStore: Deep Dream\nAverage Rating: 4.5\nProduct Details: {'Brand': 'Deep Dream', 'Power Source': 'Battery Powered', 'Maximum Rotational Speed': '20000 RPM', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8 x 4 x 2.6 inches; 10.41 Ounces', 'UPC': '191762584966', 'Manufacturer': 'Deep Dream'}\nReview Text: Just used the deep dream electric nail drill.\u00a0\u00a0Love it, I will not use nail files again! Loved that it has a speed control where it can be slow to very fast for acrylic nails. It worked great on my natural nails. Will definitely keep using it!\nReview Title: Works fantastic! No more nail file for me!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "DeepDream Portable Electric Nail Drill - Professional Efile Nail Drill Kit For Acrylic, Gel Nails, Manicure Pedicure Polishing Shape Tools with 11Pcs Nail Drill Bits and 36 Sanding Bands\nDeep Dream\n{'Brand': 'Deep Dream', 'Power Source': 'Battery Powered', 'Maximum Rotational Speed': '20000 RPM', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8 x 4 x 2.6 inches; 10.41 Ounces', 'UPC': '191762584966', 'Manufacturer': 'Deep Dream'}\nJust used the deep dream electric nail drill.\u00a0\u00a0Love it, I will not use nail files again! Loved that it has a speed control where it can be slow to very fast for acrylic nails. It worked great on my natural nails. Will definitely keep using it!\nWorks fantastic! No more nail file for me!",
+  "profile": "User Profile Summary:\n\n- **Nail Care Enthusiast**: Strong interest in professional-grade nail care tools, particularly electric nail drills.\n- **Preference for Efficiency**: Emphasis on tools that simplify the manicure process, indicating a preference for technology that enhances ease of use.\n- **Quality Assurance**: Tendency to prefer products that deliver high performance, as reflected in a positive rating and acknowledgment of speed control features.\n- **Positive Experience with Versatility**: Appreciation for products that cater to various nail types, showcasing a preference for tools that can be used on both artificial and natural nails.\n- **Consistent Use**: Indicates a commitment to incorporating purchased products into ongoing grooming routines.\n- **High Standards**: Likely to provide favorable feedback on products that meet or exceed expectations.\n\nOverall, this user values high-quality, versatile nail care tools that promote convenience and efficiency in personal grooming.",
+  "metrics": {
+    "rouge1_f": 0.22924901185770752,
+    "rouge2_f": 0.0398406374501992,
+    "rougeL_f": 0.15019762845849802,
+    "meteor": 0.18741736518896235,
+    "bleu1": 0.21428571428571425,
+    "bleu2": 0.07693825361789226,
+    "bleu3": 0.032038392269687146,
+    "bleu4": 0.011642326594773511,
+    "bertscore_precision": 0.4296024441719055,
+    "bertscore_recall": 0.43634510040283203,
+    "bertscore_f1": 0.4329475164413452
+  }
+}

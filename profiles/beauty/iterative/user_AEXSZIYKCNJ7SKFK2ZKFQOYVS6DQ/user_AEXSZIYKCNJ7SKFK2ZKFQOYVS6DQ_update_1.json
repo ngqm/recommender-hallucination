@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mukti Organics - Organic Rosehip Eye Gel\nReview Date: 2015/12/15\nStore: Bergoti\nAverage Rating: 5.0\nProduct Details: {'Package Dimensions': '6.5 x 1.7 x 1.6 inches; 0.35 Ounces', 'UPC': '632709438824', 'Manufacturer': 'Bergoti'}\nReview Text: So far, so good. I've been using this for a week and I appear to have less puffiness and darkness. I like the smell...and the feel of it. I use it just at night.\nReview Title: so good. I've been using this for a week and ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mukti Organics - Organic Rosehip Eye Gel\nBergoti\n{'Package Dimensions': '6.5 x 1.7 x 1.6 inches; 0.35 Ounces', 'UPC': '632709438824', 'Manufacturer': 'Bergoti'}\nSo far, so good. I've been using this for a week and I appear to have less puffiness and darkness. I like the smell...and the feel of it. I use it just at night.\nso good. I've been using this for a week and ...",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Organic and natural skincare products.\n- **Focus Areas:** Eye care, specifically targeting puffiness and dark circles.\n- **Usage Patterns:** Regular, nightly application for optimal results.\n- **Scent Appeal:** Favorable towards pleasant fragrances in products.\n- **Product Satisfaction:** High standards for efficacy as indicated by a perfect rating.\n- **Review Trend:** Positive feedback based on initial usage, signaling a trend towards valuing immediate results.\n- **Brand Affinity:** Preference for brands that emphasize organic and natural ingredients. \n\nOverall, this user exhibits a strong commitment to the natural skincare philosophy, favoring products that provide visible results while also offering a pleasant sensory experience.",
+  "metrics": {
+    "rouge1_f": 0.17647058823529413,
+    "rouge2_f": 0.023809523809523808,
+    "rougeL_f": 0.09411764705882353,
+    "meteor": 0.15212981744421908,
+    "bleu1": 0.15822784810126586,
+    "bleu2": 0.03174619171716656,
+    "bleu3": 0.008644758997444194,
+    "bleu4": 0.00451836949724043,
+    "bertscore_precision": 0.40838727355003357,
+    "bertscore_recall": 0.4110291600227356,
+    "bertscore_f1": 0.40970396995544434
+  }
+}

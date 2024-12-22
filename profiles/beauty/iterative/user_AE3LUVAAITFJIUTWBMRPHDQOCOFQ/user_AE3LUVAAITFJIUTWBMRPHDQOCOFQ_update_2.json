@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Disposable Shower Cap, Elastic Bath Cap,Waterproof Hair Head Cover Shower Cap For Home Use,Hotel and Beauty Salon,Pack of 120 \uff08Blue)\nReview Date: 2020/08/17\nStore: KarlunKoy\nAverage Rating: 3.2\nProduct Details: {'Brand': 'KarlunKoy', 'Material': 'Ethylene Vinyl Acetate (EVA)', 'Pattern': 'Solid', 'Number of Items': '120', 'Inner Material': 'EVA', 'Package Dimensions': '8.14 x 7.2 x 3.34 inches; 4.8 Ounces', 'UPC': '714573871218'}\nReview Text: I was super excited to receive this bag, unfortunately they are not big enough to hold my long hair. Nice material and color.\nReview Title: Not for long hair.\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "lorelo 4 Pieces Nail Dotting Pen, Dual-ended Nail Dotting Pen Liner Brush Nail Art Point Drill Drawing Tools Set Nail Art DIY Decoration Tool\nlorelo\n{'Package Dimensions': '7.3 x 4.2 x 0.6 inches; 1.59 Ounces', 'UPC': '619156572950'}\nGreat quality product. Looks just like the picture.\nNice quality product\nDisposable Shower Cap, Elastic Bath Cap,Waterproof Hair Head Cover Shower Cap For Home Use,Hotel and Beauty Salon,Pack of 120 \uff08Blue)\nKarlunKoy\n{'Brand': 'KarlunKoy', 'Material': 'Ethylene Vinyl Acetate (EVA)', 'Pattern': 'Solid', 'Number of Items': '120', 'Inner Material': 'EVA', 'Package Dimensions': '8.14 x 7.2 x 3.34 inches; 4.8 Ounces', 'UPC': '714573871218'}\nI was super excited to receive this bag, unfortunately they are not big enough to hold my long hair. Nice material and color.\nNot for long hair.",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Interest:** Continues to show a strong interest in beauty and self-care products, now expanding to include essentials for hair care and protection alongside nail art tools. \n- **Quality Preference:** Maintains a strong emphasis on high-quality and dependable products, as demonstrated by the mixed feelings towards the recent purchase where quality material was noted, but functionality fell short.\n- **Visual Appeal:** Values aesthetic consistency, seeking products that meet visual expectations. The preference for color and material remains evident in new product selections.\n- **DIY Enthusiasm:** Enthusiastic about engaging in DIY projects, now indicating an expanded interest beyond nail art to include home and salon beauty essentials.\n- **Rating Behavior:** Typically rates products highly when they meet or exceed expectations, although the recent interaction reflects a more critical approach, showcasing a willingness to express disappointment when a product's functionality does not align with personal needs.\n\nOverall, the user is a creative individual focused on nail art and beauty projects, interested in high-quality tools and essentials that meet their specific requirements while contributing to a satisfying DIY experience.",
+  "metrics": {
+    "rouge1_f": 0.18354430379746836,
+    "rouge2_f": 0.01910828025477707,
+    "rougeL_f": 0.09493670886075949,
+    "meteor": 0.17475900277008316,
+    "bleu1": 0.15789473684210523,
+    "bleu2": 0.008340093092638657,
+    "bleu3": 0.0031338469725060445,
+    "bleu4": 0.0019231480099019674,
+    "bertscore_precision": 0.3917933404445648,
+    "bertscore_recall": 0.4140029549598694,
+    "bertscore_f1": 0.4025920629501343
+  }
+}

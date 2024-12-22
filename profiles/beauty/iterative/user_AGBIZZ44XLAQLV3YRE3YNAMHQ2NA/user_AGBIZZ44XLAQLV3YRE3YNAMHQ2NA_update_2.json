@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 30pcs 3/32 inch Carbide Rotary Burr Nail Drill Bit, Professional Acrylic Nail File Drill Bit for DIY Nail Drill Manicure Pedicure Cuticle Nail Polishing\nReview Date: 2017/11/09\nStore: SUBAY\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.5 x 2.4 x 0.59 inches; 2.08 Ounces', 'UPC': '614134733071'}\nReview Text: Bits arecfantastic.\nReview Title: Nail file bits\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Elite99 7pcs UV Gel Acrylic Nail Art Tips Builder Brush Pen Design Rounded Edge Nail Art Painting Detailing Brush Set\nElite99\n{}\nJust as advertised and work awesome with gel.\nLove these brushes!\n30pcs 3/32 inch Carbide Rotary Burr Nail Drill Bit, Professional Acrylic Nail File Drill Bit for DIY Nail Drill Manicure Pedicure Cuticle Nail Polishing\nSUBAY\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.5 x 2.4 x 0.59 inches; 2.08 Ounces', 'UPC': '614134733071'}\nBits arecfantastic.\nNail file bits",
+  "profile": "User Summary:\n\n- **Product Interest**: Continues to engage with nail art tools and accessories, with a particular focus on effective filing and drilling tools for gel and acrylic applications.\n- **Quality Expectation**: Maintains a strong preference for products that meet or exceed advertised specifications and deliver robust performance; functionality remains a key factor.\n- **Positive Feedback**: Recently left a 5-star review for a set of nail drill bits, highlighting their exceptional quality. This reinforces the user's tendency to provide high ratings for products that surpass expectations.\n- **Engagement Pattern**: Active in reviewing products post-purchase, contributing valuable insights to the community. The user\u2019s positive feedback behavior is consistent with previous interactions.\n- **Enthusiasm**: Displays a genuine and ongoing passion for nail art, as indicated by the positive language in recent reviews and the high ratings given, showcasing an appreciation for quality tools that enhance the nail art experience.\n\nOverall, this user demonstrates a consistent interest in high-quality nail art tools, a strong willingness to share feedback, and a maintained enthusiasm for effective products in the nail art domain.",
+  "metrics": {
+    "rouge1_f": 0.1839080459770115,
+    "rouge2_f": 0.030888030888030896,
+    "rougeL_f": 0.10727969348659004,
+    "meteor": 0.1647373107747106,
+    "bleu1": 0.0717488789237668,
+    "bleu2": 0.005685007900656392,
+    "bleu3": 0.0024454378160917514,
+    "bleu4": 0.0016056903512531172,
+    "bertscore_precision": 0.40878158807754517,
+    "bertscore_recall": 0.36783361434936523,
+    "bertscore_f1": 0.3872280716896057
+  }
+}

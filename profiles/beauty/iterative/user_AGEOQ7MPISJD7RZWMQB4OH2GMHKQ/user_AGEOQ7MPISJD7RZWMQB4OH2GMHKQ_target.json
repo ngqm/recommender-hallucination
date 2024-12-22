@@ -1,0 +1,79 @@
+{
+  "interaction_number": 7,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BESSKY 1 Pair/2PCS Style Exquisite Gold Bee Hairpin Side Clip Hair Accessories Party\nReview Date: 2018/03/13\nStore: BESSKY\nAverage Rating: 4.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Item model number': 'BESSKY03696', 'UPC': '036663771230'}\nReview Text: Really pretty\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Womdee(TM) Retro Vintage Fashion Antique Bronze Colorfull Rhinestone Elegant Peacock Tuck Comb Hair Clip-Purple With Womdee Accessory\n{'Package Dimensions': '3.6 x 1.8 x 0.7 inches; 0.35 Ounces'}\nPretty\nFour Stars\nBeard Straightener Brush For Men,BEENLE Electric Heat Beard Straightener and Hair Straightener, Multifunctional Beard and Hair Straightening Brush Comb (beard straightener)\nBEENLE\n{'Brand': 'BEENLE', 'Item Form': 'Straight', 'Skin Type': 'All', 'Item Weight': '0.06 Pounds', 'Item Dimensions LxWxH': '8 x 3 x 1 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 3 x 1 inches; 0.96 Ounces', 'Item model number': 'BEENLE', 'UPC': '783583451246'}\nWorks really good\nFive Stars\nOVERMAL Chic Women Roses Barrette Hair Clip Hair Pin Claw\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Unit Count': '1.0 Count', 'Number of Items': '1', 'Pattern': 'Solid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.95 x 2.95 x 2.91 inches; 1.12 Ounces', 'UPC': '638823477473'}\nI love these! The color is amazing!\nFive Stars\nOVERMAL Chic Women Roses Barrette Hair Clip Hair Pin Claw\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Unit Count': '1.0 Count', 'Number of Pieces': '1', 'Pattern': 'Solid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.66 x 2.44 x 1.5 inches; 0.6 Ounces', 'UPC': '638823477428'}\nVery pretty\nFive Stars\nOVERMAL Chic Women Roses Barrette Hair Clip Hair Pin Claw\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Pattern': 'Solid', 'Closure Type': 'Claw', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.13 x 2.52 x 1.34 inches; 0.6 Ounces', 'UPC': '638823477466'}\nVery pretty\nFive Stars\nKeyZone 2 Pcs Nice Leaf Ear Stud Front & Back Earrings for Girls (Silver)\nKeyzone\n['Features:  Brand New & High quality. Special and fashion design. It is a good gift for your family, friends and coworkers. Charming and attractive on all occasions. Material:Alloy. Size:1.8cm*1.3cm-0.39*0.51inch. Color:Gold,Silver.  Package Included:  1 Pair X Front & Back Leaf Earrings .  NO Retail Box. Packed Safely in Bubble Bag.']\n{'Is Discontinued By Manufacturer': 'No', 'UPC': '794168052154 751570620203', 'Manufacturer': 'KeyZone'}\nbroke\nOne Star\nBESSKY 1 Pair/2PCS Style Exquisite Gold Bee Hairpin Side Clip Hair Accessories Party\nBESSKY\n{'Is Discontinued By Manufacturer': 'No', 'Item model number': 'BESSKY03696', 'UPC': '036663771230'}\nReally pretty\nFive Stars",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Really pretty",
+    "images": [],
+    "asin": "B00ZUD4B5C",
+    "parent_asin": "B00ZUD4B5C",
+    "user_id": "AGEOQ7MPISJD7RZWMQB4OH2GMHKQ",
+    "timestamp": "2018-03-13 02:13:30.541000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "BESSKY 1 Pair/2PCS Style Exquisite Gold Bee Hairpin Side Clip Hair Accessories Party",
+    "average_rating": 4.2,
+    "rating_number": 295,
+    "features": [
+      "\u2665Handmade Item(2pcs);Size:approx. 6.7cmx3.6cm(2.5''x1.4'');Color: Gold",
+      "\u2665They are made of high quality alloy. These hair clips are light and won't put any burden on your head.They are all highly elastic, stylish and durable.They are suitable for all types of coustomers.",
+      "\u2665These beautiful Bee Hair Clips are suitable for all most all hairstyles of girls and women,if you are finding fashion accessories,Then this hairpin will be your best choice!",
+      "\u2665These elegant hair pins can be used in the various occasion for weddings, birthdays, pageants, engagements, proms, parties, honeymoons, dates, graduations, banquets and any occasion you want to be more charming.",
+      "We believe you will love our products. But if you are not 100% satisfied, please feel free to contact us, we would deal with it within 12 hours."
+    ],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31IZmA8T9xL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31IZmA8T9xL.jpg",
+        "variant": "MAIN",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/517M9gQkBAL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/517M9gQkBAL.jpg",
+        "variant": "PT01",
+        "hi_res": null
+      }
+    ],
+    "videos": [
+      {
+        "title": "BESSKY 1 Pair/2PCS Exquisite Gold Bee Hairpin Side Clip",
+        "url": "https://www.amazon.com/vdp/0e0a6237c16746c9ba472ebcb106a792?ref=dp_vse_rvc_0",
+        "user_id": ""
+      },
+      {
+        "title": "Rhinestone Beaded Elastic Headbands",
+        "url": "https://www.amazon.com/vdp/0906d20d53784f47bed010e674577953?ref=dp_vse_rvc_1",
+        "user_id": "/shop/graydiva2021"
+      },
+      {
+        "title": "Restoring hair mask ",
+        "url": "https://www.amazon.com/vdp/0fe375af0f0e46b4a1334bc3238b670c?ref=dp_vse_rvc_2",
+        "user_id": "/shop/influencer-1970a807"
+      },
+      {
+        "title": "Beaded headbands, So gorgeous! Looks wonderful on the head and very good material.",
+        "url": "https://www.amazon.com/vdp/0252ac0e0a384cd28422db3cda7193e6?ref=dp_vse_rvc_3",
+        "user_id": "/shop/baileyhugojackson"
+      },
+      {
+        "title": "Wash 'n Go Routine",
+        "url": "https://www.amazon.com/vdp/0953c9e675574afabca2108d4e3eb50d?ref=dp_vse_rvc_4",
+        "user_id": "/shop/influencer-f419fd51"
+      }
+    ],
+    "store": "BESSKY",
+    "categories": [],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Item model number": "BESSKY03696",
+      "UPC": "036663771230"
+    },
+    "bought_together": null
+  }
+}

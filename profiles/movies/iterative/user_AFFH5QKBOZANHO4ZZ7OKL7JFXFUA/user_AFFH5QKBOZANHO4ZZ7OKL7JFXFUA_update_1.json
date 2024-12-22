@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/10\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean van de Velde'], 'Producers': ['Paul Brinks', 'Chris Brouwer', 'Richard Claus'], 'Starring': ['Thekla Reutin', 'Jacqueline Blom', 'Marco Borsato'], 'Studio': ['Synergetic Distribution']}\nReview Text: Hard to believe this is still going on. Movie done well.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean van de Velde'], 'Producers': ['Paul Brinks', 'Chris Brouwer', 'Richard Claus'], 'Starring': ['Thekla Reutin', 'Jacqueline Blom', 'Marco Borsato'], 'Studio': ['Synergetic Distribution']}\nHard to believe this is still going on. Movie done well.\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Tends to rate products positively, with an average rating around 4.4, indicating a discernible appreciation for quality content.\n  \n- **Content Themes:** Shows interest in narratives that may include mature themes such as violence, alcohol use, smoking, and foul language. This suggests a preference for films that offer complex, possibly gritty storylines.\n\n- **Language Preference:** Prefers English audio and appreciates English subtitles, indicating a comfort with the English language.\n\n- **Director and Producer Acknowledgment:** Values works from specific directors and production teams, hinting at a selective taste in cinema that likely favors the craftsmanship behind films.\n\n- **Emotional Engagement:** The review indicates a level of emotional engagement with the content, as evidenced by comments on the film's persistence and execution.\n\nOverall, the user appears to favor well-produced films that tackle serious themes, demonstrates loyalty to certain creators, and likely has a mature viewing preference.",
+  "metrics": {
+    "rouge1_f": 0.1846153846153846,
+    "rouge2_f": 0.05181347150259067,
+    "rougeL_f": 0.15384615384615385,
+    "meteor": 0.11363636363636362,
+    "bleu1": 0.12121212121212123,
+    "bleu2": 0.007844042040883504,
+    "bleu3": 0.0031545778625980576,
+    "bleu4": 0.0020030753459310134,
+    "bertscore_precision": 0.4181550145149231,
+    "bertscore_recall": 0.36128294467926025,
+    "bertscore_f1": 0.3876441419124603
+  }
+}

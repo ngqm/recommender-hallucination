@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AIKIMUSE Eyebrow Pen BRUNETTE\nReview Date: 2020/01/10\nStore: AIKIMUSE\nAverage Rating: 2.7\nProduct Details: {'Brand': 'AIKIMUSE', 'Item Form': 'Pencil', 'Finish Type': 'Natural', 'Material Feature': 'Natural', 'Skin Type': 'All', 'Package Dimensions': '5.58 x 4 x 0.75 inches; 0.81 Ounces'}\nReview Text: This product started off promising but after one eye the color stopped coming out.  Also the delineation between the four prongs blended into one.<br />It could have been better but sadly it's not working.\nReview Title: Started off good but\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "AIKIMUSE Eyebrow Pen BRUNETTE\nAIKIMUSE\n{'Brand': 'AIKIMUSE', 'Item Form': 'Pencil', 'Finish Type': 'Natural', 'Material Feature': 'Natural', 'Skin Type': 'All', 'Package Dimensions': '5.58 x 4 x 0.75 inches; 0.81 Ounces'}\nThis product started off promising but after one eye the color stopped coming out.  Also the delineation between the four prongs blended into one.<br />It could have been better but sadly it's not working.\nStarted off good but",
+  "profile": "**User Summary:**\n\n- **Beauty Product Preferences:** The user is interested in eyebrow enhancement products, particularly those that offer a natural finish and are suitable for all skin types. They likely prefer easy-to-use formats such as pencils.\n\n- **Quality Expectations:** The user has high expectations for product performance, emphasizing reliability and effectiveness. They are disappointed when products fail to deliver consistent results.\n\n- **Review Behavior:** The user tends to provide constructive feedback when a product does not meet expectations, indicating they value functionality.\n\n- **Rating Trends:** The user exhibits a critical stance when it comes to product quality, as indicated by the low rating given. They may be more inclined to leave negative reviews if the product does not work as promised.\n\nThe user's overall profile suggests a preference for reliable beauty products that perform effectively, with a focus on natural finishes. They show a willingness to express dissatisfaction when products fall short of their expectations.",
+  "metrics": {
+    "rouge1_f": 0.1592920353982301,
+    "rouge2_f": 0.01785714285714286,
+    "rougeL_f": 0.09734513274336284,
+    "meteor": 0.13537255720562216,
+    "bleu1": 0.09230769230769233,
+    "bleu2": 0.006897918866925497,
+    "bleu3": 0.002910446485258069,
+    "bleu4": 0.0018929729432481516,
+    "bertscore_precision": 0.3951171636581421,
+    "bertscore_recall": 0.4006150960922241,
+    "bertscore_f1": 0.39784711599349976
+  }
+}

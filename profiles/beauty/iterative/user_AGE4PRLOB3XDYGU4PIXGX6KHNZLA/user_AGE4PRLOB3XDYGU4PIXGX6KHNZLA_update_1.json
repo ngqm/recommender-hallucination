@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: G2PLUS Eyelash Extension Adhesive Glue Pallet Sticker Pads,1-Inches Diameter (Small-100 Pads, 5 Sheets)\nReview Date: 2016/11/05\nStore: G2PLUS\nAverage Rating: 3.4\nProduct Details: {'Package Dimensions': '9 x 6 x 0.01 inches; 2.4 Ounces'}\nReview Text: Sticker was good but glue seems to dry out fast.\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "G2PLUS Eyelash Extension Adhesive Glue Pallet Sticker Pads,1-Inches Diameter (Small-100 Pads, 5 Sheets)\nG2PLUS\n{'Package Dimensions': '9 x 6 x 0.01 inches; 2.4 Ounces'}\nSticker was good but glue seems to dry out fast.\nThree Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest**: Focus on beauty and cosmetics accessories, particularly items related to eyelash extensions.\n- **Quality Conscious**: The user values functionality and longevity in products but has experienced issues with durability (i.e., adhesive drying out).\n- **Moderate Satisfaction**: Ratings suggest a tendency to rate products around average, indicating a cautious or discerning approach to purchases.\n- **Preference for Value**: Likely seeks balance between cost and quality, as reflected in the average rating given.\n- **Review Style**: Provides straightforward feedback, highlighting specific aspects of product performance, which indicates a practical and analytical approach.\n- **Purchasing Behavior**: Engages with the brand through repeat shopping for related items, suggesting loyalty or reliance on specific product types for beauty routines. \n\nOverall, this user values effective beauty tools but seeks reliable performance and longevity in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.06976744186046512,
+    "rouge2_f": 0.011764705882352943,
+    "rougeL_f": 0.046511627906976744,
+    "meteor": 0.14831636951742708,
+    "bleu1": 0.042553191489361694,
+    "bleu2": 0.004770295313079708,
+    "bleu3": 0.002304230189346103,
+    "bleu4": 0.0016036200022305817,
+    "bertscore_precision": 0.41626811027526855,
+    "bertscore_recall": 0.3580244481563568,
+    "bertscore_f1": 0.38495567440986633
+  }
+}

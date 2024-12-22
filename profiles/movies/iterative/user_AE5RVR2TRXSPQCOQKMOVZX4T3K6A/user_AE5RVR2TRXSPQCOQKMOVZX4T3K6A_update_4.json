@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/18\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mel Gibson'], 'Producers': ['Mel Gibson', 'Bruce Davey', 'Alan Ladd'], 'Starring': ['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: I love this movie\nReview Title: Love it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Byron Howard', 'Rich Moore'], 'Producers': ['Clark Spencer'], 'Starring': ['Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba']}\nEntertaining\nCute movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Steve Starkey', 'Robert Zemeckis', 'Gary Goetzman', 'William Teitler'], 'Starring': ['Tom Hanks', 'Michael Jeter', 'Nona Gaye']}\nGreat movie\nEntertaining\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Julie Taymor'], 'Producers': ['Derek Dauchy', 'Rudd Simmons', 'Charles Newirth', 'Suzanne Todd', 'Jennifer Todd', 'Matthew Gross'], 'Starring': ['Evan Rachel Wood', 'Jim Sturgess', 'Joe Anderson']}\nOkay\nOkay\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mel Gibson'], 'Producers': ['Mel Gibson', 'Bruce Davey', 'Alan Ladd'], 'Starring': ['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan'], 'Studio': ['Paramount Pictures Corp.']}\nI love this movie\nLove it",
+  "profile": "**User Profile Summary:**\n\n- **General Attitude:** The user maintains an enthusiastic and positive approach to entertainment, continuously seeking quality and engaging content.\n- **Content Preferences:** While favoring animated and family-oriented films with light-hearted narratives and animal characters, recent interactions indicate a growing appreciation for diverse genres, including films that tackle more mature themes and complex storytelling.\n- **Language and Accessibility:** Values audio description and closed captions, highlighting a commitment to inclusivity in viewing experiences. This aligns with a desire for accessible content that can be enjoyed by a wide audience.\n- **Rating Behavior:** Regularly rates products highly, often scoring 4.8 and above, with a recent high rating of 5.0 reflecting a strong enjoyment of specific titles. This showcases an evolving engagement that balances appreciation with critical assessment.\n- **Themes:** Prefers films featuring endearing themes and characters but shows an openness to narratives that include mature elements, indicating a wider exploration of storytelling.\n- **Audience Focus:** Enjoys content suitable for diverse age groups, with a focus on entertaining films that promote inclusivity. The user's varied rating behavior suggests an engagement with content that combines enjoyment with thoughtful critique.\n\nOverall, the user appreciates well-crafted films across different genres while maintaining a keen eye for accessibility features, retaining a generally favorable outlook while being open to content with more complex themes.",
+  "metrics": {
+    "rouge1_f": 0.04558404558404558,
+    "rouge2_f": 0.0057306590257879654,
+    "rougeL_f": 0.039886039886039885,
+    "meteor": 0.045942607794345794,
+    "bleu1": 0.053355108809171964,
+    "bleu2": 0.003984131967580271,
+    "bleu3": 0.0016797740381169107,
+    "bleu4": 0.0010917151639701517,
+    "bertscore_precision": 0.3597285747528076,
+    "bertscore_recall": 0.35128942131996155,
+    "bertscore_f1": 0.35545891523361206
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/01/24\nAverage Rating: 3.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Conway'], 'Producers': ['Robert Conway'], 'Starring': ['Shawn Anderson', 'Amelia Haberman', 'James Ray'], 'Studio': ['CreateSpace']}\nReview Text: LOW BUDGET COMPARED TO THE ORIGINAL\nReview Title: LOW BUDGET COMPARED TO THE ORIGINAL\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom McCarthy', 'Oliver Bokelberg', 'Danis Goulet', 'Clark Johnson', 'Patricia Riggen', 'Craig William Macneill', 'Catriona McKenzie', 'Ruba Nadda', 'Michael Pressman', 'Bosede Williams'], 'Studio': ['Fox']}\nWHAT PROGRAM CAN GET AWAY FROM WOKENESS TODAY?  NOT EVEN A SHOW BASED IN ALASKA.  GOOD SHOW OBVIOUSLY TRYING TO MAKE MEDIA LOOK BETTER THAN THEY ARE.  UNFORTUNATELY NO MORE OLD SCHOOL REPORTERS LIKE THEY TRY TO BE\nPRETTY GOOD SHOW W OBVIOUS WOKE HIGHLIGHTS\n{'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Conway'], 'Producers': ['Robert Conway'], 'Starring': ['Shawn Anderson', 'Amelia Haberman', 'James Ray'], 'Studio': ['CreateSpace']}\nLOW BUDGET COMPARED TO THE ORIGINAL\nLOW BUDGET COMPARED TO THE ORIGINAL",
+  "profile": "**User Summary:**\n\nThis user continues to exhibit a strong preference for media that engages with contemporary issues, maintaining a critical view toward perceived \"wokeness\" in programming. Their recent purchase and review indicate a clear dissatisfaction with low-budget productions, signaling a desire for quality and authenticity that matches their previous behavior. The rating of 1.0 reflects a strong negative sentiment, particularly towards content that falls short of their expectations established by original versions. \n\nDespite enjoying compelling storytelling, they are increasingly vocal about their disdain for productions that seem to compromise on quality, reinforcing their stance against overt ideological influences in narratives. This user remains drawn to genres, particularly drama, set in unique locations like Alaska, demonstrating an appreciation for distinct environmental backdrops which enhance storytelling.\n\nTheir consistent preference for engaging content devoid of heavy-handed social commentary suggests a nuanced viewing approach, where entertainment value is paramount. Overall, while they appreciate original, high-quality productions, they exhibit a growing intolerance for lower-quality adaptations or interpretations that fail to meet their standards, indicating a discerning trend in their media consumption habits.",
+  "metrics": {
+    "rouge1_f": 0.1386138613861386,
+    "rouge2_f": 0.013289036544850499,
+    "rougeL_f": 0.0594059405940594,
+    "meteor": 0.09674582233948989,
+    "bleu1": 0.07336138071082564,
+    "bleu2": 0.005640402553393447,
+    "bleu3": 0.00240236610276746,
+    "bleu4": 0.0015697936384947008,
+    "bertscore_precision": 0.32973840832710266,
+    "bertscore_recall": 0.3539550006389618,
+    "bertscore_f1": 0.3414178192615509
+  }
+}

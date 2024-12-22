@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Captive\nReview Date: 2016/06/28\nCategories: Suspense, Drama, Bleak, Downbeat\nProduct Description: [\"After Matthew's daughter vanishes mysteriously, his life falls apart. Years later when image of his daughter appear online, Matthew risks everything to ensure his daughter's safe return. Starring Ryan Reynolds\"]\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Atom Egoyan'], 'Producers': ['Atom Egoyan', 'Stephen Traynor', 'Simone Urdl', 'Jennifer Weiss'], 'Starring': ['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']}\nReview Text: Great movie!\nReview Title: Loved it!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Captive\nSuspense, Drama, Bleak, Downbeat\n[\"After Matthew's daughter vanishes mysteriously, his life falls apart. Years later when image of his daughter appear online, Matthew risks everything to ensure his daughter's safe return. Starring Ryan Reynolds\"]\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Atom Egoyan'], 'Producers': ['Atom Egoyan', 'Stephen Traynor', 'Simone Urdl', 'Jennifer Weiss'], 'Starring': ['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']}\nGreat movie!\nLoved it!",
+  "profile": "**User Summary:**\n\nThis user demonstrates a strong preference for dramatic and suspenseful narratives, particularly those that explore themes of personal loss and resilience. They appear to gravitate towards films that are intense and emotional, often showcasing dark or bleak storylines. Their enthusiasm is evident, as indicated by their high rating for the film despite its heavier content, suggesting a tolerance for violence and mature themes. \n\nKey Preferences:\n- **Genres:** Suspense, Drama\n- **Themes:** Personal loss, Resilience, Intensity\n- **Content Tolerance:** Accepts violence, alcohol use, foul language, and sexual content\n- **Engagement:** Highly engaged, expresses strong positive reactions to films they enjoy\n\nOverall, the user's profile indicates a leaning towards emotionally charged stories that challenge characters with significant obstacles, while also appreciating quality filmmaking and strong performances.",
+  "metrics": {
+    "rouge1_f": 0.15841584158415845,
+    "rouge2_f": 0.06,
+    "rougeL_f": 0.11881188118811882,
+    "meteor": 0.11445389143230868,
+    "bleu1": 0.17647058823529413,
+    "bleu2": 0.045699117368154206,
+    "bleu3": 0.023165167647148512,
+    "bleu4": 0.009288540261011478,
+    "bertscore_precision": 0.4326094686985016,
+    "bertscore_recall": 0.4199894666671753,
+    "bertscore_f1": 0.4262060821056366
+  }
+}

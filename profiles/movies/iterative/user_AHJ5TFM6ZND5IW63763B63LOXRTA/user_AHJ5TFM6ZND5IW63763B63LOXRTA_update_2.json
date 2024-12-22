@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/29\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['William Wyler'], 'Producers': ['Samuel Goldwyn'], 'Starring': ['Merle Oberan', 'Laurence Olivier', 'David Niven'], 'Studio': ['MGM']}\nReview Text: love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Gordon-Levitt'], 'Producers': ['Ram Bergman'], 'Starring': ['Joseph Gordon-Levitt', 'Scarlett Johansson', 'Julianne Moore'], 'Studio': ['RELATIVITY MEDIA']}\nstupid\nOne Star\n{'Subtitles': ['None available'], 'Directors': ['William Wyler'], 'Producers': ['Samuel Goldwyn'], 'Starring': ['Merle Oberan', 'Laurence Olivier', 'David Niven'], 'Studio': ['MGM']}\nlove it\nFive Stars",
+  "profile": "User Profile Summary:\n\n- **Rating Trends**: Users exhibit a tendency towards critical evaluations, reflected in a wide range of ratings from very low (1 star) to a higher average rating (4.3). Recent feedback shows a notable positive shift with a 5-star rating, suggesting moments of strong appreciation for select content.\n\n- **Content Preferences**: The user continues to favor media with adult themes, showing an openness to classic films featuring established actors that engage with complex narratives. The recent positive review indicates an appreciation for high-quality storylines and performances.\n\n- **Language and Accessibility**: Preference for English audio and closed-captioned subtitles remains, highlighting special viewing needs. The lack of subtitles in the recent interaction may not deter enjoyment, indicating flexibility with accessibility features.\n\n- **Creative Involvement**: Engagement with works by respected filmmakers and actors persists, particularly those known for producing thought-provoking content. The recent purchase aligns with this interest, reinforcing their tendency to value creative storytelling.\n\n- **Emotional Reaction**: The user\u2019s ability to experience strong emotional reactions is evident. While a critical reviewer, they can also express immense satisfaction with content, as shown by the enthusiastic positive rating.\n\n- **Customization Preferences**: The user values tailored viewing experiences and may gravitate towards media that offers such features, maintaining an interest in diverse viewing options.\n\nOverall, the user appreciates high-quality, thought-provoking media while balancing a critical outlook with moments of genuine enjoyment.",
+  "metrics": {
+    "rouge1_f": 0.07457627118644068,
+    "rouge2_f": 0.006825938566552901,
+    "rougeL_f": 0.05423728813559322,
+    "meteor": 0.08224970009839469,
+    "bleu1": 0.06920415224913495,
+    "bleu2": 0.004901960784313723,
+    "bleu3": 0.002030576034221395,
+    "bleu4": 0.0013080457492551907,
+    "bertscore_precision": 0.37988466024398804,
+    "bertscore_recall": 0.3291192054748535,
+    "bertscore_f1": 0.35268452763557434
+  }
+}

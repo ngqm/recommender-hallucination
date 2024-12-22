@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/10/07\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: I didn't really understand the hoopla surrounding this show. From the outside it just looked like a show about a bunch of stuffy nobles, but one episode and I was hooked! Great show!\nReview Title: Now I get it...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': [\"Darragh O'Connell\", 'Timothy Bj\u00f6rklund'], 'Producers': ['Kate Boutilier', 'Eryk Casemiro', 'Patricia Resnick', 'Cathal Gaffney', 'Gillian Higgins', 'Karen Ialacci', 'Megan Laughton', 'Diana Manson'], 'Starring': ['Olivia']}\nReally wish this show was still on the air! It's clever in a way that makes me laugh almost as much as my daughter. Adorable!\nOlivia is adorable\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nI didn't really understand the hoopla surrounding this show. From the outside it just looked like a show about a bunch of stuffy nobles, but one episode and I was hooked! Great show!\nNow I get it...",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preferences:** Still enjoys clever and humorous programming that appeals to all ages, with a focus on content that engages the entire family. \n\n- **Viewership Patterns:** Continues to appreciate animated and family-oriented shows, but has recently shown a willingness to explore more sophisticated or period-themed content, suggesting an expanded range of taste in shows featuring complex themes and character dynamics.\n\n- **Emotional Engagement:** Maintains a strong emotional connection to shows that resonate with familial experiences. Displays an openness to more nuanced narratives that provide a blend of humor and depth, further enhancing shared viewing with children.\n\n- **Sentiment Analysis:** Shows a consistently positive sentiment towards varied watched content. The recent enthusiastic review indicating a shift from skepticism to appreciation highlights a movie-watching openness and a desire for quality storytelling.\n\n- **Younger Audience Appeal:** While keeping a preference for content that entertains younger audiences, this user also seems to appreciate clever narratives that include mature elements, demonstrating a balanced appreciation for both family-friendly and more distinguished programming.\n\nOverall, this user exhibits a preference for charming, family-friendly programming while embracing a broader spectrum of sophisticated content that fosters shared enjoyment and laughter within the family.",
+  "metrics": {
+    "rouge1_f": 0.13017751479289938,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07692307692307693,
+    "meteor": 0.0787711697518708,
+    "bleu1": 0.11753103990924282,
+    "bleu2": 0.02150224112951453,
+    "bleu3": 0.00567358736394517,
+    "bleu4": 0.0029173889720950663,
+    "bertscore_precision": 0.3659893274307251,
+    "bertscore_recall": 0.4020170569419861,
+    "bertscore_f1": 0.3831581473350525
+  }
+}

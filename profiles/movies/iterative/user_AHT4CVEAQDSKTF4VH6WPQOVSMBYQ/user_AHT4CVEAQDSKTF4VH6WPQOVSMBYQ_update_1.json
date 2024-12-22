@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/04/27\nAverage Rating: 4.2\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['---']}\nReview Text: RIP Purple Prince\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['---']}\nRIP Purple Prince\nFour Stars",
+  "profile": "**User Profile Summary**\n\n- **Preference for Quality**: The user tends to rate products favorably, as evidenced by a 4.2 average rating, indicating a propensity for appreciating quality items.\n  \n- **Interest in Artistry**: The mention of \"Purple Prince\" suggests an appreciation for iconic figures, likely in music and entertainment.\n\n- **Simplicity and Accessibility**: The absence of subtitles in the reviewed item suggests the user might prefer straightforward content, potentially valuing straightforward storytelling or performance.\n\n- **Emotional Connection**: The review's tone, particularly the phrase \"RIP,\" indicates a sensitivity to emotional narratives and possibly a connection to the cultural impact of artists.\n\n- **Engagement in Cultural Moments**: The user appears to engage with significant cultural events or criticisms, as implied by their reflective review.\n\nThese themes illustrate a user who values artistic integrity, emotional resonance, and quality, while also being in tune with cultural significance.",
+  "metrics": {
+    "rouge1_f": 0.05405405405405406,
+    "rouge2_f": 0.0136986301369863,
+    "rougeL_f": 0.02702702702702703,
+    "meteor": 0.11501003279009449,
+    "bleu1": 0.03645833333333334,
+    "bleu2": 0.013815980832084655,
+    "bleu3": 0.004648754527886802,
+    "bleu4": 0.002700144521138271,
+    "bertscore_precision": 0.4021606147289276,
+    "bertscore_recall": 0.24707987904548645,
+    "bertscore_f1": 0.3060985803604126
+  }
+}

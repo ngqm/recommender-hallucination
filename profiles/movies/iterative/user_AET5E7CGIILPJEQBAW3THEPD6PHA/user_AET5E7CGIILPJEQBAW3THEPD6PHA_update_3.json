@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/17\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Feig'], 'Producers': ['Ivan Reitman', 'Amy Pascal'], 'Starring': ['Melissa McCarthy', 'Kristen Wiig', 'Leslie Jones'], 'Studio': ['Columbia Pictures']}\nReview Text: Great movie! Hysterical and well worth the money.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nThis is a delightful story set in an eventful time in history. I recommend it highly for anyone with a love of history and culture.\nCan't stop watching.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Lee Fine', 'Paul A. Edwards', 'Douglas Aarniokoski', 'Ken Olin', 'Marc Roskin', 'Dwight H. Little', 'Wendey Stanzler', 'Kate Dennis', 'Olatunde Osunsanmi', \"Jim O'Hanlon\"], 'Studio': ['FOX']}\nWe absolutely loved every episode. It is a good show for anyone that loves action, science fiction and history rolled into one.\nWe Loved This!\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Feig'], 'Producers': ['Ivan Reitman', 'Amy Pascal'], 'Starring': ['Melissa McCarthy', 'Kristen Wiig', 'Leslie Jones'], 'Studio': ['Columbia Pictures']}\nGreat movie! Hysterical and well worth the money.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user continues to enjoy a mix of action, science fiction, and historical narratives, reflecting a strong appreciation for storytelling that weaves diverse genres, particularly those with historical relevance. Recent interactions suggest an increasing enjoyment of comedic elements within their preferred genres. \n- **Ratings Behavior:** Recently, they've maintained high ratings with an average of 4.7, underscoring a satisfaction for quality and entertainment that resonates with their previous standards of 4.5 to 5 stars. Their latest rating was a perfect 5, demonstrating a consistent trend towards highly enjoyable content. \n- **Interest in Content Advisory:** Open to mature themes, including violence and complex subjects, the user exhibits a mature perspective towards diverse storytelling.\n- **Language and Accessibility:** Continues to prefer English audio and subtitles, ensuring comprehension and accessibility.\n- **Production Quality:** Shows a clear preference for works by established directors and producers, highlighting a discerning taste for high production values in content. \n- **Engagement Style:** Remains enthusiastic about sharing positive experiences, as evidenced in their appreciative reviews emphasizing enjoyment and recommendations to others.\n- **Overall Trend:** The user is consistently drawn to rich, multifaceted narratives that offer both entertainment and cultural reflection, with a growing inclination to explore content that balances humor with the action and historical themes they love.",
+  "metrics": {
+    "rouge1_f": 0.1978609625668449,
+    "rouge2_f": 0.03763440860215053,
+    "rougeL_f": 0.106951871657754,
+    "meteor": 0.10041509272992365,
+    "bleu1": 0.14704200904938924,
+    "bleu2": 0.041664764825160024,
+    "bleu3": 0.02174661508684263,
+    "bleu4": 0.013223293334988586,
+    "bertscore_precision": 0.3826219141483307,
+    "bertscore_recall": 0.42200982570648193,
+    "bertscore_f1": 0.40135183930397034
+  }
+}

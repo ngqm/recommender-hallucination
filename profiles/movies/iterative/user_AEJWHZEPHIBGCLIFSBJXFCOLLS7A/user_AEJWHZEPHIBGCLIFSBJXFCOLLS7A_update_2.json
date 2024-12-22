@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 3.9\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['---'], 'Producers': ['Adam Shaheen'], 'Starring': ['Colin Mochrie', 'Roy Billing', 'Jacqueline Pillon']}\nReview Text: Claymation\nReview Title: Claymations\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Dobkin'], 'Producers': ['Susan Downey', 'David Dobkin', 'David Gambino'], 'Starring': ['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga'], 'Studio': ['Warner Bros.']}\nGood Show worth watching, Powerful actors\nI'll watch this one again...\n{'Subtitles': ['None available'], 'Directors': ['---'], 'Producers': ['Adam Shaheen'], 'Starring': ['Colin Mochrie', 'Roy Billing', 'Jacqueline Pillon']}\nClaymation\nClaymations",
+  "profile": "**Updated User Profile Summary:**\n\nThe user demonstrates a strong inclination towards high-quality entertainment that features renowned actors, as evidenced by their enthusiasm for performances from well-known talent. They have an affinity for narratives rich in depth and compelling storylines, which is reflected in their high average rating of 4.7. However, a recent interaction shows a slightly lower average rating of 3.9, suggesting a nuanced appreciation for varying content that still retains engaging aspects.\n\nThis user enjoys productions that often include mature themes, accepting elements such as violence, alcohol use, foul language, and sexual content, indicating a preference for gritty or complex stories. Their high rating of 5.0 for a claymation project reveals an openness to diverse genres, while their critical engagement signifies that impactful storytelling remains central to their viewing choices.\n\nAccessibility features such as audio descriptions and closed captions continue to be important for this user, as they emphasize inclusivity in media consumption. Overall, the user prioritizes films and shows that promise emotional resonance and involve notable talent, while being attentive to the overall viewing experience, including a willingness to appreciate creativity in multiple formats. This balance enriches their entertainment preferences, merging both classic storytelling with innovative mediums.",
+  "metrics": {
+    "rouge1_f": 0.10332103321033209,
+    "rouge2_f": 0.04460966542750929,
+    "rougeL_f": 0.0885608856088561,
+    "meteor": 0.08775766480035636,
+    "bleu1": 0.09251101321585901,
+    "bleu2": 0.006397974417281256,
+    "bleu3": 0.0026300711259406306,
+    "bleu4": 0.001688160038072273,
+    "bertscore_precision": 0.36379867792129517,
+    "bertscore_recall": 0.32850587368011475,
+    "bertscore_f1": 0.3452526926994324
+  }
+}

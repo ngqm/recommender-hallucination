@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/26\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Haber', 'Steve Robin', 'Michael Katleman', 'Norman Buckley', 'Gregory Prange', 'Michael Zinberg', 'Randy Zisk', 'Michael M. Robin', 'Stephen Clancy', 'Paul Holahan'], 'Producers': ['Not Specified'], 'Starring': ['Angie Harmon', 'Sasha Alexander'], 'Studio': ['Discovery Global']}\nReview Text: Great show!\nReview Title: Love it!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Piznarski', 'Sarah Pia Anderson', 'Joshua Butler', 'Steven DePaul', 'Nick Gomez', 'Frederick King Keller', 'Eriq La Salle', 'Constantine Makris', 'Peter Markle', 'Christine Moore'], 'Producers': ['Fox'], 'Starring': ['Dermot Mulroney', 'Rachael Taylor', 'Lance Gross'], 'Studio': ['NBC']}\nGreat show. It didn't get boring in the middle like a lot of these shows do. Love it! Watch it!\nLove it!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Haber', 'Steve Robin', 'Michael Katleman', 'Norman Buckley', 'Gregory Prange', 'Michael Zinberg', 'Randy Zisk', 'Michael M. Robin', 'Stephen Clancy', 'Paul Holahan'], 'Producers': ['Not Specified'], 'Starring': ['Angie Harmon', 'Sasha Alexander'], 'Studio': ['Discovery Global']}\nLove this show!\nMy summer fav!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Haber', 'Steve Robin', 'Michael Katleman', 'Norman Buckley', 'Gregory Prange', 'Michael Zinberg', 'Randy Zisk', 'Michael M. Robin', 'Stephen Clancy', 'Paul Holahan'], 'Producers': ['Not Specified'], 'Starring': ['Angie Harmon', 'Sasha Alexander'], 'Studio': ['Discovery Global']}\nGreat show!\nLove it!",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys engaging shows with consistent pacing, particularly fond of summer favorites and narratives that maintain momentum.\n- **Language & Accessibility:** Prefers content in English, utilizing English subtitles for clarity, with a strong emphasis on accessible viewing experiences.\n- **Engagement with Genres:** Favors dramatic and captivating narratives, showing a clear appreciation for strong storytelling elements and character-driven plots.\n- **Rating Behavior:** Tends to rate content highly, with an impressive average rating of 4.8 recently, demonstrating consistent enthusiasm for shows, often providing perfection-level ratings (5.0).\n- **Emotional Response:** Displays genuine enthusiasm in reviews, indicated through positive expressions like \"Love it!\" and recognition of shows as summer favorites.\n- **Production Quality Consideration:** Prioritizes well-crafted works by reputable studios and established directors, showcasing a preference for quality production that enhances the overall viewing experience.\n\nThe user's recent interaction highlights a continued passion for well-produced entertainment, reaffirming their commitment to quality storytelling and their tendency to provide highly positive feedback, with an increasing trend toward perfect ratings. Overall, the user seeks immersive narratives that engage them thoroughly throughout the viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.11411411411411411,
+    "rouge2_f": 0.012084592145015106,
+    "rougeL_f": 0.07807807807807808,
+    "meteor": 0.06768256721664911,
+    "bleu1": 0.08544270886796769,
+    "bleu2": 0.021747449015122974,
+    "bleu3": 0.010954133445579996,
+    "bleu4": 0.0043763919997653515,
+    "bertscore_precision": 0.34502464532852173,
+    "bertscore_recall": 0.3627678155899048,
+    "bertscore_f1": 0.3536738455295563
+  }
+}

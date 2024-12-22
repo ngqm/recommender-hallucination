@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/07/02\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Directors': ['Pitof'], 'Producers': ['Denise Di Novi', 'Edward McDonnell'], 'Starring': ['Halle Berry', 'Halle Berry', 'Sharon Stone'], 'Studio': ['WARNER HOME VIDEO']}\nReview Text: The only reason I gave this two star is because it has Halle Berry in it wearing outfits that dont leave much to the imagination.<br /><br />I've seen more realistic fight scenes in Disney cartoon. The plot could have been somewhat tolerable if they'd stuck to the Comics and not made it some teenage bubble gum movie.<br /><br />booo\nReview Title: I supposed if you were a 11-19 y/o girl this wouldnt be a bad movie\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael J. Bassett'], 'Producers': ['Don Carmody', 'Samuel Hadida'], 'Starring': ['Adelaide Clemens', 'Kit Harrington', 'Deborah Kara Unger']}\nIts lacks the cutting edge the original had, lame plot and bad acting inthe main roles. I wouldnt recommend it unless you really like horror movies..\nIts lacks the cutting edge\n{'Audio languages': ['English', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol', 'Portugu\u00eas'], 'Directors': ['Pitof'], 'Producers': ['Denise Di Novi', 'Edward McDonnell'], 'Starring': ['Halle Berry', 'Halle Berry', 'Sharon Stone'], 'Studio': ['WARNER HOME VIDEO']}\nThe only reason I gave this two star is because it has Halle Berry in it wearing outfits that dont leave much to the imagination.<br /><br />I've seen more realistic fight scenes in Disney cartoon. The plot could have been somewhat tolerable if they'd stuck to the Comics and not made it some teenage bubble gum movie.<br /><br />booo\nI supposed if you were a 11-19 y/o girl this wouldnt be a bad movie",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Strong interest in horror movies, but also explores other genres; remains discerning about quality, preferring well-crafted narratives and performances.\n- **Critical Perspective:** Rates content based on plot depth and acting quality, with a particular disdain for films that deviate from their source material or cater to trivial audience demographics. This critical eye extends to sequels and derivative works.\n- **Content Sensitivity:** Considers content advisories seriously and values transparency regarding themes like violence and language; encourages authenticity in storytelling.\n- **Rating Pattern:** Generally uses a moderate rating system, with recent interactions indicating a willingness to express disappointment when expectations are unmet, as reflected in lower ratings for lackluster narratives.\n- **Viewing Language:** Prefers English audio with English subtitles, focusing on understanding dialogue and nuances for an immersive viewing experience.\n\nOverall, the user demonstrates a thoughtful and analytical approach to media consumption, seeking meaningful and impactful storytelling, particularly in the horror genre, while also expressing strong opinions about lesser-quality offerings in other film categories, such as those aimed at younger audiences.",
+  "metrics": {
+    "rouge1_f": 0.15072463768115943,
+    "rouge2_f": 0.017492711370262388,
+    "rougeL_f": 0.07536231884057971,
+    "meteor": 0.07885304659498209,
+    "bleu1": 0.12254853413834377,
+    "bleu2": 0.020470295892725563,
+    "bleu3": 0.005240553656015406,
+    "bleu4": 0.00265455464488613,
+    "bertscore_precision": 0.3598227798938751,
+    "bertscore_recall": 0.39275652170181274,
+    "bertscore_f1": 0.37556904554367065
+  }
+}

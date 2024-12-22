@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/02\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ernest Dickerson', 'Billy Gierhart', 'Guy Ferland', 'Greg Nicotero'], 'Producers': ['Glen Mazzara', 'Robert Kirkman', 'Gale Anne Hurd', 'David Alpert'], 'Starring': ['Andrew Lincoln', 'Sarah Wayne Callies', 'Laurie Holden'], 'Studio': ['Starz']}\nReview Text: Plays great and is a ah some show it is always going to be a must watch on my list of things to watch.\nReview Title: Must watch\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ernest Dickerson', 'Billy Gierhart', 'Guy Ferland', 'Greg Nicotero'], 'Producers': ['Glen Mazzara', 'Robert Kirkman', 'Gale Anne Hurd', 'David Alpert'], 'Starring': ['Andrew Lincoln', 'Sarah Wayne Callies', 'Laurie Holden'], 'Studio': ['Starz']}\nPlays great and is a ah some show it is always going to be a must watch on my list of things to watch.\nMust watch",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** High ratings (average of 4.8), indicating a strong inclination towards quality content.\n- **Content Type:** Enjoys serialized drama, particularly in the horror or thriller genre, as suggested by the mention of gripping narratives.\n- **Language Preference:** Favors English audio and English subtitles, implying a preference for content that is easily accessible and understandable in English.\n- **Strong Engagement:** Shows a high level of enthusiasm for must-watch shows, suggesting a preference for engaging and memorable storytelling.\n- **Favoring Notable Creators:** Appreciates works from acclaimed directors and producers, indicating a tendency to gravitate towards projects with reputable talent involved.\n- **Consistent Viewing Habits:** Desires continuity in viewing experience, as evidenced by the notion of keeping certain shows on a watch list. \n\nOverall, the user appreciates high-quality, engaging drama with significant storytelling, favoring notable personalities in the industry and accessible language formats.",
+  "metrics": {
+    "rouge1_f": 0.18719211822660098,
+    "rouge2_f": 0.01990049751243781,
+    "rougeL_f": 0.1083743842364532,
+    "meteor": 0.12779552715654957,
+    "bleu1": 0.13065326633165833,
+    "bleu2": 0.008123207380542624,
+    "bleu3": 0.0032235144278994895,
+    "bleu4": 0.002033214489253896,
+    "bertscore_precision": 0.4083666205406189,
+    "bertscore_recall": 0.38839656114578247,
+    "bertscore_f1": 0.3981313407421112
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "user_id": "AHYJH6YE5PG64GHMJ4MTZHQA5KZQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2014/12/14\nAverage Rating: 3.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Lyn Goldfarb', 'Margaret Koval'], 'Producers': ['PBS']}\nReview Text: A wonderful series.  Gained a lot of insight into the Jewish story and history.\nReview Title: A wonderful series. Gained a lot of insight into the ...\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/16\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['James Franklin'], 'Producers': ['Lara Acaster', 'Anthony Geffen', 'Hugo Mander', 'Joe Yapp', 'Sophie Kaye', 'Alex Rowson', 'Alex Dwiar'], 'Studio': ['PBS']}\nReview Text: A very interesting documentary.  Would like to see more like this.\nReview Title: Would like to see more like this\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/08\nAverage Rating: 3.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Lee'], 'Producers': ['Elliot Gerner', 'Stampede Limited'], 'Starring': ['Elliott Gerner', 'Amitabh Bachchan', 'Don Black'], 'Studio': ['MagellanTV; Magellan TV']}\nReview Text: Pretty boring.\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/08\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['---'], 'Starring': ['Andrea Di Casa'], 'Studio': ['Unscripted']}\nReview Text: Kind of cheesy.  There are better films on this subject.\nReview Title: There are better films on this subject\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/11/01\nAverage Rating: 3.3\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['James Hawes'], 'Producers': ['Martin Weitz'], 'Studio': ['XiveTV']}\nReview Text: An interesting theory.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/17\nAverage Rating: 2.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Powersports International'], 'Studio': ['Total Content Digital']}\nReview Text: The video stopped in the middle of the program before the program finished.  Looked like it might have been interesting. Too bad could only see half.\nReview Title: Looked like it might have been interesting\nRating: 2.0\n--------------------------------------------------",
+  "reference": "{'Subtitles': ['None available'], 'Directors': ['Lyn Goldfarb', 'Margaret Koval'], 'Producers': ['PBS']}\nA wonderful series.  Gained a lot of insight into the Jewish story and history.\nA wonderful series. Gained a lot of insight into the ...\n{'Subtitles': ['None available'], 'Directors': ['James Franklin'], 'Producers': ['Lara Acaster', 'Anthony Geffen', 'Hugo Mander', 'Joe Yapp', 'Sophie Kaye', 'Alex Rowson', 'Alex Dwiar'], 'Studio': ['PBS']}\nA very interesting documentary.  Would like to see more like this.\nWould like to see more like this\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Lee'], 'Producers': ['Elliot Gerner', 'Stampede Limited'], 'Starring': ['Elliott Gerner', 'Amitabh Bachchan', 'Don Black'], 'Studio': ['MagellanTV; Magellan TV']}\nPretty boring.\nOne Star\n{'Subtitles': ['None available'], 'Directors': ['---'], 'Starring': ['Andrea Di Casa'], 'Studio': ['Unscripted']}\nKind of cheesy.  There are better films on this subject.\nThere are better films on this subject\n{'Subtitles': ['None available'], 'Directors': ['James Hawes'], 'Producers': ['Martin Weitz'], 'Studio': ['XiveTV']}\nAn interesting theory.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Powersports International'], 'Studio': ['Total Content Digital']}\nThe video stopped in the middle of the program before the program finished.  Looked like it might have been interesting. Too bad could only see half.\nLooked like it might have been interesting",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2014/12/14\nAverage Rating: 3.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Lyn Goldfarb', 'Margaret Koval'], 'Producers': ['PBS']}\nReview Text: A wonderful series.  Gained a lot of insight into the Jewish story and history.\nReview Title: A wonderful series. Gained a lot of insight into the ...\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/16\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['James Franklin'], 'Producers': ['Lara Acaster', 'Anthony Geffen', 'Hugo Mander', 'Joe Yapp', 'Sophie Kaye', 'Alex Rowson', 'Alex Dwiar'], 'Studio': ['PBS']}\nReview Text: A very interesting documentary.  Would like to see more like this.\nReview Title: Would like to see more like this\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/08\nAverage Rating: 3.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Lee'], 'Producers': ['Elliot Gerner', 'Stampede Limited'], 'Starring': ['Elliott Gerner', 'Amitabh Bachchan', 'Don Black'], 'Studio': ['MagellanTV; Magellan TV']}\nReview Text: Pretty boring.\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/09/08\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['---'], 'Starring': ['Andrea Di Casa'], 'Studio': ['Unscripted']}\nReview Text: Kind of cheesy.  There are better films on this subject.\nReview Title: There are better films on this subject\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/11/01\nAverage Rating: 3.3\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['James Hawes'], 'Producers': ['Martin Weitz'], 'Studio': ['XiveTV']}\nReview Text: An interesting theory.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/17\nAverage Rating: 2.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Powersports International'], 'Studio': ['Total Content Digital']}\nReview Text: The video stopped in the middle of the program before the program finished.  Looked like it might have been interesting. Too bad could only see half.\nReview Title: Looked like it might have been interesting\nRating: 2.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a nuanced appreciation for documentary content and historical narratives, particularly related to Jewish history, which is frequently mentioned positively. Ratings consistently indicate a strong preference for engaging and insightful material, underscored by multiple instances of high ratings (5.0) for well-executed documentaries. However, there\u2019s a notable disparity with lower ratings (1.0 and 2.0) for products perceived as boring or cheesy, suggesting a clear aversion to subpar quality and lack of depth.\n\nRecurring themes point toward an interest in educational narratives with meaningful insights; however, there is disappointment in products lacking subtitles and those deemed of lower production quality, indicating a desire for higher standards and comprehensive viewing experiences. \n\nQuality appears to be a crucial factor in overall enjoyment, with a sensitivity to deficiencies such as incomplete programming, which detracts from the viewing experience. Price sensitivity is less evident, though the focus on higher-rated products suggests a preference for valuing quality over cost. \n\nUltimately, core preferences are centered around well-researched, compelling documentaries that offer deep insights, ideally with robust production quality and comprehensive accessibility features, reflecting a discerning approach to media consumption.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "A good series",
+    "text": "Good acting.  Good plot.",
+    "images": [],
+    "asin": "B010AI9YCG",
+    "parent_asin": "B010AI9YCG",
+    "user_id": "AHYJH6YE5PG64GHMJ4MTZHQA5KZQ",
+    "timestamp": "2016-09-19 03:53:04",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.4,
+    "rating_number": 8356,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b37427b41fd9a0ff1adf2e18853c30b64811eefefbf469199db26656c80d6bee._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Dan Lerner",
+        "Christine Moore",
+        "Kevin Dowling",
+        "Adam Kane",
+        "Adam Arkin",
+        "Daniel Attias",
+        "Paris Barclay",
+        "Matt Earl Beesley",
+        "Allen Coulter",
+        "Holly Dale"
+      ],
+      "Studio": [
+        "CBS"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/04/02\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adrian Molina', 'Lee Unkrich'], 'Producers': ['Darla K. Anderson'], 'Starring': ['Anthony Gonzalez', 'Gael Garc\u00eda Bernal', 'Benjamin Bratt'], 'Studio': ['Pixar']}\nReview Text: great movie\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adrian Molina', 'Lee Unkrich'], 'Producers': ['Darla K. Anderson'], 'Starring': ['Anthony Gonzalez', 'Gael Garc\u00eda Bernal', 'Benjamin Bratt'], 'Studio': ['Pixar']}\ngreat movie\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally rates products highly, with an average rating of 4.8.\n- **Content Preferences:** Favorable towards animated features, particularly those produced by well-known studios.\n- **Language Accessibility:** Appreciates products with multiple audio options and subtitle availability, indicating a preference for inclusivity in content consumption.\n- **Engagement Style:** Expresses satisfaction through simple, positive feedback, reflecting a straightforward approach to reviewing products.\n- **Cultural Appreciation:** Shows interest in diverse cultural elements as indicated by the participation of Hispanic actors, suggesting a preference for multicultural representation.\n- **Visual and Auditory Focus:** Likely enjoys visually engaging stories paired with strong narratives, as evidenced by preference for quality storytelling familiar in high-rated productions. \n\nOverall, this user demonstrates a clear inclination toward high-quality animated films with inclusive features and culturally rich storytelling.",
+  "metrics": {
+    "rouge1_f": 0.07407407407407407,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04938271604938272,
+    "meteor": 0.08791208791208792,
+    "bleu1": 0.07734806629834254,
+    "bleu2": 0.006555238206466918,
+    "bleu3": 0.002884748624261964,
+    "bleu4": 0.00191635507252432,
+    "bertscore_precision": 0.3892195522785187,
+    "bertscore_recall": 0.33047452569007874,
+    "bertscore_f1": 0.3574495315551758
+  }
+}

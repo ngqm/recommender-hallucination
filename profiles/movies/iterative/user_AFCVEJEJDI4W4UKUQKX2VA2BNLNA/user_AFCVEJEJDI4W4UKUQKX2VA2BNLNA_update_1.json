@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/16\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anna Boden', 'Ryan Fleck'], 'Producers': ['Jamie Patricof', 'Lynette Howell', 'Tom Rice', 'Ben Nearn'], 'Starring': ['Ryan Reynolds', 'Ben Mendelsohn', 'Sienna Miller'], 'Studio': ['A24 Distribution LLC']}\nReview Text: Great movie and acting. Plot lacked at times but the acting made up for it\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anna Boden', 'Ryan Fleck'], 'Producers': ['Jamie Patricof', 'Lynette Howell', 'Tom Rice', 'Ben Nearn'], 'Starring': ['Ryan Reynolds', 'Ben Mendelsohn', 'Sienna Miller'], 'Studio': ['A24 Distribution LLC']}\nGreat movie and acting. Plot lacked at times but the acting made up for it\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys films with strong acting performances, indicating a focus on character portrayal and talent over plot complexity.\n- **Rating Behavior:** Tends to rate experiences positively (average 4.1), suggesting an optimistic disposition towards content, likely finding value even in mediocrity.\n- **Language and Accessibility:** Prefers English audio and appreciates English subtitles, highlighting an engagement with the content that may benefit from accessibility features.\n- **Genre Tendency:** Based on the actors involved, they may gravitate towards dramas or films with emotional depth and varied character arcs, possibly favoring independent cinema or productions from specific studios known for quality storytelling.\n- **Overall Experience:** Values the performance aspects of film over narrative cohesion, revealing a nuanced approach to evaluating media. \n\nThis profile reflects a user who appreciates quality acting and is inclined to favor films that may not have perfect plots but excel in their performance and production values.",
+  "metrics": {
+    "rouge1_f": 0.13333333333333333,
+    "rouge2_f": 0.010362694300518133,
+    "rougeL_f": 0.0717948717948718,
+    "meteor": 0.10036496350364964,
+    "bleu1": 0.1020408163265306,
+    "bleu2": 0.007233852622026189,
+    "bleu3": 0.0029990188421305086,
+    "bleu4": 0.0019335039716436803,
+    "bertscore_precision": 0.3987780809402466,
+    "bertscore_recall": 0.357460618019104,
+    "bertscore_f1": 0.3769906461238861
+  }
+}

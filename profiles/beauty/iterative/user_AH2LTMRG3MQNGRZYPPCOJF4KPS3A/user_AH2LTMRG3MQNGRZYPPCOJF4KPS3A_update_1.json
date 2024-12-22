@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: UV Light for Nails,LKE Curing Lamp for Gel Nail Polish 54W UV Led Light Gel Nail Starter Kit Nail Dryer Accessories\nReview Date: 2019/07/07\nStore: LKE\nAverage Rating: 4.0\nProduct Details: {'Brand': 'LKE', 'Light Source Type': 'LED', 'Number of Light Sources': '2', 'Wattage': '54 watts', 'Control Method': 'App', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.45 x 8.7 x 5.08 inches; 2 Pounds', 'Batteries': '1 Lithium Ion batteries required.'}\nReview Text: My teenager is a nail fanatic, she changes her nail color at least twice a week. She loves using this dryer, it's easy to operate and cuts down on drying time. It was harmless, and it works with all kinds of nail polish, not just Gel. It is really fast and would be great if you are in a hurry. My daughter approves\nReview Title: Nail salon quality at home\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "UV Light for Nails,LKE Curing Lamp for Gel Nail Polish 54W UV Led Light Gel Nail Starter Kit Nail Dryer Accessories\nLKE\n{'Brand': 'LKE', 'Light Source Type': 'LED', 'Number of Light Sources': '2', 'Wattage': '54 watts', 'Control Method': 'App', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.45 x 8.7 x 5.08 inches; 2 Pounds', 'Batteries': '1 Lithium Ion batteries required.'}\nMy teenager is a nail fanatic, she changes her nail color at least twice a week. She loves using this dryer, it's easy to operate and cuts down on drying time. It was harmless, and it works with all kinds of nail polish, not just Gel. It is really fast and would be great if you are in a hurry. My daughter approves\nNail salon quality at home",
+  "profile": "**User Profile Summary:**\n\n- **Key Interests:** Nail care, at-home beauty solutions, Gel nail polish.\n- **User Demographic:** Likely a parent of a teenager who enjoys nail art and experimentation with nail colors.\n- **Usage Patterns:** Frequent application and change of nail colors (at least twice a week), indicating a desire for efficiency and effectiveness in nail care products.\n- **Product Preferences:** Values ease of use and fast results in nail drying, suggesting a preference for time-saving beauty tools that enhance the at-home nail experience.\n- **Safety and Versatility:** Appreciates products that are harmless and compatible with various nail polish types, reflecting a concern for safety and a desire for multifunctional items.\n- **Quality Expectations:** Looks for salon-quality results at home, indicating a trend towards high-performance beauty products that replicate professional results.\n\nOverall, this user appears to prioritize convenience, safety, and quality in their beauty-related purchases, particularly for products associated with nail care for their daughter.",
+  "metrics": {
+    "rouge1_f": 0.3055555555555555,
+    "rouge2_f": 0.09090909090909091,
+    "rougeL_f": 0.20833333333333331,
+    "meteor": 0.2172526058890038,
+    "bleu1": 0.2631578947368421,
+    "bleu2": 0.10060545457319171,
+    "bleu3": 0.052738930879970475,
+    "bleu4": 0.03454531721596939,
+    "bertscore_precision": 0.46203237771987915,
+    "bertscore_recall": 0.4687005877494812,
+    "bertscore_f1": 0.46534261107444763
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Janier Nail Tips and Glue Gel Kit,2 In 1 Nail Glue Base Coat&Top Coat with Long Coffin False Clear Half Cover Fake Nail and UV LED Nail Lamp for Nail Extension DIY Nail Art\u2026\nReview Date: 2021/12/18\nStore: Janier\nProduct Description: ['1']\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Janier', 'Material': 'Acrylic', 'Item Form': 'Gel', 'Item Package Quantity': '1', 'Package Dimensions': '5.12 x 3.82 x 3.19 inches; 9.63 Ounces', 'UPC': '750081718188'}\nReview Text: This is a great set. It comes with everything you need minus the gel polish. I especially appreciate the gel glue I prefer that over the other regular nail glue. The lamp however is another story u can only cure 1-2 nails at a time depending on you hand size doesn\u2019t get me wrong it works just fine it\u2019s just that nobody has time to do One nail at a time. I already have a regular side led lamp at home so it wasn\u2019t a deal breaker for this is why I still gave them 5\u2b50\ufe0f\u2018S\nReview Title: Amazing set minus the LED lamp\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Janier Nail Tips and Glue Gel Kit,2 In 1 Nail Glue Base Coat&Top Coat with Long Coffin False Clear Half Cover Fake Nail and UV LED Nail Lamp for Nail Extension DIY Nail Art\u2026\nJanier\n['1']\n{'Brand': 'Janier', 'Material': 'Acrylic', 'Item Form': 'Gel', 'Item Package Quantity': '1', 'Package Dimensions': '5.12 x 3.82 x 3.19 inches; 9.63 Ounces', 'UPC': '750081718188'}\nThis is a great set. It comes with everything you need minus the gel polish. I especially appreciate the gel glue I prefer that over the other regular nail glue. The lamp however is another story u can only cure 1-2 nails at a time depending on you hand size doesn\u2019t get me wrong it works just fine it\u2019s just that nobody has time to do One nail at a time. I already have a regular side led lamp at home so it wasn\u2019t a deal breaker for this is why I still gave them 5\u2b50\ufe0f\u2018S\nAmazing set minus the LED lamp",
+  "profile": "**User Summary:**\n\n- **Nail Care Enthusiast:** Shows a strong interest in DIY nail art and nail extension kits, indicating a focus on self-care and personal grooming.\n- **Preference for Gel Products:** Expresses a clear preference for gel glue over regular nail glue, suggesting a desire for quality and durability in nail products.\n- **Value for Comprehensive Kits:** Appreciates sets that include multiple components necessary for nail care, indicating a preference for all-in-one solutions that cater to varied needs.\n- **Time Efficiency Focus:** Critiques the efficiency of the LED lamp included, emphasizing the importance of convenience and speed in nail application processes.\n- **High Standards for Performance:** Maintains a high standard for product performance, as evidenced by the rating given despite some criticisms, reflecting a balance between appreciation for quality and realistic expectations.\n- **Open to Additional Tools:** Indicates that already possessing alternative tools (like a regular LED lamp) indicates a willingness to integrate various products into their nail care routine.\n\nOverall, the user demonstrates a keen interest in efficient, quality nail care and values thoughtful, all-inclusive products, while balancing personal preferences with practical considerations.",
+  "metrics": {
+    "rouge1_f": 0.2937853107344633,
+    "rouge2_f": 0.062499999999999986,
+    "rougeL_f": 0.15254237288135594,
+    "meteor": 0.1959463102228552,
+    "bleu1": 0.20588235294117646,
+    "bleu2": 0.07219564714624578,
+    "bleu3": 0.035349233950057936,
+    "bleu4": 0.011708952371954927,
+    "bertscore_precision": 0.41779425740242004,
+    "bertscore_recall": 0.43024390935897827,
+    "bertscore_f1": 0.4239276945590973
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Oval Makeup Applicator (Pink)\nReview Date: 2018/05/03\nStore: EBOOT\nAverage Rating: 4.4\nProduct Details: {'Brand': 'EBOOT', 'Material': 'Sponge', 'Item Dimensions LxWxH': '0.2 x 0.39 x 2.44 inches', 'Recommended Uses For Product': 'Makeup', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.2 x 0.39 x 2.44 inches; 3.21 Ounces', 'UPC': '712971922198'}\nReview Text: sanitary\nReview Title: sanitary\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ApHogee Two-Step Protein Treatment 1oz & Balancing Moisturizer 0.75oz Packet\"Pack of 2\"\nAphogee\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.39 x 3.19 x 0.83 inches; 3.84 Ounces', 'UPC': '638302438452'}\nthe best product I've ever used for severely damaged hair (I've used over 50 products).\nyou can't go wrong\nAvon Foot Work Action Pedi - Peel 22 Pads\nAvon Footworks\n['Brand New 22 pads']\n{'Brand': 'Avon Footworks', 'Unit Count': '22.0 Count', 'Number of Items': '22', 'Arch Type': 'Low Arch', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.7 x 2.7 x 1.5 inches; 3.2 Ounces', 'UPC': '094000723045', 'Manufacturer': 'avon'}\nI keep it on my bed tray to slough my lips and hands daily. It makes my moisturizer penetrate deeper and I get better results.\nnot just for feet\neBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Oval Makeup Applicator (Pink)\nEBOOT\n{'Brand': 'EBOOT', 'Material': 'Sponge', 'Item Dimensions LxWxH': '0.2 x 0.39 x 2.44 inches', 'Recommended Uses For Product': 'Makeup', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.2 x 0.39 x 2.44 inches; 3.21 Ounces', 'UPC': '712971922198'}\nsanitary\nsanitary",
+  "profile": "**User Summary:**\n\n- **Focus on Hair Care:** The user prioritizes solutions for severely damaged hair, reflecting a strong commitment to hair health and repair.\n- **Product Variety:** Demonstrates a broad experience with various personal care products, showing a willingness to experiment for tailored solutions.\n- **High Standards:** Consistently rates products highly, indicating a preference for quality and effectiveness across all beauty offerings.\n- **Positive Experiences:** Exhibits satisfaction with past purchases, focusing on products that deliver tangible results across multiple categories.\n- **Preference for Specialized Treatments:** Seeks targeted treatments rather than general solutions for hair, showcasing an understanding of their specific needs.\n- **Expanded Interests:** Recently expressed interest in foot care products, highlighting a growing focus on overall skin health and personal care.\n- **Emphasis on Multi-Functionality:** Values products offering multiple benefits, reflecting a discerning consumer mentality aimed at efficiency in personal care.\n- **Makeup Application Insights:** The user has also shown an interest in makeup tools, recently purchasing a high-rated disposable applicator. Their emphasis on hygiene and functionality suggests they appreciate tools that meet sanitary standards and enhance the application process.\n\nThis behavior aligns with a sophisticated consumer profile prioritizing quality and efficiency across diverse aspects of personal wellness, beauty, and effective application techniques.",
+  "metrics": {
+    "rouge1_f": 0.1259445843828715,
+    "rouge2_f": 0.02025316455696203,
+    "rougeL_f": 0.07052896725440806,
+    "meteor": 0.1048982351990712,
+    "bleu1": 0.14434172471430418,
+    "bleu2": 0.03960328991079923,
+    "bleu3": 0.0225089454024259,
+    "bleu4": 0.01428291976064251,
+    "bertscore_precision": 0.36945682764053345,
+    "bertscore_recall": 0.40846922993659973,
+    "bertscore_f1": 0.3879848122596741
+  }
+}

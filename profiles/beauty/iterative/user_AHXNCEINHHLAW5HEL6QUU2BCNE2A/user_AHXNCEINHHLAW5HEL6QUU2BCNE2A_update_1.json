@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HAIRCUBE Natural Looking Short Blonde Wigs Pixie Cut Dark Root Ombre Blonde Wigs with Bangs Wigs for Women\nReview Date: 2021/02/02\nStore: HAIRCUBE\nAverage Rating: 3.2\nProduct Details: {'Material': 'Memory Fiber', 'Hair Type': 'Pixie Cut', 'Style': 'Modern', 'Brand': 'HAIRCUBE', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.4 x 7.8 x 3.2 inches; 3.99 Ounces', 'Item model number': 'aswig61-wm3045'}\nReview Text: I love this!  This is the best short wig I've come across. It looks so real, especially the coloring and the quality of the hair.  Straight from the box it was ready to go on and wear.  You can style it many different ways.  It has 3 clips inside and there is enough room to hide my long hair.  I absolutely recommend it.\nReview Title: Love! So natural looking, easy to style, great color\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HAIRCUBE Natural Looking Short Blonde Wigs Pixie Cut Dark Root Ombre Blonde Wigs with Bangs Wigs for Women\nHAIRCUBE\n{'Material': 'Memory Fiber', 'Hair Type': 'Pixie Cut', 'Style': 'Modern', 'Brand': 'HAIRCUBE', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.4 x 7.8 x 3.2 inches; 3.99 Ounces', 'Item model number': 'aswig61-wm3045'}\nI love this!  This is the best short wig I've come across. It looks so real, especially the coloring and the quality of the hair.  Straight from the box it was ready to go on and wear.  You can style it many different ways.  It has 3 clips inside and there is enough room to hide my long hair.  I absolutely recommend it.\nLove! So natural looking, easy to style, great color",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Short wigs with a natural appearance and modern styling options.\n- **Quality Focus:** Values realistic color and overall quality in hair products, indicating a preference for high-quality materials.\n- **Ease of Use:** Prefers products that are user-friendly and ready to wear straight out of the box.\n- **Styling Versatility:** Enjoys versatility in styling, appreciating products that offer multiple styling options.\n- **Positive Experiences:** Takes pleasure in products that deliver on their promises, leading to high satisfaction (evidenced by a 5-star rating).\n- **Recommendation Behavior:** Likely to recommend products that meet or exceed expectations, reflecting confidence in the quality and performance of the items.\n\nOverall, this user's preferences lean towards high-quality, natural-looking wigs that provide ease of styling and a good user experience.",
+  "metrics": {
+    "rouge1_f": 0.2677165354330709,
+    "rouge2_f": 0.06349206349206349,
+    "rougeL_f": 0.13385826771653545,
+    "meteor": 0.18363886045292258,
+    "bleu1": 0.24581005586592178,
+    "bleu2": 0.07432241573127903,
+    "bleu3": 0.014613540787482797,
+    "bleu4": 0.006489159142531289,
+    "bertscore_precision": 0.44962871074676514,
+    "bertscore_recall": 0.46561598777770996,
+    "bertscore_f1": 0.4574826955795288
+  }
+}

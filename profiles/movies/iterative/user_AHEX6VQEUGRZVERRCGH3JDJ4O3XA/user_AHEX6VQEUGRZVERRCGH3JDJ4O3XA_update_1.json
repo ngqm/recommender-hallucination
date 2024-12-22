@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/12/21\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Judge'], 'Producers': ['Mike Judge', 'Elysa Koplovitz'], 'Starring': ['Luke Wilson', 'Maya Rudolph', 'Dax Shepard'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: It was a great concept borrowed from Woody Allen's Sleeper ( 1973) but not well executed. The Director expected the viewing audience to be as stupid as the general theme of the movie. It made no sense to use a hooker as the female protagonist. The updated concept is promising, but the execution was just terrible.\nReview Title: Idiocracy\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Judge'], 'Producers': ['Mike Judge', 'Elysa Koplovitz'], 'Starring': ['Luke Wilson', 'Maya Rudolph', 'Dax Shepard'], 'Studio': ['20TH CENTURY FOX']}\nIt was a great concept borrowed from Woody Allen's Sleeper ( 1973) but not well executed. The Director expected the viewing audience to be as stupid as the general theme of the movie. It made no sense to use a hooker as the female protagonist. The updated concept is promising, but the execution was just terrible.\nIdiocracy",
+  "profile": "**User Profile Summary:**\n\n- **Rating Trends:** Generally positive ratings, as indicated by an average of 4.5; however, there can also be strong negative reactions, as seen by the 1.0 rating for one specific interaction.\n  \n- **Content Preferences:** Expresses a clear disdain for poorly executed concepts, especially when they borrow from classic works. Values originality and thoughtful execution in storytelling.\n\n- **Thematic Interests:** Shows engagement with themes that resonate with societal critiques (e.g., intelligence, societal absurdity) but has strong reservations regarding the portrayal of characters and narrative choices, particularly when deemed unrealistic or offensive.\n\n- **Viewpoint on Execution:** Prefers films that balance creativity with strong, coherent narratives over those that rely on shock value or stereotypes. \n\n- **Director and Actor Influence:** Notable preference for works by specific directors and actors, indicating an appreciation for distinct styles or particular storytelling approaches. \n\n- **Content Sensitivity:** Aware of content advisories, with an aversion to excessive violence, drug use, and sexual content when not tastefully integrated into the narrative. \n\nOverall, the user appreciates thoughtful, well-crafted films that challenge perceptions rather than relying on clich\u00e9 or shock factors.",
+  "metrics": {
+    "rouge1_f": 0.2058823529411765,
+    "rouge2_f": 0.02222222222222222,
+    "rougeL_f": 0.09558823529411764,
+    "meteor": 0.1620840172418892,
+    "bleu1": 0.1859504132231405,
+    "bleu2": 0.02777730149068331,
+    "bleu3": 0.00685051078680642,
+    "bleu4": 0.0034055929697102885,
+    "bertscore_precision": 0.4130946397781372,
+    "bertscore_recall": 0.3895301818847656,
+    "bertscore_f1": 0.40096649527549744
+  }
+}

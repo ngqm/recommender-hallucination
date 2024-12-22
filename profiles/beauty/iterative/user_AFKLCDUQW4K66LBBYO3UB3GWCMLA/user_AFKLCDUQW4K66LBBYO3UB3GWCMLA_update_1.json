@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Spiralization Direct 1 Pack Electric Detangling Brush Hair Detangler Brush Comb for Natural, Curly, Straight, Wet Dry Hair (Batteries Not Included)\nReview Date: 2020/10/15\nStore: Spiralization Direct\nAverage Rating: 3.2\nProduct Details: {'Brand': 'Spiralization Direct', 'Shape': 'Oblong', 'Unit Count': '1.00 Count', 'Hair Type': 'Dry, Curly, Thick, Thin, Straight', 'Material': 'Abs resin', 'Package Dimensions': '11.5 x 5.43 x 1.57 inches; 9.59 Ounces', 'UPC': '619156544476'}\nReview Text: I have rather thick long hair. I am also a pain patient so my head is usually rubbed on pillows or my headboard.  Hard to get out, painful to get out. UNTIL I bought this. I saw it on my fav influencers post and thought let me try this.\nReview Title: I love how much less of my hair was being pulled out. easy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Spiralization Direct 1 Pack Electric Detangling Brush Hair Detangler Brush Comb for Natural, Curly, Straight, Wet Dry Hair (Batteries Not Included)\nSpiralization Direct\n{'Brand': 'Spiralization Direct', 'Shape': 'Oblong', 'Unit Count': '1.00 Count', 'Hair Type': 'Dry, Curly, Thick, Thin, Straight', 'Material': 'Abs resin', 'Package Dimensions': '11.5 x 5.43 x 1.57 inches; 9.59 Ounces', 'UPC': '619156544476'}\nI have rather thick long hair. I am also a pain patient so my head is usually rubbed on pillows or my headboard.  Hard to get out, painful to get out. UNTIL I bought this. I saw it on my fav influencers post and thought let me try this.\nI love how much less of my hair was being pulled out. easy",
+  "profile": "**User Summary:**\n\n- **Hair Care Needs:** Strong preference for hair care products that cater to thick, long, and potentially challenging hair types. User specifically seeks solutions that minimize hair damage and detangling pain.\n  \n- **Pain Considerations:** User experiences discomfort, likely due to health issues, hence prioritizes products that ease hair management without causing additional pain.\n\n- **Influencer Impact:** Influenced by social media, particularly endorsements from favorite influencers, indicating a tendency to rely on peer recommendations for product choices.\n\n- **Satisfaction Level:** Demonstrates a clear expectation for performance and ease of use, as evidenced by a strong rating for a product that effectively addressed hair tangling concerns.\n\n- **Product Features Preference:** Values features that enhance usability, such as ease of detangling and gentleness on hair, aligning with personal comfort needs. \n\nThis user evidently seeks effective, comfortable hair care solutions and is motivated by social influence and product efficacy.",
+  "metrics": {
+    "rouge1_f": 0.17490494296577946,
+    "rouge2_f": 0.01532567049808429,
+    "rougeL_f": 0.10646387832699619,
+    "meteor": 0.14148103552077063,
+    "bleu1": 0.1958762886597938,
+    "bleu2": 0.010074239673795464,
+    "bleu3": 0.0037529643844867984,
+    "bleu4": 0.0022936254053628462,
+    "bertscore_precision": 0.402060866355896,
+    "bertscore_recall": 0.4088250994682312,
+    "bertscore_f1": 0.40541478991508484
+  }
+}

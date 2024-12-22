@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 120 Pcs Glue on Nails, Medium Stiletto Fake Nails, Press on Nails for Women and Girls False Nail Art Full Cover Artificial Stick on Nails Sets with Glue Sticker and Nail File Halloween Christmas Gift\nReview Date: 2021/09/22\nStore: TMLECE TM\nAverage Rating: 3.4\nProduct Details: {'Size': '127 Piece Set', 'Material': 'Acrylonitrile Butadiene Styrene (ABS)', 'Brand': 'TMLECE TM', 'Style': 'Stiletto', 'Coverage': 'Full Well Tips'}\nReview Text: Cute designs very flimsy dollar store quality\nReview Title: Cute and flimsy\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Major Dijit Short Fake Nails Acrylic Nails Coffin Shaped Ballerina Nails Tips (beige)\nMajor Dijit\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 5.9 x 1.1 inches; 1.6 Ounces', 'UPC': '008574130680'}\nTo thin the color is regular plastic nails\nNo not for me\n120 Pcs Glue on Nails, Medium Stiletto Fake Nails, Press on Nails for Women and Girls False Nail Art Full Cover Artificial Stick on Nails Sets with Glue Sticker and Nail File Halloween Christmas Gift\nTMLECE TM\n{'Size': '127 Piece Set', 'Material': 'Acrylonitrile Butadiene Styrene (ABS)', 'Brand': 'TMLECE TM', 'Style': 'Stiletto', 'Coverage': 'Full Well Tips'}\nCute designs very flimsy dollar store quality\nCute and flimsy",
+  "profile": "**User Profile Summary:**\n\n- **Quality Concerns**: The user maintains a strong preference for high-quality products, as demonstrated by their recent feedback highlighting disappointment with flimsy construction and low-grade materials. They are particularly critical of items perceived as cheap or lacking in durability.\n\n- **Aesthetic Preferences**: The user appreciates specific nail styles but is quick to express dissatisfaction when the execution does not align with their expectations, reinforcing their desire for both aesthetic appeal and quality.\n\n- **Material Sensitivity**: There is a clear focus on the importance of durable materials, with the user expressing frustration over products that fail to meet this standard. Recent interactions indicate a heightened sensitivity to material quality and overall construction.\n\n- **Critique Behavior**: The user is candid in their feedback, offering clear and direct critiques that reflect high standards. They do not hesitate to voice disappointment, indicating that they value transparency and accountability in product offerings.\n\n- **Negative Experience**: The user exhibits a pattern of critical evaluation, particularly when products fall short of their quality and aesthetic expectations. This suggests they are discerning shoppers who prioritize premium experiences and products in the beauty category.\n\nOverall, the user prioritizes quality, design, and material integrity in beauty products and is committed to providing constructive feedback when their standards are not met.",
+  "metrics": {
+    "rouge1_f": 0.12422360248447202,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07453416149068323,
+    "meteor": 0.10487353485502776,
+    "bleu1": 0.09923664122137404,
+    "bleu2": 0.006166173985331969,
+    "bleu3": 0.002445415912022278,
+    "bleu4": 0.0015414860871746728,
+    "bertscore_precision": 0.35943490266799927,
+    "bertscore_recall": 0.3417811989784241,
+    "bertscore_f1": 0.350385844707489
+  }
+}

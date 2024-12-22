@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: One Special Night / Christmas Clause / Chrirtmas in Clouds\nReview Date: 2015/09/28\nStore: Rated:    NR    Format: DVD\nCategories: Movies & TV, Holidays & Seasonal, Christmas, Romantic\nProduct Description: ['Includes the films One Special Night, The Christmas Clause and Christmas In The Clouds.']\nAverage Rating: 4.4\nProduct Details: {'Genre': 'Kids & Family', 'Format': 'DVD', 'Language': 'English', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'NR (Not Rated)', 'Product Dimensions': '7.5 x 0.7 x 5.4 inches; 4 Ounces', 'Item model number': 'GDTV58556DVD', 'Media Format': 'DVD', 'Release date': 'August 14, 2012', 'Studio': 'Gaiam Americas'}\nReview Text: I got this as it had &#34;one special night&#34; on it.  I remembered it from tv a while back.  Still good as when first seen.  How nice to get two additional movies.  A great value for 3 for the price of one!\nReview Title: One truly special bargain\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "One Special Night / Christmas Clause / Chrirtmas in Clouds\nRated:    NR    Format: DVD\nMovies & TV, Holidays & Seasonal, Christmas, Romantic\n['Includes the films One Special Night, The Christmas Clause and Christmas In The Clouds.']\n{'Genre': 'Kids & Family', 'Format': 'DVD', 'Language': 'English', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'NR (Not Rated)', 'Product Dimensions': '7.5 x 0.7 x 5.4 inches; 4 Ounces', 'Item model number': 'GDTV58556DVD', 'Media Format': 'DVD', 'Release date': 'August 14, 2012', 'Studio': 'Gaiam Americas'}\nI got this as it had &#34;one special night&#34; on it.  I remembered it from tv a while back.  Still good as when first seen.  How nice to get two additional movies.  A great value for 3 for the price of one!\nOne truly special bargain",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interests:** Movies, particularly family and holiday-themed films, with a specific fondness for Christmas content.\n- **Genre Preference:** Enjoys romantic and family-friendly movies, often associated with nostalgic themes and festive celebrations.\n- **Format Preference:** Prefers physical media, specifically DVDs, indicating a preference for traditional viewing experiences over digital formats.\n- **Value-Conscious:** Looks for value in purchases, as evidenced by appreciating multiple films in one package.\n- **Nostalgia Factor:** Strong inclination toward films with sentimental value or personal memories, reflecting a deeper emotional connection to the viewing experience.\n- **Positive Engagement:** Tends to express satisfaction through high ratings and positive reviews, indicating an appreciation for quality entertainment that meets or exceeds expectations. \n\nThis user seems to cherish the experience of watching feel-good movies, especially during the holiday season, reinforced by a desire for both quality and value.",
+  "metrics": {
+    "rouge1_f": 0.24334600760456274,
+    "rouge2_f": 0.007662835249042145,
+    "rougeL_f": 0.12167300380228137,
+    "meteor": 0.13157894736842105,
+    "bleu1": 0.20102009665460865,
+    "bleu2": 0.010205660209177429,
+    "bleu3": 0.003785601565279393,
+    "bleu4": 0.0023086322099966734,
+    "bertscore_precision": 0.40907686948776245,
+    "bertscore_recall": 0.4256083369255066,
+    "bertscore_f1": 0.4171788990497589
+  }
+}

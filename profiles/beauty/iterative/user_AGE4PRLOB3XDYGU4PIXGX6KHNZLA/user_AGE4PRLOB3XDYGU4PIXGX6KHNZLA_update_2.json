@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BESTIM INC(TM) Disposable 100PCS Glue Ring Pallet Holder for Tattoo Pigmen Eyelash Extension\nReview Date: 2016/11/05\nStore: BESTIM INC\nAverage Rating: 3.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.67 x 4.09 x 1.42 inches; 0.64 Ounces', 'UPC': '701828569334'}\nReview Text: Price is great.. Order came fast<br />I love using these glue rings.. Makes me lash faster\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "G2PLUS Eyelash Extension Adhesive Glue Pallet Sticker Pads,1-Inches Diameter (Small-100 Pads, 5 Sheets)\nG2PLUS\n{'Package Dimensions': '9 x 6 x 0.01 inches; 2.4 Ounces'}\nSticker was good but glue seems to dry out fast.\nThree Stars\nBESTIM INC(TM) Disposable 100PCS Glue Ring Pallet Holder for Tattoo Pigmen Eyelash Extension\nBESTIM INC\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.67 x 4.09 x 1.42 inches; 0.64 Ounces', 'UPC': '701828569334'}\nPrice is great.. Order came fast<br />I love using these glue rings.. Makes me lash faster\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest**: Focus on beauty and cosmetics accessories, particularly items related to eyelash extensions.\n- **Quality Conscious**: Values functionality and longevity in products. Despite previous concerns about durability, recent experiences with specific accessories indicate a positive shift in perception regarding certain tools.\n- **Satisfaction Improvement**: While the user typically rates products around average, a recent purchase received a high rating, suggesting that they may be more willing to endorse products that meet their performance needs effectively.\n- **Preference for Value**: Continues to seek a balance between cost and quality, with an emphasis on practical applications that enhance their beauty routine.\n- **Review Style**: Provides straightforward feedback, focusing on specific aspects of product performance, reflecting a practical and analytical approach. Increased positivity in recent reviews may indicate a growing satisfaction with product effectiveness.\n- **Purchasing Behavior**: Engages with the brand through repeat shopping for related items, demonstrating loyalty and a reliance on certain product types for beauty routines. Recent purchases suggest an active pursuit of tools that enhance efficiency and overall experience.\n\nOverall, this user values effective beauty tools and shows an evolving perspective toward products that offer reliable performance and enhance their beauty application process.",
+  "metrics": {
+    "rouge1_f": 0.027586206896551727,
+    "rouge2_f": 0.006944444444444444,
+    "rougeL_f": 0.027586206896551727,
+    "meteor": 0.07763196629316849,
+    "bleu1": 0.039525691699604744,
+    "bleu2": 0.00396040380434798,
+    "bleu3": 0.001841909999059343,
+    "bleu4": 0.001257379287284512,
+    "bertscore_precision": 0.37845152616500854,
+    "bertscore_recall": 0.36585181951522827,
+    "bertscore_f1": 0.37204504013061523
+  }
+}

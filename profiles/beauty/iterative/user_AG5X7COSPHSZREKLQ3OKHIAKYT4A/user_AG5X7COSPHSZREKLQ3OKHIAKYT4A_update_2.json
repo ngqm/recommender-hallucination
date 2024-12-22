@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Catrice | SUNGASM Luminizing Bronzer 01 | For A Sun-Kissed Shimmery Finish | Highly Pigmented & Blendable | Vegan, Paraben Free, Oil Free | Cruelty Free\nReview Date: 2020/08/06\nStore: Catrice\nAverage Rating: 4.1\nProduct Details: {'Item Form': 'Powder', 'Finish Type': 'Shimmery', 'Brand': 'Catrice', 'Color': 'C01 Golden Ecstasy', 'Skin Tone': 'All', 'Product Dimensions': '2.72 x 2.72 x 0.51 inches; 1.27 Ounces'}\nReview Text: This bronzer is really pretty, it's not matte but not glittery. It has the perfect amount of shimmer/sheen that makes your skin look healthy and glowy. Perfect for summer. It blends out beautifully on my skin and looks like I have a natural tan. I have fair skin and the 01 shade doesn't pull too orange or too red on me.\nReview Title: So beautiful!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "N3 No Name Necessary Mattifying Shine and Oil Control Long Lasting Anti-aging Makeup Setting Spray (200ml)\nNo Name Necessary\n{'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 0.81 Ounces'}\nThis spray feels slightly like hairspray when you spritz it on. It helps makeup last all day and stay matte. I personally like a dewy finish so I spray this first for longevity, then when it dries I\u2019ll spray a little dewy spray. Love the combo! Comes in a huge bottle that will last forever.\nGood spray for oily skin\nCatrice | SUNGASM Luminizing Bronzer 01 | For A Sun-Kissed Shimmery Finish | Highly Pigmented & Blendable | Vegan, Paraben Free, Oil Free | Cruelty Free\nCatrice\n{'Item Form': 'Powder', 'Finish Type': 'Shimmery', 'Brand': 'Catrice', 'Color': 'C01 Golden Ecstasy', 'Skin Tone': 'All', 'Product Dimensions': '2.72 x 2.72 x 0.51 inches; 1.27 Ounces'}\nThis bronzer is really pretty, it's not matte but not glittery. It has the perfect amount of shimmer/sheen that makes your skin look healthy and glowy. Perfect for summer. It blends out beautifully on my skin and looks like I have a natural tan. I have fair skin and the 01 shade doesn't pull too orange or too red on me.\nSo beautiful!",
+  "profile": "**User Summary:**\n\n- **Makeup Preferences**: Prioritizes long-lasting makeup solutions with an emphasis on controlling shine and oil while also appreciating products that enhance a healthy glow.\n- **Skin Type**: Likely has oily skin, indicated by the need for mattifying effects, yet is open to using products with shimmery finishes that can brighten the complexion.\n- **Finish Preference**: Enjoys a dewy finish but is also drawn to products that add a sun-kissed, shimmery effect, showing flexibility in achieving varied looks depending on the season.\n- **Product Packaging**: Values larger product sizes for longevity and cost-effectiveness.\n- **Review Behavior**: Provides constructive and balanced reviews, demonstrating a pragmatic approach to product evaluations, and now highlights a strong appreciation for quality shimmery finishes that enhance natural beauty.\n- **Usage Technique**: Employs a combination of products and blends them well, indicating a willingness to experiment with different textures and finishes for optimal results while achieving a more natural, radiant appearance.\n\nThis update reflects the user's recent positive experience with a bronzer product, emphasizing their ability to balance dewy and shimmery finishes in their makeup routine.",
+  "metrics": {
+    "rouge1_f": 0.3025641025641026,
+    "rouge2_f": 0.05670103092783505,
+    "rougeL_f": 0.11794871794871796,
+    "meteor": 0.16972298088177915,
+    "bleu1": 0.2455551781750404,
+    "bleu2": 0.06152152722746551,
+    "bleu3": 0.024467775997620983,
+    "bleu4": 0.008686629095296387,
+    "bertscore_precision": 0.4379199147224426,
+    "bertscore_recall": 0.48226749897003174,
+    "bertscore_f1": 0.4590250551700592
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/06/09\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn', 'Anthony Byrne', 'Marc Jobst', 'Brendan Maher', 'Saul Metzstein'], 'Producers': ['Euros Lynn', 'Nikki Wilson', 'Piers Wenger', 'Heidi Thomas', 'Kate Harwood'], 'Starring': ['Dame Eileen Atkins', 'Keeley Hawes', 'Ed Stoppard'], 'Studio': ['BBC America']}\nReview Text: Great job of taking a wonderful old series into the next generation. Strong story line, talented actors, clever directing. And best of all, beautiful scenery and costumes. Cannot wait for next season!\nReview Title: Remake\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn', 'Anthony Byrne', 'Marc Jobst', 'Brendan Maher', 'Saul Metzstein'], 'Producers': ['Euros Lynn', 'Nikki Wilson', 'Piers Wenger', 'Heidi Thomas', 'Kate Harwood'], 'Starring': ['Dame Eileen Atkins', 'Keeley Hawes', 'Ed Stoppard'], 'Studio': ['BBC America']}\nGreat job of taking a wonderful old series into the next generation. Strong story line, talented actors, clever directing. And best of all, beautiful scenery and costumes. Cannot wait for next season!\nRemake",
+  "profile": "User Summary:\n\n- **Content Preference**: Enjoys well-produced remakes of classic series.\n- **Storytelling**: Values strong storylines and character development.\n- **Acting Quality**: Prefers productions with talented actors.\n- **Direction**: Appreciates clever and skilled directing.\n- **Aesthetic Appeal**: Enthusiastic about beautiful scenery and costumes in productions.\n- **Engagement**: Shows eagerness for upcoming seasons, indicating a commitment to serial content.\n- **Language & Accessibility**: Prefers content with English audio and subtitles, highlighting a focus on accessibility for a broader audience.\n\nThis user displays a strong inclination towards high-quality, aesthetically pleasing content with engaging narratives and performances.",
+  "metrics": {
+    "rouge1_f": 0.26250000000000007,
+    "rouge2_f": 0.05063291139240506,
+    "rougeL_f": 0.17500000000000002,
+    "meteor": 0.12790549169859514,
+    "bleu1": 0.1702127659574468,
+    "bleu2": 0.07796811755854505,
+    "bleu3": 0.0443897907405941,
+    "bleu4": 0.028215811914606103,
+    "bertscore_precision": 0.43187493085861206,
+    "bertscore_recall": 0.4598032534122467,
+    "bertscore_f1": 0.44540169835090637
+  }
+}

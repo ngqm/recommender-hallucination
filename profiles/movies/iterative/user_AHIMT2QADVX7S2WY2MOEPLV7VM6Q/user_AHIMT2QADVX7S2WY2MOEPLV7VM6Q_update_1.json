@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/31\nAverage Rating: 3.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Jay Chandrasekhar'], 'Producers': ['Jay Chandrasekhar', 'Mike Nelson', 'Colin Bates'], 'Starring': ['Jay Chandrasekhar', 'Sarah Chalke', 'Selma Blair']}\nReview Text: I love the cast. The writers are good and I can actually see myself as one of this group. More, please.\nReview Title: I enjoyed and want more.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Jay Chandrasekhar'], 'Producers': ['Jay Chandrasekhar', 'Mike Nelson', 'Colin Bates'], 'Starring': ['Jay Chandrasekhar', 'Sarah Chalke', 'Selma Blair']}\nI love the cast. The writers are good and I can actually see myself as one of this group. More, please.\nI enjoyed and want more.",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Enjoys comedic films and shows with strong ensemble casts. \n- **Personal Connection**: Relates to characters and narratives, seeking stories that resonate personally.\n- **Creativity Appreciation**: Values the contributions of writers and directors, indicating a preference for well-crafted storytelling.\n- **Positive Engagement**: Shows enthusiasm for content featuring familiar actors, suggesting loyalty to specific performers.\n- **Desire for Quantity**: Expresses a desire for more content from favorite creators, reflecting an inclination towards franchises or series.\n- **Rating Behavior**: Tends to rate content positively when it aligns with personal taste and emotional engagement. \n\nOverall, the user favors humorous, character-driven narratives with strong writer and actor involvement, prioritizing personal enjoyment and connection in their viewing choices.",
+  "metrics": {
+    "rouge1_f": 0.12499999999999997,
+    "rouge2_f": 0.012658227848101266,
+    "rougeL_f": 0.0875,
+    "meteor": 0.15647938610268805,
+    "bleu1": 0.125748502994012,
+    "bleu2": 0.008703568821888906,
+    "bleu3": 0.003580719190135354,
+    "bleu4": 0.002300206020474522,
+    "bertscore_precision": 0.41059380769729614,
+    "bertscore_recall": 0.3900819420814514,
+    "bertscore_f1": 0.40007513761520386
+  }
+}

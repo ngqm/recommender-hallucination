@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Anself Gold Nail Drill Bit Tungsten Steel Grinding Head Tool Nail Drill Bit Gold Plated for Nail Art Polish Machine\nReview Date: 2015/05/19\nAverage Rating: 3.8\nProduct Details: {'Package Dimensions': '6.2 x 5.3 x 0.4 inches; 0.35 Ounces', 'UPC': '706551128759'}\nReview Text: works great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare\nBeauticom\n['Body Care / Beauty Care Nail Polish Holders (Oval & Round Style) (2 Pcs Total) Bodycare / BeautyCare']\n{'Brand': 'Beauticom', 'Number of Items': '2', 'Use for': 'Whole Body', 'Unit Count': '2.00 Count'}\nThese are great to use if you angel the bottle in or out\nFour Stars\nAnself Gold Nail Drill Bit Tungsten Steel Grinding Head Tool Nail Drill Bit Gold Plated for Nail Art Polish Machine\n{'Package Dimensions': '6.2 x 5.3 x 0.4 inches; 0.35 Ounces', 'UPC': '706551128759'}\nworks great\nFive Stars",
+  "profile": "### Updated User Profile Summary\n\n**Keywords:** Body Care, Beauty Care, Nail Care Accessories, Functional Design, Positive Experience, Quality Performance\n\n**Trends:**\n- **Product Preference:** The user continues to demonstrate a strong interest in body and beauty care products, particularly focusing on nail care accessories.\n- **Functional Use:** Previous mentions of practicality are reinforced with this recent purchase, as the user appreciates tools that enhance the nail care experience.\n- **Rating Behavior:** The user consistently provides positive feedback, as shown by a perfect five-star rating, indicating a high level of satisfaction with the performance and quality of products.\n- **Review Engagement:** The review highlights that the user values functional effectiveness, suggesting they prefer products that deliver reliable results.\n- **Purchase Channel:** The user's interaction pattern suggests a distinct preference for specialized beauty retailers that carry quality nail care tools.\n\nOverall, the user's engagement reflects their appreciation for high-quality, functional beauty care accessories, with a focus on achieving excellent results in nail care. They have shown consistency in positively rating products, highlighting their discerning nature regarding quality and performance in their beauty purchases.",
+  "metrics": {
+    "rouge1_f": 0.17204301075268816,
+    "rouge2_f": 0.043321299638989175,
+    "rougeL_f": 0.12186379928315413,
+    "meteor": 0.11460379829731501,
+    "bleu1": 0.09583333333333334,
+    "bleu2": 0.028318767278878117,
+    "bleu3": 0.006958632653152026,
+    "bleu4": 0.0034530736901526283,
+    "bertscore_precision": 0.4180881381034851,
+    "bertscore_recall": 0.3757786154747009,
+    "bertscore_f1": 0.39580589532852173
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 2 Pieces Soft Sleep Cap \u2013 Night Satin Bonnet with Wide Premium Elastic Band for Women\nReview Date: 2020/01/11\nStore: Samserot\nAverage Rating: 3.8\nProduct Details: {'Product Dimensions': '12.6 x 12.6 x 0.8 inches; 2.19 Ounces', 'UPC': '828217364995'}\nReview Text: I absolutely LOVE the colors and designs. My ONLY con is the band is so damn tight I had to push it back past my edges and stretch it out a few times in order for it not to be so tight, and even then it\u2019s still tight. But the colors are cute\ud83d\ude29\nReview Title: The colors are cute\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "2 Pieces Soft Sleep Cap \u2013 Night Satin Bonnet with Wide Premium Elastic Band for Women\nSamserot\n{'Product Dimensions': '12.6 x 12.6 x 0.8 inches; 2.19 Ounces', 'UPC': '828217364995'}\nI absolutely LOVE the colors and designs. My ONLY con is the band is so damn tight I had to push it back past my edges and stretch it out a few times in order for it not to be so tight, and even then it\u2019s still tight. But the colors are cute\ud83d\ude29\nThe colors are cute",
+  "profile": "**User Summary:**\n\n- **Aesthetic Appreciation:** Shows a strong preference for vibrant colors and attractive designs in products.\n- **Comfort Concerns:** Sensitive to comfort factors, specifically regarding tightness and fit; negative experiences with overly tight bands.\n- **Moderate Satisfaction:** Indicates a tendency to experience mixed feelings about purchases, reflecting a balance of positive aspects (design) and negative aspects (comfort).\n- **Attention to Detail:** Values the practicality of product dimensions and usability, hinting at an analytical approach to purchases.\n- **Product Functionality:** Prioritizes functionality in personal items, particularly those related to sleep or self-care.\n- **Brand Awareness:** Engages with brands that focus on quality materials. \n\nOverall, the user expresses a clear appreciation for style but is also focused on comfort and usability, seeking a balance between aesthetics and function in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.20465116279069767,
+    "rouge2_f": 0.028169014084507043,
+    "rougeL_f": 0.10232558139534884,
+    "meteor": 0.13278388278388278,
+    "bleu1": 0.12568306010928962,
+    "bleu2": 0.026278627520035288,
+    "bleu3": 0.007252853876619502,
+    "bleu4": 0.0038156064089157845,
+    "bertscore_precision": 0.4048324227333069,
+    "bertscore_recall": 0.38840171694755554,
+    "bertscore_f1": 0.39644691348075867
+  }
+}

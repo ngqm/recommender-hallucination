@@ -1,0 +1,19 @@
+{
+  "interaction_number": 5,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ben Nye Nose & Scar Wax Fair, 1oz\nReview Date: 2017/10/30\nStore: Ben Nye\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\nReview Text: great for special FX mackup\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ben Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Primary Interest:** Special effects makeup\n- **Product Type Preference:** Strong preference for wax-based products suitable for application\n- **Brand Loyalty:** Loyal to high-quality brands in the FX makeup category, particularly favoring Ben Nye\n- **Satisfaction Level:** Maintains a high level of satisfaction with products, consistently giving positive ratings, with a recent purchase rated 5 stars, underscoring their admiration for quality and effectiveness.\n- **Usage Context:** Utilizes products for theatrical or creative purposes, indicating robust engagement with performance arts or makeup artistry\n- **Review Trait:** Provides enthusiastic and positive reviews, reflecting favorable experiences with the effectiveness and ease of application of products; recently emphasized their effectiveness in special effects makeup.\n\nThe user\u2019s latest interaction highlights their continued dedication to premium makeup solutions, further solidifying their loyalty to trusted brands and underscoring their expertise in wax formulations. Their consistent pattern of high ratings not only reflects satisfaction but also showcases their commitment to excellence in their craft. Overall, the user remains intensely focused on enhancing their artistic expression through top-tier products tailored to their specific needs in makeup artistry, especially in special effects applications.",
+  "metrics": {
+    "rouge1_f": 0.0988235294117647,
+    "rouge2_f": 0.004728132387706855,
+    "rougeL_f": 0.06588235294117646,
+    "meteor": 0.060136768002241534,
+    "bleu1": 0.0725569632892606,
+    "bleu2": 0.013274829219179397,
+    "bleu3": 0.0035028517816253226,
+    "bleu4": 0.0018012635307101308,
+    "bertscore_precision": 0.3343130648136139,
+    "bertscore_recall": 0.33287864923477173,
+    "bertscore_f1": 0.33359429240226746
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/03/14\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Quale'], 'Producers': ['Luc Besson', 'Rapha\u00ebl Benoliel'], 'Starring': ['Sullivan Stapleton', 'Charlie Bewley', 'Joshua Henry'], 'Studio': ['EuropaCorp']}\nReview Text: Husband purchased this\nReview Title: Movie purchase\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Quale'], 'Producers': ['Luc Besson', 'Rapha\u00ebl Benoliel'], 'Starring': ['Sullivan Stapleton', 'Charlie Bewley', 'Joshua Henry'], 'Studio': ['EuropaCorp']}\nHusband purchased this\nMovie purchase",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user tends to gravitate towards films that contain mature themes, including violence, alcohol use, foul language, and sexual content. This suggests a preference for more adult-oriented content.\n\n- **Language Accessibility:** The user appreciates options for enhanced audio and subtitle features, indicating a preference for accessibility in media consumption, such as English Dialogue Boost and closed captions.\n\n- **Engagement with Purchase Decisions:** The fact that a film was purchased by the user\u2019s spouse implies that they may share viewing experiences or consider the preferences of their partner when selecting content.\n\n- **Skepticism in Ratings:** The user has given an average rating of 4.2 but has rated one specific purchase at a lower score of 3.0, which may indicate a critical or discerning approach to assessing media.\n\nOverall, the user appears to enjoy adult-themed films with a focus on audio quality and accessibility, often influenced by collaborative purchasing decisions. They possess a thoughtful attitude toward the quality of the content they consume.",
+  "metrics": {
+    "rouge1_f": 0.16589861751152074,
+    "rouge2_f": 0.06511627906976744,
+    "rougeL_f": 0.13824884792626727,
+    "meteor": 0.11197429718875504,
+    "bleu1": 0.10000000000000002,
+    "bleu2": 0.021873931962990364,
+    "bleu3": 0.006127219795896863,
+    "bleu4": 0.003246796045720938,
+    "bertscore_precision": 0.42236047983169556,
+    "bertscore_recall": 0.3457372188568115,
+    "bertscore_f1": 0.3802269697189331
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: UPHUNAL Handmade Short Coffin False Nails Set Long Press on Nails Fake Nails 24Pcs for Any Occasions Reusable Acrylic Matte Artificial Nails with Nail File Gifts for Women and Girls (Cute Pink)\nReview Date: 2022/04/01\nStore: UPHUNAL\nAverage Rating: 4.4\nProduct Details: {'Material': 'Acrylic', 'Brand': 'UPHUNAL', 'Coverage': 'Half Well Tips', 'Number of Pieces': '24', 'Shape': 'Ballerina', 'UPC': '735626573330'}\nReview Text: These nails are adorable, not your average designs and pretty charming because they look handmade. I am disappointed this set doesnt come with glue (just the little sticker pads) but I have some on hand so no big deal. Also there are so few of the cute design nails, mostly just the black ones.\nReview Title: Edgy designs cute style\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "UPHUNAL Handmade Short Coffin False Nails Set Long Press on Nails Fake Nails 24Pcs for Any Occasions Reusable Acrylic Matte Artificial Nails with Nail File Gifts for Women and Girls (Cute Pink)\nUPHUNAL\n{'Material': 'Acrylic', 'Brand': 'UPHUNAL', 'Coverage': 'Half Well Tips', 'Number of Pieces': '24', 'Shape': 'Ballerina', 'UPC': '735626573330'}\nThese nails are adorable, not your average designs and pretty charming because they look handmade. I am disappointed this set doesnt come with glue (just the little sticker pads) but I have some on hand so no big deal. Also there are so few of the cute design nails, mostly just the black ones.\nEdgy designs cute style",
+  "profile": "**User Summary:**\n\n- **Style Preference**: Enjoys unique and handmade designs, with a particular attraction to edgy and cute aesthetics. \n- **Product Types**: Has a strong interest in false nails, specifically sets that offer variety and charm.\n- **Material Preference**: Prefers acrylic materials that provide a mix of durability and appeal.\n- **Design Focus**: Looks for visually striking patterns, though expresses disappointment when selections are limited.\n- **Functionality and Usability**: Values reusability and practicality, indicating an inclination toward products that can be used multiple times.\n- **Price Sensitivity**: Shows a tendency to value products based on their features and overall design rather than solely on cost.\n- **Review Behavior**: Offers constructive feedback, highlighting strengths like aesthetic appeal while also noting shortcomings (e.g., lack of adhesive options).\n- **Overall Rating**: Tends to give positive ratings (around 4.0), suggesting satisfaction with products that meet aesthetic and functional expectations. \n\nOverall, this user favors distinctive fashion items that blend creativity with usability, reflecting a balanced appreciation for style and practicality.",
+  "metrics": {
+    "rouge1_f": 0.21804511278195485,
+    "rouge2_f": 0.007575757575757575,
+    "rougeL_f": 0.11278195488721805,
+    "meteor": 0.16988674217188543,
+    "bleu1": 0.16379310344827586,
+    "bleu2": 0.02662820035016712,
+    "bleu3": 0.006755413414892147,
+    "bleu4": 0.0034062779120199575,
+    "bertscore_precision": 0.4136749505996704,
+    "bertscore_recall": 0.40708088874816895,
+    "bertscore_f1": 0.410351425409317
+  }
+}

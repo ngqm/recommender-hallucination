@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: LaClaire Acne Wash with Salicylic Acid & Tea Tree Oil - Face Cleanser for Acne-Prone Skin (50 ml/1.65 oz)\nReview Date: 2018/09/23\nStore: LaClaire\nAverage Rating: 3.0\nProduct Details: {'Item Form': 'Oil, Foam', 'Skin Type': 'Oily, Combination, Dry, Normal', 'Brand': 'LaClaire', 'Scent': 'Tea Tree', 'Material Feature': 'Antibacterial', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.5 x 2.75 x 1.63 inches; 9.14 Ounces', 'UPC': '891040000705', 'Manufacturer': 'LaClaire'}\nReview Text: This has terrific ingredients but personally I found it harsh and irritating; not the best option for older adults prone to the sporadic flair-up of acne. Fragrance, consistency and overall ingredient list are fine but the irritation lingers long after use.\nReview Title: Not the best for mature acne prone skin\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "LaClaire Acne Wash with Salicylic Acid & Tea Tree Oil - Face Cleanser for Acne-Prone Skin (50 ml/1.65 oz)\nLaClaire\n{'Item Form': 'Oil, Foam', 'Skin Type': 'Oily, Combination, Dry, Normal', 'Brand': 'LaClaire', 'Scent': 'Tea Tree', 'Material Feature': 'Antibacterial', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.5 x 2.75 x 1.63 inches; 9.14 Ounces', 'UPC': '891040000705', 'Manufacturer': 'LaClaire'}\nThis has terrific ingredients but personally I found it harsh and irritating; not the best option for older adults prone to the sporadic flair-up of acne. Fragrance, consistency and overall ingredient list are fine but the irritation lingers long after use.\nNot the best for mature acne prone skin",
+  "profile": "**User Profile Summary:**\n\n- **Skin Concerns:** The user is focused on managing acne, particularly as it affects older adults, indicating a concern for mature skin issues.\n- **Product Preferences:** Prefers products with beneficial ingredients like salicylic acid and tea tree oil, indicating an inclination towards antibacterial features for acne-prone skin.\n- **Sensitivity Awareness:** The user values efficacy but also has a sensitivity concern, having experienced irritation from products meant to treat acne, suggesting a need for gentle formulations.\n- **Fragrance Sensitivity:** While they appreciate product scents, the user acknowledges that fragrance can contribute to irritation, indicating they may prefer unscented or mildly scented options.\n- **Overall Rating Expectation:** The user rates products based on a balance of ingredients and performance, reflected in a moderate overall rating; they appear to hold products to a higher standard, particularly for specialized skin concerns. \n\nOverall, this user's interactions suggest a thoughtful and cautious approach to skincare, balancing effectiveness with sensitivity and long-term skin health considerations.",
+  "metrics": {
+    "rouge1_f": 0.3247232472324723,
+    "rouge2_f": 0.05947955390334572,
+    "rougeL_f": 0.15498154981549817,
+    "meteor": 0.21357476635514025,
+    "bleu1": 0.20952380952380953,
+    "bleu2": 0.0447773662839645,
+    "bleu3": 0.009878353999921154,
+    "bleu4": 0.004645375795359863,
+    "bertscore_precision": 0.44578325748443604,
+    "bertscore_recall": 0.4522736966609955,
+    "bertscore_f1": 0.44900503754615784
+  }
+}

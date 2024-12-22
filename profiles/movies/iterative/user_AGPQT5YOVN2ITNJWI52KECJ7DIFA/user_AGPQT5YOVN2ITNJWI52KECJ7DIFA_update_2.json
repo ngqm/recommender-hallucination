@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/11/11\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jesse Peretz'], 'Producers': ['Anthony Bregman', 'Anne Carey'], 'Starring': ['Jason Bateman', 'Amanda Peet', 'Zach Braff'], 'Studio': ['Lionsgate']}\nReview Text: Love Justin Bateman!!  Haha\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Mulcahy', 'Tim Andrew', 'Jennifer Lynch', 'Toby Wilkins', 'Christian Taylor', 'Robert Hall', 'James J.D. Taylor', 'David Daniel', 'Katie Eastridge', 'Joseph P. Genier'], 'Starring': ['Tyler Posey', 'Crystal Reed', \"Dylan O'Brien\"], 'Studio': ['MTV']}\nLove this series!\nA lot of fun to watch!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jesse Peretz'], 'Producers': ['Anthony Bregman', 'Anne Carey'], 'Starring': ['Jason Bateman', 'Amanda Peet', 'Zach Braff'], 'Studio': ['Lionsgate']}\nLove Justin Bateman!!  Haha\nThree Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Generally gives high ratings, averaging around 4.8 to 5.0, but has shown flexibility in rating with a recent 3.0, suggesting a discerning taste that may lean toward personal enjoyment rather than just production quality.\n- **Content Interest:** Appreciates series with intense themes, including violence and frightening elements, and remains comfortable with mature content, such as foul language and sexual themes.\n- **Genres:** Prefers horror, thriller, and drama genres, reflecting a consistent interest in narratives that explore darker themes.\n- **Engagement Style:** Enthusiastic reviewer who expresses enjoyment, with previous trends showing positive feedback. The recent review indicates a playful approach to content engagement, highlighting a sense of humor.\n- **Linguistic Accessibility:** Continues to prefer content available in English, valuing audio descriptions and closed captions.\n- **Key Elements:** Values character-driven storytelling, as gleaned from interest in cast dynamics and actor performances. The recent interaction reveals particular admiration for specific actors, indicating a possible influence of star power on viewing preferences.\n- **Viewing Context:** Prioritizes high entertainment quality and engages with multi-dimensional narratives, which heightens the appeal of immersive storytelling experiences.\n\nOverall, this user exhibits a strong affinity for engaging, mature-themed television series while demonstrating a humorous and flexible approach to ratings based on personal affinity.",
+  "metrics": {
+    "rouge1_f": 0.10774410774410774,
+    "rouge2_f": 0.013559322033898306,
+    "rougeL_f": 0.10101010101010101,
+    "meteor": 0.10144901651799147,
+    "bleu1": 0.11636363636363636,
+    "bleu2": 0.006516784515747378,
+    "bleu3": 0.0024963263342245023,
+    "bleu4": 0.0015464425569578766,
+    "bertscore_precision": 0.38983404636383057,
+    "bertscore_recall": 0.3548314571380615,
+    "bertscore_f1": 0.3715100884437561
+  }
+}

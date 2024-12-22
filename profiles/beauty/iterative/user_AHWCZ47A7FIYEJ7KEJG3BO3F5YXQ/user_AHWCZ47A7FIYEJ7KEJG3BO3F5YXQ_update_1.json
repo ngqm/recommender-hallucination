@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Underarm Sweat Pads - 80 Pack Dress Shields Armpit Shields Disposable Anti Sweat Women And Men For Fight Hyperhidrosis\nReview Date: 2019/08/12\nStore: LADES\nAverage Rating: 3.5\nProduct Details: {'Brand': 'LADES', 'Number of Items': '80', 'Unit Count': '80.00 Count'}\nReview Text: These underarm sweat pads are just the thing for that extra protection in times of need! Sometimes no matter how much or what kind of deodorant you use, you just can't seem to stop the unsightly and ever so embarrassing pit stain of doom.  With these placed in your shirt the sweat never reaches your shirt and your garments are saved!<br />These work very well. To use them you simply lay your shirt down flat, remove the covering over the adhesive, place firmly in the spot needed, and you are good to go. When you are going to take it off remember to very gently remove it because it can become pretty sticky. It mentions this when you read about the product above but it is worth the reminder here!<br />These work very well and are a good option if you have problems often or occasionally with sweaty underarms.\nReview Title: These work well\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Underarm Sweat Pads - 80 Pack Dress Shields Armpit Shields Disposable Anti Sweat Women And Men For Fight Hyperhidrosis\nLADES\n{'Brand': 'LADES', 'Number of Items': '80', 'Unit Count': '80.00 Count'}\nThese underarm sweat pads are just the thing for that extra protection in times of need! Sometimes no matter how much or what kind of deodorant you use, you just can't seem to stop the unsightly and ever so embarrassing pit stain of doom.  With these placed in your shirt the sweat never reaches your shirt and your garments are saved!<br />These work very well. To use them you simply lay your shirt down flat, remove the covering over the adhesive, place firmly in the spot needed, and you are good to go. When you are going to take it off remember to very gently remove it because it can become pretty sticky. It mentions this when you read about the product above but it is worth the reminder here!<br />These work very well and are a good option if you have problems often or occasionally with sweaty underarms.\nThese work well",
+  "profile": "**User Preferences Summary:**\n\n- **Focus on Personal Care:** The user is concerned with maintaining personal hygiene and comfort, particularly regarding underarm sweat management.\n  \n- **Practical Solutions:** Preference for products that offer practical, discreet solutions for embarrassment and discomfort, as evidenced by the purchase of disposable sweat pads.\n\n- **Effectiveness and Reliability:** Values products that provide proven effectiveness, as indicated by a positive review highlighting the functionality and protective benefits against stains.\n  \n- **User-Friendly Design:** Appreciates easy-to-use products with clear instructions, favoring simplicity in application and removal processes.\n\n- **Moderate Brand Loyalty:** Engaged with a specific brand that offers the desired product features, suggesting a tendency to explore options within familiar brands.\n\n- **Open to Future Purchases:** The user's experience indicates potential openness to trying additional related products or innovations in personal care for sweaty conditions.",
+  "metrics": {
+    "rouge1_f": 0.24528301886792453,
+    "rouge2_f": 0.0189873417721519,
+    "rougeL_f": 0.1320754716981132,
+    "meteor": 0.13621482163602947,
+    "bleu1": 0.18251287370832553,
+    "bleu2": 0.04092308411029128,
+    "bleu3": 0.009175876924371945,
+    "bleu4": 0.004350996249631147,
+    "bertscore_precision": 0.40170568227767944,
+    "bertscore_recall": 0.4224529564380646,
+    "bertscore_f1": 0.41181817650794983
+  }
+}

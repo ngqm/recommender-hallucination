@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVMID6UZLIPLR5B5R5NJLYLPOVA",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/11/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenny Ortega'], 'Producers': ['David Kirschner', 'Steven Haft'], 'Starring': ['Bette Midler', 'Sarah Jessica Parker', 'Kathy Najimy'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Fave movie!\nReview Title: Pleased\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Wonderful movie!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Wonderful series!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Beautiful scenery, wonderful acting, engaging characters.  Everything about this series is positive!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenny Ortega'], 'Producers': ['David Kirschner', 'Steven Haft'], 'Starring': ['Bette Midler', 'Sarah Jessica Parker', 'Kathy Najimy'], 'Studio': ['Walt Disney Pictures']}\nFave movie!\nPleased\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nWonderful movie!\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nWonderful series!\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nBeautiful scenery, wonderful acting, engaging characters.  Everything about this series is positive!\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/11/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenny Ortega'], 'Producers': ['David Kirschner', 'Steven Haft'], 'Starring': ['Bette Midler', 'Sarah Jessica Parker', 'Kathy Najimy'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Fave movie!\nReview Title: Pleased\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Wonderful movie!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Wonderful series!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2017/01/19\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Beautiful scenery, wonderful acting, engaging characters.  Everything about this series is positive!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual displays a strong preference for high-quality entertainment, consistently rating products with an average score of 4.8 or higher, indicating a favorable sentiment. Their preferences reflect a keen interest in films and series featuring compelling stories and notable actors, typically sourced from reputable studios. A significant theme in their selections revolves around narratives that include mature content, as evidenced by recurring content advisories covering violence, alcohol use, and sexual themes.\n\nMoreover, the individual seems particularly drawn to period dramas or films characterized by rich production values, evidenced by repeated commentary on \"wonderful\" and \"beautiful\" aspects, such as scenery and acting quality. This suggests a taste for engaging and visually appealing narratives.\n\nPrice sensitivity appears low, indicated by their willingness to invest in high-rated content. Overall, core preferences highlight a discerning choice for aesthetically pleasing, mature-themed narratives with strong character development, suggesting a consistent pursuit of premium cinematic experiences.",
+  "target_interaction": {
+    "rating": 3.0,
+    "title": "Good movie",
+    "text": "Love Johnny, liked the movie.  Was not disappointed.",
+    "images": [],
+    "asin": "B00M0HXNPK",
+    "parent_asin": "B00M0HXNPK",
+    "user_id": "AHVMID6UZLIPLR5B5R5NJLYLPOVA",
+    "timestamp": "2017-08-21 14:27:06.833000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.4,
+    "rating_number": 4924,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e243af634eca26832bb72b39e3b39f0c9aada8a80c24755f55895a75742e55bb._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "alcohol use",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Wally Pfister"
+      ],
+      "Producers": [
+        "Marisa Polvino",
+        "Kate Cohen",
+        "Annie Marter",
+        "Broderick Johnson",
+        "Andrew A. Kosove",
+        "David Valdes",
+        "Aaron Ryder"
+      ],
+      "Starring": [
+        "Johnny Depp",
+        "Morgan Freeman",
+        "Rebecca Hall"
+      ],
+      "Studio": [
+        "WARNER BROS."
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

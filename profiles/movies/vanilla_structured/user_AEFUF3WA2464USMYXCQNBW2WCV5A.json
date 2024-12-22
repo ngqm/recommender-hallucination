@@ -1,0 +1,62 @@
+{
+  "user_id": "AEFUF3WA2464USMYXCQNBW2WCV5A",
+  "summary": "=== Purchase Information ===\nReview Date: 2013/12/29\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kate Harwood'], 'Starring': ['Dame Judi Dench', 'Michael Gambon', 'Francesca Annis']}\nReview Text: its a very wonderful series. I wish there were more to follow but maybe they will film me something new to love just as much.\nReview Title: love it\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2013/12/29\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryn Higgins'], 'Producers': ['Bryn Higgins'], 'Starring': ['Cherie Lunghi', 'Nicholas Farrell', 'Charity Wakefield'], 'Studio': ['BBC America']}\nReview Text: I would recomend this to any one who likes to watch how things have progressed since the time of women going to work began.\nReview Title: Like it alot\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/03\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Dearbhla Walsh', 'Adam Smith', 'Diarmuid Lawrence'], 'Producers': ['Lisa Osborne'], 'Starring': ['Matthew Macfadyen', 'Claire Foy', 'Tom Courtenay'], 'Studio': ['BBC']}\nReview Text: This is a very good show. I would recommend it highly. I am planning to read the book also . I encouage all to watch it.\nReview Title: yes I liked it alot.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/03\nAverage Rating: 4.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Bill Bain', 'Cyril Coke', 'Simon Langton', 'Raymond Menmuir'], 'Producers': ['John Hawkesworth'], 'Starring': ['Gemma Jones', 'Christopher Cazenove'], 'Studio': ['BBC America']}\nReview Text: I liked the show but stopped watching when  they started using the Lords name in  vain.<br /><br />to bad  I would have liked to finish watching it.\nReview Title: i t has bad words.\nRating: 3.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kate Harwood'], 'Starring': ['Dame Judi Dench', 'Michael Gambon', 'Francesca Annis']}\nits a very wonderful series. I wish there were more to follow but maybe they will film me something new to love just as much.\nlove it\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryn Higgins'], 'Producers': ['Bryn Higgins'], 'Starring': ['Cherie Lunghi', 'Nicholas Farrell', 'Charity Wakefield'], 'Studio': ['BBC America']}\nI would recomend this to any one who likes to watch how things have progressed since the time of women going to work began.\nLike it alot\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Dearbhla Walsh', 'Adam Smith', 'Diarmuid Lawrence'], 'Producers': ['Lisa Osborne'], 'Starring': ['Matthew Macfadyen', 'Claire Foy', 'Tom Courtenay'], 'Studio': ['BBC']}\nThis is a very good show. I would recommend it highly. I am planning to read the book also . I encouage all to watch it.\nyes I liked it alot.\n{'Subtitles': ['None available'], 'Directors': ['Bill Bain', 'Cyril Coke', 'Simon Langton', 'Raymond Menmuir'], 'Producers': ['John Hawkesworth'], 'Starring': ['Gemma Jones', 'Christopher Cazenove'], 'Studio': ['BBC America']}\nI liked the show but stopped watching when  they started using the Lords name in  vain.<br /><br />to bad  I would have liked to finish watching it.\ni t has bad words.",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2013/12/29\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kate Harwood'], 'Starring': ['Dame Judi Dench', 'Michael Gambon', 'Francesca Annis']}\nReview Text: its a very wonderful series. I wish there were more to follow but maybe they will film me something new to love just as much.\nReview Title: love it\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2013/12/29\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryn Higgins'], 'Producers': ['Bryn Higgins'], 'Starring': ['Cherie Lunghi', 'Nicholas Farrell', 'Charity Wakefield'], 'Studio': ['BBC America']}\nReview Text: I would recomend this to any one who likes to watch how things have progressed since the time of women going to work began.\nReview Title: Like it alot\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/03\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Dearbhla Walsh', 'Adam Smith', 'Diarmuid Lawrence'], 'Producers': ['Lisa Osborne'], 'Starring': ['Matthew Macfadyen', 'Claire Foy', 'Tom Courtenay'], 'Studio': ['BBC']}\nReview Text: This is a very good show. I would recommend it highly. I am planning to read the book also . I encouage all to watch it.\nReview Title: yes I liked it alot.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/03\nAverage Rating: 4.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Bill Bain', 'Cyril Coke', 'Simon Langton', 'Raymond Menmuir'], 'Producers': ['John Hawkesworth'], 'Starring': ['Gemma Jones', 'Christopher Cazenove'], 'Studio': ['BBC America']}\nReview Text: I liked the show but stopped watching when  they started using the Lords name in  vain.<br /><br />to bad  I would have liked to finish watching it.\nReview Title: i t has bad words.\nRating: 3.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThis individual demonstrates a clear preference for high-quality entertainment, significantly favoring products with ratings above 4.4 and expressing enthusiasm in reviews. The consistency in high ratings reflects a positive sentiment towards well-produced series, particularly those with strong narrative arcs and character development. \n\nThe common themes in their preferences lean towards historical or cultural content, often focusing on women's roles and societal changes, showcasing an interest in transformative narratives. This person values storytelling that prompts reflection and engagement, suggesting a preference for intellectually stimulating material.\n\nQuality preferences center around well-executed production values, likely favoring studios known for quality content. However, there is a noticeable sensitivity to content that includes excessive foul language or disrespectful religious references, as indicated by a lower rating for a product with such elements. \n\nPrice sensitivity is not explicitly discernible from the data, but the commitment to purchasing and valuing content above a certain quality threshold implies a willingness to invest in meaningful experiences. \n\nIn synthesis, the core preferences include a strong inclination for high-quality, thought-provoking entertainment that adheres to certain moral standards, with a focus on themes of historical significance and gender.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Sad to see it end",
+    "text": "I didn't have any expectations really going into the movie I enjoyed it and was sad to see it end.",
+    "images": [],
+    "asin": "B01EN8FBG2",
+    "parent_asin": "B01EN8FBG2",
+    "user_id": "AEFUF3WA2464USMYXCQNBW2WCV5A",
+    "timestamp": "2016-08-20 01:48:32",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.4,
+    "rating_number": 21036,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/909e9865f13f07433feb534d7e1fe051b1d832b80f5ea4377684504b35964422._RI_TTW_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "alcohol use",
+        "sexual content"
+      ],
+      "Subtitles": [
+        "None available"
+      ],
+      "Directors": [
+        "Niall MacCormick"
+      ],
+      "Producers": [
+        "Helen Gregory"
+      ],
+      "Studio": [
+        "Amazon Studios"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

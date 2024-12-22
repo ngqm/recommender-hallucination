@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Major Dijit Short Fake Nails Acrylic Nails Coffin Shaped Ballerina Nails Tips (beige)\nReview Date: 2021/04/17\nStore: Major Dijit\nAverage Rating: 1.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 5.9 x 1.1 inches; 1.6 Ounces', 'UPC': '008574130680'}\nReview Text: To thin the color is regular plastic nails\nReview Title: No not for me\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Major Dijit Short Fake Nails Acrylic Nails Coffin Shaped Ballerina Nails Tips (beige)\nMajor Dijit\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 5.9 x 1.1 inches; 1.6 Ounces', 'UPC': '008574130680'}\nTo thin the color is regular plastic nails\nNo not for me",
+  "profile": "**User Profile Summary:**\n\n- **Quality Concerns**: The user exhibits a strong preference for high-quality products. Their low rating indicates disappointment in the product's material and durability.\n\n- **Aesthetic Preferences**: The user seems to favor specific styles (e.g., coffin-shaped nails) but is dissatisfied when the execution of this style does not meet expectations.\n\n- **Material Sensitivity**: There is a clear dissatisfaction with the use of subpar materials, suggesting the user values durability and quality in aesthetic enhancements.\n\n- **Critique Behavior**: The user is candid in their feedback, not hesitating to express dissatisfaction, which indicates they have clear standards and expectations when purchasing beauty products.\n\n- **Negative Experience**: The interaction reflects a tendency to have a critical perspective, especially if the product does not align with their preferences or quality standards.\n\nOverall, the user is discerning, prioritizing quality and style in beauty products, and is willing to provide critical feedback on unsatisfactory items.",
+  "metrics": {
+    "rouge1_f": 0.09137055837563453,
+    "rouge2_f": 0.010256410256410256,
+    "rougeL_f": 0.07106598984771574,
+    "meteor": 0.09358288770053476,
+    "bleu1": 0.060301507537688454,
+    "bleu2": 0.005518632696349375,
+    "bleu3": 0.0024911444886247147,
+    "bleu4": 0.0016758501032135406,
+    "bertscore_precision": 0.3594675660133362,
+    "bertscore_recall": 0.30881139636039734,
+    "bertscore_f1": 0.33221960067749023
+  }
+}

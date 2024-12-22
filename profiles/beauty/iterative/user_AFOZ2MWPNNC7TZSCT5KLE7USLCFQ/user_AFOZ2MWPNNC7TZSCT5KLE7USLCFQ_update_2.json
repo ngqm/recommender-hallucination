@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Admutty Pre Stretched Braiding Hair 28inch 8 Packs Synthetic Crochet Braids,Natural Braid Crochet Hair,Professional Soft Yaki Straight Texture(1B)\nReview Date: 2021/09/29\nStore: Admutty\nAverage Rating: 4.8\nProduct Details: {'Brand': 'Admutty', 'Material': 'Human Hair', 'Extension Length': '28 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Package Dimensions': '10.63 x 8.39 x 3.9 inches; 1.79 Pounds'}\nReview Text: Easy to braid without shedding or tangling\nReview Title: No shedding\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Tub Pillow Bathtub Pillows Headrest with Neck and Back Support, 4D Air Mesh Bath Accessories, 6 Strong Suction Cups, Hot Tub, Jacuzzi Home Spa for Women Men\nApriluna\n{'Brand': 'Apriluna', 'Material': 'Foam, Mesh', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.75 x 7.95 x 5.55 inches; 15.24 Ounces', 'Item model number': 'BP4D', 'Manufacturer': 'Apriluna'}\nIt is relaxing but I thought it could\u2019ve had more cushion to it.\nRelaxing\nAdmutty Pre Stretched Braiding Hair 28inch 8 Packs Synthetic Crochet Braids,Natural Braid Crochet Hair,Professional Soft Yaki Straight Texture(1B)\nAdmutty\n{'Brand': 'Admutty', 'Material': 'Human Hair', 'Extension Length': '28 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Package Dimensions': '10.63 x 8.39 x 3.9 inches; 1.79 Pounds'}\nEasy to braid without shedding or tangling\nNo shedding",
+  "profile": "**User Summary:**\n\nThis user appreciates comfort and relaxation in their personal care routines, as indicated by their previous purchases and feedback on bath accessories that enhance their bathing experience. Their interest in functional and practical features is evident, and they prioritize products that provide support and comfort, seeking higher cushioning for optimal relaxation.\n\nRecently, the user expanded their interests to include hair care products, specifically noting ease of use and quality in their latest purchase. Their positive rating reflects satisfaction with functionality\u2014specifically, the ease of styling without issues like shedding or tangling, which suggests they value practical attributes that enhance everyday use. The user maintains a discerning taste, as seen in their thoughtful evaluation of products. \n\nOverall, they appear to prioritize well-being and enjoyment in personal care, balancing quality and performance with comfort. This inclination towards both aesthetic and functional excellence signifies a comprehensive approach to personal grooming and self-care, highlighting their desire for products that provide convenience while enhancing their overall experience.",
+  "metrics": {
+    "rouge1_f": 0.1503267973856209,
+    "rouge2_f": 0.01973684210526316,
+    "rougeL_f": 0.07189542483660132,
+    "meteor": 0.11049507003672428,
+    "bleu1": 0.11530840807535069,
+    "bleu2": 0.034094369546320155,
+    "bleu3": 0.01806055934921793,
+    "bleu4": 0.00740196702759184,
+    "bertscore_precision": 0.3530592918395996,
+    "bertscore_recall": 0.38417714834213257,
+    "bertscore_f1": 0.36796149611473083
+  }
+}

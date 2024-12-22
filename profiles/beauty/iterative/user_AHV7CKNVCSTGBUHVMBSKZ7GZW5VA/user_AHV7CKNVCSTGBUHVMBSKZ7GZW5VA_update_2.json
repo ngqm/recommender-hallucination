@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vera Bradley Fragrance Coffret 4 Piece Set\nReview Date: 2018/11/30\nStore: Vera Bradley\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: i really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nReview Title: brought it for two scents\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Vera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents\nVera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** Enjoys cotton and vanilla scents, with a particular appreciation for fresh and sweet aromas.\n- **Product Interest:** Values multipack or set options and shows a preference for curated collections that include specific scents she favors.\n- **Shopping Behavior:** Prefers purchasing items that are not easily found online, reinforcing a desire for unique or hard-to-find products.\n- **Reviewing Habits:** Generally a positive reviewer, highlighting quality in her purchases. The user has a high average rating, reflecting satisfaction with products, though slightly less enthusiastic in newer reviews.\n\nRecent interactions indicate the user remains engaged with fragrance sets that resonate with her scent preferences while seeking out difficult-to-find items. Her specific affinity for cotton and vanilla was a key factor in her purchase motivation. Overall, the user demonstrates a consistent inclination towards pleasant, comforting fragrances and appreciates the value of exploring various options within those scent profiles.",
+  "metrics": {
+    "rouge1_f": 0.22522522522522523,
+    "rouge2_f": 0.07272727272727274,
+    "rougeL_f": 0.14414414414414414,
+    "meteor": 0.1450193698237643,
+    "bleu1": 0.09473684210526317,
+    "bleu2": 0.0500626174321759,
+    "bleu3": 0.03419769515372388,
+    "bleu4": 0.02150489001876218,
+    "bertscore_precision": 0.46520885825157166,
+    "bertscore_recall": 0.37169981002807617,
+    "bertscore_f1": 0.41323038935661316
+  }
+}

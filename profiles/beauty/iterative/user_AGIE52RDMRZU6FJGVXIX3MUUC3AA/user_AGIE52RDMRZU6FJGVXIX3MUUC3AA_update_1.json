@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: eos Smooth Lip Balm Sphere, Honeysuckle Honeydew 0.25 oz\nReview Date: 2015/02/24\nStore: eos\nProduct Description: ['For the most up to date information, we recommend you visit the manufacturer website for the best product details, including ingredients, hazards, directions and warnings. This product offering is for 1 Retail Package']\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Eos', 'Item Form': 'Balm', 'Skin Type': 'Sensitive', 'Color': 'Honeysuckle Honeydew', 'Product Benefits': 'Hydrating,Softening,Smoothening,Nourishing,Moisturizing', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.6 x 1.6 x 1.8 inches; 1.6 Ounces', 'Item model number': '1379', 'UPC': '722532139187 892992002298 880961603553 220001195820 892992002403', 'Manufacturer': 'Everready First Aid'}\nReview Text: This is by most one of my favorite flavors because it tastes JUST like the fruit. Very sweet but not fruity. It reminds me of when I used to eat the fruit in the summer time. So refreshing and sweet. It's a touch of summer! I have to try not to lick it away when I apply it on my lips.\nReview Title: This is by most one of my favorite flavors because it tastes JUST like the fruit\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "eos Smooth Lip Balm Sphere, Honeysuckle Honeydew 0.25 oz\neos\n['For the most up to date information, we recommend you visit the manufacturer website for the best product details, including ingredients, hazards, directions and warnings. This product offering is for 1 Retail Package']\n{'Brand': 'Eos', 'Item Form': 'Balm', 'Skin Type': 'Sensitive', 'Color': 'Honeysuckle Honeydew', 'Product Benefits': 'Hydrating,Softening,Smoothening,Nourishing,Moisturizing', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.6 x 1.6 x 1.8 inches; 1.6 Ounces', 'Item model number': '1379', 'UPC': '722532139187 892992002298 880961603553 220001195820 892992002403', 'Manufacturer': 'Everready First Aid'}\nThis is by most one of my favorite flavors because it tastes JUST like the fruit. Very sweet but not fruity. It reminds me of when I used to eat the fruit in the summer time. So refreshing and sweet. It's a touch of summer! I have to try not to lick it away when I apply it on my lips.\nThis is by most one of my favorite flavors because it tastes JUST like the fruit",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys hydrating and nourishing lip care products.\n- **Flavor Sensitivity:** Has a strong preference for sweet, fruity flavors, particularly those that mimic real fruits. \n- **Seasonal Association:** Draws positive emotional connections to summer and fresh produce.\n- **Texture Preference:** Values products that provide smoothness and softening benefits.\n- **Flavor Complexity:** Appreciates intricate flavor profiles that are sweet but not overwhelmingly fruity.\n- **Brand Affinity:** Shows an inclination towards the eos brand for lip care solutions.\n- **Overall Satisfaction:** Generally satisfied with product performance, as indicated by a positive rating.\n\nThe user's preferences suggest a focus on sensory experiences and emotional connections tied to flavors and seasons, emphasizing the importance of product feel and taste in their purchasing decisions.",
+  "metrics": {
+    "rouge1_f": 0.26804123711340205,
+    "rouge2_f": 0.01384083044982699,
+    "rougeL_f": 0.12371134020618557,
+    "meteor": 0.12671292251885305,
+    "bleu1": 0.1800744963449493,
+    "bleu2": 0.04769895973225607,
+    "bleu3": 0.021280357944005797,
+    "bleu4": 0.008004535578896408,
+    "bertscore_precision": 0.4019991457462311,
+    "bertscore_recall": 0.4623299241065979,
+    "bertscore_f1": 0.43005895614624023
+  }
+}

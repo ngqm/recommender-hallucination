@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: VOOADA Electric for Face, Arm, Waist, Belly, Leg, Hip\nReview Date: 2020/08/07\nStore: VOOADA\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '9.69 x 7.87 x 2.05 inches; 1.37 Pounds', 'UPC': '699936288523'}\nReview Text: Love this drill! It works great and it\u2019s super easy to use for beginners.\nReview Title: Beginner friendly, and easy to use.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "VOOADA Electric for Face, Arm, Waist, Belly, Leg, Hip\nVOOADA\n{'Package Dimensions': '9.69 x 7.87 x 2.05 inches; 1.37 Pounds', 'UPC': '699936288523'}\nLove this drill! It works great and it\u2019s super easy to use for beginners.\nBeginner friendly, and easy to use.",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Strong inclination towards easy-to-use, beginner-friendly products, particularly in personal care or beauty categories. \n- **User Experience Focus:** Values simplicity and practicality in product usage, indicating a preference for items suited for novice users.\n- **Rating Trends:** Positive experiences with user-friendly products as reflected in a high rating for performance and ease of use.\n- **Interest Areas:** Likely interested in personal grooming and self-care items that enhance convenience and effectiveness without requiring advanced skills or extensive knowledge.\n- **Consistency**: Continues to engage with products that offer straightforward functionality, indicating a preference for efficiency and minimal complexity in their purchasing decisions. \n\nThis user profile suggests a preference for accessible solutions that deliver reliable results, appealing to those who may be new to certain product categories.",
+  "metrics": {
+    "rouge1_f": 0.13714285714285715,
+    "rouge2_f": 0.034682080924855495,
+    "rougeL_f": 0.07999999999999999,
+    "meteor": 0.12751677852348994,
+    "bleu1": 0.09467455621301774,
+    "bleu2": 0.023738976917244903,
+    "bleu3": 0.006962029220228169,
+    "bleu4": 0.0037759380400748765,
+    "bertscore_precision": 0.422566294670105,
+    "bertscore_recall": 0.4009852409362793,
+    "bertscore_f1": 0.4114930033683777
+  }
+}

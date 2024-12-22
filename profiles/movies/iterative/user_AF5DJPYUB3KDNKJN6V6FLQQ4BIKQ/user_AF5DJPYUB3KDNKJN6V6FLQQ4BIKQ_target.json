@@ -1,0 +1,52 @@
+{
+  "interaction_number": 11,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/09/06\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['BritBox']}\nReview Text: This is one of my favorite shows on Brit Box. Even after Taggert died in real life the show continued. All the Actors are great!<br />I hope there will be more seasons in the future.\nReview Title: Great Show !!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Oliver Hirschbiegel'], 'Producers': ['Robert Bernstein', 'Douglas Rae'], 'Starring': ['Naomi Watts', 'Naveen Andrews', 'Geraldine James'], 'Studio': ['EONE']}\nI loved this sweet love story. It showed the caring side of Diana and she really loved the Doctor is story.\nSweet Love Story\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sergio Leone'], 'Producers': ['Giorgio Papi', 'Arrigo Colombo'], 'Starring': ['Clint Eastwood', 'Marianne Koch', 'John Wels'], 'Studio': ['MGM']}\nI just like almost all of Clint Eastwood movies.My husband always wanted to go to his new movies.In those days there were no  videos.\nClint Eastwood Movies\n{'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Michael Rymer', 'Guillermo Navarro', 'Vincenzo Natali', 'David Slade', 'Tim Hunter', 'John Dahl', 'Peter Medak', 'James Foley', 'David Semel', 'Marc Jobst'], 'Studio': ['Lionsgate']}\nGreat movie.The actors did a wonderful job.\nGreat movie. The actors did a wonderful job\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Luis Valdez'], 'Producers': ['Taylor Hackford', 'Bill Borden'], 'Starring': ['Lou Diamond Phillips', 'Esai Morales', 'Rosana De Soto'], 'Studio': ['COLUMBIA']}\nI loved this movie.So sad he died at 17 and had so much talent . I loved that he was good to his Mother and loved his girlfriend so much!!:) He was from such a humble beginning and even though he died young his family receives money from his songs.This is a sweet movie.<br />  Lou Diamond Phillips did a wonderful job!!\nI loved this movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Antoine Fuqua'], 'Producers': ['Todd Black', 'Jason Blumenthal', 'Denzel Washington', 'Alex Siskin', 'Steve Tisch', 'Mace Neufeld', 'Tony Eldridge', 'Michael Sloan'], 'Starring': ['Denzel Washington', 'Marton Csokas', 'Chlo\u00eb Grace Moretz']}\nI really like Denzel Washington movies. He was wonderful in this movie. They need to do a follow up movie.\nI really like Denzel Washington movies\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Ford'], 'Producers': ['Tom Ford', 'Robert Salerno'], 'Starring': ['Armie Hammer', 'Michael Sheen', 'Amy Adams'], 'Studio': ['Focus Features']}\nThis was an awful movie! The beginning made no sense to me.\nOne Star\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Hodgman', 'Lynne Maree Danzey', 'Mark Joffe', 'Lynn Hegarty', 'Ian Barry'], 'Producers': ['Chris Martin Jones'], 'Starring': ['Marta Dusseldorp', 'Brett Climo', 'Noni Hazlehurst'], 'Studio': ['Acorn Media']}\nI loved this story but didn\u2019t realize it was based on a true story? I saw the book on TV as story ends but can\u2019t find it. Do you know where I can purchase the book?\nGreat Movie!\n{'Content advisory': ['Violence', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Jim Sheridan'], 'Producers': ['Daniel Bobker', 'James G. Robinson', 'David Robinson', 'Ehren Kruger'], 'Starring': ['Daniel Craig', 'Naomi Watts', 'Rachel Weisz'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nI didn\u2019t expect the ending which made the story .\nSurprise ending!!\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Producers': ['Casanova Media'], 'Starring': ['Alessio Boni', 'Sergio Rubini', 'Thomas Trabacchi'], 'Studio': ['Acorn TV']}\nI loved this show and I hope you will make a Season 2. All the Actors are wonderful and I can see this continue as the children marry.<br />  I read the captions since I speak only English but as you read it\u2019s like you understand them. It\u2019s one of the best shows I\u2019ve seen on Acorn since A Place to Call Home.\nWonderful Show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sergio Mimica-Gezzan'], 'Producers': ['John Ryan', 'Howard Ellis', 'Adam Goodman'], 'Starring': ['Ian McShane', 'Rufus Sewell', 'Matthew MacFadyen']}\nExcellent movie!!\nGreat Movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['BritBox']}\nThis is one of my favorite shows on Brit Box. Even after Taggert died in real life the show continued. All the Actors are great!<br />I hope there will be more seasons in the future.\nGreat Show !!",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Great Show !!",
+    "text": "This is one of my favorite shows on Brit Box. Even after Taggert died in real life the show continued. All the Actors are great!<br />I hope there will be more seasons in the future.",
+    "images": [],
+    "asin": "B08CVT72WF",
+    "parent_asin": "B08CVT72WF",
+    "user_id": "AF5DJPYUB3KDNKJN6V6FLQQ4BIKQ",
+    "timestamp": "2021-09-06 19:07:12.234000",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c619f58b9bba67578f2db681f2188f8f51d6690cdbe5bb442424fa191b4ff2f0._RI_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Studio": [
+        "BritBox"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

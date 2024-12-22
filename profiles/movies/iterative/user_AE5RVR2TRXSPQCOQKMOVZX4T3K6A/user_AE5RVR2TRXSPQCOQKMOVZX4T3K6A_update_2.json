@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/15\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Steve Starkey', 'Robert Zemeckis', 'Gary Goetzman', 'William Teitler'], 'Starring': ['Tom Hanks', 'Michael Jeter', 'Nona Gaye']}\nReview Text: Great movie\nReview Title: Entertaining\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Byron Howard', 'Rich Moore'], 'Producers': ['Clark Spencer'], 'Starring': ['Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba']}\nEntertaining\nCute movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Steve Starkey', 'Robert Zemeckis', 'Gary Goetzman', 'William Teitler'], 'Starring': ['Tom Hanks', 'Michael Jeter', 'Nona Gaye']}\nGreat movie\nEntertaining",
+  "profile": "**User Profile Summary:**\n\n- **General Attitude:** Enthusiastic and positive approach to entertainment; appreciates quality and engaging content.\n- **Content Preferences:** Enjoys animated and family-oriented films, with a particular fondness for light-hearted narratives and stories featuring animal characters.\n- **Language and Accessibility:** Values options for audio descriptions and closed captions, reinforcing a commitment to inclusivity in viewing experiences.\n- **Rating Behavior:** Tends to rate products highly, often awarding scores of 4.8 and above, indicating consistent satisfaction and enjoyment. Recently rated a film with a perfect score of 5.0, highlighting their strong appreciation for well-produced content.\n- **Themes:** Shows a preference for films with endearing themes and characters, as evidenced by their interactions with various animated features.\n- **Audience Focus:** Likely enjoys content suitable for all ages, emphasizing family-friendly entertainment. Their recent review reflects a consistent engagement with entertaining films that align with this preference.\n\nOverall, the user appears to favor well-crafted animated films with accessibility features, maintaining a favorable outlook on their viewing experiences, particularly when the content is both engaging and inclusive.",
+  "metrics": {
+    "rouge1_f": 0.051948051948051945,
+    "rouge2_f": 0.008733624454148471,
+    "rougeL_f": 0.051948051948051945,
+    "meteor": 0.07974888543726377,
+    "bleu1": 0.07488986784140968,
+    "bleu2": 0.0057564841408919536,
+    "bleu3": 0.0024511922169327205,
+    "bleu4": 0.0016012938001003856,
+    "bertscore_precision": 0.3820738196372986,
+    "bertscore_recall": 0.3324373662471771,
+    "bertscore_f1": 0.3555315136909485
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/14\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Laure de Clermont-Tonnerre'], 'Producers': ['Ilan Goldman'], 'Starring': ['Matthias Schoenaerts', 'Jason Mitchell', 'Gideon Adlon'], 'Studio': ['Universal Pictures']}\nReview Text: Amazing movie\nReview Title: Awesome!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Laure de Clermont-Tonnerre'], 'Producers': ['Ilan Goldman'], 'Starring': ['Matthias Schoenaerts', 'Jason Mitchell', 'Gideon Adlon'], 'Studio': ['Universal Pictures']}\nAmazing movie\nAwesome!",
+  "profile": "**User Profile Summary:**\n\n- **Rating Trend**: Generally positive reviewer, consistently giving high ratings (average 4.5).\n- **Content Preferences**: Enjoys movies that involve complex themes or narratives, indicated by interest in content with mature themes, including nudity, violence, and strong language.\n- **Engagement with Cinema**: Values cinematic quality and engaging storytelling, as evidenced by an enthusiastic review titled \"Awesome!\" highlighting a standout experience.\n- **Language Preferences**: Prefers content available in English, both in original and audio description formats, indicating accessibility consideration.\n- **Genres**: Likely enjoys dramatic or action-oriented films, as suggested by the nature of the content advisory and strong character-driven stories.\n- **Director and Producer Appreciation**: May follow specific directors and producers, valuing their contributions to cinema as reflected in the movie review. \n\nThis summary encapsulates the user's genuine inclinations and patterns based on their first interaction, emphasizing a preference for quality storytelling within mature-themed films.",
+  "metrics": {
+    "rouge1_f": 0.143646408839779,
+    "rouge2_f": 0.0335195530726257,
+    "rougeL_f": 0.12154696132596686,
+    "meteor": 0.15139297436654586,
+    "bleu1": 0.11219512195121953,
+    "bleu2": 0.023451568987941394,
+    "bleu3": 0.006470670072896649,
+    "bleu4": 0.0034030952124813043,
+    "bertscore_precision": 0.4023600220680237,
+    "bertscore_recall": 0.3415331244468689,
+    "bertscore_f1": 0.36945968866348267
+  }
+}

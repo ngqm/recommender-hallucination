@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Body Scrubs for Women Premium Organic Nimiah Exfoliating Body Scrub with Activated Bamboo Charcoal Natural Salt Exfoliator Scrubs for Body Foot Hand Skin Care\nReview Date: 2019/12/20\nStore: Nimiah\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Nimiah', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Certified Organic', 'Use for': 'Hands, Whole Body', 'Package Dimensions': '2.7 x 2.7 x 2.1 inches; 5.61 Ounces', 'UPC': '192242919810'}\nReview Text: Pros:<br /><br />*The scrub is really good at exfoliating skin;<br />*After a week of daily use of this scrub, my skin is noticeably softer and brighter;<br />*It is kind of fun to use because it feels/looks like you are rubbing dirt all over your body;<br />*The jar is small but a little goes a long way.<br /><br />Cons:<br />*The charcoal scrub is a bit messy if you are not careful.  I have to quickly rinse my shower after each use because the stuff has flicked everywhere.\nReview Title: Great scrub\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Body Scrubs for Women Premium Organic Nimiah Exfoliating Body Scrub with Activated Bamboo Charcoal Natural Salt Exfoliator Scrubs for Body Foot Hand Skin Care\nNimiah\n{'Brand': 'Nimiah', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Certified Organic', 'Use for': 'Hands, Whole Body', 'Package Dimensions': '2.7 x 2.7 x 2.1 inches; 5.61 Ounces', 'UPC': '192242919810'}\nPros:<br /><br />*The scrub is really good at exfoliating skin;<br />*After a week of daily use of this scrub, my skin is noticeably softer and brighter;<br />*It is kind of fun to use because it feels/looks like you are rubbing dirt all over your body;<br />*The jar is small but a little goes a long way.<br /><br />Cons:<br />*The charcoal scrub is a bit messy if you are not careful.  I have to quickly rinse my shower after each use because the stuff has flicked everywhere.\nGreat scrub",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Focus:** The user is primarily concerned with body care, specifically seeking effective exfoliation for various skin areas (hands, body, feet).\n- **Skin Type:** Prefers products suitable for acne-prone skin, indicating a need for gentle yet effective solutions that complement their skincare routine.\n- **Product Preferences:** Values organic materials and certified ingredients, emphasizing a preference for natural formulations in skincare.\n- **Effectiveness:** Looks for products that deliver noticeable results (softer, brighter skin), enjoys the sensory experience of using scrubs.\n- **Practicality:** Prefers items that require minimal product for maximum effect, indicating a value for longevity and efficiency in skincare purchases.\n- **Usability Experience:** Freely discusses both pros and cons, showing a balanced perspective on product functionality and user experience. Requires products that are enjoyable to use but acknowledges potential messiness, suggesting a desire for effective yet user-friendly options. \n\nOverall, the user prioritizes natural, effective skincare that caters to specific needs, enjoys a tactile experience in product usage, and values practicality in their choices.",
+  "metrics": {
+    "rouge1_f": 0.28391167192429023,
+    "rouge2_f": 0.01904761904761905,
+    "rougeL_f": 0.15141955835962145,
+    "meteor": 0.1461187214611872,
+    "bleu1": 0.20614035087719298,
+    "bleu2": 0.042617068706957154,
+    "bleu3": 0.0092972156250109,
+    "bleu4": 0.004347294363018972,
+    "bertscore_precision": 0.435654878616333,
+    "bertscore_recall": 0.4505089223384857,
+    "bertscore_f1": 0.44295740127563477
+  }
+}

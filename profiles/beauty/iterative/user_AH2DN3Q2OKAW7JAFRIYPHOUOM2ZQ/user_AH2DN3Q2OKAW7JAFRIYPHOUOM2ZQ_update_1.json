@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Boiess Colognes Poppy mint For Moms, Babies & Kids | Natural Eau de Cologne | Clean & Fresh Scent | Children Fragrance For Soft & Sensitive Skin | Easy Use, Gentle on Baby | Size: 8.5 FL Oz\nReview Date: 2022/02/21\nStore: Boiess\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Boiess', 'Item Form': 'Liquid', 'Item Volume': '8 Fluid Ounces', 'Scent': 'Poppymint', 'Special Feature': 'Dermatoligist tested, Pediatrician tested, Clean, Natural, Cruelty Free, Plant based, Hypoallegenic', 'Package Dimensions': '6.38 x 2.17 x 2.17 inches; 8.5 Ounces', 'UPC': '860007057533', 'Country of Origin': 'Spain'}\nReview Text: This is labeled as babys cologne but omg it smells good enough for ALL to wear!!!  Its clean yet lightly floral!\nReview Title: Smells Soooo Good!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Boiess Colognes Poppy mint For Moms, Babies & Kids | Natural Eau de Cologne | Clean & Fresh Scent | Children Fragrance For Soft & Sensitive Skin | Easy Use, Gentle on Baby | Size: 8.5 FL Oz\nBoiess\n{'Brand': 'Boiess', 'Item Form': 'Liquid', 'Item Volume': '8 Fluid Ounces', 'Scent': 'Poppymint', 'Special Feature': 'Dermatoligist tested, Pediatrician tested, Clean, Natural, Cruelty Free, Plant based, Hypoallegenic', 'Package Dimensions': '6.38 x 2.17 x 2.17 inches; 8.5 Ounces', 'UPC': '860007057533', 'Country of Origin': 'Spain'}\nThis is labeled as babys cologne but omg it smells good enough for ALL to wear!!!  Its clean yet lightly floral!\nSmells Soooo Good!!",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preference:** Enjoys clean, fresh scents with floral notes, indicating a preference for light and pleasant aromas suitable for all ages.\n- **Product Sensitivity:** Values products that are gentle enough for children, suggesting a focus on safety and suitability for sensitive skin.\n- **Natural Ingredients:** Shows a preference for natural, cruelty-free, and hypoallergenic products, highlighting an interest in environmentally friendly and ethical choices.\n- **Versatility:** Appreciates products labeled for specific demographics (like children) but finds them appealing for broader use, indicating flexibility in consumer habits.\n- **Quality Consideration:** The user rates products based on experience, showcasing a discerning approach to quality and effectiveness.\n- **Positive Engagement:** Engages positively with products that exceed initial expectations, reflecting an openness to new experiences that deliver satisfaction. \n\nOverall, this user demonstrates a thoughtful approach to product selection, prioritizing health, quality, and versatility.",
+  "metrics": {
+    "rouge1_f": 0.21008403361344535,
+    "rouge2_f": 0.059322033898305086,
+    "rougeL_f": 0.11764705882352942,
+    "meteor": 0.16545891593248332,
+    "bleu1": 0.15577889447236185,
+    "bleu2": 0.028049279728626843,
+    "bleu3": 0.007364202694847269,
+    "bleu4": 0.003778159448868435,
+    "bertscore_precision": 0.40577250719070435,
+    "bertscore_recall": 0.40956616401672363,
+    "bertscore_f1": 0.40766048431396484
+  }
+}

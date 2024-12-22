@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ollieroo Makeup Train Case Rose-Pink Lockable PU Artist Makeup Cosmetic Train Case with 4 Removable Rolling Wheels and 4 Keys\nReview Date: 2017/09/08\nStore: Ollieroo\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '23 x 16.75 x 12.25 inches; 16.95 Pounds', 'Item model number': 'HB01830'}\nReview Text: I wish it had a Real lock on it. It came with 2 sets of keys but it does not lock.<br />Other then that box is cute and workable\nReview Title: I wish it had a Real lock on it. ...\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "G2PLUS Eyelash Extension Adhesive Glue Pallet Sticker Pads,1-Inches Diameter (Small-100 Pads, 5 Sheets)\nG2PLUS\n{'Package Dimensions': '9 x 6 x 0.01 inches; 2.4 Ounces'}\nSticker was good but glue seems to dry out fast.\nThree Stars\nBESTIM INC(TM) Disposable 100PCS Glue Ring Pallet Holder for Tattoo Pigmen Eyelash Extension\nBESTIM INC\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.67 x 4.09 x 1.42 inches; 0.64 Ounces', 'UPC': '701828569334'}\nPrice is great.. Order came fast<br />I love using these glue rings.. Makes me lash faster\nFive Stars\nOllieroo Makeup Train Case Rose-Pink Lockable PU Artist Makeup Cosmetic Train Case with 4 Removable Rolling Wheels and 4 Keys\nOllieroo\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '23 x 16.75 x 12.25 inches; 16.95 Pounds', 'Item model number': 'HB01830'}\nI wish it had a Real lock on it. It came with 2 sets of keys but it does not lock.<br />Other then that box is cute and workable\nI wish it had a Real lock on it. ...",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest**: Focus on beauty and cosmetics accessories, particularly items related to eyelash extensions, along with a growing interest in makeup organization solutions.\n- **Quality Conscious**: Values functionality and longevity in products. Recent experiences with certain accessories have positively influenced their perception of quality, even extending to makeup storage solutions.\n- **Satisfaction Improvement**: While the user typically rates products around average, a recent purchase received a high rating, suggesting a willingness to endorse products that effectively meet their performance and practicality needs.\n- **Preference for Value**: Continues to seek a balance between cost and quality, emphasizing practical applications that enhance their beauty routine. They have shown appreciation for items that combine aesthetics with usability.\n- **Review Style**: Provides straightforward feedback, focusing on specific product performance aspects. The recent review indicates an analytical approach with an emphasis on functionality, highlighting both pros and cons, but remains generally positive.\n- **Purchasing Behavior**: Engages with the brand through repeat shopping for related items, showcasing loyalty. Recent purchases indicate an active pursuit of products that improve efficiency in their beauty routine, including organizational tools.\n\nOverall, this user values effective beauty tools and is evolving toward a broader appreciation for products that offer reliability and enhance their beauty application process.",
+  "metrics": {
+    "rouge1_f": 0.10443864229765014,
+    "rouge2_f": 0.005249343832020997,
+    "rougeL_f": 0.06788511749347259,
+    "meteor": 0.09774682721915955,
+    "bleu1": 0.10861423220973783,
+    "bleu2": 0.006390024892280279,
+    "bleu3": 0.0024883974177060805,
+    "bleu4": 0.001554314236128752,
+    "bertscore_precision": 0.3638193607330322,
+    "bertscore_recall": 0.37627121806144714,
+    "bertscore_f1": 0.36994051933288574
+  }
+}

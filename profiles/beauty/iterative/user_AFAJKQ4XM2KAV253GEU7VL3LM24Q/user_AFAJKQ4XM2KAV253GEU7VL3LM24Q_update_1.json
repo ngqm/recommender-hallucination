@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BUTEFO 4 Pack Shower and Bath Set with Natural Boar Bristles Bath Brush, Pumice Stone Brush for Foot Callus, Dry Brush SPA Massage for Cellulite and Lymphatic, Natural Loofah Sponge for Women Kids\nReview Date: 2021/04/26\nStore: BUTEFO\nAverage Rating: 4.0\nProduct Details: {'Material': 'Sponge', 'Brand': 'BUTEFO', 'Power Source': 'Hand_powered', 'Product Benefits': 'Softening,Massage,Massaging,Tightening,Exfoliating', 'Skin Type': 'Dry', 'Package Dimensions': '14.29 x 4.09 x 3.43 inches; 13.44 Ounces', 'Manufacturer': 'BUTEFO'}\nReview Text: I was really excited to have this back brush. But when I went to put it together it didn\u2019t go... no matter how hard I tried! That was upsetting. I had to get my dremel out to sand it down so it fit better and it\u2019s still not all the way on. With that said, the brush is super nice and scratchy on the back. And the foot brush/pumice stone is really nice too! I hope your brush combo has less flaws.\nReview Title: Didn\u2019t fit\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "BUTEFO 4 Pack Shower and Bath Set with Natural Boar Bristles Bath Brush, Pumice Stone Brush for Foot Callus, Dry Brush SPA Massage for Cellulite and Lymphatic, Natural Loofah Sponge for Women Kids\nBUTEFO\n{'Material': 'Sponge', 'Brand': 'BUTEFO', 'Power Source': 'Hand_powered', 'Product Benefits': 'Softening,Massage,Massaging,Tightening,Exfoliating', 'Skin Type': 'Dry', 'Package Dimensions': '14.29 x 4.09 x 3.43 inches; 13.44 Ounces', 'Manufacturer': 'BUTEFO'}\nI was really excited to have this back brush. But when I went to put it together it didn\u2019t go... no matter how hard I tried! That was upsetting. I had to get my dremel out to sand it down so it fit better and it\u2019s still not all the way on. With that said, the brush is super nice and scratchy on the back. And the foot brush/pumice stone is really nice too! I hope your brush combo has less flaws.\nDidn\u2019t fit",
+  "profile": "**User Summary:**\n\n- **Product Interaction**: Engaged with personal care products, focusing on bath and shower accessories.\n- **Quality Expectations**: Values product functionality and ease of use but is critical of assembly issues. Frustration noted with fitting problems, indicating a preference for well-designed, user-friendly products.\n- **Material Preference**: Shows interest in natural materials, suggesting a preference for eco-friendly or sustainable items.\n- **Product Benefits**: Looks for products that offer exfoliating, softening, and massaging benefits. Likely appreciates self-care and wellness routines, particularly in addressing skin conditions like dryness.\n- **User Experience**: Emphasizes the importance of product performance, as evidenced by hands-on modifications made to improve fit. This indicates a practical approach to product use.\n- **Target Audience**: Interested in products suitable for a broad range of users, including children, reflecting a family-oriented mindset.\n- **Overall Sentiment**: Mixed feelings; appreciates product quality when it functions correctly but expresses dissatisfaction with assembly and compatibility issues. \n\nThis profile suggests a user who prioritizes effective, well-crafted personal care solutions while remaining vocal about areas for improvement in product design.",
+  "metrics": {
+    "rouge1_f": 0.2066869300911854,
+    "rouge2_f": 0.006116207951070337,
+    "rougeL_f": 0.1033434650455927,
+    "meteor": 0.14060187469166255,
+    "bleu1": 0.17796610169491522,
+    "bleu2": 0.008702313258001542,
+    "bleu3": 0.0031867734425325657,
+    "bleu4": 0.0019305204731807474,
+    "bertscore_precision": 0.41091835498809814,
+    "bertscore_recall": 0.4132770001888275,
+    "bertscore_f1": 0.4120942950248718
+  }
+}

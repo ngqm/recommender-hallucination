@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nReview Date: 2020/08/24\nStore: Bj\u00f6rn Hall\nAverage Rating: 4.1\nProduct Details: {'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nReview Text: Love that the bjorn hall band came in black. It\u2019s versatile to match my work uniforms . Made of very high quality material. The only thing I wasn\u2019t crazy about was my buttons not seeming symmetrical. Other than that this head band will last a very long time.5 stars for me.\nReview Title: Bjorn hall headband\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nBj\u00f6rn Hall\n{'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nLove that the bjorn hall band came in black. It\u2019s versatile to match my work uniforms . Made of very high quality material. The only thing I wasn\u2019t crazy about was my buttons not seeming symmetrical. Other than that this head band will last a very long time.5 stars for me.\nBjorn hall headband",
+  "profile": "**User Profile Summary:**\n\n- **Profession**: Likely in the medical field (indicated by the use of a nurse headband).\n- **Color Preference**: Prefers versatile colors, specifically black, that can match work uniforms.\n- **Material Quality**: Values high-quality materials, particularly those that are smooth and stretchy, and are durable.\n- **Functionality**: Appreciates practical features like buttons on headbands for functionality (ear savers), indicating a need for comfort during extended wear.\n- **Attention to Detail**: Notices design elements such as symmetry, suggesting a preference for well-finished and aesthetically pleasing products.\n- **Overall Satisfaction**: Positive reviewer, generally satisfied with products, leading to high ratings based on quality and usability.\n\nThis user exhibits a clear preference for practical, high-quality items that blend functionality with style, particularly in a professional environment.",
+  "metrics": {
+    "rouge1_f": 0.2895927601809955,
+    "rouge2_f": 0.04566210045662101,
+    "rougeL_f": 0.12669683257918551,
+    "meteor": 0.19916035418062608,
+    "bleu1": 0.16574585635359115,
+    "bleu2": 0.04291410754228746,
+    "bleu3": 0.021749488435631546,
+    "bleu4": 0.008719303289335881,
+    "bertscore_precision": 0.4575473368167877,
+    "bertscore_recall": 0.4401577115058899,
+    "bertscore_f1": 0.44868409633636475
+  }
+}

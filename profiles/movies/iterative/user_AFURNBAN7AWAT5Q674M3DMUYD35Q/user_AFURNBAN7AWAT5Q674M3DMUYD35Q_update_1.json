@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/18\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam McKay'], 'Producers': ['Judd Apatow', 'Will Ferrell', 'Adam McKay'], 'Starring': ['Will Ferrell', 'Christina Applegate', 'Paul Rudd'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: Not exactly Citizen Kane\nReview Title: Sometimes dumb movies fit the bill\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam McKay'], 'Producers': ['Judd Apatow', 'Will Ferrell', 'Adam McKay'], 'Starring': ['Will Ferrell', 'Christina Applegate', 'Paul Rudd'], 'Studio': ['Paramount Pictures Corp.']}\nNot exactly Citizen Kane\nSometimes dumb movies fit the bill",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Content**: Enjoys light-hearted, comedic films often with elements of satire or absurdity.\n- **Content Advisory Tolerance**: Open to movies featuring violence, alcohol use, smoking, foul language, and sexual content, indicating a comfort level with mature themes.\n- **Audio/Visual Preferences**: Favors English language features, with an interest in dialogue clarity enhancements.\n- **Director and Producer Preferences**: Shows a tendency to appreciate works by established comedy directors and producers known for mainstream humor.\n- **Rating Trends**: Generally gives higher ratings to comedic films but can express disappointment if expectations aren\u2019t met, as evidenced by the stark contrast between the average review rating and a particular low rating given that critiques the depth of a film.\n- **Humor Style**: Lean towards simple, entertaining narratives that may lack serious themes, suggesting an appreciation for escapism in film.\n\nOverall, the user seeks entertainment that balances humor with accessible storytelling, favoring familiarity and comedic relief over dramatic complexity.",
+  "metrics": {
+    "rouge1_f": 0.17224880382775118,
+    "rouge2_f": 0.06763285024154589,
+    "rougeL_f": 0.15311004784688995,
+    "meteor": 0.11060259344012204,
+    "bleu1": 0.1126760563380282,
+    "bleu2": 0.0072903417737658315,
+    "bleu3": 0.002931373161803089,
+    "bleu4": 0.0018610091431521816,
+    "bertscore_precision": 0.4230664074420929,
+    "bertscore_recall": 0.36424320936203003,
+    "bertscore_f1": 0.39145731925964355
+  }
+}

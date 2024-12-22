@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: N3 No Name Necessary Mattifying Shine and Oil Control Long Lasting Anti-aging Makeup Setting Spray (200ml)\nReview Date: 2019/09/14\nStore: No Name Necessary\nAverage Rating: 4.1\nProduct Details: {'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 0.81 Ounces'}\nReview Text: This spray feels slightly like hairspray when you spritz it on. It helps makeup last all day and stay matte. I personally like a dewy finish so I spray this first for longevity, then when it dries I\u2019ll spray a little dewy spray. Love the combo! Comes in a huge bottle that will last forever.\nReview Title: Good spray for oily skin\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "N3 No Name Necessary Mattifying Shine and Oil Control Long Lasting Anti-aging Makeup Setting Spray (200ml)\nNo Name Necessary\n{'Product Dimensions': '1.7 x 1.7 x 7.5 inches; 0.81 Ounces'}\nThis spray feels slightly like hairspray when you spritz it on. It helps makeup last all day and stay matte. I personally like a dewy finish so I spray this first for longevity, then when it dries I\u2019ll spray a little dewy spray. Love the combo! Comes in a huge bottle that will last forever.\nGood spray for oily skin",
+  "profile": "**User Summary:**\n\n- **Makeup Preferences**: Prioritizes long-lasting makeup solutions with a focus on controlling shine and oil. \n- **Skin Type**: Likely has oily skin, as indicated by the need for products that offer mattifying effects. \n- **Finish Preference**: Enjoys a dewy finish in makeup looks, suggesting a flexible approach to layering products for desired effects. \n- **Product Packaging**: Values larger product sizes for longevity and cost-effectiveness. \n- **Review Behavior**: Provides constructive and balanced reviews, reflecting a pragmatic approach to product evaluations. \n- **Usage Technique**: Employs a combination of products, indicating a willingness to experiment with different textures and finishes for optimal results.",
+  "metrics": {
+    "rouge1_f": 0.2694300518134715,
+    "rouge2_f": 0.07329842931937172,
+    "rougeL_f": 0.14507772020725387,
+    "meteor": 0.18008164958562364,
+    "bleu1": 0.16326530612244897,
+    "bleu2": 0.06688065554064604,
+    "bleu3": 0.031362524488152514,
+    "bleu4": 0.01209811301151414,
+    "bertscore_precision": 0.45431143045425415,
+    "bertscore_recall": 0.45157352089881897,
+    "bertscore_f1": 0.4529383182525635
+  }
+}

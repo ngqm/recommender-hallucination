@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/03/15\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Oliver Hirschbiegel'], 'Producers': ['Robert Bernstein', 'Douglas Rae'], 'Starring': ['Naomi Watts', 'Naveen Andrews', 'Geraldine James'], 'Studio': ['EONE']}\nReview Text: I loved this sweet love story. It showed the caring side of Diana and she really loved the Doctor is story.\nReview Title: Sweet Love Story\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Oliver Hirschbiegel'], 'Producers': ['Robert Bernstein', 'Douglas Rae'], 'Starring': ['Naomi Watts', 'Naveen Andrews', 'Geraldine James'], 'Studio': ['EONE']}\nI loved this sweet love story. It showed the caring side of Diana and she really loved the Doctor is story.\nSweet Love Story",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys romantic narratives, particularly those that explore emotional depth and character connections.\n- **Themes:** Appreciates stories highlighting genuine love, care, and personal relationships, indicating a preference for character-driven plots.\n- **Content Type:** Prefers films with strong emotional storytelling and character development over action-oriented or superficial themes.\n- **Language:** Engages with content in English, both in audio and subtitles, suggesting comfort and preference for English-language media.\n- **Rating Behavior:** Tends to rate content positively, as indicated by a 5.0 rating for a love story, showing an affinity for quality storytelling.\n- **Director and Actor Recognition:** Values works by known directors and established actors, signaling a preference for quality production and performances.",
+  "metrics": {
+    "rouge1_f": 0.16149068322981366,
+    "rouge2_f": 0.012578616352201257,
+    "rougeL_f": 0.09937888198757763,
+    "meteor": 0.1476791533152242,
+    "bleu1": 0.11445783132530118,
+    "bleu2": 0.026337878164612027,
+    "bleu3": 0.007506530269839162,
+    "bleu4": 0.004013585592674037,
+    "bertscore_precision": 0.4145764708518982,
+    "bertscore_recall": 0.3898274898529053,
+    "bertscore_f1": 0.4018212556838989
+  }
+}

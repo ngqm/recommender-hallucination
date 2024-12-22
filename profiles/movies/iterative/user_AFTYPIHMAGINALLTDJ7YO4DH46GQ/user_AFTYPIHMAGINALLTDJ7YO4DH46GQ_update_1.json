@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/10/13\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Graham Theakston', 'Malcolm Mowbray', 'Herbert Wise', 'Rick Stroud', 'Ken Grieve', 'Mary McMurray'], 'Producers': ['ITV'], 'Starring': ['Derek Jacobi']}\nReview Text: I loved this series.  I wish there were more.  The storylines are very interesting and watching it, it makes you feel like you were actually there living in the tim.  Derek Jacobi makes an excellent Cadfael.  After reading the whole series it was grand to see it put to life.  I would recommend this to anyone who has an interest in this time frame of life.\nReview Title: Puts you into the picture\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Graham Theakston', 'Malcolm Mowbray', 'Herbert Wise', 'Rick Stroud', 'Ken Grieve', 'Mary McMurray'], 'Producers': ['ITV'], 'Starring': ['Derek Jacobi']}\nI loved this series.  I wish there were more.  The storylines are very interesting and watching it, it makes you feel like you were actually there living in the tim.  Derek Jacobi makes an excellent Cadfael.  After reading the whole series it was grand to see it put to life.  I would recommend this to anyone who has an interest in this time frame of life.\nPuts you into the picture",
+  "profile": "**User Profile Summary:**\n\n- **Interest in Historical Narratives**: The user has a strong preference for content that immerses them in historical settings. They appreciate storylines that evoke a sense of being part of the time period.\n\n- **Character Appreciation**: They show a clear affinity for well-developed characters, indicating that performances, particularly by skilled actors, enhance their viewing experience.\n\n- **Quality Over Quantity**: The user values well-crafted series and expresses a desire for more content when they enjoy a series, suggesting they prefer depth and richness in storytelling.\n\n- **Moderate Content Sensitivity**: They are aware of content advisories like violence and strong language, which implies a level of discernment regarding the themes they engage with.\n\n- **Recommendation Inclination**: The user is likely to recommend content they enjoy to others, highlighting a communal aspect to their viewing habits.\n\nOverall, this user appreciates high-quality, character-driven historical narratives that provide an immersive experience, demonstrating a thoughtful and engaged approach to their entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.21621621621621623,
+    "rouge2_f": 0.015564202334630352,
+    "rougeL_f": 0.08494208494208494,
+    "meteor": 0.171875,
+    "bleu1": 0.2097560975609756,
+    "bleu2": 0.010140099430057802,
+    "bleu3": 0.003699952338975191,
+    "bleu4": 0.002237738093041528,
+    "bertscore_precision": 0.4027266502380371,
+    "bertscore_recall": 0.4137217402458191,
+    "bertscore_f1": 0.40815016627311707
+  }
+}

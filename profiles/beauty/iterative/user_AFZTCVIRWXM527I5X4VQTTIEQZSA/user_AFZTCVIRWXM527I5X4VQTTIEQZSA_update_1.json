@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: African Pride Shea Miracle Co-Wash Conditioning Cleanser\nReview Date: 2019/01/24\nStore: African Pride\nAverage Rating: 4.1\nProduct Details: {'Item Form': 'Liquid', 'Brand': 'African Pride', 'Special Ingredients': 'Shea', 'Number of Items': '1', 'Unit Count': '12.00 Fl Oz', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 3 x 3 inches; 13.6 Ounces', 'UPC': '802535489127'}\nReview Text: Works good\nReview Title: Great\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "African Pride Shea Miracle Co-Wash Conditioning Cleanser\nAfrican Pride\n{'Item Form': 'Liquid', 'Brand': 'African Pride', 'Special Ingredients': 'Shea', 'Number of Items': '1', 'Unit Count': '12.00 Fl Oz', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 3 x 3 inches; 13.6 Ounces', 'UPC': '802535489127'}\nWorks good\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Category Preference:** Hair care\n- **Product Type:** Conditioning cleansers\n- **Brand Affinity:** Preference for brands focused on natural ingredients, specifically shea-based products.\n- **Review Tone:** Positive, indicating satisfaction with the product's performance.\n- **Rating Tendencies:** Generally favorable ratings, favoring products that deliver effective results.\n- **Interaction Frequency:** Engaged with products that balance function and ingredient quality.\n- **Trend Awareness:** Values products that emphasize natural and beneficial ingredients.\n- **Simplicity in Use:** Prefers products that are straightforward and effective without excessive complexity.\n\nThis initial summary suggests the user leans towards effective, natural hair care products, particularly those formulated with shea, reflecting a pattern of prioritizing quality and positive outcomes in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.10062893081761007,
+    "rouge2_f": 0.012738853503184712,
+    "rougeL_f": 0.07547169811320754,
+    "meteor": 0.13499295591389165,
+    "bleu1": 0.09195402298850573,
+    "bleu2": 0.007290583957696596,
+    "bleu3": 0.003138089998858424,
+    "bleu4": 0.0020618165364431093,
+    "bertscore_precision": 0.43131428956985474,
+    "bertscore_recall": 0.3904390037059784,
+    "bertscore_f1": 0.4098600745201111
+  }
+}

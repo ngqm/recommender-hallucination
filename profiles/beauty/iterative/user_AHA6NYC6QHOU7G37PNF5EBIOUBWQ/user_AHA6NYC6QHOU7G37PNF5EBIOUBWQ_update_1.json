@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BYS Kabuki Brush\nReview Date: 2018/03/03\nStore: BYS\nAverage Rating: 3.4\nProduct Details: {'Brand': 'BYS', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Item Dimensions LxWxH': '0.04 x 0.02 x 0.02 inches', 'Item Weight': '36 Grams', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.04 x 0.02 x 0.02 inches; 1.27 Ounces', 'Item model number': 'BC/BYNKBS', 'Manufacturer': 'BYS'}\nReview Text: It's smaller than expected. I thought it would be bigger because of the price. Is is a very soft brush and good for blending powder and buffing because it's not scratchy, I hate scratchy brushes. It's good to travel with. It also sheds a little bit at first washing.\nReview Title: Is is a very soft brush and good for blending powder and buffing because it's not scratchy\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "BYS Kabuki Brush\nBYS\n{'Brand': 'BYS', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Skin Tone': 'All', 'Item Dimensions LxWxH': '0.04 x 0.02 x 0.02 inches', 'Item Weight': '36 Grams', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.04 x 0.02 x 0.02 inches; 1.27 Ounces', 'Item model number': 'BC/BYNKBS', 'Manufacturer': 'BYS'}\nIt's smaller than expected. I thought it would be bigger because of the price. Is is a very soft brush and good for blending powder and buffing because it's not scratchy, I hate scratchy brushes. It's good to travel with. It also sheds a little bit at first washing.\nIs is a very soft brush and good for blending powder and buffing because it's not scratchy",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Prefers soft, quality brushes that provide good blending and buffing capabilities. Prioritizes comfort over size and dislikes scratchy brushes.\n- **Travel-Friendly:** Values compact, easy-to-transport products for travel.\n- **Expectation vs. Reality:** Expects products to meet size expectations relative to price and often feels disappointed when they don't.\n- **Quality Concerns:** Cares about shedding, indicating a preference for durable products that maintain quality over time.\n- **Overall Satisfaction:** Shows a tendency to rate products more critically when they don't meet initial expectations, as evidenced by a mid-range rating despite positive attributes. \n\nThis initial profile suggests the user values comfort, functionality, and reliability in cosmetic tools.",
+  "metrics": {
+    "rouge1_f": 0.2066115702479339,
+    "rouge2_f": 0.016666666666666666,
+    "rougeL_f": 0.12396694214876032,
+    "meteor": 0.11771300448430491,
+    "bleu1": 0.19639092046401874,
+    "bleu2": 0.05687694630278675,
+    "bleu3": 0.026148326848924704,
+    "bleu4": 0.009986416670143747,
+    "bertscore_precision": 0.4123906195163727,
+    "bertscore_recall": 0.4288371503353119,
+    "bertscore_f1": 0.42045310139656067
+  }
+}

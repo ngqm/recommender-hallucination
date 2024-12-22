@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/22\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Espa\u00f1ol', 'Italiano', 'Fran\u00e7ais'], 'Subtitles': ['English [CC]', 'Nederlands', 'Svenska'], 'Directors': ['Andy Mikita'], 'Producers': ['Carl Binder'], 'Starring': ['Robert Carlyle', 'Louis Ferreira', 'Brian J. Smith'], 'Studio': ['MGM']}\nReview Text: While not as good as Star Gate SG1 or Star Gate Atlantis, the show had potential before it was cancelled.\nReview Title: While not as good as Star Gate SG1 or Star Gate Atlantis\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Espa\u00f1ol', 'Italiano', 'Fran\u00e7ais'], 'Subtitles': ['English [CC]', 'Nederlands', 'Svenska'], 'Directors': ['Andy Mikita'], 'Producers': ['Carl Binder'], 'Starring': ['Robert Carlyle', 'Louis Ferreira', 'Brian J. Smith'], 'Studio': ['MGM']}\nWhile not as good as Star Gate SG1 or Star Gate Atlantis, the show had potential before it was cancelled.\nWhile not as good as Star Gate SG1 or Star Gate Atlantis",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user enjoys science fiction and fantasy genres, with a specific fondness for series similar to \"Stargate SG-1\" and \"Stargate Atlantis,\" indicating a preference for action-oriented narratives with elements of adventure and exploration.\n\n- **Rating Behavior:** The user tends to rate content positively, as demonstrated by an average rating of 4.6, suggesting a general appreciation for quality storytelling and character development, even in series that may not meet their highest expectations.\n\n- **Themes of Interest:** The user seemingly has an interest in narratives that include intense themes such as violence, adult language, and complex character dynamics, as indicated by the content advisories noted in their reviews.\n\n- **Language Accessibility:** They value availability in multiple languages, favoring options like English and Spanish, reflecting a preference for inclusive content suited for diverse audiences.\n\n- **Series Quality Expectation:** Their critiques suggest a discerning taste; the user expects high production values and engaging plots, and they are vocal about their evaluations, especially when comparing to previous favorites.\n\n- **Viewing Experience:** The user appreciates enhancements like dialogue boosts, which indicates a focus on clarity in audio, enhancing their overall viewing experience.\n\nThis profile can guide future interactions, aligning recommendations with the user's established interests and preferences.",
+  "metrics": {
+    "rouge1_f": 0.12014134275618374,
+    "rouge2_f": 0.014234875444839859,
+    "rougeL_f": 0.0706713780918728,
+    "meteor": 0.12389711166700447,
+    "bleu1": 0.11851851851851854,
+    "bleu2": 0.020990218869104994,
+    "bleu3": 0.005478138987969307,
+    "bleu4": 0.002801218395563184,
+    "bertscore_precision": 0.4176735281944275,
+    "bertscore_recall": 0.35678958892822266,
+    "bertscore_f1": 0.38483837246894836
+  }
+}

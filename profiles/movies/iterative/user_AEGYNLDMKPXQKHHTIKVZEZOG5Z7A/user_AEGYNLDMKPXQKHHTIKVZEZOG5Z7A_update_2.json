@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Lev Gorn'], 'Studio': ['FX']}\nReview Text: I love this series. Very exciting and stellar acting. Well directed. I always look forward to the next episode.\nReview Title: Fine series\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nI loved this movie! Such love and devotion John May gave to others freely.<br />No one should die without acknowledgement of living.\nVery good movie\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Lev Gorn'], 'Studio': ['FX']}\nI love this series. Very exciting and stellar acting. Well directed. I always look forward to the next episode.\nFine series",
+  "profile": "**User Profile Summary:**\n\n- **Overall Sentiment**: Remains positive towards content that delves into deep emotional themes and human connection.\n- **Content Preference**: Shows a strong affinity for series characterized by excitement, stellar acting, and engaging storytelling, particularly those featuring elements of love and life experiences.\n- **Tolerant of Mature Themes**: Continues to be comfortable with content that includes nudity, violence, substance use, and foul language, reinforcing a mature viewing preference.\n- **Language Preference**: Prefers English audio and appreciates accessibility through subtitles, maintaining a focus on easy comprehension of dialogue.\n- **Engagement with Film and Series**: Values narratives that emphasize character dedication, emotional depth, and personal relationships, suggesting a preference for well-directed content that captivates and holds the viewer's interest.\n\nThis recent interaction underscores the user's appreciation for high-quality production and the anticipation of ongoing stories, indicating a desire for content that not only entertains but also resonates emotionally on a humanistic level. The user seeks out series that provide thrilling experiences and appreciate the artistry involved in storytelling.",
+  "metrics": {
+    "rouge1_f": 0.18729096989966554,
+    "rouge2_f": 0.047138047138047125,
+    "rougeL_f": 0.1270903010033445,
+    "meteor": 0.08207665200353195,
+    "bleu1": 0.12846122979538904,
+    "bleu2": 0.030347969113210888,
+    "bleu3": 0.00692209795572786,
+    "bleu4": 0.0033097355148452613,
+    "bertscore_precision": 0.38241130113601685,
+    "bertscore_recall": 0.39573588967323303,
+    "bertscore_f1": 0.38895952701568604
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/26\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Producers': ['Liz Trubridge'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: We have liked every season in this interesting perspective on English Royal life in England in the early 1900's.\nReview Title: We have liked every season in this interesting perspective on English Royal ...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Producers': ['Liz Trubridge'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nWe have liked every season in this interesting perspective on English Royal life in England in the early 1900's.\nWe have liked every season in this interesting perspective on English Royal ...",
+  "profile": "**User Summary:**\n\nThe user displays a strong preference for high-quality storytelling and well-crafted narratives, particularly those centered around historical themes and societal issues. Their enthusiastic engagement with content focusing on English royal life indicates a keen interest in period dramas and cultural perspectives from the early 1900s. The high rating suggests they value character development, intricate plots, and the authenticity of the setting.\n\nThey demonstrate a tendency to appreciate content that tackles complex themes, as evidenced by their acceptance of various content advisories like violence and adult themes. The use of English audio and subtitles suggests a preference for content that is easily accessible and richly dialogues-driven.\n\nOverall, this user enjoys immersive and captivating viewing experiences, particularly those illuminating historical contexts, with a discerning taste for quality production and storytelling. The frequent emphasis on enjoying every season highlights consistent satisfaction with content in this genre.",
+  "metrics": {
+    "rouge1_f": 0.21551724137931033,
+    "rouge2_f": 0.07826086956521738,
+    "rougeL_f": 0.12068965517241378,
+    "meteor": 0.12905548817465132,
+    "bleu1": 0.14545185240322503,
+    "bleu2": 0.059562340254217264,
+    "bleu3": 0.01295965533708815,
+    "bleu4": 0.006054476326662046,
+    "bertscore_precision": 0.40365245938301086,
+    "bertscore_recall": 0.40258997678756714,
+    "bertscore_f1": 0.4031204879283905
+  }
+}

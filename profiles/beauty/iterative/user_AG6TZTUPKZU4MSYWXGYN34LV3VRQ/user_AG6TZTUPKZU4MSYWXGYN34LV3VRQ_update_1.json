@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 14 in 1 Combo Set Professional White Clear Pink Powder DIY Acryic Nail Art Decorations Kit Brush Cuticle Revitalizer Oil Pen Tools Rhinestones Sanding Buffer Forms Nail Tips Glue Set\nReview Date: 2014/11/12\nStore: RY\nAverage Rating: 3.2\nProduct Details: {'Material': 'Acrylic', 'Brand': 'RY', 'Item Form': 'Powder'}\nReview Text: First off, I could smell the acrylic the second I opened it. The powders had powder on the outside of the jars, the brush is the size of a Qtip and hard like it was used. The worst part that pist me off so bad, the glue was half gone and a solid chunk. I doubt I will get new glue from them so I'm screwed. (Stores were closed by the time I realized it). Other than ALL that I guess it's ok. Wish I would have gotten a better one for couple dollars more!\nReview Title: So irritating!!!\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "14 in 1 Combo Set Professional White Clear Pink Powder DIY Acryic Nail Art Decorations Kit Brush Cuticle Revitalizer Oil Pen Tools Rhinestones Sanding Buffer Forms Nail Tips Glue Set\nRY\n{'Material': 'Acrylic', 'Brand': 'RY', 'Item Form': 'Powder'}\nFirst off, I could smell the acrylic the second I opened it. The powders had powder on the outside of the jars, the brush is the size of a Qtip and hard like it was used. The worst part that pist me off so bad, the glue was half gone and a solid chunk. I doubt I will get new glue from them so I'm screwed. (Stores were closed by the time I realized it). Other than ALL that I guess it's ok. Wish I would have gotten a better one for couple dollars more!\nSo irritating!!!",
+  "profile": "**User Profile Summary:**\n\n- **Product Focus**: Beauty and personal care, specifically nail art and acrylic supplies.\n- **Quality Expectations**: Expects high-quality products; has expressed dissatisfaction with product condition and completeness.\n- **Frustration Tolerance**: Shows low tolerance for product defects and poor customer service experiences; irritation over incomplete items.\n- **Value Sensitivity**: Disappointed with perceived value; indicates a willingness to pay slightly more for better quality.\n- **Material Preferences**: Engaged with acrylic materials but noted strong chemical odors negatively impacting the experience.\n- **Review Patterns**: Utilizes reviews to articulate both negative experiences and expectations for product performance.",
+  "metrics": {
+    "rouge1_f": 0.12280701754385967,
+    "rouge2_f": 0.008849557522123894,
+    "rougeL_f": 0.07017543859649122,
+    "meteor": 0.08302583025830258,
+    "bleu1": 0.10767897862195433,
+    "bleu2": 0.008054530184505774,
+    "bleu3": 0.0034018439458366433,
+    "bleu4": 0.0022148045269842435,
+    "bertscore_precision": 0.39076757431030273,
+    "bertscore_recall": 0.40133586525917053,
+    "bertscore_f1": 0.3959812521934509
+  }
+}

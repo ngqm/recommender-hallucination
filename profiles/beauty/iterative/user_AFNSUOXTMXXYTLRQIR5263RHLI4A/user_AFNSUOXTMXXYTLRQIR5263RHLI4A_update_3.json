@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 100 'Edge' Style of Well-less French Acrylic Artificial False Salon Nail Tips White\nReview Date: 2018/07/02\nStore: ALLTOP\nAverage Rating: 3.9\nProduct Details: {'Color': 'White', 'Size': 'Large', 'Material': 'Acrylic', 'Brand': 'ALLTOP', 'Style': 'French', 'Is Discontinued By Manufacturer': 'No'}\nReview Text: I haven't tried them yet because I'm not sure I'd be able to put acrylic over edge correctly but they do look like what I wanted. Thank you as\nReview Title: Look great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "30000rpm Professional Electric Nail Drill Machine Pedicure Manicure Kits Nail File Drill with Sanding Bands, Nail Salon Art Tools\nSUBAY\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 5.3 x 3.7 inches; 3.2 Pounds', 'Item model number': 'SUB3Z', 'UPC': '602668590901'}\nThis nail drill is awesome! I got it right on time, started using it right away, have used it like 6 times since, it works great. To me it's an upgrade after what I got at Sally's. Love love love it!\nThis nail drill is awesome! I got it right on time\nSNS Dipping Powder Vitamin Oil .5oz\nSNS\n{'Package Dimensions': '4.72 x 1.89 x 1.54 inches; 2.36 Ounces', 'Manufacturer': 'Bergotti'}\nThis cuticle oil is amazing! It's got a very gentle, light nice scent to it. I love it!\nAwesome\n100 'Edge' Style of Well-less French Acrylic Artificial False Salon Nail Tips White\nALLTOP\n{'Color': 'White', 'Size': 'Large', 'Material': 'Acrylic', 'Brand': 'ALLTOP', 'Style': 'French', 'Is Discontinued By Manufacturer': 'No'}\nI haven't tried them yet because I'm not sure I'd be able to put acrylic over edge correctly but they do look like what I wanted. Thank you as\nLook great",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Nail care, beauty tools, professional-grade equipment, cuticle oils, acrylic nail applications\n- **Purchase Frequency:** Active user, likely to invest in high-quality beauty tools and products that enhance nail care\n- **Preference for Quality and Performance:** Values products that offer significant performance improvements and aesthetic appeal, especially well-designed nail enhancements\n- **Satisfaction with Timeliness:** Appreciates prompt delivery of products, which positively impacts overall satisfaction \n- **Review Tendencies:** Tends to leave positive feedback when expectations are met, showcasing a high standard for quality; has recently shown enthusiasm for new nail tools, even before trying them, indicating an eagerness to enhance their nail care routine\n\nThe user exhibits a strong inclination towards upgrading their nail care tools and products, with an emphasis on quality and an interest in acrylic applications. They are passionate about beauty and maintain regular self-care routines, focusing on effective and visually appealing solutions. Their recent purchase and review reflect a commitment to exploring new nail techniques while continuing to prioritize reliable, professional-grade options that will elevate their nail care experience.",
+  "metrics": {
+    "rouge1_f": 0.14659685863874344,
+    "rouge2_f": 0.010526315789473684,
+    "rougeL_f": 0.07329842931937172,
+    "meteor": 0.11955814162281345,
+    "bleu1": 0.13620920871300063,
+    "bleu2": 0.007097110256710314,
+    "bleu3": 0.002654769461801001,
+    "bleu4": 0.0016255182208108978,
+    "bertscore_precision": 0.37852010130882263,
+    "bertscore_recall": 0.41553065180778503,
+    "bertscore_f1": 0.39616283774375916
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Mystery of Edwin Drood\nReview Date: 2015/04/07\nCategories: Drama\nProduct Description: ['Acclaimed screenwriter Gwyneth Hughes brings to life this unfinished tale of obsessive love and betrayal, the last story Charles Dickens would ever write before his death.']\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Diarmuid Lawrence'], 'Producers': ['BBC'], 'Starring': ['Matthew Rhys (\"Brothers & Sisters\")', 'Julia MacKenzie (\"Miss Marple\")']}\nReview Text: Great drama!  Don't miss this.\nReview Title: WOW!  Great drama.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Mystery of Edwin Drood\nDrama\n['Acclaimed screenwriter Gwyneth Hughes brings to life this unfinished tale of obsessive love and betrayal, the last story Charles Dickens would ever write before his death.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Diarmuid Lawrence'], 'Producers': ['BBC'], 'Starring': ['Matthew Rhys (\"Brothers & Sisters\")', 'Julia MacKenzie (\"Miss Marple\")']}\nGreat drama!  Don't miss this.\nWOW!  Great drama.",
+  "profile": "User Profile Summary:\n\n- **Content Preference**: Strong affinity for drama, particularly adaptations of literary classics.\n- **Themes**: Enjoys narratives centered on obsessive love and betrayal, indicating a taste for complex emotional and relational dynamics.\n- **Quality Focus**: High appreciation for well-produced adaptations, as evidenced by a perfect rating for a production described as \"great.\"\n- **Engagement Style**: Enthusiastic and positive in reviews, suggesting a willingness to recommend quality content to others.\n- **Viewer Demographics**: Appears to prefer English-language productions with accessible subtitles. \n- **Additional Interests**: Likely values critically acclaimed productions, as indicated by the mention of awards and accolades in the description. \n\nOverall, this individual shows a keen preference for dramatic storytelling, with a particular interest in adaptations that delve into intricate relationships and emotional depth.",
+  "metrics": {
+    "rouge1_f": 0.18579234972677594,
+    "rouge2_f": 0.03314917127071823,
+    "rougeL_f": 0.0983606557377049,
+    "meteor": 0.14426905496950987,
+    "bleu1": 0.15028901734104047,
+    "bleu2": 0.0591193151730957,
+    "bleu3": 0.03943313550985269,
+    "bleu4": 0.029143469442744877,
+    "bertscore_precision": 0.41124892234802246,
+    "bertscore_recall": 0.3994445204734802,
+    "bertscore_f1": 0.4052608013153076
+  }
+}

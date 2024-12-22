@@ -1,0 +1,65 @@
+{
+  "interaction_number": 20,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/01/16\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Forster'], 'Producers': ['Brigham Taylor', 'Kristin Burr'], 'Starring': ['Ewan McGregor', 'Hayley Atwell', 'Bronte Carmichael'], 'Studio': ['Walt Disney Pictures']}\nReview Text: New twist to the Disney classic.\nReview Title: Cute movie\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Barry Sonnenfeld'], 'Producers': ['Lucy Fisher', 'Douglas Wick'], 'Starring': ['Diane Michelle', 'Robin Williams', 'Jeff Daniels'], 'Studio': ['Columbia Pictures']}\nit was a good move\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Landesman'], 'Producers': ['Ridley Scott', 'Giannina Scott', 'David Wolthoff', 'Larry Shuman', 'Elizabeth Cantillon'], 'Starring': ['Albert Brooks', 'Will Smith', 'Luke Wilson'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nGood movie. Made me think more about sports even down to grade school level.\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Miller'], 'Producers': ['Simon Kinberg', 'Ryan Reynolds', 'Lauren Shuler Donner'], 'Starring': ['Ryan Reynolds', 'Morena Baccarin', 'Ed Skrein'], 'Studio': ['Fox']}\nVery entertaining\nFive Stars\n{'Content advisory': ['Violence', 'substance use', 'foul language'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Gavin O\u2019Connor'], 'Producers': ['Lynette Howell Taylor', 'Mark Williams'], 'Starring': ['Ben Affleck', 'Anna Kendrick', 'J.K. Simmons'], 'Studio': ['WARNER BROS.']}\nVery entertaining, suspenseful\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Luc Besson'], 'Producers': ['Fanny Besson', 'Luc Besson', 'Virginie Besson-Silla', 'Jc Cheng', 'Camille Courau', 'Mark Gao', 'Dylan Haggerty', 'Gregory Ouanhon'], 'Starring': ['Dane DeHaan', 'Cara Delevingne', 'Clive Owen'], 'Studio': ['EuropaCorp']}\nTerrible movie. Don\u2019t waste your money\nOne Star\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Peter Chernin', 'Steve Zaillian', 'Jenno Topping', 'David Ready'], 'Starring': ['Jennifer Lawrence', 'Joel Edgerton', 'Matthias Schoenaerts'], 'Studio': ['20th Century Fox']}\nNot to be watched with pre-teens, not what I expected\nDefinitely adult content\n{'Content advisory': ['Substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Ross'], 'Producers': ['Steven Soderbergh', 'Susan Ekins'], 'Starring': ['Sandra Bullock', 'Cate Blanchett', 'Anne Hathaway']}\nLike the new twist to the series\nGood movie\n{'Content advisory': ['Nudity', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Holderman'], 'Producers': ['Andrew Duncan', 'Alex Saks', 'Bill Holderman', 'Erin Simms', 'Ted Deiker', 'Alan C. Blomquist'], 'Starring': ['Diane Keaton', 'Jane Fonda', 'Candice Bergen'], 'Studio': ['Paramount Pictures']}\nLoved this movie. So funny\nHilarious\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Donald Petrie'], 'Producers': ['John Davis', 'Richard C. Berman'], 'Starring': ['Jack Lemmon', 'Walter Matthau', 'Ann-Margret'], 'Studio': ['Warner Bros. Domestic Televisi']}\nHave seen this movie many times and still enjoy it.\nGood entertainment for the whole family.\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Mel Gibson'], 'Producers': ['Bill Mechanic', 'David Permut', 'Terry Benedict', 'Paul Currie', 'Bruce Davey', 'Brian Oliver'], 'Starring': ['Andrew Garfield', 'Richard Pyros', 'Jacob Warner'], 'Studio': ['Lionsgate']}\nLike this movie very much. Based on true story.\nBased on true story\n{'Audio languages': ['English', 'English [Audio Description]', 'Fran\u00e7ais (Canada)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Espa\u00f1ol (M\u00e9xico)', '\u65e5\u672c\u8a9e', 'Deutsch', 'Fran\u00e7ais (France)'], 'Subtitles': ['English [CC]', 'Deutsch', 'Espa\u00f1ol', 'Fran\u00e7ais (Canada)', 'Fran\u00e7ais (France)', 'Italiano', 'Nederlands'], 'Directors': ['Bryan Singer'], 'Producers': ['Graham King', 'Jim Beach'], 'Starring': ['Rami Malek', 'Lucy Boynton', 'Gwilym Lee'], 'Studio': ['20th Century Fox']}\nLove the music. Actors did a great job in portraying the characters.\nGood film\n{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Burger'], 'Producers': ['Jason Blumenthal', 'Todd Black', 'Steve Tisch'], 'Starring': ['Kevin Hart', 'Bryan Cranston', 'Nicole Kidman']}\nGreat movie. Some adult language/content. Funny\nGreat movie. Some adult language.\n{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['---'], 'Producers': ['David Livingstone'], 'Starring': ['Ren\u00e9e Zellweger', 'Rufus Sewell', 'Michael Gambon'], 'Studio': ['Epix']}\nNot a very good movie. Surprised by singing voice of Renee Zellweger.\nNot a very good movie\n{'Content advisory': ['Substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Thea Sharrock'], 'Producers': ['Karen Rosenfelt', 'Alison Owen'], 'Starring': ['Emilia Clarke', 'Sam Claflin', 'Janet McTeer'], 'Studio': ['New Line']}\nWatch this movies many times. Still love it.\nFun movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Zara Hayes'], 'Producers': ['Paul Baker', 'Robert Clarke', 'Andy Evans', 'Adam Fogelson', 'Rose Ganguzza', 'Will Greenfield', 'Russell Harper', 'Cathleen Ihasz', 'Nicole Ihasz'], 'Starring': ['Diane Keaton', 'Jacki Weaver', 'Pam Grier'], 'Studio': ['STX Financing', 'LLC']}\nCute movie.\nCute movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Sanders'], 'Producers': ['James Mangold', 'Erwin Stoff'], 'Starring': ['Harrison Ford', 'Omar Sy', 'Dan Stevens'], 'Studio': ['20th Century Fox']}\nGood movie. Can tell in some areas that the dog is a little more animated than real.\nGood movie\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Dexter Fletcher'], 'Producers': ['Matthew Vaughn', 'David Furnish', 'Adam Bohling', 'David Reid', 'Elton John', 'Claudia Vaughn', 'Brian Oliver', 'Steve Hamilton Shaw', 'Michael Gracey'], 'Starring': ['Taron Egerton', 'Jamie Bell', 'Richard Madden']}\nDisappointed in the overall movie. Music was good.\nDisappointed\nFord v Ferrari\nDrama, Action, Bold, Compelling\n['Academy Award\u00ae Winners Matt Damon and Christian Bale star in Ford v Ferrari, based on the true story of visionary American car designer Carroll Shelby (Damon) and fearless British-born driver Ken Miles (Bale), who together build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.Based on the true story,']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Mangold'], 'Producers': ['Peter Chernin', 'Jenno Topping', 'James Mangold'], 'Starring': ['Matt Damon', 'Christian Bale', 'Jon Bernthal']}\nGood movie. Not usually a Christian Bale fan.  Have watched it many times now.\nGood movie.\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['George Clooney'], 'Producers': ['Grant Heslov', 'George Clooney'], 'Starring': ['George Clooney', 'Matt Damon', 'Bill Murray']}\nGood movie.\nGood movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Forster'], 'Producers': ['Brigham Taylor', 'Kristin Burr'], 'Starring': ['Ewan McGregor', 'Hayley Atwell', 'Bronte Carmichael'], 'Studio': ['Walt Disney Pictures']}\nNew twist to the Disney classic.\nCute movie",
+  "actual_interaction": {
+    "rating": 4.0,
+    "title": "Cute movie",
+    "text": "New twist to the Disney classic.",
+    "images": [],
+    "asin": "B07FVNHJQ1",
+    "parent_asin": "B07FVNHJQ1",
+    "user_id": "AEF6WUNSOWXWE5FISAHXENQG3AZA",
+    "timestamp": "2021-01-16 20:05:09.750000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.6,
+    "rating_number": 10036,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ca792c15d302a64a11001ccc599c968b5e9bfd9da054b8510977f316a8a928ca._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Marc Forster"
+      ],
+      "Producers": [
+        "Brigham Taylor",
+        "Kristin Burr"
+      ],
+      "Starring": [
+        "Ewan McGregor",
+        "Hayley Atwell",
+        "Bronte Carmichael"
+      ],
+      "Studio": [
+        "Walt Disney Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SwanMyst Curling Iron 1.5 inch Ceramic Hair Curling Wand 1 1 2 inch with Cool Tip and Heat Resistant Glove, Dual Voltage\nReview Date: 2019/11/13\nStore: SwanMyst\nAverage Rating: 4.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '17 x 3.9 x 2.4 inches; 1.15 Pounds', 'Manufacturer': 'SwanMyst'}\nReview Text: The hand curling wand works well. I have long hair and it allows me to curl the full length of the hair. It heats quickly and to high temperature. Curled hair hold their form for a while.\nReview Title: Works well for long hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SwanMyst Curling Iron 1.5 inch Ceramic Hair Curling Wand 1 1 2 inch with Cool Tip and Heat Resistant Glove, Dual Voltage\nSwanMyst\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '17 x 3.9 x 2.4 inches; 1.15 Pounds', 'Manufacturer': 'SwanMyst'}\nThe hand curling wand works well. I have long hair and it allows me to curl the full length of the hair. It heats quickly and to high temperature. Curled hair hold their form for a while.\nWorks well for long hair",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus:** The user prioritizes hair styling tools, specifically curling wands suited for longer hair, indicating a strong interest in hair care and styling routines. \n- **Performance Expectations:** They favor products that heat quickly to high temperatures, suggesting a preference for efficiency and effectiveness in styling.\n- **Durability of Style:** The user appreciates tools that provide long-lasting results, indicating value for performance and longevity in hairstyling products.\n- **Comfort and Usability:** The mention of a cool tip and heat-resistant glove reflects a preference for user-friendly design, suggesting safety and comfort during use.\n- **Recent Engagement:** Their recent interaction points to a trend of seeking out high-rated, functional hair tools that cater to their specific styling needs.\n\nOverall, this user's profile indicates a meticulous approach to hair care, with a clear focus on quality, effectiveness, and user safety in their styling tools.",
+  "metrics": {
+    "rouge1_f": 0.26724137931034486,
+    "rouge2_f": 0.0782608695652174,
+    "rougeL_f": 0.15517241379310345,
+    "meteor": 0.24463854008494318,
+    "bleu1": 0.15544041450777202,
+    "bleu2": 0.028453215850374095,
+    "bleu3": 0.007511784436029984,
+    "bleu4": 0.0038647280317467207,
+    "bertscore_precision": 0.44767332077026367,
+    "bertscore_recall": 0.4229891896247864,
+    "bertscore_f1": 0.4349813461303711
+  }
+}

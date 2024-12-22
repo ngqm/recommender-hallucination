@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/26\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Alexander Koch'], 'Studio': ['CBS']}\nReview Text: It's ok\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['---']}\nRIP Purple Prince\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nGood\nThree Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Alexander Koch'], 'Studio': ['CBS']}\nIt's ok\nThree Stars",
+  "profile": "**Updated User Profile Summary**\n\n- **Preference for Quality**: The user maintains a consistent inclination towards quality products, as evidenced by their overall average rating of 4.1. However, the recent rating of 3.0 indicates a more critical evaluation of specific offerings, suggesting a discerning perspective on quality.\n\n- **Interest in Artistry and Emotional Connection**: While the user is drawn to iconic musical figures, their latest engagement highlights an increased involvement with diverse storytelling, evidenced by the participation of various directors and a focus on performance that incorporates complex narratives.\n\n- **Simplicity and Accessibility**: The user previously favored straightforward content but has shown growing acceptance of subtitled material, suggesting a willingness to explore nuanced storytelling while retaining appeal.\n\n- **Sensitivity to Cultural Context**: The user's engagement with products featuring significant themes such as violence and adult content reflects a readiness to confront deeper societal issues and emotional narratives.\n\n- **Engagement with Diverse Content**: There\u2019s a notable openness to various genres and themes, including thought-provoking material that complements their established appreciation for artistic integrity and emotional resonance.\n\nThis updated profile demonstrates a user who values emotional depth in art but is simultaneously evolving to embrace a broader range of storytelling methods and thematic explorations.",
+  "metrics": {
+    "rouge1_f": 0.057324840764331204,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.050955414012738856,
+    "meteor": 0.03081664098613251,
+    "bleu1": 0.06120785326752716,
+    "bleu2": 0.004848730874674164,
+    "bleu3": 0.0020852496857141486,
+    "bleu4": 0.0013688854940274455,
+    "bertscore_precision": 0.33957362174987793,
+    "bertscore_recall": 0.335923433303833,
+    "bertscore_f1": 0.33773866295814514
+  }
+}

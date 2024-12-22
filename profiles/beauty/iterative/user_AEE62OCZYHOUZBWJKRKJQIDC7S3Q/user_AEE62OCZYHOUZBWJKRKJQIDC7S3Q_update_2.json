@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Dip Powder Nail Starter Kit 8 Colors Acrylic Dipping Powder System for French Nail Manicure Nail Art Set, Portable Kit for Trave, No LED Nail Lamp Needed\u2026\nReview Date: 2021/03/30\nStore: Colorfairy\nAverage Rating: 3.2\nProduct Details: {'Material': 'Acrylic', 'Brand': 'Colorfairy', 'Included Components': 'Dip Powder, Nail Lamp', 'Item Form': 'Powder', 'Package Dimensions': '5.98 x 4.17 x 2.72 inches; 9.77 Ounces'}\nReview Text: This set makes doing your own nails creative and fun, I love this kind of polish , it is very enjoyable to work with . Dip powder is a great and innovative trend .\nReview Title: Lovely set\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "YinMer Lavish Lash \u2013 Eyelash Growth Enhancer & Brow Serum with Biotin & Natural Growth Peptides for Long, Thick Lashes and Eyebrows\nOUZIFISH\n{'Package Dimensions': '6.61 x 2.8 x 1.26 inches; 3.53 Ounces'}\nI love the idea of this product , have always been looking for something to promote growth in the eyelash/eyebrow area. So far in the process, so good. it is easy to apply and has very nice packaging.\nCool product !\nDip Powder Nail Starter Kit 8 Colors Acrylic Dipping Powder System for French Nail Manicure Nail Art Set, Portable Kit for Trave, No LED Nail Lamp Needed\u2026\nColorfairy\n{'Material': 'Acrylic', 'Brand': 'Colorfairy', 'Included Components': 'Dip Powder, Nail Lamp', 'Item Form': 'Powder', 'Package Dimensions': '5.98 x 4.17 x 2.72 inches; 9.77 Ounces'}\nThis set makes doing your own nails creative and fun, I love this kind of polish , it is very enjoyable to work with . Dip powder is a great and innovative trend .\nLovely set",
+  "profile": "**User Profile Summary:**\n\nThe user has a strong interest in beauty and personal care products, particularly those aimed at enhancing natural features like eyelashes and eyebrows. They prioritize items that promote growth and thickness, favoring products that contribute to a more defined and voluminous appearance. The user values ease of application and visually appealing packaging, indicating that product design and usability are important aspects in their purchasing decisions.\n\nRecently, they expanded their beauty interests to include nail care by purchasing a dip powder nail kit that emphasizes creativity and enjoyment in self-manicure practices. Their enthusiasm is reflected in their positive review, showcasing a tendency toward optimism when evaluating new beauty products, even early in their usage. While this interaction has slightly shifted their focus to nail art, the user's overall profile still primarily reflects a pursuit of effective, aesthetically pleasing beauty solutions that deliver noticeable improvements in appearance.\n\nIn summary, the user seeks versatile beauty products that enhance both natural features and personal expression, demonstrating a willingness to explore innovative trends in the beauty industry while maintaining a consistent preference for quality and performance.",
+  "metrics": {
+    "rouge1_f": 0.2471264367816092,
+    "rouge2_f": 0.04624277456647399,
+    "rougeL_f": 0.13218390804597704,
+    "meteor": 0.1774234623263024,
+    "bleu1": 0.19806763285024154,
+    "bleu2": 0.04385187255638435,
+    "bleu3": 0.009789055899217497,
+    "bleu4": 0.0046307151237353645,
+    "bertscore_precision": 0.4031105041503906,
+    "bertscore_recall": 0.43727338314056396,
+    "bertscore_f1": 0.419497549533844
+  }
+}

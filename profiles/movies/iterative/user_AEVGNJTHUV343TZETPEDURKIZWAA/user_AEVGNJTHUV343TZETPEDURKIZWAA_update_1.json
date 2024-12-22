@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/09/29\nAverage Rating: 3.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Otto Bathurst', 'Simon Curtis'], 'Producers': ['Paul Rutman', 'Simon Curtis', 'Hilary Salmon'], 'Starring': ['David Oyelowo', 'Edward Woodward', 'Hugh Bonneville'], 'Studio': ['HBO']}\nReview Text: Very well written kept me entertained\nReview Title: Five days\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Otto Bathurst', 'Simon Curtis'], 'Producers': ['Paul Rutman', 'Simon Curtis', 'Hilary Salmon'], 'Starring': ['David Oyelowo', 'Edward Woodward', 'Hugh Bonneville'], 'Studio': ['HBO']}\nVery well written kept me entertained\nFive days",
+  "profile": "**User Summary:**\n\nThis user demonstrates a preference for well-crafted narratives, favoring quality writing that engages and entertains. They appreciate the blend of strong storytelling with skilled direction and production. Their interest in English audio and subtitles indicates that they seek clarity and accessibility in content consumption. The user appears to be receptive to works featuring notable actors, suggesting they value performances by established talent. Overall, their positive review indicates a tendency to enjoy content that delivers a satisfying and immersive experience.",
+  "metrics": {
+    "rouge1_f": 0.08547008547008547,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.03418803418803419,
+    "meteor": 0.029411764705882353,
+    "bleu1": 0.042553191489361694,
+    "bleu2": 0.006764327008729995,
+    "bleu3": 0.0036775093643066537,
+    "bleu4": 0.0027189736098375064,
+    "bertscore_precision": 0.37556302547454834,
+    "bertscore_recall": 0.3631206750869751,
+    "bertscore_f1": 0.3692370653152466
+  }
+}

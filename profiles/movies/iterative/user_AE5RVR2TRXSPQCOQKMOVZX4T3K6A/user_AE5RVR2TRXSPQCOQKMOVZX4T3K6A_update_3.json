@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/18\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Julie Taymor'], 'Producers': ['Derek Dauchy', 'Rudd Simmons', 'Charles Newirth', 'Suzanne Todd', 'Jennifer Todd', 'Matthew Gross'], 'Starring': ['Evan Rachel Wood', 'Jim Sturgess', 'Joe Anderson']}\nReview Text: Okay\nReview Title: Okay\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Byron Howard', 'Rich Moore'], 'Producers': ['Clark Spencer'], 'Starring': ['Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba']}\nEntertaining\nCute movie\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Steve Starkey', 'Robert Zemeckis', 'Gary Goetzman', 'William Teitler'], 'Starring': ['Tom Hanks', 'Michael Jeter', 'Nona Gaye']}\nGreat movie\nEntertaining\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Julie Taymor'], 'Producers': ['Derek Dauchy', 'Rudd Simmons', 'Charles Newirth', 'Suzanne Todd', 'Jennifer Todd', 'Matthew Gross'], 'Starring': ['Evan Rachel Wood', 'Jim Sturgess', 'Joe Anderson']}\nOkay\nOkay",
+  "profile": "**User Profile Summary:**\n\n- **General Attitude:** Maintains an enthusiastic and positive approach to entertainment, continuously seeking quality and engaging content.\n- **Content Preferences:** Favors animated and family-oriented films, particularly those with light-hearted narratives and animal characters. Recent interactions suggest a broader exploration of content, including varying artistic styles and storytelling techniques.\n- **Language and Accessibility:** Values audio description and closed captions, underscoring a commitment to inclusivity in viewing experiences. This aligns with a desire for accessible content that can be enjoyed by a wide audience.\n- **Rating Behavior:** Regularly rates products highly, often scoring 4.8 and above, though a recent rating of 4.0 reflects a more critical engagement with a specific title. This indicates a nuanced appreciation for content quality while still finding enjoyment.\n- **Themes:** Prefers films featuring endearing themes and characters, consistently engaging with animated features designed for all ages, emphasizing family-friendly narratives.\n- **Audience Focus:** Enjoys content suitable for diverse age groups, highlighting an ongoing interest in entertaining films that promote inclusivity and interactivity. The user\u2019s varied rating behavior suggests an evolving engagement with content that balances both enjoyment and critical assessment.\n\nOverall, the user appreciates well-crafted animated films with accessibility features, retaining a generally favorable outlook while acknowledging room for critique in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.03333333333333333,
+    "rouge2_f": 0.006711409395973154,
+    "rougeL_f": 0.03333333333333333,
+    "meteor": 0.05597459016996874,
+    "bleu1": 0.06716417910447761,
+    "bleu2": 0.0050154883371516246,
+    "bleu3": 0.002114697593306605,
+    "bleu4": 0.001374436673663625,
+    "bertscore_precision": 0.3728339374065399,
+    "bertscore_recall": 0.33691203594207764,
+    "bertscore_f1": 0.3539639413356781
+  }
+}

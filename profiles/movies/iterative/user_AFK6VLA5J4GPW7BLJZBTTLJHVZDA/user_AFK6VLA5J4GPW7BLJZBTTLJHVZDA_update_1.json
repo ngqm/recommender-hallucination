@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Patrick Osborne'], 'Producers': ['Kristina Reed'], 'Starring': ['Stephen Apostolina', 'Kirk Baily', 'Ben Bledsoe'], 'Studio': ['Walt Disney Animation Studios']}\nReview Text: Just had to own it!!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Patrick Osborne'], 'Producers': ['Kristina Reed'], 'Starring': ['Stephen Apostolina', 'Kirk Baily', 'Ben Bledsoe'], 'Studio': ['Walt Disney Animation Studios']}\nJust had to own it!!!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Animation:** Shows a strong affinity for animated content, particularly from reputable studios.\n- **High Engagement with Quality:** Consistently rates content highly, indicating a preference for well-produced and artistically valuable works.\n- **Language Sensitivity:** Prefers English audio and subtitles, highlighting a focus on accessibility and comprehension.\n- **Emotional Connection:** Expresses a personal connection to products, demonstrated by enthusiastic reviews and a desire to own them.\n- **Positive Outlook:** Generally maintains a positive attitude towards media choices, as reflected by high ratings and exclamatory language in reviews. \n\nOverall, this user values high-quality animation, clear language support, and a strong emotional connection to their media selections.",
+  "metrics": {
+    "rouge1_f": 0.13138686131386862,
+    "rouge2_f": 0.014814814814814815,
+    "rougeL_f": 0.07299270072992702,
+    "meteor": 0.10638297872340426,
+    "bleu1": 0.10457516339869281,
+    "bleu2": 0.02622964917882113,
+    "bleu3": 0.007694894541429903,
+    "bleu4": 0.004174737657316359,
+    "bertscore_precision": 0.41525593400001526,
+    "bertscore_recall": 0.3477856516838074,
+    "bertscore_f1": 0.3785378336906433
+  }
+}

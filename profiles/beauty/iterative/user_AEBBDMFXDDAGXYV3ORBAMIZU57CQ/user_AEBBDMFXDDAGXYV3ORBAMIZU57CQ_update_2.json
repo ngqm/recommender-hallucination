@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ebingoo Free Part Copper Red Long Natural Wave Synthetic Lace Front Wig 20inch\nReview Date: 2017/02/02\nStore: Ebingoo\nAverage Rating: 3.9\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Curly', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.2 x 6.3 x 1.8 inches; 12.64 Ounces', 'UPC': '711420424085'}\nReview Text: good hair\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Ebingoo Blonde Ombre Lace Front Wigs Side Part Natural Long Wave Synthetic Heat Resistant Fiber Wig for Women 24 Inch\nEbingoo\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.5 x 1.89 x 1.5 inches; 8.8 Ounces', 'UPC': '736950486662'}\ngood wig\nFour Stars\nEbingoo Free Part Copper Red Long Natural Wave Synthetic Lace Front Wig 20inch\nEbingoo\n{'Material': 'Synthetic', 'Hair Type': 'Curly', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.2 x 6.3 x 1.8 inches; 12.64 Ounces', 'UPC': '711420424085'}\ngood hair\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Wigs, specifically lace front and synthetic options.\n- **Style Preference**: Natural-looking styles with wave patterns; blonde, ombre, and a newfound interest in copper red shades.\n- **Purchase Behavior**: Engages with products that offer a blend of quality and affordability, evidenced by a positive rating of 4.0. The latest purchase reflects a willingness to explore vibrant colors while maintaining a preference for natural wave patterns.\n- **Rating Consistency**: Generally favorable ratings suggest satisfaction with product performance. The recent product received a rating of 4.0, indicating continued prioritization of aesthetic, functionality, and ease of maintenance.\n- **Review Characteristics**: Concise feedback indicating efficiency in communication; prefers not to elaborate unnecessarily. The latest review reflected succinct praise, maintaining a trend of clear and direct feedback.\n\nThis user demonstrates an ongoing value for stylish, practical wigs that enhance appearance while remaining easy to manage. The exploration of a copper red option indicates a willingness to occasionally embrace bolder colors, while still favoring natural styles.",
+  "metrics": {
+    "rouge1_f": 0.12307692307692307,
+    "rouge2_f": 0.031007751937984496,
+    "rougeL_f": 0.06923076923076923,
+    "meteor": 0.1418830197815344,
+    "bleu1": 0.08715596330275228,
+    "bleu2": 0.006337510425108987,
+    "bleu3": 0.002649280080543533,
+    "bleu4": 0.0017148900898151548,
+    "bertscore_precision": 0.3985673487186432,
+    "bertscore_recall": 0.3610345423221588,
+    "bertscore_f1": 0.37887367606163025
+  }
+}

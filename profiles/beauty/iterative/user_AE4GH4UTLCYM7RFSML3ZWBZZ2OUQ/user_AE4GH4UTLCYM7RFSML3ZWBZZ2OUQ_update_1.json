@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 18 inch Dark Brown Tape in Human Hair Extensions 20pcs/30g Long Straight Skin Weft Invisible Double Sided Tape +10pcs Replacement Tapes(18\", 2)\nReview Date: 2019/06/18\nStore: Benehair\nAverage Rating: 3.1\nProduct Details: {'Brand': 'Benehair', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Installation Type': 'tape', 'Package Dimensions': '13.78 x 7.8 x 0.75 inches; 2.96 Ounces', 'UPC': '758277455930'}\nReview Text: Thin but the tape quality is good\nReview Title: Little longer weft then normal\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "18 inch Dark Brown Tape in Human Hair Extensions 20pcs/30g Long Straight Skin Weft Invisible Double Sided Tape +10pcs Replacement Tapes(18\", 2)\nBenehair\n{'Brand': 'Benehair', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Installation Type': 'tape', 'Package Dimensions': '13.78 x 7.8 x 0.75 inches; 2.96 Ounces', 'UPC': '758277455930'}\nThin but the tape quality is good\nLittle longer weft then normal",
+  "profile": "**User Summary:**\n\n- **Product Type Preference**: The user shows an interest in hair extensions, particularly tape-in extensions, indicating a preference for temporary hair solutions.\n- **Material Preference**: Emphasizes the use of human hair, suggesting a desire for natural looks and quality.\n- **Quality Focus**: Shows awareness of product quality, particularly regarding the tape's effectiveness, even though they rated the overall experience as average.\n- **Length Specification**: Prefers longer options as mentioned in the review, indicating a trend toward enhancing hair length.\n- **Installation Method**: Appears to appreciate ease of installation as inferred from the choice of tape-in extensions.\n- **Dissatisfaction with Thickness**: Notes dissatisfaction with the thinness of the product, suggesting a preference for fuller, more substantial extensions.\n\nOverall, the user values quality and effectiveness in hair extensions while leaning towards human hair products that offer length and ease of use.",
+  "metrics": {
+    "rouge1_f": 0.16831683168316833,
+    "rouge2_f": 0.049999999999999996,
+    "rougeL_f": 0.12871287128712874,
+    "meteor": 0.1453022870953532,
+    "bleu1": 0.0932642487046632,
+    "bleu2": 0.022039766226908748,
+    "bleu3": 0.006335684368052965,
+    "bleu4": 0.0034013925002547175,
+    "bertscore_precision": 0.4010981321334839,
+    "bertscore_recall": 0.3886287808418274,
+    "bertscore_f1": 0.3947650194168091
+  }
+}

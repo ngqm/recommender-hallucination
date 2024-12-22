@@ -1,0 +1,80 @@
+{
+  "user_id": "AEQYPBYCXL6IOYDE5UD7MLY5B5KQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2016/01/25\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Judge'], 'Producers': ['Michael Rotenberg', 'Daniel Rappaport'], 'Starring': ['Ron Livingston', 'Jennifer Aniston', 'Stephen Root'], 'Studio': ['The Walt Disney Studios']}\nReview Text: Funny movie\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/06\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nReview Text: Not a horrible movie just not what I expectes. Usually movies with Jason Statham are far more action packed and very good.\nReview Title: Not a horrible movie just not what I expectes\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/03/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'John Patterson', 'Allen Coulter', 'Alan Taylor', 'Henry Bronchtein', 'Jack Bender', 'Steve Buscemi', 'Daniel Attias', 'David Chase', 'Nick Gomez'], 'Producers': ['Allen Coulter', 'Ilene S. Landress', 'Martin Bruestle'], 'Starring': ['James Gandolfini', 'Edie Falco', 'Lorraine Bracco'], 'Studio': ['Discovery Global']}\nReview Text: Great show!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Selma\nReview Date: 2016/08/10\nCategories: Drama, Historical, Philosophical, Powerful\nProduct Description: ['From the Oscar-winning producers of 12 Years a Slave comes a powerful true story starring David Oyelewo and Oprah Winfrey. Facing violent opposition, Martin Luther King, Jr., led a historic march from Selma to Montgomery, changing the world forever.']\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ava DuVernay'], 'Producers': ['Christian Colson', 'Oprah Winfrey', 'Dede Gardner', 'Jeremy Kleiner', 'Brad Pitt', 'Cameron McCraken', 'Diarmuid McKeown', 'Nik Bower', 'Ava DuVernay', 'Paul Garnes', 'Nan Morales'], 'Starring': ['Tom Wilkinson', 'Carmen Ejogo', 'Giovanni Ribisi']}\nReview Text: Good movie.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/10/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Lawrence Bender'], 'Starring': ['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox'], 'Studio': ['Miramax', 'LLC']}\nReview Text: Great movie!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Judge'], 'Producers': ['Michael Rotenberg', 'Daniel Rappaport'], 'Starring': ['Ron Livingston', 'Jennifer Aniston', 'Stephen Root'], 'Studio': ['The Walt Disney Studios']}\nFunny movie\nFour Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nNot a horrible movie just not what I expectes. Usually movies with Jason Statham are far more action packed and very good.\nNot a horrible movie just not what I expectes\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'John Patterson', 'Allen Coulter', 'Alan Taylor', 'Henry Bronchtein', 'Jack Bender', 'Steve Buscemi', 'Daniel Attias', 'David Chase', 'Nick Gomez'], 'Producers': ['Allen Coulter', 'Ilene S. Landress', 'Martin Bruestle'], 'Starring': ['James Gandolfini', 'Edie Falco', 'Lorraine Bracco'], 'Studio': ['Discovery Global']}\nGreat show!\nFive Stars\nSelma\nDrama, Historical, Philosophical, Powerful\n['From the Oscar-winning producers of 12 Years a Slave comes a powerful true story starring David Oyelewo and Oprah Winfrey. Facing violent opposition, Martin Luther King, Jr., led a historic march from Selma to Montgomery, changing the world forever.']\n{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ava DuVernay'], 'Producers': ['Christian Colson', 'Oprah Winfrey', 'Dede Gardner', 'Jeremy Kleiner', 'Brad Pitt', 'Cameron McCraken', 'Diarmuid McKeown', 'Nik Bower', 'Ava DuVernay', 'Paul Garnes', 'Nan Morales'], 'Starring': ['Tom Wilkinson', 'Carmen Ejogo', 'Giovanni Ribisi']}\nGood movie.\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Lawrence Bender'], 'Starring': ['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox'], 'Studio': ['Miramax', 'LLC']}\nGreat movie!\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2016/01/25\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Judge'], 'Producers': ['Michael Rotenberg', 'Daniel Rappaport'], 'Starring': ['Ron Livingston', 'Jennifer Aniston', 'Stephen Root'], 'Studio': ['The Walt Disney Studios']}\nReview Text: Funny movie\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/06\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon West'], 'Producers': ['Steve Chasman'], 'Starring': ['Jason Statham', 'Stanley Tucci', 'Sofia Vergara'], 'Studio': ['Lionsgate']}\nReview Text: Not a horrible movie just not what I expectes. Usually movies with Jason Statham are far more action packed and very good.\nReview Title: Not a horrible movie just not what I expectes\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/03/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'John Patterson', 'Allen Coulter', 'Alan Taylor', 'Henry Bronchtein', 'Jack Bender', 'Steve Buscemi', 'Daniel Attias', 'David Chase', 'Nick Gomez'], 'Producers': ['Allen Coulter', 'Ilene S. Landress', 'Martin Bruestle'], 'Starring': ['James Gandolfini', 'Edie Falco', 'Lorraine Bracco'], 'Studio': ['Discovery Global']}\nReview Text: Great show!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Selma\nReview Date: 2016/08/10\nCategories: Drama, Historical, Philosophical, Powerful\nProduct Description: ['From the Oscar-winning producers of 12 Years a Slave comes a powerful true story starring David Oyelewo and Oprah Winfrey. Facing violent opposition, Martin Luther King, Jr., led a historic march from Selma to Montgomery, changing the world forever.']\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ava DuVernay'], 'Producers': ['Christian Colson', 'Oprah Winfrey', 'Dede Gardner', 'Jeremy Kleiner', 'Brad Pitt', 'Cameron McCraken', 'Diarmuid McKeown', 'Nik Bower', 'Ava DuVernay', 'Paul Garnes', 'Nan Morales'], 'Starring': ['Tom Wilkinson', 'Carmen Ejogo', 'Giovanni Ribisi']}\nReview Text: Good movie.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/10/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Lawrence Bender'], 'Starring': ['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox'], 'Studio': ['Miramax', 'LLC']}\nReview Text: Great movie!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe analyzed purchase history reveals a strong preference for high-quality, engaging films across various genres, particularly those that blend humor, drama, and historical narratives. The individual consistently rates movies highly, typically between 4.0 and 5.0, indicating a clear appreciation for well-crafted storytelling and production quality. \n\nCommon themes in the selected movies include elements of violence, substance use, and mature content, suggesting a tolerance for darker or more intense themes in entertainment. Additionally, films featuring notable actors and directors tend to receive higher ratings, hinting at a preference for star power and industry recognition.\n\nThe person exhibits moderate price sensitivity, showing willingness to invest in acclaimed productions while maintaining an expectation for value, as reflected in their varied ratings. When disappointments occur, they express them with constructive criticism, indicating a discerning viewing approach rather than reckless consumption.\n\nOverall, core preferences center around enjoying impactful narratives, particularly those that are humor-driven or rooted in significant historical events, while maintaining a focus on high-quality production and a discerning evaluation of content quality.",
+  "target_interaction": {
+    "rating": 4.0,
+    "title": "Four Stars",
+    "text": "Coven was pretty good. Very shocking scenes. I wasn't ready...",
+    "images": [],
+    "asin": "B00FRASL54",
+    "parent_asin": "B00FRASL54",
+    "user_id": "AEQYPBYCXL6IOYDE5UD7MLY5B5KQ",
+    "timestamp": "2016-12-17 00:52:31",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 7831,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f71482996e6f9d99cca32d71fe9ac2908a42c2702ea0f26eb29f686c3023c573._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "frightening scenes",
+        "substance use",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Bradley Buecker",
+        "Alfonso Gomez-Rejon",
+        "Michael Uppendahl",
+        "Loni Peristere",
+        "John J. Gray",
+        "Jennifer Lynch",
+        "Gwyneth Horder-Payton",
+        "Michael Goi",
+        "Ryan Murphy",
+        "Michael Lehmann"
+      ],
+      "Starring": [
+        "Evan Peters",
+        "Sarah Paulson",
+        "Denis O'Hare"
+      ],
+      "Studio": [
+        "FX"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

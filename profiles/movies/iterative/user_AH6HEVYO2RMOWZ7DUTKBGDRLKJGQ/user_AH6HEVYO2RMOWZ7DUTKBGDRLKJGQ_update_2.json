@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/07/14\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['F. Gary Gray'], 'Producers': ['Dr. Dre', 'Ice Cube', 'Tomica Woods-Wright', 'Matt Alvarez', 'F. Gary Gray', 'Scott Bernstein'], 'Starring': [\"O'Shea Jackson\", 'Jr.', 'Corey Hawkins', 'Jason Mitchell'], 'Studio': ['Universal Pictures']}\nReview Text: Awesome movie!\nReview Title: Terrific!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Laure de Clermont-Tonnerre'], 'Producers': ['Ilan Goldman'], 'Starring': ['Matthias Schoenaerts', 'Jason Mitchell', 'Gideon Adlon'], 'Studio': ['Universal Pictures']}\nAmazing movie\nAwesome!\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['F. Gary Gray'], 'Producers': ['Dr. Dre', 'Ice Cube', 'Tomica Woods-Wright', 'Matt Alvarez', 'F. Gary Gray', 'Scott Bernstein'], 'Starring': [\"O'Shea Jackson\", 'Jr.', 'Corey Hawkins', 'Jason Mitchell'], 'Studio': ['Universal Pictures']}\nAwesome movie!\nTerrific!",
+  "profile": "**Updated User Profile Summary:**\n\n- **Rating Trend**: Generally positive reviewer, consistently giving high ratings, now with an average of 4.7.\n- **Content Preferences**: Enjoys movies with complex themes and narratives, indicated by a preference for mature content that includes nudity, violence, and strong language. Recent interaction highlights a strong appreciation for cinematic storytelling.\n- **Engagement with Cinema**: Values high-quality production and character-driven stories, as reflected in enthusiastic reviews. The latest review, titled \"Terrific!\" emphasizes a standout viewing experience with an excellent rating of 5.0.\n- **Language Preferences**: Prefers content available in English, including original language and audio description formats, with attention to accessibility. The latest interaction shows a preference for enhanced dialogue options.\n- **Genres**: Likely enjoys dramatic and action-oriented films, as suggested by previous reviews, with a specific interest in the interplay of character complexity and emotional depth.\n- **Director and Producer Appreciation**: Demonstrates a tendency to appreciate the work of specific directors and producers, as illustrated by recent purchases, indicating a loyalty to the creative talents behind the films.\n\nThis summary captures the user's refined taste and engagement with the cinematic landscape, highlighting a consistent preference for quality storytelling within mature-themed films.",
+  "metrics": {
+    "rouge1_f": 0.12881355932203392,
+    "rouge2_f": 0.0136518771331058,
+    "rougeL_f": 0.08813559322033898,
+    "meteor": 0.08808417478330806,
+    "bleu1": 0.12451361867704282,
+    "bleu2": 0.022054054569561547,
+    "bleu3": 0.005756328494975283,
+    "bleu4": 0.0029437488048804825,
+    "bertscore_precision": 0.37830454111099243,
+    "bertscore_recall": 0.36061418056488037,
+    "bertscore_f1": 0.36924758553504944
+  }
+}

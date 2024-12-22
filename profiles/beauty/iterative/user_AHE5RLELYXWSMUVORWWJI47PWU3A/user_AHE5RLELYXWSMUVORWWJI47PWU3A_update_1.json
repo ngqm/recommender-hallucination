@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Murray & Lanman Florida Water Plastic Bottle 7.5 oz\nReview Date: 2013/05/18\nStore: Murray & Lanman\nProduct Description: ['The enduring popularity of world-famous Florida Water is due to its wonderful light floral scent with lemon overtones. Unchanged since 1808, this revitalizing scent is used as an invigorating splash, aftershave, or fragrant addition to the bath. For more than 200 years men and women have loved the Florida Water scent, named for the Fountain of Youth.']\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Murray & Lanman', 'Item Form': 'Liquid', 'Item Volume': '221 Milliliters', 'Scent': 'Florida Water', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 2 x 1 inches; 7.8 Ounces', 'Item model number': '0076690000149', 'Department': 'Health & Beauty', 'UPC': '076690000149 885662210413', 'Manufacturer': 'Atlas Ethnic'}\nReview Text: If you like bay rum, then you'll like Florida Water. If you don't like bay rum after a hot shave then something is wrong with you. Turn in your man card immediately.\nReview Title: You either love it or hate it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Murray & Lanman Florida Water Plastic Bottle 7.5 oz\nMurray & Lanman\n['The enduring popularity of world-famous Florida Water is due to its wonderful light floral scent with lemon overtones. Unchanged since 1808, this revitalizing scent is used as an invigorating splash, aftershave, or fragrant addition to the bath. For more than 200 years men and women have loved the Florida Water scent, named for the Fountain of Youth.']\n{'Brand': 'Murray & Lanman', 'Item Form': 'Liquid', 'Item Volume': '221 Milliliters', 'Scent': 'Florida Water', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 2 x 1 inches; 7.8 Ounces', 'Item model number': '0076690000149', 'Department': 'Health & Beauty', 'UPC': '076690000149 885662210413', 'Manufacturer': 'Atlas Ethnic'}\nIf you like bay rum, then you'll like Florida Water. If you don't like bay rum after a hot shave then something is wrong with you. Turn in your man card immediately.\nYou either love it or hate it",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** Enjoys classic, invigorating scents, particularly floral and citrus notes. Strongly associates fragrance with personal care routines (e.g., aftershave).\n- **Scent Types:** Favorable towards traditional, timeless fragrances, notably bay rum and similar scents.\n- **Personal Care Rituals:** Likely engages in grooming practices, especially shaving, and considers fragrance an essential component.\n- **Demographic Tendency:** Appears to align with adult interests, particularly in health and beauty products. \n- **Review Style:** Provides candid and humorous commentary reflecting strong opinions on fragrance experiences.\n- **Brand Loyalty:** Shows a leaning towards well-established brands known for heritage and consistent product quality. \n- **Product Satisfaction:** High satisfaction level with products that have a significant reputation and positive historical context.\n\nOverall, this user exhibits a preference for traditional, high-quality personal care items with a humor-driven perspective on grooming culture.",
+  "metrics": {
+    "rouge1_f": 0.18750000000000003,
+    "rouge2_f": 0.006993006993006993,
+    "rougeL_f": 0.07638888888888888,
+    "meteor": 0.1285472247816891,
+    "bleu1": 0.18507547352145778,
+    "bleu2": 0.05019128309928496,
+    "bleu3": 0.010473503530619651,
+    "bleu4": 0.00479054507971279,
+    "bertscore_precision": 0.40447935461997986,
+    "bertscore_recall": 0.451121062040329,
+    "bertscore_f1": 0.4265289306640625
+  }
+}

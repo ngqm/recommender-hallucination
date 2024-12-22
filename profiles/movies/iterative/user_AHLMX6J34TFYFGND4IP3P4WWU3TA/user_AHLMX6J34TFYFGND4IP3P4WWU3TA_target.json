@@ -1,0 +1,74 @@
+{
+  "interaction_number": 14,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/09/11\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Quentin Tarantino', 'Lawrence Bender'], 'Starring': ['Bo Svenson', 'Michael Madsen', 'Tim Roth'], 'Studio': ['WEINSTEIN COMPANY']}\nReview Text: We really liked this statement movie. It was violent as all his movies are.\nReview Title: Really good statement movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Fawcett', 'David Frazee', 'TJ Scott', 'Brett Sullivan', 'Ken Girotti'], 'Producers': ['John Fawcett', 'David Fortier', 'Ivan Schneeberg', 'Graeme Manson'], 'Starring': ['Tatiana Maslany', 'Jordan Gavaris', 'Maria Doyle Kennedy'], 'Studio': ['BBC America']}\nVery different and interesting storyline...really like the good development of the various characters.\nExcellent and Addictive Series!\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Fred Schepisi'], 'Producers': ['Curtis Burch', 'Gerald Di Pego'], 'Starring': ['Clive Owen', 'Juliette Binoche', 'Bruce Davison'], 'Studio': ['Roadside Attractions']}\nI really enjoyed this movie...Clive Owen and his co-star made a really good match.  I loved seeing the challenges they had to face and how they dealt with them.\nHighly Recommend!\nEscobar: Paradise Lost\nSuspense, Historical, Compelling, Passionate\n['In Colombia, a young surfer meets the woman of his dreams - and then he meets her uncle, Pablo Escobar.']\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Subtitles': ['None available'], 'Directors': ['Andrea Di Stefano'], 'Producers': ['Dimitri Rassam'], 'Starring': ['Benicio Del Toro', 'Josh Hutcherson', 'Claudia Traisac']}\nPablo Escobar on Netflix (an original movie) is soooo much better.  The movie on Amazon is trash!\nWatch the original series of Pablo Escobar on Netflix - the one on Amazon is trash!\nBetter Call Saul\nComedy, Drama\n['Better Call Saul is the prequel to the award-winning series Breaking Bad, set six years before Saul Goodman (Bob Odenkirk) became Walter White\\'s lawyer. When we meet him, the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and often against, Jimmy is \"fixer\" Mike Erhm...']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vince Gilligan', 'Thomas Schnauz', 'Peter Gould', 'Michael Morris', 'Adam Bernstein', 'Michelle MacLaren', 'Colin Bucksey', 'John Shiban', 'Larysa Kondracki', 'Terry McDonough'], 'Producers': ['Melissa Bernstein', 'Mark Johnson', 'Vince Gilligan', 'Peter Gould']}\nWe love this show.  Surprise, surprise, Saul is actually a good guy.  Great plot twists!  Can wait for the second seasons!\nAwesome show with great plot twists!!\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Long', 'Daniel Sackheim', 'Thomas Schlamme', 'Daniel Attias', 'Stefan Schwartz', 'Kevin Dowling', 'Nicole Kassell', 'Adam Arkin', 'Noah Emmerich', 'Matthew Rhys'], 'Starring': ['Keri Russell', 'Matthew Rhys', 'Lev Gorn'], 'Studio': ['FX']}\nMy Husband binge watches this series.  It's that good.\nBe Prepared to become addicted!!\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium', 'English Dialogue Boost: Low', 'Italiano', '\ud55c\uad6d\uc5b4', '\u65e5\u672c\u8a9e', '\u0627\u0644\u0639\u0631\u0628\u064a\u0629', 'Portugu\u00eas', 'Nederlands', 'Deutsch', '\u0420\u0443\u0441\u0441\u043a\u0438\u0439', '\u0939\u093f\u0928\u094d\u0926\u0940', 'Espa\u00f1ol (Espa\u00f1a)', 'Indonesia', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Polski', 'T\u00fcrk\u00e7e', '\u4e2d\u6587\uff08\u53f0\u7063\uff09', '\u4e2d\u6587\uff08\u4e2d\u56fd\uff09', 'Fran\u00e7ais'], 'Subtitles': ['English [CC]', '\u0627\u0644\u0639\u0631\u0628\u064a\u0629', 'Deutsch', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Espa\u00f1ol (Espa\u00f1a)', 'Fran\u00e7ais', '\u0939\u093f\u0928\u094d\u0926\u0940', 'Indonesia', 'Italiano', '\u65e5\u672c\u8a9e', '\ud55c\uad6d\uc5b4', 'Nederlands', 'Polski', 'Portugu\u00eas', '\u0420\u0443\u0441\u0441\u043a\u0438\u0439', 'T\u00fcrk\u00e7e', '\u4e2d\u6587\uff08\u7b80\u4f53\uff09', '\u4e2d\u6587\uff08\u7e41\u9ad4\uff09'], 'Directors': ['Luke Matheny', 'Ryan Shiraki', 'Sasie Sealy', 'Paul Hoen', 'J.J. Johnson', 'Alethea Jones'], 'Producers': ['Luke Matheny', 'David Anaxagoras', 'Laurie Parres', 'Eric D. Wasserman', 'Richard G. King', 'Sarah Yang', 'William Klug'], 'Starring': ['Sloane Morgan Siegel', 'Ashley Boettcher', 'Drew Justice'], 'Studio': ['Amazon Studios']}\nMy 10 year old grandson just loves this show.  Great and creative story lines.\nGreat Show for young and old!!\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sydney Pollack'], 'Producers': ['Anna Cataldi', 'Terence A. Clegg', 'Kim Jorgensen', 'Sydney Pollack', 'Judith Thurman'], 'Starring': ['Robert Redford', 'Meryl Streep', 'Klaus Maria Brandauer'], 'Studio': ['Universal City Studios Product']}\nLovely movie and Love story!\nLovely move and love story!!\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium', 'Espa\u00f1ol', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch', 'Espa\u00f1ol'], 'Directors': ['Alex Zakrzewski', 'Ernest R. Dickerson', 'Patrick Cady', 'Aaron Lipstadt', 'Kevin Dowling', 'Adam Davidson', 'Daisy von Scherler Mayer', 'Tim Hunter', 'Christine Moore', 'Zetna Fuentes'], 'Producers': ['Eric Overmyer', 'Michael Connelly', 'Henrik Bastin', 'Pieter Jan Brugge'], 'Starring': ['\u30bf\u30a4\u30bf\u30b9\u30fb\u30a6\u30a7\u30ea\u30d0\u30fc', '\u30b8\u30a7\u30a4\u30df\u30fc\u30fb\u3078\u30af\u30bf\u30fc', '\u30a8\u30a4\u30df\u30fc\u30fb\u30a2\u30ad\u30ce']}\nAn excellent show as usual!!\nExcellent Show par Michael Connelly!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Cassar', 'Milan Cheylov', 'Adam Kane', 'Omar Madha'], 'Producers': ['Jon Cassar', 'Robert Cochran', 'Ashley Contino', 'Manny Coto', 'David Fury', 'Howard Gordon', 'Brian Grazer'], 'Studio': ['FOX']}\nYou just can't beat this combination of great actors/actresses and the awesome storylines.  Love this series!\nAwesome characters and storylines!!  Love it!\nKilling the Colorado\nDocumentary, Special Interest\n['The American West is in the midst of a serious drought \u2013 which only compounds the underlying water crisis that stems from overdevelopment, misuse, corruption, and the vagaries of history. Killing the Colorado examines the causes and consequences of our water disaster-in-the-making and proposes some innovative solutions.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nSome pretty straightforward scary info about the dry west and it's dwindling resources.  A must watch show!!\nA Must Watch Show!!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Ethan Coen'], 'Producers': ['Ethan Coen', 'Joel Coen', 'Scott Rudin', 'David Ellison', 'Megan Ellison', 'Robert Graf', 'Paul Schwake', 'Steven Spielberg'], 'Starring': ['Jeff Bridges', 'Matt Damon', 'Josh Brolin'], 'Studio': ['Paramount Pictures Corp.']}\nWe love this show and have watched it twice!\nLove this show!!!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Kathleen Kennedy', 'Frank Marshall'], 'Starring': ['Christian Bale', 'John Malkovich', 'Miranda Richardson'], 'Studio': ['WARNER BROS.']}\nGreat show!  Beautifully researched and executed.\nYes!!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Destin Daniel Cretton'], 'Producers': ['Gil Netter', 'Asher Goldstein', 'Michael B. Jordan'], 'Starring': ['Michael B. Jordan', 'Jamie Foxx', 'Brie Larson'], 'Studio': ['WARNER BROS.']}\nGreat great movie!!\nMust see movie!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Quentin Tarantino', 'Lawrence Bender'], 'Starring': ['Bo Svenson', 'Michael Madsen', 'Tim Roth'], 'Studio': ['WEINSTEIN COMPANY']}\nWe really liked this statement movie. It was violent as all his movies are.\nReally good statement movie",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Really good statement movie",
+    "text": "We really liked this statement movie. It was violent as all his movies are.",
+    "images": [],
+    "asin": "B002YCVWXQ",
+    "parent_asin": "B002YCVWXQ",
+    "user_id": "AHLMX6J34TFYFGND4IP3P4WWU3TA",
+    "timestamp": "2021-09-11 18:07:15.520000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.8,
+    "rating_number": 22299,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f749bebd824a344a5a664c5607185032ec728997d1e546a1217da68ad6e545c._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: High",
+        "English",
+        "English [Audio Description]",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Quentin Tarantino"
+      ],
+      "Producers": [
+        "Quentin Tarantino",
+        "Lawrence Bender"
+      ],
+      "Starring": [
+        "Bo Svenson",
+        "Michael Madsen",
+        "Tim Roth"
+      ],
+      "Studio": [
+        "WEINSTEIN COMPANY"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

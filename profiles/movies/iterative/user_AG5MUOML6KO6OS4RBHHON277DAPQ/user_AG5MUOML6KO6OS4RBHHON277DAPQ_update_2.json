@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/03/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby']}\nReview Text: I did not care for this show at all. Looks more like a show for teenagers. Rather silly in my opinion.\nReview Title: Thumbs Down\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "The Snow Walker\nDrama, Arthouse, Compelling, Electrifying\n[\"When the plane carrying Charlie Halliday, a maverick bush pilot and a sick, young, Inuit woman crashes hundreds of miles from civilization, they are at the mercy of nature's worst.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Martin Smith'], 'Producers': ['Rob Merilees', 'William Vince'], 'Starring': ['Barry Pepper', 'Annabella Piugattuk', 'James Cromwell']}\nVery good movie of survival...I thoroughly enjoyed it!!! Also, how a person goes from being self centered to caring for another.\nThumbs up \ud83d\udc4d\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby']}\nI did not care for this show at all. Looks more like a show for teenagers. Rather silly in my opinion.\nThumbs Down",
+  "profile": "**User Summary:**\n\nThe user has a strong preference for dramatic and compelling narratives, particularly those that explore themes of survival and personal transformation. Their positive review of a film indicates a fondness for stories set in challenging environments, highlighting an interest in character development and emotional depth. They value character evolution from self-centeredness to empathy and seek quality content that resonates emotionally, as reflected in their previous 4.0 rating which suggests discernment in content selection.\n\nHowever, a recent interaction reveals a shift in their viewing preferences, demonstrating a clear aversion to lighter, possibly young adult-oriented material, rating one such show a low 1.0. They described it as \"silly\" and more suited for teenagers, indicating that they prefer narratives that engage them intellectually and emotionally, and may view less serious content as lacking substance. \n\nOverall, the user\u2019s profile indicates a strong inclination towards arthouse cinema and stories that deliver electrifying experiences grounded in human connection and resilience, while also emphasizing a growing need for narrative maturity and depth, rejecting content that fails to align with these values.",
+  "metrics": {
+    "rouge1_f": 0.191044776119403,
+    "rouge2_f": 0.012012012012012012,
+    "rougeL_f": 0.0955223880597015,
+    "meteor": 0.0954829232464194,
+    "bleu1": 0.14832837842013788,
+    "bleu2": 0.038826735057802576,
+    "bleu3": 0.008006531791773517,
+    "bleu4": 0.003640346540465194,
+    "bertscore_precision": 0.36186063289642334,
+    "bertscore_recall": 0.396090567111969,
+    "bertscore_f1": 0.3782026767730713
+  }
+}

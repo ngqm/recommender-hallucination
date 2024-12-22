@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/03/26\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Peter Jackson', 'Kathleen Kennedy'], 'Starring': ['Jamie Bell', 'Andy Serkis', 'Simon Pegg'], 'Studio': ['Epix']}\nReview Text: So maybe I'm a child at heart.  Sometimes you really get tired of blood 'n guts etc etc etc.  Sometimes a good ol' cute good guy mean bad guy lots of action adventure is just the thing.  So this is for those times.  I wouldn't mind watching this again.\nReview Title: Happy ending youth oriented, I loved it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Spielberg'], 'Producers': ['Steven Spielberg', 'Peter Jackson', 'Kathleen Kennedy'], 'Starring': ['Jamie Bell', 'Andy Serkis', 'Simon Pegg'], 'Studio': ['Epix']}\nSo maybe I'm a child at heart.  Sometimes you really get tired of blood 'n guts etc etc etc.  Sometimes a good ol' cute good guy mean bad guy lots of action adventure is just the thing.  So this is for those times.  I wouldn't mind watching this again.\nHappy ending youth oriented, I loved it",
+  "profile": "**User Profile Summary:**\n\n- **Genuine Preferences:**\n  - Enjoys heartwarming and adventurous narratives.\n  - Appreciates content with clear distinctions between good and evil (hero vs. villain dynamics).\n  - Values positive, light-hearted themes, especially those with a happy ending.\n  - Exhibits a preference for youth-oriented content, indicating a nostalgic connection to childhood themes.\n\n- **Behavior Patterns:**\n  - Tends to rate media products highly, as evidenced by an average rating of 4.7, suggesting a tendency to seek out and enjoy quality entertainment.\n  - Shows a disinterest in graphic or excessively violent content, preferring action-adventure that balances excitement with wholesome elements.\n  - Possesses an affinity for well-crafted storytelling, particularly from renowned directors and producers, indicating appreciation for high production values.\n\n- **Interaction Insights:**\n  - Reflects a playful and lighthearted approach to entertainment preferences, often returning to familiar, comforting themes from childhood.\n  - Displays a willingness to revisit enjoyable experiences, as highlighted by the likelihood of watching supportive and entertaining content repeatedly. \n\nOverall, this user is drawn to engaging and uplifting narratives that evoke nostalgia while maintaining accessibility and appeal for broader audiences.",
+  "metrics": {
+    "rouge1_f": 0.15849056603773584,
+    "rouge2_f": 0.022813688212927757,
+    "rougeL_f": 0.07547169811320756,
+    "meteor": 0.11754902644024981,
+    "bleu1": 0.14864864864864866,
+    "bleu2": 0.008201331109503772,
+    "bleu3": 0.0031269096802601856,
+    "bleu4": 0.0019329716034475416,
+    "bertscore_precision": 0.39750322699546814,
+    "bertscore_recall": 0.3809533715248108,
+    "bertscore_f1": 0.3890523910522461
+  }
+}

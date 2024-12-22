@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/05/29\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Producers': ['Rudd Simmons', 'Terence Winter', 'Martin Scorsese', 'Tim Van Patten', 'Stephen Levinson', 'Mark Wahlberg'], 'Starring': ['Steve Buscemi', 'Michael Pitt', 'Kelly Macdonald'], 'Studio': ['HBO']}\nReview Text: The best New Jersey has to offer. Always wondered why New Jersey had the best road in the northeast.The Parkway was the best<br />example.\nReview Title: The best.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Producers': ['Rudd Simmons', 'Terence Winter', 'Martin Scorsese', 'Tim Van Patten', 'Stephen Levinson', 'Mark Wahlberg'], 'Starring': ['Steve Buscemi', 'Michael Pitt', 'Kelly Macdonald'], 'Studio': ['HBO']}\nThe best New Jersey has to offer. Always wondered why New Jersey had the best road in the northeast.The Parkway was the best<br />example.\nThe best.",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user appreciates content that features mature themes, including nudity, violence, and substance use. They seem to gravitate towards productions with substantial narrative depth and intricate character development.\n\n- **Artistic Appreciation:** The user shows a preference for works directed by notable filmmakers and produced by reputable studios, indicating an appreciation for high-quality cinematography and storytelling.\n\n- **Regional Interest:** The user has a particular affinity for narratives connected to New Jersey, highlighting a possible interest in regional stories or settings, especially those depicting authentic local culture.\n\n- **Rating Trends:** Generally, the user rates content positively, indicating a discerning yet appreciative taste, likely leaning towards shows or films that offer a compelling viewing experience.\n\n- **Communication Style:** Their review reflects a concise and straightforward communication style, showcasing a blend of enthusiasm and clarity in expressing their opinions.\n\nOverall, the user appears to be a discerning viewer who values quality storytelling, mature content, and regional relevance, while maintaining an engaging and positive dialogue about their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.1467181467181467,
+    "rouge2_f": 0.023346303501945522,
+    "rougeL_f": 0.11583011583011583,
+    "meteor": 0.10219915512501296,
+    "bleu1": 0.1583710407239819,
+    "bleu2": 0.026830362780387258,
+    "bleu3": 0.006901386102979353,
+    "bleu4": 0.0035041938279447597,
+    "bertscore_precision": 0.3828451633453369,
+    "bertscore_recall": 0.3715096414089203,
+    "bertscore_f1": 0.37709224224090576
+  }
+}

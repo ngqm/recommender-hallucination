@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: THICK Chevron Nail Stickers - Chevron Nail Art (Pretty in Pink)\nReview Date: 2014/08/18\nAverage Rating: 2.8\nProduct Details: {}\nReview Text: Work great I use them as guides but they would stick really well as the decoration on nails too!\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BMC 8 Sheet Temporary Nail Art Tattoo Effects Hydroplaning Water Transfer Stickers Decals Set - Fashion Beasts\nb.m.c\n{'Package Dimensions': '4.72 x 3.94 x 0.12 inches; 0.71 Ounces', 'Item model number': '700580463874', 'UPC': '700580463874', 'Manufacturer': 'Bundle Monster'}\nThese works like a dream the colors are vibrant also. This are an easy way to make a statement with your nails without too much work\nSo pretty\nZig Zag Nail Stickers - SINGLE Style Chevron Nail Stickers - Chevron Nail Art (Classic Black)\n{}\nWork great I use them as guides but they would stick really well as the decoration on nails too!\nNice!\nTHICK Chevron Nail Stickers - Chevron Nail Art (Pretty in Pink)\n{}\nWork great I use them as guides but they would stick really well as the decoration on nails too!\nNice",
+  "profile": "**User Profile Summary:**\n\n- **Genuine Preferences:** The user continues to favor vibrant, user-friendly nail art products that enable easy creation of visually appealing designs. They show a strong interest in multifunctional items that serve as both guides and decorative elements.\n\n- **Trends:** \n  - Appreciates decorative items that enhance personal style while being practical and easy to use.\n  - Values effectiveness and simplicity in application, highlighting a preference for products that offer versatility.\n  - Prioritizes aesthetics, demonstrating a focus on color vibrancy and artistic appeal.\n\n- **Behavior Patterns:** \n  - Recently showcased satisfaction with products that serve as both functional guides and decorations, indicating a preference for innovative tools that enhance the nail art experience.\n  - Engages positively with products that meet or exceed expectations, indicating a strong inclination to leave favorable feedback when quality aligns with their preferences.\n  - Continues to embrace creativity and fun in personal grooming, emphasizing a desire for stylish yet uncomplicated self-expression. \n\nOverall, the user prioritizes a blend of beauty, simplicity, and creativity in their nail art choices, reflecting a commitment to stylish personal care products that enable effortless self-expression. The recent interaction further reinforces their appreciation for products that fulfill dual roles in their nail art routine.",
+  "metrics": {
+    "rouge1_f": 0.18237082066869303,
+    "rouge2_f": 0.018348623853211007,
+    "rougeL_f": 0.09118541033434652,
+    "meteor": 0.14325308898854713,
+    "bleu1": 0.11203319502074686,
+    "bleu2": 0.006832312780114155,
+    "bleu3": 0.0026930589474619187,
+    "bleu4": 0.001692544732222808,
+    "bertscore_precision": 0.4070708155632019,
+    "bertscore_recall": 0.40488338470458984,
+    "bertscore_f1": 0.4059741795063019
+  }
+}

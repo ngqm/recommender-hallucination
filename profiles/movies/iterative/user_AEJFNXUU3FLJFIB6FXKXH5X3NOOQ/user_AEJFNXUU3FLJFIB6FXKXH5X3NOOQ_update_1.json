@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/12/03\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['D.J. Caruso'], 'Producers': ['Joe Roth', 'Jeff Kirschenbaum', 'Vin Diesel', 'Samantha Vincent', 'Vince Totino', 'Scott Hemming', 'Ric Kidney', 'Gloria Borders', 'Zack Roth'], 'Starring': ['Vin Diesel', 'Donnie Yen', 'Deepika Padukone']}\nReview Text: kudos for re-ingniting this bag of turds & accomplishing double douche-bag pre-emptive vomit launch. Everybody justs sleepwalks thru this entire flick. And for Vin before I even cash my check on a mish mash script effectively kills any chance for another sequel for this franchise not that it matters.  This franchise deserved a better send off than this. Makes watching paint dry exciting again. And we have  cgi over kill  and cinema verde' waste of talent.\nReview Title: massive pile of turds doing a double ollie & back flip\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['D.J. Caruso'], 'Producers': ['Joe Roth', 'Jeff Kirschenbaum', 'Vin Diesel', 'Samantha Vincent', 'Vince Totino', 'Scott Hemming', 'Ric Kidney', 'Gloria Borders', 'Zack Roth'], 'Starring': ['Vin Diesel', 'Donnie Yen', 'Deepika Padukone']}\nkudos for re-ingniting this bag of turds & accomplishing double douche-bag pre-emptive vomit launch. Everybody justs sleepwalks thru this entire flick. And for Vin before I even cash my check on a mish mash script effectively kills any chance for another sequel for this franchise not that it matters.  This franchise deserved a better send off than this. Makes watching paint dry exciting again. And we have  cgi over kill  and cinema verde' waste of talent.\nmassive pile of turds doing a double ollie & back flip",
+  "profile": "**User Profile Summary:**\n\n- **Overall Sentiment:** Strongly negative towards poorly executed films; expresses disappointment and frustration with franchise oversight.\n- **Rating Pattern:** Tends to rate media harshly, particularly when expectations are unmet; previous interaction noted an average rating of 4.5, with recent interaction resulting in a lower score of 1.0.\n- **Content Preferences:** Prefers high-quality storytelling and strong character development; critical of clich\u00e9d scripts and excessive reliance on visual effects (e.g., CGI).\n- **Themes:** Disapproves of films featuring excessive violence, poor narration, and lack of originality; appears sensitive to content advisory elements like foul language and sexual content.\n- **Community Engagement:** Engages with media reviews in a sarcastic manner, showcasing a strong opinion on filmmaking quality and franchise integrity.\n- **Franchise Loyalty:** Shows disappointment when beloved franchises do not meet expectations; values a satisfying conclusion to narratives. \n\nThis profile reflects a discerning viewer who prioritizes quality and meaningful engagement with media, discouraging superficial or poorly crafted content.",
+  "metrics": {
+    "rouge1_f": 0.17747440273037543,
+    "rouge2_f": 0.02061855670103093,
+    "rougeL_f": 0.08191126279863482,
+    "meteor": 0.10285179990649836,
+    "bleu1": 0.16354960504308821,
+    "bleu2": 0.027710052509959043,
+    "bleu3": 0.007128274799287624,
+    "bleu4": 0.0036197099055311757,
+    "bertscore_precision": 0.384014368057251,
+    "bertscore_recall": 0.3979771137237549,
+    "bertscore_f1": 0.3908710777759552
+  }
+}

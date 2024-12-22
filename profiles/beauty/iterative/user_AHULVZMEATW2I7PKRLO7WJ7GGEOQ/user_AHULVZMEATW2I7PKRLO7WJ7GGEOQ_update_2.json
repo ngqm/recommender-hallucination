@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MAKE-UP FOR YOU BB Cream Concealer Brush, Pink\nReview Date: 2016/12/22\nStore: MAKE-UP FOR YOU\nAverage Rating: 3.3\nProduct Details: {'Brand': 'MAKE-UP FOR YOU', 'Recommended Uses For Product': 'For Concealing', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Package Dimensions': '4.7 x 1.4 x 1.4 inches; 4.64 Ounces', 'Item model number': 'ytd48', 'UPC': '601913494704'}\nReview Text: This brush is amazing for foundation!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "MAKE-UP FOR YOU BB Cream Concealer Brush, Pink\nMAKE-UP FOR YOU\n{'Brand': 'MAKE-UP FOR YOU', 'Recommended Uses For Product': 'For Concealing', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Package Dimensions': '4.7 x 1.4 x 1.4 inches; 4.64 Ounces', 'Item model number': 'ytd48', 'UPC': '601913494704'}\nThis brush is amazing for foundation!\nFive Stars\nMAKE-UP FOR YOU BB Cream Concealer Brush, Pink\nMAKE-UP FOR YOU\n{'Brand': 'MAKE-UP FOR YOU', 'Recommended Uses For Product': 'For Concealing', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Package Dimensions': '4.7 x 1.4 x 1.4 inches; 4.64 Ounces', 'Item model number': 'ytd48', 'UPC': '601913494704'}\nThis brush is amazing for foundation!\nFive Stars",
+  "profile": "### Updated User Profile Summary\n\n**Key Preferences:**\n- Highly values makeup application tools, particularly brushes designed for both foundation and concealing.\n- Emphasizes quality and effectiveness, as shown by consistently high ratings for brushes that meet expectations.\n- Prefers versatile products that cater to various skin types, reinforcing an interest in inclusive beauty solutions.\n\n**Behavior Patterns:**\n- Engages with brands that prioritize functionality and user experience, aligning with a focus on products that enhance the makeup application process.\n- Rates purchases significantly when they deliver outstanding results, indicating a discerning approach to beauty tools.\n- Shows a strong affinity for aesthetically pleasing designs, such as appealing colors in product choices.\n\n**Overall Trends:**\n- Reflects a tendency to explore additional makeup-related tools that promise a flawless finish, reinforcing a commitment to an effective beauty routine.\n- Recent interactions highlight a satisfaction with effective products, further establishing a trend towards high-performing tools that simplify application. \n\nThis updated profile suggests a passionate user dedicated to seeking out quality makeup tools that enhance both their experience and results in their beauty routine.",
+  "metrics": {
+    "rouge1_f": 0.08414239482200647,
+    "rouge2_f": 0.006514657980456026,
+    "rougeL_f": 0.06472491909385114,
+    "meteor": 0.06614963503649635,
+    "bleu1": 0.06813447707637085,
+    "bleu2": 0.005576324010963912,
+    "bleu3": 0.0024249125341366876,
+    "bleu4": 0.001600989079189395,
+    "bertscore_precision": 0.3476249575614929,
+    "bertscore_recall": 0.3615196943283081,
+    "bertscore_f1": 0.3544361889362335
+  }
+}

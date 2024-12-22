@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/07/24\nAverage Rating: 3.6\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Lutter'], 'Producers': ['Jeremy Lutter', 'Jocelyn Russell'], 'Starring': ['Jessica McLeod', 'Hannah Cheramy', 'John Emmet Tracy']}\nReview Text: Very slow movie\nReview Title: Slow\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Lutter'], 'Producers': ['Jeremy Lutter', 'Jocelyn Russell'], 'Starring': ['Jessica McLeod', 'Hannah Cheramy', 'John Emmet Tracy']}\nVery slow movie\nSlow",
+  "profile": "**User Summary:**\n\n- **Rating Tendencies:** Generally provides moderate to low ratings (average rating of 3.6), indicating a critical perspective on products.\n  \n- **Content Preferences:** Prefers content that is dynamic and engaging, as evidenced by the negative feedback on a slow-paced movie. Likely to be sensitive to pacing and storytelling effectiveness.\n\n- **Content Sensitivity:** Shows an awareness of content advisories, suggesting a preference for media that avoids extreme violence, substance use, or overt sexual content.\n\n- **Language and Accessibility:** Values English audio and subtitles, indicating a need for clear comprehension and accessibility in content consumption.\n\n- **Overall Critical Viewpoint:** Tends to express dissatisfaction when media does not meet personal expectations, particularly regarding storytelling and engagement. \n\nThis initial profile suggests the user favors fast-paced, well-crafted entertainment while being discerning about content quality and appropriateness.",
+  "metrics": {
+    "rouge1_f": 0.15476190476190477,
+    "rouge2_f": 0.03614457831325302,
+    "rougeL_f": 0.11904761904761904,
+    "meteor": 0.09605662285136503,
+    "bleu1": 0.09497206703910616,
+    "bleu2": 0.00730445712166171,
+    "bleu3": 0.003112200302400093,
+    "bleu4": 0.0020343350816812516,
+    "bertscore_precision": 0.40718740224838257,
+    "bertscore_recall": 0.3449336290359497,
+    "bertscore_f1": 0.3734841048717499
+  }
+}

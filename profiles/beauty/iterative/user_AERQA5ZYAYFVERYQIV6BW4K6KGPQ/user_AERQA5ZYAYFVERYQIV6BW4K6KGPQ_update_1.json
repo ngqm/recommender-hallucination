@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JIMIRE Extra Powerful Gel Remover with Brush Applicator for Professional Eyelash Extensions | Quick & Gentle Remove Adhesive in 60s with No Fume | Easy & Convenient to Use | 10 ml\nReview Date: 2019/12/14\nStore: JIMIRE\nAverage Rating: 3.1\nProduct Details: {'Package Dimensions': '5.12 x 1.42 x 0.67 inches; 1.41 Ounces', 'UPC': '732376371056'}\nReview Text: It removes the lashes very quickly and gently!The gel pen is easy to control the amount and the brush is so soft.A must buy!!\nReview Title: Very effective\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JIMIRE Extra Powerful Gel Remover with Brush Applicator for Professional Eyelash Extensions | Quick & Gentle Remove Adhesive in 60s with No Fume | Easy & Convenient to Use | 10 ml\nJIMIRE\n{'Package Dimensions': '5.12 x 1.42 x 0.67 inches; 1.41 Ounces', 'UPC': '732376371056'}\nIt removes the lashes very quickly and gently!The gel pen is easy to control the amount and the brush is so soft.A must buy!!\nVery effective",
+  "profile": "**User Profile Summary:**\n\n**Preferences:**\n- Values efficiency in beauty products (quick results).\n- Seeks gentle and user-friendly applications for eyelash maintenance.\n- Likely to prioritize convenience and control in usage.\n\n**Trends:**\n- Positive feedback on product effectiveness, particularly in terms of performance.\n- Appreciates well-designed applicators that enhance the user experience.\n- Shows a preference for products that minimize discomfort.\n\nThis initial interaction indicates a user who prioritizes effective, gentle, and easy-to-use beauty solutions, particularly in the realm of eyelash care.",
+  "metrics": {
+    "rouge1_f": 0.23841059602649006,
+    "rouge2_f": 0.040268456375838924,
+    "rougeL_f": 0.11920529801324503,
+    "meteor": 0.10758776896942243,
+    "bleu1": 0.11009174311926603,
+    "bleu2": 0.010096375546923046,
+    "bleu3": 0.004567189921612463,
+    "bleu4": 0.003079004597749144,
+    "bertscore_precision": 0.4106469750404358,
+    "bertscore_recall": 0.4207395315170288,
+    "bertscore_f1": 0.4156320095062256
+  }
+}

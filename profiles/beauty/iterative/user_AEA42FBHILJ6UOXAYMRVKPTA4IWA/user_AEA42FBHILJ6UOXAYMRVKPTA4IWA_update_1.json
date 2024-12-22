@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beauty Bakerie Lip Whip Liquid Metallic Lipstick, Long Lasting Lip Color, Smudge Proof Makeup, Berried, 3.5 mL\nReview Date: 2022/07/25\nStore: Beauty Bakerie\nProduct Description: ['Beauty Bakerie Berried metallic Lip whip is a metallic red liquid lipstick with hints of deep purple. It is long-lasting, smudge-proof and waterproof. Glides smoothly over lips, It is a weightless and non-sticky texture.']\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Beauty Bakerie', 'Color': 'Berried', 'Skin Type': 'All', 'Item Form': 'Liquid', 'Finish Type': 'Metallic', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.59 x 0.59 x 3.54 inches; 0.71 Ounces', 'Item model number': '754680458186', 'UPC': '754680458186', 'Manufacturer': 'Beauty Bakerie Cosmetics Brand'}\nReview Text: The packaging is pretty and it is very pigmented and smudge proof. It lasts long and is a very cute color.\nReview Title: Nice packaging and good quality\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Beauty Bakerie Lip Whip Liquid Metallic Lipstick, Long Lasting Lip Color, Smudge Proof Makeup, Berried, 3.5 mL\nBeauty Bakerie\n['Beauty Bakerie Berried metallic Lip whip is a metallic red liquid lipstick with hints of deep purple. It is long-lasting, smudge-proof and waterproof. Glides smoothly over lips, It is a weightless and non-sticky texture.']\n{'Brand': 'Beauty Bakerie', 'Color': 'Berried', 'Skin Type': 'All', 'Item Form': 'Liquid', 'Finish Type': 'Metallic', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.59 x 0.59 x 3.54 inches; 0.71 Ounces', 'Item model number': '754680458186', 'UPC': '754680458186', 'Manufacturer': 'Beauty Bakerie Cosmetics Brand'}\nThe packaging is pretty and it is very pigmented and smudge proof. It lasts long and is a very cute color.\nNice packaging and good quality",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Shows a strong inclination towards **long-lasting** and **smudge-proof** cosmetic products, particularly in the realm of **lip products**.\n- **Aesthetic Appreciation:** Values **appealing packaging** and **pigmentation**, indicating a preference for products that not only perform well but also provide a visually attractive experience.\n- **Color Selection:** Prefers **metallic finishes** and bold hues, particularly with hints of purple and red. This suggests a liking for **eye-catching**, statement colors.\n- **Quality Focus:** Rates products based on their quality, noting factors like durability and texture. Indicates a discerning taste and possibly a higher tolerance for price if the quality is justified.\n- **Overall Satisfaction:** Displays a tendency to rate products positively, suggesting satisfaction with purchases that meet her expectations for performance and aesthetics.\n\nThis summary reflects a user who is likely to continue purchasing high-quality, visually appealing cosmetics with a focus on lasting performance.",
+  "metrics": {
+    "rouge1_f": 0.2426470588235294,
+    "rouge2_f": 0.044444444444444446,
+    "rougeL_f": 0.1544117647058824,
+    "meteor": 0.1468119800332779,
+    "bleu1": 0.1872146118721461,
+    "bleu2": 0.05075773704372741,
+    "bleu3": 0.022812957411518966,
+    "bleu4": 0.008610388644192002,
+    "bertscore_precision": 0.42476940155029297,
+    "bertscore_recall": 0.4438616633415222,
+    "bertscore_f1": 0.43410569429397583
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/25\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch'], 'Directors': ['Adam Bernstein', 'Michael Mayer', 'Andrew McCarthy', 'Bob Balaban', 'Jann Turner', 'Jake Schreier', 'Antoine Douaihy', 'Clark Johnson', 'Michael Pressman'], 'Producers': ['Jonathan Alter'], 'Studio': ['Amazon Studios']}\nReview Text: This has become my favorite streamed show.\nReview Title: Funny show, well written and acted\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam McKay'], 'Producers': ['Judd Apatow', 'Will Ferrell', 'Adam McKay'], 'Starring': ['Will Ferrell', 'Christina Applegate', 'Paul Rudd'], 'Studio': ['Paramount Pictures Corp.']}\nNot exactly Citizen Kane\nSometimes dumb movies fit the bill\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English [CC]', 'Deutsch'], 'Directors': ['Adam Bernstein', 'Michael Mayer', 'Andrew McCarthy', 'Bob Balaban', 'Jann Turner', 'Jake Schreier', 'Antoine Douaihy', 'Clark Johnson', 'Michael Pressman'], 'Producers': ['Jonathan Alter'], 'Studio': ['Amazon Studios']}\nThis has become my favorite streamed show.\nFunny show, well written and acted",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Content**: Enjoys light-hearted, comedic films and shows, often characterized by satire or absurdity. A recent interaction highlights a strong appreciation for a streamed show that is humorous, well-written, and well-acted, reinforcing a preference for engaging comedic narratives.\n- **Content Advisory Tolerance**: Open to mature themes, including nudity, violence, alcohol use, smoking, foul language, and sexual content, reflecting comfort with diverse subject matter in entertainment.\n- **Audio/Visual Preferences**: Prefers English language features, particularly valuing options for enhanced dialogue clarity, evident in the choice of shows with high dialogue boost settings.\n- **Director and Producer Preferences**: Shows a tendency to enjoy works by established comedy directors and producers, with the recent purchase reflecting interest in a variety of respected filmmakers across the comedy genre.\n- **Rating Trends**: Generally offers higher ratings to comedic content, as illustrated by a 5.0 rating for a recent favorite show. While typically favoring comedic films, the user can express disappointment if the content does not meet expectations.\n- **Humor Style**: Prefers simple and entertaining narratives that prioritize escapism and comedic relief, favoring familiar and accessible storytelling over dramatic complexity.\n\nOverall, the user seeks engaging and enjoyable comedic entertainment that effectively balances humor and storytelling.",
+  "metrics": {
+    "rouge1_f": 0.2118380062305296,
+    "rouge2_f": 0.07523510971786834,
+    "rougeL_f": 0.14330218068535827,
+    "meteor": 0.09986426050601228,
+    "bleu1": 0.14339622641509436,
+    "bleu2": 0.03295959721536657,
+    "bleu3": 0.00744736571313495,
+    "bleu4": 0.003543453091530744,
+    "bertscore_precision": 0.4008151888847351,
+    "bertscore_recall": 0.3904907703399658,
+    "bertscore_f1": 0.3955856263637543
+  }
+}

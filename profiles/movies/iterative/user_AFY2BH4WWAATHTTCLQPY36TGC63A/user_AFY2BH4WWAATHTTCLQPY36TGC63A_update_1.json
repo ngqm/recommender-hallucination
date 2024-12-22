@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/26\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Edgar Wright'], 'Producers': ['Nira Park'], 'Starring': ['Simon Pegg', 'Nick Frost', 'Paddy Considine'], 'Studio': ['NBC Universal']}\nReview Text: A deep exploration of human connectedness and brotherly love in the face of cruel time. Add pubs, car chases, explosions, 1000 funny jokes, and you'll have the thread of this film. Pegg and Frost are on par with the great comedy teams of all time.\nReview Title: A Riot\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Edgar Wright'], 'Producers': ['Nira Park'], 'Starring': ['Simon Pegg', 'Nick Frost', 'Paddy Considine'], 'Studio': ['NBC Universal']}\nA deep exploration of human connectedness and brotherly love in the face of cruel time. Add pubs, car chases, explosions, 1000 funny jokes, and you'll have the thread of this film. Pegg and Frost are on par with the great comedy teams of all time.\nA Riot",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys films that blend humor with deeper themes of human relationships and emotional connections. Shows a preference for stories involving camaraderie, brotherly love, and significant life events.\n\n- **Media Style:** Favors comedic narratives that include action elements such as car chases and explosive scenarios. Appreciates a mix of humor and heartfelt moments, with a focus on clever dialogue.\n\n- **Rating Behavior:** Demonstrates a tendency to provide high ratings (average of 4.6) when entertained and emotionally engaged. Factors in both the quality of humor and thematic depth in the overall evaluation.\n\n- **Cast Preferences:** Shows a preference for familiar comedic performers, particularly enjoying collaborations between specific actors known for their comedic talent.\n\n- **Content Advisory Tolerance:** Open to films with mature content, including violence, substance use, and strong language, indicating comfort with edgy themes as long as they contribute to the overall comedic experience.\n\n- **Media Accessibility:** Prefers content available in English, with an appreciation for accessible features like subtitles. \n\nOverall, this user enjoys a mix of laughter with emotional resonance, valuing both comedic execution and character-driven narratives.",
+  "metrics": {
+    "rouge1_f": 0.24521072796934865,
+    "rouge2_f": 0.05405405405405406,
+    "rougeL_f": 0.13026819923371646,
+    "meteor": 0.1740573235404934,
+    "bleu1": 0.17842323651452283,
+    "bleu2": 0.06096844069450379,
+    "bleu3": 0.011586104063187264,
+    "bleu4": 0.005056020537835101,
+    "bertscore_precision": 0.434516578912735,
+    "bertscore_recall": 0.4110514223575592,
+    "bertscore_f1": 0.4224584102630615
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hand Crafted Ceramic Aromatherapy Essential Oil Diffuser,100ml Fragrant Room Sprays Ultrasonic Aroma Mist Atomizer BPA-Free, Waterless Auto Shut-Off and 7 Color Night Lights for Office Home Study Yoga\nReview Date: 2019/07/22\nStore: BRNBW\nAverage Rating: 4.0\nProduct Details: {'Brand': 'BRNBW', 'Material': 'Ceramic', 'Special Feature': 'Multiple Light Setting, Automatic Shut Off', 'Power Source': 'Corded Electric', 'Capacity': '100 Milliliters', 'Product Dimensions': '3.6 x 3.6 x 6.3 inches; 1.12 Pounds', 'UPC': '665059186312'}\nReview Text: This diffuser works well, my room smelled great. The kids enjoyed the soft color scheme as the diffuser was on. The ceramic looks very nice and it blends well with the decor when not in use.\nReview Title: The glowing lights are great!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hand Crafted Ceramic Aromatherapy Essential Oil Diffuser,100ml Fragrant Room Sprays Ultrasonic Aroma Mist Atomizer BPA-Free, Waterless Auto Shut-Off and 7 Color Night Lights for Office Home Study Yoga\nBRNBW\n{'Brand': 'BRNBW', 'Material': 'Ceramic', 'Special Feature': 'Multiple Light Setting, Automatic Shut Off', 'Power Source': 'Corded Electric', 'Capacity': '100 Milliliters', 'Product Dimensions': '3.6 x 3.6 x 6.3 inches; 1.12 Pounds', 'UPC': '665059186312'}\nThis diffuser works well, my room smelled great. The kids enjoyed the soft color scheme as the diffuser was on. The ceramic looks very nice and it blends well with the decor when not in use.\nThe glowing lights are great!",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** Enjoys home decor and lifestyle products, particularly items that enhance ambiance and usability in indoor spaces.\n- **Aesthetics:** Prefers well-designed, visually appealing items, such as ceramic materials that blend seamlessly with home decor.\n- **Functionality:** Values multi-functional products with features like automatic shut-off and multiple light settings, indicating a desire for convenience and safety.\n- **Family-Oriented:** Indicates a consideration for family dynamics, as the enjoyment of children with the product's design and light features is noted.\n- **Environment Preference:** Likely prioritizes creating a pleasant living atmosphere, as shown by the appreciation for the aromatic qualities and visual appeal of the product.\n- **Overall Satisfaction:** Demonstrates a trend of positive experiences, as indicated by high ratings and focus on enjoyment derived from products.\n\nThis user exhibits a preference for items that enhance the home environment, combining practicality with an aesthetic appeal while being mindful of family-friendly features.",
+  "metrics": {
+    "rouge1_f": 0.2298850574712644,
+    "rouge2_f": 0.05405405405405405,
+    "rougeL_f": 0.12260536398467432,
+    "meteor": 0.15463917525773194,
+    "bleu1": 0.15196078431372548,
+    "bleu2": 0.038693030178207535,
+    "bleu3": 0.00904978034581616,
+    "bleu4": 0.0043820720537594135,
+    "bertscore_precision": 0.42315536737442017,
+    "bertscore_recall": 0.43006032705307007,
+    "bertscore_f1": 0.42657992243766785
+  }
+}

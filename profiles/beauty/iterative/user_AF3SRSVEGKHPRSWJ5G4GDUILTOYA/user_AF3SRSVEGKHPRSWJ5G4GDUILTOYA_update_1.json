@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AUGNORYE 13 Pcs Hair Cutting Scissors Kit, Professional Hair Barber Scissors Kit with Thinning Shears, Home Hair Shears for Women, Men, Kids\nReview Date: 2020/09/25\nStore: AUGNORYE\nAverage Rating: 3.9\nProduct Details: {'Brand': 'AUGNORYE', 'Included Components': 'Scissors', 'Unit Count': '1.00 Count', 'Blade Material': 'Stainless Steel'}\nReview Text: I really only wanted this for the cape and the scissors and the scissors are decent.  I've been using them to shape the recent hair cut I gave myself.  They are sharp and have a good weight to them.  I have not used the thinning shears yet so I cannot speak to them.  The other items in the kit are all pretty basic and cheap.  I gave the thin plastic combs to my daughter to use with her dolls.  The cape is thin and the strings in the back for tying seem flimsy.  One of the strings is way to too making tying difficult.  I have not had a need for any of the other items.  I do like the storage case though...a nice compact way to keep everything together and easy to find when it is needed.\nReview Title: I like the scissors\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "AUGNORYE 13 Pcs Hair Cutting Scissors Kit, Professional Hair Barber Scissors Kit with Thinning Shears, Home Hair Shears for Women, Men, Kids\nAUGNORYE\n{'Brand': 'AUGNORYE', 'Included Components': 'Scissors', 'Unit Count': '1.00 Count', 'Blade Material': 'Stainless Steel'}\nI really only wanted this for the cape and the scissors and the scissors are decent.  I've been using them to shape the recent hair cut I gave myself.  They are sharp and have a good weight to them.  I have not used the thinning shears yet so I cannot speak to them.  The other items in the kit are all pretty basic and cheap.  I gave the thin plastic combs to my daughter to use with her dolls.  The cape is thin and the strings in the back for tying seem flimsy.  One of the strings is way to too making tying difficult.  I have not had a need for any of the other items.  I do like the storage case though...a nice compact way to keep everything together and easy to find when it is needed.\nI like the scissors",
+  "profile": "**User Summary:**\n\n- **Interests:** Haircare, DIY grooming, home haircuts\n- **Product Preferences:** Value practical tools over additional items; prioritizes quality in core items (e.g., scissors); appreciates sharpness and weight of tools.\n- **Usage Patterns:** Engages in self-grooming; utilizes products for both personal use and family (e.g., giving items to children).\n- **Satisfaction Factors:** Enjoyment derived from specific items (scissors) rather than the entire product kit; critical of lower-quality supplementary components; practical and straightforward in product usage.\n- **Aesthetic Preferences:** Prefers compact and organized storage solutions for ease of access and maintenance. \n- **Overall Rating Perspective:** Acknowledges both positives and negatives in a product, showing a balanced approach to evaluations.\n\nThis user seems to gravitate towards efficiency in haircare tools, emphasizing satisfactory performance in essential items while being less concerned with ancillary products.",
+  "metrics": {
+    "rouge1_f": 0.2122186495176849,
+    "rouge2_f": 0.006472491909385113,
+    "rougeL_f": 0.1157556270096463,
+    "meteor": 0.12523629489603025,
+    "bleu1": 0.20409897571660274,
+    "bleu2": 0.009755743771847361,
+    "bleu3": 0.0035467852226838247,
+    "bleu4": 0.0021414167902998786,
+    "bertscore_precision": 0.44275760650634766,
+    "bertscore_recall": 0.4453718066215515,
+    "bertscore_f1": 0.4440608620643616
+  }
+}

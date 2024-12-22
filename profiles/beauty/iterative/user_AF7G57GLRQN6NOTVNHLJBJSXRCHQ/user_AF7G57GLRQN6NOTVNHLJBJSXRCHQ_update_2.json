@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 2PCS Portable Electric Toothbrush Travel Case, Plastic Travel Toothbrush Container Holder Suitable for Oral-B, Philips Sonicare and Other Electric Toothbrush Set (Black and White)\nReview Date: 2021/09/14\nStore: Hovesty\nAverage Rating: 3.9\nProduct Details: {'Package Dimensions': '9.84 x 5.59 x 1.73 inches; 6.38 Ounces', 'UPC': '664935369078'}\nReview Text: This product doesn\u2019t fit my WepKlin electric toothbrush, even it I remove the replacement head.\nReview Title: Doesn\u2019t Fit my Electric Toothbrush.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "DATEWORK 1PCS Professional Cosmetic Flat Contour Brush (Black)\n{'UPC': '644735906840 794168249219'}\nI like it! The handle was shorter then I thought it would be! Or I would have giving 5 stars\nI like it! The handle was shorter then I thought ...\n2PCS Portable Electric Toothbrush Travel Case, Plastic Travel Toothbrush Container Holder Suitable for Oral-B, Philips Sonicare and Other Electric Toothbrush Set (Black and White)\nHovesty\n{'Package Dimensions': '9.84 x 5.59 x 1.73 inches; 6.38 Ounces', 'UPC': '664935369078'}\nThis product doesn\u2019t fit my WepKlin electric toothbrush, even it I remove the replacement head.\nDoesn\u2019t Fit my Electric Toothbrush.",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Type Preference:** The user maintains a strong preference for professional cosmetic tools, particularly contour brushes, while recently venturing into personal care products, specifically travel cases for electric toothbrushes. This suggests an interest in both beauty routines and oral hygiene.\n\n- **Experience with Products:** The user values functionality and design, as demonstrated by critical feedback regarding product compatibility. This emphasis on practicality extends beyond makeup tools to other personal care items, indicating a broader focus on efficiency in various aspects of their routine.\n\n- **Rating Tendencies:** Historically, the user has rated products positively but has recently provided a lower rating for a product that did not meet expectations. This indicates a willingness to express dissatisfaction when essential functionality or fit is lacking, reinforcing their constructive approach to reviews.\n\n- **General Attitude:** The user shows a genuine appreciation for products that meet their needs while also being open to sharing challenges faced during use. Their recent experience underscores a practical mindset, valuing products that are not only well-designed but also compatible with personal preferences.\n\nOverall, the user is engaged in both the beauty and personal care sectors, seeking high-quality, functional tools that enhance their daily routines while providing honest feedback based on their experiences.",
+  "metrics": {
+    "rouge1_f": 0.135048231511254,
+    "rouge2_f": 0.02588996763754045,
+    "rougeL_f": 0.09003215434083602,
+    "meteor": 0.1510147075590013,
+    "bleu1": 0.07509881422924902,
+    "bleu2": 0.005459039911709611,
+    "bleu3": 0.0022813203394040464,
+    "bleu4": 0.0014762322957211894,
+    "bertscore_precision": 0.38954102993011475,
+    "bertscore_recall": 0.3779308795928955,
+    "bertscore_f1": 0.3836481273174286
+  }
+}

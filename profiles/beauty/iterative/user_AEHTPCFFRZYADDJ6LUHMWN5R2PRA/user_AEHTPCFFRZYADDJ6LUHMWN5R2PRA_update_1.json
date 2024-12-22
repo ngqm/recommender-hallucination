@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Travel Bottles for Toiletries - Autdor 3OZ Travel Size Toiletries Set TSA Approved Travel Containers BPA Free LeakProof Refillable Liquid Travel Accessories for Shampoo Conditioner and Lotion\nReview Date: 2022/06/19\nStore: Autdor\nAverage Rating: 4.4\nProduct Details: {'Package Dimensions': '6.5 x 5.24 x 1.65 inches; 5.93 Ounces', 'UPC': '774848982001', 'Manufacturer': 'Autdor'}\nReview Text: These travel bottles are sturdy and well made. I am used to cheaper ones so I didn't expect them to be so good. They don't leak and they're sturdy enough to carry in your purse with your keys and other items.\nReview Title: Good Product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Travel Bottles for Toiletries - Autdor 3OZ Travel Size Toiletries Set TSA Approved Travel Containers BPA Free LeakProof Refillable Liquid Travel Accessories for Shampoo Conditioner and Lotion\nAutdor\n{'Package Dimensions': '6.5 x 5.24 x 1.65 inches; 5.93 Ounces', 'UPC': '774848982001', 'Manufacturer': 'Autdor'}\nThese travel bottles are sturdy and well made. I am used to cheaper ones so I didn't expect them to be so good. They don't leak and they're sturdy enough to carry in your purse with your keys and other items.\nGood Product",
+  "profile": "**User Profile Summary:**\n\n- **General Interests:** Travel accessories, particularly those designed for convenience and portability.\n- **Quality Preferences:** Values sturdiness and durability in products, favoring well-made items over cheaper alternatives.\n- **Product Features Prioritized:** Leak-proof capabilities and refillable options are important for personal care items, indicating a focus on functionality and practicality during travel.\n- **Shopping Behavior:** Has a positive outlook towards purchasing decisions, as evidenced by a high rating (5.0) for products that meet expectations. \n- **Usage Context:** Likely to carry items in a purse, suggesting a preference for compact and lightweight solutions that fit into a busy lifestyle.\n\nOverall, this user demonstrates a clear focus on practicality and quality in travel-related purchases, aligning with a lifestyle that prioritizes efficient and reliable travel solutions.",
+  "metrics": {
+    "rouge1_f": 0.25116279069767444,
+    "rouge2_f": 0.0375586854460094,
+    "rougeL_f": 0.15813953488372093,
+    "meteor": 0.1642020896698642,
+    "bleu1": 0.15294117647058825,
+    "bleu2": 0.030082841879809346,
+    "bleu3": 0.008136597134772218,
+    "bleu4": 0.0042379223232406815,
+    "bertscore_precision": 0.43644392490386963,
+    "bertscore_recall": 0.4291994273662567,
+    "bertscore_f1": 0.4327913522720337
+  }
+}

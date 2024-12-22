@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/05/06\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Mel Brooks'], 'Producers': ['Mel Brooks'], 'Starring': ['Leslie Nielsen', 'Peter MacNicol', 'Steven Weber'], 'Studio': ['Warner Bros.']}\nReview Text: Love Leslie Nielsen.  His silly slap-stick comedy always makes me laugh and Dracula: Dead and Loving it is one of my favorites.\nReview Title: Comedy as only Leslie Nielsen can\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Mel Brooks'], 'Producers': ['Mel Brooks'], 'Starring': ['Leslie Nielsen', 'Peter MacNicol', 'Steven Weber'], 'Studio': ['Warner Bros.']}\nLove Leslie Nielsen.  His silly slap-stick comedy always makes me laugh and Dracula: Dead and Loving it is one of my favorites.\nComedy as only Leslie Nielsen can",
+  "profile": "**User Profile Summary:**\n\n- **Comedy Preference:** Strong preference for classic slapstick and humorous content, particularly favoring the comedic style of Leslie Nielsen.\n- **Entertainment Themes:** Enjoys films that incorporate elements of violence, frightening scenes, and adult humor (foul language, sexual content).\n- **Artistic Appreciation:** Values the work of directors and producers known for comedic films, demonstrating an appreciation for specific industry figures (e.g., Mel Brooks).\n- **Language Preference:** Prefers content available in English, including audio descriptions for enhanced accessibility.\n- **Rating Trends:** Generally leans towards high ratings (average near 4.7), indicating a consistently positive evaluation of entertainment consumed.\n- **Subtitles and Accessibility:** Shows an inclination towards content with subtitle options, suggesting a preference for detailed engagement with the material.\n\nOverall, the user exhibits a clear affinity for classic comedies featuring well-known comedic actors, valuing both humor and accessibility in their entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.23529411764705882,
+    "rouge2_f": 0.07920792079207921,
+    "rougeL_f": 0.14705882352941177,
+    "meteor": 0.15772919200737262,
+    "bleu1": 0.14925373134328357,
+    "bleu2": 0.03863337046431279,
+    "bleu3": 0.019574501328048086,
+    "bleu4": 0.007845158687108255,
+    "bertscore_precision": 0.45208457112312317,
+    "bertscore_recall": 0.4050523638725281,
+    "bertscore_f1": 0.4272781014442444
+  }
+}

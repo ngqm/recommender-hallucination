@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wicky Grade 9A Brazilian Body Wave Bundles With Closure (16 18 20+16,Three Part) 100% Unprocessed Brazilian Hair Bundles With Closure Nature Black\nReview Date: 2020/04/04\nStore: WICKY\nAverage Rating: 4.4\nProduct Details: {'Brand': 'WICKY', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Material Feature': 'Natural', 'Package Dimensions': '10 x 8.6 x 2.2 inches; 11.99 Ounces', 'UPC': '783057920803'}\nReview Text: The hair feels great and take color well. It holds and curls you may put in it. It did not become dry after being colored. It still feels soft. It\u2019s worth the money. You can see a better review of it on my YouTube channel Aggla J.\nReview Title: It\u2019s worth it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wicky Grade 9A Brazilian Body Wave Bundles With Closure (16 18 20+16,Three Part) 100% Unprocessed Brazilian Hair Bundles With Closure Nature Black\nWICKY\n{'Brand': 'WICKY', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Material Feature': 'Natural', 'Package Dimensions': '10 x 8.6 x 2.2 inches; 11.99 Ounces', 'UPC': '783057920803'}\nThe hair feels great and take color well. It holds and curls you may put in it. It did not become dry after being colored. It still feels soft. It\u2019s worth the money. You can see a better review of it on my YouTube channel Aggla J.\nIt\u2019s worth it",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Enthusiast**: The user shows a strong interest in hair products, particularly high-quality, natural human hair. They prefer options that are versatile and can hold styles well.\n- **Color-Friendly**: They value products that take color effectively and maintain softness even after dyeing, indicating a preference for products that allow for creativity and personalization.\n- **Quality Appreciation**: The user is discerning about quality, as reflected in their high rating of the product. They likely prioritize products that provide good value for money.\n- **Social Influence**: The user engages with a community or audience (as noted with their YouTube channel mention), suggesting they enjoy sharing experiences and recommendations related to beauty and personal care.\n- **Preference for Natural Features**: They favor products described as \"natural\" and \"100% unprocessed,\" indicating a trend toward safer, more wholesome beauty choices.\n- **Informative Reviews**: The user appreciates detailed product descriptions and may seek products with favorable reviews, enhancing their decision-making process.\n\nThis profile illustrates a conscientious consumer who actively seeks quality hair care solutions that align with their style preferences and social sharing tendencies.",
+  "metrics": {
+    "rouge1_f": 0.22456140350877193,
+    "rouge2_f": 0.028268551236749116,
+    "rougeL_f": 0.09824561403508772,
+    "meteor": 0.21759351892127013,
+    "bleu1": 0.1694214876033058,
+    "bleu2": 0.05928717080849131,
+    "bleu3": 0.011356296865880836,
+    "bleu4": 0.004975400866470797,
+    "bertscore_precision": 0.4207943379878998,
+    "bertscore_recall": 0.40847212076187134,
+    "bertscore_f1": 0.41454169154167175
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 30000rpm Professional Electric Nail Drill Machine Pedicure Manicure Kits Nail File Drill with Sanding Bands, Nail Salon Art Tools\nReview Date: 2018/03/30\nStore: SUBAY\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 5.3 x 3.7 inches; 3.2 Pounds', 'Item model number': 'SUB3Z', 'UPC': '602668590901'}\nReview Text: This nail drill is awesome! I got it right on time, started using it right away, have used it like 6 times since, it works great. To me it's an upgrade after what I got at Sally's. Love love love it!\nReview Title: This nail drill is awesome! I got it right on time\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "30000rpm Professional Electric Nail Drill Machine Pedicure Manicure Kits Nail File Drill with Sanding Bands, Nail Salon Art Tools\nSUBAY\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.1 x 5.3 x 3.7 inches; 3.2 Pounds', 'Item model number': 'SUB3Z', 'UPC': '602668590901'}\nThis nail drill is awesome! I got it right on time, started using it right away, have used it like 6 times since, it works great. To me it's an upgrade after what I got at Sally's. Love love love it!\nThis nail drill is awesome! I got it right on time",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Nail care, beauty tools, professional-grade equipment\n- **Purchase Frequency:** Active user, likely to invest in high-quality beauty tools\n- **Preference for Quality and Performance:** Values products that offer significant performance improvements over previous items\n- **Satisfaction with Timeliness:** Appreciates prompt delivery of products, which enhances overall satisfaction\n- **Review Tendencies:** Tends to leave positive feedback when expectations are met, suggesting a high standard for quality \n\nThis user exhibits a strong inclination towards upgrading their nail care tools, indicating a passion for beauty and potentially regular self-care routines. They prioritize effective products that enhance their nail care experience and demonstrate a commitment to investing in reliable, professional-grade solutions.",
+  "metrics": {
+    "rouge1_f": 0.11428571428571428,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06666666666666667,
+    "meteor": 0.09538950715421306,
+    "bleu1": 0.11920529801324502,
+    "bleu2": 0.00891460591812654,
+    "bleu3": 0.00376419988227448,
+    "bleu4": 0.0024501297223562513,
+    "bertscore_precision": 0.4161035120487213,
+    "bertscore_recall": 0.4137445092201233,
+    "bertscore_f1": 0.4149206280708313
+  }
+}

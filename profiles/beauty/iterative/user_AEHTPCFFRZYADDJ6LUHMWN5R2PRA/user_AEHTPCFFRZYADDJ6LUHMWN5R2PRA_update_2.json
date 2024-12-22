@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: GOMAY Hydrating Amino Acid Foaming Facial Cleanser, Daily Face Wash for Makeup Remover with Face Cleansing Brush\nReview Date: 2022/07/29\nStore: GO MAY\nAverage Rating: 4.6\nProduct Details: {'Brand': 'GO MAY', 'Scent': 'Unscented', 'Material Type Free': 'Oil-free,Soap-free', 'Unit Count': '5.00 Fl Oz', 'Item Package Quantity': '1', 'Product Dimensions': '2 x 2 x 6 inches; 8.96 Ounces', 'Item model number': 'GM-FC03', 'UPC': '633183294814'}\nReview Text: This review is for GOMAY Hydrating Amino Acid Foaming Facial Cleanser.<br /><br />Not a fan of the sponge but it's a good product, a no nonsense cleanser that cleanses well and gets the job done. I like it for those days when you just want a nice good cleansing that doesn't dry or irritate dry skin.\nReview Title: Good Product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Travel Bottles for Toiletries - Autdor 3OZ Travel Size Toiletries Set TSA Approved Travel Containers BPA Free LeakProof Refillable Liquid Travel Accessories for Shampoo Conditioner and Lotion\nAutdor\n{'Package Dimensions': '6.5 x 5.24 x 1.65 inches; 5.93 Ounces', 'UPC': '774848982001', 'Manufacturer': 'Autdor'}\nThese travel bottles are sturdy and well made. I am used to cheaper ones so I didn't expect them to be so good. They don't leak and they're sturdy enough to carry in your purse with your keys and other items.\nGood Product\nGOMAY Hydrating Amino Acid Foaming Facial Cleanser, Daily Face Wash for Makeup Remover with Face Cleansing Brush\nGO MAY\n{'Brand': 'GO MAY', 'Scent': 'Unscented', 'Material Type Free': 'Oil-free,Soap-free', 'Unit Count': '5.00 Fl Oz', 'Item Package Quantity': '1', 'Product Dimensions': '2 x 2 x 6 inches; 8.96 Ounces', 'Item model number': 'GM-FC03', 'UPC': '633183294814'}\nThis review is for GOMAY Hydrating Amino Acid Foaming Facial Cleanser.<br /><br />Not a fan of the sponge but it's a good product, a no nonsense cleanser that cleanses well and gets the job done. I like it for those days when you just want a nice good cleansing that doesn't dry or irritate dry skin.\nGood Product",
+  "profile": "**Updated User Profile Summary:**\n\n- **General Interests:** Travel accessories and skincare products that emphasize convenience, portability, and efficiency during travel.\n- **Quality Preferences:** Values sturdiness and durability in products, leaning towards well-made items rather than economical alternatives. Demonstrates a preference for products that are both effective and reliable.\n- **Product Features Prioritized:** Emphasizes functionality with interests in leak-proof and refillable options for personal care items. Also appreciates skincare products that cleanse without drying out the skin, indicating a desire for gentle yet effective solutions.\n- **Shopping Behavior:** Generally positive towards purchases, as highlighted by a perfect rating for items that meet expectations. Engages with products that align with their focus on quality and usability. \n- **Usage Context:** Likely carries items in a purse, favoring compact, lightweight solutions that complement a busy lifestyle and make travel more convenient.\n\nThis user profile showcases a clear inclination towards practical and quality-focused choices in both travel accessories and skincare products, reflecting a lifestyle that values efficient and reliable solutions for daily challenges.",
+  "metrics": {
+    "rouge1_f": 0.24403183023872677,
+    "rouge2_f": 0.021333333333333333,
+    "rougeL_f": 0.1273209549071618,
+    "meteor": 0.12889621176069171,
+    "bleu1": 0.1736697437163544,
+    "bleu2": 0.025125567976753093,
+    "bleu3": 0.0061318452525105285,
+    "bleu4": 0.0030327720632236338,
+    "bertscore_precision": 0.39619362354278564,
+    "bertscore_recall": 0.44525590538978577,
+    "bertscore_f1": 0.41929444670677185
+  }
+}

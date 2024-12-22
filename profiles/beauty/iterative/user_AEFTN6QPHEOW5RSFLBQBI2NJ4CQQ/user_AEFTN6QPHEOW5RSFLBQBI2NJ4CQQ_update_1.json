@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beautify Professional Large Lockable Acrylic Vanity Makeup & Cosmetic Storage Display Case with Frame (Rose Gold)\nReview Date: 2017/11/13\nStore: Beautify\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11.8 x 6.3 x 7.5 inches; 2.8 Pounds'}\nReview Text: I love this case it is so beautiful and I can fit everything but my eyeshadow pallets in it. I should note the bottom portion is large enough. I just prefer to put my brushes and sponges in it. I wish the black compartments were just a bit wider. Despite me loving this so much, I wouldn\u2019t purchase this again. It\u2019s too expensive. The arcrylic is thin, the metal is cheap, handle is plastic, and it\u2019s difficult to get things to aglin. I fear this won\u2019t hold up for more than a year or two.\nReview Title: I love it, but poor quality\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Beautify Professional Large Lockable Acrylic Vanity Makeup & Cosmetic Storage Display Case with Frame (Rose Gold)\nBeautify\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11.8 x 6.3 x 7.5 inches; 2.8 Pounds'}\nI love this case it is so beautiful and I can fit everything but my eyeshadow pallets in it. I should note the bottom portion is large enough. I just prefer to put my brushes and sponges in it. I wish the black compartments were just a bit wider. Despite me loving this so much, I wouldn\u2019t purchase this again. It\u2019s too expensive. The arcrylic is thin, the metal is cheap, handle is plastic, and it\u2019s difficult to get things to aglin. I fear this won\u2019t hold up for more than a year or two.\nI love it, but poor quality",
+  "profile": "**User Summary:**\n\n- **Aesthetic Preference:** Values beauty and design in storage solutions, particularly favoring elegant styles like rose gold.\n- **Functionality Focus:** Seeks practical organizational products that can accommodate a variety of cosmetics, notably brushes and sponges, though may prioritize ease of use over capacity for larger items like eyeshadow palettes.\n- **Quality Concerns:** Shows a tendency to critique the quality of products, indicating a preference for durability and sturdiness. Expresses dissatisfaction with thin materials and cheap components in storage items.\n- **Price Sensitivity:** Considers products to be expensive, indicating a budget-conscious approach. Despite enjoying the item, has stated that they would not repurchase due to the perceived high price relative to quality.\n- **Overall Satisfaction:** Experiences mixed feelings; appreciates beauty but emphasizes functionality and quality, leading to a moderate rating (3.0) for the reviewed product. \n\nThis user profile reflects a balance between style and practicality while highlighting a critical view of product longevity and value for money.",
+  "metrics": {
+    "rouge1_f": 0.23728813559322032,
+    "rouge2_f": 0.027303754266211604,
+    "rougeL_f": 0.12203389830508474,
+    "meteor": 0.17337278661464584,
+    "bleu1": 0.21359223300970873,
+    "bleu2": 0.05590831776456908,
+    "bleu3": 0.024837481737214614,
+    "bleu4": 0.009320874513132373,
+    "bertscore_precision": 0.4649468660354614,
+    "bertscore_recall": 0.4526154696941376,
+    "bertscore_f1": 0.4586982727050781
+  }
+}

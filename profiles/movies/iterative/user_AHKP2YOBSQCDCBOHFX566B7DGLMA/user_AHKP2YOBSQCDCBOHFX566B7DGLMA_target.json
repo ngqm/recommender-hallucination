@@ -1,0 +1,56 @@
+{
+  "interaction_number": 13,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/07\nAverage Rating: 3.9\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Si Joon Kim', 'Hyung Joon Kim'], 'Producers': ['Yeon Hyu Lee'], 'Studio': ['PBS']}\nReview Text: The is a great series and has definitely improved my understanding of concepts that have eluded me.\nReview Title: A little slow at the start, but it gets better!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Irving Rapper', 'Lionello De Felice'], 'Producers': ['Ferdinand Felicioni'], 'Starring': ['Cornel Wilde', 'Belinda Lee'], 'Studio': ['Zeta Four Films', 'LLC']}\nCornell Wilde a believable Constantine, but the film's dubbing detracts from its overall impact.  After a while, it's just too much to watch.\nDubbing dulls this film\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Delgado'], 'Producers': ['Pacific Media'], 'Studio': ['CLA GmbH']}\nThis series is excellent and provides information not available on other WWII figures in a clear and unbiased way.  Recommended for anyone interested in the major players and the details of their lives, involvement in the war and their contributions to history.\nGREAT AND INFORMATIVE SERIES\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Phillip Noyce'], 'Producers': ['Hilary Bevan Jones', 'Genevieve Hofmeyr', 'Tim Bevan', 'Eric Fellner', 'Juliette Howell', 'Liza Chasin'], 'Starring': ['Hilary Swank', 'Brenda Blethyn', 'Sam Claflin'], 'Studio': ['HBO']}\nStirring film with great performances.\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['David Nunn'], 'Producers': ['Ray Fardon'], 'Starring': ['David Nunn'], 'Studio': ['Vision Video']}\nA good companion to the actual biblical story with some impressive footage.\nA visual for the hardships of the trials of Moses\n{'Subtitles': ['None available'], 'Directors': ['A.J. Edwards'], 'Producers': ['Terrence Malick', 'Nicolas Gonda', 'Jake DeVito', 'Charley Beil', 'Jason Krigsfeld', 'Joseph Krigsfeld', 'Antoine Douaihy', 'Claudia Kowalski', 'Kevin Kowalski', 'Michael Kowalski', 'Stefan Sonnenfeld', 'Elizabeth Lodge', 'Brent Glass', 'Emily Hohmann'], 'Starring': ['Jason Clarke', 'Diane Kruger', 'Brit Marling']}\nFascinating study, but very slow.  Not for everyone.\nGood but slow\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Kaplan'], 'Producers': ['Sidney Glazier'], 'Starring': ['Eric Sevareid', 'Archibald Macleish', 'Corinne Alsop Cole'], 'Studio': ['Kino International']}\nA completely inspiring and insightful look at ER's decision to move out into the world and change it.\nInspiring portrait of a gamechanger\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gavin Miler'], 'Producers': ['Alexander Thies'], 'Starring': ['Jeroen Krabbe', 'Judith Godreche', 'Barbara Hershey'], 'Studio': ['Willette Acquisition Corp.', 'DBA Allied Vaughn']}\nGreat biopic and extremely engaging and informing.  Recommended.\nValuable to watch\n{'Subtitles': ['None available'], 'Directors': ['Baker', 'Roy Ward'], 'Producers': ['Eric Ambler', 'Phil C. Samuel', 'Herbert Smith'], 'Starring': ['John Mills', 'Joan Greenwood', 'Edward Chapman']}\nSensitive Mills classic\nA Very Young Mills\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Burns'], 'Producers': ['Florentine Films', 'WETA'], 'Starring': ['Peter Coyote', 'Paul Giamati', 'Edward Hermann'], 'Studio': ['PBS']}\nThis series is extremely informative, especially great on Teddy R and  Eleanor R.  Full of great footage and insights.\nHIGHLY RECOMMENDED\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Thaddeus O'Sullivan\"], 'Producers': ['Julie Payne', 'Ann Wingate', 'Frank Doelger', 'Tracey Scoffield', 'David M. Thompson'], 'Starring': ['Brendan Gleeson', 'Janet McTeer', 'Len Cariou'], 'Studio': ['HBO']}\nCONVINCING AND WELL ACTED\nFOR CHURCHILL FANS\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Loncraine'], 'Producers': ['Frank Doelger', 'David M. Thompson', 'Julie Payne', 'Tracey Scoffield', 'Ridley Scott', 'Tony Scott'], 'Starring': ['Albert Finney', 'Vanessa Redgrave', 'Jim Broadbent'], 'Studio': ['HBO']}\nTOP RATE PERFORMANCES BY A COUPLE OF VETERANS\nRECOMMENDED\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Frankenheimer'], 'Producers': ['Guy Reidel', 'Cary Brokaw', 'Edgar J. Scherick', 'Howard Dratch', 'John Frankenheimer'], 'Starring': ['Michael Gambon', 'Donald Sutherland', 'Bruce McGill'], 'Studio': ['HBO']}\nExcellent performances although it lacks depth.\nGood as far as it goes\n{'Subtitles': ['None available'], 'Directors': ['Si Joon Kim', 'Hyung Joon Kim'], 'Producers': ['Yeon Hyu Lee'], 'Studio': ['PBS']}\nThe is a great series and has definitely improved my understanding of concepts that have eluded me.\nA little slow at the start, but it gets better!",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "A little slow at the start, but it gets better!",
+    "text": "The is a great series and has definitely improved my understanding of concepts that have eluded me.",
+    "images": [],
+    "asin": "B014R367XY",
+    "parent_asin": "B014R367XY",
+    "user_id": "AHKP2YOBSQCDCBOHFX566B7DGLMA",
+    "timestamp": "2016-06-07 18:21:33",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 3.9,
+    "rating_number": 240,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4f2147a27bfeecca3d0206812816d54a41c7c79aa1513ea48b1f6fb5e74e9a54._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Subtitles": [
+        "None available"
+      ],
+      "Directors": [
+        "Si Joon Kim",
+        "Hyung Joon Kim"
+      ],
+      "Producers": [
+        "Yeon Hyu Lee"
+      ],
+      "Studio": [
+        "PBS"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

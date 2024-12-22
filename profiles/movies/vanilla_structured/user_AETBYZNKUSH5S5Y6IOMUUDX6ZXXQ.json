@@ -1,0 +1,64 @@
+{
+  "user_id": "AETBYZNKUSH5S5Y6IOMUUDX6ZXXQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2014/03/03\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn', 'Paul McGuigan'], 'Producers': ['Sue Vertue', 'Beryl Vertue', 'Steven Moffat', 'Mark Gatiss', 'Rebecca Eaton', 'Bethan Jones'], 'Starring': ['Benedict Cumberbatch', 'Martin Freeman'], 'Studio': ['BBC America']}\nReview Text: Love this show and love the cast!!  Sherlock and Watson work really well together.  It is funny and kooky.  Would watch it again.\nReview Title: Great BBC Sherlock Holmes\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/05/08\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Richard Fleischer'], 'Producers': ['Walt Disney'], 'Starring': ['Kirk Douglas', 'James Mason', 'Paul Lukas'], 'Studio': ['Walt Disney Pictures']}\nReview Text: One of the great old movies.  We enjoyed watching this time as much as we did years ago.  Disney at it's best.\nReview Title: A Classic from the Past\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/05/16\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Huston', 'John'], 'Producers': ['Sam P. Eagle'], 'Starring': ['Humphrey Bogart', 'Katharine Hepburn', 'Robert Morley'], 'Studio': ['Classics']}\nReview Text: African Queen is just a great old movie to watch.  Humphrey Bogart and Katherine Hepburn were two of Hollywood's best actors\nReview Title: one of the best movies of the past.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/09/04\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Shepard'], 'Producers': ['Pierce Brosnan', 'Bryan Furst', 'Sean Furst', 'Beau St. Clair'], 'Starring': ['Pierce Brosnan', 'Greg Kinnear', 'Hope Davis'], 'Studio': ['WEINSTEIN COMPANY']}\nReview Text: Dark comedy, but acting was great.  Pierce Brosnan at his best.\nReview Title: pierce brosnan movie to watch\nRating: 4.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn', 'Paul McGuigan'], 'Producers': ['Sue Vertue', 'Beryl Vertue', 'Steven Moffat', 'Mark Gatiss', 'Rebecca Eaton', 'Bethan Jones'], 'Starring': ['Benedict Cumberbatch', 'Martin Freeman'], 'Studio': ['BBC America']}\nLove this show and love the cast!!  Sherlock and Watson work really well together.  It is funny and kooky.  Would watch it again.\nGreat BBC Sherlock Holmes\n{'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Richard Fleischer'], 'Producers': ['Walt Disney'], 'Starring': ['Kirk Douglas', 'James Mason', 'Paul Lukas'], 'Studio': ['Walt Disney Pictures']}\nOne of the great old movies.  We enjoyed watching this time as much as we did years ago.  Disney at it's best.\nA Classic from the Past\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Huston', 'John'], 'Producers': ['Sam P. Eagle'], 'Starring': ['Humphrey Bogart', 'Katharine Hepburn', 'Robert Morley'], 'Studio': ['Classics']}\nAfrican Queen is just a great old movie to watch.  Humphrey Bogart and Katherine Hepburn were two of Hollywood's best actors\none of the best movies of the past.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Shepard'], 'Producers': ['Pierce Brosnan', 'Bryan Furst', 'Sean Furst', 'Beau St. Clair'], 'Starring': ['Pierce Brosnan', 'Greg Kinnear', 'Hope Davis'], 'Studio': ['WEINSTEIN COMPANY']}\nDark comedy, but acting was great.  Pierce Brosnan at his best.\npierce brosnan movie to watch",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2014/03/03\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn', 'Paul McGuigan'], 'Producers': ['Sue Vertue', 'Beryl Vertue', 'Steven Moffat', 'Mark Gatiss', 'Rebecca Eaton', 'Bethan Jones'], 'Starring': ['Benedict Cumberbatch', 'Martin Freeman'], 'Studio': ['BBC America']}\nReview Text: Love this show and love the cast!!  Sherlock and Watson work really well together.  It is funny and kooky.  Would watch it again.\nReview Title: Great BBC Sherlock Holmes\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/05/08\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Richard Fleischer'], 'Producers': ['Walt Disney'], 'Starring': ['Kirk Douglas', 'James Mason', 'Paul Lukas'], 'Studio': ['Walt Disney Pictures']}\nReview Text: One of the great old movies.  We enjoyed watching this time as much as we did years ago.  Disney at it's best.\nReview Title: A Classic from the Past\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/05/16\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Huston', 'John'], 'Producers': ['Sam P. Eagle'], 'Starring': ['Humphrey Bogart', 'Katharine Hepburn', 'Robert Morley'], 'Studio': ['Classics']}\nReview Text: African Queen is just a great old movie to watch.  Humphrey Bogart and Katherine Hepburn were two of Hollywood's best actors\nReview Title: one of the best movies of the past.\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/09/04\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Shepard'], 'Producers': ['Pierce Brosnan', 'Bryan Furst', 'Sean Furst', 'Beau St. Clair'], 'Starring': ['Pierce Brosnan', 'Greg Kinnear', 'Hope Davis'], 'Studio': ['WEINSTEIN COMPANY']}\nReview Text: Dark comedy, but acting was great.  Pierce Brosnan at his best.\nReview Title: pierce brosnan movie to watch\nRating: 4.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for high-quality entertainment, particularly classic films and television shows, as evidenced by consistently high ratings (averaging above 4.5). The individual favors engaging narratives featuring strong character dynamics, notably in the interactions between lead characters, showcasing a penchant for well-constructed stories with humor and wit.\n\nThemes identified include a preference for classic and renowned works; there is an admiration for prominent actors and classic film productions. The sentiment towards content often highlights emotional resonance and repeated enjoyment, suggesting nostalgia plays a vital role in their choices.\n\nQuality is prioritized, with all ratings indicating satisfaction, but a slight decline is observed in the most recent entry, hinting at a growing awareness of varying quality levels. Despite this, the overall inclination remains toward top-tier productions. Price sensitivity appears moderate; their pattern indicates a willingness to invest in films that deliver substantial entertainment value over mere quantity.\n\nIn summary, this individual favors classic narratives with a focus on character-driven stories, high production values, and a notably strong performance pedigree. They appreciate humor and emotional depth in their entertainment choices while demonstrating a slight sensitivity to quality fluctuations over time.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "This is the best of the 3 Jurassic Park movies.  Always enjoy watching it.",
+    "images": [],
+    "asin": "B00C1BTWV4",
+    "parent_asin": "B00C1BTWV4",
+    "user_id": "AETBYZNKUSH5S5Y6IOMUUDX6ZXXQ",
+    "timestamp": "2015-09-25 19:25:02",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.8,
+    "rating_number": 39938,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/caef030046f4a7f2a6ecd13b94fc61b8a458ec35bc7a5c25213b24a8f276cf8e._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Steven Spielberg"
+      ],
+      "Producers": [
+        "Kathleen Kennedy",
+        "Gerald R Molen"
+      ],
+      "Starring": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

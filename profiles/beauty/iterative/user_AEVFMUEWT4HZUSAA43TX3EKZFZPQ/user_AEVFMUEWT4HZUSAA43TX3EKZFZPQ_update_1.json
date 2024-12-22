@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Best Eyelash Primer and Conditioner: Radiant Complex Volume Enhancing Eye Lash Primer Conditions, Enhances Volume and Lengthens Eyelashes - A Perfect, Voluminous Mascara Base, Lash Boosting Serum\nReview Date: 2015/08/13\nStore: Radiant Complex\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Radiant Complex', 'Product Benefits': 'Protecting, Moisturizing, Lengthening', 'Skin Type': 'All', 'Package Information': 'Tube', 'Package Type': 'Tube', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.7 x 1.1 x 0.6 inches; 0.81 Ounces', 'UPC': '792273409429'}\nReview Text: it flakes\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Best Eyelash Primer and Conditioner: Radiant Complex Volume Enhancing Eye Lash Primer Conditions, Enhances Volume and Lengthens Eyelashes - A Perfect, Voluminous Mascara Base, Lash Boosting Serum\nRadiant Complex\n{'Brand': 'Radiant Complex', 'Product Benefits': 'Protecting, Moisturizing, Lengthening', 'Skin Type': 'All', 'Package Information': 'Tube', 'Package Type': 'Tube', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.7 x 1.1 x 0.6 inches; 0.81 Ounces', 'UPC': '792273409429'}\nit flakes\nThree Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Focus:** User is primarily interested in eye care products, specifically those that enhance the appearance of eyelashes.\n- **Preferences:** Values products that condition, protect, and lengthen eyelashes. Shows an interest in volumizing effects.\n- **Performance Concerns:** Sensitive to product performance, as indicated by the mention of flaking, which negatively affected the user's rating. \n- **Rating Tendencies:** Tends to rate products more critically; previous interaction resulted in an average rating of 3.0, suggesting moderate satisfaction but room for improvement.\n- **Experience Expectations:** User appears to have quality expectations for cosmetic products, especially regarding practical performance and usability.\n- **Timeframe Engagement:** Initial interaction dates back to 2015, indicating a longer history of engagement with beauty products but less recent activity in product reviews or purchases.\n\nOverall, the user demonstrates a cautious approach to new beauty products, seeking effective performance without compromising quality, particularly in the eyelash enhancement category.",
+  "metrics": {
+    "rouge1_f": 0.1566820276497696,
+    "rouge2_f": 0.018604651162790694,
+    "rougeL_f": 0.07373271889400922,
+    "meteor": 0.14843087362171334,
+    "bleu1": 0.10628019323671498,
+    "bleu2": 0.007182779880654795,
+    "bleu3": 0.002930513668196694,
+    "bleu4": 0.0018741324121487812,
+    "bertscore_precision": 0.4379288852214813,
+    "bertscore_recall": 0.3758465051651001,
+    "bertscore_f1": 0.40451955795288086
+  }
+}

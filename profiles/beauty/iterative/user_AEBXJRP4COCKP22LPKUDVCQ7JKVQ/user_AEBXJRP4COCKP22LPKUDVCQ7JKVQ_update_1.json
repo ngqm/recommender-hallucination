@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Skinn Cosmetics Lip 6X Balm (Strawberry Daiquiri)\nReview Date: 2016/12/10\nStore: Skinn Cosmetics\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Skinn Cosmetics', 'Item Form': 'Balm', 'Skin Type': 'All', 'Flavor': 'Strawberry Daiquiri', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.3 x 2.7 x 0.7 inches; 0.35 Ounces', 'UPC': '729440770884'}\nReview Text: I like this stuff! It feels good on my lips. Gives a nice tint, too.\nReview Title: Recommend\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Skinn Cosmetics Lip 6X Balm (Strawberry Daiquiri)\nSkinn Cosmetics\n{'Brand': 'Skinn Cosmetics', 'Item Form': 'Balm', 'Skin Type': 'All', 'Flavor': 'Strawberry Daiquiri', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.3 x 2.7 x 0.7 inches; 0.35 Ounces', 'UPC': '729440770884'}\nI like this stuff! It feels good on my lips. Gives a nice tint, too.\nRecommend",
+  "profile": "**User Profile Summary:**\n\n- **Product Affinity:** Strong preference for lip care products, particularly balms that offer both functionality and aesthetic appeal (e.g., tint).\n- **Ingredients & Formulations:** Favorable towards products that are suitable for all skin types, indicating a preference for versatility.\n- **Sensory Experience:** Values sensory attributes such as texture and flavor, as indicated by the positive mention of the product feeling good on lips and having a pleasant taste.\n- **Positive Engagement:** Demonstrates a tendency for high satisfaction with products, as shown by a 5.0 rating despite the average rating being lower.\n- **Brand Loyalty:** Engages with specific brands that align with their preferences, suggesting a tendency for brand loyalty when satisfaction is met.\n- **Overall Rating Trend:** Shows a consistent inclination to rate products positively, which may indicate a generally optimistic view towards cosmetic products.\n\nThis profile indicates a user who enjoys quality lip products that offer both sensory pleasure and visual enhancement, showing loyalty to brands that meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.1621621621621622,
+    "rouge2_f": 0.02727272727272727,
+    "rougeL_f": 0.0990990990990991,
+    "meteor": 0.17313490065200718,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.02273314464901579,
+    "bleu3": 0.006227328162820035,
+    "bleu4": 0.0032631077405736327,
+    "bertscore_precision": 0.42173755168914795,
+    "bertscore_recall": 0.4028092622756958,
+    "bertscore_f1": 0.4120561480522156
+  }
+}

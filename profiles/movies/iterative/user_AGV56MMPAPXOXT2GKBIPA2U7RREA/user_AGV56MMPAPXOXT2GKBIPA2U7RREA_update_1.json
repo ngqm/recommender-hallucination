@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/01/22\nAverage Rating: 4.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': [\"Mimi O'Connor\"], 'Producers': ['Ian Lynch', 'John Coffey', 'Jonathan Challis', 'Robert Strange', 'Stuart Carter', 'Susan Crook'], 'Starring': ['Dean Hovey', 'Robert X. Cringely', 'Bill Fernandez'], 'Studio': ['PBS']}\nReview Text: This informative and interesting documentary of Steve Jobs was well worth the viewing. The interviews with his friends and associates offered a enlightening perspective on the man and his genius.  Particularly interesting was his relationship with Bill Gates, a genius as well.  From this doc's perspective, they enjoyed mutual respect and a kind of affection. The adversarial is not always liked, but Gates appeared to find a way around \"like\" and get to the more of Jobs.\nReview Title: Informative and interesting!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': [\"Mimi O'Connor\"], 'Producers': ['Ian Lynch', 'John Coffey', 'Jonathan Challis', 'Robert Strange', 'Stuart Carter', 'Susan Crook'], 'Starring': ['Dean Hovey', 'Robert X. Cringely', 'Bill Fernandez'], 'Studio': ['PBS']}\nThis informative and interesting documentary of Steve Jobs was well worth the viewing. The interviews with his friends and associates offered a enlightening perspective on the man and his genius.  Particularly interesting was his relationship with Bill Gates, a genius as well.  From this doc's perspective, they enjoyed mutual respect and a kind of affection. The adversarial is not always liked, but Gates appeared to find a way around \"like\" and get to the more of Jobs.\nInformative and interesting!",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user enjoys informative documentaries, particularly those that explore the lives of influential figures in technology and business. \n- **Themes of Interest:** They appreciate insights into personal relationships and interactions between notable personalities, valuing perspectives that highlight mutual respect and complexity.\n- **Rating Behavior:** Tends to rate content positively, with a high average rating suggesting a tendency to find merit in well-crafted narratives and storytelling.\n- **Emotional Engagement:** Shows a preference for content that evokes thoughtful reflection and offers a deeper understanding of the subject matter.\n- **Review Style:** The user expresses a clear opinion with an emphasis on what they found enlightening, showcasing an analytical approach to viewing experiences.\n\nOverall, the user values depth, storytelling quality, and relational dynamics in their media consumption, indicating a preference for content that is both educational and engaging.",
+  "metrics": {
+    "rouge1_f": 0.31451612903225806,
+    "rouge2_f": 0.032520325203252036,
+    "rougeL_f": 0.14516129032258066,
+    "meteor": 0.18896765867760681,
+    "bleu1": 0.2648648648648649,
+    "bleu2": 0.06571490609950131,
+    "bleu3": 0.028683065491798092,
+    "bleu4": 0.010670906790742708,
+    "bertscore_precision": 0.4298969507217407,
+    "bertscore_recall": 0.45702242851257324,
+    "bertscore_f1": 0.44304490089416504
+  }
+}

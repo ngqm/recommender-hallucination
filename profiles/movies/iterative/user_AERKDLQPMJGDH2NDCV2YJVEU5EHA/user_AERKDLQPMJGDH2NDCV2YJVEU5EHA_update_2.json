@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/08/28\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian De Palma'], 'Producers': ['Tom Cruise', 'Paula Wagner', 'Paul Hitchcock'], 'Starring': ['Tom Cruise', 'Jon Voight', 'Emmanuelle Beart'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: I think my 3rd or 4th time watching it and I still love it. What can I say I'm a fan of Tom Cruise running. ;-)\nReview Title: Amazing Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Garland'], 'Producers': ['Scott Rudin', 'Andrew Macdonald', 'Allon Reich', 'Eli Bush', 'David Ellison', 'Dana Goldberg', 'Don Granger', 'Jo Burn'], 'Starring': ['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez'], 'Studio': ['Paramount Pictures Corp.']}\nWeek story line and terrible ending.\nNot enjoyable\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian De Palma'], 'Producers': ['Tom Cruise', 'Paula Wagner', 'Paul Hitchcock'], 'Starring': ['Tom Cruise', 'Jon Voight', 'Emmanuelle Beart'], 'Studio': ['Paramount Pictures Corp.']}\nI think my 3rd or 4th time watching it and I still love it. What can I say I'm a fan of Tom Cruise running. ;-)\nAmazing Movie",
+  "profile": "**User Summary:**\n\n- **Overall Sentiment:** Generally critical of content, particularly when it comes to story quality and resolution, but shows a capacity for appreciation when viewing familiar favorites.\n- **Preferred Content Themes:** Maintains interest in films with darker themes, as evidenced by selected content advisories (violence, alcohol use, foul language, sexual content).\n- **Language and Accessibility:** Continues to favor English audio, with a preference for additional support such as audio description and closed captions.\n- **Production Quality:** Values high-quality productions and demonstrates appreciation for films directed by notable figures, yet possibly holds high expectations influenced by the involvement of prominent actors and production teams.\n- **Acting Preferences:** Displays a strong preference for films featuring well-known actors, emphasizing narrative-driven performances; recent interactions highlight a particular affection for a celebrated actor's work.\n- **Rating Discrepancies:** Shows a tendency to rate content unfavorably when disappointed, especially concerning story coherence and satisfying conclusions, but can rate highly when a film aligns with personal tastes or nostalgia.\n\nThis user balances a critical perspective with a fondness for specific actors and genres, allowing for enjoyable viewing experiences when familiarity and quality are present.",
+  "metrics": {
+    "rouge1_f": 0.16181229773462785,
+    "rouge2_f": 0.06514657980456026,
+    "rougeL_f": 0.11650485436893204,
+    "meteor": 0.09335226096621083,
+    "bleu1": 0.14352829705138906,
+    "bleu2": 0.007377918656867329,
+    "bleu3": 0.0027470115822392778,
+    "bleu4": 0.0016779210844774424,
+    "bertscore_precision": 0.40146541595458984,
+    "bertscore_recall": 0.3892659544944763,
+    "bertscore_f1": 0.3952715992927551
+  }
+}

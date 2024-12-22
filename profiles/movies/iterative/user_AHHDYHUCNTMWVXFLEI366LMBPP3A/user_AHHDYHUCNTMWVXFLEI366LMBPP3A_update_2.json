@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/07\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Martin McDonagh'], 'Producers': ['Graham Broadbent', 'Peter Czernin', 'Martin McDonagh'], 'Starring': ['Colin Farrell', 'Sam Rockwell', 'Woody Harrelson'], 'Studio': ['Paramount']}\nReview Text: This movie is hilarious!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Graham Yost', 'Elmore Leonard', 'Michael Dinner', 'Sarah Timberman', 'Carl Beverly'], 'Starring': ['Timothy Olyphant', 'Nick Searcy', 'Jere Burns'], 'Studio': ['FX Cable Channel']}\nLots of plot twists and turns.\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Martin McDonagh'], 'Producers': ['Graham Broadbent', 'Peter Czernin', 'Martin McDonagh'], 'Starring': ['Colin Farrell', 'Sam Rockwell', 'Woody Harrelson'], 'Studio': ['Paramount']}\nThis movie is hilarious!\nFive Stars",
+  "profile": "**User Profile Summary**\n\n- **Rating Preference**: The user continues to exhibit a tendency to rate high, with an average rating of 4.9, indicating a consistent positive inclination towards their experiences, recently giving a perfect rating of 5.0.\n\n- **Content Interest**: Maintains a strong preference for narratives featuring engaging humor, strong plot twists, and complex storytelling. The user appreciates entertainment that is both unpredictable and funny.\n\n- **Genre Leanings**: The user is comfortable with mature themes such as violence, substance use, and strong language, reflecting an ongoing interest in darker, intense subject matter.\n\n- **Language & Accessibility**: Continues to prefer content available in English, with a focus on English subtitles for accessibility and clear comprehension.\n\n- **Production Quality**: Still favors works from notable directors and producers, emphasizing a desire for high-quality production values and storytelling, as seen in their recognition of acclaimed filmmakers.\n\n- **Actor Preference**: Indicates a preference for compelling performances from specific well-known actors, suggesting that the user's enjoyment is influenced by familiar faces in the cast.\n\nOverall, the user gravitates towards high-quality, intense storytelling that incorporates unexpected elements while also enjoying humor within mature and complex narratives.",
+  "metrics": {
+    "rouge1_f": 0.11447811447811448,
+    "rouge2_f": 0.03389830508474576,
+    "rougeL_f": 0.09427609427609428,
+    "meteor": 0.06890490833497831,
+    "bleu1": 0.11806369217551597,
+    "bleu2": 0.021599149794752397,
+    "bleu3": 0.005699014507840973,
+    "bleu4": 0.0029303897065396057,
+    "bertscore_precision": 0.37608712911605835,
+    "bertscore_recall": 0.37669968605041504,
+    "bertscore_f1": 0.3763931691646576
+  }
+}

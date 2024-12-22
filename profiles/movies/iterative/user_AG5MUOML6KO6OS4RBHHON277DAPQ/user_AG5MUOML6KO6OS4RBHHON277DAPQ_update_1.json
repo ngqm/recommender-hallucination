@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Snow Walker\nReview Date: 2014/01/15\nCategories: Drama, Arthouse, Compelling, Electrifying\nProduct Description: [\"When the plane carrying Charlie Halliday, a maverick bush pilot and a sick, young, Inuit woman crashes hundreds of miles from civilization, they are at the mercy of nature's worst.\"]\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Martin Smith'], 'Producers': ['Rob Merilees', 'William Vince'], 'Starring': ['Barry Pepper', 'Annabella Piugattuk', 'James Cromwell']}\nReview Text: Very good movie of survival...I thoroughly enjoyed it!!! Also, how a person goes from being self centered to caring for another.\nReview Title: Thumbs up \ud83d\udc4d\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "The Snow Walker\nDrama, Arthouse, Compelling, Electrifying\n[\"When the plane carrying Charlie Halliday, a maverick bush pilot and a sick, young, Inuit woman crashes hundreds of miles from civilization, they are at the mercy of nature's worst.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Martin Smith'], 'Producers': ['Rob Merilees', 'William Vince'], 'Starring': ['Barry Pepper', 'Annabella Piugattuk', 'James Cromwell']}\nVery good movie of survival...I thoroughly enjoyed it!!! Also, how a person goes from being self centered to caring for another.\nThumbs up \ud83d\udc4d",
+  "profile": "**User Summary:**\n\nThe user demonstrates a strong preference for dramatic and compelling narratives, particularly those that explore themes of survival and personal transformation. Their positive review of a film indicates a fondness for stories set in challenging environments, highlighting an interest in character development. The user appreciates films with a deeper emotional undertone, valuing character evolution from self-centeredness to empathy. \n\nTheir rating of 4.0, combined with enjoyable phrasing, suggests a discerning taste, favoring quality content that resonates emotionally. The user seems to prefer films that engage the viewer intellectually and emotionally, reflecting a trend towards thoughtful and impactful storytelling. Overall, their profile indicates a liking for arthouse cinema and narratives that deliver electrifying experiences while maintaining a focus on human connection and resilience.",
+  "metrics": {
+    "rouge1_f": 0.19138755980861244,
+    "rouge2_f": 0.00966183574879227,
+    "rougeL_f": 0.09569377990430622,
+    "meteor": 0.119381219680204,
+    "bleu1": 0.16901408450704225,
+    "bleu2": 0.03462197929646073,
+    "bleu3": 0.009495662049038062,
+    "bleu4": 0.004981845297861808,
+    "bertscore_precision": 0.39342549443244934,
+    "bertscore_recall": 0.4214271306991577,
+    "bertscore_f1": 0.40694522857666016
+  }
+}

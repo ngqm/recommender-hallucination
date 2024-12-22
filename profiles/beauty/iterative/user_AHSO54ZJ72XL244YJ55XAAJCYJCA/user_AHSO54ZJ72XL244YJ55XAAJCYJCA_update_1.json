@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Dog & Cat Brush, Self Cleaning Slicker Brush for Pet Grooming Brush, Euyona Bee Pet Brush, Cat shedding Brush Gently Removes Loose Undercoat, Mats Tangled Hair Slicker brush for Pet (Dogs Cats Rabbit)\nReview Date: 2022/03/18\nStore: Euyona\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Euyona', 'Shape': 'Oblong', 'Handle Material': 'Metal', 'Special Feature': 'Self Cleaning', 'Product Benefits': 'Smoothing', 'Package Dimensions': '8.35 x 3.39 x 2.83 inches; 5.2 Ounces', 'UPC': '785214618769'}\nReview Text: I like this brush for my small, short-hair dog. It helps remove his loose hair and he seems to enjoy it when I brush him. I like that I can push a button and it pushes the hair to the ends of the bristles so that I can easily remove the hair. It doesn't get all of the hair, but it is a lot more effective than a normal brush. Overall,  I'm really happy with this brush and would get one like it again.\nReview Title: Nice!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Dog & Cat Brush, Self Cleaning Slicker Brush for Pet Grooming Brush, Euyona Bee Pet Brush, Cat shedding Brush Gently Removes Loose Undercoat, Mats Tangled Hair Slicker brush for Pet (Dogs Cats Rabbit)\nEuyona\n{'Brand': 'Euyona', 'Shape': 'Oblong', 'Handle Material': 'Metal', 'Special Feature': 'Self Cleaning', 'Product Benefits': 'Smoothing', 'Package Dimensions': '8.35 x 3.39 x 2.83 inches; 5.2 Ounces', 'UPC': '785214618769'}\nI like this brush for my small, short-hair dog. It helps remove his loose hair and he seems to enjoy it when I brush him. I like that I can push a button and it pushes the hair to the ends of the bristles so that I can easily remove the hair. It doesn't get all of the hair, but it is a lot more effective than a normal brush. Overall,  I'm really happy with this brush and would get one like it again.\nNice!",
+  "profile": "**User Summary:**\n\n- **Pet Ownership**: Has a small, short-hair dog.\n- **Grooming Tools Preference**: Prefers efficient, user-friendly grooming tools that facilitate easy maintenance of pet hygiene. Enjoys features like self-cleaning mechanisms that enhance convenience during grooming sessions.\n- **Grooming Experience**: Values products that effectively remove loose hair and mats, enhancing the grooming experience for both the pet and owner. Pet appears to enjoy the brushing, indicating a focus on animal comfort.\n- **Product Satisfaction**: Generally satisfied with grooming products and likely to repurchase similar items based on positive experiences. Considers ease of hair removal and tool effectiveness as important factors in product evaluation.\n- **Rating Behavior**: Tends to provide high ratings (e.g., 5-star) for products that meet or exceed expectations, indicating a positive approach to product reviews.\n  \nThis summary reflects a trend towards selecting high-quality, practical, and pet-friendly grooming tools, along with a strong inclination for products that enhance the grooming process.",
+  "metrics": {
+    "rouge1_f": 0.29508196721311475,
+    "rouge2_f": 0.052805280528052806,
+    "rougeL_f": 0.15081967213114753,
+    "meteor": 0.17522971335801102,
+    "bleu1": 0.26732673267326734,
+    "bleu2": 0.09648775161906224,
+    "bleu3": 0.0571028945045597,
+    "bleu4": 0.03698603888936091,
+    "bertscore_precision": 0.43159055709838867,
+    "bertscore_recall": 0.4596642255783081,
+    "bertscore_f1": 0.44518524408340454
+  }
+}

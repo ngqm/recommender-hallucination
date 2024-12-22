@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vera Bradley Fragrance Coffret 4 Piece Set\nReview Date: 2018/11/30\nStore: Vera Bradley\nAverage Rating: 4.7\nProduct Details: {}\nReview Text: i really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nReview Title: brought it for two scents\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Vera Bradley Fragrance Coffret 4 Piece Set\nVera Bradley\n{}\ni really like the cotton and vanilla scents so i bought this coffret set since its kind of hard to find online.\nbrought it for two scents",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** Enjoys cotton and vanilla scents, indicating a preference for fresh and sweet aromas.\n- **Product Interest:** Values multipack or set options, suggesting a tendency to explore different fragrance variations.\n- **Shopping Behavior:** Prefers purchasing items that are not easily found online, indicating a desire for unique or hard-to-find products.\n- **Reviewing Habits:** Generally positive reviewer, with a tendency to appreciate quality, evidenced by a high average rating. \n\nOverall, the user has a clear inclination towards pleasant, comforting fragrances and appreciates curated sets.",
+  "metrics": {
+    "rouge1_f": 0.21311475409836064,
+    "rouge2_f": 0.08333333333333333,
+    "rougeL_f": 0.14754098360655737,
+    "meteor": 0.17637412107700223,
+    "bleu1": 0.08799999999999998,
+    "bleu2": 0.04614143753790638,
+    "bleu3": 0.03259135188453666,
+    "bleu4": 0.023080054171029832,
+    "bertscore_precision": 0.4757564663887024,
+    "bertscore_recall": 0.396236777305603,
+    "bertscore_f1": 0.43237078189849854
+  }
+}

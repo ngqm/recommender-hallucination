@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/31\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Kwapis'], 'Producers': ['Robert Redford', 'Bill Holderman', 'Chip Diggins', 'Jeremiah Samuels', 'Jake Eberts'], 'Starring': ['Robert Redford', 'Nick Nolte', 'Emma Thompson'], 'Studio': ['Broad Green Pictures']}\nReview Text: Not a patch on the book. Bryson's wit replaced with vulgarity. Completely lacking in the true challenge of the experience. Ending anticlimactic. Insipid. I guess the money was too tempting. Only redeeming feature of this film was the acting.\nReview Title: Disappointment.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Kwapis'], 'Producers': ['Robert Redford', 'Bill Holderman', 'Chip Diggins', 'Jeremiah Samuels', 'Jake Eberts'], 'Starring': ['Robert Redford', 'Nick Nolte', 'Emma Thompson'], 'Studio': ['Broad Green Pictures']}\nNot a patch on the book. Bryson's wit replaced with vulgarity. Completely lacking in the true challenge of the experience. Ending anticlimactic. Insipid. I guess the money was too tempting. Only redeeming feature of this film was the acting.\nDisappointment.",
+  "profile": "This user exhibits a strong preference for high-quality narratives, particularly those aligned with literary sources, indicating a tendency to favor content that retains the essence of its original material. They express disappointment when adaptations diverge significantly from the source, especially regarding tone and depth. The user's critical response suggests a dislike for excessive vulgarity and a preference for nuanced humor, as noted in their comment about the replacement of wit with crudeness.\n\nAdditionally, they appreciate skilled performances by actors, indicating that compelling acting can enhance their viewing experience, even if the overall content does not meet their expectations. Their critical nature suggests they are discerning and have established standards for storytelling that prioritize authenticity and emotional impact. Overall, this emerging profile showcases a consumer who values literary fidelity, sophisticated humor, and notable acting in media selections.",
+  "metrics": {
+    "rouge1_f": 0.19178082191780824,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.1004566210045662,
+    "meteor": 0.1183431952662722,
+    "bleu1": 0.2091503267973856,
+    "bleu2": 0.011730255717963111,
+    "bleu3": 0.004500001626563678,
+    "bleu4": 0.002791815334150294,
+    "bertscore_precision": 0.3864401876926422,
+    "bertscore_recall": 0.402809739112854,
+    "bertscore_f1": 0.3944551944732666
+  }
+}

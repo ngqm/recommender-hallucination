@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/01\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael McGowan'], 'Producers': ['Michael McGowan', 'Jody Colero', 'Avi Federgreen', 'Tamara Deverell'], 'Starring': ['James Cromwell', 'Genevieve Bujold', 'Campbell Scott'], 'Studio': ['SAMUEL GOLDWYN FILMS LLC.']}\nReview Text: Beautiful story, not to be missed!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael McGowan'], 'Producers': ['Michael McGowan', 'Jody Colero', 'Avi Federgreen', 'Tamara Deverell'], 'Starring': ['James Cromwell', 'Genevieve Bujold', 'Campbell Scott'], 'Studio': ['SAMUEL GOLDWYN FILMS LLC.']}\nBeautiful story, not to be missed!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys compelling narratives, particularly in film. Values emotional storytelling and character depth.\n- **Rating Tendencies:** Tends to provide high ratings (average rating of 4.6) indicating a positive response towards quality content.\n- **Language & Accessibility:** Prefers English language audio and appreciates subtitles, suggesting a focus on accessibility and understanding.\n- **Director & Producer Influence:** Shows a tendency to favor works by specific directors and producers, indicating a potential preference for consistent thematic or stylistic qualities in cinematic productions. \n- **Actor Preference:** Appears to appreciate performances by well-regarded actors, indicating a value placed on strong talent.\n- **Overall Sentiment:** Communicates enthusiasm and satisfaction with chosen content, suggesting a strong emotional connection to the media consumed. \n\nThis profile reflects a user who seeks high-quality, emotionally resonant stories, showing a pattern of consistent preferences for particular filmmaking elements and accessibility features.",
+  "metrics": {
+    "rouge1_f": 0.10169491525423728,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06779661016949153,
+    "meteor": 0.10356073435927644,
+    "bleu1": 0.07653061224489796,
+    "bleu2": 0.006264700137907348,
+    "bleu3": 0.002724789448163475,
+    "bleu4": 0.0017993281911048175,
+    "bertscore_precision": 0.3804144263267517,
+    "bertscore_recall": 0.3351786136627197,
+    "bertscore_f1": 0.35636672377586365
+  }
+}

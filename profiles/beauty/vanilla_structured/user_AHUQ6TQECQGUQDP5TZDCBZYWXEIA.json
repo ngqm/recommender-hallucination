@@ -1,0 +1,78 @@
+{
+  "user_id": "AHUQ6TQECQGUQDP5TZDCBZYWXEIA",
+  "summary": "=== Purchase Information ===\nProduct Title: Avon Big & False Lash Mascara - Brown/Black by Big & False Lash\nReview Date: 2016/01/09\nStore: AVON\nAverage Rating: 4.0\nProduct Details: {'Color': 'black', 'Brand': 'AVON', 'Item Volume': '10 Milliliters', 'Package Information': 'Tube', 'Package Type': 'Tube', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.9 x 1 x 1 inches; 0.71 Ounces', 'UPC': '888761028828'}\nReview Text: Just ok\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Kingfansion Makeup Cosmetic Brushes Kabuki Face Blush Brush Powder Foundation Tool\nReview Date: 2016/07/08\nStore: ALIVER\nAverage Rating: 3.8\nProduct Details: {'Brand': 'ALIVER', 'Recommended Uses For Product': 'For Blush, For Foundation', 'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Is Discontinued By Manufacturer': 'No', 'UPC': '643507533017'}\nReview Text: Finally arrived ! So much better than expected,  it was worth the month long wait\nReview Title: Better than expected\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Depilatory Hard Wax Facial Stick by Natural Way\nReview Date: 2017/01/19\nStore: Naturalway\nAverage Rating: 3.3\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Naturalway', 'Number of Items': '1', 'Unit Count': '1 Count', 'Package Dimensions': '5 x 2 x 1 inches; 1.6 Ounces', 'UPC': '614722000509 614722000363', 'Manufacturer': 'Natural Way'}\nReview Text: Can't use! The wax came broken at the base ....unusuable.  what a waste of money\nReview Title: Dont buy! Came cracked\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: eBoot Fashion Bohemian Flower Crown Wreath Floral Garland Headbands for Wedding Beach Festival, 5 Pieces (Multicolor)\nReview Date: 2017/10/20\nStore: EBOOT\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '7.09 x 7.09 x 0.12 inches; 2.12 Ounces', 'UPC': '710560358601'}\nReview Text: Didn't fit mine or my daughter's head\nReview Title: Not worth it\nRating: 1.0\n--------------------------------------------------",
+  "reference": "Avon Big & False Lash Mascara - Brown/Black by Big & False Lash\nAVON\n{'Color': 'black', 'Brand': 'AVON', 'Item Volume': '10 Milliliters', 'Package Information': 'Tube', 'Package Type': 'Tube', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.9 x 1 x 1 inches; 0.71 Ounces', 'UPC': '888761028828'}\nJust ok\nTwo Stars\nKingfansion Makeup Cosmetic Brushes Kabuki Face Blush Brush Powder Foundation Tool\nALIVER\n{'Brand': 'ALIVER', 'Recommended Uses For Product': 'For Blush, For Foundation', 'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Is Discontinued By Manufacturer': 'No', 'UPC': '643507533017'}\nFinally arrived ! So much better than expected,  it was worth the month long wait\nBetter than expected\nDepilatory Hard Wax Facial Stick by Natural Way\nNaturalway\n{'Item Form': 'Wax', 'Brand': 'Naturalway', 'Number of Items': '1', 'Unit Count': '1 Count', 'Package Dimensions': '5 x 2 x 1 inches; 1.6 Ounces', 'UPC': '614722000509 614722000363', 'Manufacturer': 'Natural Way'}\nCan't use! The wax came broken at the base ....unusuable.  what a waste of money\nDont buy! Came cracked\neBoot Fashion Bohemian Flower Crown Wreath Floral Garland Headbands for Wedding Beach Festival, 5 Pieces (Multicolor)\nEBOOT\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '7.09 x 7.09 x 0.12 inches; 2.12 Ounces', 'UPC': '710560358601'}\nDidn't fit mine or my daughter's head\nNot worth it",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Avon Big & False Lash Mascara - Brown/Black by Big & False Lash\nReview Date: 2016/01/09\nStore: AVON\nAverage Rating: 4.0\nProduct Details: {'Color': 'black', 'Brand': 'AVON', 'Item Volume': '10 Milliliters', 'Package Information': 'Tube', 'Package Type': 'Tube', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.9 x 1 x 1 inches; 0.71 Ounces', 'UPC': '888761028828'}\nReview Text: Just ok\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Kingfansion Makeup Cosmetic Brushes Kabuki Face Blush Brush Powder Foundation Tool\nReview Date: 2016/07/08\nStore: ALIVER\nAverage Rating: 3.8\nProduct Details: {'Brand': 'ALIVER', 'Recommended Uses For Product': 'For Blush, For Foundation', 'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Is Discontinued By Manufacturer': 'No', 'UPC': '643507533017'}\nReview Text: Finally arrived ! So much better than expected,  it was worth the month long wait\nReview Title: Better than expected\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Depilatory Hard Wax Facial Stick by Natural Way\nReview Date: 2017/01/19\nStore: Naturalway\nAverage Rating: 3.3\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Naturalway', 'Number of Items': '1', 'Unit Count': '1 Count', 'Package Dimensions': '5 x 2 x 1 inches; 1.6 Ounces', 'UPC': '614722000509 614722000363', 'Manufacturer': 'Natural Way'}\nReview Text: Can't use! The wax came broken at the base ....unusuable.  what a waste of money\nReview Title: Dont buy! Came cracked\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: eBoot Fashion Bohemian Flower Crown Wreath Floral Garland Headbands for Wedding Beach Festival, 5 Pieces (Multicolor)\nReview Date: 2017/10/20\nStore: EBOOT\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '7.09 x 7.09 x 0.12 inches; 2.12 Ounces', 'UPC': '710560358601'}\nReview Text: Didn't fit mine or my daughter's head\nReview Title: Not worth it\nRating: 1.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThis individual exhibits varied preferences and sentiments across products, characterized by inconsistent ratings and mixed emotional responses. The preference for beauty and cosmetic items is apparent, with a focus on makeup application tools. However, the user displays dissatisfaction through negative reviews for specific products that either arrived damaged or were unsuitable.\n\nCommon themes suggest a moderate enthusiasm for beauty-related functionalities, particularly highlighting value and effectiveness in brushes, but disappointment in product usability and quality from other categories, such as wax and floral accessories. The individual seems to lean towards moderate to high-quality expectations, as evidenced by higher ratings for received items exceeding expectations compared to significant dissatisfaction with broken or ill-fitting products.\n\nQuality perception appears crucial, resonating with specific purchases that performed well. Price sensitivity could be inferred from the exploration of value-for-money experiences, considering mixed reactions to timely arrivals juxtaposed with issues of product quality.\n\nUltimately, core preferences indicate a desire for effective beauty solutions while demonstrating cautious behavior regarding product quality and suitability, suggesting a balanced approach to makeup and personal care shopping.",
+  "target_interaction": {
+    "rating": 1.0,
+    "title": "Cheap",
+    "text": "Cheap and from China ! My fault for not asking where from? This is what the packaging looks like",
+    "images": [
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/61nIthW5I+L._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/61nIthW5I+L._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/61nIthW5I+L.jpg",
+        "attachment_type": "IMAGE"
+      },
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/61pnZQ6z8kL._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/61pnZQ6z8kL._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/61pnZQ6z8kL.jpg",
+        "attachment_type": "IMAGE"
+      }
+    ],
+    "asin": "B087TPXVK7",
+    "parent_asin": "B087TPXVK7",
+    "user_id": "AHUQ6TQECQGUQDP5TZDCBZYWXEIA",
+    "timestamp": "2020-08-02 22:25:55.614000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "VOVCIG Hair Dye Gloves,Professional Hair Coloring Accessories for Hair Salon Hair Dyeing 20 Pcs",
+    "average_rating": 4.1,
+    "rating_number": 39,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41cb+Dg77RL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41cb+Dg77RL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/51HVg1zrIXL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41GOwQUzQVL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41GOwQUzQVL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/512x0NEn+oL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51HBx4RChKL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51HBx4RChKL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/611WrtifrsL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51Ci1bY5xyL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51Ci1bY5xyL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/61+0bxAF+sL._SL1001_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "VOVCIG",
+    "categories": [],
+    "details": {
+      "Brand": "VOVCIG",
+      "Size": "20 Count (Pack of 1)",
+      "Unit Count": "20.00 Count",
+      "Reusability": "Disposable",
+      "Age Range (Description)": "Adult",
+      "Package Dimensions": "8.15 x 5.31 x 1.5 inches; 3.17 Ounces",
+      "UPC": "791523121142"
+    },
+    "bought_together": null
+  }
+}

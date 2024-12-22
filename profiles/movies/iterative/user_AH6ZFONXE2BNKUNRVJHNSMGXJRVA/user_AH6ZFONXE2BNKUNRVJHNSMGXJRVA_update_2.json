@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Cold Skin\nReview Date: 2019/03/14\nCategories: Science Fiction, Suspense, Eerie, Intense\nProduct Description: ['On a remote island in the Antarctic circle, a young man finds himself trapped in a battle for his life against nightly invasions of unknown creatures that emerge from the ocean.']\nAverage Rating: 4.0\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Xavier Gens'], 'Producers': [\"Denise O'Dell\", 'Mark Albela', 'Orlando Pedregosa', 'Denis Pedregosa'], 'Starring': ['Ray Stevenson', 'David Oakes', 'Aura Garrido']}\nReview Text: Husband purchase\nReview Title: Movie purchase\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Quale'], 'Producers': ['Luc Besson', 'Rapha\u00ebl Benoliel'], 'Starring': ['Sullivan Stapleton', 'Charlie Bewley', 'Joshua Henry'], 'Studio': ['EuropaCorp']}\nHusband purchased this\nMovie purchase\nCold Skin\nScience Fiction, Suspense, Eerie, Intense\n['On a remote island in the Antarctic circle, a young man finds himself trapped in a battle for his life against nightly invasions of unknown creatures that emerge from the ocean.']\n{'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Xavier Gens'], 'Producers': [\"Denise O'Dell\", 'Mark Albela', 'Orlando Pedregosa', 'Denis Pedregosa'], 'Starring': ['Ray Stevenson', 'David Oakes', 'Aura Garrido']}\nHusband purchase\nMovie purchase",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preferences:** The user continues to favor films with mature themes, including elements of violence, foul language, and adult situations. Their recent purchase aligns with an interest in science fiction and suspense, reinforcing their preference for intense and eerie narratives.\n\n- **Language Accessibility:** The user's appreciation for enhanced audio and subtitle features remains evident, with a preference for English audio and closed captions, indicating a consistency in seeking accessible media.\n\n- **Engagement with Purchase Decisions:** The latest interaction confirms that the user\u2019s spouse is still influential in their media choices, as evidenced by collaborative purchasing. This suggests that they value shared viewing experiences and may consider their partner's preferences and opinions in the selection process.\n\n- **Skepticism in Ratings:** The user maintains a critical approach to assessing content, as shown by a consistent average rating of 4.2 across their selections, but has provided a lower score of 3.0 for the recent purchase. This reinforces their discerning nature and suggests a thoughtful evaluation of quality.\n\nOverall, the user demonstrates a strong affinity for adult-themed films, emphasizing accessibility features and collaborative decisions while maintaining a critical eye on the content they consume.",
+  "metrics": {
+    "rouge1_f": 0.1981424148606811,
+    "rouge2_f": 0.03115264797507788,
+    "rougeL_f": 0.11145510835913311,
+    "meteor": 0.08984893073361146,
+    "bleu1": 0.12042990367170246,
+    "bleu2": 0.021674492921153424,
+    "bleu3": 0.005687917072927949,
+    "bleu4": 0.0029168014098571735,
+    "bertscore_precision": 0.36164790391921997,
+    "bertscore_recall": 0.3635867238044739,
+    "bertscore_f1": 0.3626147210597992
+  }
+}

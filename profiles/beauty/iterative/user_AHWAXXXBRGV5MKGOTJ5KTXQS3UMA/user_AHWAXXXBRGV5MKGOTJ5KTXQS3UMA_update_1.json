@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BOOSCA Turmeric Facial Cleansing Mask Stick Moisturizing Face Clean Clay Deep Cleanse Mask for All Skin Types\nReview Date: 2022/05/10\nStore: BOOSCA\nAverage Rating: 3.5\nProduct Details: {'Brand': 'BOOSCA', 'Item Form': 'Clay', 'Recommended Uses For Product': 'Hydrating,Acne,Cleansing,Moisturizing', 'Material Feature': 'Natural', 'Skin Tone': 'All', 'Package Dimensions': '3.07 x 1.54 x 1.5 inches; 2.89 Ounces'}\nReview Text: I love this facial cleanser it\u2019s easy to use and works great! It helps clear the skin and remove the blemishes and acne scars.\nReview Title: Facial cleanser\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BOOSCA Turmeric Facial Cleansing Mask Stick Moisturizing Face Clean Clay Deep Cleanse Mask for All Skin Types\nBOOSCA\n{'Brand': 'BOOSCA', 'Item Form': 'Clay', 'Recommended Uses For Product': 'Hydrating,Acne,Cleansing,Moisturizing', 'Material Feature': 'Natural', 'Skin Tone': 'All', 'Package Dimensions': '3.07 x 1.54 x 1.5 inches; 2.89 Ounces'}\nI love this facial cleanser it\u2019s easy to use and works great! It helps clear the skin and remove the blemishes and acne scars.\nFacial cleanser",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Natural Products:** The user shows a strong inclination towards products with natural ingredients, as indicated by their positive review of a facial cleanser that highlights its natural material features.\n\n- **Effective Skin Care Solutions:** The user values effectiveness in skincare, emphasizing results such as clearing skin, removing blemishes, and addressing acne scars. This suggests a focus on products that deliver visible improvements.\n\n- **Simple and Convenient Usage:** The user appreciates products that are easy to use, indicating a preference for straightforward application methods in their skincare routine.\n\n- **Broad Product Compatibility:** The mention of the product being suitable for all skin types suggests the user favors versatile solutions that can cater to various needs.\n\n- **Moderate Critical Approach:** The average rating of 3.5 indicates that while the user enjoys certain products, they may have higher expectations, indicating a balanced approach to evaluating skincare items.",
+  "metrics": {
+    "rouge1_f": 0.2589285714285714,
+    "rouge2_f": 0.08108108108108109,
+    "rougeL_f": 0.10714285714285714,
+    "meteor": 0.19768598615916957,
+    "bleu1": 0.15544041450777202,
+    "bleu2": 0.06362332481991094,
+    "bleu3": 0.03486661475878303,
+    "bleu4": 0.012221343117419172,
+    "bertscore_precision": 0.4564474821090698,
+    "bertscore_recall": 0.42775535583496094,
+    "bertscore_f1": 0.4416359066963196
+  }
+}

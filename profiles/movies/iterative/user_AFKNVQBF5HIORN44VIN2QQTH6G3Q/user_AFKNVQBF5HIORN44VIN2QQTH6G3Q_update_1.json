@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/04/03\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Palmer', 'Andy Wilson', 'John Strickland'], 'Producers': ['ITV'], 'Starring': ['Geraldine McEwan'], 'Studio': ['Agatha Christie']}\nReview Text: I have always loved Agatha Christie's Miss Marple. Read the books years ago and finding this series was such a joy.  Great to watch and unwind.  Makes an enjoyable weekend mini- marathon with friends.\nReview Title: Love the books, enjoy the series!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Palmer', 'Andy Wilson', 'John Strickland'], 'Producers': ['ITV'], 'Starring': ['Geraldine McEwan'], 'Studio': ['Agatha Christie']}\nI have always loved Agatha Christie's Miss Marple. Read the books years ago and finding this series was such a joy.  Great to watch and unwind.  Makes an enjoyable weekend mini- marathon with friends.\nLove the books, enjoy the series!",
+  "profile": "**User Profile Summary**\n\n- **Content Preference**: Strong affinity for classic detective stories and adaptations, particularly works by Agatha Christie.\n- **Viewing Habits**: Enjoys watching series, especially during leisure time with friends (e.g., weekend marathons).\n- **Engagement with Material**: Values both source materials (books) and their screen adaptations; finds joy in revisiting familiar stories.\n- **Language & Accessibility**: Preference for English audio and subtitles, suggesting a focus on clarity and understanding.\n- **Rating Behavior**: Generally positive ratings, indicating a tendency to appreciate high-quality productions and storytelling. \n\nOverall, the user appears to prioritize engaging narratives, character-driven stories, and social viewing experiences, leaning towards classic and time-tested content.",
+  "metrics": {
+    "rouge1_f": 0.2545454545454546,
+    "rouge2_f": 0.024539877300613498,
+    "rougeL_f": 0.10909090909090911,
+    "meteor": 0.17311209618000362,
+    "bleu1": 0.1948051948051948,
+    "bleu2": 0.05046259143869278,
+    "bleu3": 0.011876774304090735,
+    "bleu4": 0.005771379611234257,
+    "bertscore_precision": 0.4622263014316559,
+    "bertscore_recall": 0.437063068151474,
+    "bertscore_f1": 0.4492926299571991
+  }
+}

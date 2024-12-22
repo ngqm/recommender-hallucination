@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/08/23\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Jordan'], 'Producers': ['Joel Silver', 'Susan Downey'], 'Starring': ['Jodie Foster', 'Terrence Howard', 'Naveen Andrews'], 'Studio': ['WARNER BROS.']}\nReview Text: Excellent movie\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Studio': ['NETFLIX']}\nWonderful series\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Starring': ['Mireille Enos', 'Joel Kinnaman'], 'Studio': ['NETFLIX']}\nGreat series and price\nFive Stars\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Jordan'], 'Producers': ['Joel Silver', 'Susan Downey'], 'Starring': ['Jodie Foster', 'Terrence Howard', 'Naveen Andrews'], 'Studio': ['WARNER BROS.']}\nExcellent movie\nFive Stars",
+  "profile": "The user strongly favors high-quality, engaging series characterized by complex narratives and intense themes, such as violence, alcohol use, and mature content. Their recent interactions further underline a discerning taste for thought-provoking television that elicits strong emotional responses. Their latest evaluation\u2014a highly rated movie\u2014reinforces their preference for renowned appeal and critical acclaim, as they highlighted the production quality and cast involvement.\n\nAdditionally, they have demonstrated significant appreciation for well-produced content from reputable studios, with a recent positive reference to a project from a respected studio, reflecting a keen interest in high production values. The user prioritizes accessibility, ensuring content is offered in English and supplemented with English subtitles for optimal comprehension and engagement.\n\nOverall, the user's consistent positive ratings suggest a deep connection with critically acclaimed series and films that not only entertain but also invite reflection and personal resonance. They continue to seek out content that delivers impactful storytelling, enriched character development, and mature themes, emphasizing their preference for thought-provoking narratives that engage them on multiple emotional levels. This latest interaction aligns seamlessly with their established viewing habits and reinforces their dedication to quality television and film.",
+  "metrics": {
+    "rouge1_f": 0.11076923076923079,
+    "rouge2_f": 0.02476780185758514,
+    "rougeL_f": 0.06153846153846155,
+    "meteor": 0.03844867937144768,
+    "bleu1": 0.0564670993414864,
+    "bleu2": 0.012985395537966076,
+    "bleu3": 0.0036985889503794423,
+    "bleu4": 0.001976285834469248,
+    "bertscore_precision": 0.3345724940299988,
+    "bertscore_recall": 0.32460421323776245,
+    "bertscore_f1": 0.32951298356056213
+  }
+}

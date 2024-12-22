@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Grace & Glorie\nReview Date: 2014/02/10\nStore: Gena Rowlands  (Actor),     Diane Lane  (Actor),     Arthur Allan Seidelman  (Director)    &                   0                  more   Rated:    Unrated    Format: VHS Tape\nCategories: Movies & TV, Genre for Featured Categories, Drama\nProduct Description: [\"When a lonely ex-New Yorker moves into the home of a rural senior to act as a hospice worker, the two initially couldn't seem to be less alike. However, as time passes, the two find much kinship including a lost child. Slowly the two build a bond and learn about life.\"]\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.5 x 3.9 x 1.1 inches; 0.8 Ounces', 'Director': 'Arthur Allan Seidelman', 'Release date': 'January 12, 1999', 'Date First Available': 'February 9, 2007', 'Actors': 'Gena Rowlands, Diane Lane, Gordana Rashovich, William Severs, Jack Willis', 'Studio': 'Hallmark'}\nReview Text: recieved on time. I bought this item for a gift. It is such a great movie. It arrived new and I would recommend this to anyone.\nReview Title: the best\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Grace & Glorie\nGena Rowlands  (Actor),     Diane Lane  (Actor),     Arthur Allan Seidelman  (Director)    &                   0                  more   Rated:    Unrated    Format: VHS Tape\nMovies & TV, Genre for Featured Categories, Drama\n[\"When a lonely ex-New Yorker moves into the home of a rural senior to act as a hospice worker, the two initially couldn't seem to be less alike. However, as time passes, the two find much kinship including a lost child. Slowly the two build a bond and learn about life.\"]\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.5 x 3.9 x 1.1 inches; 0.8 Ounces', 'Director': 'Arthur Allan Seidelman', 'Release date': 'January 12, 1999', 'Date First Available': 'February 9, 2007', 'Actors': 'Gena Rowlands, Diane Lane, Gordana Rashovich, William Severs, Jack Willis', 'Studio': 'Hallmark'}\nrecieved on time. I bought this item for a gift. It is such a great movie. It arrived new and I would recommend this to anyone.\nthe best",
+  "profile": "**User Profile Summary:**\n\n- **Genres of Interest:** Strong preference for drama, particularly those exploring deep emotional connections and personal growth. \n- **Content Format:** Shows a tendency to purchase movies, specifically on VHS, indicating a fondness for classic or nostalgic cinema.\n- **Gift-Giving:** Exhibits a thoughtful nature, as evidenced by purchasing items as gifts.\n- **Review Behavior:** Typically provides positive feedback, showcasing an appreciation for quality content and dependable service (e.g., timely delivery and item condition).\n- **Personal Values:** Values storytelling that highlights connection, compassion, and the journey of life, likely resonating with narratives centered on relationships and personal struggles. \n\nOverall, this user displays an inclination toward heartwarming and meaningful films, coupled with an emphasis on positive purchasing experiences and authentic reviews.",
+  "metrics": {
+    "rouge1_f": 0.1764705882352941,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09558823529411764,
+    "meteor": 0.11876484560570072,
+    "bleu1": 0.19411505985163344,
+    "bleu2": 0.04198760554960637,
+    "bleu3": 0.009303739541643466,
+    "bleu4": 0.004386053896602298,
+    "bertscore_precision": 0.35859227180480957,
+    "bertscore_recall": 0.4268379211425781,
+    "bertscore_f1": 0.3897501826286316
+  }
+}

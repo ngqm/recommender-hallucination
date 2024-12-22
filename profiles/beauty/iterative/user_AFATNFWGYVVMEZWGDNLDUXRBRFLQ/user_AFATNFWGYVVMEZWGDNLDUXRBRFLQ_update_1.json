@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Imstyle Drag Queens Wig Wavy Ash Brown Heat Resistant Synthetic Lace Wig\nReview Date: 2016/09/29\nStore: IMSTYLE\nAverage Rating: 2.1\nProduct Details: {'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Heat Resistant', 'Brand': 'IMSTYLE', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.21 x 6.5 x 2.4 inches; 13.05 Ounces', 'Item model number': 'CWN5#16/8', 'UPC': '795400523081'}\nReview Text: Amazing quality and realistic looking product. Imstyle's Ash Brown. I hope they bring this back. After trying out so many wigs for fun and costuming, this is IT. I would buy this again in a heartbeat.\nReview Title: Amazing. This Looks So Real. Color is Fantastic\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Imstyle Drag Queens Wig Wavy Ash Brown Heat Resistant Synthetic Lace Wig\nIMSTYLE\n{'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Heat Resistant', 'Brand': 'IMSTYLE', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.21 x 6.5 x 2.4 inches; 13.05 Ounces', 'Item model number': 'CWN5#16/8', 'UPC': '795400523081'}\nAmazing quality and realistic looking product. Imstyle's Ash Brown. I hope they bring this back. After trying out so many wigs for fun and costuming, this is IT. I would buy this again in a heartbeat.\nAmazing. This Looks So Real. Color is Fantastic",
+  "profile": "The user exhibits a strong interest in wigs, particularly those that are realistic in appearance and versatile for various uses such as fun or costuming. They favor products with specific features that enhance usability, such as heat resistance. The positive experience with a modern, wavy ash brown wig indicates a preference for contemporary styles and colors that feel authentic. The user values quality and has a willingness to repurchase items that meet these standards. Overall, their preferences suggest a focus on aesthetic appeal and functionality in hair accessories, with a tendency to seek out exceptional products that enhance their creative expression.",
+  "metrics": {
+    "rouge1_f": 0.24875621890547264,
+    "rouge2_f": 0.04020100502512563,
+    "rougeL_f": 0.10945273631840796,
+    "meteor": 0.14002111313119467,
+    "bleu1": 0.13927372051152737,
+    "bleu2": 0.03052985044117408,
+    "bleu3": 0.00857035027903817,
+    "bleu4": 0.0045513077829805034,
+    "bertscore_precision": 0.3725021481513977,
+    "bertscore_recall": 0.4199896454811096,
+    "bertscore_f1": 0.3948231041431427
+  }
+}

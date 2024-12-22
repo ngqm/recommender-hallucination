@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 100 pcs Compressed Facial Mask Women DIY Beauty Facial Cotton Paper Compress Masque Disposable Dry Sheet Mask for Skin Face Care\nReview Date: 2019/06/01\nStore: Evoio\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Evoio', 'Item Form': 'Sheet', 'Scent': 'Cotton Paper', 'Skin Type': 'Dry', 'Unit Count': '100.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.29 x 4.41 x 2.87 inches; 5.96 Ounces'}\nReview Text: Product comes in a small fabric pouch containing 100 individually sealed compact paper masks. The masks are folded in such a way that they're compressed to the size of 2 nickels stacked on top of each other. To use you simply pour lotion or facial cream onto it and then slowly and carefully unfurl it on your face. The first time around you'll likely waste a few masks as the paper is very thin and if you're not careful they tear quite easily. That said once you get the hang of it they provide a decent and cost friendly way to get a homemade lotion mask treatment.\nReview Title: Lotion mask on the cheap\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "100 pcs Compressed Facial Mask Women DIY Beauty Facial Cotton Paper Compress Masque Disposable Dry Sheet Mask for Skin Face Care\nEvoio\n{'Brand': 'Evoio', 'Item Form': 'Sheet', 'Scent': 'Cotton Paper', 'Skin Type': 'Dry', 'Unit Count': '100.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.29 x 4.41 x 2.87 inches; 5.96 Ounces'}\nProduct comes in a small fabric pouch containing 100 individually sealed compact paper masks. The masks are folded in such a way that they're compressed to the size of 2 nickels stacked on top of each other. To use you simply pour lotion or facial cream onto it and then slowly and carefully unfurl it on your face. The first time around you'll likely waste a few masks as the paper is very thin and if you're not careful they tear quite easily. That said once you get the hang of it they provide a decent and cost friendly way to get a homemade lotion mask treatment.\nLotion mask on the cheap",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Enthusiast:** Demonstrates interest in DIY beauty solutions and effective skincare routines.\n- **Value-Conscious:** Prefers cost-effective options for skincare treatments, indicating a budget-friendly approach to beauty purchases.\n- **Product Experience:** Values practicality and functionality, as noted in the user's review about the ease of use after initial trials, suggesting a willingness to adapt to product nuances for better results.\n- **Material Awareness:** Shows preference for disposable and hygienic products, favoring items that are easy to use and maintain.\n- **Target Skin Type:** Specifically caters to dry skin, indicating a focus on hydration and moisture retention in their skincare routine.\n- **Need for Guidance:** Expresses a learning curve with the product, highlighting openness to experimentation and improvement when using new beauty tools. \n\nOverall, this user leans towards effective, economical skincare solutions that enhance their beauty regimen while being mindful of material properties and usability.",
+  "metrics": {
+    "rouge1_f": 0.23343848580441642,
+    "rouge2_f": 0.01904761904761905,
+    "rougeL_f": 0.11356466876971609,
+    "meteor": 0.13580246913580246,
+    "bleu1": 0.22160537562299096,
+    "bleu2": 0.010473058184070155,
+    "bleu3": 0.0037929283865447525,
+    "bleu4": 0.002285496556508991,
+    "bertscore_precision": 0.4153842628002167,
+    "bertscore_recall": 0.4356924295425415,
+    "bertscore_f1": 0.42529603838920593
+  }
+}

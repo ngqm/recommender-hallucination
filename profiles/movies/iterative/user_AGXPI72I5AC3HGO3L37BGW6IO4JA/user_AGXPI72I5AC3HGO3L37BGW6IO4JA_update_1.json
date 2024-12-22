@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Travel Yugoslavia:Adriatic Coast [VHS]\nReview Date: 2001/09/14\nStore: Rated:    NR    Format: VHS Tape\nCategories: Movies & TV, Movies\nAverage Rating: 5.0\nProduct Details: {'Format': 'Color, NTSC', 'Contributor': 'Travel Series', 'Runtime': '30 minutes', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Run time': '30 minutes', 'Release date': 'September 13, 1991', 'Date First Available': 'September 29, 2006', 'Actors': 'Travel Series', 'Studio': 'Victory Multimedia C', 'Country of Origin': 'USA'}\nReview Text: This is an older film made prior to the end of the war in '95.<br />However, the scenery is beautiful.  Shows most of the larger cities on the Adriatic Coastline in what is now Croatia, with a few southern cities as well.<br />Good, basic information.  Does not really show the magnificent beauty of the Adriatic Sea.<br />I do enjoy it and brings back the wonderful memories I have from my visit there in 2000.<br />Thank you for offering this video for sale. I hope you offer more on Croatia in the future.\nReview Title: Adriatic Coast\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Travel Yugoslavia:Adriatic Coast [VHS]\nRated:    NR    Format: VHS Tape\nMovies & TV, Movies\n{'Format': 'Color, NTSC', 'Contributor': 'Travel Series', 'Runtime': '30 minutes', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Run time': '30 minutes', 'Release date': 'September 13, 1991', 'Date First Available': 'September 29, 2006', 'Actors': 'Travel Series', 'Studio': 'Victory Multimedia C', 'Country of Origin': 'USA'}\nThis is an older film made prior to the end of the war in '95.<br />However, the scenery is beautiful.  Shows most of the larger cities on the Adriatic Coastline in what is now Croatia, with a few southern cities as well.<br />Good, basic information.  Does not really show the magnificent beauty of the Adriatic Sea.<br />I do enjoy it and brings back the wonderful memories I have from my visit there in 2000.<br />Thank you for offering this video for sale. I hope you offer more on Croatia in the future.\nAdriatic Coast",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Strong interest in travel-related media, particularly focusing on historical and scenic content.\n- **Preferences:** Preferred format is VHS, indicating a nostalgia for older media and perhaps a preference for the tactile experience of physical formats.\n- **Content Focus:** Enjoys travel documentaries or films showcasing specific geographic locations, especially coastal regions.\n- **Emotional Connection:** Values personal experiences and memories associated with travel, specifically highlighting past visits and emotional ties to locations.\n- **Desire for More Content:** Expresses a desire for additional materials related to specific regions (like Croatia), suggesting an ongoing interest in exploring travel narratives and visual content related to this area.\n- **Rating Behavior:** Tends to provide high ratings for content that resonates personally, indicating a positive approach to media consumption and a tendency to appreciate well-crafted travel experiences.\n\nOverall, this user displays a clear affinity for travel-related films that evoke nostalgia and emotional connections through beautifully captured landscapes and cultural insights.",
+  "metrics": {
+    "rouge1_f": 0.19682539682539685,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09523809523809523,
+    "meteor": 0.10393631136665192,
+    "bleu1": 0.15728050615388253,
+    "bleu2": 0.008309313091413051,
+    "bleu3": 0.0031229104303682814,
+    "bleu4": 0.0019168252071826847,
+    "bertscore_precision": 0.4119400382041931,
+    "bertscore_recall": 0.4445722699165344,
+    "bertscore_f1": 0.4276345372200012
+  }
+}

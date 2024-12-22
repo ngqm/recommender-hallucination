@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/12\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Anderson', 'Bille Eltringham', 'Nicholas Renton'], 'Producers': ['Chris Burt', 'Damien Timmer', 'Michele Buck', 'Rebecca Eaton'], 'Starring': ['Clare Holman', 'Kevin Whately', 'Laurence Fox'], 'Studio': ['PBS']}\nReview Text: This series is  very well directed and produced. The scenery is fantastic of the English towns and countryside. The acting is superb. The plots are well executed and thought out. Love the character studies and watching how the relationships between the main characters develop over time. Just a great mystery series if you are a mystery buff.\nReview Title: Great Whodunit British series!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Beeman', 'Olatunde Osunsanmi', 'Sergio Mimica-Gezzan', 'Adam Kane', 'Jonathan Frakes', 'David Solomon', 'Holly Dale', 'Frederick E.O. Toye', 'Carl Franklin', 'Anthony Hemingway'], 'Starring': ['Noah Wyle', 'Moon Bloodgood', 'Will Patton'], 'Studio': ['TNT']}\nGreat writers, producers, director. Excellent cast. Story plot just keeps getting better. Excellent special effects and acting. I'm hooked. One of the best series on television today.\nTop Show on TV\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Anderson', 'Bille Eltringham', 'Nicholas Renton'], 'Producers': ['Chris Burt', 'Damien Timmer', 'Michele Buck', 'Rebecca Eaton'], 'Starring': ['Clare Holman', 'Kevin Whately', 'Laurence Fox'], 'Studio': ['PBS']}\nThis series is  very well directed and produced. The scenery is fantastic of the English towns and countryside. The acting is superb. The plots are well executed and thought out. Love the character studies and watching how the relationships between the main characters develop over time. Just a great mystery series if you are a mystery buff.\nGreat Whodunit British series!",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for high-quality television series characterized by compelling storytelling, excellent direction, and robust performances. They particularly appreciate work from talented writers and a notable cast, indicating a focus on the overall production quality. Their ratings suggest a tendency to favor well-crafted narratives with engaging plots and impressive special effects. Recently, they have shown a specific affinity for British mystery series, highlighting their enjoyment of well-executed plots, character development, and detailed scenery that captures the essence of English settings. \n\nThe user\u2019s choice of genres leans towards drama, science fiction, and now, mystery, as inferred from their enthusiasm about intricate character studies and relationship dynamics. The focus on English audio and subtitles suggests a comfort with content in English, reinforcing their preference for domestic and high-quality productions. Overall, this user values shows that excel in creative craftsmanship, deliver captivating viewing experiences, and exhibit strong direction and production values, demonstrating a consistent appreciation for narratives that thoughtfully explore character relationships over time.",
+  "metrics": {
+    "rouge1_f": 0.2934131736526946,
+    "rouge2_f": 0.048192771084337345,
+    "rougeL_f": 0.125748502994012,
+    "meteor": 0.1391390309710285,
+    "bleu1": 0.1879173047380774,
+    "bleu2": 0.06996945667017453,
+    "bleu3": 0.031764842559924296,
+    "bleu4": 0.010133732038113434,
+    "bertscore_precision": 0.39089691638946533,
+    "bertscore_recall": 0.4410005509853363,
+    "bertscore_f1": 0.4144398868083954
+  }
+}

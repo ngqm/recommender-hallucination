@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/04/02\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Ford Coppola'], 'Producers': ['Joseph Landon'], 'Starring': ['Fred Astaire', 'Petula Clark', 'Tommy Steele'], 'Studio': ['WARNER BROS.']}\nReview Text: omg. I could not wait for this movie to end.<br />my son is doing this for his choir group<br />watched it to get ideas of the show\nReview Title: omg. I could not wait for this movie to ...\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adrian Molina', 'Lee Unkrich'], 'Producers': ['Darla K. Anderson'], 'Starring': ['Anthony Gonzalez', 'Gael Garc\u00eda Bernal', 'Benjamin Bratt'], 'Studio': ['Pixar']}\ngreat movie\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Ford Coppola'], 'Producers': ['Joseph Landon'], 'Starring': ['Fred Astaire', 'Petula Clark', 'Tommy Steele'], 'Studio': ['WARNER BROS.']}\nomg. I could not wait for this movie to end.<br />my son is doing this for his choir group<br />watched it to get ideas of the show\nomg. I could not wait for this movie to ...",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally rates products highly with an average rating of 4.8, but recently rated a product lower at 2.0, indicating that some offerings may not meet expectations.\n- **Content Preferences:** Shows a strong preference for animated features, particularly from renowned studios, though their recent interaction suggests a willingness to explore other genres.\n- **Language Accessibility:** Appreciates inclusivity, valuing options for multiple audio languages and subtitle availability.\n- **Engagement Style:** Usually expresses satisfaction through simple, positive feedback, but can also articulate disappointment as evidenced by the recent review, which communicates strong dissatisfaction.\n- **Cultural Appreciation:** Demonstrates interest in diverse cultural elements and multicultural representation, but recent interactions indicate that the cultural representation or overall production quality can significantly impact enjoyment.\n- **Visual and Auditory Focus:** Prefers visually engaging narratives with strong storytelling, although the user\u2019s latest experience highlights that quality and coherence in a story are crucial for overall satisfaction.\n\nOverall, while this user typically leans toward high-quality animated films that feature inclusive elements and culturally rich narratives, they are also open to different types of content. Recent feedback shows that a mismatch in expectations can lead to negative reviews.",
+  "metrics": {
+    "rouge1_f": 0.1188811188811189,
+    "rouge2_f": 0.00704225352112676,
+    "rougeL_f": 0.07692307692307693,
+    "meteor": 0.09514271407110667,
+    "bleu1": 0.12749003984063745,
+    "bleu2": 0.007141149482839229,
+    "bleu3": 0.002735976106633107,
+    "bleu4": 0.0016952014105064141,
+    "bertscore_precision": 0.3657402992248535,
+    "bertscore_recall": 0.3477129340171814,
+    "bertscore_f1": 0.3564988672733307
+  }
+}

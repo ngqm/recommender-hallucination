@@ -1,0 +1,100 @@
+{
+  "user_id": "AED2ZJ3XMFE4DAPKWJQBQQFSPQAQ",
+  "summary": "=== Purchase Information ===\nProduct Title: CHEEON Peruvian Virgin Hair Body Wave 4 Bundles 14 16 18 20 Inches 8A Grade Unprocessed Human Hair Bundles Body Wave Virgin Hair 100g/pcs Natural Color\nReview Date: 2017/09/05\nStore: CHEEON\nAverage Rating: 3.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '15 x 2 x 11 inches; 14.4 Ounces', 'UPC': '602191022610'}\nReview Text: Love this hair , very soft and minimum shedding. Great for the price and I will purchase again from vendor.\nReview Title: Love this hair\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Goldfinch Hair Brazilian Virgin Straight Hair Weave 3 Bundles with Free Part Closure 100% Unprocessed Human Hair Extensions With Brazilian Lace Closure (14 14 14 +12)\nReview Date: 2018/08/01\nStore: Liron\nAverage Rating: 5.0\nProduct Details: {'Brand': 'Liron', 'Color': 'Black', 'Hair Type': 'Straight', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 11.22 Ounces'}\nReview Text: Made a bob with this hair ! The hair is of great quality and super soft ! It holds a curl very well too ! I would highly recommend it !\nReview Title: Quality Hair , Great Price !\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Goldfinch Kinky Curly Bundles with Frontal Brazilian Virgin Curly Human Hair Bundles with Frontal Free Part 13x4 Ear to Ear Lace Frontal with Bundles 18 20 22 + 18\nReview Date: 2019/04/25\nStore: Goldfinch\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Goldfinch', 'Material': 'Human Hair', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 14.89 Ounces'}\nReview Text: Love this hair ! So soft and beautiful ! Hair arrived fast with no smell and full thick bundles !\nReview Title: Love this hair !!!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Wine Red Yaki Jumbo Braiding Hair 26 inches Burgundy kanekalon Braiding Hair High Temperature Synthetic Braiding Hair Extensions for Twist Crochet Hair 5PCS/Lot 90g/pc\nReview Date: 2019/09/27\nStore: Colorful Bird\nAverage Rating: 3.2\nProduct Details: {'Brand': 'Colorful Bird', 'Color': 'Red', 'Extension Length': '26 Inches', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 6 x 0.5 inches; 1.09 Pounds'}\nReview Text: Good hair for Brading . Love the pretty wine red color !\nReview Title: Good Braiding Hair\nRating: 5.0\n--------------------------------------------------",
+  "reference": "CHEEON Peruvian Virgin Hair Body Wave 4 Bundles 14 16 18 20 Inches 8A Grade Unprocessed Human Hair Bundles Body Wave Virgin Hair 100g/pcs Natural Color\nCHEEON\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '15 x 2 x 11 inches; 14.4 Ounces', 'UPC': '602191022610'}\nLove this hair , very soft and minimum shedding. Great for the price and I will purchase again from vendor.\nLove this hair\nGoldfinch Hair Brazilian Virgin Straight Hair Weave 3 Bundles with Free Part Closure 100% Unprocessed Human Hair Extensions With Brazilian Lace Closure (14 14 14 +12)\nLiron\n{'Brand': 'Liron', 'Color': 'Black', 'Hair Type': 'Straight', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 11.22 Ounces'}\nMade a bob with this hair ! The hair is of great quality and super soft ! It holds a curl very well too ! I would highly recommend it !\nQuality Hair , Great Price !\nGoldfinch Kinky Curly Bundles with Frontal Brazilian Virgin Curly Human Hair Bundles with Frontal Free Part 13x4 Ear to Ear Lace Frontal with Bundles 18 20 22 + 18\nGoldfinch\n{'Brand': 'Goldfinch', 'Material': 'Human Hair', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 14.89 Ounces'}\nLove this hair ! So soft and beautiful ! Hair arrived fast with no smell and full thick bundles !\nLove this hair !!!\nWine Red Yaki Jumbo Braiding Hair 26 inches Burgundy kanekalon Braiding Hair High Temperature Synthetic Braiding Hair Extensions for Twist Crochet Hair 5PCS/Lot 90g/pc\nColorful Bird\n{'Brand': 'Colorful Bird', 'Color': 'Red', 'Extension Length': '26 Inches', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 6 x 0.5 inches; 1.09 Pounds'}\nGood hair for Brading . Love the pretty wine red color !\nGood Braiding Hair",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: CHEEON Peruvian Virgin Hair Body Wave 4 Bundles 14 16 18 20 Inches 8A Grade Unprocessed Human Hair Bundles Body Wave Virgin Hair 100g/pcs Natural Color\nReview Date: 2017/09/05\nStore: CHEEON\nAverage Rating: 3.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '15 x 2 x 11 inches; 14.4 Ounces', 'UPC': '602191022610'}\nReview Text: Love this hair , very soft and minimum shedding. Great for the price and I will purchase again from vendor.\nReview Title: Love this hair\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Goldfinch Hair Brazilian Virgin Straight Hair Weave 3 Bundles with Free Part Closure 100% Unprocessed Human Hair Extensions With Brazilian Lace Closure (14 14 14 +12)\nReview Date: 2018/08/01\nStore: Liron\nAverage Rating: 5.0\nProduct Details: {'Brand': 'Liron', 'Color': 'Black', 'Hair Type': 'Straight', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 11.22 Ounces'}\nReview Text: Made a bob with this hair ! The hair is of great quality and super soft ! It holds a curl very well too ! I would highly recommend it !\nReview Title: Quality Hair , Great Price !\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Goldfinch Kinky Curly Bundles with Frontal Brazilian Virgin Curly Human Hair Bundles with Frontal Free Part 13x4 Ear to Ear Lace Frontal with Bundles 18 20 22 + 18\nReview Date: 2019/04/25\nStore: Goldfinch\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Goldfinch', 'Material': 'Human Hair', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10 x 8 x 2 inches; 14.89 Ounces'}\nReview Text: Love this hair ! So soft and beautiful ! Hair arrived fast with no smell and full thick bundles !\nReview Title: Love this hair !!!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Wine Red Yaki Jumbo Braiding Hair 26 inches Burgundy kanekalon Braiding Hair High Temperature Synthetic Braiding Hair Extensions for Twist Crochet Hair 5PCS/Lot 90g/pc\nReview Date: 2019/09/27\nStore: Colorful Bird\nAverage Rating: 3.2\nProduct Details: {'Brand': 'Colorful Bird', 'Color': 'Red', 'Extension Length': '26 Inches', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 6 x 0.5 inches; 1.09 Pounds'}\nReview Text: Good hair for Brading . Love the pretty wine red color !\nReview Title: Good Braiding Hair\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for high-quality human hair extensions, emphasizing softness, minimal shedding, and versatility in styling. The individual demonstrates a consistent positive sentiment towards products rated 5.0, indicating a high likelihood of repeat purchases for items that excel in quality. A notable trend is the fondness for various textures, including body wave, straight, and curly, suggesting an appreciation for diverse hairstyles.\n\nPrice sensitivity is moderate, as the consumer appears willing to invest in quality products while still favoring competitive pricing; positive sentiments are often linked to value for money. However, there is less enthusiasm for synthetic extensions, as evidenced by lower ratings and mixed reviews for those products.  \n\nOverall, this individual prioritizes softness, durability, and aesthetic appeal in hair extensions, while maintaining a balanced approach toward pricing, emphasizing quality and customer satisfaction as key factors in their purchasing decisions.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Nice price for closure",
+    "text": "Beautiful curls and thick closure needed to complete a short wig I am making ! I\u2019ll definitely buy again",
+    "images": [
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/81Q625AcqnL._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/81Q625AcqnL._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/81Q625AcqnL.jpg",
+        "attachment_type": "IMAGE"
+      },
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/81apeJfeEeL._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/81apeJfeEeL._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/81apeJfeEeL.jpg",
+        "attachment_type": "IMAGE"
+      },
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/81sdpn+x31L._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/81sdpn+x31L._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/81sdpn+x31L.jpg",
+        "attachment_type": "IMAGE"
+      }
+    ],
+    "asin": "B07ZHCKQCM",
+    "parent_asin": "B07ZHCKQCM",
+    "user_id": "AED2ZJ3XMFE4DAPKWJQBQQFSPQAQ",
+    "timestamp": "2020-01-16 16:59:25.185000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Goldfinch Curly Lace Closure Human Hair Free Part 4x4 Lace Closure Pre Plucked 100% Unprocessed Virgin Hair Deep Curly Lace Closure Natural Color 10inches",
+    "average_rating": 3.6,
+    "rating_number": 6,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41GE9R98dyL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41GE9R98dyL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71XOuV9JdmL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41SD5sx1xqL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41SD5sx1xqL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/811jNtP0EPL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41pZVI6ElvL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41pZVI6ElvL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/71BgxmYkSZL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41Xzzq45cRL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41Xzzq45cRL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/71uB2nfdfNL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41cjpU43BnL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41cjpU43BnL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/71pWE695lYL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41bFi0ERgoL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41bFi0ERgoL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/714qxQp9SAL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41d+yxT-pOL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41d+yxT-pOL.jpg",
+        "variant": "PT06",
+        "hi_res": "https://m.media-amazon.com/images/I/71XXoHeGKML._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "Goldfinch",
+    "categories": [],
+    "details": {
+      "Brand": "Goldfinch",
+      "Material": "Human Hair",
+      "Extension Length": "10 Inches",
+      "Hair Type": "Curly",
+      "Package Dimensions": "10.24 x 6.42 x 0.91 inches; 1.27 Ounces"
+    },
+    "bought_together": null
+  }
+}

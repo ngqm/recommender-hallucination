@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hair Clipper Beard Trimmer Kit for Men,Cordless Hair Trimmer Mustache Trimmer Body Groomer Trimmer for Nose Ear Facial Hair with LED Display USB Rechargeable 5 In 1\nReview Date: 2020/08/19\nStore: 8sanlione\nAverage Rating: 3.9\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.5 x 1.77 x 1.18 inches; 1.12 Pounds'}\nReview Text: Clippers work great. My husband was able to trim his hair and beard with ease. Battery lasted decently & I love that it comes with a wide range of accessories.\nReview Title: Great Clippers\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hair Clipper Beard Trimmer Kit for Men,Cordless Hair Trimmer Mustache Trimmer Body Groomer Trimmer for Nose Ear Facial Hair with LED Display USB Rechargeable 5 In 1\n8sanlione\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.5 x 1.77 x 1.18 inches; 1.12 Pounds'}\nClippers work great. My husband was able to trim his hair and beard with ease. Battery lasted decently & I love that it comes with a wide range of accessories.\nGreat Clippers",
+  "profile": "**User Profile Summary:**\n\n- **Focus on Grooming:** User shows a strong interest in personal grooming products, specifically hair clippers and beard trimmers.\n- **Convenience and Versatility:** Preference for cordless, multi-functional grooming kits that include various accessories indicates a desire for convenience and versatility.\n- **Battery Performance:** Importance placed on battery life, suggesting a need for reliable tools that can operate for extended periods without frequent recharging.\n- **Quality and Ease of Use:** Positive feedback regarding ease of use implies a preference for products that simplify the grooming process.\n- **User Experience:** The review highlights satisfaction with product functionality, indicating a trend toward valuing quality performance in grooming tools.\n- **Gender-focused Products:** An emphasis on products designed for men suggests that the user is likely purchasing for a male individual.\n- **Positive Engagement:** User has a tendency to leave favorable ratings when products meet expectations, indicating a generally positive consumer attitude.\n\nThis profile reflects a user who prioritizes practicality, quality, and versatility in grooming products, while clearly favoring effective performance and user-friendly design.",
+  "metrics": {
+    "rouge1_f": 0.17813765182186234,
+    "rouge2_f": 0.03265306122448979,
+    "rougeL_f": 0.10526315789473685,
+    "meteor": 0.15712087445611803,
+    "bleu1": 0.08771929824561403,
+    "bleu2": 0.019657787938439586,
+    "bleu3": 0.005550348899734219,
+    "bleu4": 0.002952531798023723,
+    "bertscore_precision": 0.43206140398979187,
+    "bertscore_recall": 0.3843061029911041,
+    "bertscore_f1": 0.4067869782447815
+  }
+}

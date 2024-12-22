@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: XSYHair 6A Unprocessed Brazilian 3 Bundles Body Wave Human Hair with One 4\u00d74 Nature Black Lace Closure for Black Women\nReview Date: 2020/06/23\nStore: XSYHair\nAverage Rating: 5.0\nProduct Details: {'Brand': 'XSYHair', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Package Dimensions': '1 x 1 x 1 inches'}\nReview Text: Good\nReview Title: Good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Straight With Lace Closure Unprocessed 100% Human Hair 4 Bundles with 4x4 Free Part Closure Natural Black (8'' 8'' 8'' 8''With 8'' Closure)\nXuchang Jinhongze Fazhipin Co.,Ltd\n{'Brand': 'Xuchang Jinhongze Fazhipin Co.,Ltd', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '8 Inches', 'Hair Type': 'Straight'}\nGood hair\nGood\nshort bob headband wig human hair headband wigs for black women Straight Short Bob Human Hair Wig for Women Easy to Wear Half Wig with Free Headband Machine Made 150% Density (10)\nUsexy\n{'Brand': 'Usexy', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11.81 x 3.94 x 7.87 inches; 10.56 Ounces', 'UPC': '613865341487'}\nVery good\nSoft hai\nXSYHair 6A Unprocessed Brazilian 3 Bundles Body Wave Human Hair with One 4\u00d74 Nature Black Lace Closure for Black Women\nXSYHair\n{'Brand': 'XSYHair', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Package Dimensions': '1 x 1 x 1 inches'}\nGood\nGood",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preference for High-Quality Hair Products:** The user remains committed to high-quality, natural human hair, consistently favoring authenticity and quality over synthetic options.\n- **Hair Type and Style Variation:** The user's recent purchase of a wavy hair product indicates a continued expansion in their interest for stylistic versatility, complementing their earlier choice of a curly wig while still preferring manageable styles.\n- **Length and Flexibility:** Although a previous inclination toward shorter styles was noted, this purchase involves multiple bundles, suggesting an appreciation for longer hair lengths for styling creativity and adaptability, while still valuing ease of use.\n- **Consistent Satisfaction:** The user maintains a strong trend of positive experiences, as reflected in their perfect rating for the latest purchase, reinforcing their discerning taste and satisfaction with chosen products.\n- **Color Consistency:** The preference for classic shades persists, evidenced by the recent choice of natural black, indicative of a continued focus on timeless and natural color options.\n- **Vendor Loyalty:** The user continues to engage with a trusted vendor, demonstrating loyalty and a preference for reputable brands that align with their quality expectations and consistent positive experiences.\n\nOverall, the user has shown an evolving interest in diverse hair types and lengths while maintaining high standards for quality and manageability in their hair product selections.",
+  "metrics": {
+    "rouge1_f": 0.1657754010695187,
+    "rouge2_f": 0.021505376344086023,
+    "rougeL_f": 0.10160427807486631,
+    "meteor": 0.0977130977130977,
+    "bleu1": 0.12867647058823528,
+    "bleu2": 0.02179038606082588,
+    "bleu3": 0.005602588107828028,
+    "bleu4": 0.002843501432125644,
+    "bertscore_precision": 0.3723604381084442,
+    "bertscore_recall": 0.3605242967605591,
+    "bertscore_f1": 0.3663467466831207
+  }
+}

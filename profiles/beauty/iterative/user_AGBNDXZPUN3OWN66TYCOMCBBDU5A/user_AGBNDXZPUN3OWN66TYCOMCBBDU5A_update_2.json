@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Arqumi Shower Cap for Women, Polyester Satin Shower Cap, Waterproof Pattern Shower Cap Bath Cap with Elastic Band, Wine Red\nReview Date: 2022/07/09\nStore: Arqumi\nAverage Rating: 5.0\nProduct Details: {'Package Dimensions': '9.37 x 6.06 x 1.85 inches; 1.76 Ounces'}\nReview Text: I struggled with finding a shower cap that could actually hold all of my hair. I have waist-length, thick hair and this held it perfectly well. It kept all of my hair inside and didn\u2019t get wet at all. It\u2019s good thick material, I definitely recommend for those with long and thick hair.\nReview Title: For long hair.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Kristin Ess The Oversized Satin Scrunchie ? Cheetah\nKristin Ess\n['But make it fashun! This chic satin, oversized scrunchie can be wrapped once or twice depending on the thickness of your hair. Try securing your ponytail with a regular elastic first and then put this over to maximize the look!']\n{'Material': 'Satin', 'Item Form': 'Scrunchie', 'Brand': 'Kristin Ess', 'Hair Type': 'All', 'Number of Pieces': '1', 'Package Dimensions': '10.55 x 6.26 x 1.46 inches; 1.13 Ounces', 'Item model number': '184-KES-0309', 'UPC': '840797141438'}\n[[VIDEOID:1caeab65346b101dab4627efe802e13f]] This has no stretch whatsoever. It\u2019s literally just a super tight hair tie wrapped in a bunch of extra, unnecessary fabric. I have waist length hair and only use scrunchies because it\u2019s the only thing that stretches enough and holds my hair. This is not it ladies.\nAbsolutely not\nArqumi Shower Cap for Women, Polyester Satin Shower Cap, Waterproof Pattern Shower Cap Bath Cap with Elastic Band, Wine Red\nArqumi\n{'Package Dimensions': '9.37 x 6.06 x 1.85 inches; 1.76 Ounces'}\nI struggled with finding a shower cap that could actually hold all of my hair. I have waist-length, thick hair and this held it perfectly well. It kept all of my hair inside and didn\u2019t get wet at all. It\u2019s good thick material, I definitely recommend for those with long and thick hair.\nFor long hair.",
+  "profile": "**User Summary:**\n\n- **Hair Accessories Preference:** The user favors scrunchies designed for thick hair, prioritizing functionality over fashion.\n- **Material Sensitivity:** Prefers stretchy materials for hair accessories, expressing dissatisfaction with non-stretchy or tight products.\n- **Quality Expectations:** Expects high performance from purchased items and tends to provide low ratings for products that do not meet these expectations.\n- **Product Rating Pattern:** Provides honest feedback based on practicality, reflecting their user experience in ratings.\n- **Focus on Functionality:** Chooses items adept at securely managing long hair while being user-friendly.\n\n**Recent Interaction Update:**\nThe user recently purchased a shower cap that successfully accommodated their waist-length, thick hair, receiving high praise for its ability to keep hair dry and securely contained. The positive experience further emphasizes their trend towards seeking reliable, functional products that meet their specific hair needs. Their feedback demonstrates a consistent expectation for effective performance, solidifying their profile as a user dedicated to practicality and quality in beauty accessories, especially those suitable for long and thick hair.",
+  "metrics": {
+    "rouge1_f": 0.25125628140703515,
+    "rouge2_f": 0.05555555555555555,
+    "rougeL_f": 0.1407035175879397,
+    "meteor": 0.1578258726085116,
+    "bleu1": 0.20069187025418508,
+    "bleu2": 0.08472833221801385,
+    "bleu3": 0.05475604389605292,
+    "bleu4": 0.038315815747221066,
+    "bertscore_precision": 0.41323840618133545,
+    "bertscore_recall": 0.4555591344833374,
+    "bertscore_f1": 0.4333680272102356
+  }
+}

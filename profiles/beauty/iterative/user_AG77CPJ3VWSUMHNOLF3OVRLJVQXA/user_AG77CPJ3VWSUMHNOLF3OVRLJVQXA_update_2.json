@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Everyday Beauty Glow Day Cream, Gel-to-Oil Rich Moisturizer to Minimize Signs of Aging, Reduce Redness, Dullness, and Fatigue for a Healthy Glow, 1 oz. Jar\nReview Date: 2022/08/20\nStore: Everyday Beauty\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Everyday Beauty', 'Scent': 'Rose', 'Unit Count': '1.0 Ounce', 'Number of Items': '1', 'Item Volume': '1 Fluid Ounces', 'Package Dimensions': '2.56 x 2.52 x 1.93 inches; 4.66 Ounces', 'UPC': '700463002381', 'Manufacturer': 'Cosmetic Solutions, LLC'}\nReview Text: I like this moisturizer.  The scent is a soft pleasant rose scent and the cream goes on thick but rubs in smoothly leaving a nice, slight glow.\nReview Title: Refreshing soft scent\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Eyebrow Stamp Stencil Kit for Beginner - Eye Brow Stamping Kit, 24 Shaping Eyebrow Stencils and Stamp Kit, Waterproof Chocolate Brow Pomade Eyebrow Makeup Kit for Girls, Teens\nPOZILAN\n{'Brand': 'POZILAN', 'Finish Type': 'Natural', 'Special Feature': 'Waterproof', 'Material Feature': 'Natural', 'Product Benefits': 'Softening,Long Lasting', 'Package Dimensions': '5.75 x 5.43 x 1.61 inches; 0.32 Ounces'}\nThis  product is fast and easy to apply.  Hardest thing about it is trying to make both sides even.  I'm definitely happy with this product.\nFast and easy!\nEveryday Beauty Glow Day Cream, Gel-to-Oil Rich Moisturizer to Minimize Signs of Aging, Reduce Redness, Dullness, and Fatigue for a Healthy Glow, 1 oz. Jar\nEveryday Beauty\n{'Brand': 'Everyday Beauty', 'Scent': 'Rose', 'Unit Count': '1.0 Ounce', 'Number of Items': '1', 'Item Volume': '1 Fluid Ounces', 'Package Dimensions': '2.56 x 2.52 x 1.93 inches; 4.66 Ounces', 'UPC': '700463002381', 'Manufacturer': 'Cosmetic Solutions, LLC'}\nI like this moisturizer.  The scent is a soft pleasant rose scent and the cream goes on thick but rubs in smoothly leaving a nice, slight glow.\nRefreshing soft scent",
+  "profile": "**User Summary:**\n\n- **Makeup Preference:** Generally favors easy and quick application products, particularly in the eyebrow category, and now has shown interest in skincare products that enhance the complexion.\n- **Experience Level:** Appears to be a beginner in makeup application, seeking products that support a straightforward experience and indicates a growing awareness of skincare benefits.\n- **Desired Features:** Values products that offer a natural finish, are waterproof, and now also appreciates moisturizers that promote a healthy glow and address signs of aging and fatigue. \n- **Review Sentiment:** Maintains a positive experience with the ease of use and product effectiveness, showing satisfaction with both makeup and skincare products. There are some ongoing concerns about achieving symmetry in makeup application.\n- **Target Demographic:** Likely a younger audience, possibly teens or young adults, as indicated by a preference for beginner-friendly makeup and skincare products that are both practical and effective.\n\nOverall, the user continues to gravitate towards practical, user-friendly beauty solutions while expanding the focus from makeup to include skincare essentials that simplify and enhance their beauty routine. The recent skincare purchase suggests an evolving interest in maintaining healthy skin alongside makeup application.",
+  "metrics": {
+    "rouge1_f": 0.23118279569892475,
+    "rouge2_f": 0.03243243243243243,
+    "rougeL_f": 0.10752688172043012,
+    "meteor": 0.1461479829605125,
+    "bleu1": 0.1815622542606083,
+    "bleu2": 0.03753236582020623,
+    "bleu3": 0.00818718959911858,
+    "bleu4": 0.003827897822559573,
+    "bertscore_precision": 0.4176146388053894,
+    "bertscore_recall": 0.4557132124900818,
+    "bertscore_f1": 0.4358328878879547
+  }
+}

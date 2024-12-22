@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/08\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Landesman'], 'Producers': ['Ridley Scott', 'Giannina Scott', 'David Wolthoff', 'Larry Shuman', 'Elizabeth Cantillon'], 'Starring': ['Albert Brooks', 'Will Smith', 'Luke Wilson'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: Good movie. Made me think more about sports even down to grade school level.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Barry Sonnenfeld'], 'Producers': ['Lucy Fisher', 'Douglas Wick'], 'Starring': ['Diane Michelle', 'Robin Williams', 'Jeff Daniels'], 'Studio': ['Columbia Pictures']}\nit was a good move\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Landesman'], 'Producers': ['Ridley Scott', 'Giannina Scott', 'David Wolthoff', 'Larry Shuman', 'Elizabeth Cantillon'], 'Starring': ['Albert Brooks', 'Will Smith', 'Luke Wilson'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nGood movie. Made me think more about sports even down to grade school level.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Content Preference**: Enjoys films with strong narratives, often favoring productions by renowned directors and studios. Recently demonstrated an interest in thought-provoking sports-related themes.\n- **Language and Accessibility**: Prefers content in English and values closed captions for enhanced comprehension, alongside various audio options including dialogue boosts and audio descriptions to improve accessibility.\n- **Overall Rating Trends**: Maintains a high average rating of 4.7, with a recent review showing an upward trend, reflecting a consistent appreciation for quality content.\n- **Review Behavior**: Engages in providing constructive feedback in straightforward language, indicating an analytical yet casual approach to reviewing. Recently rated a film highly, emphasizing its intellectual impact.\n- **Genre Inclination**: Likely enjoys a mix of comedy and drama, especially those that involve well-known actors, but is also open to films that provoke thought and discussion, as evidenced by recent interests.\n- **Producer Affinity**: Shows a preference for films produced by established figures in the industry, particularly prominent producers associated with high-quality cinema.\n\nThis updated profile reflects a user who not only appreciates high-quality English-language films but is also drawn to narratives that provoke reflection, thereby enhancing their viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.13793103448275865,
+    "rouge2_f": 0.013888888888888888,
+    "rougeL_f": 0.07586206896551724,
+    "meteor": 0.09064572775164458,
+    "bleu1": 0.1020408163265306,
+    "bleu2": 0.006466839003037039,
+    "bleu3": 0.0025818198854243063,
+    "bleu4": 0.0016330166568997457,
+    "bertscore_precision": 0.38534024357795715,
+    "bertscore_recall": 0.3824009895324707,
+    "bertscore_f1": 0.38386499881744385
+  }
+}

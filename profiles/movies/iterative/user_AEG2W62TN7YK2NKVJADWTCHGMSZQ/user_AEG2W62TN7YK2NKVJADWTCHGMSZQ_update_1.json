@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/01\nAverage Rating: 3.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Terry McDonagh'], 'Starring': ['Ray Winstone', 'Suranne Jones'], 'Studio': ['FilmRise']}\nReview Text: On a whim, I came across this British mystery series and decided to watch.  I'm on the 2nd season and have thoroughly enjoyed the series ... it's too bad that it ends with 2nd season.  would've been nice to have more added.\nReview Title: On a whim\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Terry McDonagh'], 'Starring': ['Ray Winstone', 'Suranne Jones'], 'Studio': ['FilmRise']}\nOn a whim, I came across this British mystery series and decided to watch.  I'm on the 2nd season and have thoroughly enjoyed the series ... it's too bad that it ends with 2nd season.  would've been nice to have more added.\nOn a whim",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys British mystery series, demonstrating a preference for well-crafted narratives that blend intrigue with character-driven storytelling.\n- **Engagement Style:** Engages with shows on a whim, indicating a spontaneous approach to content selection. \n- **Viewing Habits:** Currently invested in longer series, showing a tendency to appreciate multi-season formats, which provide substantial character development and plot progression.\n- **Language:** Prefers content in English and values subtitles, suggesting a focus on accessibility and understanding.\n- **Emotional Response:** Displays a genuine appreciation for storytelling, as evidenced by thorough enjoyment and desire for continuance of content after conclusion of a series.\n- **Rating Behavior:** Has rated content variably (3.0 to 5.0), indicating a discerning tastes and possibly an inclination to express strong opinions about what resonates with them.\n\nOverall, this user shows a clear affinity for intricate and engaging narratives, specifically within the mystery genre, and prefers content that allows for deep engagement and emotional connection.",
+  "metrics": {
+    "rouge1_f": 0.20183486238532108,
+    "rouge2_f": 0.037037037037037035,
+    "rougeL_f": 0.10091743119266054,
+    "meteor": 0.14951627088830258,
+    "bleu1": 0.14285714285714285,
+    "bleu2": 0.05228869856160021,
+    "bleu3": 0.029734509261862985,
+    "bleu4": 0.010615806531818895,
+    "bertscore_precision": 0.44366419315338135,
+    "bertscore_recall": 0.39569148421287537,
+    "bertscore_f1": 0.4183068871498108
+  }
+}

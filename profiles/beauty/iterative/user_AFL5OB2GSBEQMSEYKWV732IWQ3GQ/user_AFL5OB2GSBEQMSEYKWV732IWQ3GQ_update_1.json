@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Makeup Headband 4 Pack Bow Hair Band Women Cat Ears Facial Spa Headband Soft Carol Fleece Hair Stuff Hairlace Party Favors Skincare Headbands for Girls Washing Face Shower Mask (Blue,Purple,Pink,Gray)\nReview Date: 2020/10/23\nStore: YanJie\nAverage Rating: 4.2\nProduct Details: {'Color': 'Blue,Gray,Pink,Purple', 'Age Range (Description)': 'Adult', 'Occasion': 'Party', 'Material': 'Microfiber', 'Fabric Type': 'Microfiber,Fleece', 'Package Dimensions': '11.73 x 7.8 x 2.68 inches; 9.14 Ounces', 'UPC': '751300682587'}\nReview Text: Really gorgeous, these kitty ear headbands are super soft and pretty. I love them because they don't squeeze the ears. They fit great on me and my litt girl so I recommend them for mom and a daughter spa nights or for make a different gift.\nReview Title: Headlands\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Makeup Headband 4 Pack Bow Hair Band Women Cat Ears Facial Spa Headband Soft Carol Fleece Hair Stuff Hairlace Party Favors Skincare Headbands for Girls Washing Face Shower Mask (Blue,Purple,Pink,Gray)\nYanJie\n{'Color': 'Blue,Gray,Pink,Purple', 'Age Range (Description)': 'Adult', 'Occasion': 'Party', 'Material': 'Microfiber', 'Fabric Type': 'Microfiber,Fleece', 'Package Dimensions': '11.73 x 7.8 x 2.68 inches; 9.14 Ounces', 'UPC': '751300682587'}\nReally gorgeous, these kitty ear headbands are super soft and pretty. I love them because they don't squeeze the ears. They fit great on me and my litt girl so I recommend them for mom and a daughter spa nights or for make a different gift.\nHeadlands",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys soft, comfortable accessories for personal care and skincare routines.\n- **Aesthetic Appeal:** Prefers attractive, playful designs (e.g., cat ears) that add a fun element to practical items.\n- **Family-Oriented:** Values products suitable for shared activities, particularly mother-daughter bonding experiences such as spa nights.\n- **Gift-Giving:** Open to purchasing items as thoughtful gifts, suggesting a preference for unique and cute gift ideas.\n- **Practicality:** Appreciates products that fit well and do not cause discomfort, indicating a focus on comfort and usability in choices.\n- **Positive Experiences:** Generally has a favorable view of products when they meet aesthetic and functional expectations, leading to high ratings for satisfactory purchases. \n\nOverall, this user appears to prioritize comfort, design, and shared experiences, with a tendency toward products that enhance personal care and bonding moments.",
+  "metrics": {
+    "rouge1_f": 0.1606425702811245,
+    "rouge2_f": 0.016194331983805668,
+    "rougeL_f": 0.08835341365461846,
+    "meteor": 0.15026278106737875,
+    "bleu1": 0.2094240837696335,
+    "bleu2": 0.0331998798166526,
+    "bleu3": 0.008354819524640306,
+    "bleu4": 0.00419675235130973,
+    "bertscore_precision": 0.4253799617290497,
+    "bertscore_recall": 0.4371376037597656,
+    "bertscore_f1": 0.43117862939834595
+  }
+}

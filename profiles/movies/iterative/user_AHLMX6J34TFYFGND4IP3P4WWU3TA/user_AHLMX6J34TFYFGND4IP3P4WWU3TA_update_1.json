@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/26\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Fawcett', 'David Frazee', 'TJ Scott', 'Brett Sullivan', 'Ken Girotti'], 'Producers': ['John Fawcett', 'David Fortier', 'Ivan Schneeberg', 'Graeme Manson'], 'Starring': ['Tatiana Maslany', 'Jordan Gavaris', 'Maria Doyle Kennedy'], 'Studio': ['BBC America']}\nReview Text: Very different and interesting storyline...really like the good development of the various characters.\nReview Title: Excellent and Addictive Series!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Fawcett', 'David Frazee', 'TJ Scott', 'Brett Sullivan', 'Ken Girotti'], 'Producers': ['John Fawcett', 'David Fortier', 'Ivan Schneeberg', 'Graeme Manson'], 'Starring': ['Tatiana Maslany', 'Jordan Gavaris', 'Maria Doyle Kennedy'], 'Studio': ['BBC America']}\nVery different and interesting storyline...really like the good development of the various characters.\nExcellent and Addictive Series!",
+  "profile": "**User Preferences Summary:**\n\n- **Content Interests:** The user is drawn to narratives that feature complex, engaging storylines and strong character development. They appreciate originality and depth in storytelling, indicating a preference for content that is thought-provoking and unique.\n\n- **Themes:** They seem to favor mature themes, as evident from their appreciation for content that includes elements such as nudity, violence, substance use, and foul language. This suggests a tolerance for darker or more serious subject matter.\n\n- **Mediums:** The user enjoys television series, particularly those produced by notable studios, indicating a preference for high-quality production and storytelling.\n\n- **Language and Accessibility:** They prefer content in English, with an appreciation for subtitles, suggesting a comfort with following along and a desire for accessibility in their viewing experiences.\n\n- **Emotional Reaction:** The user expresses enthusiasm and positive feedback towards content they enjoy, as demonstrated by high ratings and descriptions like \"excellent\" and \"addictive.\"\n\nThis profile indicates a user who seeks out compelling, character-driven narratives that tackle complex themes, and who appreciates well-produced series that offer depth and originality.",
+  "metrics": {
+    "rouge1_f": 0.205761316872428,
+    "rouge2_f": 0.04979253112033195,
+    "rougeL_f": 0.13168724279835392,
+    "meteor": 0.11650485436893204,
+    "bleu1": 0.11688311688311687,
+    "bleu2": 0.007128726847826362,
+    "bleu3": 0.0028101499118098243,
+    "bleu4": 0.0017662956718108066,
+    "bertscore_precision": 0.4162042737007141,
+    "bertscore_recall": 0.3896350860595703,
+    "bertscore_f1": 0.40248167514801025
+  }
+}

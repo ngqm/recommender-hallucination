@@ -1,0 +1,77 @@
+{
+  "user_id": "AG2QHVVT5O44JAO25J6YNCCATHNA",
+  "summary": "=== Purchase Information ===\nProduct Title: Teacher's Pet\nReview Date: 2013/11/06\nCategories: Comedy, Romance, Passionate\nProduct Description: [\"Clark Gable (in one of his finest late-career performances) plays Jim Gannon, a school-of-hard-knocks newspaperman who despises journalism schools...until he sees who's doing the teaching. Attracted to lovely professor Erica Stone (Day), he masquerades as a novice in her class. Soon he's her prize pupil, all the while trying to make her his own prize.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['George Seaton'], 'Producers': ['William Perlberg'], 'Starring': ['Clark Gable', 'Doris Day', 'Gig Young']}\nReview Text: This was an enjoyable movie to watch.<br />Doris Day and Clark Gable were fantastic in their roles.  A good late night movie to enjoy with a bowl of popcorn!\nReview Title: Enjoyable Movie\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/04\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lee Philips'], 'Producers': ['Bob Ross', 'Aaron Ruben', 'Sheldon Leonard', 'Danny Thomas', 'Jay Sandrich', 'Jerry Jameson', 'Richard O. Linke'], 'Starring': ['Andy Griffith', 'Frances Bavier', 'Ron Howard']}\nReview Text: We've watched every season of the Andy Griffith Show, and loved every one!  I wish there was good, wholesome TV shows still on the television like this today.\nReview Title: Great Show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/13\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nReview Text: This movie seemed almost more like a documentary. Very thought provoking. I didn't see the ending coming, but kudos to the writers and actors for pulling this off.\nReview Title: This movie seemed almost more like a documentary\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/25\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Asher', 'James V. Kern', 'Marc Daniels', 'Ralph Levy'], 'Producers': ['Desi Arnaz', 'Jess Oppenheimer', 'Al Simon', 'Jack Aldworth', 'Lucille Ball']}\nReview Text: Love being able to watch television shows that are clean and wholesome.  The whole family can watch!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Teacher's Pet\nComedy, Romance, Passionate\n[\"Clark Gable (in one of his finest late-career performances) plays Jim Gannon, a school-of-hard-knocks newspaperman who despises journalism schools...until he sees who's doing the teaching. Attracted to lovely professor Erica Stone (Day), he masquerades as a novice in her class. Soon he's her prize pupil, all the while trying to make her his own prize.\"]\n{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['George Seaton'], 'Producers': ['William Perlberg'], 'Starring': ['Clark Gable', 'Doris Day', 'Gig Young']}\nThis was an enjoyable movie to watch.<br />Doris Day and Clark Gable were fantastic in their roles.  A good late night movie to enjoy with a bowl of popcorn!\nEnjoyable Movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lee Philips'], 'Producers': ['Bob Ross', 'Aaron Ruben', 'Sheldon Leonard', 'Danny Thomas', 'Jay Sandrich', 'Jerry Jameson', 'Richard O. Linke'], 'Starring': ['Andy Griffith', 'Frances Bavier', 'Ron Howard']}\nWe've watched every season of the Andy Griffith Show, and loved every one!  I wish there was good, wholesome TV shows still on the television like this today.\nGreat Show\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nThis movie seemed almost more like a documentary. Very thought provoking. I didn't see the ending coming, but kudos to the writers and actors for pulling this off.\nThis movie seemed almost more like a documentary\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Asher', 'James V. Kern', 'Marc Daniels', 'Ralph Levy'], 'Producers': ['Desi Arnaz', 'Jess Oppenheimer', 'Al Simon', 'Jack Aldworth', 'Lucille Ball']}\nLove being able to watch television shows that are clean and wholesome.  The whole family can watch!\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Teacher's Pet\nReview Date: 2013/11/06\nCategories: Comedy, Romance, Passionate\nProduct Description: [\"Clark Gable (in one of his finest late-career performances) plays Jim Gannon, a school-of-hard-knocks newspaperman who despises journalism schools...until he sees who's doing the teaching. Attracted to lovely professor Erica Stone (Day), he masquerades as a novice in her class. Soon he's her prize pupil, all the while trying to make her his own prize.\"]\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['George Seaton'], 'Producers': ['William Perlberg'], 'Starring': ['Clark Gable', 'Doris Day', 'Gig Young']}\nReview Text: This was an enjoyable movie to watch.<br />Doris Day and Clark Gable were fantastic in their roles.  A good late night movie to enjoy with a bowl of popcorn!\nReview Title: Enjoyable Movie\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/01/04\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lee Philips'], 'Producers': ['Bob Ross', 'Aaron Ruben', 'Sheldon Leonard', 'Danny Thomas', 'Jay Sandrich', 'Jerry Jameson', 'Richard O. Linke'], 'Starring': ['Andy Griffith', 'Frances Bavier', 'Ron Howard']}\nReview Text: We've watched every season of the Andy Griffith Show, and loved every one!  I wish there was good, wholesome TV shows still on the television like this today.\nReview Title: Great Show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/13\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nReview Text: This movie seemed almost more like a documentary. Very thought provoking. I didn't see the ending coming, but kudos to the writers and actors for pulling this off.\nReview Title: This movie seemed almost more like a documentary\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/06/25\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Asher', 'James V. Kern', 'Marc Daniels', 'Ralph Levy'], 'Producers': ['Desi Arnaz', 'Jess Oppenheimer', 'Al Simon', 'Jack Aldworth', 'Lucille Ball']}\nReview Text: Love being able to watch television shows that are clean and wholesome.  The whole family can watch!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reflects a strong preference for nostalgic and wholesome entertainment, particularly classic television shows and movies featuring notable actors from earlier decades. The individual consistently rates products highly, indicating a genuine enjoyment of content marked by comedy and romance, and they appreciate engaging storytelling, often favoring lighter themes and family-friendly options. \n\nCommon purchasing patterns include a tendency to favor clean content free from excessive foul language, violence, or adult themes, which speaks to the desire for wholesome viewing experiences that can be shared with the family. Price sensitivity is not explicitly indicated, but repeated purchases indicate a willingness to invest in quality programming that aligns with their values. \n\nOverall, this individual seeks enjoyable, thought-provoking content with a blend of romance and comedy\u2014favoring performances by iconic actors while preferring shows that evoke nostalgia and provide safe viewing for a mixed audience.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Great Action Movie!",
+    "text": "We love to watch all of the Jason Bourne movies.  They are action packed without all of the sexual scenes included in some of the other action movies of this caliber.  We have watched all of the Bourne movies, and have not been disappointed!",
+    "images": [],
+    "asin": "B01J2KIRHG",
+    "parent_asin": "B01J2KIRHG",
+    "user_id": "AG2QHVVT5O44JAO25J6YNCCATHNA",
+    "timestamp": "2016-12-26 03:15:02",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 11303,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a3d933a8de04691574825d4aa9c3c9041eb33a7d849a47a36f7c126dbbe68b82._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "foul language"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: High",
+        "English",
+        "English [Audio Description]",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Paul Greengrass"
+      ],
+      "Producers": [
+        "Frank Marshall",
+        "Jeffrey M. Weiner",
+        "Ben Smith",
+        "Matt Damon",
+        "Paul Greengrass",
+        "Gregory Goodman"
+      ],
+      "Starring": [
+        "Matt Damon",
+        "Tommy Lee Jones",
+        "Alicia Vikander"
+      ],
+      "Studio": [
+        "Universal Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

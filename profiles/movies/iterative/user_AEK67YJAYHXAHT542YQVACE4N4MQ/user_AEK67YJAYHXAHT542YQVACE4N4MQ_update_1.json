@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/05/13\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon Langton'], 'Producers': ['Sue Birtwistle', 'Michael Wearing'], 'Starring': ['Alison Steadman', 'Julia Sawalha', 'Colin Firth'], 'Studio': ['Series']}\nReview Text: This is my favorite movie to watch over and over and over.  I have seen most of the other versions of Pride and Prejudice and read the book; but this version is the 'best'.  It follows the book closely.  Every member of the cast is 'perfect.  I never get tired of seeing it again.\nReview Title: I love it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Simon Langton'], 'Producers': ['Sue Birtwistle', 'Michael Wearing'], 'Starring': ['Alison Steadman', 'Julia Sawalha', 'Colin Firth'], 'Studio': ['Series']}\nThis is my favorite movie to watch over and over and over.  I have seen most of the other versions of Pride and Prejudice and read the book; but this version is the 'best'.  It follows the book closely.  Every member of the cast is 'perfect.  I never get tired of seeing it again.\nI love it.",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Strong affinity for romantic literature adaptations, particularly classic novels.\n- **Attributes Valued:** \n  - High-quality storytelling that remains true to the source material.\n  - Strong character portrayal and casting.\n- **Viewing Habits:** Enjoys rewatching favorite films, indicating a preference for familiar and beloved content over new releases.\n- **Engagement with Content:** Active participant in discussions around adaptations, possibly also appreciates comparative analysis of different versions.\n- **Rating Behavior:** Tends to award high ratings, suggesting a tendency to engage with content that meets personal standards of excellence.\n- **Language and Accessibility:** Prefers English audio and subtitles, indicating a focus on content that is easily accessible and comprehensible.\n\nOverall, this user exemplifies a passion for adaptations of literary works, with a particular emphasis on quality, familiarity, and faithful representation in film.",
+  "metrics": {
+    "rouge1_f": 0.18357487922705315,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.10628019323671498,
+    "meteor": 0.14099783080260303,
+    "bleu1": 0.1827956989247312,
+    "bleu2": 0.009940245766844005,
+    "bleu3": 0.003772756770362397,
+    "bleu4": 0.002327455214468912,
+    "bertscore_precision": 0.4232538342475891,
+    "bertscore_recall": 0.4064570367336273,
+    "bertscore_f1": 0.4146854281425476
+  }
+}

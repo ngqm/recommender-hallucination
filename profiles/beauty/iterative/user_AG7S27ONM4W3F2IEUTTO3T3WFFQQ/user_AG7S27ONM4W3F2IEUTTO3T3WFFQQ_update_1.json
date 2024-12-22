@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ben Nye Nose & Scar Wax Fair, 1oz\nReview Date: 2017/10/30\nStore: Ben Nye\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\nReview Text: great for special FX mackup\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ben Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interest:** Special effects makeup\n- **Product Type Preference:** Wax-based products for application\n- **Brand Loyalty:** Favors specific brands known for quality in the FX makeup category\n- **Satisfaction Level:** High satisfaction with products, as indicated by positive ratings\n- **Usage Context:** Likely uses products for theatrical or creative purposes, suggesting an engagement with performance arts or makeup artistry\n- **Review Trait:** Enthusiastic and favorable reviews, indicating a positive experience with the effectiveness and application of the products purchased\n\nOverall, this user demonstrates a strong inclination towards high-quality special effects makeup, particularly wax formulations, reflecting a deeper engagement in creative makeup applications.",
+  "metrics": {
+    "rouge1_f": 0.09333333333333334,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05333333333333333,
+    "meteor": 0.11056511056511058,
+    "bleu1": 0.10810810810810814,
+    "bleu2": 0.008575717502680916,
+    "bleu3": 0.003693142162722385,
+    "bleu4": 0.002427755902198282,
+    "bertscore_precision": 0.4167620837688446,
+    "bertscore_recall": 0.38683199882507324,
+    "bertscore_f1": 0.40123966336250305
+  }
+}

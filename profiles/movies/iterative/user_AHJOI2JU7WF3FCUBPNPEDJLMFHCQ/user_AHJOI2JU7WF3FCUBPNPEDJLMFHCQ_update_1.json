@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/03/27\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Klein', 'Phil Churchward', 'Nigel Simpkiss', 'Richard Heeley', 'James Bryce', 'Andrew Fettis', 'Owen Trevor', 'Mark McQueen', 'Jon Richards', 'Konrad Begg'], 'Producers': ['Andy Wilman'], 'Starring': ['Jeremy Clarkson', 'Richard Hammond', 'James May'], 'Studio': ['BBC America']}\nReview Text: I really enjoy this program.  As always, the quality and speed from Amazon is awesome.  If you're a top gear fan, this is a must see!  This particular episode was hilarious.\nReview Title: Great program\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Klein', 'Phil Churchward', 'Nigel Simpkiss', 'Richard Heeley', 'James Bryce', 'Andrew Fettis', 'Owen Trevor', 'Mark McQueen', 'Jon Richards', 'Konrad Begg'], 'Producers': ['Andy Wilman'], 'Starring': ['Jeremy Clarkson', 'Richard Hammond', 'James May'], 'Studio': ['BBC America']}\nI really enjoy this program.  As always, the quality and speed from Amazon is awesome.  If you're a top gear fan, this is a must see!  This particular episode was hilarious.\nGreat program",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys humorous and entertaining programming, particularly those with engaging content featuring familiar personalities.\n- **Genre Inclination:** Favorable toward series that include elements of automotive culture and adventure, indicating a trend toward shows that blend entertainment with specific interests.\n- **Quality Appreciation:** Values high-quality production and swift delivery service, showcasing an expectation for reliable and efficient purchasing experiences.\n- **Rating Trend:** Consistently rates content positively, with a preference for shows that include a mix of comedy and action, as reflected in the user\u2019s 4.9 average rating.\n- **Language and Accessibility:** Prefers English-language content with subtitle options, indicating a focus on accessibility and comprehension.\n- **Content Advisory Awareness:** Shows consideration for content advisory information, suggesting a preference for moderate media content (noted concerns include violence, substance use, and foul language).\n\nOverall, this user appreciates well-produced, entertaining shows, particularly those that highlight a mix of humor and thematic interests aligned with automotive culture, alongside a strong appreciation for quality service.",
+  "metrics": {
+    "rouge1_f": 0.1646090534979424,
+    "rouge2_f": 0.03319502074688797,
+    "rougeL_f": 0.0823045267489712,
+    "meteor": 0.11253041362530414,
+    "bleu1": 0.14414414414414414,
+    "bleu2": 0.025538910437870942,
+    "bleu3": 0.006667975822640553,
+    "bleu4": 0.0034110217106025054,
+    "bertscore_precision": 0.39903178811073303,
+    "bertscore_recall": 0.3892301321029663,
+    "bertscore_f1": 0.394070029258728
+  }
+}

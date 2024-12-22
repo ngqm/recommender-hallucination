@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/09/05\nAverage Rating: 3.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Irving Rapper', 'Lionello De Felice'], 'Producers': ['Ferdinand Felicioni'], 'Starring': ['Cornel Wilde', 'Belinda Lee'], 'Studio': ['Zeta Four Films', 'LLC']}\nReview Text: Cornell Wilde a believable Constantine, but the film's dubbing detracts from its overall impact.  After a while, it's just too much to watch.\nReview Title: Dubbing dulls this film\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Irving Rapper', 'Lionello De Felice'], 'Producers': ['Ferdinand Felicioni'], 'Starring': ['Cornel Wilde', 'Belinda Lee'], 'Studio': ['Zeta Four Films', 'LLC']}\nCornell Wilde a believable Constantine, but the film's dubbing detracts from its overall impact.  After a while, it's just too much to watch.\nDubbing dulls this film",
+  "profile": "**User Profile Summary:**\n\n- **Viewing Preferences:** This user tends to favor English audio and subtitles, indicating a preference for content in their primary language. \n\n- **Critical Evaluation:** The user exhibits a discerning taste in film quality, specifically regarding dubbing and its impact on the viewing experience. Amed protections about dubbing suggest they value authentic performances and may prefer originals over dubbed versions.\n\n- **Content Engagement:** With a mid-range rating of 3.5, the user appears to maintain a balanced perspective, neither overly enthusiastic nor extremely critical. This suggests a thoughtful approach to evaluating films, likely seeking both entertainment and artistic merit.\n\n- **Actor and Director Appreciation:** The mention of specific actors and directors implies an interest in established talent, indicating that the user may prioritize films featuring renowned figures in the industry.\n\nIn summary, the user displays a preference for English-language films, values authentic performances over dubbed versions, and adopts a moderate yet critical stance towards film quality, with a focus on notable industry talent.",
+  "metrics": {
+    "rouge1_f": 0.16589861751152074,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.11059907834101383,
+    "meteor": 0.13680494263018533,
+    "bleu1": 0.1262135922330097,
+    "bleu2": 0.007846502785784365,
+    "bleu3": 0.00311344142650015,
+    "bleu4": 0.0019636157880686435,
+    "bertscore_precision": 0.4011634886264801,
+    "bertscore_recall": 0.38264280557632446,
+    "bertscore_f1": 0.39168432354927063
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Carol\u2019s Daughter Almond Milk Leave In Conditioner with Almond Milk, Aloe Butter and Shea Oil for Extremely Damaged Hair, 8 fl oz\nReview Date: 2020/08/09\nStore: Carol's Daughter\nProduct Description: ['Reverses Damage']\nAverage Rating: 4.4\nProduct Details: {'Brand': \"Carol's Daughter\", 'Item Form': 'Liquid', 'Material Feature': 'Natural', 'Hair Type': 'Curly, Damaged, Coily', 'Product Benefits': 'Repairs Damage, Strengthens and Protects Hair, Restores Softness for Over-Processed Hair', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.97 x 1.97 x 7.49 inches; 9.88 Ounces', 'Item model number': 'K4268600', 'UPC': '820645235120 755332169061', 'Manufacturer': \"Carol's Daughter\"}\nReview Text: Love it\nReview Title: As expected\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Carol\u2019s Daughter Almond Milk Leave In Conditioner with Almond Milk, Aloe Butter and Shea Oil for Extremely Damaged Hair, 8 fl oz\nCarol's Daughter\n['Reverses Damage']\n{'Brand': \"Carol's Daughter\", 'Item Form': 'Liquid', 'Material Feature': 'Natural', 'Hair Type': 'Curly, Damaged, Coily', 'Product Benefits': 'Repairs Damage, Strengthens and Protects Hair, Restores Softness for Over-Processed Hair', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.97 x 1.97 x 7.49 inches; 9.88 Ounces', 'Item model number': 'K4268600', 'UPC': '820645235120 755332169061', 'Manufacturer': \"Carol's Daughter\"}\nLove it\nAs expected",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus:** Strong interest in products specifically designed for curly, coily, and damaged hair types.\n- **Repair and Restoration:** Preference for items that reverse damage, strengthen, and restore softness, indicating a concern for maintaining hair health.\n- **Natural Ingredients:** Likely attracted to products with natural components, reflecting a trend towards holistic beauty solutions.\n- **Positive Product Affinity:** Historically satisfied with purchased items, as seen in a high average rating, suggesting a trend of enjoyment and effectiveness in chosen products.\n- **Emotional Appeal:** Simple, positive expressions like \u201cLove it\u201d indicate that the user values straightforward, effective solutions that deliver on expectations.\n- **Brand Loyalty:** Past engagement with a specific brand suggests potential preference or loyalty towards that brand for future purchases.\n\nThis profile illustrates a consumer who is focused on repair, natural ingredients, and proven effectiveness in hair care, particularly for compromised hair.",
+  "metrics": {
+    "rouge1_f": 0.26724137931034486,
+    "rouge2_f": 0.060869565217391314,
+    "rougeL_f": 0.15517241379310345,
+    "meteor": 0.1619783464415411,
+    "bleu1": 0.13725490196078435,
+    "bleu2": 0.0260025483746172,
+    "bleu3": 0.006943207623167194,
+    "bleu4": 0.0035922876050019817,
+    "bertscore_precision": 0.4172252416610718,
+    "bertscore_recall": 0.4139311909675598,
+    "bertscore_f1": 0.4155716896057129
+  }
+}

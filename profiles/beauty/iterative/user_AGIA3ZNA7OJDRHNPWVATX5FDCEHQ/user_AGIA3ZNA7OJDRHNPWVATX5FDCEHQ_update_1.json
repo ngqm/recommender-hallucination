@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Type:A - Aluminum Free Deodorant for Men \u2013 Trailblazer- Unscented, Spice & Forest \u2013 Sweat Activated Technology, Natural Ingredients, Non-Toxic, Paraben Free, Non-Irritating, 2.8 Ounce (3 Pack)\nReview Date: 2020/02/07\nStore: type:A\nAverage Rating: 3.6\nProduct Details: {'Brand': 'Type:A', 'Item Form': 'Cream', 'Scent': 'Unscented', 'Unit Count': '3.00 Count', 'Item Volume': '2.8 Fluid Ounces', 'Package Dimensions': '6.8 x 5 x 0.5 inches; 9.59 Ounces'}\nReview Text: It doesn't work as well as old spice to prevent odor and sweat, but it does leave less residue on shirts. The spice scent smells like patchouli and mint, the evergreen scent smells strongly of pine trees, and unscented smells like baby powder. I can't say we are particularly fond of any of the scents. My husband is planning to use this set up, but we will probably not reorder it.\nReview Title: Not fond of the smells\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Type:A - Aluminum Free Deodorant for Men \u2013 Trailblazer- Unscented, Spice & Forest \u2013 Sweat Activated Technology, Natural Ingredients, Non-Toxic, Paraben Free, Non-Irritating, 2.8 Ounce (3 Pack)\ntype:A\n{'Brand': 'Type:A', 'Item Form': 'Cream', 'Scent': 'Unscented', 'Unit Count': '3.00 Count', 'Item Volume': '2.8 Fluid Ounces', 'Package Dimensions': '6.8 x 5 x 0.5 inches; 9.59 Ounces'}\nIt doesn't work as well as old spice to prevent odor and sweat, but it does leave less residue on shirts. The spice scent smells like patchouli and mint, the evergreen scent smells strongly of pine trees, and unscented smells like baby powder. I can't say we are particularly fond of any of the scents. My husband is planning to use this set up, but we will probably not reorder it.\nNot fond of the smells",
+  "profile": "**User Summary:**\n\n- **Product Preference**: The user seeks effective personal care products, particularly deodorants, emphasizing performance in odor and sweat prevention.\n  \n- **Scent Sensitivity**: There is a notable aversion to strong or specific scents. Although they tried unscented options, they commented negatively on the scent profiles such as patchouli, mint, and pine, indicating a preference for truly neutral or mild fragrances.\n\n- **Texture and Residue**: The user values products that leave minimal residue on clothing, suggesting a preference for formulation that is non-greasy or non-staining.\n\n- **Effectiveness vs. Experience**: The user compares products based on their effectiveness against well-known brands, indicating an interest in both quality and user experience.\n\n- **Reorder Willingness**: The user seems cautious about reordering products that do not meet their expectations, suggesting a tendency to explore alternatives rather than commit to items that do not satisfy their criteria.\n\n- **Natural Ingredients**: There is a clear preference for products that are natural, non-toxic, and free from harmful chemicals.\n\nOverall, the user demonstrates a thoughtful approach to personal care, balancing effectiveness with ingredient safety and sensory experience while being critical of scent and performance.",
+  "metrics": {
+    "rouge1_f": 0.2786377708978328,
+    "rouge2_f": 0.037383177570093455,
+    "rougeL_f": 0.10526315789473685,
+    "meteor": 0.19047619047619044,
+    "bleu1": 0.2222222222222222,
+    "bleu2": 0.08570991287109664,
+    "bleu3": 0.031237889781035283,
+    "bleu4": 0.010615940011088539,
+    "bertscore_precision": 0.45255476236343384,
+    "bertscore_recall": 0.4520278573036194,
+    "bertscore_f1": 0.4522911608219147
+  }
+}

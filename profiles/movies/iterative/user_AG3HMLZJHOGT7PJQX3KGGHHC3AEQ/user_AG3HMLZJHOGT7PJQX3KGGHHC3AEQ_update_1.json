@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/03\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tony Gilroy'], 'Producers': ['Frank Marshall', 'Patrick Crowley', 'Jeffrey M. Weiner', 'Ben Smith'], 'Starring': ['Jeremy Renner', 'Rachel Weisz', 'Edward Norton'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: We like action and adventure and this  movie did not disappoint.  The streaming was good with no stops or glitches.\nReview Title: Family movie night.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tony Gilroy'], 'Producers': ['Frank Marshall', 'Patrick Crowley', 'Jeffrey M. Weiner', 'Ben Smith'], 'Starring': ['Jeremy Renner', 'Rachel Weisz', 'Edward Norton'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nWe like action and adventure and this  movie did not disappoint.  The streaming was good with no stops or glitches.\nFamily movie night.",
+  "profile": "**User Profile Summary:**\n\n- **Key Preferences:** Enjoys action and adventure genres; values high-quality streaming experiences without interruptions.\n- **Content Format:** Prefers English audio and subtitles, indicating a focus on accessibility and clarity.\n- **Family-Oriented:** Engages in group viewing experiences, particularly for family movie nights.\n- **Rating Trends:** Tends to rate products favorably, with an average rating of 4.7, reflecting a generally positive outlook on their viewing choices.\n- **Interest in Directors and Producers:** Shows appreciation for notable directors and producers, indicating a tendency to gravitate towards projects with established filmmakers.\n- **Rating Behavior:** Consistent with a preference for quality content that maximizes enjoyment during shared experiences.  \n\nOverall, this user seeks engaging, action-filled entertainment that provides a seamless viewing experience, emphasizing family-friendly options.",
+  "metrics": {
+    "rouge1_f": 0.1694915254237288,
+    "rouge2_f": 0.05714285714285715,
+    "rougeL_f": 0.0903954802259887,
+    "meteor": 0.1421745666937393,
+    "bleu1": 0.14450867052023122,
+    "bleu2": 0.0409918696590217,
+    "bleu3": 0.021419029121246862,
+    "bleu4": 0.008719420165035446,
+    "bertscore_precision": 0.4254302382469177,
+    "bertscore_recall": 0.4084966778755188,
+    "bertscore_f1": 0.41679152846336365
+  }
+}

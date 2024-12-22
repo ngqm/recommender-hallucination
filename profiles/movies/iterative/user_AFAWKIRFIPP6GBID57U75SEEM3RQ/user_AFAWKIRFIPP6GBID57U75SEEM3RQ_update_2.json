@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/02\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nReview Text: I cant wait to watch the rest of the show it was a great idea and the play back of the show was great.\nReview Title: Must see\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ernest Dickerson', 'Billy Gierhart', 'Guy Ferland', 'Greg Nicotero'], 'Producers': ['Glen Mazzara', 'Robert Kirkman', 'Gale Anne Hurd', 'David Alpert'], 'Starring': ['Andrew Lincoln', 'Sarah Wayne Callies', 'Laurie Holden'], 'Studio': ['Starz']}\nPlays great and is a ah some show it is always going to be a must watch on my list of things to watch.\nMust watch\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nI cant wait to watch the rest of the show it was a great idea and the play back of the show was great.\nMust see",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** High ratings (average of 4.8), showcasing a strong inclination towards quality content.\n- **Content Type:** Enjoys serialized drama, particularly in the horror or thriller genre, with a focus on gripping narratives. Recent views emphasize a growing enthusiasm for must-watch shows, amplifying the interest in engaging storytelling.\n- **Language Preference:** Favors English audio with English subtitles, ensuring content is accessible and understandable.\n- **Strong Engagement:** Exhibits high enthusiasm for exceptional shows, reflected in their recent review that emphasizes anticipation for future episodes and enjoyment of the viewing experience.\n- **Favoring Notable Creators:** Appreciates works from acclaimed directors and producers, indicating a tendency to gravitate towards projects featuring reputable talent.\n- **Consistent Viewing Habits:** Desires continuity in viewing experience, supported by a pattern of keeping shows on a watch list.\n\nThe recent interaction highlights a positive viewing experience, where the user rated a show 5.0, showcasing an increased excitement for quality content and reinforcing their appreciation for engaging narratives with notable cast and crew. Overall, the user remains focused on high-quality, engaging drama with significant storytelling and a preference for accessible language formats.",
+  "metrics": {
+    "rouge1_f": 0.20060790273556228,
+    "rouge2_f": 0.02446483180428135,
+    "rougeL_f": 0.1094224924012158,
+    "meteor": 0.10192937750273026,
+    "bleu1": 0.14982572857460333,
+    "bleu2": 0.023165937594208593,
+    "bleu3": 0.005779171211955445,
+    "bleu4": 0.002889489544061068,
+    "bertscore_precision": 0.37496739625930786,
+    "bertscore_recall": 0.39176446199417114,
+    "bertscore_f1": 0.38318192958831787
+  }
+}

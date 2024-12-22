@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BMC 8 Sheet Temporary Nail Art Tattoo Effects Hydroplaning Water Transfer Stickers Decals Set - Fashion Beasts\nReview Date: 2014/01/17\nStore: b.m.c\nAverage Rating: 5.0\nProduct Details: {'Package Dimensions': '4.72 x 3.94 x 0.12 inches; 0.71 Ounces', 'Item model number': '700580463874', 'UPC': '700580463874', 'Manufacturer': 'Bundle Monster'}\nReview Text: These works like a dream the colors are vibrant also. This are an easy way to make a statement with your nails without too much work\nReview Title: So pretty\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BMC 8 Sheet Temporary Nail Art Tattoo Effects Hydroplaning Water Transfer Stickers Decals Set - Fashion Beasts\nb.m.c\n{'Package Dimensions': '4.72 x 3.94 x 0.12 inches; 0.71 Ounces', 'Item model number': '700580463874', 'UPC': '700580463874', 'Manufacturer': 'Bundle Monster'}\nThese works like a dream the colors are vibrant also. This are an easy way to make a statement with your nails without too much work\nSo pretty",
+  "profile": "**User Profile Summary:**\n\n- **Genuine Preferences:** The user demonstrates a strong preference for vibrant, easy-to-use nail art products that require minimal effort to create visually appealing designs. \n\n- **Trends:** \n  - Enjoys decorative items that enhance personal style.\n  - Values product effectiveness and ease of application.\n  - Prioritizes aesthetics, as indicated by a focus on color vibrancy and artistic appeal.\n\n- **Behavior Patterns:** \n  - Tends to leave positive feedback for products that meet or exceed expectations, suggesting satisfaction when quality aligns with their preferences.\n  - Engages with products that bring fun and creativity into personal grooming and self-expression. \n\nOverall, the user values a combination of beauty, simplicity, and ease in their nail art choices, reflecting a desire for stylish yet uncomplicated personal care products.",
+  "metrics": {
+    "rouge1_f": 0.13829787234042554,
+    "rouge2_f": 0.010752688172043012,
+    "rougeL_f": 0.0851063829787234,
+    "meteor": 0.15120173535791762,
+    "bleu1": 0.09554140127388534,
+    "bleu2": 0.007825885764313218,
+    "bleu3": 0.0034060036056184277,
+    "bleu4": 0.002250627635727549,
+    "bertscore_precision": 0.38245052099227905,
+    "bertscore_recall": 0.3821500539779663,
+    "bertscore_f1": 0.3823001980781555
+  }
+}

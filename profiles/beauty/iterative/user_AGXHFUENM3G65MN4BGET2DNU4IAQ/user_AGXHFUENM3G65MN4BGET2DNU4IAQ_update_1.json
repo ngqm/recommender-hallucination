@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pet Silk Top Knot Gel (4 Ounce) - Pet Hair Gel for Taming Frizzy Hair & Controlling Flyaways \u2013 Dog Anti-Static Lotion Cream with Floral Fragrance \u2013 Eliminates Static Charges\nReview Date: 2017/01/28\nStore: PET SILK\nAverage Rating: 3.8\nProduct Details: {'Brand': 'PET SILK', 'Scent': 'Floral', 'Item Form': 'Lotion,Cream,Gel', 'Unit Count': '4.0 Ounce', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.76 x 2.76 x 2.56 inches; 4 Ounces', 'Item model number': '844854', 'UPC': '872429001513', 'Manufacturer': 'Pet Silk'}\nReview Text: This stuff is amazing!  I didn't even know such a product existed and was excited to try it when I found it.  My baby shih tzu has a top knot that's in the awkward stage where most will stay in a band or clip but the lower pieces fall down into her eyes.<br /><br />I applied a bit of this and all the hair is staying put, LOVE THIS SO MICH!  This tub will probably last me awhile but when it's gone I will be back to buy more.\nReview Title: Keeps puppy and dog fly-away hairs firmly in their bands\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Pet Silk Top Knot Gel (4 Ounce) - Pet Hair Gel for Taming Frizzy Hair & Controlling Flyaways \u2013 Dog Anti-Static Lotion Cream with Floral Fragrance \u2013 Eliminates Static Charges\nPET SILK\n{'Brand': 'PET SILK', 'Scent': 'Floral', 'Item Form': 'Lotion,Cream,Gel', 'Unit Count': '4.0 Ounce', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.76 x 2.76 x 2.56 inches; 4 Ounces', 'Item model number': '844854', 'UPC': '872429001513', 'Manufacturer': 'Pet Silk'}\nThis stuff is amazing!  I didn't even know such a product existed and was excited to try it when I found it.  My baby shih tzu has a top knot that's in the awkward stage where most will stay in a band or clip but the lower pieces fall down into her eyes.<br /><br />I applied a bit of this and all the hair is staying put, LOVE THIS SO MICH!  This tub will probably last me awhile but when it's gone I will be back to buy more.\nKeeps puppy and dog fly-away hairs firmly in their bands",
+  "profile": "**User Summary:**\n\n- **Pet Care Enthusiast:** Shows a strong interest in grooming products for pets, specifically for managing hair effectively.\n- **Specific Breeds:** Likely owns a shih tzu, indicating a preference for products suited to small, long-haired breeds.\n- **Product Effectiveness:** Values high-performance products that solve specific grooming challenges, such as controlling flyaways and maintaining hairstyles.\n- **Fragrance Preference:** Enjoys floral scents, indicating a preference for pleasant fragrances in pet care products.\n- **Buying Behavior:** Demonstrates positive past product experiences, leading to future purchases; indicates loyalty to brands that meet satisfaction.\n- **Grooming Challenges:** Faces grooming challenges with pets in transitional hair stages, seeking solutions that offer reliability and ease of use.\n\nOverall, the user is a dedicated pet owner who prioritizes effective grooming solutions and appreciates products that enhance the appearance and manageability of their pet's hair. Their purchasing decisions reflect a proactive approach to maintaining their pet's grooming needs.",
+  "metrics": {
+    "rouge1_f": 0.27439024390243905,
+    "rouge2_f": 0.012269938650306749,
+    "rougeL_f": 0.14024390243902438,
+    "meteor": 0.14501397086902457,
+    "bleu1": 0.20447956359711816,
+    "bleu2": 0.029282875187615943,
+    "bleu3": 0.007122728030349906,
+    "bleu4": 0.003517214473863665,
+    "bertscore_precision": 0.4027550220489502,
+    "bertscore_recall": 0.44017815589904785,
+    "bertscore_f1": 0.420635849237442
+  }
+}

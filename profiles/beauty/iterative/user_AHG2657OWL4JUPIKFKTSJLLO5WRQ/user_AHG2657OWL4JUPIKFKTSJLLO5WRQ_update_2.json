@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: New Handcuffs Crystal Style Navel Belly Button Barbell Rings Body Piercing Gift\nReview Date: 2015/08/28\nStore: Keyzone\nProduct Description: ['Features:  Brand new and high quality. Stunning belly bar. Eye-catching. Material: 316L Surgical Steel. Bar diameter: about 1.6mm. Bar length: about 11mm. Ball diameter: about 5mm. Total Size: about 60mm x 14mm.  Package Included:  1 x Navel Ring  NO Retail Box. Packed Safely in Bubble Bag.']\nAverage Rating: 3.7\nProduct Details: {'UPC': '701466157184 701466021065 701466134123', 'Manufacturer': 'KeyZone'}\nReview Text: so cute\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "New Retro Jewelry Gun Pistol Stlyle Rhinestone Barbells Navel Belly Button Ring\nKeyzone\n['Features:  Brand New & High quality. Gun Pistol Stlyle. Eye-catching. Attracting others attention when wear it in the street, very charming. A good decoration for fashion. Match with suitable apparel for different occasion. Special design and unique structure, a popular item. Size:5*1.4cm.  Package Included:  1X Navel Ring   NO Retail Box. Packed Safely in Bubble Bag.']\n{'UPC': '701466158440 701466135397', 'Manufacturer': 'KeyZone'}\nso cute\nFive Stars\nNew Handcuffs Crystal Style Navel Belly Button Barbell Rings Body Piercing Gift\nKeyzone\n['Features:  Brand new and high quality. Stunning belly bar. Eye-catching. Material: 316L Surgical Steel. Bar diameter: about 1.6mm. Bar length: about 11mm. Ball diameter: about 5mm. Total Size: about 60mm x 14mm.  Package Included:  1 x Navel Ring  NO Retail Box. Packed Safely in Bubble Bag.']\n{'UPC': '701466157184 701466021065 701466134123', 'Manufacturer': 'KeyZone'}\nso cute\nFive Stars",
+  "profile": "User Summary:\n\n- **Fashion Conscious**: Exhibits a strong interest in unique and eye-catching accessories that serve as bold fashion statements.\n- **Playful Aesthetic**: Prefers playful and trendy designs, demonstrated through the selection of novelty styles and accessories that reflect a fun approach to fashion.\n- **Positive Experience**: Displays an appreciation for products that evoke charm and positive feedback, consistently leaving high ratings even when faced with mixed average ratings.\n- **Value for Quality**: Prioritizes high-quality items, highlighting the importance of uniqueness and special design features that stand out.\n- **Attention to Detail**: Shows a keen eye for the visual appeal and presentation of accessories, favoring those that are eye-catching and meticulously crafted.\n- **Enthusiastic Feedback**: Recently made a purchase emphasizing the cuteness and charm of the item, showcasing an ongoing engagement with products that align with their aesthetic preferences while also delivering a joyful experience.\n\nOverall, the user consistently favors distinctive and fun jewelry pieces that enhance their personal style, embodying a combination of quality and visual appeal in their choices. Their feedback reflects a penchant for accessories that not only look good but also resonate with their playful fashion sensibility.",
+  "metrics": {
+    "rouge1_f": 0.18289085545722714,
+    "rouge2_f": 0.02373887240356083,
+    "rougeL_f": 0.08849557522123894,
+    "meteor": 0.12582168605458321,
+    "bleu1": 0.15611814345991562,
+    "bleu2": 0.025719983612621927,
+    "bleu3": 0.006553769621034703,
+    "bleu4": 0.003311802379543307,
+    "bertscore_precision": 0.38060492277145386,
+    "bertscore_recall": 0.42694851756095886,
+    "bertscore_f1": 0.402446985244751
+  }
+}

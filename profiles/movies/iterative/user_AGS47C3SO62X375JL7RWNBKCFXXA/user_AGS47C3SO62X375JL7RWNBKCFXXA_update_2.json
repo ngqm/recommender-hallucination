@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/09/23\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': [\"James D'Arcy\"], 'Producers': ['Pippa Cross', 'Sam Tipper-Hale'], 'Starring': ['Liam Neeson', 'Miche\u00e1l Richardson', 'Valeria Bilello'], 'Studio': ['IFC Films']}\nReview Text: Ok\nReview Title: it was ok\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Colin Trevorrow'], 'Producers': ['Frank Marshall', 'Patrick Crowley'], 'Starring': ['Chris Pratt', 'Bryce Dallas Howard', \"Vincent D'Onofrio\"], 'Studio': ['NBC Universal']}\nDidnt order this one either\nSomeone using my account\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': [\"James D'Arcy\"], 'Producers': ['Pippa Cross', 'Sam Tipper-Hale'], 'Starring': ['Liam Neeson', 'Miche\u00e1l Richardson', 'Valeria Bilello'], 'Studio': ['IFC Films']}\nOk\nit was ok",
+  "profile": "**User Summary:**\n\n- **Account Security Concerns:** The user remains vigilant regarding account security, indicated by a history of unauthorized purchases, which suggests ongoing concerns about maintaining account integrity.\n\n- **Content Preferences:** The user's interactions continue to reflect an engagement with media containing mature themes, including violence, alcohol use, smoking, foul language, and sexual content, reinforcing their tolerance and interest in adult-oriented material.\n\n- **Audio and Subtitles:** Their appreciation for accessibility features like audio descriptions and closed captions remains evident, highlighting a commitment to inclusive viewing experiences.\n\n- **Engagement with Diverse Productions:** The user has shown interest in both mainstream and independent films, engaging with productions from major studios and smaller companies alike, which indicates a broad appreciation for various cinematic styles and narratives.\n\n- **Satisfaction Range:** Their ratings show a consistent pattern of mixed satisfaction, with recent positive feedback indicating enjoyment of some viewing experiences while still reflecting occasional discrepancies in overall satisfaction, influenced by quality and unauthorized usage.\n\nOverall, this user balances caution regarding account safety with an enthusiastic engagement in diverse, mature-themed media, while maintaining a preference for accessible viewing options.",
+  "metrics": {
+    "rouge1_f": 0.125,
+    "rouge2_f": 0.05185185185185185,
+    "rougeL_f": 0.10294117647058823,
+    "meteor": 0.08339528374996853,
+    "bleu1": 0.11864406779661016,
+    "bleu2": 0.007105409021320281,
+    "bleu3": 0.0027839030249368927,
+    "bleu4": 0.001744422167575948,
+    "bertscore_precision": 0.376209020614624,
+    "bertscore_recall": 0.35479769110679626,
+    "bertscore_f1": 0.3651897609233856
+  }
+}

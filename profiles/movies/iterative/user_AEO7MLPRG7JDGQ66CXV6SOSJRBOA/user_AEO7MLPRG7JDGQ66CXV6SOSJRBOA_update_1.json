@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/02\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.C. Chandor'], 'Producers': ['Neal Dodson', 'Anna Gerb', 'Justin Nappi', 'Teddy Schwarzman'], 'Starring': ['Robert Redford'], 'Studio': ['Lionsgate']}\nReview Text: A compelling movie, I really enjoyed the silence and the dedication that Robert Redford gave his  character to just keep doing whatever until the end... then.\nReview Title: I really enjoyed the silence and the dedication that Robert Redford gave ...\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.C. Chandor'], 'Producers': ['Neal Dodson', 'Anna Gerb', 'Justin Nappi', 'Teddy Schwarzman'], 'Starring': ['Robert Redford'], 'Studio': ['Lionsgate']}\nA compelling movie, I really enjoyed the silence and the dedication that Robert Redford gave his  character to just keep doing whatever until the end... then.\nI really enjoyed the silence and the dedication that Robert Redford gave ...",
+  "profile": "User Summary:\n\n- **Rating Trends**: Generally positive, with an average rating of 4.2, indicating a preference for quality content.\n- **Content Preference**: Enjoys movies featuring elements of silence and a strong narrative, particularly appreciating depth in character development and dedication.\n- **Preferred Themes**: Prefers engaging storytelling that may include darker themes, as indicated by the acceptance of violence and foul language.\n- **Artistic Elements**: Values performance, especially from seasoned actors, showing an inclination towards films with prominent leading roles.\n- **Language & Accessibility**: Favors English audio and English subtitled content, suggesting a preference for accessibility in viewing.\n- **Director & Production Influence**: Shows a tendency to appreciate films produced by notable studios and directors, indicating a preference for established cinematic quality.\n\nOverall, this user gravitates towards thoughtfully crafted films that combine strong performances with compelling storytelling, while maintaining an openness to mature themes.",
+  "metrics": {
+    "rouge1_f": 0.24630541871921185,
+    "rouge2_f": 0.029850746268656712,
+    "rougeL_f": 0.12807881773399013,
+    "meteor": 0.13677811550151975,
+    "bleu1": 0.15706806282722513,
+    "bleu2": 0.02875193932381139,
+    "bleu3": 0.007590857303809963,
+    "bleu4": 0.0039055181305769977,
+    "bertscore_precision": 0.39460811018943787,
+    "bertscore_recall": 0.3876901865005493,
+    "bertscore_f1": 0.3911185562610626
+  }
+}

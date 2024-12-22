@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 12 Inch Short Human Hair Clip on Extensions Thin Remy Hair Clip on Blunt Cut for Women Natural Black\nReview Date: 2018/07/18\nStore: Hairro\nAverage Rating: 3.2\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Straight', 'Brand': 'Hairro', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 7.48 x 1.22 inches; 6.88 Ounces', 'UPC': '603004878639'}\nReview Text: Love it\nReview Title: The price\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "12 Inch Short Human Hair Clip on Extensions Thin Remy Hair Clip on Blunt Cut for Women Natural Black\nHairro\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Brand': 'Hairro', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 7.48 x 1.22 inches; 6.88 Ounces', 'UPC': '603004878639'}\nLove it\nThe price",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** User prefers human hair extensions, indicating a preference for natural-looking hair products.\n- **Hair Texture and Style:** Shows interest in straight hairstyles and blunt cut styles, suggesting a preference for sleek and polished looks.\n- **Quality Focus:** Reviews a product with a relatively average rating but expresses enthusiasm, indicating a focus on quality that meets personal expectations.\n- **Affordability Valuation:** User values price, emphasizing cost-effectiveness in purchases, as highlighted by their positive response to the pricing.\n- **Overall Satisfaction:** Despite the mixed ratings of products, user expresses satisfaction with their experience, which suggests a tendency to prioritize personal value over collective feedback.\n\nThis profile indicates a user who seeks high-quality, aesthetically pleasing hair solutions while being mindful of budget constraints.",
+  "metrics": {
+    "rouge1_f": 0.17977528089887643,
+    "rouge2_f": 0.03409090909090909,
+    "rougeL_f": 0.12359550561797751,
+    "meteor": 0.1707215997314197,
+    "bleu1": 0.0935672514619883,
+    "bleu2": 0.007418865120995431,
+    "bleu3": 0.00319346932409272,
+    "bleu4": 0.002098310438540159,
+    "bertscore_precision": 0.42353424429893494,
+    "bertscore_recall": 0.3581307530403137,
+    "bertscore_f1": 0.38809627294540405
+  }
+}

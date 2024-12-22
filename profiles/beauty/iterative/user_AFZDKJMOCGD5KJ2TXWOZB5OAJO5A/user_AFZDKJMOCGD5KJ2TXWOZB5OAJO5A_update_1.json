@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nReview Date: 2020/08/06\nStore: MELARQT\nAverage Rating: 4.4\nProduct Details: {'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nReview Text: My husband is always using my face wash so I wanted to get him his own. He says it made his face feel clean but not dry. The smell was really good too.\nReview Title: My husband approved\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nMELARQT\n{'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nMy husband is always using my face wash so I wanted to get him his own. He says it made his face feel clean but not dry. The smell was really good too.\nMy husband approved",
+  "profile": "User Profile Summary:\n\n- **Target Audience**: Male skincare products, particularly for facial care.\n- **Product Preference**: Exfoliating cleansers that are effective yet gentle, suitable for acne-prone skin, and formulated with natural ingredients.\n- **Scent Sensitivity**: Preference for products with pleasant fragrances.\n- **User Experience**: Values products that cleanse without causing dryness, highlighting the importance of hydration and comfort after use.\n- **Purchase Behavior**: Likely purchases for family members (e.g., husband), indicating a tendency to seek suitable products for others' grooming needs.\n- **Quality Focus**: Chooses products with a good average rating, showing concern for efficacy and satisfaction based on previous experiences.\n\nOverall, this user prefers skincare solutions that combine effectiveness with a pleasing sensory experience while catering to male demographics.",
+  "metrics": {
+    "rouge1_f": 0.1626794258373206,
+    "rouge2_f": 0.019323671497584544,
+    "rougeL_f": 0.09569377990430622,
+    "meteor": 0.13319736343744976,
+    "bleu1": 0.13609467455621302,
+    "bleu2": 0.00900048525663415,
+    "bleu3": 0.0036470226414544,
+    "bleu4": 0.002325020693532932,
+    "bertscore_precision": 0.43027690052986145,
+    "bertscore_recall": 0.43550896644592285,
+    "bertscore_f1": 0.43287715315818787
+  }
+}

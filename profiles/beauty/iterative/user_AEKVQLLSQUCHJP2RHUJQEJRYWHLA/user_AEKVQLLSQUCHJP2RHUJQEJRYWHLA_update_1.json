@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Heritage Store Rosewater & Glycerin Hydrating Facial Splash for Dry Combination Skin Care, Rose Water with Vegetable Glycerine for Dewy, Radiant Skin, Made Without Dyes or Alcohol, Vegan, 4oz\nReview Date: 2016/06/14\nStore: HERITAGE STORE\nAverage Rating: 4.4\nProduct Details: {'Brand': 'HERITAGE STORE', 'Item Form': 'Oil', 'Item Volume': '118 Milliliters', 'Scent': 'Rose', 'Special Feature': 'Vegan', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.75 x 1.75 x 5.25 inches; 4.16 Ounces', 'Item model number': '9013708', 'UPC': '076970443710 885810085979 885260190940 785923662909', 'Manufacturer': 'Heritage Store'}\nReview Text: Used to make setting spray. It's great.\nReview Title: Smells great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Heritage Store Rosewater & Glycerin Hydrating Facial Splash for Dry Combination Skin Care, Rose Water with Vegetable Glycerine for Dewy, Radiant Skin, Made Without Dyes or Alcohol, Vegan, 4oz\nHERITAGE STORE\n{'Brand': 'HERITAGE STORE', 'Item Form': 'Oil', 'Item Volume': '118 Milliliters', 'Scent': 'Rose', 'Special Feature': 'Vegan', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.75 x 1.75 x 5.25 inches; 4.16 Ounces', 'Item model number': '9013708', 'UPC': '076970443710 885810085979 885260190940 785923662909', 'Manufacturer': 'Heritage Store'}\nUsed to make setting spray. It's great.\nSmells great",
+  "profile": "**User Summary:**\n\n- **Product Preferences**: Focus on skincare products, particularly those designed for hydration and suitable for dry to combination skin.\n- **Ingredient Sensitivity**: Preference for natural, vegan products without dyes or alcohol, indicating a trend towards eco-friendly and health-conscious choices.\n- **Aesthetic Appeal**: Strong appreciation for pleasant scents, specifically floral fragrances like rose, which enhance user experience.\n- **Functional Use**: Interest in multifunctional products, as indicated by using facial sprays for multiple purposes, such as setting makeup.\n- **Quality Expectation**: Values high-quality products, highlighted by a positive review rating, implying selective purchasing habits. \n\nOverall, this user demonstrates a clear inclination towards effective, natural, and pleasant skincare solutions.",
+  "metrics": {
+    "rouge1_f": 0.20833333333333334,
+    "rouge2_f": 0.05263157894736842,
+    "rougeL_f": 0.15625,
+    "meteor": 0.19546719895151948,
+    "bleu1": 0.16025641025641024,
+    "bleu2": 0.01016814793477605,
+    "bleu3": 0.004064317842175398,
+    "bleu4": 0.0025737590701685594,
+    "bertscore_precision": 0.40705907344818115,
+    "bertscore_recall": 0.42160457372665405,
+    "bertscore_f1": 0.4142041802406311
+  }
+}

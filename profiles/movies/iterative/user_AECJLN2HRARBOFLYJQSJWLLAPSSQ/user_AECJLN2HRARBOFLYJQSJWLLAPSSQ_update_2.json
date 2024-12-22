@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/08\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Yates'], 'Producers': ['Peter Yates', 'Ruth Biswell'], 'Starring': ['Albert Finney', 'Matt Keeslar', 'Victoria Smurfit'], 'Studio': ['WARNER BROS.']}\nReview Text: IT JUST STUNK and I never finished it.\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Shattered Trust: The Shari Karney Story\nFormat: DVD\nMovies & TV, Movies\n{'Aspect Ratio': '1.33:1', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Number of discs': '1'}\nVery informative. It was a good movie. I was with Melissa Gilbert in every situation that came up.  This is a movie everyone should see, including predators so they find out what they are in for. Didn't give 5 stars only because some situations I feel needed a little more details and finishing out some of them.  Just my own opinion others may think it is fine the way it is.\nIt was a good movie. I was with Melissa Gilbert in every ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Yates'], 'Producers': ['Peter Yates', 'Ruth Biswell'], 'Starring': ['Albert Finney', 'Matt Keeslar', 'Victoria Smurfit'], 'Studio': ['WARNER BROS.']}\nIT JUST STUNK and I never finished it.\nOne Star",
+  "profile": "**User Profile Summary**\n\n- **Media Preferences**: Enjoys movies with strong narratives and informative content, particularly those that address serious themes. However, recent viewing indicates a potential for disappointment when expectations are not met.\n- **Rating Tendencies**: While still frequently rates movies around 4 stars, this user has shown the capacity to issue low ratings, as evidenced by a recent 1-star review, reflecting a critical approach to content quality.\n- **Emotional Engagement**: Engages deeply with characters and storylines, though recent interactions suggest a threshold for emotional investment; a film must effectively capture attention to be appreciated.\n- **Educational Value**: Values films that offer insights and provoke thought, especially regarding social issues and personal experiences, yet remains discerning if the execution does not resonate.\n- **Subject Matter Interest**: Maintains interest in biographical or true-story adaptations focusing on personal struggles or societal injustices, but may critique films that fail to deliver a compelling narrative.\n- **Constructive Critique**: Continues to provide balanced feedback, but more recent experiences indicate a willingness to abandon a film entirely if it falls short, showcasing a heightened sensitivity to storytelling quality.\n\nOverall, this user prioritizes meaningful cinema blending entertainment with educational value while being reflective and critical, but is now more readily expressive of dissatisfaction when films do not meet their narrative standards.",
+  "metrics": {
+    "rouge1_f": 0.14917127071823202,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07734806629834254,
+    "meteor": 0.12566137566137567,
+    "bleu1": 0.17407407407407408,
+    "bleu2": 0.00804434905386379,
+    "bleu3": 0.0028903404882434356,
+    "bleu4": 0.0017341391364149082,
+    "bertscore_precision": 0.39072203636169434,
+    "bertscore_recall": 0.39680492877960205,
+    "bertscore_f1": 0.3937399983406067
+  }
+}

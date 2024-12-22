@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin\nReview Date: 2020/08/07\nStore: Wonder4\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Wonder4', 'Is Electric': 'Yes', 'Item Form': 'Roller', 'Style': 'Modern', 'Unit Count': '11.4 Ounce'}\nReview Text: This does exactly what it's supposed to do! Easy to use, my feet are super soft afterwards. Charges quickly. Great choice!\nReview Title: Works Wonderfully!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin\nWonder4\n{'Brand': 'Wonder4', 'Is Electric': 'Yes', 'Item Form': 'Roller', 'Style': 'Modern', 'Unit Count': '11.4 Ounce'}\nThis does exactly what it's supposed to do! Easy to use, my feet are super soft afterwards. Charges quickly. Great choice!\nWorks Wonderfully!",
+  "profile": "**User Profile Summary:**\n\n- **Overall Satisfaction:** The user values effective and easy-to-use products, as indicated by a high satisfaction rating for a foot care item.  \n- **Product Type Preference:** A preference for electric tools is evident, particularly for personal care items aimed at enhancing physical appearance and comfort.  \n- **Functionality Focus:** The user prioritizes products that deliver on their promises, such as tools that efficiently address common concerns like calluses and hard skin.  \n- **Convenience & Efficiency:** Emphasis on quick charging and ease of use suggests a desire for convenience and efficiency in self-care routines.  \n- **Positive Experience:** The user expresses positive sentiments toward the product\u2019s performance, highlighting the effectiveness in achieving desired results (i.e., softer feet).  \n- **Aesthetic Appeal:** The mention of product design potentially reflects an interest in modern styles, suggesting a preference for aesthetically pleasing personal care items.  \n\nThis initial summary indicates the user's inclination towards effective, user-friendly, and stylistically modern products in personal care, demonstrating an overall focus on functionality and convenience.",
+  "metrics": {
+    "rouge1_f": 0.17094017094017092,
+    "rouge2_f": 0.03448275862068966,
+    "rougeL_f": 0.07692307692307691,
+    "meteor": 0.14272559852670352,
+    "bleu1": 0.09459459459459461,
+    "bleu2": 0.006542398946827884,
+    "bleu3": 0.0026895758008118375,
+    "bleu4": 0.0017264412843387808,
+    "bertscore_precision": 0.4139478802680969,
+    "bertscore_recall": 0.3623540699481964,
+    "bertscore_f1": 0.38643646240234375
+  }
+}

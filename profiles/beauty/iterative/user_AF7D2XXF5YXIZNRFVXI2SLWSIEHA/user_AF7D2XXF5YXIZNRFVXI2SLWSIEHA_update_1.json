@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Nose and Ear Hair Trimmer for Men Women, S.V.G.E.V Professional Painless Eyebrows Facial Hair Trimmers with Waterproof Double-Edge Stainless Steel Blades for Easy Cleaning, Battery-Powered\nReview Date: 2019/07/12\nStore: S.V.G.E.V\nAverage Rating: 3.9\nProduct Details: {'Recommended Uses For Product': 'Professional, Trimming', 'Hair Type': 'All', 'Brand': 'S.V.G.E.V', 'Power Source': 'Battery Powered', 'Material': 'Stainless Steel', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.89 x 2.95 x 1.38 inches; 4.8 Ounces'}\nReview Text: This does nice job cutting hair.\nReview Title: Cuts hair.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Nose and Ear Hair Trimmer for Men Women, S.V.G.E.V Professional Painless Eyebrows Facial Hair Trimmers with Waterproof Double-Edge Stainless Steel Blades for Easy Cleaning, Battery-Powered\nS.V.G.E.V\n{'Recommended Uses For Product': 'Professional, Trimming', 'Hair Type': 'All', 'Brand': 'S.V.G.E.V', 'Power Source': 'Battery Powered', 'Material': 'Stainless Steel', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6.89 x 2.95 x 1.38 inches; 4.8 Ounces'}\nThis does nice job cutting hair.\nCuts hair.",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user favors grooming tools, specifically those designed for hair trimming in sensitive areas.\n- **Quality and Performance:** They prioritize products that are effective and provide a positive user experience, evidenced by a perfect rating given for the product's ability to cut hair well.\n- **Features of Importance:** They appreciate functional features such as waterproof capabilities, stainless steel materials for durability and easy cleaning, and battery-powered convenience.\n- **Usage Context:** The user exhibits an interest in professional-grade tools suitable for personal care, indicating a preference for high-quality grooming products that promise hassle-free maintenance.\n- **Overall Satisfaction:** The user shows a tendency to rate products highly when they meet performance expectations, suggesting a keen approach to evaluating product effectiveness. \n\nThis profile suggests that the user values practicality, quality, and functionality in grooming tools, aligning with a broader trend of seeking efficient personal care solutions.",
+  "metrics": {
+    "rouge1_f": 0.19658119658119658,
+    "rouge2_f": 0.034482758620689655,
+    "rougeL_f": 0.13675213675213674,
+    "meteor": 0.19469585870107306,
+    "bleu1": 0.1282051282051282,
+    "bleu2": 0.008129275344796074,
+    "bleu3": 0.0032472479611376504,
+    "bleu4": 0.002054997426865254,
+    "bertscore_precision": 0.41131311655044556,
+    "bertscore_recall": 0.39299944043159485,
+    "bertscore_f1": 0.4019477665424347
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance\nReview Date: 2017/10/21\nStore: Bargz\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'Package Dimensions': '7.5 x 4 x 0.2 inches; 4 Ounces', 'UPC': '781772913728'}\nReview Text: Love this.  Majorly.  Great fragrance.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "1 oz, Brown - Bargz Perfume - Oud Wood Body Oil For Men by Tom Ford Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'oil', 'Item Volume': '1 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.2 x 3.1 x 1.3 inches; 1 Ounces', 'UPC': '781772917443'}\nFantastic fragrance!!  And it lasts all day.  Love it.\nFive Stars\n4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'Package Dimensions': '7.5 x 4 x 0.2 inches; 4 Ounces', 'UPC': '781772913728'}\nLove this.  Majorly.  Great fragrance.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** Enjoys strong, lasting scents, particularly oil-based fragrances. Recent purchases indicate a continued appreciation for alcohol-free options that offer effective fragrances.\n- **Product Style:** Prefers modern formulations and contemporary branding, consistently drawn to products that exhibit a fresh, modern aesthetic.\n- **Satisfaction Levels:** Generally positive experiences are highlighted, including enthusiastic feedback on longevity and effectiveness of scents. Recent purchase received a top rating, reinforcing the user's preference for high-quality fragrances.\n- **Review Behavior:** Actively engages in providing feedback, characterized by enthusiastic remarks about the effectiveness and appeal of fragrances. This recent interaction emphasized a strong affection for the scent, showcasing the user's commitment to sharing positive experiences.\n- **Purchase Motivation:** Likely prioritizes quality and reliability in scent choices, consistently searching for options that deliver a strong impression. The preference for fragranced oil products suggests an inclination towards long-lasting perfumes that exceed standard expectations. \n\nOverall, the user values effective, modern fragrances that produce a lasting impact, maintaining consistently high satisfaction from their selections.",
+  "metrics": {
+    "rouge1_f": 0.14084507042253522,
+    "rouge2_f": 0.0070921985815602835,
+    "rougeL_f": 0.08450704225352113,
+    "meteor": 0.11340725806451614,
+    "bleu1": 0.13181818181818183,
+    "bleu2": 0.007758282709589117,
+    "bleu3": 0.0030224438137246477,
+    "bleu4": 0.0018886598313458266,
+    "bertscore_precision": 0.3762521743774414,
+    "bertscore_recall": 0.3779292106628418,
+    "bertscore_f1": 0.3770888149738312
+  }
+}

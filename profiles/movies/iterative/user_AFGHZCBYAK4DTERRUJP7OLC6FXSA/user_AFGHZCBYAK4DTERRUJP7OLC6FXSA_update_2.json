@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/01/12\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Eli Roth'], 'Producers': ['James Vanderbilt', 'Bradley J. Fischer', 'Eric Kripke'], 'Starring': ['Owen Vaccaro', 'Kyle MacLachlan', 'Lorenza Izzo']}\nReview Text: Jack black is hilarious in this one. A must see.\nReview Title: Good movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Albert Hughes'], 'Producers': ['Andrew Rona', 'Albert Hughes'], 'Starring': ['Kodi Smit-McPhee', 'J\u00f3hannes Haukur J\u00f3hannesson', 'Leonor Varela'], 'Studio': ['Studio 8']}\nThis was a good watch. Sad at times but all in all a great story.\nGreat movie\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Eli Roth'], 'Producers': ['James Vanderbilt', 'Bradley J. Fischer', 'Eric Kripke'], 'Starring': ['Owen Vaccaro', 'Kyle MacLachlan', 'Lorenza Izzo']}\nJack black is hilarious in this one. A must see.\nGood movie",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** Enjoys storytelling with emotional depth, with a particular appreciation for narratives that blend humor and engaging storytelling. The user values both strong plotlines and character development, and they are open to a mix of genres.\n\n- **Rating Tendencies:** Maintains a high rating behavior, with an average rating of 4.6, reflecting a consistent preference for high-quality content and a willingness to appreciate lighter, comedic elements in addition to dramatic themes.\n\n- **Genres & Themes:** Shows interest in films with dramatic and intense themes, but also appreciates humor, highlighting a diverse taste in cinematic experiences. The content advisory for violence remains a consideration in their choices.\n\n- **Language & Accessibility:** Continues to prefer content in English and values accessibility options, such as audio descriptions and closed captions, reinforcing their commitment to inclusivity in viewing experiences.\n\n- **Engagement with Creative Teams:** Actively notes directors and producers, indicating a strong awareness of the creative aspects behind the content consumed. The recent interaction emphasizes an appreciation for both established creators and the performances of actors, showcasing a well-rounded engagement with the film industry.\n\nThis profile suggests a user who seeks impactful narratives, enjoys humor alongside depth, and supports creators who deliver compelling stories while prioritizing accessible viewing options.",
+  "metrics": {
+    "rouge1_f": 0.11604095563139934,
+    "rouge2_f": 0.013745704467353952,
+    "rougeL_f": 0.08873720136518772,
+    "meteor": 0.10406582215617528,
+    "bleu1": 0.11450381679389313,
+    "bleu2": 0.006623533360216843,
+    "bleu3": 0.0025648897540975794,
+    "bleu4": 0.0015976313940797913,
+    "bertscore_precision": 0.37426334619522095,
+    "bertscore_recall": 0.3619535267353058,
+    "bertscore_f1": 0.36800551414489746
+  }
+}

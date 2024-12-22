@@ -1,0 +1,100 @@
+{
+  "user_id": "AGO45ZGOF7VZHKTIFO2HHF6P57HA",
+  "summary": "=== Purchase Information ===\nReview Date: 2015/06/08\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Von Ancken', 'Adam Bernstein', 'John Dahl', 'Bart Freundlich', 'Michael Lehmann', 'David Duchovny', 'Seith Mann', 'Scott Winant', 'Michael Weaver', 'Stephen Hopkins'], 'Studio': ['Showtime Networks Inc.']}\nReview Text: Hard to like any of the characters. Advertised as a comedy but not funny.\nReview Title: Not That Good\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/16\nAverage Rating: 2.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matt Piedmont', 'Jake Szymanski', 'Jason Woliner', 'Jordan Vogt-Roberts', 'Neal Brennan', 'Ruben Fleischer', 'Jonathan Krisel', 'Nicholas Jasenovec', 'Joel Murray', 'Robert Cohen'], 'Studio': ['HBO']}\nReview Text: Stupid\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Boardwalk Empire\nReview Date: 2015/09/16\nCategories: Drama\nProduct Description: [\"With the '20s really starting to roar in Season 3, Nucky Thompson deals with a new competitor whose operations threaten his booze business.\"]\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Starring': ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon']}\nReview Text: Endings were surprising, wish seasons 4 & 5 were free w/prime\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/10/22\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Starring': ['Blake Anderson', 'Adam Devine', 'Anders Holm'], 'Studio': ['CBS']}\nReview Text: Pretty funny in parts. Sometimes get a little too stupid however.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/08/11\nAverage Rating: 4.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Michael Salomon'], 'Producers': ['Toby Keith', 'Donald Zuckerman'], 'Starring': ['Toby Keith', 'Rodney Carrington', 'Ted Nugent'], 'Studio': ['Lionsgate']}\nReview Text: Better than I thought it would be.\nReview Title: Didn't disappoint\nRating: 4.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Von Ancken', 'Adam Bernstein', 'John Dahl', 'Bart Freundlich', 'Michael Lehmann', 'David Duchovny', 'Seith Mann', 'Scott Winant', 'Michael Weaver', 'Stephen Hopkins'], 'Studio': ['Showtime Networks Inc.']}\nHard to like any of the characters. Advertised as a comedy but not funny.\nNot That Good\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matt Piedmont', 'Jake Szymanski', 'Jason Woliner', 'Jordan Vogt-Roberts', 'Neal Brennan', 'Ruben Fleischer', 'Jonathan Krisel', 'Nicholas Jasenovec', 'Joel Murray', 'Robert Cohen'], 'Studio': ['HBO']}\nStupid\nOne Star\nBoardwalk Empire\nDrama\n[\"With the '20s really starting to roar in Season 3, Nucky Thompson deals with a new competitor whose operations threaten his booze business.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Starring': ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon']}\nEndings were surprising, wish seasons 4 & 5 were free w/prime\nFive Stars\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Starring': ['Blake Anderson', 'Adam Devine', 'Anders Holm'], 'Studio': ['CBS']}\nPretty funny in parts. Sometimes get a little too stupid however.\nFour Stars\n{'Subtitles': ['None available'], 'Directors': ['Michael Salomon'], 'Producers': ['Toby Keith', 'Donald Zuckerman'], 'Starring': ['Toby Keith', 'Rodney Carrington', 'Ted Nugent'], 'Studio': ['Lionsgate']}\nBetter than I thought it would be.\nDidn't disappoint",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2015/06/08\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Von Ancken', 'Adam Bernstein', 'John Dahl', 'Bart Freundlich', 'Michael Lehmann', 'David Duchovny', 'Seith Mann', 'Scott Winant', 'Michael Weaver', 'Stephen Hopkins'], 'Studio': ['Showtime Networks Inc.']}\nReview Text: Hard to like any of the characters. Advertised as a comedy but not funny.\nReview Title: Not That Good\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/06/16\nAverage Rating: 2.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Matt Piedmont', 'Jake Szymanski', 'Jason Woliner', 'Jordan Vogt-Roberts', 'Neal Brennan', 'Ruben Fleischer', 'Jonathan Krisel', 'Nicholas Jasenovec', 'Joel Murray', 'Robert Cohen'], 'Studio': ['HBO']}\nReview Text: Stupid\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Boardwalk Empire\nReview Date: 2015/09/16\nCategories: Drama\nProduct Description: [\"With the '20s really starting to roar in Season 3, Nucky Thompson deals with a new competitor whose operations threaten his booze business.\"]\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Timothy Van Patten', 'Allen Coulter', 'Jeremy Podeswa', 'Ed Bianchi', 'Brad Anderson', 'Alik Sakharov', 'Jake Paltrow', 'Simon Cellan Jones', 'Brian Kirk', 'Martin Scorsese'], 'Starring': ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon']}\nReview Text: Endings were surprising, wish seasons 4 & 5 were free w/prime\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/10/22\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Starring': ['Blake Anderson', 'Adam Devine', 'Anders Holm'], 'Studio': ['CBS']}\nReview Text: Pretty funny in parts. Sometimes get a little too stupid however.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/08/11\nAverage Rating: 4.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Michael Salomon'], 'Producers': ['Toby Keith', 'Donald Zuckerman'], 'Starring': ['Toby Keith', 'Rodney Carrington', 'Ted Nugent'], 'Studio': ['Lionsgate']}\nReview Text: Better than I thought it would be.\nReview Title: Didn't disappoint\nRating: 4.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe analysis of this purchase history reveals a consumer with discerning tastes who favors quality content, particularly in drama and somewhat in comedy. The consistently higher ratings (4.6 and above) indicate a preference for well-crafted narratives with strong character development, as seen in successful drama series. However, there are clear sentiments against poorly executed comedies, reflected in the low ratings (1.0 and 2.0) and negative comments about humor failing to deliver. \n\nContent involving violence, substance use, and adult themes appears frequently, suggesting a tolerance for gritty narratives but a disdain for superficial execution. The shopper appreciates unexpected plot twists and high production values, valuing authenticity over mere amusement. \n\nPrice sensitivity is inferred from comments wishing for access to more content free with subscription services. While expressing a desire for value, this consumer is willing to engage with products that provide satisfactory entertainment, showing a balanced approach between quality and cost evaluation in their purchases. In summary, their core preferences highlight a critical eye for high-quality drama, a low tolerance for ineffective humor, and a moderate sensitivity to pricing and value proposition.",
+  "target_interaction": {
+    "rating": 2.0,
+    "title": "Two Stars",
+    "text": "Boring",
+    "images": [],
+    "asin": "B017AOY4WS",
+    "parent_asin": "B017AOY4WS",
+    "user_id": "AGO45ZGOF7VZHKTIFO2HHF6P57HA",
+    "timestamp": "2016-11-05 13:52:13",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.8,
+    "rating_number": 29076,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d02239de7ae954fa012d433cf9f55f5c7cd1e052f9c03af3de3169fa0aef5d3d._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Nudity",
+        "violence",
+        "substance use",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: Low",
+        "English Dialogue Boost: High",
+        "English",
+        "English [Audio Description]",
+        "English Dialogue Boost: Medium",
+        "Espa\u00f1ol (Espa\u00f1a)",
+        "Italiano",
+        "Espa\u00f1ol (Latinoam\u00e9rica)",
+        "\u65e5\u672c\u8a9e",
+        "Deutsch",
+        "Fran\u00e7ais"
+      ],
+      "Subtitles": [
+        "English [CC]",
+        "Deutsch",
+        "Espa\u00f1ol (Latinoam\u00e9rica)",
+        "Espa\u00f1ol (Espa\u00f1a)",
+        "Fran\u00e7ais",
+        "Italiano",
+        "\u65e5\u672c\u8a9e"
+      ],
+      "Directors": [
+        "Scott Winant",
+        "Dan Attias",
+        "Gloria Muzio",
+        "Minkie Spiro",
+        "Daisy von Scherler Mayer",
+        "Roxann Dawson"
+      ],
+      "Producers": [
+        "Dana Calvo",
+        "Darlene Hunt",
+        "Lynda Obst",
+        "Jeff Okin",
+        "Scott Winant",
+        "Don Kurt"
+      ],
+      "Starring": [
+        "Genevieve Angelson",
+        "Anna Camp",
+        "Erin Darke"
+      ],
+      "Studio": [
+        "Amazon Studios"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

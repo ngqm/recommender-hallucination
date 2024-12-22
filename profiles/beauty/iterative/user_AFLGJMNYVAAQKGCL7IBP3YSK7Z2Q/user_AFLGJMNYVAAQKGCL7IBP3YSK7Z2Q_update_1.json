@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HANNE None Lace Long Natural Wave Ombre Brown to Blonde Synthetic Wigs for Black Women High Density Heat Resistant Middle Part Wavy Synthetic Hair Party/Cosplay Party/Halloween Wigs (4/30/27 Wavy)\nReview Date: 2020/01/21\nStore: HANNE\nAverage Rating: 3.6\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Wavy', 'Style': 'Wavy', 'Special Feature': 'Heat Resistant', 'Brand': 'HANNE', 'Package Dimensions': '10.19 x 8.66 x 3.26 inches; 11.53 Ounces'}\nReview Text: Really cute wig. It is a big long and heavy for my liking. I definitely wouldn\u2019t be comfortable wearing this wig everyday. It is fun for trying a different look or dressing up for Halloween or a party. It is a very full wig, and doesn\u2019t shed much. It holds the waves through several wears. The color is natural and beautiful. It does fit well, and it doesn\u2019t come off easily.\nReview Title: Great wig for a natural look, but a bit heavy\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "HANNE None Lace Long Natural Wave Ombre Brown to Blonde Synthetic Wigs for Black Women High Density Heat Resistant Middle Part Wavy Synthetic Hair Party/Cosplay Party/Halloween Wigs (4/30/27 Wavy)\nHANNE\n{'Material': 'Synthetic', 'Hair Type': 'Wavy', 'Style': 'Wavy', 'Special Feature': 'Heat Resistant', 'Brand': 'HANNE', 'Package Dimensions': '10.19 x 8.66 x 3.26 inches; 11.53 Ounces'}\nReally cute wig. It is a big long and heavy for my liking. I definitely wouldn\u2019t be comfortable wearing this wig everyday. It is fun for trying a different look or dressing up for Halloween or a party. It is a very full wig, and doesn\u2019t shed much. It holds the waves through several wears. The color is natural and beautiful. It does fit well, and it doesn\u2019t come off easily.\nGreat wig for a natural look, but a bit heavy",
+  "profile": "**User Profile Summary:**\n\n- **Hair Accessories:** Prefers wigs, specifically synthetic options for versatility and style experimentation.\n- **Style Preference:** Enjoys wavy hairstyles and natural-looking colors, with an inclination for ombre effects.\n- **Usage Context:** Likely uses wigs for special occasions such as parties, cosplay, or Halloween rather than daily wear.\n- **Comfort Considerations:** Finds certain wigs to be too heavy for long-term wear, indicating a preference for lightweight options.\n- **Durability and Maintenance:** Values wigs that maintain their style and integrity over time, with minimal shedding.\n- **Fit and Security:** Appreciates wigs that fit well and stay securely in place.\n- **Overall Sentiment:** Enjoys the fashion aspect of wigs but emphasizes comfort and practicality, indicating a balanced approach to style versus usability. \n\nThis profile reflects a user who seeks fun and stylish hair enhancements for specific events while being mindful of comfort and functionality.",
+  "metrics": {
+    "rouge1_f": 0.33098591549295775,
+    "rouge2_f": 0.0425531914893617,
+    "rougeL_f": 0.1619718309859155,
+    "meteor": 0.19839784078859915,
+    "bleu1": 0.22110552763819094,
+    "bleu2": 0.04725874700055572,
+    "bleu3": 0.010427160531334852,
+    "bleu4": 0.004904113659480587,
+    "bertscore_precision": 0.4549112319946289,
+    "bertscore_recall": 0.4637669324874878,
+    "bertscore_f1": 0.45929640531539917
+  }
+}

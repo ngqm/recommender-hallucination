@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: UV Light for Nails,LKE Curing Lamp for Gel Nail Polish 54W UV Led Light Gel Nail Starter Kit Nail Dryer Accessories\nReview Date: 2019/07/23\nStore: LKE\nAverage Rating: 4.0\nProduct Details: {'Brand': 'LKE', 'Light Source Type': 'LED', 'Number of Light Sources': '2', 'Wattage': '54 watts', 'Control Method': 'App', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.45 x 8.7 x 5.08 inches; 2 Pounds', 'Batteries': '1 Lithium Ion batteries required.'}\nReview Text: This lamp is super easy to use. After installing the batteries you just turn it on the length of time that you need and you are ready to go. I do dip powder nails, not gel... but everytime I have been to the salon, they have always used a lamp to help cure the top layer faster. This worked exactly the same. Anything that saves me time is a great thing! I would recommend this. the price is great and the product is even better!\nReview Title: Easy to use\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "UV Light for Nails,LKE Curing Lamp for Gel Nail Polish 54W UV Led Light Gel Nail Starter Kit Nail Dryer Accessories\nLKE\n{'Brand': 'LKE', 'Light Source Type': 'LED', 'Number of Light Sources': '2', 'Wattage': '54 watts', 'Control Method': 'App', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.45 x 8.7 x 5.08 inches; 2 Pounds', 'Batteries': '1 Lithium Ion batteries required.'}\nThis lamp is super easy to use. After installing the batteries you just turn it on the length of time that you need and you are ready to go. I do dip powder nails, not gel... but everytime I have been to the salon, they have always used a lamp to help cure the top layer faster. This worked exactly the same. Anything that saves me time is a great thing! I would recommend this. the price is great and the product is even better!\nEasy to use",
+  "profile": "**User Summary:**\n\n- **Preferences:** Values convenience and ease of use in nail-related products.\n- **Usage Type:** Primarily engages with dip powder nails, but appreciates products used in salons, indicating a blend of personal experimentation and professional standards.\n- **Product Selection:** Shows a tendency to choose tools that enhance efficiency, particularly those that save time during the nail application process.\n- **Rating Patterns:** Tends to give high ratings (notably a 5.0 for ease of use) indicating satisfaction with products that meet or exceed expectations.\n- **Brand Affinity:** Indicates a potential preference for brands that offer user-friendly and effective solutions, such as LKE in this instance.\n- **Review Behavior:** Engages in articulate feedback that highlights key product features and personal satisfaction, suggesting a propensity for thorough evaluations of purchased items. \n\nOverall, the user appears to prioritize functionality, convenience, and quality in their purchases, particularly in the realm of nail care.",
+  "metrics": {
+    "rouge1_f": 0.23569023569023567,
+    "rouge2_f": 0.020338983050847456,
+    "rougeL_f": 0.11447811447811447,
+    "meteor": 0.1633860523440917,
+    "bleu1": 0.24875621890547261,
+    "bleu2": 0.06108472217815259,
+    "bleu3": 0.03347192643915328,
+    "bleu4": 0.02086143762826508,
+    "bertscore_precision": 0.42281514406204224,
+    "bertscore_recall": 0.43254730105400085,
+    "bertscore_f1": 0.4276258945465088
+  }
+}

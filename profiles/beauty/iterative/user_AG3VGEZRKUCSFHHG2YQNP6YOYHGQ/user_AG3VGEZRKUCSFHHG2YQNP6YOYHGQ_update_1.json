@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 3D Mink Eyelashes Natural Long Lashes 2 in 1 Self-adhesive Eyeliner Instead of Adhesive 5 Different Styles Pairs Kits Sets with Tweezers , NO NEED GLUE\nReview Date: 2020/09/18\nStore: PURELEOR\nAverage Rating: 3.9\nProduct Details: {'Brand': 'PURELEOR', 'Material': 'Mink Fur', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Unit Count': '5.00 Count', 'Package Dimensions': '9 x 6 x 1 inches; 2.4 Ounces', 'UPC': '750810450143'}\nReview Text: This set of lashes comes with five pairs in different styles, a set of tweezers and a liquid eyeliner that also acts as glue. The styles vary from casual day to day wear to dramatic showstoppers. The lashes are synthetic fibers with a medium band that is sturdy and with proper care can be used easily 20 or more times. They are soft and comfortable to wear with a secure hold for all day wear. With the liner functioning as a glue, you eliminate the need for an extra step and instead of putting glue on the lash band, you put it on as you would a normal liner making application incredibly easy, even for a beginner. I love these lashes!!!\nReview Title: Perfect lashes for a beginner or pro!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "3D Mink Eyelashes Natural Long Lashes 2 in 1 Self-adhesive Eyeliner Instead of Adhesive 5 Different Styles Pairs Kits Sets with Tweezers , NO NEED GLUE\nPURELEOR\n{'Brand': 'PURELEOR', 'Material': 'Mink Fur', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Unit Count': '5.00 Count', 'Package Dimensions': '9 x 6 x 1 inches; 2.4 Ounces', 'UPC': '750810450143'}\nThis set of lashes comes with five pairs in different styles, a set of tweezers and a liquid eyeliner that also acts as glue. The styles vary from casual day to day wear to dramatic showstoppers. The lashes are synthetic fibers with a medium band that is sturdy and with proper care can be used easily 20 or more times. They are soft and comfortable to wear with a secure hold for all day wear. With the liner functioning as a glue, you eliminate the need for an extra step and instead of putting glue on the lash band, you put it on as you would a normal liner making application incredibly easy, even for a beginner. I love these lashes!!!\nPerfect lashes for a beginner or pro!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys high-quality cosmetic products, specifically false eyelashes that offer versatility in styles, from casual to dramatic.\n- **Application Convenience:** Values products that simplify the application process, such as self-adhesive options or multi-functional items (like eyeliner that doubles as glue).\n- **User Experience:** Appreciates comfort, durability, and reusability in beauty products, indicating a preference for items that can be used multiple times with proper care.\n- **Target Audience:** Shows interest in products suitable for both beginners and experienced users, suggesting a preference for ease of use without compromising on quality.\n- **Material Sensitivity:** Favors soft and comfortable materials, indicating a preference for luxurious or natural-feel options.\n\nOverall, the user demonstrates a strong inclination toward practical, user-friendly beauty solutions that enhance their cosmetic experience while providing options for various occasions.",
+  "metrics": {
+    "rouge1_f": 0.30094043887147337,
+    "rouge2_f": 0.06940063091482651,
+    "rougeL_f": 0.15673981191222572,
+    "meteor": 0.17524135891315346,
+    "bleu1": 0.2603105140757655,
+    "bleu2": 0.11084587639984488,
+    "bleu3": 0.05418017021830962,
+    "bleu4": 0.01620784712883577,
+    "bertscore_precision": 0.4418133795261383,
+    "bertscore_recall": 0.47541409730911255,
+    "bertscore_f1": 0.45799827575683594
+  }
+}

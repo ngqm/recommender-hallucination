@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/05/03\nAverage Rating: 3.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Winter'], 'Producers': ['Nicholas Winter', 'Jacoby Bancroft', 'Jeffrey Giles', 'Marc Goldberg', 'Michael Lurie', 'Sammy Measom', 'Jeet Thakrar', 'Lucinda Rhodes Thakrar', 'Elizabeth Williams'], 'Starring': ['Kristian Nairn', 'Martyn Ford', 'Brian Blessed'], 'Studio': ['Signature Entertainment']}\nReview Text: Meh\nReview Title: Meh\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Winter'], 'Producers': ['Nicholas Winter', 'Jacoby Bancroft', 'Jeffrey Giles', 'Marc Goldberg', 'Michael Lurie', 'Sammy Measom', 'Jeet Thakrar', 'Lucinda Rhodes Thakrar', 'Elizabeth Williams'], 'Starring': ['Kristian Nairn', 'Martyn Ford', 'Brian Blessed'], 'Studio': ['Signature Entertainment']}\nMeh\nMeh",
+  "profile": "**User Profile Summary**\n\n- **Rating Tendencies**: Neutral to slightly negative ratings (average around 3.2), indicating a critical or discerning taste.\n  \n- **Content Preferences**: The user appears open to diverse themes, including those that contain nudity, violence, and foul language but may not fully appreciate them, as suggested by the mediocre review rating.\n\n- **Language Use**: Preference for content in English, both in audio and subtitles, indicating a primary English-speaking audience.\n\n- **Engagement with Creators**: Interest in works by specific directors and producers, suggesting an inclination towards familiar or recognizable talents in the film industry.\n\n- **Overall Sentiment**: Use of \"meh\" implies a tendency towards ambivalence or indifference regarding the products consumed, reflecting a moderate level of enthusiasm. \n\nThese patterns indicate a user who may be selective about content, potentially gravitating towards more critically acclaimed or thoughtfully produced works, while also having the capability to engage with mainstream content.",
+  "metrics": {
+    "rouge1_f": 0.1443298969072165,
+    "rouge2_f": 0.020833333333333332,
+    "rougeL_f": 0.12371134020618557,
+    "meteor": 0.0782472613458529,
+    "bleu1": 0.0909090909090909,
+    "bleu2": 0.006793139675758246,
+    "bleu3": 0.002866124197909663,
+    "bleu4": 0.001864071650071019,
+    "bertscore_precision": 0.388602077960968,
+    "bertscore_recall": 0.3429573178291321,
+    "bertscore_f1": 0.36435574293136597
+  }
+}

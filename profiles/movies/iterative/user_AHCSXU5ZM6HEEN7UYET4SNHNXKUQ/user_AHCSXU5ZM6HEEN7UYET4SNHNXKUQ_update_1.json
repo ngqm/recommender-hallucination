@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/14\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nReview Text: We love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nReview Title: Simply one of our favorite shows to watch!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nWe love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nSimply one of our favorite shows to watch!",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys shows with engaging narratives and rich visual content, particularly those showcasing unique locations and cultures.\n- **Family-Oriented Viewing:** Prefers family-friendly programming that can be watched collectively, indicating a valuing of shared experiences.\n- **Interest in Nature and Exploration:** Has a strong affinity for outdoor themes, suggesting a preference for content that highlights natural beauty and adventure.\n- **Regular Viewing Habit:** Looks forward to weekly shows, demonstrating commitment to following ongoing series.\n- **Positive Engagement:** Tends to provide high ratings, reflecting satisfaction with chosen content.\n\nThis user's interactions reveal a passion for shows that transport viewers to different environments, particularly those that resonate with personal aspirations of living in unique locales like Alaska.",
+  "metrics": {
+    "rouge1_f": 0.2043010752688172,
+    "rouge2_f": 0.043478260869565216,
+    "rougeL_f": 0.10752688172043011,
+    "meteor": 0.15915860718915983,
+    "bleu1": 0.15527950310559005,
+    "bleu2": 0.05395823091271445,
+    "bleu3": 0.026357613993247358,
+    "bleu4": 0.010375649641984327,
+    "bertscore_precision": 0.4132833480834961,
+    "bertscore_recall": 0.42713263630867004,
+    "bertscore_f1": 0.4200938940048218
+  }
+}

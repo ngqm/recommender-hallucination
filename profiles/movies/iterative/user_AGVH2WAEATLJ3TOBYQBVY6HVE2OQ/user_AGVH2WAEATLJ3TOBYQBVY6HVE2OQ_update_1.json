@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/15\nAverage Rating: 4.0\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Klein'], 'Starring': ['Ken Klein'], 'Studio': ['Total Content Digital']}\nReview Text: Review doesn't mention this is a very conservative Christian diatribe against the Catholic church that starts with the Old Testament!  I did learn where the Fundamentalist anti-intellectualism stems from but this guy is hypnotic only in that he speaks exclusively in non sequiturs...very few photos soften the ranting and I want Amazon to annotate what's religious in future\nReview Title: I PAID for this RW protestant rant!\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Klein'], 'Starring': ['Ken Klein'], 'Studio': ['Total Content Digital']}\nReview doesn't mention this is a very conservative Christian diatribe against the Catholic church that starts with the Old Testament!  I did learn where the Fundamentalist anti-intellectualism stems from but this guy is hypnotic only in that he speaks exclusively in non sequiturs...very few photos soften the ranting and I want Amazon to annotate what's religious in future\nI PAID for this RW protestant rant!",
+  "profile": "**User Summary:**\n\n- **Content Preferences:** The user demonstrates a strong aversion to content that appears to promote conservative religious views, particularly fundamentalist perspectives. Their review indicates a critical stance toward materials that include anti-Catholic sentiment and a preference for transparency regarding the content's religious themes.\n\n- **Rating Behavior:** This individual rates content thoughtfully, illustrating a willingness to engage with material constructively yet decisively. The review highlighted a significant disappointment, resulting in a low rating, indicating high expectations for content integrity and purpose.\n\n- **Interest in Clarity:** The user values clear content annotations, particularly concerning religious themes, reflecting a need for context in what they consume.\n\n- **Language and Presentation Concerns:** They appear to prefer well-structured arguments over disorganized or incoherent presentations, as suggested by the critique of the speaker's non sequiturs.\n\nOverall, the user is discerning about the content they engage with, actively seeks clarity and context, and is critical of materials perceived as propagandistic or intellectually lacking.",
+  "metrics": {
+    "rouge1_f": 0.25806451612903225,
+    "rouge2_f": 0.016260162601626018,
+    "rougeL_f": 0.10483870967741934,
+    "meteor": 0.1569957975421383,
+    "bleu1": 0.16831683168316833,
+    "bleu2": 0.04092425130782666,
+    "bleu3": 0.00942563236682543,
+    "bleu4": 0.004529180235240221,
+    "bertscore_precision": 0.4124271273612976,
+    "bertscore_recall": 0.3988826870918274,
+    "bertscore_f1": 0.4055418372154236
+  }
+}

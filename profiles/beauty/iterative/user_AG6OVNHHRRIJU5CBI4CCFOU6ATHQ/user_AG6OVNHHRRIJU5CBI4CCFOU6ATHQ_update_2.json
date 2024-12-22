@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: short bob headband wig human hair headband wigs for black women Straight Short Bob Human Hair Wig for Women Easy to Wear Half Wig with Free Headband Machine Made 150% Density (10)\nReview Date: 2020/05/10\nStore: Usexy\nAverage Rating: 5.0\nProduct Details: {'Brand': 'Usexy', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11.81 x 3.94 x 7.87 inches; 10.56 Ounces', 'UPC': '613865341487'}\nReview Text: Very good\nReview Title: Soft hai\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Straight With Lace Closure Unprocessed 100% Human Hair 4 Bundles with 4x4 Free Part Closure Natural Black (8'' 8'' 8'' 8''With 8'' Closure)\nXuchang Jinhongze Fazhipin Co.,Ltd\n{'Brand': 'Xuchang Jinhongze Fazhipin Co.,Ltd', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '8 Inches', 'Hair Type': 'Straight'}\nGood hair\nGood\nshort bob headband wig human hair headband wigs for black women Straight Short Bob Human Hair Wig for Women Easy to Wear Half Wig with Free Headband Machine Made 150% Density (10)\nUsexy\n{'Brand': 'Usexy', 'Hair Type': 'Curly', 'Installation Type': 'Sew-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11.81 x 3.94 x 7.87 inches; 10.56 Ounces', 'UPC': '613865341487'}\nVery good\nSoft hai",
+  "profile": "**User Profile Summary:**\n\n- **Preference for High-Quality Hair Products:** User continues to value natural, unprocessed human hair, indicating a consistent preference for authenticity and quality over synthetic alternatives.\n- **Specific Hair Type and Style:** While the user previously opted for straight hair, this recent purchase includes a curly wig, suggesting a mild increase in interest for versatility in hair types, but still favoring manageable styles.\n- **Length Specification:** The new product's length (10 inches) indicates a slight openness to longer hair than the previous choice (8 inches), possibly for styling flexibility while still maintaining a focus on easy wear.\n- **Consistent Satisfaction:** User maintains a trend of positive experiences, as evidenced by a high rating for the new product.\n- **Color Choice:** The preference for classic and timeless shades remains evident, aligning with their past selections;\ncolor specifics were not updated in this interaction, implying a sustained adherence to natural tones.\n- **Vendor Trust:** The user continues to engage with a specific vendor, reflecting loyalty and a preference for reputable brands that align with their quality expectations.\n\nOverall, the user demonstrates a strong preference for quality, natural hair products while showing an evolving interest in slightly varied styles and lengths, still focused on manageable hair solutions and trusted vendors.",
+  "metrics": {
+    "rouge1_f": 0.20433436532507743,
+    "rouge2_f": 0.024922118380062305,
+    "rougeL_f": 0.11145510835913312,
+    "meteor": 0.13616557734204793,
+    "bleu1": 0.14444444444444443,
+    "bleu2": 0.04013607585305619,
+    "bleu3": 0.008439402001653436,
+    "bleu4": 0.0038735212296151004,
+    "bertscore_precision": 0.39736539125442505,
+    "bertscore_recall": 0.375094473361969,
+    "bertscore_f1": 0.38590890169143677
+  }
+}

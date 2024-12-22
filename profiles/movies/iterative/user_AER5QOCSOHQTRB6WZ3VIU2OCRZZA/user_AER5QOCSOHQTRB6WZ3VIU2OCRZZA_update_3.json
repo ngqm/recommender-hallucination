@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/05/05\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Fox', 'Jerry Ciccoritti', 'Jordan Canning', 'Andrew Cividino', 'T.W. Peacocke', 'Sturla Gunnarsson', 'Bruce McCulloch', 'Laurie Lynd', 'Dan Levy', 'Donna Croce'], 'Studio': ['POP']}\nReview Text: Hilarious show. Eugene levy an his son Daniel who play is son on the show are fantastic together. Highly recommend\nReview Title: Hilarious\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Greg Spence', 'Lisa McAtackney', 'Bryan Cogman', 'Guymon Casady', 'George R.R. Martin', 'Vince Gerardis', 'Chris Newman'], 'Starring': ['Peter Dinklage', 'Lena Headey', 'Emilia Clarke'], 'Studio': ['HBO']}\nLove this show\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Producers': ['Not Specified'], 'Starring': ['Rose McIver', 'Malcolm Goodwin', 'Rahul Kohli']}\nLove I zombie own all the seasons\nLove\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Fox', 'Jerry Ciccoritti', 'Jordan Canning', 'Andrew Cividino', 'T.W. Peacocke', 'Sturla Gunnarsson', 'Bruce McCulloch', 'Laurie Lynd', 'Dan Levy', 'Donna Croce'], 'Studio': ['POP']}\nHilarious show. Eugene levy an his son Daniel who play is son on the show are fantastic together. Highly recommend\nHilarious",
+  "profile": "**Updated User Profile Summary:**\n\n- **Entertainment Preference**: Exhibits a strong appreciation for high-quality television series, particularly those from major studios like HBO, while also enjoying quirky narratives that offer unique storytelling elements. \n- **Content Language**: Prefers content in English, including audio and subtitles.\n- **Rating Pattern**: Consistently gives high ratings, often near perfect scores, reflecting a discerning taste and high satisfaction with purchased content.\n- **Genre Interest**: Enjoys dramas with complex narratives and character development, as well as lighter, humorous series that blend dramatic elements with comedy.\n- **Creators & Cast Preferences**: Favors works by notable directors and writers, and appreciates strong performances by popular actors, demonstrated through positive engagement with diverse casting.\n- **Engagement Style**: Engages enthusiastically, often writing glowing reviews that convey genuine love for the series watched, highlighting shareable viewing experiences.\n\nOverall, this user has a robust connection to critically acclaimed series that feature significant creative talent and emotionally compelling stories, while also embracing unique and quirky narratives, reflecting a balance between high drama and light-hearted entertainment. The recent interaction underscores a growing appreciation for humor-infused storytelling, showcasing their versatility in genre preferences.",
+  "metrics": {
+    "rouge1_f": 0.08484848484848485,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05454545454545454,
+    "meteor": 0.06008444300097435,
+    "bleu1": 0.09190917202548127,
+    "bleu2": 0.005317285785369362,
+    "bleu3": 0.0020593524856844176,
+    "bleu4": 0.0012829230612986583,
+    "bertscore_precision": 0.34470510482788086,
+    "bertscore_recall": 0.3621690571308136,
+    "bertscore_f1": 0.3532213866710663
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Liquid Foundation Cream, Concealer Cover Cream, BB Cream, Flawless Colour Changing Foundation Makeup Base Nude Face Liquid Cover Concealer, Universal for ALL Skin Types, SPF 15 Shell, 1.41 Fl Oz\nReview Date: 2019/09/17\nStore: BUOCEANS Official\nAverage Rating: 3.7\nProduct Details: {'Item Form': 'Liquid', 'Skin Type': 'All', 'Finish Type': 'Sheer', 'Recommended Uses For Product': 'Pores, Dryness', 'Package Information': 'Bottle', 'Package Dimensions': '4.9 x 1.8 x 1.8 inches; 3.21 Ounces'}\nReview Text: I am so glad they made a product like this because I can never seem to find the right color to match my skin and I end up with that Foundation the line on my chin with the two different colors. Not only is this product lightweight, it smells nice, plus it blends in with my skin tone almost perfectly. This is definitely going to be my go to Foundation.\nReview Title: Awesome foundation!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Liquid Foundation Cream, Concealer Cover Cream, BB Cream, Flawless Colour Changing Foundation Makeup Base Nude Face Liquid Cover Concealer, Universal for ALL Skin Types, SPF 15 Shell, 1.41 Fl Oz\nBUOCEANS Official\n{'Item Form': 'Liquid', 'Skin Type': 'All', 'Finish Type': 'Sheer', 'Recommended Uses For Product': 'Pores, Dryness', 'Package Information': 'Bottle', 'Package Dimensions': '4.9 x 1.8 x 1.8 inches; 3.21 Ounces'}\nI am so glad they made a product like this because I can never seem to find the right color to match my skin and I end up with that Foundation the line on my chin with the two different colors. Not only is this product lightweight, it smells nice, plus it blends in with my skin tone almost perfectly. This is definitely going to be my go to Foundation.\nAwesome foundation!",
+  "profile": "**User Profile Summary:**\n\n- **Cosmetics Preferences:** This user shows a strong preference for liquid foundations and concealers, indicating a focus on lightweight formulations that provide good coverage while blending seamlessly with their skin tone.\n- **Skin Type Consideration:** They appreciate products suitable for all skin types, emphasizing versatility and inclusivity.\n- **Color Matching:** The user values products that offer effective color matching capabilities, as past experiences with mismatched foundation shades lead to dissatisfaction.\n- **Fragrance and Texture:** A notable preference for pleasant scents in makeup products, as well as a sheer finish, suggests they prioritize comfort and sensory experience in their cosmetics.\n- **Functionality:** They are particularly interested in products that address common concerns such as pores and dryness, indicating a practical approach to makeup usage.\n- **General Sentiment:** The user exhibits enthusiasm towards makeup that enhances their appearance without feeling heavy, reflecting a desire for natural-looking beauty.\n\nOverall, this user seeks effective, easy-to-use cosmetic products that enhance their complexion while ensuring a comfortable and pleasant experience.",
+  "metrics": {
+    "rouge1_f": 0.27906976744186046,
+    "rouge2_f": 0.04013377926421405,
+    "rougeL_f": 0.1196013289036545,
+    "meteor": 0.18956220028489523,
+    "bleu1": 0.17889908256880735,
+    "bleu2": 0.028712710344725834,
+    "bleu3": 0.007253788291438981,
+    "bleu4": 0.0036501779907050827,
+    "bertscore_precision": 0.4306070804595947,
+    "bertscore_recall": 0.4437987208366394,
+    "bertscore_f1": 0.43710342049598694
+  }
+}

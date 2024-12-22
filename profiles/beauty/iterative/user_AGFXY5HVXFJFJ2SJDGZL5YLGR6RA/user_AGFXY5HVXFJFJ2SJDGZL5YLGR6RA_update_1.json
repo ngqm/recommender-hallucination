@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NeWisdom 72 PCS Toddler Girls Hair Accessory Set with Gift Packing Organization Box, Gifts for Grandkids, Cute Hair Bows Hair Clips Hair Bands for Girls Toddlers, Multi-Style Elastic Hair Ties Hair Accessories for Baby Girls Age 3 4 5 6\nReview Date: 2019/08/05\nStore: NeWisdom\nAverage Rating: 3.7\nProduct Details: {'Brand': 'NeWisdom', 'Hair Type': 'All', 'Color': 'GirlsKit', 'Age Range (Description)': 'Babies', 'Embellishment': 'Bow', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10.83 x 7.28 x 1.77 inches; 14.57 Ounces', 'Manufacturer recommended age': '5 months and up', 'Item model number': 'NW-GirlsKit-36Grid', 'Department': 'Baby-girls', 'UPC': '778942698455', 'Manufacturer': 'NeWisdom'}\nReview Text: I likr thr variety and the quality. It is packed very well in beautiful box :) .. it could be such a nice gift :)\nReview Title: Good quality\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NeWisdom 72 PCS Toddler Girls Hair Accessory Set with Gift Packing Organization Box, Gifts for Grandkids, Cute Hair Bows Hair Clips Hair Bands for Girls Toddlers, Multi-Style Elastic Hair Ties Hair Accessories for Baby Girls Age 3 4 5 6\nNeWisdom\n{'Brand': 'NeWisdom', 'Hair Type': 'All', 'Color': 'GirlsKit', 'Age Range (Description)': 'Babies', 'Embellishment': 'Bow', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10.83 x 7.28 x 1.77 inches; 14.57 Ounces', 'Manufacturer recommended age': '5 months and up', 'Item model number': 'NW-GirlsKit-36Grid', 'Department': 'Baby-girls', 'UPC': '778942698455', 'Manufacturer': 'NeWisdom'}\nI likr thr variety and the quality. It is packed very well in beautiful box :) .. it could be such a nice gift :)\nGood quality",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** The user has a strong interest in toddler and baby accessories, specifically hair accessories for girls. They appreciate variety and quality in the products they purchase.\n  \n- **Gift-Giving:** The user values products that are well-packaged and suitable for gifting, indicating a preference for items that are aesthetically pleasing and functional as gifts.\n\n- **Quality Perception:** The user has a positive attitude towards products that demonstrate good quality and thoughtful design, as evidenced by their high rating for the product reviewed.\n\n- **Age Focus:** The user likely shops for children in the toddler age range (specifically ages 3-6), suggesting a focus on gifts or accessories for young girls.\n\n- **Presentation Preference:** The mention of beautiful packaging indicates that the user may prioritize presentation and organization in their purchases, preferring items that come in attractive or convenient packaging.\n\n- **Overall Satisfaction:** The user shows a tendency to provide positive feedback for items that meet or exceed expectations, especially in terms of quality and usability.\n\nThis profile suggests a user who is primarily focused on quality, aesthetic appeal, and the suitability of items as gifts for young children.",
+  "metrics": {
+    "rouge1_f": 0.2360655737704918,
+    "rouge2_f": 0.059405940594059396,
+    "rougeL_f": 0.11147540983606558,
+    "meteor": 0.15848068571315715,
+    "bleu1": 0.13580246913580246,
+    "bleu2": 0.03350126050864039,
+    "bleu3": 0.007751190628094155,
+    "bleu4": 0.0037322738583264615,
+    "bertscore_precision": 0.40272146463394165,
+    "bertscore_recall": 0.404946893453598,
+    "bertscore_f1": 0.4038311541080475
+  }
+}

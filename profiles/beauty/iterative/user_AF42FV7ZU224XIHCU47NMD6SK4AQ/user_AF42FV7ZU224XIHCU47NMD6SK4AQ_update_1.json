@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Electric Shaver for Men Wet and Dry Waterproof, Electric Razor Cordless Men's 3D Rotary Shavers Rechargeable Beard Trimmer with Pop-up Trimmer, Digital Display & Travel Lock - Blue\nReview Date: 2019/02/09\nStore: Aesfee\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Aesfee', 'Power Source': 'Battery Powered', 'Included Components': 'Protective Cap, Attachment, Charger', 'Battery Life': '120 minutes', 'Color': 'Blue', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.76 x 6.3 x 2.36 inches; 10.41 Ounces', 'Item model number': 'AF-809', 'Batteries': '1 Lithium Ion batteries required. (included)', 'UPC': '608912295998 608912295196', 'Manufacturer': 'Aesfee'}\nReview Text: Very fast and safe shaving. Perfect!\nReview Title: Perfect Shaver!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Electric Shaver for Men Wet and Dry Waterproof, Electric Razor Cordless Men's 3D Rotary Shavers Rechargeable Beard Trimmer with Pop-up Trimmer, Digital Display & Travel Lock - Blue\nAesfee\n{'Brand': 'Aesfee', 'Power Source': 'Battery Powered', 'Included Components': 'Protective Cap, Attachment, Charger', 'Battery Life': '120 minutes', 'Color': 'Blue', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.76 x 6.3 x 2.36 inches; 10.41 Ounces', 'Item model number': 'AF-809', 'Batteries': '1 Lithium Ion batteries required. (included)', 'UPC': '608912295998 608912295196', 'Manufacturer': 'Aesfee'}\nVery fast and safe shaving. Perfect!\nPerfect Shaver!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user favors high-performance grooming tools, indicating a strong interest in efficient and safe shaving options.\n- **Functionality:** Preferences lean towards versatile features, such as waterproof capabilities and cordless operation, enhancing convenience for both home and travel use.\n- **Quality Focus:** A tendency to prioritize quality is evident given the positive experience with a well-rated product that received a perfect score for its speed and safety.\n- **Visual Appeal:** The user appreciates aesthetics, as indicated by the choice of color (blue) in their recent purchase, suggesting a preference for visually appealing products.\n- **Use Case:** Likely values practical and time-saving solutions in grooming, emphasizing functionality during the shaving process.\n- **Satisfaction Level:** High satisfaction is suggested by a 5.0 rating, reflecting a positive attitude towards effective grooming products that meet personal needs.\n\nOverall, the user demonstrates a clear trend towards quality, functionality, and convenience in grooming products, with a keen eye for design.",
+  "metrics": {
+    "rouge1_f": 0.12096774193548386,
+    "rouge2_f": 0.024390243902439025,
+    "rougeL_f": 0.08064516129032259,
+    "meteor": 0.1184990125082291,
+    "bleu1": 0.13551401869158877,
+    "bleu2": 0.03567116623255406,
+    "bleu3": 0.018173263291072297,
+    "bleu4": 0.007303046655455222,
+    "bertscore_precision": 0.3975352942943573,
+    "bertscore_recall": 0.3992071747779846,
+    "bertscore_f1": 0.39836952090263367
+  }
+}

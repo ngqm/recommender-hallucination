@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/22\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Kirk Jones'], 'Producers': ['Vittorio Cecchi Gori', 'Ted Field', 'Glynis Murray', 'Gianni Nunnari'], 'Starring': ['Robert De Niro', 'Drew Barrymore', 'Kate Beckinsale'], 'Studio': ['Paramount Pictures']}\nReview Text: Shows just what happens in life.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Jackass Presents: Bad Grandpa Extended Version\nComedy, Feel-good, Outrageous, Fun\n['Johnny Knoxville reprises his Jackass role as 86-year-old Irving Zisman in the story of a crotchety old man unexpectedly saddled with the care of his 8-year-old grandson Billy (Jackson Nicoll). Extended Version']\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Tremaine'], 'Producers': ['Johnny Knoxville', 'Spike Jonze', 'Jeff Tremaine', 'Derek Freda', 'Trip Taylor'], 'Starring': ['Johnny Knoxville']}\nTerrible, stopped movie after 10 minutes.\nOne Star\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Kirk Jones'], 'Producers': ['Vittorio Cecchi Gori', 'Ted Field', 'Glynis Murray', 'Gianni Nunnari'], 'Starring': ['Robert De Niro', 'Drew Barrymore', 'Kate Beckinsale'], 'Studio': ['Paramount Pictures']}\nShows just what happens in life.\nFour Stars",
+  "profile": "User Summary:\n\nThis user continues to showcase a clear affinity for comedic content, particularly those that are outrageous and humorous. Their engagement with a recent purchase highlights a nuanced appreciation for well-executed storytelling, as evidenced by their 4.2 average rating, suggesting enjoyment of the content despite encountering elements such as nudity and foul language, which typically accompany more mature themes. \n\nKey preferences and trends:\n- Enjoys comedy and effective storytelling, especially in outrageous genres\n- Values production quality and execution, retaining a critical eye for storytelling that resonates\n- Demonstrates the ability to articulate experiences through nuanced ratings, indicating a discerning taste and a methodical approach to quality assessment\n- Has shown a willingness to engage with more mature content while still maintaining a critical perspective on execution, reinforcing their expectation for meaningful and thoughtful narratives\n\nOverall, the user appreciates humor and well-crafted content, leading to swift disengagement from subpar productions. Their recent interaction illustrates a balance between enjoyment in comedic themes and a steadfast commitment to quality, cementing their reputation as a discerning viewer who critically evaluates all aspects of storytelling.",
+  "metrics": {
+    "rouge1_f": 0.0967741935483871,
+    "rouge2_f": 0.006493506493506493,
+    "rougeL_f": 0.058064516129032254,
+    "meteor": 0.062396006655574036,
+    "bleu1": 0.10368850011576027,
+    "bleu2": 0.006446705949774227,
+    "bleu3": 0.002558232071151992,
+    "bleu4": 0.0016135912000026624,
+    "bertscore_precision": 0.3451375961303711,
+    "bertscore_recall": 0.36698657274246216,
+    "bertscore_f1": 0.3557269275188446
+  }
+}

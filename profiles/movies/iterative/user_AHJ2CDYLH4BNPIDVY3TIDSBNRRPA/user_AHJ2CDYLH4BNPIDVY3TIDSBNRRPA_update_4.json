@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/27\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Itaya'], 'Producers': ['Jordan Barker', 'Joseph Itaya'], 'Starring': ['Justin Kelly', 'Benjamin Stockham', 'Cary Elwes'], 'Studio': ['Sony Pictures']}\nReview Text: Wonderful Movie\nReview Title: Awesome Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['TBD'], 'Producers': ['TBD'], 'Starring': ['TBD']}\nTWD Rockzors My Sockzors!\nTWD Rockzors My Sockzors!\n{'Subtitles': ['None available'], 'Directors': ['Jon A. Levy', 'Robin Feinberg', 'Jonathan Haug', 'Kevin Burns', 'Keith Guinto', 'William Martens'], 'Producers': ['Kevin Burns', 'Giorgio A. Tsoukalos', 'Susan E. Leventhal', 'David Silver', 'Max Thompson']}\nExcellent Show\nExcellent Show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Jason Shook', 'Jon A. Levy', 'Edward Peill', 'Joe Lessard', 'Justin Zoras', 'Kevin Burns', 'David Comtois', 'Paul Buccieri', 'Jack Begley', 'Peter Fornetti']}\nGreat Show\nGreat Show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Itaya'], 'Producers': ['Jordan Barker', 'Joseph Itaya'], 'Starring': ['Justin Kelly', 'Benjamin Stockham', 'Cary Elwes'], 'Studio': ['Sony Pictures']}\nWonderful Movie\nAwesome Movie",
+  "profile": "**User Profile Summary:**\n\n- **Favorable Ratings**: The user continues to exhibit strong enthusiasm and satisfaction with their media choices, recently awarding a perfect score of 5.0 in their latest review, reinforcing a trend of high ratings across diverse content, now averaging 4.4 overall in their reviews. \n- **Content Preference**: Maintains a solid preference for English-language content, confirmed by recent interactions highlighting enjoyment of subtitles and audio in English. This indicates a high level of language proficiency and a preference for clear comprehension.\n- **Engagement Level**: The user demonstrates a consistent emotional connection with the content, often expressing delight with phrases like \"Wonderful Movie\" and \"Awesome Movie.\" Their ratings illustrate ongoing enthusiasm and appreciation for quality entertainment.\n- **Entertainment Focus**: Continues to favor action or adventure genres, consistent with past behavior, reflecting a sustained interest in dynamic storytelling and engaging narratives.\n- **Community Interaction**: The user actively engages with communities and fandoms, contributing positively to shared experiences and discussions. Their ongoing enthusiasm for shows and films enhances community interactions and feedback.\n\nOverall, the user reflects high satisfaction and engagement with entertainment, particularly in English. Their ability to consistently rate content highly underscores a discerning taste for quality, while their active participation in related communities illustrates a commitment to enjoying and sharing media experiences.",
+  "metrics": {
+    "rouge1_f": 0.09259259259259259,
+    "rouge2_f": 0.012422360248447204,
+    "rougeL_f": 0.06790123456790123,
+    "meteor": 0.06371219038984985,
+    "bleu1": 0.08454418057356941,
+    "bleu2": 0.02497753702293615,
+    "bleu3": 0.006136303493651201,
+    "bleu4": 0.0030443594438613053,
+    "bertscore_precision": 0.36797595024108887,
+    "bertscore_recall": 0.3484361171722412,
+    "bertscore_f1": 0.35793957114219666
+  }
+}

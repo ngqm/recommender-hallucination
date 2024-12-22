@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: KRISNICE Gel Nail Polish Kit- 6 Colors Blue Olive Turquoise Lavender Purple Gel Polish Set Glitter Nail Polish Soak Off LED Gel Nail Kit Nail Art Manicure Salon DIY at Home Gifts for Women (KCS6-010)\nReview Date: 2021/04/26\nStore: KRISNICE\nAverage Rating: 4.5\nProduct Details: {'Brand': 'KRISNICE', 'Item Form': 'Gel', 'Color': 'Blue,Olive,Turquoise,Purple', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Special Feature': 'Long Lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '6.00 Count', 'Liquid Volume': '7.3 Milliliters', 'Item Dimensions LxWxH': '5.51 x 3.94 x 0.59 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 3.94 x 0.59 inches; 1.41 Ounces', 'Item model number': 'KCS6-010', 'UPC': '613635849250'}\nReview Text: great nail polish\nReview Title: Great nail polish\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "senvenski Gel Nail Polish Top and Base Coat Shine Mirror Eggshell Fur Matte Crystal Cat Eye Effect No Wipe Art Set Soak Off UV LED Lacquer Clear Resin Home Salon Use 6pcs (TB6-001)\nsenvenski\n{}\nGreat nail polish\nGreat nail polish\nKRISNICE Gel Nail Polish Kit- 6 Colors Blue Olive Turquoise Lavender Purple Gel Polish Set Glitter Nail Polish Soak Off LED Gel Nail Kit Nail Art Manicure Salon DIY at Home Gifts for Women (KCS6-010)\nKRISNICE\n{'Brand': 'KRISNICE', 'Item Form': 'Gel', 'Color': 'Blue,Olive,Turquoise,Purple', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Special Feature': 'Long Lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '6.00 Count', 'Liquid Volume': '7.3 Milliliters', 'Item Dimensions LxWxH': '5.51 x 3.94 x 0.59 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.51 x 3.94 x 0.59 inches; 1.41 Ounces', 'Item model number': 'KCS6-010', 'UPC': '613635849250'}\ngreat nail polish\nGreat nail polish",
+  "profile": "**User Summary:**\n\nThis user maintains a strong preference for high-quality nail products, particularly those that feature a variety of finishes and effects. Their recent purchase and enthusiastic review indicate a continued appreciation for gel polishes that offer unique colors and shimmery finishes, reflecting a desire for versatility in nail art. The user consistently shows a willingness to experiment with different aesthetics, suggesting an interest in innovative beauty solutions that enhance the home salon experience.\n\nDespite shopping from retailers with average overall ratings, the user values exceptional product performance, as demonstrated by their high ratings for specific purchases. Their engagement is characterized by a focus on long-lasting and easy-to-use products that contribute positively to their beauty routine. This user favors products that not only deliver good results but also enrich their nail art capabilities, showcasing a passion for new textures and colors. Their ongoing commitment to exploring high-quality options indicates a strong desire for satisfaction and effectiveness in their nail care regimen.",
+  "metrics": {
+    "rouge1_f": 0.14953271028037385,
+    "rouge2_f": 0.025078369905956112,
+    "rougeL_f": 0.09345794392523366,
+    "meteor": 0.0682995760715968,
+    "bleu1": 0.05906360534934553,
+    "bleu2": 0.005194751674460842,
+    "bleu3": 0.002314525570275928,
+    "bleu4": 0.0015471261559707804,
+    "bertscore_precision": 0.3214336037635803,
+    "bertscore_recall": 0.33261582255363464,
+    "bertscore_f1": 0.32692912220954895
+  }
+}

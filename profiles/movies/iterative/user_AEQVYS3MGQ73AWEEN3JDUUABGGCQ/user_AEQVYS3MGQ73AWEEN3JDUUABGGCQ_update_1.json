@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/13\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nora Ephron'], 'Producers': ['Nora Ephron', 'Laurence Mark', 'Amy Robinson', 'Eric Steel'], 'Starring': ['Meryl Streep', 'Amy Adams', 'Stanley Tucci'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: I just love this movie. Two true stories intertwined with delicious food at the center, Meryl Streep and Amy Adams in the lead roles - what's not to like? Great for anyone who loves to cook and has considered writing a blog - it's a fun and inspiring story.\nReview Title: Cooking and Blogging Inspiration\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nora Ephron'], 'Producers': ['Nora Ephron', 'Laurence Mark', 'Amy Robinson', 'Eric Steel'], 'Starring': ['Meryl Streep', 'Amy Adams', 'Stanley Tucci'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nI just love this movie. Two true stories intertwined with delicious food at the center, Meryl Streep and Amy Adams in the lead roles - what's not to like? Great for anyone who loves to cook and has considered writing a blog - it's a fun and inspiring story.\nCooking and Blogging Inspiration",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Cooking, food-related content, storytelling, blogging.\n- **Preferred Genres:** Inspirational narratives, true stories, lighthearted themes.\n- **Content Sensitivity:** Open to mature themes, including violence, alcohol use, and strong language\u2014indicates a more adult-oriented taste.\n- **Emotional Resonance:** Values character-driven plots, particularly those involving strong performances by female leads.\n- **Engagement Style:** Enjoys media that combines entertainment with motivation, specifically for creative pursuits like cooking and blogging.\n- **Rating Tendency:** Generally provides high ratings, reflecting a positive disposition towards enjoyable and inspiring content.\n  \nThis summary identifies a user who appreciates films that blend cooking and narrative inspiration, aiming to engage creatively with food and personal storytelling.",
+  "metrics": {
+    "rouge1_f": 0.3015075376884422,
+    "rouge2_f": 0.07106598984771575,
+    "rougeL_f": 0.17085427135678388,
+    "meteor": 0.16679622803519403,
+    "bleu1": 0.2605619229286443,
+    "bleu2": 0.05636847557223089,
+    "bleu3": 0.01249213595924214,
+    "bleu4": 0.00589003157607278,
+    "bertscore_precision": 0.44756096601486206,
+    "bertscore_recall": 0.4613036513328552,
+    "bertscore_f1": 0.45432838797569275
+  }
+}

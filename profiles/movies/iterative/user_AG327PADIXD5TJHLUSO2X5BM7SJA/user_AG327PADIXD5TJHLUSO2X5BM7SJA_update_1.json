@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/03/23\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English', 'Deutsch [UT]'], 'Directors': ['Michael Lehmann', 'Todd Strauss-Schulson', 'Andy Tennant', 'Alex Winter', 'Lev L. Spiro'], 'Producers': ['Michael Lehmann', 'Alan R. Cohen', 'Alan Freedland', 'Aaron Hilliard', 'Matt Patterson', 'Evan Endicott'], 'Starring': ['Joe Dinicol', 'Karan Soni', 'Jon Daly'], 'Studio': ['Amazon Studios']}\nReview Text: Bring it back!\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium', 'Deutsch'], 'Subtitles': ['English', 'Deutsch [UT]'], 'Directors': ['Michael Lehmann', 'Todd Strauss-Schulson', 'Andy Tennant', 'Alex Winter', 'Lev L. Spiro'], 'Producers': ['Michael Lehmann', 'Alan R. Cohen', 'Alan Freedland', 'Aaron Hilliard', 'Matt Patterson', 'Evan Endicott'], 'Starring': ['Joe Dinicol', 'Karan Soni', 'Jon Daly'], 'Studio': ['Amazon Studios']}\nBring it back!\nGreat",
+  "profile": "User Profile Summary:\n\n- **Average Rating Preference**: Generally inclined to rate products positively, indicated by a 4.3 average rating.\n- **Content Sensitivity**: Shows awareness and sensitivity to content advisory like violence, substance use, and foul language, suggesting a preference for moderate to thoughtfully curated content.\n- **Language Features**: Preference for options in audio and subtitles, particularly English and German, indicating a bilingual or multilingual capability.\n- **Interest in Creators**: Engaged with works by multiple directors and producers, suggesting an appreciation for a variety of storytelling styles and production backgrounds.\n- **Emotional Engagement**: Expresses strong positive sentiments (\"Bring it back!\" and \"Great\") indicating enthusiasm and a desire for continuity or return of content that resonates emotionally.\n- **Viewer Demographics**: Likely appreciates diverse casts as indicated by multi-ethnic representation in previous interactions.\n- **Content Type**: Engaged with content that combines elements of comedy, drama, and possibly lighter themes given the overall positivity and entertainment focus.\n\nOverall, this user favors high-quality, engaging content with thoughtful production values while also demonstrating a broader cultural appreciation and nuanced views on thematic elements.",
+  "metrics": {
+    "rouge1_f": 0.15702479338842976,
+    "rouge2_f": 0.05,
+    "rougeL_f": 0.14049586776859507,
+    "meteor": 0.11290648251545309,
+    "bleu1": 0.11715481171548117,
+    "bleu2": 0.038428392161847215,
+    "bleu3": 0.023184373210354058,
+    "bleu4": 0.015158928994108724,
+    "bertscore_precision": 0.4057360291481018,
+    "bertscore_recall": 0.3581957221031189,
+    "bertscore_f1": 0.3804866075515747
+  }
+}

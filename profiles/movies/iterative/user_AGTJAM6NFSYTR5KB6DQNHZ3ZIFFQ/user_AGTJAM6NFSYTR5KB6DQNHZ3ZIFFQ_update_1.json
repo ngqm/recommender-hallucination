@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Eddie and the Cruisers / Eddie and the Cruisers II: Eddie Lives!\nReview Date: 2018/09/30\nStore: Michael Pare  (Actor),     Tom Berenger  (Actor)    Rated:    PG    Format: DVD\nCategories: Movies & TV, MGM Home Entertainment, All MGM Titles\nProduct Description: ['Side A: Eddie and The Cruisers (1983) WS Side B: Eddie and The Cruisers: Eddie Lives! (1989) WS', 'Note:This DVD is a double sided disc.']\nAverage Rating: 4.8\nProduct Details: {'Aspect Ratio': '1.85:1', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'PG (Parental Guidance Suggested)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '110801', 'Media Format': 'Multiple Formats, Color, Dolby, NTSC, Subtitled, Widescreen', 'Run time': '3 hours and 18 minutes', 'Release date': 'June 10, 2008', 'Actors': 'Michael Pare, Tom Berenger', 'Subtitles': 'Spanish, English', 'Language': 'English (Dolby Surround), Unqualified', 'Studio': 'Mgm (Video & DVD)', 'Number of discs': '1'}\nReview Text: Great movie\nReview Title: Watch it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Eddie and the Cruisers / Eddie and the Cruisers II: Eddie Lives!\nMichael Pare  (Actor),     Tom Berenger  (Actor)    Rated:    PG    Format: DVD\nMovies & TV, MGM Home Entertainment, All MGM Titles\n['Side A: Eddie and The Cruisers (1983) WS Side B: Eddie and The Cruisers: Eddie Lives! (1989) WS', 'Note:This DVD is a double sided disc.']\n{'Aspect Ratio': '1.85:1', 'Is Discontinued By Manufacturer': 'No', 'MPAA rating': 'PG (Parental Guidance Suggested)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '110801', 'Media Format': 'Multiple Formats, Color, Dolby, NTSC, Subtitled, Widescreen', 'Run time': '3 hours and 18 minutes', 'Release date': 'June 10, 2008', 'Actors': 'Michael Pare, Tom Berenger', 'Subtitles': 'Spanish, English', 'Language': 'English (Dolby Surround), Unqualified', 'Studio': 'Mgm (Video & DVD)', 'Number of discs': '1'}\nGreat movie\nWatch it",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user enjoys classic movies, particularly those from the 1980s and 1990s, showing a preference for nostalgia-driven content.  \n- **Genre Interest:** The user likely has a fondness for music-related films, as indicated by their interest in titles involving musical narratives.  \n- **Format Choice:** There is a preference for DVDs, suggesting the user values physical media experiences over streaming.  \n- **Review Style:** The user provides succinct and positive feedback, indicating satisfaction with their purchases; they rated the movie very highly and described it as \"great\" and worth watching.  \n- **Actor Affinity:** The user seems to gravitate towards films featuring specific actors, suggesting a preference for recognizable talent in their movie choices.  \n- **Family-Friendly:** The user is inclined towards content rated 'PG', indicating a preference for family-friendly viewing options.  \n\nOverall, the user exhibits a clear trend towards enjoying classic, music-themed films in DVD format, appreciates recognizable actors, and prefers family-friendly content.",
+  "metrics": {
+    "rouge1_f": 0.22068965517241382,
+    "rouge2_f": 0.01388888888888889,
+    "rougeL_f": 0.10344827586206896,
+    "meteor": 0.11348756001745963,
+    "bleu1": 0.16387968368706207,
+    "bleu2": 0.037685564007215955,
+    "bleu3": 0.00851927639396191,
+    "bleu4": 0.004055410349343098,
+    "bertscore_precision": 0.3934808373451233,
+    "bertscore_recall": 0.39048898220062256,
+    "bertscore_f1": 0.3919791877269745
+  }
+}

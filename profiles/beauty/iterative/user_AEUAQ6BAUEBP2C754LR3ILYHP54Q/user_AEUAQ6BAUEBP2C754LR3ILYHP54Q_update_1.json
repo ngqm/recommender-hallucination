@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JPNK 4PCS Anti-Static Detangling Fine & Wide Tooth Shower Comb Set\nReview Date: 2020/02/09\nStore: JPNK\nAverage Rating: 4.1\nProduct Details: {'Material': 'Plastic', 'Brand': 'JPNK', 'Hair Type': 'Wavy,Straight', 'Unit Count': '1.00 Count', 'Package Dimensions': '12 x 3.1 x 0.7 inches; 5.61 Ounces'}\nReview Text: These combs are very pretty, but they are not practical for hair combing. These combs were very sharp and ruff against my hair. It didn't feel good at all and I won't be using them again.\nReview Title: Not Great\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "JPNK 4PCS Anti-Static Detangling Fine & Wide Tooth Shower Comb Set\nJPNK\n{'Material': 'Plastic', 'Brand': 'JPNK', 'Hair Type': 'Wavy,Straight', 'Unit Count': '1.00 Count', 'Package Dimensions': '12 x 3.1 x 0.7 inches; 5.61 Ounces'}\nThese combs are very pretty, but they are not practical for hair combing. These combs were very sharp and ruff against my hair. It didn't feel good at all and I won't be using them again.\nNot Great",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user shows a preference for hair care accessories but values practicality and comfort highly. They are drawn to aesthetically pleasing products, as indicated by their appreciation of the combs' appearance.\n  \n- **Negative Experience:** The user encountered significant dissatisfaction with the product's functionality, specifically noting discomfort caused by sharp edges. This suggests that they prioritize user-friendly and gentle options for hair care.\n\n- **Hair Type Focus:** The mention of wavy and straight hair suggests the user might engage in diverse hairstyling, indicating a need for versatile grooming tools.\n\n- **Rating Behavior:** The user tends to provide low ratings when products fail to meet their expectations, emphasizing their desire for high-quality, practical solutions in hair care.\n\n- **Overall Trend:** A trend emerges of valuing both design and functionality in hair care products, with an emphasis on comfort and effectiveness over mere aesthetics. \n\nThis initial summary sets the stage for understanding their future interactions, suggesting a focus on seeking high-quality, practical grooming tools that protect hair health and comfort.",
+  "metrics": {
+    "rouge1_f": 0.128,
+    "rouge2_f": 0.024193548387096774,
+    "rougeL_f": 0.08,
+    "meteor": 0.13608428446005266,
+    "bleu1": 0.12217194570135746,
+    "bleu2": 0.023565377695153992,
+    "bleu3": 0.0063294829103432,
+    "bleu4": 0.00328406731374783,
+    "bertscore_precision": 0.4203537702560425,
+    "bertscore_recall": 0.39989203214645386,
+    "bertscore_f1": 0.40986767411231995
+  }
+}

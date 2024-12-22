@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HYTONG Exfoliating Back Scrubber for Shower,With Hair Scalp Massager Shampoo Brush Face Scrubber Body ScrubberSoft and comfortable safe material,Bath Shower Gifts kit for Adult\nReview Date: 2020/12/02\nStore: HYTONG\nAverage Rating: 3.7\nProduct Details: {'Brand': 'HYTONG', 'Product Benefits': 'Exfoliating', 'Skin Type': 'All', 'Package Dimensions': '8.23 x 6.1 x 2.01 inches; 9.59 Ounces', 'UPC': '789615946704', 'Manufacturer': 'HYTONG'}\nReview Text: Great bundle, great price. My head/hair have been thanking me.\nReview Title: Great Bundle~Great Price\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HYTONG Exfoliating Back Scrubber for Shower,With Hair Scalp Massager Shampoo Brush Face Scrubber Body ScrubberSoft and comfortable safe material,Bath Shower Gifts kit for Adult\nHYTONG\n{'Brand': 'HYTONG', 'Product Benefits': 'Exfoliating', 'Skin Type': 'All', 'Package Dimensions': '8.23 x 6.1 x 2.01 inches; 9.59 Ounces', 'UPC': '789615946704', 'Manufacturer': 'HYTONG'}\nGreat bundle, great price. My head/hair have been thanking me.\nGreat Bundle~Great Price\nHYTONG Exfoliating Back Scrubber for Shower,With Hair Scalp Massager Shampoo Brush Face Scrubber Body ScrubberSoft and comfortable safe material,Bath Shower Gifts kit for Adult\nHYTONG\n{'Brand': 'HYTONG', 'Product Benefits': 'Exfoliating', 'Skin Type': 'All', 'Package Dimensions': '8.23 x 6.1 x 2.01 inches; 9.59 Ounces', 'UPC': '789615946704', 'Manufacturer': 'HYTONG'}\nGreat bundle, great price. My head/hair have been thanking me.\nGreat Bundle~Great Price",
+  "profile": "**User Summary:**\n\n- **Overall Satisfaction:** High satisfaction with a consistent appreciation for value for money.\n- **Product Preferences:** Strong preference for bundles or kits that provide multiple functionalities, reinforcing a desire for convenience and a comprehensive self-care approach.\n- **Usage Context:** Prioritizes personal care routines, with a focus on skin and hair, indicating a commitment to wellness and daily self-care practices.\n- **Material Preference:** Favors products made from soft, safe materials, underscoring sensitivity to comfort and quality in personal care items.\n- **Product Benefits:** Values exfoliation and scalp care, reflecting an active interest in maintaining healthy skin and hair.\n- **Skin & Hair Care:** Engages in thorough self-care practices targeting various areas, especially the scalp and back, highlighting a comprehensive skincare routine.\n- **Review Behavior:** Positive and honest review style, demonstrating a willingness to express satisfaction, particularly when products perform beyond expectations.\n\nThe recent interaction showcased the user's continued commitment to finding effective bundles at competitive prices, affirming their appreciation for multifunctional self-care products. This reinforces the user\u2019s tendency to prioritize products that offer both quality results and an overall holistic approach to personal care.",
+  "metrics": {
+    "rouge1_f": 0.17554858934169276,
+    "rouge2_f": 0.012618296529968454,
+    "rougeL_f": 0.1065830721003135,
+    "meteor": 0.12628865979381443,
+    "bleu1": 0.12903225806451615,
+    "bleu2": 0.007227709221663634,
+    "bleu3": 0.0027692069466092447,
+    "bleu4": 0.0017158330868836185,
+    "bertscore_precision": 0.3743412494659424,
+    "bertscore_recall": 0.3774903118610382,
+    "bertscore_f1": 0.3759092092514038
+  }
+}

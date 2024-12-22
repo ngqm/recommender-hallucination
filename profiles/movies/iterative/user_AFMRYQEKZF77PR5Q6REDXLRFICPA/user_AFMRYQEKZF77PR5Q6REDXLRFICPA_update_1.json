@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/03\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Podeswa', 'Timothy Van Patten', 'David Nutter', 'Carl Franklin', 'Tony To', 'Graham Yost'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Gary Goetzman', 'Cherylanne Martin', 'Todd London', 'Steven Shareshian'], 'Starring': ['James Badge Dale', 'Joe Mazzello', 'Jon Seda'], 'Studio': ['HBO']}\nReview Text: This series is excellent.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Podeswa', 'Timothy Van Patten', 'David Nutter', 'Carl Franklin', 'Tony To', 'Graham Yost'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Gary Goetzman', 'Cherylanne Martin', 'Todd London', 'Steven Shareshian'], 'Starring': ['James Badge Dale', 'Joe Mazzello', 'Jon Seda'], 'Studio': ['HBO']}\nThis series is excellent.\nFive Stars",
+  "profile": "The user demonstrates a strong preference for high-quality, well-produced television series featuring engaging storytelling and notable production teams. They express a fondness for works by renowned directors and producers, suggesting a value for cinematic craftsmanship. Their positive rating indicates a keen appreciation for content that not only entertains but also resonates on a deeper level. Additionally, the user prefers English audio and subtitles, reflecting a focus on accessibility and understanding while consuming media. Overall, the user's profile suggests a discerning taste in drama and historical contexts, likely enjoying narratives that showcase depth and character development.",
+  "metrics": {
+    "rouge1_f": 0.0816326530612245,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.027210884353741492,
+    "meteor": 0.03558718861209964,
+    "bleu1": 0.07068922945931087,
+    "bleu2": 0.00794048830456004,
+    "bleu3": 0.0038434159377066608,
+    "bleu4": 0.002680349734169766,
+    "bertscore_precision": 0.36425071954727173,
+    "bertscore_recall": 0.3625415563583374,
+    "bertscore_f1": 0.3633941411972046
+  }
+}

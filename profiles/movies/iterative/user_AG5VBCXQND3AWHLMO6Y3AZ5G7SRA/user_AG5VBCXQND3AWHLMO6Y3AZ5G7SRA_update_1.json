@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Umbrellas of Cherbourg [Korean Import]\nReview Date: 2013/12/11\nStore: Catherine deneuve  (Actor),     Nino Castelnuovo  (Actor),     Jacques Demy  (Director)    &                   0                  more   Format: DVD\nCategories: Movies & TV, Movies\nAverage Rating: 4.6\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.88 Ounces', 'Director': 'Jacques Demy', 'Media Format': 'NTSC', 'Run time': '1 hour and 31 minutes', 'Actors': 'Catherine deneuve, Nino Castelnuovo', 'Subtitles': 'English, Korean', 'Language': 'Unqualified (Dolby Digital 2.0 Surround)'}\nReview Text: Get the British/European disc with the colored stripes on the cover, not the Korean one which is fullscreen and of bootleggy quality. The Special Edition is widescreen and of good quality like 'The Girls of Rochefort' also available on Amazon.\nReview Title: Get Special Edition, not Korean disc.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Umbrellas of Cherbourg [Korean Import]\nCatherine deneuve  (Actor),     Nino Castelnuovo  (Actor),     Jacques Demy  (Director)    &                   0                  more   Format: DVD\nMovies & TV, Movies\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.88 Ounces', 'Director': 'Jacques Demy', 'Media Format': 'NTSC', 'Run time': '1 hour and 31 minutes', 'Actors': 'Catherine deneuve, Nino Castelnuovo', 'Subtitles': 'English, Korean', 'Language': 'Unqualified (Dolby Digital 2.0 Surround)'}\nGet the British/European disc with the colored stripes on the cover, not the Korean one which is fullscreen and of bootleggy quality. The Special Edition is widescreen and of good quality like 'The Girls of Rochefort' also available on Amazon.\nGet Special Edition, not Korean disc.",
+  "profile": "**User Profile Summary:**\n\n- **Media Preference:** Strong inclination towards films, particularly classic and international cinema.\n- **Quality Consciousness:** Prioritizes high-quality versions of media products, as indicated by the preference for special editions and widescreen formats over less reputable imports.\n- **Support for Subtitles:** Shows openness to foreign language films with subtitles, suggesting an appreciation for diverse cinematic experiences.\n- **Attention to Packaging and Presentation:** Specific mention of packaging details highlights a preference for aesthetically pleasing and authentic presentations.\n- **Strong Recommendations:** Willingness to share insights and recommendations based on experience, showcasing a knowledgeable stance in film selections.\n\nOverall, the user demonstrates a sophisticated taste in movies, favoring classic films with a focus on quality and presentation.",
+  "metrics": {
+    "rouge1_f": 0.2017543859649123,
+    "rouge2_f": 0.008849557522123894,
+    "rougeL_f": 0.09649122807017542,
+    "meteor": 0.11230776670857916,
+    "bleu1": 0.15838800410796292,
+    "bleu2": 0.00966983628582805,
+    "bleu3": 0.0038157192917723493,
+    "bleu4": 0.0024007851219740974,
+    "bertscore_precision": 0.3555687665939331,
+    "bertscore_recall": 0.3972635865211487,
+    "bertscore_f1": 0.3752615749835968
+  }
+}

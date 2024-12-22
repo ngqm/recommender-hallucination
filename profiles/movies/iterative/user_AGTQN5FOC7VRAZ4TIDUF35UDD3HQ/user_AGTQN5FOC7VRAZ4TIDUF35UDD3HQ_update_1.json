@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/04/07\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Roman Polanski'], 'Producers': ['Sa\u00efd Ben Sa\u00efd', 'Oliver Berben', 'Fr\u00e9d\u00e9ric Blum', 'Marisa Fern\u00e1ndez Armenteros', 'Eva Garrido', 'Martin Moszkowicz', 'Javier M\u00e9ndez', 'Piotr Reisch', 'Jaume Roures'], 'Starring': ['Jodie Foster', 'Kate Winslet', 'Christoph Waltz'], 'Studio': ['Sony Pictures Television']}\nReview Text: Disliked the d r a w n n n n n e  d  out  garbage!!\nReview Title: Not worth watching!!\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Roman Polanski'], 'Producers': ['Sa\u00efd Ben Sa\u00efd', 'Oliver Berben', 'Fr\u00e9d\u00e9ric Blum', 'Marisa Fern\u00e1ndez Armenteros', 'Eva Garrido', 'Martin Moszkowicz', 'Javier M\u00e9ndez', 'Piotr Reisch', 'Jaume Roures'], 'Starring': ['Jodie Foster', 'Kate Winslet', 'Christoph Waltz'], 'Studio': ['Sony Pictures Television']}\nDisliked the d r a w n n n n n e  d  out  garbage!!\nNot worth watching!!",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Shows a critical approach to viewing experiences; expressed significant dissatisfaction in recent interactions with a very low rating.\n  \n- **Content Preferences:** Likely prefers content that avoids excessive length and is critical of any perceived slow pacing or drawn-out narratives. \n\n- **Content Advisory Sensitivity:** Has a notable sensitivity regarding content warnings, particularly around foul language, sexual content, and alcohol use, suggesting a preference for cleaner, more straightforward material.\n\n- **Genre and Themes:** Unclear preferences for specific genres due to limited data. However, the focus on high-profile directors and lead actors may indicate a tendency towards familiar or award-winning content.\n\n- **Engagement with Film Quality:** Actively engages in critiquing film quality, emphasizing character performance and narrative flow over mere star power or production value.\n\n- **Overall Interaction Style:** Direct and unapologetic in feedback, with strong opinions that favor succinct storytelling and clear character development. \n\nThis summary highlights a user who is discerning in their viewing choices, with a clear emphasis on narrative efficiency and content appropriateness.",
+  "metrics": {
+    "rouge1_f": 0.10970464135021098,
+    "rouge2_f": 0.0425531914893617,
+    "rougeL_f": 0.07594936708860758,
+    "meteor": 0.07947976878612716,
+    "bleu1": 0.0896860986547085,
+    "bleu2": 0.006356032059245529,
+    "bleu3": 0.002634268031651942,
+    "bleu4": 0.0016978108353988314,
+    "bertscore_precision": 0.3853391408920288,
+    "bertscore_recall": 0.3525088429450989,
+    "bertscore_f1": 0.3681935966014862
+  }
+}

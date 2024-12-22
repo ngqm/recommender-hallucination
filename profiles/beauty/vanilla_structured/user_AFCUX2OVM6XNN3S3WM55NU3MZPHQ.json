@@ -1,0 +1,96 @@
+{
+  "user_id": "AFCUX2OVM6XNN3S3WM55NU3MZPHQ",
+  "summary": "=== Purchase Information ===\nProduct Title: LUMINESS Silk Airbrush Spray Foundation - Full Coverage Foundation - Formula Hydrates & Moisturizes with Hyaluronic Acid, Aloe Vera & Hydrolyzed Silk (Shade - Tan)\nReview Date: 2022/11/19\nStore: LUMINESS\nAverage Rating: 3.5\nProduct Details: {'Color': 'Tan - 100', 'Finish Type': 'Satin', 'Package Information': 'Bottle', 'Brand': 'LUMINESS', 'Coverage': 'Full', 'UPC': '841249121725'}\nReview Text: This is my first time using airbrush foundation & I'm shocked. It's flawless. I sprayed it on my hand for reference in the picture. You need this product!!! You shake spray & use your brush to blend.\nReview Title: Flawless foundation\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: SalonSilk Round Brush Set\nReview Date: 2022/12/06\nStore: SALON SILK\nAverage Rating: 4.4\nProduct Details: {'Brand': 'SALON SILK', 'Shape': 'Round', 'Unit Count': '1 Count', 'Material': 'Boar, Nylon, Ceramic', 'Package Dimensions': '10.67 x 5.12 x 4.8 inches; 1.19 Pounds'}\nReview Text: These brushes are a very good quality, not to mention the set comes with 4 sizes. Great buy for the price. Great for blowing out your hair.\nReview Title: Variety of sizes\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Ice roller\nReview Date: 2023/02/09\nStore: Lexi White Beauty\nAverage Rating: 4.0\nProduct Details: {'Item Form': 'Stick', 'Brand': 'Lexi White Beauty', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '5.08 x 3.07 x 2.09 inches; 4.52 Ounces'}\nReview Text: I love the size of this product, It's soft & easy to use. I can usually get a couple days use out of the ice block size which is nice.\nReview Title: Must have item\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: YUNRUO Facial Device for Neck Eye Body Skin Care\nReview Date: 2023/03/12\nStore: YUNRUO\nProduct Description: ['Wonderful Gift: will be the perfect facial skin care tools for women, Best face roller skin care gift for your mom, grandma, wife, daughter, sister.']\nAverage Rating: 4.5\nProduct Details: {'Material': 'Metal', 'Brand': 'YUNRUO', 'Color': 'Silver', 'Is Cordless?': 'Yes', 'Product Grade': 'Home', 'Package Dimensions': '6.54 x 2.6 x 1.42 inches; 4.13 Ounces', 'Item model number': 'YUNRUO231', 'Manufacturer': 'YUNRUO'}\nReview Text: I love how relaxing this is for your face. Easy to use around the jaw line & eye area. The quality is great for the price.\nReview Title: My favorite facial tool\nRating: 5.0\n--------------------------------------------------",
+  "reference": "LUMINESS Silk Airbrush Spray Foundation - Full Coverage Foundation - Formula Hydrates & Moisturizes with Hyaluronic Acid, Aloe Vera & Hydrolyzed Silk (Shade - Tan)\nLUMINESS\n{'Color': 'Tan - 100', 'Finish Type': 'Satin', 'Package Information': 'Bottle', 'Brand': 'LUMINESS', 'Coverage': 'Full', 'UPC': '841249121725'}\nThis is my first time using airbrush foundation & I'm shocked. It's flawless. I sprayed it on my hand for reference in the picture. You need this product!!! You shake spray & use your brush to blend.\nFlawless foundation\nSalonSilk Round Brush Set\nSALON SILK\n{'Brand': 'SALON SILK', 'Shape': 'Round', 'Unit Count': '1 Count', 'Material': 'Boar, Nylon, Ceramic', 'Package Dimensions': '10.67 x 5.12 x 4.8 inches; 1.19 Pounds'}\nThese brushes are a very good quality, not to mention the set comes with 4 sizes. Great buy for the price. Great for blowing out your hair.\nVariety of sizes\nIce roller\nLexi White Beauty\n{'Item Form': 'Stick', 'Brand': 'Lexi White Beauty', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '5.08 x 3.07 x 2.09 inches; 4.52 Ounces'}\nI love the size of this product, It's soft & easy to use. I can usually get a couple days use out of the ice block size which is nice.\nMust have item\nYUNRUO Facial Device for Neck Eye Body Skin Care\nYUNRUO\n['Wonderful Gift: will be the perfect facial skin care tools for women, Best face roller skin care gift for your mom, grandma, wife, daughter, sister.']\n{'Material': 'Metal', 'Brand': 'YUNRUO', 'Color': 'Silver', 'Is Cordless?': 'Yes', 'Product Grade': 'Home', 'Package Dimensions': '6.54 x 2.6 x 1.42 inches; 4.13 Ounces', 'Item model number': 'YUNRUO231', 'Manufacturer': 'YUNRUO'}\nI love how relaxing this is for your face. Easy to use around the jaw line & eye area. The quality is great for the price.\nMy favorite facial tool",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: LUMINESS Silk Airbrush Spray Foundation - Full Coverage Foundation - Formula Hydrates & Moisturizes with Hyaluronic Acid, Aloe Vera & Hydrolyzed Silk (Shade - Tan)\nReview Date: 2022/11/19\nStore: LUMINESS\nAverage Rating: 3.5\nProduct Details: {'Color': 'Tan - 100', 'Finish Type': 'Satin', 'Package Information': 'Bottle', 'Brand': 'LUMINESS', 'Coverage': 'Full', 'UPC': '841249121725'}\nReview Text: This is my first time using airbrush foundation & I'm shocked. It's flawless. I sprayed it on my hand for reference in the picture. You need this product!!! You shake spray & use your brush to blend.\nReview Title: Flawless foundation\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: SalonSilk Round Brush Set\nReview Date: 2022/12/06\nStore: SALON SILK\nAverage Rating: 4.4\nProduct Details: {'Brand': 'SALON SILK', 'Shape': 'Round', 'Unit Count': '1 Count', 'Material': 'Boar, Nylon, Ceramic', 'Package Dimensions': '10.67 x 5.12 x 4.8 inches; 1.19 Pounds'}\nReview Text: These brushes are a very good quality, not to mention the set comes with 4 sizes. Great buy for the price. Great for blowing out your hair.\nReview Title: Variety of sizes\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Ice roller\nReview Date: 2023/02/09\nStore: Lexi White Beauty\nAverage Rating: 4.0\nProduct Details: {'Item Form': 'Stick', 'Brand': 'Lexi White Beauty', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '5.08 x 3.07 x 2.09 inches; 4.52 Ounces'}\nReview Text: I love the size of this product, It's soft & easy to use. I can usually get a couple days use out of the ice block size which is nice.\nReview Title: Must have item\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: YUNRUO Facial Device for Neck Eye Body Skin Care\nReview Date: 2023/03/12\nStore: YUNRUO\nProduct Description: ['Wonderful Gift: will be the perfect facial skin care tools for women, Best face roller skin care gift for your mom, grandma, wife, daughter, sister.']\nAverage Rating: 4.5\nProduct Details: {'Material': 'Metal', 'Brand': 'YUNRUO', 'Color': 'Silver', 'Is Cordless?': 'Yes', 'Product Grade': 'Home', 'Package Dimensions': '6.54 x 2.6 x 1.42 inches; 4.13 Ounces', 'Item model number': 'YUNRUO231', 'Manufacturer': 'YUNRUO'}\nReview Text: I love how relaxing this is for your face. Easy to use around the jaw line & eye area. The quality is great for the price.\nReview Title: My favorite facial tool\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for beauty and skincare products that offer convenience and multifunctionality. The individual consistently rates products positively, indicating a preference for items that are user-friendly and effective, as seen in the high ratings for airbrush foundations and facial devices. There's a clear focus on quality, as evidenced by enthusiastic reviews that emphasize product effectiveness and reliability.\n\nA notable theme is the emphasis on skincare and beauty enhancement tools, suggesting an interest in achieving a polished appearance with minimal effort. This person appreciates products that integrate advanced features, such as hydration and multi-use capabilities. Price sensitivity appears moderate; while they seek quality, they also express satisfaction with good value, indicating a willingness to invest in reliable and effective products.\n\nOverall, their core preferences include high-quality, versatile beauty tools that provide simplicity and effectiveness, along with a balance of affordability and functionality in their skincare and beauty routines.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Best set option",
+    "text": "I love this set comes with 2 bands, the wrist bands & also a unique clips. The clip stretches in & out, perfect for a ponytail or bun, the wrist bands are soft & easy to wash. The bands are also stretchy, soft & my favorite headband to use daily. They are trendy, but I love how this comes with a variety of bands & clip. I love having extra of these bands to keep everywhere. The price for this set is great definitely not something you can get in a department store. I will repurchase this.",
+    "images": [
+      {
+        "small_image_url": "https://m.media-amazon.com/images/I/81aFHiJwbnL._SL256_.jpg",
+        "medium_image_url": "https://m.media-amazon.com/images/I/81aFHiJwbnL._SL800_.jpg",
+        "large_image_url": "https://m.media-amazon.com/images/I/81aFHiJwbnL._SL1600_.jpg",
+        "attachment_type": "IMAGE"
+      }
+    ],
+    "asin": "B0BX9X5X3B",
+    "parent_asin": "B0BX9X5X3B",
+    "user_id": "AFCUX2OVM6XNN3S3WM55NU3MZPHQ",
+    "timestamp": "2023-04-09 02:57:03.493000",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "All Beauty",
+    "title_meta": "YuanTu Store Set of 2 Headbands, Easy to Wear Makeup Headbands, Fluffy Spa Headbands that Don't Fall Off, Women Headbands for Face Washing, Yoga, Running, Makeup (Pink and Blue)",
+    "average_rating": 4.0,
+    "rating_number": 27,
+    "features": [
+      "\ud83d\udd25\u3010UNIQUE CREATIVE DESIGN\u3011: This makeup headband is lined with sponge and covered with terry cloth, this skin care headband is highly absorbent, and the bottom of the headband is made of shape memory elastic plastic, which can even be pressed back to its original shape by 180 degrees.",
+      "\ud83d\udd25\u3010Fashion & Classic Style\u3011: The velvet headbands are suitable for holding your hair back during makeup, making the hair look fluffy and delicately framing your face, the makeup headbands are very cute and easy to put on and take off.",
+      "\ud83d\udd25\u3010Widely Applicable\u3011: The fluffy headband can also be used to wick away sweat during yoga or hold hair while applying makeup. Headbands for women easily hold hair while removing makeup, washing face, applying mask and spa. It doesn't slip and is comfortable.",
+      "\ud83d\udd25\u3010Perfect Gift\u3011: Our cute hair ties set not only includes two beautiful hair ties, but also two hair accessories as a gift. The velvet headband is a sweet gift for family, friends and anyone you love on Christmas, Valentine's Day, Teacher's Day, Mother's Day, New Year's Day, Birthday, etc.",
+      "\ud83d\udd25\u3010Quality Service\u3011\uff1aSpa headband for washing face Properly packaged in a storage bag. If you have any problems or questions, please feel free to contact us. We have always been committed to creating the best quality service for our customers."
+    ],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41HB9r+nysL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41HB9r+nysL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71Kyzg2D+ZL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41B-Y2DPmaL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41B-Y2DPmaL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71S5vW5yZyL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41LirUUd1gL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41LirUUd1gL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/61pESrKbB-L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/416Zyr7R2hL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/416Zyr7R2hL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/61Jt+uRzcJL._SL1200_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41w2D1v11lL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41w2D1v11lL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/61JrTKudVvL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41Eh5CWexrL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41Eh5CWexrL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/71FzGEKVMmL._SL1500_.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hair bands are great for fixing hair and helping with facial cleansing",
+        "url": "https://www.amazon.com/vdp/0685048fcdfe452bbdc27160a033d072?ref=dp_vse_rvc_0",
+        "user_id": ""
+      }
+    ],
+    "store": "YuanTu Store",
+    "categories": [],
+    "details": {
+      "Color": "Pink and blue",
+      "Age Range (Description)": "Adult",
+      "Occasion": "Quinceanera, Festival, Sweet Sixteen, Communion, Birthday",
+      "Material": "JYJQ-21896",
+      "Fabric Type": "French terry, elastic absorbent sponge",
+      "Product Dimensions": "7.1 x 6.7 x 0.2 inches; 9.52 Ounces",
+      "Manufacturer": "YuanTu Store"
+    },
+    "bought_together": null
+  }
+}

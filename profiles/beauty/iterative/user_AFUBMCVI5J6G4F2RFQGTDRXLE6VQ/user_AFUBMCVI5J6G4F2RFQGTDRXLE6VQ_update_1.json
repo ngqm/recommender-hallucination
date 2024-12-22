@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Clip in Hair Extensions - Platinum Blonde - Straight - 18in / 46cm - Full Head - 8 Pcs 120g - Japanese Heat Resistant Synthetic Hairpiece - Looks and Feels like Real Hair\nReview Date: 2015/01/26\nStore: Elegant Hair\nAverage Rating: 5.0\nProduct Details: {'Brand': 'Elegant Hair', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '18 x 38.98 x 0.39 inches; 4.23 Ounces', 'Item model number': 'SCIHLST20920', 'UPC': '799632432838'}\nReview Text: fantastic value for fake hair.  perfect color. True pale blonde platinum with white like highlights. Great if you bleach your hair!<br />Very soft. doesnt tangle. blends into your own hair very well. Easy to put on and off. Keep the bag and put them in it when not in use.<br />Make sure you straighten your own hair first before you put these in because these are SUPER straight!\nReview Title: fantastic value for fake hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Clip in Hair Extensions - Platinum Blonde - Straight - 18in / 46cm - Full Head - 8 Pcs 120g - Japanese Heat Resistant Synthetic Hairpiece - Looks and Feels like Real Hair\nElegant Hair\n{'Brand': 'Elegant Hair', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '18 x 38.98 x 0.39 inches; 4.23 Ounces', 'Item model number': 'SCIHLST20920', 'UPC': '799632432838'}\nfantastic value for fake hair.  perfect color. True pale blonde platinum with white like highlights. Great if you bleach your hair!<br />Very soft. doesnt tangle. blends into your own hair very well. Easy to put on and off. Keep the bag and put them in it when not in use.<br />Make sure you straighten your own hair first before you put these in because these are SUPER straight!\nfantastic value for fake hair",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Preferences**: Strong interest in hair extensions, particularly synthetic options that mimic the appearance and feel of real hair. Prefers straight styles and seeks products that provide a natural look.\n\n- **Color and Aesthetic**: Specific preference for platinum blonde shades, especially with highlights. Values color accuracy and aesthetic appeal that complements bleached hair.\n\n- **Product Characteristics**: Looks for high-quality, functional products\u2014interested in items that are easy to apply and maintain, with a focus on softness, non-tangling features, and good blending capabilities with natural hair.\n\n- **Value for Money**: Prioritizes products that offer good value; satisfied with purchases that provide a high-quality experience at a reasonable price.\n\n- **Care Instructions**: Values clear usage and care guidelines, such as keeping products in storage bags when not in use and preparing hair before application.\n\nOverall, this user exhibits a clear preference for effective, aesthetically pleasing hair extensions that are easy to use and maintain, coupled with an emphasis on quality and realistic appearance.",
+  "metrics": {
+    "rouge1_f": 0.3202614379084967,
+    "rouge2_f": 0.07236842105263158,
+    "rougeL_f": 0.20261437908496732,
+    "meteor": 0.20765839126117186,
+    "bleu1": 0.26635514018691586,
+    "bleu2": 0.07072463830663298,
+    "bleu3": 0.028681500608435995,
+    "bleu4": 0.010283259335443586,
+    "bertscore_precision": 0.4342067837715149,
+    "bertscore_recall": 0.4559897184371948,
+    "bertscore_f1": 0.4448317289352417
+  }
+}

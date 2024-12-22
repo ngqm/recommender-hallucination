@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Far from the Madding Crowd VHS\nReview Date: 2004/12/17\nStore: Format: VHS Tape\nCategories: Movies & TV, Art House & International, By Country, United Kingdom, Drama\nProduct Description: ['2 VHS tapes, widescreen edition (as described in product information). box and tapes in pristine condition. We ship daily from Wisconsin.']\nAverage Rating: 4.4\nProduct Details: {'Language': 'English', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Release date': 'January 8, 2002', 'Date First Available': 'June 27, 2006', 'Actors': 'Christie, Stamp, Finch, Bates, Wal', 'Studio': 'MGM / UA Home Video'}\nReview Text: This is an exceptional film.  Julie Cristie is perfection!!<br /><br />Why is this film not on DVD?\nReview Title: Far From The Madding Crowd\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Far from the Madding Crowd VHS\nFormat: VHS Tape\nMovies & TV, Art House & International, By Country, United Kingdom, Drama\n['2 VHS tapes, widescreen edition (as described in product information). box and tapes in pristine condition. We ship daily from Wisconsin.']\n{'Language': 'English', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Release date': 'January 8, 2002', 'Date First Available': 'June 27, 2006', 'Actors': 'Christie, Stamp, Finch, Bates, Wal', 'Studio': 'MGM / UA Home Video'}\nThis is an exceptional film.  Julie Cristie is perfection!!<br /><br />Why is this film not on DVD?\nFar From The Madding Crowd",
+  "profile": "**User Profile Summary:**\n\n- **Media Preference:** Strong preference for classic and art-house films, particularly those from the United Kingdom.\n- **Format Preference:** Indicates an inclination towards physical media, specifically VHS tapes, suggesting a nostalgic or collector's mindset.\n- **Quality Focus:** Values pristine condition of products and high-quality presentation, as evidenced by concern for the condition of the tapes and box.\n- **Review Behavior:** Engages actively with products through detailed reviews, demonstrating enthusiasm and specific admiration for actors and performances.\n- **Rating Trend:** Exhibits a high rating tendency, likely appreciating films that are exceptional in quality and performance, as shown by a perfect score for a highly regarded film.\n- **Inquiry Interest:** Shows curiosity about availability and formats, indicating a proactive engagement in seeking preferred media despite technological changes. \n\nOverall, this user appears to be a dedicated film aficionado who values quality content and tangible media formats, with a particular fondness for classic dramas.",
+  "metrics": {
+    "rouge1_f": 0.23107569721115537,
+    "rouge2_f": 0.04016064257028113,
+    "rougeL_f": 0.11155378486055778,
+    "meteor": 0.16200338574716117,
+    "bleu1": 0.19902912621359223,
+    "bleu2": 0.07632327769721765,
+    "bleu3": 0.030565250029492824,
+    "bleu4": 0.010890478327273929,
+    "bertscore_precision": 0.4214590787887573,
+    "bertscore_recall": 0.41474148631095886,
+    "bertscore_f1": 0.41807329654693604
+  }
+}

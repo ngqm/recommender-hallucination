@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: PURE ORIGINAL INGREDIENTS Vegetable Glycerin (16 fl oz) Food Grade, Vegan, Hypoallergenic, Odorless, Colorless\nReview Date: 2020/08/25\nStore: PURE ORIGINAL INGREDIENTS\nAverage Rating: 4.6\nProduct Details: {'Brand': 'PURE ORIGINAL INGREDIENTS', 'Scent': 'Odorless', 'Item Form': 'Liquid', 'Unit Count': '16 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.58 x 3.27 x 2.52 inches; 1.39 Pounds', 'UPC': '016463997818 742309349052', 'Manufacturer': 'Pure Organic Ingredients'}\nReview Text: Purchased to use for storyboard snow globe tumblers. Worked amazingly! Allowed the flow of glitter to move flawlessly. Most definitely will be purchasing again.\nReview Title: Perfect for snow globe tumblers\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "PURE ORIGINAL INGREDIENTS Vegetable Glycerin (16 fl oz) Food Grade, Vegan, Hypoallergenic, Odorless, Colorless\nPURE ORIGINAL INGREDIENTS\n{'Brand': 'PURE ORIGINAL INGREDIENTS', 'Scent': 'Odorless', 'Item Form': 'Liquid', 'Unit Count': '16 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.58 x 3.27 x 2.52 inches; 1.39 Pounds', 'UPC': '016463997818 742309349052', 'Manufacturer': 'Pure Organic Ingredients'}\nPurchased to use for storyboard snow globe tumblers. Worked amazingly! Allowed the flow of glitter to move flawlessly. Most definitely will be purchasing again.\nPerfect for snow globe tumblers",
+  "profile": "**User Summary:**\n\nThis user demonstrates a strong preference for high-quality, versatile ingredients suitable for creative projects. They prioritize vegan and hypoallergenic products, indicating a conscientious approach to their purchases. The interaction suggests a specific interest in crafting, particularly in making decorative items like snow globe tumblers. The user values functionality and performance, as evidenced by their satisfaction with the product's ability to enhance the aesthetic flow of glitter. They are likely to repeat purchases of successful items, showcasing a trend towards loyalty to brands that meet their crafting needs. The user appreciates clear, odorless products that can seamlessly integrate into their creative work, hinting at a preference for minimalistic characteristics in their chosen materials. Overall, their interactions reflect a blend of practicality in crafting and ethical considerations in product choices.",
+  "metrics": {
+    "rouge1_f": 0.2072072072072072,
+    "rouge2_f": 0.03636363636363636,
+    "rougeL_f": 0.12612612612612611,
+    "meteor": 0.15887182070007563,
+    "bleu1": 0.15894039735099336,
+    "bleu2": 0.0727874525246839,
+    "bleu3": 0.047425946676894204,
+    "bleu4": 0.02913711698505695,
+    "bertscore_precision": 0.3959149718284607,
+    "bertscore_recall": 0.4042283892631531,
+    "bertscore_f1": 0.4000284671783447
+  }
+}

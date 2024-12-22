@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/09/22\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Griffin Dunne'], 'Producers': ['Denise Di Novi'], 'Starring': ['Sandra Bullock', 'Nicole Kidman', 'Dianne Wiest']}\nReview Text: Imaginative, a pleasure to watch. Funny, poignant, as well as truly suspenseful & downright scary at points. You'll get wrapped up, intrigued, surprised, spooked, and definitely entertained. In addition (there's more???) it makes you think, because it touches real life often, as all well-done movies do.<br /><br />Pop some popcorn & &#34;sit for a spell!&#34;\nReview Title: Enchanting!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Griffin Dunne'], 'Producers': ['Denise Di Novi'], 'Starring': ['Sandra Bullock', 'Nicole Kidman', 'Dianne Wiest']}\nImaginative, a pleasure to watch. Funny, poignant, as well as truly suspenseful & downright scary at points. You'll get wrapped up, intrigued, surprised, spooked, and definitely entertained. In addition (there's more???) it makes you think, because it touches real life often, as all well-done movies do.<br /><br />Pop some popcorn & &#34;sit for a spell!&#34;\nEnchanting!",
+  "profile": "**User Profile Summary:**\n\n- **General Preferences:** Enjoys imaginative and engaging narratives that blend humor, suspense, and thought-provoking themes.\n- **Content Appreciation:** Prefers films that evoke a range of emotions, including surprise, intrigue, and mild fear, indicating a taste for complexity in storytelling.\n- **Quality Indicators:** Highly values well-crafted movies that reflect real-life scenarios, suggesting an appreciation for depth and relatability in film.\n- **Viewing Experience:** Enjoys a cozy, immersive movie-watching experience, often enhanced by snacks, like popcorn, which indicates a preference for a relaxed ambiance during entertainment.\n- **Themes of Interest:** Open to content with darker themes, given acceptance of violence, substance use, and mature language, showing a willingness to engage with more intense and adult-oriented storylines.\n- **Ratings & Reviews:** Tends to provide high ratings for content, emphasizing the joy and entertainment found in the viewing experience.\n\nOverall, this user exhibits a sophisticated taste in films that value both entertainment and depth, favoring works that challenge and engage viewers while providing an enjoyable experience.",
+  "metrics": {
+    "rouge1_f": 0.196078431372549,
+    "rouge2_f": 0.03162055335968379,
+    "rougeL_f": 0.08627450980392157,
+    "meteor": 0.14026402640264027,
+    "bleu1": 0.17777777777777776,
+    "bleu2": 0.03984095364447979,
+    "bleu3": 0.008928630744380191,
+    "bleu4": 0.0042315590263566835,
+    "bertscore_precision": 0.4242163896560669,
+    "bertscore_recall": 0.43693268299102783,
+    "bertscore_f1": 0.4304806590080261
+  }
+}

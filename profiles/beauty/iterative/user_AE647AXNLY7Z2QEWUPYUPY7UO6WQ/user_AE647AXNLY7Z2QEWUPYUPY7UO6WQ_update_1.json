@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nReview Date: 2020/09/14\nStore: EMMOR\nAverage Rating: 4.0\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nReview Text: It looks more like really hair than most I have seen. I am thrilled!\nReview Title: Great Deal!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nEMMOR\n{'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nIt looks more like really hair than most I have seen. I am thrilled!\nGreat Deal!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Shows a strong interest in high-quality hair products that mimic natural appearance. \n- **Material Preference:** Prefers synthetic hair that resembles human hair, indicating a desire for realism in look and feel.\n- **Style Orientation:** Leans towards modern styles, suggesting an appreciation for contemporary aesthetics.\n- **Functionality:** Values versatility for various occasions, including everyday use and special events (cosplay, parties).\n- **Quality Expectation:** Maintains a high standard for product efficacy, as indicated by a positive review mentioning satisfaction with the product\u2019s appearance.\n- **Positive Engagement:** Expresses enthusiasm and satisfaction with purchases, indicating a likelihood to engage positively with brands that meet or exceed expectations. \n- **Rating Behavior:** Tends to use a broad rating scale (from 4.0 to 5.0), which might suggest a critical but fair review approach. \n\nOverall, this user appears to prioritize quality and realism in hair-related products while seeking functionality for diverse scenarios.",
+  "metrics": {
+    "rouge1_f": 0.16143497757847536,
+    "rouge2_f": 0.009049773755656108,
+    "rougeL_f": 0.08968609865470852,
+    "meteor": 0.13617021276595742,
+    "bleu1": 0.09433962264150944,
+    "bleu2": 0.006686607632502981,
+    "bleu3": 0.0027716015459374717,
+    "bleu4": 0.0017865349825782447,
+    "bertscore_precision": 0.42021894454956055,
+    "bertscore_recall": 0.3893224596977234,
+    "bertscore_f1": 0.4041810929775238
+  }
+}

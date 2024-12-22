@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: lootaan 500 Pieces False Nails French Acrylic Fake Nails Tips Half Cover Artificial Fake Nails With Box and False Nail Clipper for Women Girl\nReview Date: 2020/11/24\nStore: lootaan\nAverage Rating: 4.4\nProduct Details: {'Material': 'Acrylic', 'Brand': 'lootaan', 'Number of Pieces': '500', 'Package Dimensions': '9 x 6 x 2 inches; 8.01 Ounces', 'UPC': '710157699223'}\nReview Text: The nails are ok quality. They are thin and flexible. However, if your nails are on the small side, these may be challenging to use. I had to file the smallest size down to use on my pinky nails.  They were decently easy to work with, but I was a little frustrated that the listing was not as described. I filed them with an e file. I began dipping my nails at home due to COVID. I am not a professional, but I am decent at working with nails. I will still use these, but I would not purchase again-especially because I can only use half of them.\nReview Title: A little large and I did not receive clippers\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "lootaan 500 Pieces False Nails French Acrylic Fake Nails Tips Half Cover Artificial Fake Nails With Box and False Nail Clipper for Women Girl\nlootaan\n{'Material': 'Acrylic', 'Brand': 'lootaan', 'Number of Pieces': '500', 'Package Dimensions': '9 x 6 x 2 inches; 8.01 Ounces', 'UPC': '710157699223'}\nThe nails are ok quality. They are thin and flexible. However, if your nails are on the small side, these may be challenging to use. I had to file the smallest size down to use on my pinky nails.  They were decently easy to work with, but I was a little frustrated that the listing was not as described. I filed them with an e file. I began dipping my nails at home due to COVID. I am not a professional, but I am decent at working with nails. I will still use these, but I would not purchase again-especially because I can only use half of them.\nA little large and I did not receive clippers",
+  "profile": "**User Profile Summary:**\n\n- **Nail Care Enthusiast**: Shows a keen interest in nail aesthetics, particularly in acrylic nails and at-home nail care.\n  \n- **Skill Level**: Indicates a moderate level of skill in nail application and maintenance. Familiarity with tools such as e-files suggests a willingness to engage in DIY nail enhancements.\n\n- **Preference for Practicality**: Values the usability of products, expressing frustration when items do not meet expectations, particularly in terms of size and functionality.\n\n- **Quality Sensitivity**: Has a discerning eye for quality; while the user finds the product acceptable, there is a clear disappointment in thinness and flexibility, suggesting a preference for sturdier and more reliable materials.\n\n- **Shopping Behavior**: Reluctant to repurchase items that do not meet personal standards, indicating strong decision-making based on past experiences.\n\n- **Adaptability**: Willing to modify products (e.g., filing down nails) to suit personal needs, demonstrating a resourceful approach to product use.\n\nOverall, this user exhibits a balance of interest in nail aesthetics and practical application, with a focus on product quality and efficiency.",
+  "metrics": {
+    "rouge1_f": 0.2874251497005988,
+    "rouge2_f": 0.024096385542168676,
+    "rougeL_f": 0.1437125748502994,
+    "meteor": 0.17335314512134722,
+    "bleu1": 0.23684210526315785,
+    "bleu2": 0.03230104165360901,
+    "bleu3": 0.007728731242698392,
+    "bleu4": 0.00378473541980174,
+    "bertscore_precision": 0.4352854788303375,
+    "bertscore_recall": 0.43594205379486084,
+    "bertscore_f1": 0.4356135129928589
+  }
+}

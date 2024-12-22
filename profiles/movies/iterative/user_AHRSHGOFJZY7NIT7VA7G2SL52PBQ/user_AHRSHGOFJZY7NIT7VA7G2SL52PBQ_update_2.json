@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/07/03\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Yasuhiro Yoshiura'], 'Producers': ['Takanori Aki', 'Kei Hiroki', 'Tsutomu Nagae', 'Yoshifumi Nakano', 'Michiru Ohshima', 'Mikio Ono', 'Samuel Peralta', 'Masao Teshima'], 'Starring': ['Michael Sinterniklaas', 'Cassandra Lee Morris', 'Bill Lader'], 'Studio': ['GKIDS']}\nReview Text: I loved it! Creative story!\nReview Title: Great story!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Book of Eli\nSuspense, Drama, Bleak, Gritty\n['A lone warrior (Denzel Washington) wanders the post-apocalyptic desert that was once America, battling lawlessness to realize his hope of a better future.']\n{'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Allen Hughes', 'Albert Hughes'], 'Producers': ['Joel Silver', 'Denzel Washington', 'Broderick Johnson', 'David Valdes', 'Andrew A. Kosove'], 'Starring': ['Denzel Washington', 'Gary Oldman', 'Mila Kunis']}\nA bit violent for some, no doubt, but great acting and good story\nbut great acting and good\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Yasuhiro Yoshiura'], 'Producers': ['Takanori Aki', 'Kei Hiroki', 'Tsutomu Nagae', 'Yoshifumi Nakano', 'Michiru Ohshima', 'Mikio Ono', 'Samuel Peralta', 'Masao Teshima'], 'Starring': ['Michael Sinterniklaas', 'Cassandra Lee Morris', 'Bill Lader'], 'Studio': ['GKIDS']}\nI loved it! Creative story!\nGreat story!",
+  "profile": "**User Profile Summary:**\n\nThis user demonstrates a strong preference for suspenseful and dramatic content, particularly in gritty or post-apocalyptic settings. They appreciate high-quality acting and narratives with depth, indicating a taste for well-developed characters and intricate storylines. Their recent interaction reveals an enthusiasm for creative storytelling, which aligns well with their established enjoyment of thought-provoking cinema that challenges the viewer. They have shown a willingness to engage with intense themes, reflecting a tolerance for violence in films, particularly when accompanied by compelling performances. The user's review style consistently reflects a positive outlook, as evidenced by their rating of 5.0 for a recent purchase, which highlights their enjoyment of innovative narratives. This pattern of balanced critique suggests they value both content quality and personal engagement. Overall, this individual is drawn to emotionally resonant films that feature intricate plots and significant character development, demonstrating an appreciation for diverse storytelling within their preferred genres.",
+  "metrics": {
+    "rouge1_f": 0.14685314685314682,
+    "rouge2_f": 0.014084507042253521,
+    "rougeL_f": 0.08391608391608392,
+    "meteor": 0.06012024048096192,
+    "bleu1": 0.08133922891392832,
+    "bleu2": 0.0170096336955425,
+    "bleu3": 0.004695379613577594,
+    "bleu4": 0.0024705598638527786,
+    "bertscore_precision": 0.3224656879901886,
+    "bertscore_recall": 0.3758940100669861,
+    "bertscore_f1": 0.3471360504627228
+  }
+}

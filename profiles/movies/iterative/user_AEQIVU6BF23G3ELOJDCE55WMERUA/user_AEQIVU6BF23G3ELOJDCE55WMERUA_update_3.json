@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/28\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Richard Press'], 'Producers': ['Philip Gefter'], 'Starring': ['Bill Cunningham', 'Anna Wintour', 'Tom Wolfe'], 'Studio': ['Zeitgeist Films']}\nReview Text: I love a good documentary about talented interesting people and this is one of them for sure. You really fall for Bill's simplicity and his talent. What a neat person.\nReview Title: Love him~\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Matthew Bonifacio'], 'Producers': ['Stephen Ashkinos', 'Matthew Bonifacio', 'Carmine Famiglietti'], 'Starring': ['Lou Martini Jr.', 'Susan Varon', 'Sharon Angela'], 'Studio': ['FilmBuff']}\nThis was listed as being a documentary and so I started it. It's clearly not, and from what I can tell (I only watched 20 minutes it's not that great of a movie.\nNot a Documentary\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Joe Berlinger', 'Bruce Sinofsky'], 'Producers': ['Joe Berlinger', 'Bruce Sinofsky', 'IFC'], 'Starring': ['Delbert Ward', 'Roscoe Ward', 'Connie Chung']}\nI felt this was well done and true. No need to make a story this one tells itself in the footage alone and does a great job. I think it is easy to understand the peoples emotions in this movie and how they feel about the family.\nWell Done\n{'Subtitles': ['None available'], 'Directors': ['Richard Press'], 'Producers': ['Philip Gefter'], 'Starring': ['Bill Cunningham', 'Anna Wintour', 'Tom Wolfe'], 'Studio': ['Zeitgeist Films']}\nI love a good documentary about talented interesting people and this is one of them for sure. You really fall for Bill's simplicity and his talent. What a neat person.\nLove him~",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preferred Genres:** The user maintains a strong preference for documentaries, particularly those that showcase the lives of talented and interesting individuals through authentic storytelling.\n- **Expectations:** Consistent with their critical approach, the user expects films to accurately represent their advertised content, and they prioritize narratives that avoid embellishment.\n- **Engagement Duration:** Their discerning nature is emphasized by their tendency to disengage from films that do not meet their high standards, often stopping viewing after a brief period if expectations are not met.\n- **Rating Tendencies:** The user has shown an increased tendency towards high ratings, as reflected in their recent average rating of 4.8. This reinforces their thoughtful evaluations and overall appreciation for quality storytelling.\n- **Content Appreciation:** The user expresses a clear affinity for documentaries that resonate emotionally and portray real-life situations with depth and clarity. They particularly admire works that effectively highlight the simplicity and talent of their subjects, indicating an appreciation for nuanced character studies.\n\nOverall, this updated profile emphasizes a user who values authenticity and emotional resonance in their film selections, with a keen ability to discern and celebrate high-quality storytelling that perfectly captures the essence of intriguing individuals.",
+  "metrics": {
+    "rouge1_f": 0.2094240837696335,
+    "rouge2_f": 0.005263157894736843,
+    "rougeL_f": 0.1099476439790576,
+    "meteor": 0.11590346065977937,
+    "bleu1": 0.17915353560286335,
+    "bleu2": 0.03333635872570539,
+    "bleu3": 0.00702106063929377,
+    "bleu4": 0.00322548173067579,
+    "bertscore_precision": 0.38760536909103394,
+    "bertscore_recall": 0.426738977432251,
+    "bertscore_f1": 0.4062318801879883
+  }
+}

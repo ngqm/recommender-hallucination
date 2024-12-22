@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Catrice | SUNGASM Luminizing Bronzer 02 | For A Sun-Kissed Shimmery Finish | Highly Pigmented & Blendable | Vegan, Paraben Free, Oil Free | Cruelty Free\nReview Date: 2020/08/03\nStore: Catrice\nAverage Rating: 4.1\nProduct Details: {'Item Form': 'Powder', 'Finish Type': 'Shimmery', 'Coverage': 'Full', 'Brand': 'Catrice', 'Color': 'C02 Bronzed Euphoria', 'Product Dimensions': '2.72 x 2.72 x 0.51 inches; 1.52 Ounces'}\nReview Text: It is smaller than I thought the pigments are good but I think it could be better is a nice color for my skin make my makeup look good I had to use more than I usually like to but other than that is really nice and it comes in a nice packaging\nReview Title: Nice packaging\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Catrice | SUNGASM Luminizing Bronzer 02 | For A Sun-Kissed Shimmery Finish | Highly Pigmented & Blendable | Vegan, Paraben Free, Oil Free | Cruelty Free\nCatrice\n{'Item Form': 'Powder', 'Finish Type': 'Shimmery', 'Coverage': 'Full', 'Brand': 'Catrice', 'Color': 'C02 Bronzed Euphoria', 'Product Dimensions': '2.72 x 2.72 x 0.51 inches; 1.52 Ounces'}\nIt is smaller than I thought the pigments are good but I think it could be better is a nice color for my skin make my makeup look good I had to use more than I usually like to but other than that is really nice and it comes in a nice packaging\nNice packaging",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Focuses on bronzers and makeup that provide a sun-kissed, shimmery finish.\n- **Quality Preference:** Values highly pigmented products that are blendable and enhance skin tone.\n- **Brand Awareness:** Shows a preference for vegan, cruelty-free, and free from harmful ingredients (parabens, oils).\n- **Package Appeal:** Attracted to aesthetically pleasing packaging, indicating a preference for products that offer a good visual experience.\n- **Performance Feedback:** Desires optimal performance but may have realistic expectations; appreciates good color but is open to using more product if needed.\n- **Rating Discrepancy:** Exhibits a critical eye towards product size versus expectations; might prioritize quality over quantity in purchasing decisions.\n  \nOverall, this user's preferences suggest a blend of performance, ethical considerations, and visual appeal in beauty products.",
+  "metrics": {
+    "rouge1_f": 0.34210526315789475,
+    "rouge2_f": 0.07079646017699115,
+    "rougeL_f": 0.1842105263157895,
+    "meteor": 0.22600498465607566,
+    "bleu1": 0.1823204419889503,
+    "bleu2": 0.010064250316755124,
+    "bleu3": 0.0038391635146462623,
+    "bleu4": 0.0023745015458569068,
+    "bertscore_precision": 0.4432092607021332,
+    "bertscore_recall": 0.42256540060043335,
+    "bertscore_f1": 0.43264123797416687
+  }
+}

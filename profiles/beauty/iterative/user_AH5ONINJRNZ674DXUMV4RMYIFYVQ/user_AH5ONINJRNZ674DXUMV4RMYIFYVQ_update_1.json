@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brush Strokes Large Ball Tip Rounder Brush (Assorted Colors)\nReview Date: 2019/07/26\nStore: Brush Strokes\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Brush Strokes', 'Shape': 'Oblong', 'Special Feature': 'Not-applicable', 'Unit Count': '1.00 Count', 'Hair Type': 'Fine', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.8 x 2.6 x 2.6 inches; 1.6 Ounces', 'Item model number': 'SG_B004F0KBDW_US', 'UPC': '794168349933'}\nReview Text: Pros: This brush is so light weight and makes it so easy to create a smooth, straight look with your hair. It does not tangle at all and is easy to use.<br />Cons: The brush made my hair a little flat, but I have thin, fine hair that requires work to create body.\nReview Title: Great for smoothing and straightening hair!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Brush Strokes Large Ball Tip Rounder Brush (Assorted Colors)\nBrush Strokes\n{'Brand': 'Brush Strokes', 'Shape': 'Oblong', 'Special Feature': 'Not-applicable', 'Unit Count': '1.00 Count', 'Hair Type': 'Fine', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.8 x 2.6 x 2.6 inches; 1.6 Ounces', 'Item model number': 'SG_B004F0KBDW_US', 'UPC': '794168349933'}\nPros: This brush is so light weight and makes it so easy to create a smooth, straight look with your hair. It does not tangle at all and is easy to use.<br />Cons: The brush made my hair a little flat, but I have thin, fine hair that requires work to create body.\nGreat for smoothing and straightening hair!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** \n  - Light-weight hair tools for ease of use.\n  - Focus on functionality, specifically smoothing and straightening capabilities.\n  - Preference for brushes that do not tangle hair.\n\n- **Hair Type Consideration:** \n  - Utilizes products designed for fine hair and is attentive to how tools impact body and volume.\n  \n- **Experience with Products:**\n  - Generally satisfied with product performance, indicated by a positive average rating.\n  - Recognizes the balance between functionality and specific hair needs (e.g., hair volume).\n  \n- **Overall Trends:**\n  - Values efficiency in styling tools.\n  - Attributes importance to both usability (easy handling and effective results) and personal hair characteristics (recognizing the limitations of certain tools on fine hair).",
+  "metrics": {
+    "rouge1_f": 0.2727272727272727,
+    "rouge2_f": 0.06422018348623852,
+    "rougeL_f": 0.13636363636363635,
+    "meteor": 0.1375310712344718,
+    "bleu1": 0.21246169599917455,
+    "bleu2": 0.08953737083418889,
+    "bleu3": 0.03702196382824919,
+    "bleu4": 0.013408795080664974,
+    "bertscore_precision": 0.41951435804367065,
+    "bertscore_recall": 0.44042080640792847,
+    "bertscore_f1": 0.4297134578227997
+  }
+}

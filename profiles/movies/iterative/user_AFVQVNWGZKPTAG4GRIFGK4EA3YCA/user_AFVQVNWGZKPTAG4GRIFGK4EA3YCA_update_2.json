@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/01/10\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vicky Matthews'], 'Producers': ['Jeremy Dear', 'Robert Strange', 'Vicky Matthews'], 'Starring': ['Samuel West'], 'Studio': ['PBS']}\nReview Text: Or from royalty for that matter. Much of my linage dates back to the Vikings and the Irish.<br />Therefore, the program was too snooty for my taste. I was waiting for Eric the Red to bust down the door and cleave everyone into little pieces but it wasn't going to happen so I changed the channel.\nReview Title: I'm not an aristocrat\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Annakin'], 'Producers': ['Milton Sperling', 'Philip Yordan'], 'Starring': ['Henry Fonda', 'Robert Shaw', 'Robert Ryan']}\nI would have given the movie a four for historical accuracy had there not been so many American made tanks impersonating German tanks.\nAmerican made tanks against American made tanks\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vicky Matthews'], 'Producers': ['Jeremy Dear', 'Robert Strange', 'Vicky Matthews'], 'Starring': ['Samuel West'], 'Studio': ['PBS']}\nOr from royalty for that matter. Much of my linage dates back to the Vikings and the Irish.<br />Therefore, the program was too snooty for my taste. I was waiting for Eric the Red to bust down the door and cleave everyone into little pieces but it wasn't going to happen so I changed the channel.\nI'm not an aristocrat",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally provides positive ratings (average 4.7), but shows a tendency for critical insights, especially concerning historical authenticity, as evidenced by a recent review rated 2.0, indicating dissatisfaction with perceived elitism in program representation.\n\n- **Content Sensitivity:** Maintains awareness of content advisories and has a tolerance for mature themes, including violence, alcohol, smoking, foul language, and sexual content.\n\n- **Language and Accessibility:** Prefers content in English and shows interest in subtitles, particularly closed captions, suggesting a desire for enhanced understanding and accessibility.\n\n- **Historical Context:** Values historical accuracy and authenticity. Discrepancies in representation, such as the portrayal of nobility that the user finds \"snooty,\" notably impact satisfaction with content.\n\n- **Content Interests:** Engages with historically-themed media, driven by noteworthy actors and directors present in past selections. The recent interaction reflects a reaction against content that appears disconnected from a more relatable or grounded historical narrative.\n\nOverall, the user exhibits a blend of critical evaluation related to social representation and an appreciation for engaging storytelling, with a consistent ongoing interest in content that presents war or historical themes with realism and relatability.",
+  "metrics": {
+    "rouge1_f": 0.21884498480243159,
+    "rouge2_f": 0.03669724770642202,
+    "rougeL_f": 0.1458966565349544,
+    "meteor": 0.11066398390342051,
+    "bleu1": 0.19674639187878057,
+    "bleu2": 0.03983047730679236,
+    "bleu3": 0.008627905760942241,
+    "bleu4": 0.004019758060255668,
+    "bertscore_precision": 0.3994172215461731,
+    "bertscore_recall": 0.4014802575111389,
+    "bertscore_f1": 0.4004460871219635
+  }
+}

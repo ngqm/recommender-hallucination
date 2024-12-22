@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/09\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Mulcahy', 'Tim Andrew', 'Jennifer Lynch', 'Toby Wilkins', 'Christian Taylor', 'Robert Hall', 'James J.D. Taylor', 'David Daniel', 'Katie Eastridge', 'Joseph P. Genier'], 'Starring': ['Tyler Posey', 'Crystal Reed', \"Dylan O'Brien\"], 'Studio': ['MTV']}\nReview Text: Love this series!\nReview Title: A lot of fun to watch!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Mulcahy', 'Tim Andrew', 'Jennifer Lynch', 'Toby Wilkins', 'Christian Taylor', 'Robert Hall', 'James J.D. Taylor', 'David Daniel', 'Katie Eastridge', 'Joseph P. Genier'], 'Starring': ['Tyler Posey', 'Crystal Reed', \"Dylan O'Brien\"], 'Studio': ['MTV']}\nLove this series!\nA lot of fun to watch!",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Tends to give high ratings, averaging around 4.8 to 5.0.\n- **Content Interest:** Enjoys series with intense themes, including violence and frightening elements. Comfortable with mature content that features foul language and sexual content.\n- **Genres:** Likely prefers horror, thriller, and drama series based on the mention of violence and fright.\n- **Engagement Style:** Enthusiastic reviewer, expressing enjoyment and fun in viewing experiences.\n- **Linguistic Accessibility:** Prefers content available in English with options for audio descriptions and closed captions, indicating a value for accessibility features.\n- **Key Elements:** Shows a preference for character-driven storytelling, as evidenced by appreciation for the cast involved.\n- **Viewing Context:** Appears to value entertainment quality and is likely to engage with multi-dimensional narratives, highlighting a trend towards immersive storytelling. \n\nOverall, this user demonstrates a strong affinity for engaging, mature-themed television series that deliver high entertainment value.",
+  "metrics": {
+    "rouge1_f": 0.15609756097560976,
+    "rouge2_f": 0.029556650246305417,
+    "rougeL_f": 0.11707317073170731,
+    "meteor": 0.1165879203086857,
+    "bleu1": 0.1170731707317073,
+    "bleu2": 0.0075755401907857,
+    "bleu3": 0.003046330778898596,
+    "bleu4": 0.0019341713743737928,
+    "bertscore_precision": 0.41219550371170044,
+    "bertscore_recall": 0.3766719698905945,
+    "bertscore_f1": 0.3936339020729065
+  }
+}

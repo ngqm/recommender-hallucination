@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Segbeauty empty bottle 290\nReview Date: 2019/09/09\nStore: TruuMe\nAverage Rating: 4.8\nProduct Details: {'Brand': 'Segbeauty', 'Color': 'Clear', 'Material Type Free': 'Dairy Free', 'Item Weight': '3.4 Ounces', 'Bottle Nipple Type': 'Vented', 'Package Dimensions': '7.99 x 3.19 x 2.24 inches; 3.4 Ounces', 'Item model number': 'AM-160083-03', 'UPC': '701822757553 701822760621'}\nReview Text: This is definitely a mister, not a spray bottle! It produces such a fine mist, exactly as advertised.\nReview Title: Such a fine mist!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Segbeauty empty bottle 290\nTruuMe\n{'Brand': 'Segbeauty', 'Color': 'Clear', 'Material Type Free': 'Dairy Free', 'Item Weight': '3.4 Ounces', 'Bottle Nipple Type': 'Vented', 'Package Dimensions': '7.99 x 3.19 x 2.24 inches; 3.4 Ounces', 'Item model number': 'AM-160083-03', 'UPC': '701822757553 701822760621'}\nThis is definitely a mister, not a spray bottle! It produces such a fine mist, exactly as advertised.\nSuch a fine mist!",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user values products that offer fine mist functionality and precision, indicating a preference for practical and well-advertised features.\n- **Quality Awareness:** The high average rating of the product suggests that the user prioritizes quality and positive performance as factors in their purchasing decisions.\n- **Brand Loyalty:** The user has engaged with a specific brand that meets their expectations, hinting at potential brand loyalty if future interactions are similarly positive.\n- **Material Consideration:** The user's attention to packaging details such as material type indicates a preference for products that are non-toxic or safe, suggesting a health-conscious mindset.\n- **Performance over Aesthetics:** The emphasis on the mist functionality over aesthetic attributes signifies a focus on utility and effective performance rather than on design or appearance.\n- **Critical but Balanced Reviews:** The user\u2019s rating reflects a critical perspective; they appreciate good functionality but also align their ratings based on their experiences, as shown by the slight discrepancy between the high rating and their review commentary.",
+  "metrics": {
+    "rouge1_f": 0.11914893617021276,
+    "rouge2_f": 0.017167381974248927,
+    "rougeL_f": 0.05957446808510638,
+    "meteor": 0.10572687224669604,
+    "bleu1": 0.10138248847926268,
+    "bleu2": 0.02166479569691759,
+    "bleu3": 0.006021299717810046,
+    "bleu4": 0.0031780757218897587,
+    "bertscore_precision": 0.38533714413642883,
+    "bertscore_recall": 0.36945274472236633,
+    "bertscore_f1": 0.377227783203125
+  }
+}

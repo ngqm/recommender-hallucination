@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/11/24\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Breaux'], 'Producers': ['Nick Vanoff'], 'Starring': ['King Sisters (Donna', 'Yvonne', 'Luise', 'and Alyce)', 'Alvino Rey'], 'Studio': ['Synergy Ent']}\nReview Text: Just like I remembered them!  This brought back such wonderful memories - I was so happy to find this .\nReview Title: Just like I remembered them\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jerusha Hess'], 'Producers': ['Stephenie Meyer', 'Gina Mingacci'], 'Starring': ['Keri Russell', 'JJ Feild', 'Jennifer Coolidge'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nIt was cute - not as good as Lost in Austen but an enjoyable story.  Mr Nobley makes a good Darcy substitute.<br />I'd watch it again in the future.\nAusten fans will be amused\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Breaux'], 'Producers': ['Nick Vanoff'], 'Starring': ['King Sisters (Donna', 'Yvonne', 'Luise', 'and Alyce)', 'Alvino Rey'], 'Studio': ['Synergy Ent']}\nJust like I remembered them!  This brought back such wonderful memories - I was so happy to find this .\nJust like I remembered them",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Enjoys romantic comedies and adaptations, particularly those with a connection to classic literature. A newfound interest in nostalgic content that evokes memories of past experiences is evident.\n\n- **Content Themes:** Continues to favor stories containing elements of romance, humor, and nostalgia. Recently demonstrated a particular fondness for content that brings back positive memories, reflecting an emotional connection to the material.\n\n- **Rating Patterns:** Maintains a generally positive rating average of around 4.6. However, the user's recent interaction included a higher rating (5.0) for a title that aligns with their nostalgic interests, demonstrating their enthusiasm for content that resonates personally.\n\n- **Audience Insight:** Appears to enjoy content appealing to fans of Jane Austen and similar works, with an appreciation for familiar narratives that evoke warmth and charm.\n\n- **Viewing Preferences:** Likely prefers lighthearted and endearing films that are rewatchable. The recent interaction indicates a stronger inclination toward content that prompts joyful recollections.\n\n- **Content Advisory Sensitivity:** Remains aware and considerate of content advisories, indicating a preference for narratives that handle mature themes delicately and maintain an uplifting tone.\n\nOverall, this user is a devoted Austen enthusiast who seeks out romantic comedies that evoke nostalgia and charm, thoughtfully rating content while valuing emotional resonance and storytelling quality.",
+  "metrics": {
+    "rouge1_f": 0.10746268656716416,
+    "rouge2_f": 0.006006006006006006,
+    "rougeL_f": 0.05373134328358208,
+    "meteor": 0.08938981733385153,
+    "bleu1": 0.137546468401487,
+    "bleu2": 0.007164028831951507,
+    "bleu3": 0.0026787640560387476,
+    "bleu4": 0.001639571792442835,
+    "bertscore_precision": 0.3785424530506134,
+    "bertscore_recall": 0.38947755098342896,
+    "bertscore_f1": 0.3839321434497833
+  }
+}

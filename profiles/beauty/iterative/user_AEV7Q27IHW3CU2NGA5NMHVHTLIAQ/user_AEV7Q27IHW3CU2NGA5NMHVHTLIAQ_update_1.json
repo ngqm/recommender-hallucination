@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Makeup Blender Sponge Set - 4 Pack Latex Free Q-Soft Makeup Beauty Foundation Blending Sponge Flawless Smooth Brush for Liquid Foundation BB Creams Powders Concealer (4 Pack)\nReview Date: 2019/02/21\nStore: FRESHME\nAverage Rating: 3.9\nProduct Details: {'Brand': 'FRESHME', 'Color': 'Ivory', 'Material': 'Rubber', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.6 x 3.6 x 1.4 inches; 1.59 Ounces', 'UPC': '681413196902', 'Manufacturer': 'FRESHME'}\nReview Text: I like the size and shape of these sponges, specially for application of foundation. I use liquid foundation and I noticed that the sponge was soaking up the makeup. I started using these only to apply powdered makeup like rouge or shimmer and they work very well.\nReview Title: good for powder but not liquid makeup\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Makeup Blender Sponge Set - 4 Pack Latex Free Q-Soft Makeup Beauty Foundation Blending Sponge Flawless Smooth Brush for Liquid Foundation BB Creams Powders Concealer (4 Pack)\nFRESHME\n{'Brand': 'FRESHME', 'Color': 'Ivory', 'Material': 'Rubber', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.6 x 3.6 x 1.4 inches; 1.59 Ounces', 'UPC': '681413196902', 'Manufacturer': 'FRESHME'}\nI like the size and shape of these sponges, specially for application of foundation. I use liquid foundation and I noticed that the sponge was soaking up the makeup. I started using these only to apply powdered makeup like rouge or shimmer and they work very well.\ngood for powder but not liquid makeup",
+  "profile": "**User Profile Summary:**\n\n- **Makeup Preferences:** \n  - Prefers products for powdered makeup application.\n  - Experiences challenges with liquid makeup, particularly regarding product absorption by tools.\n\n- **Product Characteristics:**\n  - Values size and shape of makeup applicators, indicating a preference for ergonomic designs that enhance usability.\n  - Opts for latex-free materials, suggesting a sensitivity or preference for hypoallergenic options.\n\n- **Performance Expectations:**\n  - Expects makeup tools to efficiently apply makeup without excessive product absorption.\n  - Indicates a need for multifunctional products that can be used for different makeup types.\n\n- **Brand Engagement:** \n  - Engages with specific brands, pointing towards loyalty or familiarity within certain product ranges.\n\nOverall, the user demonstrates a thoughtful approach to makeup application, with a focus on practicality and performance of tools, particularly for powdered products over liquids.",
+  "metrics": {
+    "rouge1_f": 0.25974025974025977,
+    "rouge2_f": 0.0611353711790393,
+    "rougeL_f": 0.16450216450216448,
+    "meteor": 0.15323717026601458,
+    "bleu1": 0.21764705882352942,
+    "bleu2": 0.0802450129003086,
+    "bleu3": 0.04248010733869927,
+    "bleu4": 0.026029156002305535,
+    "bertscore_precision": 0.4238002896308899,
+    "bertscore_recall": 0.4256470501422882,
+    "bertscore_f1": 0.4247216582298279
+  }
+}

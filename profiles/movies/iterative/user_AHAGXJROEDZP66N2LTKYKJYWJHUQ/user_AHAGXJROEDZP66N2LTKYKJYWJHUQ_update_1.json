@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/11\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['None available'], 'Directors': ['Larry Charles'], 'Producers': ['Sacha Baron Cohen', 'Alec Berg', 'David Mandel', 'Jeff Schaffer', 'Todd Schulman', 'Anthony Hines', 'Scott Rudin', 'Mari Jo Winkler-Loffreda', 'Adam Mckay', 'Peter Baynham', 'Dan Mazer'], 'Starring': ['Sacha Baron Cohen', 'Anna Faris', 'Ben Kingsley'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: want the last 1.5 hrs of my life back.<br /><br />think my iq dropped just by watching this movie.<br /><br />BAD don't waste your time\nReview Title: Dumb\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['None available'], 'Directors': ['Larry Charles'], 'Producers': ['Sacha Baron Cohen', 'Alec Berg', 'David Mandel', 'Jeff Schaffer', 'Todd Schulman', 'Anthony Hines', 'Scott Rudin', 'Mari Jo Winkler-Loffreda', 'Adam Mckay', 'Peter Baynham', 'Dan Mazer'], 'Starring': ['Sacha Baron Cohen', 'Anna Faris', 'Ben Kingsley'], 'Studio': ['Paramount Pictures Corp.']}\nwant the last 1.5 hrs of my life back.<br /><br />think my iq dropped just by watching this movie.<br /><br />BAD don't waste your time\nDumb",
+  "profile": "**User Summary:**\n\n- **Rating Tendencies:** The user exhibits a highly critical approach to content, often expressing disappointment; average rating on initial interaction is low (1.0) following a previous positive average (4.4), indicating fluctuating satisfaction levels.\n  \n- **Content Preferences:** The user appears to favor content that is thoughtful and well-crafted, as evidenced by the negative reaction to a film low in perceived quality, suggesting a preference towards deeper, more engaging narratives.\n  \n- **Advisories Discomfort:** The presence of nudity, violence, and foul language in content is likely a deterrent for this user, as their review reflects a strong dislike for these elements in entertainment.\n  \n- **Emotional Reaction:** The user\u2019s engagement is deeply emotional; they express feelings of frustration and a desire to reclaim lost time, indicating that they value their viewing experience significantly and expect a return on their time investment.\n\n- **Engagement Style:** The user writes in a straightforward, blunt style, conveying their opinions clearly without hesitation, reflecting a preference for clear, sincere communication.\n\nThis initial profile suggests a user who prioritizes quality storytelling and thematic substance over sensationalism or shallow entertainment.",
+  "metrics": {
+    "rouge1_f": 0.09665427509293681,
+    "rouge2_f": 0.0149812734082397,
+    "rougeL_f": 0.07434944237918216,
+    "meteor": 0.07880434782608696,
+    "bleu1": 0.10924369747899162,
+    "bleu2": 0.006789284728300722,
+    "bleu3": 0.0026930557705062237,
+    "bleu4": 0.0016979192999828695,
+    "bertscore_precision": 0.37483376264572144,
+    "bertscore_recall": 0.34581685066223145,
+    "bertscore_f1": 0.35974112153053284
+  }
+}

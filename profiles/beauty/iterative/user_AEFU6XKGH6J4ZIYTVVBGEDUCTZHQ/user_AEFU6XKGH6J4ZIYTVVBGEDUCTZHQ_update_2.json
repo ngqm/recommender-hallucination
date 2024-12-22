@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JDO Eyelash Curler and 4D Silk Fiber Lash Mascara Value Set-Lash Curler with Refill Pads for No Pinching or Pulling, Mascara Natural Thickening- Long Lasting Waterproof & Smudge-Proof\nReview Date: 2020/08/11\nStore: JDO\nAverage Rating: 3.9\nProduct Details: {'Package Dimensions': '6 x 4 x 1 inches; 3.21 Ounces'}\nReview Text: I was not very impressed.. it acts just like a regular cheap mascara, nothing impressive about it.\nReview Title: Didn\u2019t notice much difference than regular mascaras\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "ASP Form-A-Nail, 24 Reusable Forms\nASP\n['Asp Forman ail is a quick and easy way to create a set of acrylic nails. 24 reusable forms. Easy to follow step by step directions.']\n{'Size': '24 Count (Pack of 1)', 'Material': 'Acrylic', 'Brand': 'ASP', 'Style': 'French', 'Coverage': 'Full Well Tips', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.3 x 4 x 3.5 inches; 1.45 Ounces', 'Item model number': '12443563806', 'UPC': '012443563806', 'Manufacturer': 'STAR NAIL-ASP'}\nI just got this product at a beauty supply!<br /><br />I love it!!! First time trying and it turned out awesome!!!!<br /><br />I'm no a nail technician, or any sort of professional but it worked great, I did short, next time I'll do longer, after creating the nail I designed with some crystals!<br /><br />So much cheaper, and I can do whatever I like  going to a nail salon again!!\nI wish I knew this trick before!\nJDO Eyelash Curler and 4D Silk Fiber Lash Mascara Value Set-Lash Curler with Refill Pads for No Pinching or Pulling, Mascara Natural Thickening- Long Lasting Waterproof & Smudge-Proof\nJDO\n{'Package Dimensions': '6 x 4 x 1 inches; 3.21 Ounces'}\nI was not very impressed.. it acts just like a regular cheap mascara, nothing impressive about it.\nDidn\u2019t notice much difference than regular mascaras",
+  "profile": "**User Profile Summary:**\n\n- **Beauty Enthusiast**: Demonstrates a strong interest in DIY beauty solutions, particularly in nail care and enhancement, with a recent exploration into eye makeup products.\n- **Positive First Experience**: Previously expressed enthusiasm and satisfaction with beauty products, but recent experiences highlight a critical view on effectiveness, indicating a discerning attitude towards quality.\n- **Cost-Conscious**: Values affordability, seeking budget-friendly beauty options and showing a willingness to try new products, albeit with cautious expectations.\n- **Creative Expression**: Enjoys customizing and designing nails, including the use of embellishments like crystals, showcasing a flair for creativity and personal expression in beauty.\n- **Novice to Moderate Skill Level**: Not a professional in nail care but confident in trying new techniques, exhibiting an eagerness to learn and improve while displaying some skepticism towards the results of certain products.\n- **Desire for Convenience**: Appreciates products that are easy to use with clear directions, but recent interactions suggest an increased demand for performance, indicating a preference for reliable and effective beauty solutions.\n\nOverall, this user appears to be a creative, cost-conscious beauty enthusiast eager to explore DIY nail art and enhance their beauty routine, while becoming more selective about product quality in light of recent experiences.",
+  "metrics": {
+    "rouge1_f": 0.19811320754716985,
+    "rouge2_f": 0.004739336492890996,
+    "rougeL_f": 0.10377358490566038,
+    "meteor": 0.1269464621318061,
+    "bleu1": 0.19101472973653377,
+    "bleu2": 0.007686304626490243,
+    "bleu3": 0.0026373499832711617,
+    "bleu4": 0.0015463915507695155,
+    "bertscore_precision": 0.3881921172142029,
+    "bertscore_recall": 0.4317663908004761,
+    "bertscore_f1": 0.4088214337825775
+  }
+}

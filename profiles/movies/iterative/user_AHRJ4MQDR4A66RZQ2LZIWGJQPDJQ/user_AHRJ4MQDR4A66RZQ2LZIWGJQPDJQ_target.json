@@ -1,0 +1,61 @@
+{
+  "interaction_number": 13,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/08/05\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn'], 'Producers': ['Katherine Butler', \"Tracy O'Riordan\"], 'Starring': ['Toni Collette', 'Damian Lewis', 'Owen Teale']}\nReview Text: It was okay\nReview Title: Meh\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Hopkins'], 'Producers': ['Jean Charles Levy', 'Luc Dayan', 'Louis-Philippe Rochon', 'Dominique Seguin', 'Stephen Hopkins', 'Kate Garwood', 'Karsten Brunig', 'Nicolas Manuel'], 'Starring': ['Stephan James', 'Jason Sudeikis', 'Jeremy Irons'], 'Studio': ['Focus Features']}\nGreat movie\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Feig'], 'Producers': ['Peter Chernin', 'Jenno Topping', 'Paul Feig', 'Michele Imperato Stabile', 'Dylan Clark'], 'Starring': ['Sandra Bullock', 'Melissa McCarthy', 'Demi\u00e1n Bichir'], 'Studio': ['Fox']}\nRough language but funny. NOT for kids\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Burr Steers'], 'Producers': ['Adam Shankman', 'Jennifer Gibgot'], 'Starring': ['Zac Efron', 'Leslie Mann', 'Tom Lennon']}\nSit down. Try to write the same movie fifty different ways and you will have number 49 here.\nOne Star\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gore Verbinski'], 'Producers': ['Jerry Bruckheimer', 'Gore Verbinski'], 'Starring': ['Johnny Depp', 'Armie Hammer', 'Tom Wilkinson'], 'Studio': ['BUENA VISTA PAY TELEVISION']}\nBeyond stupid.<br />By ten minutes in I wanted to pour gas on myself and light a match.\nBeyond stupid. By ten minutes in I wanted to pour ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Geoffrey Sax'], 'Producers': ['Steve Christian', 'Andreas Grosch', 'Marc Samuelson', 'Peter Samuelson'], 'Starring': ['Alex Pettyfer', 'Mickey Rourke', 'Alicia Silverstone'], 'Studio': ['Lionsgate']}\nFun for the kids.\nFour Stars\n{'Content advisory': ['Alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Campbell'], 'Producers': ['Gary Newton', 'Graham Gordy', 'Daniel Campbell'], 'Starring': ['Andrew J. West', 'Michaela Watkins', 'Michael Gladis'], 'Studio': ['The Orchard']}\nWhat entertainment should be.<br />Refreshing. Charming. Engaging.<br />It sounds trite but it actually was all of those things.<br />I\u2019m glad I bought it rather than  renting it.<br />I\u2019m going to enjoy it for a long time.\nA film. Not a movie.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['George Gallo'], 'Producers': ['Jon Davison', 'George Gallo'], 'Starring': ['Nicolas Cage', 'Jon Lovitz', 'Dana Carvey']}\nI love this movie. I enjoy it every time I waoit.\nOne of my favorite Christmas movies.\nDie Hard\nSuspense, Action, Gritty, Intense\n['Yippie-ki-yay! Hard-nosed NYC cop John McClane wages a one-man war against a band of cold-blooded thieves in Los Angeles in this contemporary action classic.']\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John McTiernan'], 'Producers': ['Lawrence Gordon', 'Joel Silver'], 'Starring': ['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']}\nIt\u2019s not Christmas without Die Hard\nYippe ki yay\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Fickman'], 'Producers': ['Todd Garner', 'Sean Robins', 'Mark Moran'], 'Starring': ['John Cena', 'Keegan-Michael Key', 'John Leguizamo'], 'Studio': ['Paramount Pictures']}\nI would rather pour gasoline over my head and light a match or than watch this thing again.<br />Horrible.\nTorturous\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Mickey Evans'], 'Producers': ['Roger Birnbaum', 'Riley Kathryn Ellis'], 'Starring': ['Sinbad', 'Brock Pierce', 'Timothy Busfield'], 'Studio': ['Walt Disney Pictures']}\nSilly fun for my kids.\nIt\u2019s a cute movie.\n{'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Peter Hedges'], 'Producers': ['James Whitaker', 'Scott Sanders'], 'Starring': ['Jennifer Garner', 'Joel Edgerton', 'Ron Livingston'], 'Studio': ['Walt Disney Pictures']}\nTouching film. Completely worth the price.\nWatch this movie.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rich Correll'], 'Producers': ['Rich Correll', 'Kevin Waller', 'Terry Rindal', 'Laurence Jaffe'], 'Starring': ['Mira Sorvino', 'Austyn Johnson', 'Peter Coyote'], 'Studio': ['Trailmaker Productions & Gerson Productions']}\nLike. Way. Depressing.\nDepressing\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Euros Lyn'], 'Producers': ['Katherine Butler', \"Tracy O'Riordan\"], 'Starring': ['Toni Collette', 'Damian Lewis', 'Owen Teale']}\nIt was okay\nMeh",
+  "actual_interaction": {
+    "rating": 3.0,
+    "title": "Meh",
+    "text": "It was okay",
+    "images": [],
+    "asin": "B095S7LMTW",
+    "parent_asin": "B095S7LMTW",
+    "user_id": "AHRJ4MQDR4A66RZQ2LZIWGJQPDJQ",
+    "timestamp": "2021-08-05 13:32:31.368000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.5,
+    "rating_number": 4267,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a8e1bc7206ed2a0d3ddd6cd9601b2f3ac431b5e1bf61db78ff9b4611e877e60._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Euros Lyn"
+      ],
+      "Producers": [
+        "Katherine Butler",
+        "Tracy O'Riordan"
+      ],
+      "Starring": [
+        "Toni Collette",
+        "Damian Lewis",
+        "Owen Teale"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

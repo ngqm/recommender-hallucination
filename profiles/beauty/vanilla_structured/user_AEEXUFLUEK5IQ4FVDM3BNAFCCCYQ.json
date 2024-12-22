@@ -1,0 +1,57 @@
+{
+  "user_id": "AEEXUFLUEK5IQ4FVDM3BNAFCCCYQ",
+  "summary": "=== Purchase Information ===\nProduct Title: Ottery Lovely Little Flowers nail stickers nail art Water Transfer Decals\nReview Date: 2015/10/16\nAverage Rating: 5.0\nProduct Details: {}\nReview Text: like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: SPECIAL SET small - Nailart NAIL TATTOO STICKER - paws - black\nReview Date: 2015/10/16\nAverage Rating: 3.0\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Dalin 3D Nail Art Tips Stickers False Flower Nail Design Manicure Decals Nail Art Water Nail Art Decal/Tattoo/Sticker XF1028\nReview Date: 2015/10/16\nAverage Rating: 3.1\nProduct Details: {}\nReview Text: like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Nailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / blue / black\nReview Date: 2015/10/16\nAverage Rating: 3.3\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Nailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / black\nReview Date: 2015/10/16\nAverage Rating: 3.6\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Ottery Lovely Little Flowers nail stickers nail art Water Transfer Decals\n{}\nlike\nFive Stars\nSPECIAL SET small - Nailart NAIL TATTOO STICKER - paws - black\n{}\nnice like\nFive Stars\nDalin 3D Nail Art Tips Stickers False Flower Nail Design Manicure Decals Nail Art Water Nail Art Decal/Tattoo/Sticker XF1028\n{}\nlike\nFive Stars\nNailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / blue / black\n{}\nnice like\nFive Stars\nNailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / black\n{}\nnice like\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Ottery Lovely Little Flowers nail stickers nail art Water Transfer Decals\nReview Date: 2015/10/16\nAverage Rating: 5.0\nProduct Details: {}\nReview Text: like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: SPECIAL SET small - Nailart NAIL TATTOO STICKER - paws - black\nReview Date: 2015/10/16\nAverage Rating: 3.0\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Dalin 3D Nail Art Tips Stickers False Flower Nail Design Manicure Decals Nail Art Water Nail Art Decal/Tattoo/Sticker XF1028\nReview Date: 2015/10/16\nAverage Rating: 3.1\nProduct Details: {}\nReview Text: like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Nailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / blue / black\nReview Date: 2015/10/16\nAverage Rating: 3.3\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Nailart NAIL TATTOO STICKER - Full-Cover - Zhostovo / Flowers / Blossom - green / red / black\nReview Date: 2015/10/16\nAverage Rating: 3.6\nProduct Details: {}\nReview Text: nice like\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for nail art products, particularly water transfer decals and nail tattoo stickers, with a specific inclination towards floral designs. Consistent high ratings (mostly 5.0) indicate a positive sentiment towards these items, suggesting satisfaction with aesthetic appeal and application ease. Notably, while a few products received slightly lower average ratings (ranging from 3.0 to 3.6), the overall enthusiastic feedback reaffirms a preference for visually striking and diverse designs.\n\nThemes in the use cases emphasize both decorative and personal expression through nail art, reflecting an enjoyment of creativity in self-grooming. The individual's consistent mentions of \"like\" and \"nice\" across reviews showcase a straightforward appreciation for the products' appearances.\n\nQuality preferences appear moderate, as indicated by the varying average ratings\u2014though generally favoring higher-rated items, there's openness to lower-rated products, suggesting a minimal price sensitivity. The willingness to purchase across various ratings implies a focus on design and aesthetic value rather than just product quality alone.\n\nOverall, the core preferences center around creative nail art, particularly floral-themed products, with a strong inclination towards visually appealing designs that allow for personal expression, balanced by a pragmatic approach toward product quality.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "like",
+    "images": [],
+    "asin": "B00JV9D4IG",
+    "parent_asin": "B00JV9D4IG",
+    "user_id": "AEEXUFLUEK5IQ4FVDM3BNAFCCCYQ",
+    "timestamp": "2015-10-16 11:47:05",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Nailart NAIL TATTOO STICKER - blossom / flower / rose - red / green",
+    "average_rating": 3.8,
+    "rating_number": 21,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41tVBbtATWL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41tVBbtATWL.jpg",
+        "variant": "MAIN",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/412teODdMzL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/412teODdMzL.jpg",
+        "variant": "PT01",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61HuXUIIZ3L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61HuXUIIZ3L.jpg",
+        "variant": "PT02",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41edfHqwf-L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41edfHqwf-L.jpg",
+        "variant": "PT03",
+        "hi_res": null
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [],
+    "details": {},
+    "bought_together": null
+  }
+}

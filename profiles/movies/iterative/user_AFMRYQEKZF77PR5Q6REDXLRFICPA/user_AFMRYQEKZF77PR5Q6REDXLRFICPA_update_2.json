@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/03\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Frankel', 'Mikael Salomon', 'Tom Hanks', 'David Leland', 'Richard Loncraine', 'David Nutter', 'Phil Alden Robinson', 'Tony To'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Mary Richards'], 'Starring': ['Patrick Dempsey', 'Rick Gomez', 'Scott Grimes'], 'Studio': ['Discovery Global']}\nReview Text: This series is excellent\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Podeswa', 'Timothy Van Patten', 'David Nutter', 'Carl Franklin', 'Tony To', 'Graham Yost'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Gary Goetzman', 'Cherylanne Martin', 'Todd London', 'Steven Shareshian'], 'Starring': ['James Badge Dale', 'Joe Mazzello', 'Jon Seda'], 'Studio': ['HBO']}\nThis series is excellent.\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Frankel', 'Mikael Salomon', 'Tom Hanks', 'David Leland', 'Richard Loncraine', 'David Nutter', 'Phil Alden Robinson', 'Tony To'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Mary Richards'], 'Starring': ['Patrick Dempsey', 'Rick Gomez', 'Scott Grimes'], 'Studio': ['Discovery Global']}\nThis series is excellent\nFive Stars",
+  "profile": "The user maintains a strong preference for high-quality, well-produced television series characterized by engaging storytelling and notable production teams. Their recent interaction further emphasizes their appreciation for works by renowned directors and producers, reaffirming their value for cinematic craftsmanship. The user has awarded a high rating to a series featuring accomplished creators like a prominent director and a respected producer, signaling their discerning taste and fondness for narratives that resonate on a deeper level.\n\nThey continue to favor content with English audio and subtitles, demonstrating a commitment to accessibility and understanding while consuming media. Their enthusiastic feedback reflects a keen enjoyment of drama, likely with a particular interest in historical contexts and depth of character development. Overall, the user's profile suggests a discerning viewer who appreciates strong narratives, high production values, and legendary figures in the television industry, consistently seeking out shows that deliver both entertainment and emotional impact. This recent interaction underlines their unwavering commitment to this standard of excellence in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.10606060606060605,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.060606060606060615,
+    "meteor": 0.0391524643021649,
+    "bleu1": 0.057651267643242084,
+    "bleu2": 0.005070299241020275,
+    "bleu3": 0.00225897031985081,
+    "bleu4": 0.0015099197301123794,
+    "bertscore_precision": 0.3318457305431366,
+    "bertscore_recall": 0.32230639457702637,
+    "bertscore_f1": 0.3270064890384674
+  }
+}

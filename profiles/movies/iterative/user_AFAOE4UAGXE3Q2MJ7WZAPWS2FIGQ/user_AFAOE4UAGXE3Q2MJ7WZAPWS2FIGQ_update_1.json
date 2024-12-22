@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 22 Jump Street\nReview Date: 2015/01/15\nStore: Jonah Hill  (Actor, Producer, Writer),     Channing Tatum  (Actor, Producer),     Phil Lord  (Director),     Christopher Miller  (Director)    &                   1                  more   Rated:    R    Format: Blu-ray\nCategories: Movies & TV, Blu-ray, Movies\nAverage Rating: 4.6\nProduct Details: {}\nReview Text: Movie was okay.  More hype than anything.\nReview Title: Movie was okay. More hype than anything.\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "22 Jump Street\nJonah Hill  (Actor, Producer, Writer),     Channing Tatum  (Actor, Producer),     Phil Lord  (Director),     Christopher Miller  (Director)    &                   1                  more   Rated:    R    Format: Blu-ray\nMovies & TV, Blu-ray, Movies\n{}\nMovie was okay.  More hype than anything.\nMovie was okay. More hype than anything.",
+  "profile": "**User Profile Summary:**\n\n- **Media Consumption:** The user engages with movies, particularly in the Blu-ray format, indicating a preference for physical media over digital streaming.\n- **Rating Tendencies:** The user rates movies with a moderate approach, as evidenced by a 3.0 rating for a film they found underwhelming, suggesting a discerning taste and an inclination to critique based on expectations versus delivery.\n- **Expectations:** The user expresses disappointment with films that are widely hyped, indicating a preference for substance over popularity and a critical perspective on mainstream cinema.\n- **Review Behavior:** The user articulates clear opinions in reviews, providing qualitative assessments rather than just numerical ratings, which shows a thoughtful engagement with the content they consume.\n\nOverall, the user leans towards a critical appraisal of movies, looks for depth and quality rather than just entertainment value, and prefers physical formats, indicating a traditional approach to media consumption.",
+  "metrics": {
+    "rouge1_f": 0.10582010582010581,
+    "rouge2_f": 0.0106951871657754,
+    "rougeL_f": 0.08465608465608467,
+    "meteor": 0.14375000000000002,
+    "bleu1": 0.09042553191489362,
+    "bleu2": 0.006953840623693442,
+    "bleu3": 0.002962412333252288,
+    "bleu4": 0.0019361597977952754,
+    "bertscore_precision": 0.373596727848053,
+    "bertscore_recall": 0.3507702052593231,
+    "bertscore_f1": 0.3618238568305969
+  }
+}

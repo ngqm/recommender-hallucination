@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Cai Cosmetics Gel Eyeliner & Brush 2-Piece Set Stay All Day Waterproof (Brown)\nReview Date: 2019/02/14\nStore: Cai Cosmetics New York\nAverage Rating: 3.5\nProduct Details: {'Brand': 'Cai Cosmetics New York', 'Item Form': 'Gel', 'Finish Type': 'Natural', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 1 inches; 0.16 Ounces', 'UPC': '844952182489'}\nReview Text: It stays put..except 4 it dries out 2 fast..other than that..I would of gave it 5 \ud83c\udf1f\nReview Title: Overallll greatttt product)..\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Cai Cosmetics Gel Eyeliner & Brush 2-Piece Set Stay All Day Waterproof (Brown)\nCai Cosmetics New York\n{'Brand': 'Cai Cosmetics New York', 'Item Form': 'Gel', 'Finish Type': 'Natural', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 1 inches; 0.16 Ounces', 'UPC': '844952182489'}\nIt stays put..except 4 it dries out 2 fast..other than that..I would of gave it 5 \ud83c\udf1f\nOverallll greatttt product)..",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user prefers cosmetics, particularly eyeliners with a gel formulation that offers a natural finish and stays put throughout the day. They appear to value reliability but have concerns about product longevity, specifically the tendency of products to dry out quickly.\n\n- **Rating Tendencies:** While the user gives a moderately positive review, rating the product 4 out of 5 stars, they express a desire for improvements, indicating a discerning view on product performance. They acknowledge effectiveness but are critical of certain features that may impact usability.\n\n- **Brand Affinity:** The user engages with specific brands that offer quality cosmetic products, reflecting brand loyalty to those that meet their standards.\n\n- **Overall Behavior:** The interaction suggests that the user is practical in their purchasing choices and seeks value for money. They may exhibit a balanced approach to reviews, highlighting both positive aspects and areas for improvement within products.\n\nThis profile indicates a conscientious consumer focused on cosmetics that deliver long-lasting and effective results, showing room for brand and product exploration based on personal experience.",
+  "metrics": {
+    "rouge1_f": 0.152,
+    "rouge2_f": 0.008064516129032258,
+    "rougeL_f": 0.08800000000000001,
+    "meteor": 0.1214392006802721,
+    "bleu1": 0.09132420091324199,
+    "bleu2": 0.020467495030243366,
+    "bleu3": 0.005779494894977135,
+    "bleu4": 0.0030747086918588647,
+    "bertscore_precision": 0.37474530935287476,
+    "bertscore_recall": 0.3498935103416443,
+    "bertscore_f1": 0.36189326643943787
+  }
+}

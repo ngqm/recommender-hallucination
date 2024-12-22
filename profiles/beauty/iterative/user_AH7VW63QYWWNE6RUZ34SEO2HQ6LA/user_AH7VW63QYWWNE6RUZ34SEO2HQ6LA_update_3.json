@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 265 Pieces Dangle Nail Piercing Charms Set Cute Bear Charm Pendants 3D Gummy Gradient Resin Pendants Nail Jewelry Rings with Nail Art Piercing Tool Hand Drill for Acrylic Nails Jewelry Making\nReview Date: 2022/10/25\nStore: Zhehao\nAverage Rating: 4.1\nProduct Details: {'Package Dimensions': '5.75 x 4.69 x 0.67 inches; 3.53 Ounces'}\nReview Text: None\nReview Title: None\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "LordHighting 2600 Pieces Clear Hotfix AB Rhinestones, 6 Mixed Sizes Crystal Flatback Rhinestones for Nail Art, 3D Diamonds Nail Charms, DIY Crafts Face Phones Clothes Shoes Jewelry Bag\nLordHighting\n{'Product Dimensions': '3.5 x 2.8 x 0.5 inches; 1.52 Ounces'}\nGood\nNone\nLordHighting 2600 Pieces Clear Hotfix Rhinestones, 6 Mixed Sizes Crystal Flatback Rhinestones for Nail Art, 3D White Diamonds Nail Charms, DIY Crafts Face Phones Clothes Shoes Jewelry Bag\nLordHighting\n{'Product Dimensions': '3.5 x 2.8 x 0.5 inches; 1.48 Ounces'}\nGood\nNone\n265 Pieces Dangle Nail Piercing Charms Set Cute Bear Charm Pendants 3D Gummy Gradient Resin Pendants Nail Jewelry Rings with Nail Art Piercing Tool Hand Drill for Acrylic Nails Jewelry Making\nZhehao\n{'Package Dimensions': '5.75 x 4.69 x 0.67 inches; 3.53 Ounces'}\nNone\nNone",
+  "profile": "**Updated User Profile Summary:**\n\n- **Creative Interests:** The user continues to engage actively in creative and DIY activities, particularly in nail art and crafting. Their enthusiasm for personalized artistic expression remains a defining trait.\n\n- **Product Quality:** The user has expressed a growing concern regarding product quality, as indicated by a recent rating of 3.0 for a charm set. This suggests a more critical approach to evaluating materials, alongside an unwavering commitment to high standards that influences their purchases.\n\n- **Aesthetic Appeal:** Aesthetic considerations remain paramount for the user, who has a clear preference for visually striking decorative elements. Their inclination towards unique and playful charms aligns with their desire for creativity in projects.\n\n- **Versatility:** The selection of diverse charm sizes reflects the user's adaptability in various projects, showcasing their ability to incorporate different design elements into their nail art and crafting.\n\n- **DIY Enthusiasm:** The user continues to enjoy customizing items across various mediums, further emphasizing an ongoing interest in fashion and accessory personalization through creative DIY efforts.\n\nOverall, this profile highlights a dedication to quality craftsmanship, along with a strong commitment to aesthetic beauty. The recent interaction indicates a shift towards a more discerning evaluation of products while still maintaining a vibrant and creative approach to their projects.",
+  "metrics": {
+    "rouge1_f": 0.12716763005780346,
+    "rouge2_f": 0.01744186046511628,
+    "rougeL_f": 0.07514450867052024,
+    "meteor": 0.10355609770671331,
+    "bleu1": 0.0576923076923077,
+    "bleu2": 0.004719642176587362,
+    "bleu3": 0.0020514746133393556,
+    "bleu4": 0.0013538368452335665,
+    "bertscore_precision": 0.38108399510383606,
+    "bertscore_recall": 0.3474388122558594,
+    "bertscore_f1": 0.3634845018386841
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nReview Text: I loved this movie! Such love and devotion John May gave to others freely.<br />No one should die without acknowledgement of living.\nReview Title: Very good movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Uberto Pasolini'], 'Producers': ['Ceri Hughes', 'Uberto Pasolini', 'Marco Valerio Pugini', 'Christopher Simon', 'Barnaby Southcombe'], 'Starring': ['Eddie Marsan', 'Joane Froggatt'], 'Studio': ['Redwave Films']}\nI loved this movie! Such love and devotion John May gave to others freely.<br />No one should die without acknowledgement of living.\nVery good movie",
+  "profile": "**User Profile Summary:**\n\n- **Overall Sentiment**: Positive towards content focused on deep emotional themes and human connection.\n- **Content Preference**: Enjoys films with elements of love, devotion, and acknowledgment of life experiences.\n- **Tolerant of Mature Themes**: Comfortable with content that includes violence, substance use, and foul language, suggesting a mature viewing preference.\n- **Language Preference**: Favors English audio and appreciates subtitles, indicating a preference for accessibility in language.\n- **Engagement with Film**: Values storytelling that emphasizes character dedication and recognition of life, suggesting a preference for narratives that explore personal relationships and emotional depth. \n\nThis initial interaction indicates that the user seeks out films that resonate on a humanistic level and appreciates the artistry behind storytelling, particularly when it highlights significant personal themes.",
+  "metrics": {
+    "rouge1_f": 0.18579234972677594,
+    "rouge2_f": 0.044198895027624314,
+    "rougeL_f": 0.1311475409836066,
+    "meteor": 0.09715994020926758,
+    "bleu1": 0.12500000000000003,
+    "bleu2": 0.008651606752574788,
+    "bleu3": 0.0035592772437546298,
+    "bleu4": 0.0022863903444496334,
+    "bertscore_precision": 0.42203623056411743,
+    "bertscore_recall": 0.40755510330200195,
+    "bertscore_f1": 0.4146692752838135
+  }
+}

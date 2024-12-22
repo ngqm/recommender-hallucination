@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Embryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\nReview Date: 2019/11/25\nAverage Rating: 3.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nReview Text: This is great toner. The scent is nice and it leaves my face feeling fresh and clean.\nReview Title: Nice scent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JOYYUM 1000W 2-in-1 Hot Air Spin Brush Styler Auto-rotating Negative Ionic Hair Curler Dryer Brush, 1 1/2 Inch and 2 Inch Brush Attachments, Lavander Fog\nJOYYUM\n{'Brand': 'JOYYUM', 'Material': 'Titanium', 'Power Source': 'Corded Electric', 'Special Feature': 'Comb, Portable, Massage, Hot', 'Recommended Uses For Product': 'Curling', 'Package Dimensions': '16.3 x 5.4 x 3.2 inches; 1.85 Pounds', 'UPC': '787414814279', 'Manufacturer': 'JOYYUM'}\nI have mixed feelings about this dryer.  It does a nice job over all but has some problems.  It takes a bit for it to heat up and would take forever to actually dry wet hair. It works well on lightly damp hair.  It has a button that spins the barrel different direction and it\u2019s quite easy to use, but the motor to turn the barrel isn\u2019t very strong and it take a bit to get going.  My biggest complaint is the sound.  It is very loud with a high pitched wail this is especially problematic because you use it right next to your ear.\nVery loud.\nEmbryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nThis is great toner. The scent is nice and it leaves my face feeling fresh and clean.\nNice scent",
+  "profile": "**User Profile Summary:**\n\n- **Product Interests:** The user has a strong interest in hair styling tools that combine multiple functions, such as curling and drying capabilities. Recently, they have also shown interest in skincare products, like facial toners, indicating a broader interest in personal care.\n- **Performance Expectations:** Prefers efficiency in performance, opting for items that work best on lightly damp hair rather than completely wet. This efficiency extends to skincare, valuing products that deliver noticeable benefits.\n- **Sensitivity to Noise:** Sensitive to noise levels, experiencing discomfort with loud operations. This sensitivity is crucial in evaluating both hair and skincare devices.\n- **Functionality vs. Quality:** Appreciates innovative features in products but remains cautious, particularly regarding execution aspects such as heat-up time for tools and overall effectiveness for skincare. \n- **Overall Experience:** Decisions are influenced by a balance between sought-after features, practicality, user-friendliness, and potential drawbacks like sound and effectiveness.\n- **Product Ratings:** Tends to provide moderate ratings (around 3 stars), although they have awarded higher ratings (5 stars) to products that exceed expectations, indicating a discerning approach and a willingness to acknowledge quality when experienced.\n\nThis updated profile reflects the user's growing interest in skincare while maintaining a focus on reliable, efficient devices that prioritize both performance and user comfort.",
+  "metrics": {
+    "rouge1_f": 0.2460136674259681,
+    "rouge2_f": 0.02288329519450801,
+    "rougeL_f": 0.1002277904328018,
+    "meteor": 0.16117682060238694,
+    "bleu1": 0.23409820743044393,
+    "bleu2": 0.05688104746990047,
+    "bleu3": 0.028206248875529468,
+    "bleu4": 0.016717703252249538,
+    "bertscore_precision": 0.40342867374420166,
+    "bertscore_recall": 0.4432387351989746,
+    "bertscore_f1": 0.42239776253700256
+  }
+}

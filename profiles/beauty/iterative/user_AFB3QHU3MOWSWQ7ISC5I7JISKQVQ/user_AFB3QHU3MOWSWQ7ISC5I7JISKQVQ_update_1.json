@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nReview Date: 2020/08/04\nStore: Natwag\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nReview Text: I strive to buy products that will cut costs in the long run but that also help the environment. I wear makeup every day and use cotton rounds to remove my makeup which can cost a lot overly time. I switched to these reusable wash pads and not only are they easy to hold because of the hook but they remove my makeup without being harsh on my skin. The wash bag makes it easy to just throw in the washer and protect the quality of the cloths just as I would use for delicates.\nReview Title: Durable pads for everyday makeup use\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nNatwag\n{'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nI strive to buy products that will cut costs in the long run but that also help the environment. I wear makeup every day and use cotton rounds to remove my makeup which can cost a lot overly time. I switched to these reusable wash pads and not only are they easy to hold because of the hook but they remove my makeup without being harsh on my skin. The wash bag makes it easy to just throw in the washer and protect the quality of the cloths just as I would use for delicates.\nDurable pads for everyday makeup use",
+  "profile": "**User Summary:**\n\n- **Eco-Conscious:** Prefers environmentally friendly products that offer cost savings and sustainability over time.\n- **Everyday Makeup User:** Incorporates makeup removal into daily routines, indicating a preference for practical, high-functioning beauty accessories.\n- **Preference for Reusability:** Values reusable items over single-use options, showing a trend towards sustainable choices in skincare and beauty.\n- **Gentle on Skin:** Looks for products that are effective yet not harsh, suggesting a concern for skin health and comfort.\n- **Convenience Seekers:** Appreciates easy maintenance, as evidenced by the preference for items that are machine washable with protective features, highlighting a need for practical solutions in beauty routines.\n- **Positive Product Experience:** Reports satisfaction with product durability and effectiveness, indicating a tendency to favor reliable and well-reviewed items.\n\nOverall, this user values sustainability, convenience, and effective skin-friendly solutions in their beauty and skincare purchases.",
+  "metrics": {
+    "rouge1_f": 0.24422442244224424,
+    "rouge2_f": 0.019933554817275746,
+    "rougeL_f": 0.10561056105610561,
+    "meteor": 0.16057397567689155,
+    "bleu1": 0.24352002451217886,
+    "bleu2": 0.05036567728043504,
+    "bleu3": 0.010992199497624368,
+    "bleu4": 0.005142005214257765,
+    "bertscore_precision": 0.41856053471565247,
+    "bertscore_recall": 0.44510358572006226,
+    "bertscore_f1": 0.43142417073249817
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Beachwaver Co. S1.25 Dual Voltage, White\nReview Date: 2019/07/25\nAverage Rating: 4.1\nProduct Details: {'Product Benefits': 'This ceramic, rotating curling iron provides easy, quality waves in minutes!', 'Shape': 'Barrel', 'Brand': 'The Beachwaver Co.', 'Hair Type': 'All', 'Material': 'Ceramic', 'Product Dimensions': '15.75 x 1.75 x 2 inches; 15.2 Ounces', 'Item model number': '4354716121', 'UPC': '817741020620 817741022730', 'Manufacturer': 'AmazonUs/SB10T'}\nReview Text: This curling wand is awesome... especially for long hair... it has digital adjustable setting... The wand is 1.25\" width... it's 5.5\" length of wand...  it has a swivel cord... the rotating wand takes this curling wand to a whole other level... it also has a rotating fast or slow button... strong and sturdy and made of great quality...\nReview Title: Rotating curling iron\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Beachwaver Co. S1.25 Dual Voltage, White\n{'Product Benefits': 'This ceramic, rotating curling iron provides easy, quality waves in minutes!', 'Shape': 'Barrel', 'Brand': 'The Beachwaver Co.', 'Hair Type': 'All', 'Material': 'Ceramic', 'Product Dimensions': '15.75 x 1.75 x 2 inches; 15.2 Ounces', 'Item model number': '4354716121', 'UPC': '817741020620 817741022730', 'Manufacturer': 'AmazonUs/SB10T'}\nThis curling wand is awesome... especially for long hair... it has digital adjustable setting... The wand is 1.25\" width... it's 5.5\" length of wand...  it has a swivel cord... the rotating wand takes this curling wand to a whole other level... it also has a rotating fast or slow button... strong and sturdy and made of great quality...\nRotating curling iron",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Enthusiast:** Demonstrates a strong interest in hair styling tools, specifically curling irons that offer quality performance and convenience.\n- **Preference for Versatility:** Values products that cater to different hair types and lengths, indicating a focus on versatility in hair tools.\n- **Quality and Functionality:** Prioritizes high-quality materials (e.g., ceramic) and features like adjustable settings, indicating a preference for durable and effective products.\n- **User Experience:** Emphasizes user-friendly design aspects, such as rotating functionality and swivel cords, suggesting a preference for ease of use in hair styling.\n- **Attention to Performance:** Rates products highly (5.0) based on performance and functionality, indicating a discerning attitude towards product effectiveness. \n\nOverall, this user favors high-quality, versatile hair styling tools that provide an efficient and enjoyable styling experience.",
+  "metrics": {
+    "rouge1_f": 0.24193548387096775,
+    "rouge2_f": 0.032520325203252036,
+    "rougeL_f": 0.12096774193548387,
+    "meteor": 0.14839905376599488,
+    "bleu1": 0.1853932584269663,
+    "bleu2": 0.010234351660634897,
+    "bleu3": 0.0039042354558672036,
+    "bleu4": 0.0024148629515322456,
+    "bertscore_precision": 0.4286596477031708,
+    "bertscore_recall": 0.4420774579048157,
+    "bertscore_f1": 0.4352651834487915
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: C.O. Bigelow No. 007 Dr Hiosous Quince Hand Lotion, 4 Ounces\nReview Date: 2020/05/31\nStore: C. O. Bigelow\nAverage Rating: 4.6\nProduct Details: {'Brand': 'C. O. Bigelow', 'Item Form': 'Lotion', 'Unit Count': '4 Ounce', 'Number of Items': '1', 'Use for': 'Hands', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.6 x 2 x 0.7 inches; 5.61 Ounces', 'Item model number': '20002240'}\nReview Text: This is a nice hand cream. The tube is a generous size. I've used C.O. Bigelow products in the past and have always enjoyed them so I was interested in trying this hand cream. It's very moisturizing! I usually use it after washing my hands or if I wake up in the night with dry hands from air conditioning. It's not so thick that it's hard to get out of the tube, and it's not very greasy, but still feels really good and moisturizing, taking a minute to really absorb. The smell is great! I wasn't really familiar with the scent of quince before. All I knew about it was that it was a fruit. The smell is really nice, I don't even know how to describe it! Subtly fruity, maybe a little spicy too, definitely enjoyable! This is a great product and will last a long time.\nReview Title: Lovely!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "C.O. Bigelow No. 007 Dr Hiosous Quince Hand Lotion, 4 Ounces\nC. O. Bigelow\n{'Brand': 'C. O. Bigelow', 'Item Form': 'Lotion', 'Unit Count': '4 Ounce', 'Number of Items': '1', 'Use for': 'Hands', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.6 x 2 x 0.7 inches; 5.61 Ounces', 'Item model number': '20002240'}\nThis is a nice hand cream. The tube is a generous size. I've used C.O. Bigelow products in the past and have always enjoyed them so I was interested in trying this hand cream. It's very moisturizing! I usually use it after washing my hands or if I wake up in the night with dry hands from air conditioning. It's not so thick that it's hard to get out of the tube, and it's not very greasy, but still feels really good and moisturizing, taking a minute to really absorb. The smell is great! I wasn't really familiar with the scent of quince before. All I knew about it was that it was a fruit. The smell is really nice, I don't even know how to describe it! Subtly fruity, maybe a little spicy too, definitely enjoyable! This is a great product and will last a long time.\nLovely!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Strong inclination towards moisturizing hand lotions, valuing both effectiveness and pleasant scents.\n- **Brand Loyalty:** Established preference for C.O. Bigelow, indicating satisfaction with previous products from the brand.\n- **Texture Preference:** Appreciates lotions that are not overly thick or greasy, favoring those that absorb well without leaving a heavy residue.\n- **Usage Habits:** Utilizes hand cream regularly, particularly after hand washing or in response to dryness caused by environmental factors (e.g., air conditioning).\n- **Fragrance Appreciation:** Enjoys subtly fruity and unique scents, finding new fragrances appealing and worthwhile to explore.\n- **Overall Sentiment:** Tends to rate products highly, likely due to an emphasis on quality and personal experience. \n\nThis user shows a consistent appreciation for effective skincare solutions, emphasizing comfort and sensory experience in their product choices.",
+  "metrics": {
+    "rouge1_f": 0.2639296187683285,
+    "rouge2_f": 0.03539823008849557,
+    "rougeL_f": 0.14076246334310852,
+    "meteor": 0.1559788011867578,
+    "bleu1": 0.20302101381915774,
+    "bleu2": 0.05926122115205797,
+    "bleu3": 0.023030768585096954,
+    "bleu4": 0.008084795373982292,
+    "bertscore_precision": 0.44491907954216003,
+    "bertscore_recall": 0.4669176936149597,
+    "bertscore_f1": 0.45565304160118103
+  }
+}

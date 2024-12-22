@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Brush, Bamboo Bath Brush for Back Scrubber ESARORA Soft Natural Bristles Back Brush with Long Handle for Exfoliating Skin & Wood Beads for Massage - Use Wet or Dry - Suitable for Men and Women\nReview Date: 2017/03/10\nStore: Esarora\nAverage Rating: 4.0\nProduct Details: {'Material': 'Boar bristle, Bamboo', 'Brand': 'Esarora', 'Color': 'Yellow, Bath Brush', 'Item Dimensions LxWxH': '16.14 x 2.2 x 3.15 inches', 'Product Benefits': 'Softening,Massage,Promote Blood Circulation,Pores,Exfoliating,Blood Flow,Blood Circulation,Dirt', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '16.14 x 2.2 x 3.15 inches; 8.43 Ounces', 'Item model number': 'A1', 'UPC': '759218239978', 'Manufacturer': 'ESARORA'}\nReview Text: Brush has bee great after 2 months of usage.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Brush, Bamboo Bath Brush for Back Scrubber ESARORA Soft Natural Bristles Back Brush with Long Handle for Exfoliating Skin & Wood Beads for Massage - Use Wet or Dry - Suitable for Men and Women\nEsarora\n{'Material': 'Boar bristle, Bamboo', 'Brand': 'Esarora', 'Color': 'Yellow, Bath Brush', 'Item Dimensions LxWxH': '16.14 x 2.2 x 3.15 inches', 'Product Benefits': 'Softening,Massage,Promote Blood Circulation,Pores,Exfoliating,Blood Flow,Blood Circulation,Dirt', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '16.14 x 2.2 x 3.15 inches; 8.43 Ounces', 'Item model number': 'A1', 'UPC': '759218239978', 'Manufacturer': 'ESARORA'}\nBrush has bee great after 2 months of usage.\nFive Stars",
+  "profile": "User Summary:\n\nThe user has a keen interest in personal care products, particularly those that enhance the bathing experience. They appreciate high-quality materials, demonstrated by their selection of a bamboo bath brush with natural bristles, highlighting their preference for eco-friendly and natural options. The user places great importance on functionality, as indicated by their emphasis on benefits like exfoliation, skin softening, and promoting blood circulation. \n\nThey also favor products that offer versatility for wet or dry use, suggesting a practical approach in their choices. The user exhibits a positive sentiment towards the products they purchase, as reflected in their high ratings and satisfaction expressed in reviews. Overall, their behavior reveals a consistent trend toward effective, well-reviewed personal care items that provide tangible benefits. \n\nIn summary, the user's preferences lean towards eco-conscious, multifunctional personal care products with a focus on natural materials and skincare benefits.",
+  "metrics": {
+    "rouge1_f": 0.22568093385214008,
+    "rouge2_f": 0.07058823529411765,
+    "rougeL_f": 0.132295719844358,
+    "meteor": 0.16108998732572877,
+    "bleu1": 0.13333333333333333,
+    "bleu2": 0.009016696346674328,
+    "bleu3": 0.00368102777766019,
+    "bleu4": 0.0023555811341856767,
+    "bertscore_precision": 0.3766748905181885,
+    "bertscore_recall": 0.3880484402179718,
+    "bertscore_f1": 0.38227710127830505
+  }
+}

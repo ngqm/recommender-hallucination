@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/04/26\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Justin Kurzel'], 'Producers': ['Jean-Julien Baronnet', 'Patrick Crowley', 'Michael Fassbender', 'Gerard Guillemot', 'Frank Marshall', 'Conor Mccaughan', 'Arnon Milchan'], 'Starring': ['Michael Fassbender', 'Marion Cotillard', 'Jeremy Irons'], 'Studio': ['20th Century Fox']}\nReview Text: good flick\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Theodore Melfi'], 'Producers': ['Donna Gigliotti', 'Peter Chernin', 'Jenno Topping', 'Pharrell Williams', 'Theodore Melfi'], 'Starring': ['Taraji P. Henson', 'Janelle Monae', 'Kevin Costner'], 'Studio': ['20th Century Fox']}\ngreat\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Justin Kurzel'], 'Producers': ['Jean-Julien Baronnet', 'Patrick Crowley', 'Michael Fassbender', 'Gerard Guillemot', 'Frank Marshall', 'Conor Mccaughan', 'Arnon Milchan'], 'Starring': ['Michael Fassbender', 'Marion Cotillard', 'Jeremy Irons'], 'Studio': ['20th Century Fox']}\ngood flick\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Continues to show a strong preference for media with compelling storytelling and engaging character dynamics.\n- **Language and Accessibility:** Maintains a preference for content with multiple audio options, including enhanced dialogue features, highlighting sensitivity to sound clarity and a possible hearing preference.\n- **Genre Tendencies:** Remains open to content with adult themes, as evidenced by a consistent appreciation for works featuring violence, foul language, and sexual content.\n- **Rating Behavior:** While the user has a high average rating of 4.9, they recently rated a product 5.0, indicating an uplifting evaluation of experiences. The lower average rating of 4.4 suggests discernment in newer selections, without a drastic shift in positivity. \n- **Engagement Style:** Demonstrates a strong emotional connection to narratives and characters. A recent review, succinctly stating \"good flick\" along with a five-star rating, reflects satisfaction and enjoyment of character-driven content.\n\nOverall, this user appreciates high-quality, character-driven media that includes accessibility features and adult themes, while remaining positively engaged with their viewing experiences, as shown by consistently high ratings and positive reviews.",
+  "metrics": {
+    "rouge1_f": 0.11307420494699646,
+    "rouge2_f": 0.028469750889679714,
+    "rougeL_f": 0.10600706713780918,
+    "meteor": 0.07010807772782866,
+    "bleu1": 0.10274655670012249,
+    "bleu2": 0.020593935304279866,
+    "bleu3": 0.005602228490564347,
+    "bleu4": 0.0029251403831331677,
+    "bertscore_precision": 0.36042630672454834,
+    "bertscore_recall": 0.34589481353759766,
+    "bertscore_f1": 0.3530110716819763
+  }
+}

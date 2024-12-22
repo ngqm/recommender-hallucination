@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/14\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nReview Text: We love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nReview Title: Simply one of our favorite shows to watch!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nWe love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nSimply one of our favorite shows to watch!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nWe love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nSimply one of our favorite shows to watch!",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys shows with engaging narratives and rich visual content, particularly those showcasing unique locations and cultures.\n- **Family-Oriented Viewing:** Prefers family-friendly programming that can be watched collectively, emphasizing the importance of shared experiences with loved ones.\n- **Interest in Nature and Exploration:** Exhibits a strong affinity for outdoor themes and adventure, highlighting a passion for natural beauty and exploration.\n- **Regular Viewing Habit:** Looks forward to weekly shows, demonstrating commitment to current series and a reliable viewing routine.\n- **Positive Engagement:** Tends to provide high ratings, reflecting satisfaction with chosen content, and consistently expresses enthusiasm for programs that resonate with personal aspirations.\n- **Dream of Unique Living:** Has a long-standing desire to live in unique locales like Alaska, which enhances the enjoyment of content featuring breathtaking scenery and intriguing cultural narratives.\n\nThis user clearly values shows that not only entertain but also inspire a connection to nature and the exploration of diverse environments, making weekly viewing an anticipated family affair.",
+  "metrics": {
+    "rouge1_f": 0.2516556291390728,
+    "rouge2_f": 0.046666666666666676,
+    "rougeL_f": 0.1456953642384106,
+    "meteor": 0.13561024941356695,
+    "bleu1": 0.19159957504408273,
+    "bleu2": 0.049586248812227514,
+    "bleu3": 0.010185627705362592,
+    "bleu4": 0.0046218091215190224,
+    "bertscore_precision": 0.37713196873664856,
+    "bertscore_recall": 0.4030647277832031,
+    "bertscore_f1": 0.3896673619747162
+  }
+}

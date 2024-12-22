@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ebingoo Blonde Ombre Lace Front Wigs Side Part Natural Long Wave Synthetic Heat Resistant Fiber Wig for Women 24 Inch\nReview Date: 2017/02/02\nStore: Ebingoo\nAverage Rating: 4.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.5 x 1.89 x 1.5 inches; 8.8 Ounces', 'UPC': '736950486662'}\nReview Text: good wig\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Ebingoo Blonde Ombre Lace Front Wigs Side Part Natural Long Wave Synthetic Heat Resistant Fiber Wig for Women 24 Inch\nEbingoo\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.5 x 1.89 x 1.5 inches; 8.8 Ounces', 'UPC': '736950486662'}\ngood wig\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Wigs, specifically lace front and synthetic options.\n- **Style Preference**: Natural-looking styles with wave patterns; blonde and ombre colors.\n- **Purchase Behavior**: Engages with products that offer a blend of quality and affordability, evidenced by a positive rating of 4.0.\n- **Rating Consistency**: Generally favorable ratings suggest a satisfaction with product performance, likely prioritizing both aesthetic and functionality.\n- **Review Characteristics**: Concise feedback indicating efficiency in communication; prefers not to elaborate unnecessarily. \n\nThis user appears to value wigs that are stylish yet practical, reflecting a preference for products that enhance appearance while being easy to manage.",
+  "metrics": {
+    "rouge1_f": 0.15068493150684933,
+    "rouge2_f": 0.013888888888888892,
+    "rougeL_f": 0.0821917808219178,
+    "meteor": 0.15833145709032231,
+    "bleu1": 0.05517241379310345,
+    "bleu2": 0.006189844605901729,
+    "bleu3": 0.00299231850542315,
+    "bleu4": 0.0020841730590044592,
+    "bertscore_precision": 0.4329322278499603,
+    "bertscore_recall": 0.3694804906845093,
+    "bertscore_f1": 0.3986975848674774
+  }
+}

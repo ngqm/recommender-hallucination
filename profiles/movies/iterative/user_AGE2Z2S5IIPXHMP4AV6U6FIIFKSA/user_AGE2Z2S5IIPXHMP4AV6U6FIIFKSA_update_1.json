@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/10/07\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Peter Berg'], 'Producers': ['Brian Goldner', 'Scott Stuber', 'Peter Berg', 'Sarah Aubrey', 'Duncan Henderson', 'Bennett Schneir'], 'Starring': ['Taylor Kitsch', 'Alexander Skarsg\u00e5rd', 'Rihanna'], 'Studio': ['Universal Studios']}\nReview Text: Not much of a movie, great special effects, dumb ideas, good cast, bad acting across the board by known's and old timers.\nReview Title: Eye Candy, Bad Acting, dumb premise,\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Peter Berg'], 'Producers': ['Brian Goldner', 'Scott Stuber', 'Peter Berg', 'Sarah Aubrey', 'Duncan Henderson', 'Bennett Schneir'], 'Starring': ['Taylor Kitsch', 'Alexander Skarsg\u00e5rd', 'Rihanna'], 'Studio': ['Universal Studios']}\nNot much of a movie, great special effects, dumb ideas, good cast, bad acting across the board by known's and old timers.\nEye Candy, Bad Acting, dumb premise,",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** User exhibits a critical perspective, often rating products inconsistently; a preference for visual appeal (noted enjoyment of special effects) while showing dissatisfaction with narrative and acting quality.\n- **Content Preferences:** Enjoys action-oriented content with elements such as violence and strong language but shows a strong aversion to poor storytelling and acting, indicating a high standard for narrative coherence.\n- **Language and Accessibility Features:** Preference for English audio with accessibility options like audio description and subtitles, suggesting a focus on inclusive viewing experiences.\n- **Viewer Demographic Awareness:** Engagement with productions featuring both popular young stars and seasoned actors indicates a broad interest in diverse cast dynamics, although may prioritize performance quality over star power.\n- **Critique Style:** User articulates critiques that emphasize the juxtaposition of visual aesthetics against deeper flaws in writing and performance, highlighting a thoughtful approach to media consumption. \n\nOverall, this user values high-quality production and storytelling, with a notable emphasis on visual effects but remains critical of poor execution in acting and narrative.",
+  "metrics": {
+    "rouge1_f": 0.1646090534979424,
+    "rouge2_f": 0.024896265560165973,
+    "rougeL_f": 0.11522633744855966,
+    "meteor": 0.10378899404135997,
+    "bleu1": 0.11059907834101382,
+    "bleu2": 0.022628141110071023,
+    "bleu3": 0.006198497526922615,
+    "bleu4": 0.003247965300759181,
+    "bertscore_precision": 0.41055136919021606,
+    "bertscore_recall": 0.39773112535476685,
+    "bertscore_f1": 0.40403956174850464
+  }
+}

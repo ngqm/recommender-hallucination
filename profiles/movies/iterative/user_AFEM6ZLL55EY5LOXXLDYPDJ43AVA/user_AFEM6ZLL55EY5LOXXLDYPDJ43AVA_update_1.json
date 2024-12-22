@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/06/06\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Starzak', 'Christopher Sadler', 'Jay Grace', 'Lee Wilton', 'Seamus Malone', 'Jean-Philippe Vine', 'Richard Webber', 'Will Becher', 'Mike Mort', 'Dave Osmand'], 'Starring': ['John Sparkes', 'Justin Fletcher', 'Kate Harbour'], 'Studio': ['Aardman Animations']}\nReview Text: These shows are so clever. My little 3 year old grand daughter & I had a grand time watching all the high jinks. The humor, the expressions & grumbled by the characters is most enjoyable. I highly recommend this series for all ages.\nReview Title: Shaun the Sheep Season 1\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Starzak', 'Christopher Sadler', 'Jay Grace', 'Lee Wilton', 'Seamus Malone', 'Jean-Philippe Vine', 'Richard Webber', 'Will Becher', 'Mike Mort', 'Dave Osmand'], 'Starring': ['John Sparkes', 'Justin Fletcher', 'Kate Harbour'], 'Studio': ['Aardman Animations']}\nThese shows are so clever. My little 3 year old grand daughter & I had a grand time watching all the high jinks. The humor, the expressions & grumbled by the characters is most enjoyable. I highly recommend this series for all ages.\nShaun the Sheep Season 1",
+  "profile": "User Summary:\n\n- **Content Enjoyment**: This user shows a strong preference for clever and humorous animated content suitable for children and families. \n- **Target Audience**: Engages with content designed for young children, likely enjoying shared viewing experiences with grandchildren.\n- **Language Preference**: Favors English audio and subtitles, indicating a preference for content in their primary language.\n- **Quality Rating**: Consistently rates content highly, as seen in the average rating of 4.8, suggesting an appreciation for well-produced and entertaining shows.\n- **Studio Affinity**: Shows a specific appreciation for productions by notable animation studios, indicating a preference for quality animated entertainment.\n- **Recommendation Tendency**: Demonstrates a tendency to recommend engaging shows that appeal to a wide age range, highlighting a focus on family-friendly content.\n\nOverall, this user values humor, quality animation, and content that fosters enjoyable family experiences, particularly with young children.",
+  "metrics": {
+    "rouge1_f": 0.1607142857142857,
+    "rouge2_f": 0.009009009009009009,
+    "rougeL_f": 0.08928571428571427,
+    "meteor": 0.11889460154241646,
+    "bleu1": 0.1595744680851064,
+    "bleu2": 0.02921197359858853,
+    "bleu3": 0.00771263806661179,
+    "bleu4": 0.003968343718518594,
+    "bertscore_precision": 0.4032367467880249,
+    "bertscore_recall": 0.4165726602077484,
+    "bertscore_f1": 0.40979623794555664
+  }
+}

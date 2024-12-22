@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/07/24\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['The Spierig Brothers'], 'Producers': ['Tim McGahan', 'Brett Tomberlin'], 'Starring': ['Helen Mirren', 'Jason Clarke', 'Sarah Snook'], 'Studio': ['Lionsgate']}\nReview Text: Loved this movie\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Lutter'], 'Producers': ['Jeremy Lutter', 'Jocelyn Russell'], 'Starring': ['Jessica McLeod', 'Hannah Cheramy', 'John Emmet Tracy']}\nVery slow movie\nSlow\n{'Content advisory': ['Violence', 'frightening scenes', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['The Spierig Brothers'], 'Producers': ['Tim McGahan', 'Brett Tomberlin'], 'Starring': ['Helen Mirren', 'Jason Clarke', 'Sarah Snook'], 'Studio': ['Lionsgate']}\nLoved this movie\nGreat movie",
+  "profile": "**Updated User Summary:**\n\n- **Rating Tendencies:** The user generally provides moderate to low ratings (average rating of 3.6), indicating a critical perspective. However, they recently awarded a high rating (5.0) to a movie they loved, suggesting a possible shift or expansion in their criteria for enjoyment.\n\n- **Content Preferences:** They prefer dynamic and engaging content, shown by previous negative feedback on slow-paced movies. The recent positive review indicates a capacity to appreciate high-quality storytelling, even when it includes elements initially deemed sensitive.\n\n- **Content Sensitivity:** The user remains aware of content advisories, indicating a continuing preference for media that minimizes extreme violence, substance use, or overt sexual content, yet they might be open to exceptions if the overall presentation is compelling.\n\n- **Language and Accessibility:** They value English audio and subtitles for clear comprehension, and this remains consistent across their preferences.\n\n- **Overall Critical Viewpoint:** While they typically express dissatisfaction when content doesn't meet expectations, the recent review showcases their ability to recognize and appreciate well-crafted entertainment, suggesting they may adjust their expectations based on storytelling quality.\n\nThe user continues to favor fast-paced and engaging narratives but may be increasingly willing to overlook certain content advisories in favor of strong storytelling and overall production quality.",
+  "metrics": {
+    "rouge1_f": 0.13194444444444445,
+    "rouge2_f": 0.03496503496503496,
+    "rougeL_f": 0.09722222222222221,
+    "meteor": 0.06825938566552901,
+    "bleu1": 0.0846153846153846,
+    "bleu2": 0.005715770522863273,
+    "bleu3": 0.0023308265384997286,
+    "bleu4": 0.0014898727772906235,
+    "bertscore_precision": 0.37619033455848694,
+    "bertscore_recall": 0.33926576375961304,
+    "bertscore_f1": 0.3567752242088318
+  }
+}

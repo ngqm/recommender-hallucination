@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Afro 8 Pack Pre Stretched Braiding Hair Braiding Crochet Hair Extensions Ombre Colors Professional Easy Braids Itch Free Hot Water Setting Kanekalon Synthetic Fiber (16\" 8packs, Tgray)\nReview Date: 2020/11/16\nStore: Afro hair\nAverage Rating: 3.6\nProduct Details: {'Brand': 'Afro hair', 'Material': 'Synthetic', 'Extension Length': '16 Inches', 'Hair Type': 'Kinky', 'Material Feature': 'Natural', 'Package Dimensions': '13.07 x 8.39 x 3.46 inches; 1.04 Pounds', 'UPC': '781829571987'}\nReview Text: Color too dark\nReview Title: Gray is really dark\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Carol\u2019s Daughter Almond Milk Leave In Conditioner with Almond Milk, Aloe Butter and Shea Oil for Extremely Damaged Hair, 8 fl oz\nCarol's Daughter\n['Reverses Damage']\n{'Brand': \"Carol's Daughter\", 'Item Form': 'Liquid', 'Material Feature': 'Natural', 'Hair Type': 'Curly, Damaged, Coily', 'Product Benefits': 'Repairs Damage, Strengthens and Protects Hair, Restores Softness for Over-Processed Hair', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.97 x 1.97 x 7.49 inches; 9.88 Ounces', 'Item model number': 'K4268600', 'UPC': '820645235120 755332169061', 'Manufacturer': \"Carol's Daughter\"}\nLove it\nAs expected\nAfro 8 Pack Pre Stretched Braiding Hair Braiding Crochet Hair Extensions Ombre Colors Professional Easy Braids Itch Free Hot Water Setting Kanekalon Synthetic Fiber (16\" 8packs, Tgray)\nAfro hair\n{'Brand': 'Afro hair', 'Material': 'Synthetic', 'Extension Length': '16 Inches', 'Hair Type': 'Kinky', 'Material Feature': 'Natural', 'Package Dimensions': '13.07 x 8.39 x 3.46 inches; 1.04 Pounds', 'UPC': '781829571987'}\nColor too dark\nGray is really dark",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus:** Maintains a strong interest in products designed for curly, coily, and damaged hair types, with a particular recent engagement in braiding hair extensions.\n- **Quality Concerns:** Shows concern regarding product color accuracy, as indicated by low satisfaction with a dark shade, suggesting a preference for products that meet aesthetic expectations in addition to performance.\n- **Repair and Restoration:** Continues to prioritize items that reverse damage, strengthen, and restore softness, reinforcing a concern for maintaining overall hair health.\n- **Natural Ingredients:** Remains attracted to products with natural components, reflecting a commitment to holistic beauty solutions, despite recent engagement with synthetic materials.\n- **Mixed Product Experience:** While historically enjoying products with high ratings, recent purchase feedback suggests variability in satisfaction, indicating that quality and appearance are significantly influential on purchasing decisions.\n- **Emotional Appeal:** Values straightforward solutions, but the recent negative experience highlights a need for products that align more closely with personal expectations.\n- **Brand Loyalty:** Past engagement with a specific brand is noted, though recent experiences may influence future loyalty based on product effectiveness and aesthetic fulfillment.\n\nThis profile illustrates a consumer focused on repair and aesthetic satisfaction while navigating the balance between natural efficacy and synthetic options.",
+  "metrics": {
+    "rouge1_f": 0.21348314606741572,
+    "rouge2_f": 0.04519774011299435,
+    "rougeL_f": 0.10112359550561797,
+    "meteor": 0.11403627545619117,
+    "bleu1": 0.11985018726591759,
+    "bleu2": 0.00671241099592125,
+    "bleu3": 0.002571404515027376,
+    "bleu4": 0.0015930405103935772,
+    "bertscore_precision": 0.3798125386238098,
+    "bertscore_recall": 0.386721670627594,
+    "bertscore_f1": 0.38323599100112915
+  }
+}

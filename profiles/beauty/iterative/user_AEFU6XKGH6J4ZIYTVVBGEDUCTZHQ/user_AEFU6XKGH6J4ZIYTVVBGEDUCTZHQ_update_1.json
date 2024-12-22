@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ASP Form-A-Nail, 24 Reusable Forms\nReview Date: 2017/03/10\nStore: ASP\nProduct Description: ['Asp Forman ail is a quick and easy way to create a set of acrylic nails. 24 reusable forms. Easy to follow step by step directions.']\nAverage Rating: 3.6\nProduct Details: {'Size': '24 Count (Pack of 1)', 'Material': 'Acrylic', 'Brand': 'ASP', 'Style': 'French', 'Coverage': 'Full Well Tips', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.3 x 4 x 3.5 inches; 1.45 Ounces', 'Item model number': '12443563806', 'UPC': '012443563806', 'Manufacturer': 'STAR NAIL-ASP'}\nReview Text: I just got this product at a beauty supply!<br /><br />I love it!!! First time trying and it turned out awesome!!!!<br /><br />I'm no a nail technician, or any sort of professional but it worked great, I did short, next time I'll do longer, after creating the nail I designed with some crystals!<br /><br />So much cheaper, and I can do whatever I like  going to a nail salon again!!\nReview Title: I wish I knew this trick before!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ASP Form-A-Nail, 24 Reusable Forms\nASP\n['Asp Forman ail is a quick and easy way to create a set of acrylic nails. 24 reusable forms. Easy to follow step by step directions.']\n{'Size': '24 Count (Pack of 1)', 'Material': 'Acrylic', 'Brand': 'ASP', 'Style': 'French', 'Coverage': 'Full Well Tips', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.3 x 4 x 3.5 inches; 1.45 Ounces', 'Item model number': '12443563806', 'UPC': '012443563806', 'Manufacturer': 'STAR NAIL-ASP'}\nI just got this product at a beauty supply!<br /><br />I love it!!! First time trying and it turned out awesome!!!!<br /><br />I'm no a nail technician, or any sort of professional but it worked great, I did short, next time I'll do longer, after creating the nail I designed with some crystals!<br /><br />So much cheaper, and I can do whatever I like  going to a nail salon again!!\nI wish I knew this trick before!",
+  "profile": "**User Profile Summary:**\n\n- **Beauty Enthusiast**: Demonstrates a strong interest in DIY beauty solutions, particularly in nail care and enhancement.\n- **Positive First Experience**: Expressed enthusiasm and satisfaction with the product upon the first use, indicating a willingness to explore new beauty techniques independently.\n- **Cost-Conscious**: Values affordability and cost-saving alternatives to salon services, suggesting a preference for budget-friendly beauty options.\n- **Creative Expression**: Enjoys customizing and designing nails, including the use of embellishments like crystals, indicating a flair for creativity and personal expression in beauty.\n- **Novice to Moderate Skill Level**: Not a professional in nail care but expresses confidence in trying new techniques, reflecting an eagerness to learn and improve in this area.\n- **Desire for Convenience**: Appreciates products that are easy to use with clear directions, indicating a preference for straightforward beauty solutions.\n\nOverall, this user appears to be a creative, cost-conscious beauty enthusiast eager to explore DIY nail art and techniques, valuing positive experiences that enhance their skills and self-expression.",
+  "metrics": {
+    "rouge1_f": 0.21052631578947367,
+    "rouge2_f": 0.006230529595015576,
+    "rougeL_f": 0.10526315789473684,
+    "meteor": 0.12357808689513543,
+    "bleu1": 0.21030561099933354,
+    "bleu2": 0.009334120807691556,
+    "bleu3": 0.0033099581204456222,
+    "bleu4": 0.0019733566431027073,
+    "bertscore_precision": 0.3903052806854248,
+    "bertscore_recall": 0.4169663190841675,
+    "bertscore_f1": 0.4031955301761627
+  }
+}

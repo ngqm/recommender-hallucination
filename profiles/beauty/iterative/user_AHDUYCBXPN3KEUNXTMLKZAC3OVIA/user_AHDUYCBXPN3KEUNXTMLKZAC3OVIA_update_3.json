@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: FIRSTLIKE Invisible Secret Wire Miracle Hair Extensions Fish Line Headband Hairpiece Wavy Curly Synthetic Hairpiece\nReview Date: 2020/08/01\nStore: FIRSTLIKE\nAverage Rating: 2.6\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9 x 4.5 x 1.5 inches; 3.84 Ounces', 'UPC': '796914806776'}\nReview Text: Nice\nReview Title: Hair\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nHair Accessories\n['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\n{'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nYou need to hVe thick hair\nOk\nDesigner Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories\nHair Accessories\n['Designer Fashion Elastic Rhinestone Hairtie Ponytail Holder Headband Jewelry Accessories for Women Girls Hair Band by Hair Accessories']\n{'Age Range (Description)': 'Adult', 'Material': 'Rhinestone', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Hair Accessories', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 5 inches; 1.13 Ounces', 'UPC': '784179363714 619231801227 755332069774'}\nYou need to hVe thick hair\nOk\nFIRSTLIKE Invisible Secret Wire Miracle Hair Extensions Fish Line Headband Hairpiece Wavy Curly Synthetic Hairpiece\nFIRSTLIKE\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9 x 4.5 x 1.5 inches; 3.84 Ounces', 'UPC': '796914806776'}\nNice\nHair",
+  "profile": "**Updated User Profile Summary:**\n\nThis user continues to demonstrate a strong preference for fashion accessories, particularly those that enhance hair aesthetics while ensuring functionality. Their recent purchase of a hairpiece featuring a convenient design aligns with their ongoing pursuit for chic yet practical solutions. The user provided a positive review for this item, indicating a favorable response, especially in relation to its appearance, which suggests an appreciation for stylish accessories.\n\nDespite a pattern of moderate satisfaction reflected in their average rating of 3.0, this new interaction shows a slight improvement in their rating to 4.0 for the latest product, suggesting that they are finding a better balance between quality and usability. Their discerning nature remains evident, as they carefully consider aspects such as effectiveness and elegance, which are crucial for their purchasing decisions.\n\nThe user\u2019s interactions highlight a focused intent to discover versatile, high-quality fashion accessories suited for various hair types and needs. Their thoughtful approach emphasizes the importance of both aesthetic appeal and practical use, indicating a continuous journey toward finding the perfect blend of style and performance in their hair-related accessories.",
+  "metrics": {
+    "rouge1_f": 0.12886597938144329,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08762886597938145,
+    "meteor": 0.0652557319223986,
+    "bleu1": 0.06728456769008384,
+    "bleu2": 0.0046543322428405295,
+    "bleu3": 0.0019137085904372404,
+    "bleu4": 0.0012286153647670488,
+    "bertscore_precision": 0.3178362548351288,
+    "bertscore_recall": 0.32710564136505127,
+    "bertscore_f1": 0.32240432500839233
+  }
+}

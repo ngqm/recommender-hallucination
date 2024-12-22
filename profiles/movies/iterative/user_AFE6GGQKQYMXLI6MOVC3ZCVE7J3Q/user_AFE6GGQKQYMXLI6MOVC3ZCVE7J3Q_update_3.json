@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/01/23\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['David Ayer'], 'Producers': ['Charles Roven', 'Richard Suckle'], 'Starring': ['Will Smith', 'Jared Leto', 'Margot Robbie'], 'Studio': ['WARNER BROS.']}\nReview Text: Was actually better than the version shown in the theater\nReview Title: Better than theater\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Amiel', 'Michael Trim', 'Adam Bernstein', 'Andrew Bernstein', 'Rosemary Rodriguez', 'Peter Werner', 'Keith Boak', 'Bill Johnson', 'David Rodriguez', 'Peter Weller'], 'Studio': ['WGN America']}\nNot bad just not excellent\nDecent show\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Conrad Vernon', 'Greg Tiernan'], 'Producers': ['Seth Rogen'], 'Starring': ['Michael Cera', 'James Franco', 'Bill Hader'], 'Studio': ['Columbia Pictures']}\nCould not stop laughing\nHilarious\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['David Ayer'], 'Producers': ['Charles Roven', 'Richard Suckle'], 'Starring': ['Will Smith', 'Jared Leto', 'Margot Robbie'], 'Studio': ['WARNER BROS.']}\nWas actually better than the version shown in the theater\nBetter than theater",
+  "profile": "User Profile Summary:\n\nThe user maintains a strong appreciation for both television and film, as reflected by their average rating of 4.7 and a recent 5.0 for a title they found superior to its theatrical release. This evolution in their preference highlights an enhanced enthusiasm for well-executed entertainment that resonates on multiple levels, particularly favoring content that balances humor with deeper themes.\n\nTheir reviews consistently suggest an affinity for layered narratives, with content advisories that include violence, substance use, and foul language highlighting their openness to complex storytelling. The absence of subtitles in their latest interaction indicates a preference for immersive viewing experiences where audio comprehension is key, reinforcing their engagement with English-language productions.\n\nThe user's appreciation for the efforts of various directors and esteemed producers illustrates their receptiveness to diverse artistic styles. Previously critical yet fair in evaluations, their latest interaction indicates a capacity to recognize quality in entertainment that elicits strong emotional responses, demonstrating a particular fondness for humor.\n\nIn summary, the user favors well-crafted and engaging content that combines humor with depth, showcasing an ongoing willingness to explore a variety of narratives and creative perspectives while maintaining a critical yet appreciative attitude towards quality filmmaking and storytelling.",
+  "metrics": {
+    "rouge1_f": 0.10495626822157433,
+    "rouge2_f": 0.02346041055718475,
+    "rougeL_f": 0.08746355685131194,
+    "meteor": 0.034895314057826525,
+    "bleu1": 0.05424605077011722,
+    "bleu2": 0.0040525248270991176,
+    "bleu3": 0.0017094003561212425,
+    "bleu4": 0.0011114868751250595,
+    "bertscore_precision": 0.3364811837673187,
+    "bertscore_recall": 0.33732935786247253,
+    "bertscore_f1": 0.33690473437309265
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/15\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Beck'], 'Producers': ['Gilbert Adler', 'Joel Silver', 'Robert Zemeckis'], 'Starring': ['Tony Shalhoub', 'Embeth Davidtz', 'Matthew Lillard'], 'Studio': ['WARNER BROS.']}\nReview Text: Love this movie . I was 11,when this movie came out\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Beck'], 'Producers': ['Gilbert Adler', 'Joel Silver', 'Robert Zemeckis'], 'Starring': ['Tony Shalhoub', 'Embeth Davidtz', 'Matthew Lillard'], 'Studio': ['WARNER BROS.']}\nLove this movie . I was 11,when this movie came out\nFive Stars",
+  "profile": "User Summary:\n\n- **Rating Tendency**: Generally positive, with an average rating of 4.6, indicating a preference for high-quality content.\n- **Content Preference**: Enjoys films with mature themes, as indicated by a notable appreciation for content featuring nudity, violence, foul language, and sexual content.\n- **Nostalgia Factor**: Shows a nostalgic connection to films from childhood, specifically favoring those experienced around the age of 11.\n- **Engagement with Audio Features**: Values enhanced audio options like English Dialogue Boost and audio descriptions, suggesting a preference for accessibility and clarity in media consumption.\n- **Favorable Directors and Producers**: Has a favorable impression of works from well-known producers and directors, indicating an inclination towards films with established industry credentials.\n- **Overall Enthusiasm**: Expresses strong enthusiasm for preferred films, as reflected in the five-star review, indicating a pattern of passionate engagement with favorite content.  \n\nThis summary highlights a user with a clear taste for quality films with mature themes, alongside a nostalgic appreciation for their early viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.1834862385321101,
+    "rouge2_f": 0.07407407407407408,
+    "rougeL_f": 0.15596330275229356,
+    "meteor": 0.1296754875778911,
+    "bleu1": 0.12264150943396224,
+    "bleu2": 0.024108906677898365,
+    "bleu3": 0.006516962855503249,
+    "bleu4": 0.003392324295291471,
+    "bertscore_precision": 0.4109001159667969,
+    "bertscore_recall": 0.36679697036743164,
+    "bertscore_f1": 0.3875980079174042
+  }
+}

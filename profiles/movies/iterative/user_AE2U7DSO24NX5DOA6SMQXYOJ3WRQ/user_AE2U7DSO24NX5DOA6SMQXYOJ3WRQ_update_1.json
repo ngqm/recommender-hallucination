@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Boston's Finest\nReview Date: 2013/05/26\nCategories: Unscripted, Drama\nProduct Description: [\"Centering on the men and women of the Boston Police Department, Boston's Finest will offer viewers an up-close and very personal look at what it takes to protect and serve Boston. In addition to following the officers while they are on duty, Boston's Finest will provide a glimpse into their personal lives when they are off the clock.\"]\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Eric S. Smith'], 'Producers': ['Natalia Baldwin Le\u00f3n', 'Julie Insogna', 'Seth Jarrett', 'Jennifer L. Rettig', 'Erin Shockey', 'Rick Van Meter', 'Donnie Wahlberg', 'Robert Wahlberg', 'Tim Davis']}\nReview Text: I like that this show has some persoanl drama, but it not over the top.<br />Looking forward to n ext season.\nReview Title: Enjoyed this show\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Boston's Finest\nUnscripted, Drama\n[\"Centering on the men and women of the Boston Police Department, Boston's Finest will offer viewers an up-close and very personal look at what it takes to protect and serve Boston. In addition to following the officers while they are on duty, Boston's Finest will provide a glimpse into their personal lives when they are off the clock.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Eric S. Smith'], 'Producers': ['Natalia Baldwin Le\u00f3n', 'Julie Insogna', 'Seth Jarrett', 'Jennifer L. Rettig', 'Erin Shockey', 'Rick Van Meter', 'Donnie Wahlberg', 'Robert Wahlberg', 'Tim Davis']}\nI like that this show has some persoanl drama, but it not over the top.<br />Looking forward to n ext season.\nEnjoyed this show",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user enjoys unscripted drama series that provide a realistic portrayal of personal and professional lives, particularly in law enforcement settings. They appreciate a balance of drama without excessive sensationalism.\n  \n- **Engagement Style:** The user actively engages with series they enjoy, indicating a desire for continuous content (e.g., anticipation for future seasons). This suggests a pattern of loyalty to series that resonate with their interests.\n\n- **Rating Behavior:** Generally positive; the user has given a rating of 4.0, indicating satisfaction but with room for improvement, reflecting a critical, yet fair, viewing approach.\n\n- **Viewing Context:** Preference for English-language audio and closed captioning, indicating accessibility needs or preference for enhanced understanding of dialogue.\n\nOverall, this user values authenticity in storytelling, particularly in narratives that blend personal and professional elements, while maintaining a realistic tone.",
+  "metrics": {
+    "rouge1_f": 0.2442748091603053,
+    "rouge2_f": 0.015384615384615385,
+    "rougeL_f": 0.10687022900763359,
+    "meteor": 0.133630289532294,
+    "bleu1": 0.2,
+    "bleu2": 0.03296902366978934,
+    "bleu3": 0.008405954359239982,
+    "bleu4": 0.0042503277813878935,
+    "bertscore_precision": 0.40640321373939514,
+    "bertscore_recall": 0.4261135756969452,
+    "bertscore_f1": 0.4160250425338745
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Free Part Lace Frontal Closure 13x4 With Baby Hair Body Wave Virgin Brazilian Human Hair Full Lace Closure Ear to Ear Natural Color No Bleached Knots (16 inch)\nReview Date: 2018/03/14\nStore: preferred hair\nAverage Rating: 3.4\nProduct Details: {'Brand': 'preferred hair', 'Material': 'Human Hair', 'Extension Length': '16 Inches', 'Hair Type': 'Wavy', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 6 x 0.5 inches; 2.4 Ounces', 'UPC': '605175461429'}\nReview Text: You get what you pay for.\nReview Title: As expected for price\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Human Hair Wigs for Black Women-Glueless Full Lace Wigs with Baby Hair Brazilian Hair Water Wave 130% Density Natural Color 20inch\n{'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Special Feature': 'Glueless', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 5.51 x 2.76 inches; 9.12 Ounces', 'UPC': '602731543407'}\nThis wig is a great value for the price. The hair is very soft and doesnt tangle. Minimum shedding, nothing major or beyond average. The density is on the low side so it gives a natural appearance. If you like big, diva hair you might now like the 130% density.\nGreat wig for the price! Good Value\nFree Part Lace Frontal Closure 13x4 With Baby Hair Body Wave Virgin Brazilian Human Hair Full Lace Closure Ear to Ear Natural Color No Bleached Knots (16 inch)\npreferred hair\n{'Brand': 'preferred hair', 'Material': 'Human Hair', 'Extension Length': '16 Inches', 'Hair Type': 'Wavy', 'Material Feature': 'Natural', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7 x 6 x 0.5 inches; 2.4 Ounces', 'UPC': '605175461429'}\nYou get what you pay for.\nAs expected for price",
+  "profile": "**Updated User Profile Summary:**\n\nThe user continues to show a strong preference for human hair wigs that provide a natural appearance and are manageable regarding tangling and shedding. Their recent interaction with a body wave wig highlights their ongoing interest in wavy hair types, consistent with their previous preferences for styles that balance practicality and aesthetics.\n\nThe purchase of a frontal closure indicates a preference for versatility in styling, while their review reflects a value-oriented mindset. The rating and commentary suggest they are discerning about product quality relative to price, reinforcing their practical approach to purchases. They appreciate products that meet expectations without necessarily exceeding them, indicating a balanced expectation of quality and affordability.\n\nThe user maintains a consistent preference for modern, glueless styles that offer convenience. They favor subtle, everyday looks over dramatic volume, aligning with a desire for natural and understated elegance. Overall, their profile underscores a commitment to quality, style, and value, resonating with contemporary hair trends and focusing on products that support their lifestyle needs.",
+  "metrics": {
+    "rouge1_f": 0.233983286908078,
+    "rouge2_f": 0.0392156862745098,
+    "rougeL_f": 0.10584958217270196,
+    "meteor": 0.1213605256673785,
+    "bleu1": 0.14198283957316998,
+    "bleu2": 0.04501568858186693,
+    "bleu3": 0.019370575975755356,
+    "bleu4": 0.007154870776713979,
+    "bertscore_precision": 0.36537015438079834,
+    "bertscore_recall": 0.44037240743637085,
+    "bertscore_f1": 0.39938050508499146
+  }
+}

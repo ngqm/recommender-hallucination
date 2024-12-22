@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/28\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexs Stadermann'], 'Producers': ['Jim Ballantine', 'Patrick Elemendorff', 'Alexia Gates-Foale', 'Kacy McDonald', 'Barbara Stephen', 'Thorsten Wegener'], 'Starring': ['Kodi Smit-McPhee', 'Richard Roxburgh', 'Miriam Margolyes']}\nReview Text: Very cute movie.  Would watch again!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Captive\nSuspense, Drama, Bleak, Downbeat\n[\"After Matthew's daughter vanishes mysteriously, his life falls apart. Years later when image of his daughter appear online, Matthew risks everything to ensure his daughter's safe return. Starring Ryan Reynolds\"]\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Atom Egoyan'], 'Producers': ['Atom Egoyan', 'Stephen Traynor', 'Simone Urdl', 'Jennifer Weiss'], 'Starring': ['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']}\nGreat movie!\nLoved it!\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexs Stadermann'], 'Producers': ['Jim Ballantine', 'Patrick Elemendorff', 'Alexia Gates-Foale', 'Kacy McDonald', 'Barbara Stephen', 'Thorsten Wegener'], 'Starring': ['Kodi Smit-McPhee', 'Richard Roxburgh', 'Miriam Margolyes']}\nVery cute movie.  Would watch again!\nFive Stars",
+  "profile": "**User Summary:**\n\nThis user continues to demonstrate a strong preference for dramatic and suspenseful narratives, particularly those that delve into themes of personal loss and resilience. Their recent engagement with a lighter, more family-friendly film, rated highly and described as \"very cute,\" indicates a nuanced appreciation for a wider range of storytelling that includes more uplifting elements alongside their typical interest in intense and emotional narratives.\n\nKey Preferences:\n- **Genres:** Suspense, Drama, Lighthearted\n- **Themes:** Personal loss, Resilience, Intensity, Family-oriented stories\n- **Content Tolerance:** Accepts violence, alcohol use, foul language, and sexual content but is also open to lighter themes\n- **Engagement:** Highly engaged, expressing strong positive reactions even to less intense films\n\nOverall, the user's profile reflects an appreciation for emotionally charged stories that challenge characters with significant obstacles while also allowing space for feel-good narratives that may provide balance to their viewing experience, showcasing their love for quality filmmaking and strong performances across a broader spectrum of themes.",
+  "metrics": {
+    "rouge1_f": 0.1209964412811388,
+    "rouge2_f": 0.050179211469534045,
+    "rougeL_f": 0.07829181494661921,
+    "meteor": 0.08723207321113786,
+    "bleu1": 0.1414067636618546,
+    "bleu2": 0.04150002425443782,
+    "bleu3": 0.024131358585410195,
+    "bleu4": 0.015492514418804086,
+    "bertscore_precision": 0.3918514847755432,
+    "bertscore_recall": 0.3909684419631958,
+    "bertscore_f1": 0.3914094567298889
+  }
+}

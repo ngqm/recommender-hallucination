@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Little Bear - Rainy Day Tales\nReview Date: 2016/04/27\nStore: Andrew Sabiston  (Actor),     Kristin Fairlie  (Actor)    Rated:    Unrated    Format: DVD\nCategories: Movies & TV, Featured Categories, DVD\nAverage Rating: 4.9\nProduct Details: {'Genre': 'Animation', 'Format': 'Multiple Formats, Animated, Closed-captioned, Color, Full Screen, NTSC', 'Contributor': \"Dan Hennessey, Amos Crawley, Maurice Sendak, Andrew Sabiston, Elizabeth Hanna, Michael Thoma, Diane D'Aquila, Tracy Ryan, Jed MacKay, Ashley Taylor, Tara Strong, Jennifer Pertsch, Betty Quan, Kristin Fairlie, Jennifer Martini, Clive Endersby, Sean McCann, Else Holmelund Minarik, Rhonda Smiley, Janet-Laine GreenDan Hennessey, Amos Crawley, Maurice Sendak, Andrew Sabiston, Elizabeth Hanna, Michael Thoma, Diane D'Aquila, Tracy Ryan, Jed MacKay, Ashley Taylor, Tara Strong, Jennifer Pertsch, Betty Quan, Kristin Fairlie, Jennifer Martini, Clive Endersby, Sean McCann, Else Holmelund\u2026   See more\", 'Language': 'English', 'Number Of Discs': '1'}\nReview Text: One of mine and my children's favorites. Glad I can share with my grandkids\nReview Title: Glad I can share with my grandkids\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Little Bear - Rainy Day Tales\nAndrew Sabiston  (Actor),     Kristin Fairlie  (Actor)    Rated:    Unrated    Format: DVD\nMovies & TV, Featured Categories, DVD\n{'Genre': 'Animation', 'Format': 'Multiple Formats, Animated, Closed-captioned, Color, Full Screen, NTSC', 'Contributor': \"Dan Hennessey, Amos Crawley, Maurice Sendak, Andrew Sabiston, Elizabeth Hanna, Michael Thoma, Diane D'Aquila, Tracy Ryan, Jed MacKay, Ashley Taylor, Tara Strong, Jennifer Pertsch, Betty Quan, Kristin Fairlie, Jennifer Martini, Clive Endersby, Sean McCann, Else Holmelund Minarik, Rhonda Smiley, Janet-Laine GreenDan Hennessey, Amos Crawley, Maurice Sendak, Andrew Sabiston, Elizabeth Hanna, Michael Thoma, Diane D'Aquila, Tracy Ryan, Jed MacKay, Ashley Taylor, Tara Strong, Jennifer Pertsch, Betty Quan, Kristin Fairlie, Jennifer Martini, Clive Endersby, Sean McCann, Else Holmelund\u2026   See more\", 'Language': 'English', 'Number Of Discs': '1'}\nOne of mine and my children's favorites. Glad I can share with my grandkids\nGlad I can share with my grandkids",
+  "profile": "The user exhibits a strong preference for family-oriented animated content, specifically films that are suitable for sharing across generations, as indicated by their enjoyment of a particular title for both their children and grandchildren. They rate products highly, valuing quality and engagement, as reflected by their five-star rating for the movie. The emphasis on sharing experiences with family suggests a genuine appreciation for content that fosters bonding and enjoyment among different age groups. Furthermore, their choice of DVD format indicates a preference for traditional viewing methods over digital formats. Overall, the user values highly-rated, animated films that are entertaining for both children and adults, promoting family connections and positive shared experiences.",
+  "metrics": {
+    "rouge1_f": 0.11718749999999999,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.0625,
+    "meteor": 0.058536585365853655,
+    "bleu1": 0.05463772571836111,
+    "bleu2": 0.004636463900040754,
+    "bleu3": 0.002042992313239018,
+    "bleu4": 0.0013589399702618609,
+    "bertscore_precision": 0.2976859509944916,
+    "bertscore_recall": 0.357128381729126,
+    "bertscore_f1": 0.3247091472148895
+  }
+}

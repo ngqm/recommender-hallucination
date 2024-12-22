@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Dr. Quinn Medicine Woman\nReview Date: 2015/12/03\nCategories: Western, Action, Drama\nProduct Description: ['Dr. Michaela \"Mike\" Quinn, daughter of a doctor, leaves her stable life in Boston -- answering an ad for a town doctor in Colorado Springs.']\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chuck Bowman', 'Gwen Arner', 'James Keach', 'Jeremy Kagan', 'Jerome R. London', 'Jerry London', 'Reza Badiyi', 'Richard Heffron', 'Victoria Hochberg'], 'Producers': ['Beth Sulivan', \"Richard L. O'Connor\", 'Timothy Johnson', 'Jeremy Kagan'], 'Starring': ['Jane Seymour', 'Joe Lando', 'Chad Allen']}\nReview Text: Watched this on cbs when I was younger. its even better the 2nd time around.\nReview Title: its even better the 2nd time around\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Chuck Bowman', 'James Keach', 'Jerry London', 'Gwen Arner', 'Alan J. Levi', \"Terrence O'Hara\", 'Jerry Jameson', 'Bethany Rooney', 'Victor Lobl', 'Daniel Attias'], 'Producers': ['Beth Sulivan', \"Richard L. O'Connor\", 'Timothy Johnson', 'Jeremy Kagan'], 'Starring': ['Jane Seymour', 'Joe Lando', 'Chad Allen'], 'Studio': ['CBS']}\nWatched this show when I was in high school . Even better the 2nd time around.\nEven better the 2nd time around\nDr. Quinn Medicine Woman\nWestern, Action, Drama\n['Dr. Michaela \"Mike\" Quinn, daughter of a doctor, leaves her stable life in Boston -- answering an ad for a town doctor in Colorado Springs.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chuck Bowman', 'Gwen Arner', 'James Keach', 'Jeremy Kagan', 'Jerome R. London', 'Jerry London', 'Reza Badiyi', 'Richard Heffron', 'Victoria Hochberg'], 'Producers': ['Beth Sulivan', \"Richard L. O'Connor\", 'Timothy Johnson', 'Jeremy Kagan'], 'Starring': ['Jane Seymour', 'Joe Lando', 'Chad Allen']}\nWatched this on cbs when I was younger. its even better the 2nd time around.\nits even better the 2nd time around",
+  "profile": "**Updated User Profile Summary:**\n\n- **Rating Trend:** Maintains a high average rating (4.8), reflecting consistent positive engagement with content. Recent review showcases appreciation for revisiting nostalgic favorites.\n- **Nostalgia:** Demonstrates a strong connection to past experiences, with a clear enjoyment of revisiting beloved shows, indicating the value placed on familiar narratives.\n- **Content Preferences:** Still favors genres like Western, Action, and Drama, particularly those showcasing strong performances by notable actors. Recent engagement reaffirms this leaning.\n- **Director/Producer Recognition:** Continues to show a preference for established directors and producers, suggesting an inclination towards well-crafted storytelling and quality productions.\n- **Emotional Connection:** Responds positively to narratives that evoke nostalgia and personal connection. Recent interactions indicate that rewatching cherished shows enhances their viewing experience.\n\nOverall, this user enjoys classic media experiences, reflecting a desire for quality storytelling, strong character performances, and the emotional warmth of nostalgia in their content choices. Their recent interactions further solidify their preference for revisiting significant works that resonate with their past.",
+  "metrics": {
+    "rouge1_f": 0.12307692307692307,
+    "rouge2_f": 0.006191950464396284,
+    "rougeL_f": 0.06769230769230769,
+    "meteor": 0.07246376811594202,
+    "bleu1": 0.1235207166060172,
+    "bleu2": 0.03433806133426248,
+    "bleu3": 0.01960795211669573,
+    "bleu4": 0.012474165854810662,
+    "bertscore_precision": 0.33694544434547424,
+    "bertscore_recall": 0.3615576922893524,
+    "bertscore_f1": 0.34881794452667236
+  }
+}

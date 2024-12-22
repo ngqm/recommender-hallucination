@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 25mm False Eyelashes Fluffy Dramatic Mink Lashes Thick Soft Volume Faux Mink Eyelashes 8 Pairs Lashes Pack\nReview Date: 2021/06/08\nStore: Eefofnn\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Eefofnn', 'Material': 'Faux Mink', 'Item Dimensions LxWxH': '3.94 x 3.94 x 0.39 inches', 'Material Feature': 'Cruelty Free, Vegan', 'Item Form': 'Pair', 'Product Dimensions': '3.94 x 3.94 x 0.39 inches; 0.81 Ounces'}\nReview Text: They are very soft to the fit. Very comfortable on my eyes. Will recommend!!\nReview Title: Lashes!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "25mm False Eyelashes Fluffy Dramatic Mink Lashes Thick Soft Volume Faux Mink Eyelashes 8 Pairs Lashes Pack\nEefofnn\n{'Brand': 'Eefofnn', 'Material': 'Faux Mink', 'Item Dimensions LxWxH': '3.94 x 3.94 x 0.39 inches', 'Material Feature': 'Cruelty Free, Vegan', 'Item Form': 'Pair', 'Product Dimensions': '3.94 x 3.94 x 0.39 inches; 0.81 Ounces'}\nThey are very soft to the fit. Very comfortable on my eyes. Will recommend!!\nLashes!!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user exhibits a strong interest in beauty products, particularly false eyelashes, suggesting a penchant for enhancing their makeup look.\n  \n- **Quality Indicators:** Preference for items that are soft and comfortable, indicating a priority on user comfort and ease of wear. The user specifically mentions the lashes as \"very soft to the fit\" and \"very comfortable on my eyes,\" highlighting the importance of product texture and wearability.\n  \n- **Ethical Considerations:** The choice of faux mink material and emphasis on cruelty-free and vegan product offerings reflect a conscientious consumer who values ethical production practices.\n  \n- **Recommendation Behavior:** The user is inclined to share positive experiences and recommend products, demonstrating a tendency towards community engagement and a supportive attitude towards brands when satisfied with the product.\n  \n- **General Sentiment:** The overall positive review rating (5.0) shows a tendency to appreciate products that meet or exceed expectations, suggesting that satisfaction plays a significant role in their purchasing decisions.\n\nThis profile lays the foundation for understanding the user\u2019s preferences in beauty products, especially concerning comfort, ethics, and the likelihood of sharing their positive interactions.",
+  "metrics": {
+    "rouge1_f": 0.203125,
+    "rouge2_f": 0.08661417322834647,
+    "rougeL_f": 0.11718750000000001,
+    "meteor": 0.1896956677407805,
+    "bleu1": 0.10416666666666666,
+    "bleu2": 0.05523501204028703,
+    "bleu3": 0.04001971435016256,
+    "bleu4": 0.03001226106156961,
+    "bertscore_precision": 0.43185633420944214,
+    "bertscore_recall": 0.36775362491607666,
+    "bertscore_f1": 0.3972354829311371
+  }
+}

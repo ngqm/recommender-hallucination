@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Liquid Gold Bond A Weav Extra Super Adhesive .5 oz\nReview Date: 2016/05/16\nStore: Liquid Gold\nProduct Description: ['O-Ring: 57.6\" x 2.4\" - NBR70 Features: 57.6\" x 2.4\"; NBR70;']\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Liquid Gold', 'Item Form': 'Liquid', 'Item Package Quantity': '1', 'Package Information': 'Tube', 'Item Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.1 x 1.2 x 0.8 inches; 0.35 Ounces', 'Item model number': '34603', 'Manufacturer': 'LGN'}\nReview Text: Liquid gold it is I love this glue wish it came in bigger size\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hotrose Double Wave Barber Hair Brush Sponge Dread Afro\nHOTantenna\n{'Brand': 'HOTantenna', 'Shape': 'Oblong', 'Unit Count': '1.0 Count', 'Hair Type': 'All', 'Is Discontinued By Manufacturer': 'No', 'Item model number': 'Hotrose\u252c\u00ab', 'UPC': '709112180944'}\nMy son loves this sponge does exactly what it says it's going to do\nFive Stars\nLiquid Gold Bond A Weav Extra Super Adhesive .5 oz\nLiquid Gold\n['O-Ring: 57.6\" x 2.4\" - NBR70 Features: 57.6\" x 2.4\"; NBR70;']\n{'Brand': 'Liquid Gold', 'Item Form': 'Liquid', 'Item Package Quantity': '1', 'Package Information': 'Tube', 'Item Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.1 x 1.2 x 0.8 inches; 0.35 Ounces', 'Item model number': '34603', 'Manufacturer': 'LGN'}\nLiquid gold it is I love this glue wish it came in bigger size\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Family-Oriented**: The user consistently prioritizes products that cater to their family members' needs, particularly focusing on ensuring satisfaction for their son.\n- **Value for Performance**: They have a strong appreciation for products that deliver reliable and effective results, demonstrated by high ratings even when detailed feedback is minimal.\n- **Interest in Hair Care and Grooming Products**: The user shows an ongoing interest in hair care tools and adhesives, specifically those catering to diverse hair types and styling trends. This includes a recent purchase aligned with their grooming habits, suggesting they keep up with the evolving needs for effective hair care solutions.\n- **Positive Experience**: They frequently share positive feedback on products that perform well, indicating a tendency to promote products that meet or exceed expectations, highlighted by their consistent five-star ratings.\n- **Engagement in Current Trends**: Their selections reflect an interest in contemporary grooming trends, including products linked to specific hairstyles indicative of cultural styling.\n\nOverall, the user values practical, effective, and multifunctional grooming products that serve specific family-oriented needs while remaining responsive to current trends in hair care.",
+  "metrics": {
+    "rouge1_f": 0.08805031446540879,
+    "rouge2_f": 0.012658227848101267,
+    "rougeL_f": 0.05031446540880503,
+    "meteor": 0.07511737089201878,
+    "bleu1": 0.09956709956709955,
+    "bleu2": 0.006579516949597689,
+    "bleu3": 0.0026638975142095835,
+    "bleu4": 0.0016968928615535004,
+    "bertscore_precision": 0.3553987443447113,
+    "bertscore_recall": 0.3553740382194519,
+    "bertscore_f1": 0.3553864061832428
+  }
+}

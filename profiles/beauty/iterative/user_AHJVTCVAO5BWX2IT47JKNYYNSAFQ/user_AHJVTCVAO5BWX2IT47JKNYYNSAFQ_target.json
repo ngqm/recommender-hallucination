@@ -1,0 +1,85 @@
+{
+  "interaction_number": 8,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beauty Glazed 6pcs/set Professional Shine Liquid Lipstick Shimmering Glitters for Lips and Eyes Lip Gloss Makeup Tool\nReview Date: 2019/03/19\nStore: Beauty Glazed\nAverage Rating: 2.7\nProduct Details: {}\nReview Text: did not like\nReview Title: ok\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wet 'n' Wild MegaGlo Illuminating Powder, Catwalk Pink 345\nWet 'n' Wild\n{'Item Form': 'Powder', 'Finish Type': 'Luminous', 'Brand': \"Wet 'n' Wild\", 'Color': 'Pink', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.5 x 1.25 x 2.5 inches; 1.45 Ounces', 'UPC': '077802534507', 'Manufacturer': \"Wet 'n' Wild\"}\nLove it\nFive Stars\nCITY COLOR Intense Exposure Highlighting Powder - Highlight\nCity Color Cosmetics\n{'Item Form': 'Powder', 'Brand': 'City Color Cosmetics', 'Skin Tone': 'All', 'Number of Items': '1', 'Material Feature': 'Cruelty Free', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.3 x 2.5 x 0.7 inches; 0.32 Ounces'}\nlove it\nFive Stars\nBECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz\nBecca Cosmetics\n['BECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz']\n{'Brand': 'Becca Cosmetics', 'Package Information': 'Tube', 'Finish Type': 'Shimmery', 'Package Type': 'Box', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.8 x 3 x 0.3 inches; 0.64 Ounces'}\nGot and love need to get me a bigger one.\nFive Stars\nDisney Frozen Sun Smacker SPF 24 Sunscreen Lip Balm 4-pc set\nLip Smacker\n{'Unit Count': '1.00 Count', 'Brand': 'Lip Smacker', 'Skin Tone': 'All', 'Water Resistance Level': 'Water Resistant', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.98 x 4.76 x 0.75 inches; 0.81 Ounces', 'UPC': '050051850789'}\nlove it\nFive Stars\nNARS Andy Warhol Walk On The Wild Side Set x Mini Illuminator, 3 Count\nNARS\n['Andy Warhol Walk On The Wild Side Set. 1x Mini Illuminator - #Silver Factory 15ml/0.57oz. 1x Mini Nail Polish - #Vernis A Onglees 7.4ml/0.25oz. 1x Mini Larger Than Life Lip Gloss - # 3.5ml/0.12ozIdeal both for personal use and as a gift.']\n{'Brand': 'NARS', 'Item Form': 'Liquid', 'Special Feature': 'Travel-Size', 'Age Range (Description)': 'Adult', 'Unit Count': '3 Count', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters, 7.4 Milliliters', 'Item Dimensions LxWxH': '3 x 1.6 x 8.1 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 1.6 x 8.1 inches; 7.76 Ounces', 'Item model number': '185038', 'UPC': '607845037736', 'Manufacturer': 'Ultimate Distribution'}\nLove it\nFive Stars\nBath & Body Works PocketBac Hand Gel Warm Vanilla Sugar\nBath & Body Works\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.76 x 1.77 x 0.98 inches; 1.44 Ounces', 'UPC': '667538781230'}\nlove it\nlove\nBenefit Ka Brow! Creme-Gel Brow Color - Medium 03 (mini)\nBenefit\n['Helps easily fill, sculpt and define brows.']\n{'Brand': 'Benefit', 'Item Form': 'Gel', 'Special Feature': 'Waterproof', 'Product Benefits': 'Long Lasting', 'Skin Type': 'All', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1 x 1 x 1 inches; 1.6 Ounces', 'UPC': '602004073501'}\nloved it\nlove\nBeauty Glazed 6pcs/set Professional Shine Liquid Lipstick Shimmering Glitters for Lips and Eyes Lip Gloss Makeup Tool\nBeauty Glazed\n{}\ndid not like\nok",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "ok",
+    "text": "did not like",
+    "images": [],
+    "asin": "B07C4LHMJB",
+    "parent_asin": "B07C4LHMJB",
+    "user_id": "AHJVTCVAO5BWX2IT47JKNYYNSAFQ",
+    "timestamp": "2019-03-19 01:43:51.054000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Beauty Glazed 6pcs/set Professional Shine Liquid Lipstick Shimmering Glitters for Lips and Eyes Lip Gloss Makeup Tool",
+    "average_rating": 2.7,
+    "rating_number": 3,
+    "features": [
+      "6 pcs of a set, with 6 colors design, choose your favorite style to make up.",
+      "Waterproof and long lasting moisturized - It's would not stick on cup, after drying no color or flakes coming off, lips don't feel dry at all.",
+      "Highly saturated, highly pigmented, easy to wear.",
+      "Suitable for professional use or home use, it would be a great gift for any lady.",
+      "Easy to apply. Compact design makes it easy to store and carry when you are traveling."
+    ],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/510F3WdXnUL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/510F3WdXnUL.jpg",
+        "variant": "MAIN",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51wVnBTNNgL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51wVnBTNNgL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71ILdzFQ3EL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51Z9Mbxp7OL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51Z9Mbxp7OL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/71uFMWbaSBL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51I1s-ldCoL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51I1s-ldCoL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/71VfVlzoJ3L._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41XGNeniSIL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41XGNeniSIL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/61RyMCVkYRL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41gz+7R+5iL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41gz+7R+5iL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/51-oNzz8hCL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31xH716QoGL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31xH716QoGL.jpg",
+        "variant": "PT06",
+        "hi_res": "https://m.media-amazon.com/images/I/51wlvvSNucL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41hPTneXvgL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41hPTneXvgL.jpg",
+        "variant": "PT07",
+        "hi_res": "https://m.media-amazon.com/images/I/61hKtKRL2aL._SL1000_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "Beauty Glazed",
+    "categories": [],
+    "details": {},
+    "bought_together": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/11\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sheldon Larry'], 'Producers': ['Martin Katz'], 'Starring': ['Keith Carradine', \"Annette O'Toole\", 'Brendan Fletcher'], 'Studio': ['Questar', 'Inc']}\nReview Text: good story, kept us interested\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Leszek Burzynski'], 'Producers': ['Julie Hartley', 'Patty Hedeen', 'Ken Promersberger', 'Robert Schwartz', 'Maggie Soboil', 'Buffie Stone'], 'Starring': ['Peter Fonda', 'Kris Kristofferson', 'Joseph Mazzello'], 'Studio': ['Lionsgate']}\nheartfelt story-- pretty good actinh\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\ndid not  watch this one it didn't seem to have a story plot\ndid not watch this one it didn't seem to have ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['William Katt'], 'Producers': ['Clifford Matthews', 'Scott Duthie', 'Glen Stephens'], 'Starring': ['Sam Huntington', 'Charles Durning', 'Caroline Goodall']}\no k nothing special\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sheldon Larry'], 'Producers': ['Martin Katz'], 'Starring': ['Keith Carradine', \"Annette O'Toole\", 'Brendan Fletcher'], 'Studio': ['Questar', 'Inc']}\ngood story, kept us interested\nFour Stars",
+  "profile": "**User Summary:**\n\nThe user continues to display a strong preference for heartfelt narratives, appreciating emotional depth in storytelling. They have shown a critical evolution in their viewing habits, with their average rating reflecting a recent adjustment from 4.4 to 3.9. This shift indicates a growing expectation for compelling storytelling and coherence in plots, as evidenced by a recent 3.0 rating, where they described a film as \"nothing special.\"\n\nIn a recent interaction, the user rated a different film 4.0 stars, highlighting a \"good story\" that successfully engaged them. This suggests that while their standards have heightened, they still recognize quality storytelling when it resonates with them. Their continued interest in mainstream cinema and established talent remains, yet they are now more discerning, emphasizing originality and narrative depth alongside performance quality.\n\nOverall, the user values media with emotional resonance and solid performances but increasingly prioritizes narrative coherence and substance. This nuanced evolution in their preferences indicates a desire for more substantial content, reflecting their critical stance while still enjoying engaging stories that capture their interest.",
+  "metrics": {
+    "rouge1_f": 0.10691823899371068,
+    "rouge2_f": 0.012658227848101266,
+    "rougeL_f": 0.06289308176100629,
+    "meteor": 0.061592164484451706,
+    "bleu1": 0.07003929738594661,
+    "bleu2": 0.01985932258012122,
+    "bleu3": 0.004814494210083184,
+    "bleu4": 0.0023734933422389294,
+    "bertscore_precision": 0.3163611888885498,
+    "bertscore_recall": 0.3320980668067932,
+    "bertscore_f1": 0.32403868436813354
+  }
+}

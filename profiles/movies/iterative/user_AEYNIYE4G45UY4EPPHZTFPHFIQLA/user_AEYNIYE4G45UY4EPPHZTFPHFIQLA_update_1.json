@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/11/13\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Cain'], 'Producers': ['Jerry Weintraub'], 'Starring': ['George Strait', 'Lesley Ann Warren', 'Isabel Glasser'], 'Studio': ['Warner Bros.']}\nReview Text: Loved the movie Pure Country.  The music was wonderful and of course I love George Strait, but all in all it was a good story.\nReview Title: Lovin' George Strait\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Cain'], 'Producers': ['Jerry Weintraub'], 'Starring': ['George Strait', 'Lesley Ann Warren', 'Isabel Glasser'], 'Studio': ['Warner Bros.']}\nLoved the movie Pure Country.  The music was wonderful and of course I love George Strait, but all in all it was a good story.\nLovin' George Strait",
+  "profile": "**User Profile Summary:**\n\n- **Music Preference:** Strong affinity for country music, specifically for George Strait.\n- **Content Appreciation:** Enjoys films with a solid story and engaging music.\n- **Reviewing Style:** Positive reviews reflecting genuine enjoyment; higher ratings indicate satisfaction.\n- **Cinematic Taste:** Preference for works featuring notable directors and actors, suggesting a focus on quality production.\n- **Language Accessibility:** Likely values accessible content, as indicated by interest in audio description and closed captions.\n- **Genre Preference:** Inclined towards heartwarming and narrative-rich films within the country genre.\n\nThis user shows a consistent trend of appreciating music-centric films that combine storytelling with strong musical elements, favoring artists who are emblematic of the country genre.",
+  "metrics": {
+    "rouge1_f": 0.1851851851851852,
+    "rouge2_f": 0.024999999999999998,
+    "rougeL_f": 0.08641975308641975,
+    "meteor": 0.15209072759538594,
+    "bleu1": 0.1320754716981132,
+    "bleu2": 0.02891229335334857,
+    "bleu3": 0.008105039648453053,
+    "bleu4": 0.004298186028920209,
+    "bertscore_precision": 0.4289151728153229,
+    "bertscore_recall": 0.40209639072418213,
+    "bertscore_f1": 0.41507306694984436
+  }
+}

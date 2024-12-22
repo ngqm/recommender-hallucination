@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/03\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\nReview Text: It started out a little slow but picked up and I enjoyed it.\nReview Title: Redwood Elder\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['BJ Alexander'], 'Producers': ['B.J. Alexander', 'Brian Brough', 'Dani Franklin', 'Elisa Jan', 'Lisa Jansworth', 'A.J.C. Pennyworth', 'Kent Peterson', 'Brittany Wiscombe'], 'Starring': ['Summer Naomi Smart', 'Matthew Reese', 'Everest Bishop'], 'Studio': ['Unavailable']}\nSweet love story.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary Lundgren'], 'Producers': ['Gary Kout', 'James Twyman'], 'Starring': ['Shirley Knight', 'Tom Skerritt'], 'Studio': ['Gaia']}\nIt started out a little slow but picked up and I enjoyed it.\nRedwood Elder",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** The user maintains a strong preference for romantic narratives, enjoying love stories that resonate emotionally.\n- **Content Language:** English remains the primary language of choice for audio and subtitles, reinforcing a commitment to consuming content in their native language.\n- **Community Engagement:** The user continues to rate products positively, with an average rating of 4.0 from a recent interaction, indicating satisfaction with the content despite a slight drop from their previous 4.4 average. \n- **Director and Producer Recognition:** The user exhibits preference for specific creators, favoring works by known directors and producers, particularly in the romance genre.\n- **Demographic Insights:** The user appreciates contemporary, relatable narratives, favoring feel-good entertainment that aligns with their lighter storytelling taste, evident in the enjoyment of a narrative that started slow but ultimately engaged them.\n- **Full-Experience Expectation:** They prefer straightforward storytelling, as the review reflects an inclination toward narratives that, while they may begin slowly, develop into enjoyable experiences without excessive complexity.\n\nIn summary, the user's interactions consistently demonstrate a passion for heartfelt romantic content, an appreciation for quality production values, and an enjoyment of engaging storytelling delivered in a familiar language, maintaining a balance between satisfaction and expectations in their recent consumption.",
+  "metrics": {
+    "rouge1_f": 0.12720848056537104,
+    "rouge2_f": 0.021352313167259784,
+    "rougeL_f": 0.09187279151943463,
+    "meteor": 0.11173172606595558,
+    "bleu1": 0.12547528517110265,
+    "bleu2": 0.021884087876349368,
+    "bleu3": 0.005682491536724938,
+    "bleu4": 0.002898416285238683,
+    "bertscore_precision": 0.37435051798820496,
+    "bertscore_recall": 0.36178332567214966,
+    "bertscore_f1": 0.3679596781730652
+  }
+}

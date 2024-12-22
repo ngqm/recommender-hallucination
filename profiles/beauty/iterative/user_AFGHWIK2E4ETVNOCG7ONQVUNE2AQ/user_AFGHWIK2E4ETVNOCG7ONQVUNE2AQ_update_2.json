@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 1 Kleancolor Nail Polish Lacquer #199 Hot Stuff Manicure + Free ZipBag\nReview Date: 2020/05/05\nStore: Kleancolor\nAverage Rating: 1.5\nProduct Details: {'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Special Feature': 'Long-lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Liquid Volume': '0.5 Fluid Ounces', 'UPC': '634145845884'}\nReview Text: by itself no good. over another color maybe. not happy.\nReview Title: just sparkles\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "1 Kleancolor Nail Polish Lacquer #166 Metallic Fuschia Manicure + Free Earring Gift\nKleancolor\n{'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Finish Type': 'Metallic', 'Special Feature': 'Long-lasting', 'Unit Count': '1.00 Fl Oz', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'UPC': '634145845556'}\nawesome color.it goes on thick,so I only have to apply one coat.\ngood quality\n1 Kleancolor Nail Polish Lacquer #199 Hot Stuff Manicure + Free ZipBag\nKleancolor\n{'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Special Feature': 'Long-lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Liquid Volume': '0.5 Fluid Ounces', 'UPC': '634145845884'}\nby itself no good. over another color maybe. not happy.\njust sparkles",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys high-quality beauty products, particularly nail polish.\n- **Color Preference:** Favors vibrant and metallic shades, though recent purchases indicate potential dissatisfaction with certain formulations.\n- **Application Style:** Prefers products that provide ample coverage with minimal effort, appreciating formulas that allow for single-coat application.\n- **Quality Expectations:** Values long-lasting performance and overall product quality; however, recent interactions suggest increasing scrutiny of these qualities, as evidenced by lower ratings given to certain products.\n- **Shopping Behavior:** Engages in thoughtful purchasing, considering both aesthetic appeal and efficiency of use; interested in promotions that enhance the shopping experience, such as free gifts with purchases.\n- **Feedback Impact:** Demonstrates a willingness to provide critical feedback when expectations are not met, indicating a balance between appreciation for quality and the importance of effective product performance.\n\nOverall, while this user continues to value efficiency, quality, and vibrancy in beauty products, recent experiences reflect a more discerning approach to evaluating products, particularly in nail care. Adjustments in preferences may arise if products do not align with these evolving expectations.",
+  "metrics": {
+    "rouge1_f": 0.11149825783972125,
+    "rouge2_f": 0.014035087719298244,
+    "rougeL_f": 0.07665505226480836,
+    "meteor": 0.0981404958677686,
+    "bleu1": 0.12765957446808512,
+    "bleu2": 0.007386160958462111,
+    "bleu3": 0.0028608419888054145,
+    "bleu4": 0.001782372230812608,
+    "bertscore_precision": 0.36891308426856995,
+    "bertscore_recall": 0.37650391459465027,
+    "bertscore_f1": 0.37266987562179565
+  }
+}

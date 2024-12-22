@@ -1,0 +1,89 @@
+{
+  "user_id": "AFQEYHCV5XVJS7JVBIDVY4LF3YKQ",
+  "summary": "=== Purchase Information ===\nProduct Title: 8PC Lazy Bird's Nest Plate Hairpin Velvet Bird Nest Shaped Hair Clips Expandable Ponytail Holder Hair Loops Nest Plate Hairpin Hair Claw Clip barrette\nReview Date: 2022/07/06\nStore: AhkeaDirectly\nAverage Rating: 4.0\nProduct Details: {'Brand': 'AhkeaDirectly', 'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Resin', 'Material': 'Plastic', 'Package Dimensions': '6.02 x 5.2 x 2.32 inches; 4.16 Ounces', 'UPC': '761312153890'}\nReview Text: These are a little stiff, but work well.\nReview Title: Work well\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: DmHirmg Ice Face Roller, Upgrated Ice Roller for Face and Eye, Facial Beauty Ice Roller Skin Care Tools, Food-Grade Leak-Proof Silicone Cube, Reusable Face Massage, Silicone Face Ice Mold for Face (Green)\nReview Date: 2022/07/11\nStore: DmHirmg\nAverage Rating: 4.1\nProduct Details: {'Item Form': 'Ice', 'Brand': 'DmHirmg', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '6.22 x 5.16 x 1.46 inches; 2.4 Ounces', 'UPC': '734257211246', 'Manufacturer': 'DmHirmg', 'Country of Origin': 'China'}\nReview Text: Works well as an ice pack.  I do like to use it for a cool massage over my face.  Good during a headache!\nReview Title: Nice to have\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: L'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel | Blush\nReview Date: 2022/09/07\nStore: L'ANGE HAIR\nAverage Rating: 4.8\nProduct Details: {'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Product Benefits': 'Smoothing', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '10.1 x 3.1 x 3 inches; 4.8 Ounces', 'Item model number': '2459', 'UPC': '810108191315'}\nReview Text: This feels good in the hand and is amazing in allowing airflow.  Hair dries quickly and is full of volume!\nReview Title: Expensive but great\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: L'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel\nReview Date: 2022/09/19\nStore: L'ANGE HAIR\nAverage Rating: 4.8\nProduct Details: {'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Handle Material': 'Ceramic', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '12.32 x 4.76 x 3.58 inches; 5.29 Ounces', 'Item model number': '2456', 'UPC': '810108191339'}\nReview Text: Lightweight and feels good in my hand.  The infusion seems to make the bristles slide better through my hair.  Hair dries fast with this brush.\nReview Title: Great brush\nRating: 5.0\n--------------------------------------------------",
+  "reference": "8PC Lazy Bird's Nest Plate Hairpin Velvet Bird Nest Shaped Hair Clips Expandable Ponytail Holder Hair Loops Nest Plate Hairpin Hair Claw Clip barrette\nAhkeaDirectly\n{'Brand': 'AhkeaDirectly', 'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Resin', 'Material': 'Plastic', 'Package Dimensions': '6.02 x 5.2 x 2.32 inches; 4.16 Ounces', 'UPC': '761312153890'}\nThese are a little stiff, but work well.\nWork well\nDmHirmg Ice Face Roller, Upgrated Ice Roller for Face and Eye, Facial Beauty Ice Roller Skin Care Tools, Food-Grade Leak-Proof Silicone Cube, Reusable Face Massage, Silicone Face Ice Mold for Face (Green)\nDmHirmg\n{'Item Form': 'Ice', 'Brand': 'DmHirmg', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '6.22 x 5.16 x 1.46 inches; 2.4 Ounces', 'UPC': '734257211246', 'Manufacturer': 'DmHirmg', 'Country of Origin': 'China'}\nWorks well as an ice pack.  I do like to use it for a cool massage over my face.  Good during a headache!\nNice to have\nL'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel | Blush\nL'ANGE HAIR\n{'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Product Benefits': 'Smoothing', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '10.1 x 3.1 x 3 inches; 4.8 Ounces', 'Item model number': '2459', 'UPC': '810108191315'}\nThis feels good in the hand and is amazing in allowing airflow.  Hair dries quickly and is full of volume!\nExpensive but great\nL'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel\nL'ANGE HAIR\n{'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Handle Material': 'Ceramic', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '12.32 x 4.76 x 3.58 inches; 5.29 Ounces', 'Item model number': '2456', 'UPC': '810108191339'}\nLightweight and feels good in my hand.  The infusion seems to make the bristles slide better through my hair.  Hair dries fast with this brush.\nGreat brush",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: 8PC Lazy Bird's Nest Plate Hairpin Velvet Bird Nest Shaped Hair Clips Expandable Ponytail Holder Hair Loops Nest Plate Hairpin Hair Claw Clip barrette\nReview Date: 2022/07/06\nStore: AhkeaDirectly\nAverage Rating: 4.0\nProduct Details: {'Brand': 'AhkeaDirectly', 'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Resin', 'Material': 'Plastic', 'Package Dimensions': '6.02 x 5.2 x 2.32 inches; 4.16 Ounces', 'UPC': '761312153890'}\nReview Text: These are a little stiff, but work well.\nReview Title: Work well\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: DmHirmg Ice Face Roller, Upgrated Ice Roller for Face and Eye, Facial Beauty Ice Roller Skin Care Tools, Food-Grade Leak-Proof Silicone Cube, Reusable Face Massage, Silicone Face Ice Mold for Face (Green)\nReview Date: 2022/07/11\nStore: DmHirmg\nAverage Rating: 4.1\nProduct Details: {'Item Form': 'Ice', 'Brand': 'DmHirmg', 'Skin Type': 'All', 'Package Information': 'Roller', 'Package Dimensions': '6.22 x 5.16 x 1.46 inches; 2.4 Ounces', 'UPC': '734257211246', 'Manufacturer': 'DmHirmg', 'Country of Origin': 'China'}\nReview Text: Works well as an ice pack.  I do like to use it for a cool massage over my face.  Good during a headache!\nReview Title: Nice to have\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: L'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel | Blush\nReview Date: 2022/09/07\nStore: L'ANGE HAIR\nAverage Rating: 4.8\nProduct Details: {'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Product Benefits': 'Smoothing', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '10.1 x 3.1 x 3 inches; 4.8 Ounces', 'Item model number': '2459', 'UPC': '810108191315'}\nReview Text: This feels good in the hand and is amazing in allowing airflow.  Hair dries quickly and is full of volume!\nReview Title: Expensive but great\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: L'ANGE HAIR Argan-Infused Round Brush | Lightweight & Ergonomic Design | 53MM Tourmaline Ceramic Barrel\nReview Date: 2022/09/19\nStore: L'ANGE HAIR\nAverage Rating: 4.8\nProduct Details: {'Brand': \"L'ANGE HAIR\", 'Shape': 'Round', 'Handle Material': 'Ceramic', 'Unit Count': '1.00 Count', 'Material': 'Ceramic', 'Package Dimensions': '12.32 x 4.76 x 3.58 inches; 5.29 Ounces', 'Item model number': '2456', 'UPC': '810108191339'}\nReview Text: Lightweight and feels good in my hand.  The infusion seems to make the bristles slide better through my hair.  Hair dries fast with this brush.\nReview Title: Great brush\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThe analyzed purchase history indicates a strong preference for self-care and beauty products, particularly those that enhance hair and skincare. The individual consistently rates products highly, often giving perfect scores, signaling satisfaction with functional effectiveness and quality. \n\nCommon patterns reveal a focus on utility; products are frequently chosen for their versatility (e.g. hair clips used for various styles and ice rollers for facial cooling and massage). A notable sentiment emerges around lightweight and ergonomic design, particularly for beauty tools, highlighting a preference for comfort during use.\n\nQuality appears to be a priority, with the individual willing to invest in higher-priced items that offer tangible benefits, as indicated by remarks about performance rather than pricing alone. Despite recognizing some stiffness or costs, they still value overall effectiveness.\n\nThis person tends to choose items with functional and aesthetic appeal, suggesting a balanced approach to beauty routines that prioritize both efficiency and experience. Their purchasing behavior reflects a commitment to products that provide both practicality in daily life and a small luxury in self-care practices.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "I feel like I'm on Little House on the Prairie!",
+    "text": "Smooth and silky.  I look like I am on LHOTP for sure.  Not particularly attractive but do the trick!",
+    "images": [],
+    "asin": "B0B93HT8WG",
+    "parent_asin": "B0B927953G",
+    "user_id": "AFQEYHCV5XVJS7JVBIDVY4LF3YKQ",
+    "timestamp": "2022-09-25 02:15:46.005000",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "All Beauty",
+    "title_meta": "Silk Bonnet for Hair Care, Natural Silk Cap for Sleeping and Shower, Double-Lined, 6A-grade Mulberry Silk Turban Light Purple",
+    "average_rating": 4.2,
+    "rating_number": 17,
+    "features": [
+      "Protect your hair \u2013 The Miwen silk bonnet helps to protect your hair from dents, breakage, snagging, friction & hair loss; keep your hairstyle well throughout the night.",
+      "Double-Lined \u2013 The Miwen silk cap is made of 19mm thick mulberry silk inside and outside, which can be worn on both sides and is durable.",
+      "Multi-purpose \u2013 The Miwen silk cap is not only suitable for sleeping, but also convenient for housework and makeup.",
+      "Fit most people \u2013 Miwen silk bonnet is suitable for all hair types and is designed for curly and thick hair. The bonnet has a rubber band around the brim to adjust the size of the cap to fit most people.",
+      "Quality assurance - The Miwen silk caps are made of 6A grade, 19 mm mulberry silk, Oeko-Tex Certified. Our bonnets are packed carefully with delicate packages and 100% inspection."
+    ],
+    "description": [],
+    "price": 25.99,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/416kZTLLJ9L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/416kZTLLJ9L.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71lY4nUhoOL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41SrnA3bF+L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41SrnA3bF+L.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71utJViJgGL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41l9pryPBWL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41l9pryPBWL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/714CtEDKFAL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41PmCTfjMNL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41PmCTfjMNL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/71minRpuKxL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51zOaAt6bYL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51zOaAt6bYL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/71piWRiR04L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/41qM66C-WIL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/41qM66C-WIL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/61onUfztBrL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51TroQC0iSL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51TroQC0iSL.jpg",
+        "variant": "PT06",
+        "hi_res": "https://m.media-amazon.com/images/I/81VB-RGyKyL._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": "MIWEN",
+    "categories": [],
+    "details": {
+      "Brand": "MIWEN",
+      "Color": "Light Purple",
+      "Material": "Rubber",
+      "Pattern": "Solid",
+      "Number of Items": "1",
+      "UPC": "768494764739",
+      "Manufacturer": "Juhui Silk"
+    },
+    "bought_together": null
+  }
+}

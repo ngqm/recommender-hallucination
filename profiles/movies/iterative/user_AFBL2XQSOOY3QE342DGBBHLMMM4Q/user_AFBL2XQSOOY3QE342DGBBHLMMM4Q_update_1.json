@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/12/13\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Mind Blowing, thought provoking with Heart !\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nMind Blowing, thought provoking with Heart !\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Overall Rating Preference:** A strong tendency to rate products highly, as evidenced by a 5.0 rating in a review. \n- **Content Taste:** Prefers thought-provoking and emotionally engaging narratives, indicating an appreciation for deep and complex storytelling.\n- **Director Preference:** Shows a preference for works by notable directors known for their artistic and high-quality productions. \n- **Content Sensitivity:** Interested in content that may contain mature themes, such as violence, alcohol use, and sexual content, suggesting a comfort with intense narratives.\n- **Genre Affinity:** Likely favors science fiction or conceptual genres that provoke thought and stimulate an emotional response.\n- **Language & Accessibility:** Values English audio and subtitles, indicating a focus on content that is accessible in their preferred language.\n\nIn summary, this user appreciates high-quality, thought-provoking content with strong emotional depth, likely leaning towards complex narratives that challenge traditional storytelling.",
+  "metrics": {
+    "rouge1_f": 0.15873015873015872,
+    "rouge2_f": 0.0427807486631016,
+    "rougeL_f": 0.12698412698412698,
+    "meteor": 0.09631490787269682,
+    "bleu1": 0.1076923076923077,
+    "bleu2": 0.007450603922533253,
+    "bleu3": 0.0030639044317708453,
+    "bleu4": 0.0019673476185365865,
+    "bertscore_precision": 0.40773695707321167,
+    "bertscore_recall": 0.35484081506729126,
+    "bertscore_f1": 0.37945428490638733
+  }
+}

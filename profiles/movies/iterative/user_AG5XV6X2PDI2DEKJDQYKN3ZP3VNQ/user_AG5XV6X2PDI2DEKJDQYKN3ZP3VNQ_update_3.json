@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/15\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Carpenter'], 'Producers': ['Sandy King'], 'Starring': ['James Woods', 'Lex Lang', 'Sheryl Lee'], 'Studio': ['Columbia Pictures']}\nReview Text: A Classic!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker'], 'Studio': ['ABC']}\nReally great show and so easy to buy on prime!!\nFive Stars\nModern Family\nComedy\n['A recipient of the 2010 Emmy Award for Outstanding Comedy Series and a Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series, Modern Family returns to ABC for its third season!']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker']}\nLove this show!!!\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Carpenter'], 'Producers': ['Sandy King'], 'Starring': ['James Woods', 'Lex Lang', 'Sheryl Lee'], 'Studio': ['Columbia Pictures']}\nA Classic!!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** The user maintains a strong inclination towards highly positive ratings, evidenced by an average rating of 4.9, with consistently perfect 5-star reviews. Their recent review reiterates this trend with a perfect score of 5.0.\n- **Content Consumption:** Prefers English audio and subtitles, demonstrating a commitment to accessible viewing options and reinforcing their focus on inclusive media experiences.\n- **Genre and Themes:** Enjoys comedic series with high production quality from diverse directors, with recent interactions showing appreciation for classic content, indicating a broad interest in well-crafted storytelling and engaging ensemble casts across genres.\n- **Platform Preference:** Continues to favor online purchasing and streaming, particularly enjoying platforms that offer convenience, such as Prime, aligning with their user-friendly engagement style.\n- **Engagement Style:** Displays enthusiastic engagement with content, emphasizing positivity in reviews. Their recent interaction showcases a particular appreciation for a classic, reflective of their discerning taste in media.\n- **Social Aspect:** Appreciates shows that enhance social interactions and cultural dialogues, illustrated by their enjoyment of various series and fondness for storytelling that resonates personally and socially.\n\nRecent interactions reinforce the user\u2019s preferences for quality storytelling and engaging content, while their positive reviews highlight their discerning taste and commitment to drama, comedy, and classic narratives.",
+  "metrics": {
+    "rouge1_f": 0.18082191780821918,
+    "rouge2_f": 0.016528925619834708,
+    "rougeL_f": 0.0821917808219178,
+    "meteor": 0.0794165316045381,
+    "bleu1": 0.11987433796011843,
+    "bleu2": 0.019482567504894896,
+    "bleu3": 0.004941165350221339,
+    "bleu4": 0.0024907487827531653,
+    "bertscore_precision": 0.3645666241645813,
+    "bertscore_recall": 0.36974036693573,
+    "bertscore_f1": 0.36713525652885437
+  }
+}

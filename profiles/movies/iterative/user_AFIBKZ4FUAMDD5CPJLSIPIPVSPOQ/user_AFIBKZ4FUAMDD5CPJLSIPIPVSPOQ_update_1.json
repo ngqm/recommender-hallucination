@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/03/09\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Branagh'], 'Producers': ['Walt Disney Pictures'], 'Starring': ['Chris Hemsworth', 'Anthony Hopkins']}\nReview Text: If you just want a move that's fun to watch, Thor would fit the bill.  It's not going to be intellectually stimulating, but what super hero movie is?  Thor is eye candy, the fight scenes are fun, and the ending is sweet.  Overall an enjoyable way to spend an hour and a half.\nReview Title: Very enjoyable movie!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Branagh'], 'Producers': ['Walt Disney Pictures'], 'Starring': ['Chris Hemsworth', 'Anthony Hopkins']}\nIf you just want a move that's fun to watch, Thor would fit the bill.  It's not going to be intellectually stimulating, but what super hero movie is?  Thor is eye candy, the fight scenes are fun, and the ending is sweet.  Overall an enjoyable way to spend an hour and a half.\nVery enjoyable movie!",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys superhero movies, particularly those that prioritize entertainment over intellectual depth. \n- **Rating Tendencies:** Generally positive reviewer, with a high average rating indicating a tendency to appreciate enjoyable content.\n- **Content Preferences:** Shows a preference for films with action, fun visuals, and engaging fight sequences, suggesting a liking for visually appealing and dynamic storytelling.\n- **Content Sensitivity:** Open to movies with elements of violence, adult themes, and strong language, as indicated by the content advisory.\n- **Overall Attitude:** Values enjoyment and escapism in film experiences rather than complex narratives, often seeking lighthearted and entertaining options. \n\nThis initial assessment suggests a user inclined toward mainstream, blockbuster-style presentations that provide straightforward entertainment without heavy thematic explorations.",
+  "metrics": {
+    "rouge1_f": 0.2058823529411765,
+    "rouge2_f": 0.009900990099009903,
+    "rougeL_f": 0.11764705882352941,
+    "meteor": 0.1268357810413885,
+    "bleu1": 0.20481927710843373,
+    "bleu2": 0.03523249852298763,
+    "bleu3": 0.00911341216584282,
+    "bleu4": 0.004642093226523346,
+    "bertscore_precision": 0.45005741715431213,
+    "bertscore_recall": 0.45566844940185547,
+    "bertscore_f1": 0.45284557342529297
+  }
+}

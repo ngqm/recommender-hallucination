@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Envy Women Perfume, Blush, 60ml\nReview Date: 2019/05/31\nStore: Envy\nAverage Rating: 5.0\nProduct Details: {}\nReview Text: This perfume is AMAZING , Smells great.\nReview Title: How it smells\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Envy Women Perfume, Blush, 60ml\nEnvy\n{}\nThis perfume is AMAZING , Smells great.\nHow it smells",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** Strong inclination towards perfumes, particularly floral or sweet scents, indicated by high rating and positive review.\n- **Product Sentiment:** Consistently expresses satisfaction with products, emphasizing quality and olfactory appeal.\n- **Rating Behavior:** Tends to give maximum ratings (5.0) on highly enjoyable products, suggesting a discerning taste and appreciation for well-crafted items.\n- **Emotional Engagement:** Uses enthusiastic language (\"AMAZING\") to describe experiences with chosen products, indicating an emotional connection or joy derived from usage.\n- **Shopping Behavior:** Likely to seek out high-quality, well-reviewed products in the fragrance category, suggesting a preference for premium items.\n- **Overall Trend:** Appreciates products that deliver a pleasant sensory experience, with a focus on exceptional quality and performance.",
+  "metrics": {
+    "rouge1_f": 0.030534351145038167,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.030534351145038167,
+    "meteor": 0.09668508287292817,
+    "bleu1": 0.028901734104046235,
+    "bleu2": 0.004099186965902171,
+    "bleu3": 0.0021419029121246876,
+    "bleu4": 0.001550556534696072,
+    "bertscore_precision": 0.44422298669815063,
+    "bertscore_recall": 0.31207582354545593,
+    "bertscore_f1": 0.3666044771671295
+  }
+}

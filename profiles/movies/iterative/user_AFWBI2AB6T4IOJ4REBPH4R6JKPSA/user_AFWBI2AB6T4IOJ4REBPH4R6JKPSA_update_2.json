@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bill & Ted's Excellent DBFE (DVD)\nReview Date: 2016/03/31\nStore: Various  (Actor, Director)    Rated:    PG    Format: DVD\nCategories: Movies & TV, MGM Home Entertainment, All MGM Titles\nAverage Rating: 4.8\nProduct Details: {'Genre': 'Comedy', 'Format': 'Multiple Formats, Color, Widescreen, NTSC', 'Contributor': 'Various', 'Language': 'English', 'Runtime': '3 hours and 4 minutes'}\nReview Text: Happy with product. Just as described.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Anastasia / Thumbelina\nRated:    G    Format: DVD\nMovies & TV, Studio Specials, 20th Century Fox Home Entertainment, Kids & Family, Family Features\n['Anastasia and Thumbelina Double Feature DVD']\n{'MPAA rating': 'G (General Audience)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '946626', 'Media Format': 'Multiple Formats, Animated, Color, NTSC, Widescreen', 'Release date': 'March 20, 2012', 'Studio': '20th Century Fox', 'Number of discs': '1'}\nAnastasia dvd starts skipping 15 min into movie and continues. Thumbelina plays just fine, kinda bummed .\nDVD SKIPS\nBill & Ted's Excellent DBFE (DVD)\nVarious  (Actor, Director)    Rated:    PG    Format: DVD\nMovies & TV, MGM Home Entertainment, All MGM Titles\n{'Genre': 'Comedy', 'Format': 'Multiple Formats, Color, Widescreen, NTSC', 'Contributor': 'Various', 'Language': 'English', 'Runtime': '3 hours and 4 minutes'}\nHappy with product. Just as described.\nFive Stars",
+  "profile": "User Summary:\n\n- **Content Preference**: The user enjoys a wide variety of family-oriented films, with a particular appreciation for animated features from established studios, as well as comedies that appeal to all ages.\n- **Format Preference**: Continues to favor physical media, specifically DVDs, aligning with a desire for reliable and tangible formats over digital alternatives.\n- **Rating Sensitivity**: Illustrates a nuanced view on product quality; while recently expressing satisfaction with a high-rated DVD, past experiences with playback issues have also informed their expectations, leading to a significant emphasis on performance.\n- **Audience Consideration**: Consistently seeks out content rated for general audiences, reinforcing a commitment to family-friendly entertainment suitable for viewers of all ages.\n- **Attention to Quality**: Recent interactions demonstrate a strong awareness of product quality and effectiveness, balancing overall enjoyment with functionality. The past negative experience has heightened the user's expectations for a seamless viewing process.\n- **Emotional Response**: The positive review of a recent purchase reflects the user's emotional investment in their viewing experiences, highlighting a desire for both enjoyment and reliability from the products they choose.\n\nOverall, the user prioritizes high-quality, family-oriented films in physical formats and values a consistent, enjoyable viewing experience, indicating a pattern of engagement driven by performance and family-friendly content.",
+  "metrics": {
+    "rouge1_f": 0.16909620991253643,
+    "rouge2_f": 0.005865102639296188,
+    "rougeL_f": 0.06997084548104957,
+    "meteor": 0.11458792419568092,
+    "bleu1": 0.13740458015267176,
+    "bleu2": 0.007255717263557513,
+    "bleu3": 0.002725602076200474,
+    "bleu4": 0.0016721371568399063,
+    "bertscore_precision": 0.37777382135391235,
+    "bertscore_recall": 0.37437903881073,
+    "bertscore_f1": 0.37606877088546753
+  }
+}

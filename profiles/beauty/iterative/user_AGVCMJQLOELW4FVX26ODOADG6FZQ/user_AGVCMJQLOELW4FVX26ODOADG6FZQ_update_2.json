@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NEW 2015 KISS imPRESS \"BIG FLIRT\" Short Length by Broadway Press-On Manicure Nails\nReview Date: 2016/03/14\nStore: imPRESS\nAverage Rating: 3.7\nProduct Details: {'Size': '1 Count (Pack of 1)', 'Brand': 'ImPRESS', 'Style': 'French', 'Pattern': 'Solid', 'Coverage': 'Full Well Tips', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.84 x 1.85 x 0.94 inches; 0.67 Ounces', 'Item model number': 'Kiss'}\nReview Text: And they look great\nReview Title: Fun to use\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "12 Classic Color Elegant Blush Set\nEMORI\n['Classic 12 color blush kit, comes in 2 blush set. Each set is around 5 inch in length and 4 inch in width. This blush set is all you need to bring out the best look. Perfect for everyday use.']\n{'Brand': 'EMORI', 'Skin Tone': 'All', 'Unit Count': '1 count', 'Number of Items': '2', 'Style': 'Compact', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.88 x 4.09 x 1.1 inches; 3.99 Ounces'}\nThis is good quality makeup... My only dislike of the palettes is that there are more orange and peach like colors.. If you like them... Then this would be a good palette for you.. I really like more pinky colors but it is a good  palette.\nGood peachy colors\nNEW 2015 KISS imPRESS \"BIG FLIRT\" Short Length by Broadway Press-On Manicure Nails\nimPRESS\n{'Size': '1 Count (Pack of 1)', 'Brand': 'ImPRESS', 'Style': 'French', 'Pattern': 'Solid', 'Coverage': 'Full Well Tips', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.84 x 1.85 x 0.94 inches; 0.67 Ounces', 'Item model number': 'Kiss'}\nAnd they look great\nFun to use",
+  "profile": "**User Summary:**\n\n- **Makeup Preference:** The user continues to show a strong interest in makeup, particularly emphasizing blush products, while now also exploring manicure options.\n- **Color Inclination:** Maintains a preference for pink shades over orange and peach tones, indicating a desire for specific color palettes in both makeup and nail products.\n- **Quality Concern:** Values good quality in cosmetics, as highlighted by previous reviews and affirmed through recent interactions with nail products.\n- **Versatility:** Looks for products that are suitable for everyday use, reinforcing a practical approach to their beauty routine, now including nail applications alongside makeup.\n- **Store Preference:** Engages with specific beauty stores for purchasing, reflecting brand loyalty or preference, and has now expanded this to include nail products.\n- **Review Behavior:** Actively provides feedback on a variety of products, indicating a critical perspective on quality and performance. Their recent review of nail products demonstrates an openness to experimenting with different beauty categories while still focusing on enjoyment and ease of use.\n\nOverall, the user appreciates quality cosmetics and accessories that align with their aesthetic preferences, focusing on versatility and specific color choices across both makeup and nail products.",
+  "metrics": {
+    "rouge1_f": 0.21220159151193632,
+    "rouge2_f": 0.02666666666666667,
+    "rougeL_f": 0.09549071618037135,
+    "meteor": 0.1256686016708293,
+    "bleu1": 0.20073324660161387,
+    "bleu2": 0.0670474963731331,
+    "bleu3": 0.0322989684396988,
+    "bleu4": 0.010611580786097205,
+    "bertscore_precision": 0.3740977644920349,
+    "bertscore_recall": 0.41792476177215576,
+    "bertscore_f1": 0.3947986364364624
+  }
+}

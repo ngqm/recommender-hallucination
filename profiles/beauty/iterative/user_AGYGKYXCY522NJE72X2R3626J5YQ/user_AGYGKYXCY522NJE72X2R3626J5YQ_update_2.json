@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: CHuangQi Mouse Ears Solid Black and RoseRed Bow Headband for Boys and Girls Birthday Party or Celebrations (Pack of 12)\nReview Date: 2017/05/18\nStore: CHuangQi\nAverage Rating: 4.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '9.4 x 8.2 x 2.9 inches; 6.38 Ounces', 'Item model number': '0126359', 'Department': 'Unisex-child', 'UPC': '723800955270', 'Manufacturer': 'CHuangQi'}\nReview Text: Purchased for a 1 year olds b-day party\nReview Title: Would purchase again\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Girls False Bangs Neat Fringe Hairpiece Side Clip-on Hair Extensions Extension Black\u2026\nSilmei\n{'Brand': 'Silmei', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Clip-In', 'Package Dimensions': '5.8 x 4 x 0.4 inches; 0.81 Ounces', 'UPC': '794168455092'}\nVery cute. Didn't look good on me but easy to put on.\nWould purchase again\nCHuangQi Mouse Ears Solid Black and RoseRed Bow Headband for Boys and Girls Birthday Party or Celebrations (Pack of 12)\nCHuangQi\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '9.4 x 8.2 x 2.9 inches; 6.38 Ounces', 'Item model number': '0126359', 'Department': 'Unisex-child', 'UPC': '723800955270', 'Manufacturer': 'CHuangQi'}\nPurchased for a 1 year olds b-day party\nWould purchase again",
+  "profile": "**User Summary Update:**\n\n- **Product Interest:** Continues to show a strong interest in hair accessories/extensions that enhance appearance, now also interested in playful accessories suitable for special occasions, indicating a broader appeal for fun and festive items.\n- **Styling Preferences:** Maintains a preference for products that are easy to apply or install, emphasizing a desire for user-friendly solutions across various types of accessories.\n- **Material Sensitivity:** Retains her affinity for natural-looking materials, particularly favoring those that appear high-quality and visually appealing.\n- **Aesthetic Appreciation:** Demonstrates a growing appreciation for cute and celebratory items, as evidenced by the latest purchase aimed at enhancing the birthday experience, reinforcing her value for fun aesthetics.\n- **Purchase Behavior:** Remains open to repurchasing, indicating that practical and visually appealing products continue to appeal to her, alongside a willingness to invest in items for special occasions.\n- **Rating Trends:** Continues to exhibit a generally positive outlook on products, rating even playful items highly, reflecting an optimistic evaluation approach. \n\nOverall, the user appears to enjoy both experimenting with hair fashion and incorporating fun, festive accessories into her purchases, consistently prioritizing convenience and aesthetic appeal.",
+  "metrics": {
+    "rouge1_f": 0.1818181818181818,
+    "rouge2_f": 0.006535947712418301,
+    "rougeL_f": 0.09740259740259741,
+    "meteor": 0.12168141592920356,
+    "bleu1": 0.1322314049586777,
+    "bleu2": 0.02342387732366658,
+    "bleu3": 0.006114610194108728,
+    "bleu4": 0.003127354452964272,
+    "bertscore_precision": 0.3890655040740967,
+    "bertscore_recall": 0.39640313386917114,
+    "bertscore_f1": 0.39270004630088806
+  }
+}

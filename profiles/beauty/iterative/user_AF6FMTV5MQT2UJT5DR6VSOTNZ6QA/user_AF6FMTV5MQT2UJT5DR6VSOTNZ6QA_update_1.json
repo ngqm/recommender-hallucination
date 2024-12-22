@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Silicone Bath Body Brush,Back Scrubber for Shower Pack of 1,Exfoliating Lengthen Silicone Body Back Scrubber for Women and Men,Easy to Clean, Lathers Well\nReview Date: 2021/01/07\nStore: Cutegirl\nAverage Rating: 4.2\nProduct Details: {'Package Dimensions': '8.62 x 6.22 x 2.2 inches; 6.74 Ounces', 'UPC': '738633493899'}\nReview Text: This Body Scrubber looks and feels like it would work Great for the Shower, but I got it to use for Cleaning my Makeup Brushes! The raised textures work Perfect for cleaning my Brushes! Easy to Rinse Clean!\nReview Title: Awesome for Cleaning Makeup Brushes!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Silicone Bath Body Brush,Back Scrubber for Shower Pack of 1,Exfoliating Lengthen Silicone Body Back Scrubber for Women and Men,Easy to Clean, Lathers Well\nCutegirl\n{'Package Dimensions': '8.62 x 6.22 x 2.2 inches; 6.74 Ounces', 'UPC': '738633493899'}\nThis Body Scrubber looks and feels like it would work Great for the Shower, but I got it to use for Cleaning my Makeup Brushes! The raised textures work Perfect for cleaning my Brushes! Easy to Rinse Clean!\nAwesome for Cleaning Makeup Brushes!",
+  "profile": "**User Summary:**\n\n- **Product Usage:** Values multi-functional items; prefers products that can serve multiple purposes beyond their intended use.\n- **Grooming and Hygiene:** Shows interest in personal care tools, specifically body scrubbing and cleaning accessories.\n- **Quality Expectations:** Prioritizes ease of cleaning and effectiveness in product functionality.\n- **User Experience:** Looks for products that provide a high level of satisfaction, as indicated by a perfect rating for an item that exceeded expectations.\n- **Review Behavior:** Engages positively with products that offer innovative solutions, as demonstrated by a strong preference for practicality and performance in reviews.\n- **Gender Neutrality:** Engages with products marketed to all genders, indicating a versatile approach to personal care.\n\nOverall, the user profile reflects a preference for practical, versatile, and easy-to-maintain personal care products, along with a strong focus on effective performance and satisfaction in their reviews.",
+  "metrics": {
+    "rouge1_f": 0.16143497757847536,
+    "rouge2_f": 0.009049773755656108,
+    "rougeL_f": 0.09865470852017935,
+    "meteor": 0.12623985572587917,
+    "bleu1": 0.1099476439790576,
+    "bleu2": 0.007607048116162354,
+    "bleu3": 0.003128408861913642,
+    "bleu4": 0.0020088761757068615,
+    "bertscore_precision": 0.40285414457321167,
+    "bertscore_recall": 0.3913338780403137,
+    "bertscore_f1": 0.3970104455947876
+  }
+}

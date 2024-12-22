@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SEGMINISMART Organic Nails Gel Color Top Coat\nReview Date: 2019/06/21\nStore: Organic Nails\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nReview Text: Organic lo mejor siempre\nReview Title: Muy bueno\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Strong inclination towards organic and natural beauty products, specifically gel nail solutions.\n- **Quality Focus:** Values high-quality products, as indicated by preference for items with high average ratings (e.g., 4.7).\n- **Satisfaction Level:** Demonstrated satisfaction with products through positive reviews and high ratings.\n- **Aesthetic Preference:** Preference for glossy finishes, indicating an appreciation for a polished look.\n- **Target Demographic:** Engages with products aimed at adults, suggesting a mature consumer base.\n\n**Overall Trend:** The user showcases a consistent preference for organic beauty products that promise quality and aesthetic appeal, favoring items that enhance personal grooming with a focus on natural ingredients.",
+  "metrics": {
+    "rouge1_f": 0.13580246913580246,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08641975308641975,
+    "meteor": 0.10304219823356231,
+    "bleu1": 0.09677419354838708,
+    "bleu2": 0.007927192783137712,
+    "bleu3": 0.0034502386541903135,
+    "bleu4": 0.0022799533201064916,
+    "bertscore_precision": 0.41737300157546997,
+    "bertscore_recall": 0.391636461019516,
+    "bertscore_f1": 0.4040953516960144
+  }
+}

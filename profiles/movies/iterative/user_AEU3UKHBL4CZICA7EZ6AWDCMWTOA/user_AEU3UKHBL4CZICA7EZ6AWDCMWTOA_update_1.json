@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/01/01\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerard McMurray'], 'Producers': ['Jason Blum', 'Michael Bay', 'Andrew Form', 'Brad Fuller', 'S\u00e9bastien K. Lemercier'], 'Starring': [\"Y'lan Noel\", 'Lex Davis', 'Joivan Wade']}\nReview Text: Love this movie. Scary of course but love it.\nReview Title: That song\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerard McMurray'], 'Producers': ['Jason Blum', 'Michael Bay', 'Andrew Form', 'Brad Fuller', 'S\u00e9bastien K. Lemercier'], 'Starring': [\"Y'lan Noel\", 'Lex Davis', 'Joivan Wade']}\nLove this movie. Scary of course but love it.\nThat song",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys horror and thriller films, particularly those with dark themes and intense content.\n- **Content Tolerance:** Open to viewing media with mature content, including violence, substance use, and sexual themes.\n- **Engagement Style:** Expresses enthusiasm and enjoyment in reviews, indicating a strong emotional connection to the content.\n- **Media Format:** Prefers content in English, with a likelihood of appreciating audio description and closed caption options for enhanced accessibility.\n- **Production Values:** Shows a preference for works associated with well-known producers and directors, suggesting a focus on quality and established reputation in filmmaking.\n- **Overall Sentiment:** Generally positive attitude towards media consumption, as indicated by high ratings in reviews.\n  \nThis profile suggests the user is a committed fan of horror films that challenge norms, with a strong appreciation for the immersive experience offered by quality production.",
+  "metrics": {
+    "rouge1_f": 0.14659685863874347,
+    "rouge2_f": 0.031746031746031744,
+    "rougeL_f": 0.13612565445026178,
+    "meteor": 0.11833040629850107,
+    "bleu1": 0.10416666666666666,
+    "bleu2": 0.00738495239084239,
+    "bleu3": 0.0030618266554629063,
+    "bleu4": 0.001974103864328182,
+    "bertscore_precision": 0.408588171005249,
+    "bertscore_recall": 0.3773408532142639,
+    "bertscore_f1": 0.39234334230422974
+  }
+}

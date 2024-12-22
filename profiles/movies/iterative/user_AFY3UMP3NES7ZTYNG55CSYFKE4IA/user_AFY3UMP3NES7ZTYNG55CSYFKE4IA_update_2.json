@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/01\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Spottiswoode'], 'Producers': ['Jonathan Shteinman', 'Wieland Schulz-Keil', 'Peter Loehr', 'Arthur Cohn', 'Martin Hagemann'], 'Starring': ['Jonathan Meyers', 'Radha Mitchell', 'Chow Yun-Fat'], 'Studio': ['Sony Pictures Classics']}\nReview Text: Wonderful movie and acting was superior. Story was sad and magnificent!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Luc Besson'], 'Producers': ['Virginie Besson-Silla'], 'Starring': ['Scarlett Johansson', 'Morgan Freeman', 'Amr Waked']}\nAwesome movie! Awesome subject matter! Superior acting as usual. I just love Scarlett\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Spottiswoode'], 'Producers': ['Jonathan Shteinman', 'Wieland Schulz-Keil', 'Peter Loehr', 'Arthur Cohn', 'Martin Hagemann'], 'Starring': ['Jonathan Meyers', 'Radha Mitchell', 'Chow Yun-Fat'], 'Studio': ['Sony Pictures Classics']}\nWonderful movie and acting was superior. Story was sad and magnificent!\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference**: Consistently rates films highly, with an average rating of 4.6, including recent ratings of 5.0, demonstrating a strong appreciation for quality cinema.\n- **Content Interests**: Enjoys action-packed films with strong narratives, particularly those exploring complex themes such as violence and substance use. Values emotionally resonant stories that combine sadness with magnificence.\n- **Actor Preference**: Shows a clear admiration for prominent actors, with enthusiastic appreciation for specific acclaimed performers, suggesting a preference for strong performances that enhance storytelling.\n- **Cinematic Quality**: Equally values superior acting and impactful subject matter, indicating a preference for well-crafted films that leave a lasting impression.\n- **Content Advisory Tolerance**: Open to mature themes, indicating comfort with content that includes violence, substance use, and strong language.\n- **Accessibility Preferences**: Values inclusive viewing options, such as audio descriptions and closed captions, reflecting an interest in enhancing the viewing experience for all audiences.\n\nOverall, the user displays a strong inclination towards high-quality, engaging films with complex themes, noteworthy performances, and emotionally powerful narratives, prioritizing films that deliver profound cinematic experiences.",
+  "metrics": {
+    "rouge1_f": 0.14760147601476012,
+    "rouge2_f": 0.0446096654275093,
+    "rougeL_f": 0.07380073800738006,
+    "meteor": 0.11897465301119062,
+    "bleu1": 0.15677966101694915,
+    "bleu2": 0.025829198471674364,
+    "bleu3": 0.006581658338357327,
+    "bleu4": 0.003325925524550058,
+    "bertscore_precision": 0.40185171365737915,
+    "bertscore_recall": 0.4019720256328583,
+    "bertscore_f1": 0.4019118845462799
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Kristin Ess The Oversized Satin Scrunchie ? Cheetah\nReview Date: 2022/05/23\nStore: Kristin Ess\nProduct Description: ['But make it fashun! This chic satin, oversized scrunchie can be wrapped once or twice depending on the thickness of your hair. Try securing your ponytail with a regular elastic first and then put this over to maximize the look!']\nAverage Rating: 4.5\nProduct Details: {'Material': 'Satin', 'Item Form': 'Scrunchie', 'Brand': 'Kristin Ess', 'Hair Type': 'All', 'Number of Pieces': '1', 'Package Dimensions': '10.55 x 6.26 x 1.46 inches; 1.13 Ounces', 'Item model number': '184-KES-0309', 'UPC': '840797141438'}\nReview Text: [[VIDEOID:1caeab65346b101dab4627efe802e13f]] This has no stretch whatsoever. It\u2019s literally just a super tight hair tie wrapped in a bunch of extra, unnecessary fabric. I have waist length hair and only use scrunchies because it\u2019s the only thing that stretches enough and holds my hair. This is not it ladies.\nReview Title: Absolutely not\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Kristin Ess The Oversized Satin Scrunchie ? Cheetah\nKristin Ess\n['But make it fashun! This chic satin, oversized scrunchie can be wrapped once or twice depending on the thickness of your hair. Try securing your ponytail with a regular elastic first and then put this over to maximize the look!']\n{'Material': 'Satin', 'Item Form': 'Scrunchie', 'Brand': 'Kristin Ess', 'Hair Type': 'All', 'Number of Pieces': '1', 'Package Dimensions': '10.55 x 6.26 x 1.46 inches; 1.13 Ounces', 'Item model number': '184-KES-0309', 'UPC': '840797141438'}\n[[VIDEOID:1caeab65346b101dab4627efe802e13f]] This has no stretch whatsoever. It\u2019s literally just a super tight hair tie wrapped in a bunch of extra, unnecessary fabric. I have waist length hair and only use scrunchies because it\u2019s the only thing that stretches enough and holds my hair. This is not it ladies.\nAbsolutely not",
+  "profile": "**User Summary:**\n\n- **Hair Accessories Preference:** User favors scrunchies specifically designed for thick hair but values functionality over fashion. \n- **Material Sensitivity:** Prefers stretchy materials for hair accessories; dissatisfaction noted with non-stretchy or tight products.\n- **Quality Expectations:** User expects high performance from purchased items. Disappointment reflected in low ratings when the product fails to meet expectations.   \n- **Product Rating Pattern:** Tends to provide honest feedback, impacting ratings based on practicality.\n- **Focus on Functionality:** Selects items that can securely manage long hair while being user-friendly. \n\nThis summary highlights the user\u2019s preference for practical, effective hair accessories, especially those that accommodate longer, thicker hair, suggesting a trend towards seeking reliable functionality in their beauty product choices.",
+  "metrics": {
+    "rouge1_f": 0.21343873517786563,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.09486166007905138,
+    "meteor": 0.14098885872784497,
+    "bleu1": 0.19676090738231242,
+    "bleu2": 0.04588871527983399,
+    "bleu3": 0.010427796507169188,
+    "bleu4": 0.004978756439023914,
+    "bertscore_precision": 0.39870500564575195,
+    "bertscore_recall": 0.43427473306655884,
+    "bertscore_f1": 0.41573044657707214
+  }
+}

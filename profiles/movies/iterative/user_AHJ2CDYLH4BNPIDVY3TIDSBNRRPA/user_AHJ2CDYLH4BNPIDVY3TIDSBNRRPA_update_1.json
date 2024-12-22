@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/11/10\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['TBD'], 'Producers': ['TBD'], 'Starring': ['TBD']}\nReview Text: TWD Rockzors My Sockzors!\nReview Title: TWD Rockzors My Sockzors!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['TBD'], 'Producers': ['TBD'], 'Starring': ['TBD']}\nTWD Rockzors My Sockzors!\nTWD Rockzors My Sockzors!",
+  "profile": "**User Profile Summary:**\n\n- **Favorable Ratings**: Tends to give high ratings, as indicated by the 5.0 score.\n- **Content Preference**: Enjoys media with English audio and subtitles, suggesting a preference for English-language content.\n- **Engagement Level**: Actively engages with content, expressing enthusiasm (\"TWD Rockzors My Sockzors!\") which indicates a positive emotional connection.\n- **Entertainment Focus**: Likely a fan of genres related to action or adventure, inferred from the context of the review. \n- **Community Interaction**: Engages with a community or fandom, suggesting interest in shared experiences and discussions.\n\nOverall, this user exhibits a high level of satisfaction with their media choices, particularly those in English, and actively participates in related communities.",
+  "metrics": {
+    "rouge1_f": 0.140625,
+    "rouge2_f": 0.04761904761904762,
+    "rougeL_f": 0.109375,
+    "meteor": 0.17479358155475933,
+    "bleu1": 0.08750000000000001,
+    "bleu2": 0.04691756453222207,
+    "bleu3": 0.03470390634114575,
+    "bleu4": 0.027012598141523285,
+    "bertscore_precision": 0.501702606678009,
+    "bertscore_recall": 0.348671019077301,
+    "bertscore_f1": 0.4114171862602234
+  }
+}

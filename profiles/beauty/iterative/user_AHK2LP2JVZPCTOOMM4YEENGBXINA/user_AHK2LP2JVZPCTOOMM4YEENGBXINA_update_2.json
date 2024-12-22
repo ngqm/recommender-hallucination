@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SEGMINISMART Organic Nails Gel Color Top Coat\nReview Date: 2019/06/21\nStore: Organic Nails\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nReview Text: Organic lo mejor siempre\nReview Title: Muy bueno\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno\nSEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user maintains a strong inclination towards organic and natural beauty products, particularly gel nail solutions.\n- **Recent Purchase:** Their latest acquisition, a high-rated organic gel top coat, further emphasizes their commitment to quality and natural ingredients.\n- **Quality Focus:** Continues to prioritize high-quality products, favoring items with impressive average ratings, such as 4.7 or higher.\n- **Satisfaction Level:** The user consistently demonstrates satisfaction through glowing reviews and high ratings, as evidenced by their recent 5-star review.\n- **Aesthetic Preference:** A preference for glossy finishes is prevalent, highlighting their appreciation for polished and visually appealing products.\n- **Target Demographic:** Engages primarily with beauty products designed for adults, reflecting a mature consumer base.\n\n**Overall Trend:** The user showcases a consistent and growing preference for high-quality organic beauty products that align with their values of sustainability and aesthetic appeal. Their focus remains on enhancing personal grooming experiences with products that feature natural ingredients and polished finishes, reinforcing their position as a discerning and quality-focused consumer in the beauty market.",
+  "metrics": {
+    "rouge1_f": 0.125,
+    "rouge2_f": 0.006993006993006993,
+    "rougeL_f": 0.0763888888888889,
+    "meteor": 0.08406006926701869,
+    "bleu1": 0.07860262008733625,
+    "bleu2": 0.005871527345728599,
+    "bleu3": 0.002476426481835023,
+    "bleu4": 0.0016100596635173557,
+    "bertscore_precision": 0.3547408878803253,
+    "bertscore_recall": 0.34098225831985474,
+    "bertscore_f1": 0.347725510597229
+  }
+}

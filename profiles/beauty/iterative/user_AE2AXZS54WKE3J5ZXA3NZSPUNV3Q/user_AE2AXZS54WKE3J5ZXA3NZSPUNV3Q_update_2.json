@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Winzfred Female Waterproof Glowing Vib Multispeed Mssager G-Didlos for Women (Puple)\nReview Date: 2020/01/18\nStore: Winzfred\nAverage Rating: 3.4\nProduct Details: {'Color': 'Puple', 'Brand': 'Winzfred', 'Pattern': 'Floral', 'Unit Count': '1.00 Count', 'Water Resistance Level': 'Waterproof', 'Manufacturer': 'Winzfred'}\nReview Text: I only like the jelly material & the color. It took FOREVEEER to get here. An it is small :( MEH!!!\nReview Title: Whatever! I\u2019ve had better\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "2 Pieces Soft Sleep Cap \u2013 Night Satin Bonnet with Wide Premium Elastic Band for Women\nSamserot\n{'Product Dimensions': '12.6 x 12.6 x 0.8 inches; 2.19 Ounces', 'UPC': '828217364995'}\nI absolutely LOVE the colors and designs. My ONLY con is the band is so damn tight I had to push it back past my edges and stretch it out a few times in order for it not to be so tight, and even then it\u2019s still tight. But the colors are cute\ud83d\ude29\nThe colors are cute\nWinzfred Female Waterproof Glowing Vib Multispeed Mssager G-Didlos for Women (Puple)\nWinzfred\n{'Color': 'Puple', 'Brand': 'Winzfred', 'Pattern': 'Floral', 'Unit Count': '1.00 Count', 'Water Resistance Level': 'Waterproof', 'Manufacturer': 'Winzfred'}\nI only like the jelly material & the color. It took FOREVEEER to get here. An it is small :( MEH!!!\nWhatever! I\u2019ve had better",
+  "profile": "**User Summary:**\n\n- **Aesthetic Appreciation:** Demonstrates a strong fondness for vibrant colors and attractive designs, though recent purchases highlight a struggle to find items that fully meet their expectations.\n- **Comfort Concerns:** Sensitive to fit and size issues, reflecting a clear dissatisfaction with products that are smaller than anticipated or not adequately comfortable.\n- **Mixed Satisfaction:** Experiences mixed feelings about purchases; while they appreciate appealing materials and colors, negative aspects such as lengthy delivery times and inadequate sizing can lead to disappointment.\n- **Attention to Detail:** Values practical usability and product dimensions, indicating a methodical approach to evaluating purchases. Recent experiences suggest a growing frustration with items that do not align with expectations of size and comfort.\n- **Product Functionality:** Consistently prioritizes functionality in self-care products, but recent interactions indicate a need for improved balance between aesthetics and usability.\n- **Brand Awareness:** Engages primarily with brands that emphasize quality materials, yet recent ratings reflect a shift towards critical evaluation of overall product delivery, including shipping times and sizing.\n\nOverall, the user maintains a clear appreciation for style but increasingly seeks items that also meet their comfort and size needs, balancing aesthetic appeal with practical usability. The recent experience has sparked a stronger focus on product dimensions and satisfaction.",
+  "metrics": {
+    "rouge1_f": 0.1440922190201729,
+    "rouge2_f": 0.011594202898550725,
+    "rougeL_f": 0.08645533141210375,
+    "meteor": 0.11610297829379101,
+    "bleu1": 0.14885496183206107,
+    "bleu2": 0.023881489155008116,
+    "bleu3": 0.0060309142489892035,
+    "bleu4": 0.003033628697959119,
+    "bertscore_precision": 0.3846825361251831,
+    "bertscore_recall": 0.3882913887500763,
+    "bertscore_f1": 0.3864785432815552
+  }
+}

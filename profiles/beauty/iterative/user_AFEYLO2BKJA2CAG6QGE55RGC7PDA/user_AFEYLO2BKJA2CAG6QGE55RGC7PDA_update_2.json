@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ice Roller for Face & Eye by Charmlily, Puffiness, Migraine, Pain Relief - Cold Facial Massager Treatment to Reduce Puffy Face & Tighten Pores, Under Eye Wrinkles (Blue)\nReview Date: 2020/10/30\nStore: CHARMLILY\nAverage Rating: 4.4\nProduct Details: {'Brand': 'CHARMLILY', 'Special Feature': 'Heat', 'Is Cordless?': 'Yes', 'Product Grade': 'Home', 'Style': 'Rustic', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.91 x 3.54 x 2.44 inches; 5.61 Ounces', 'UPC': '679360114261', 'Manufacturer': 'CHARMLILY'}\nReview Text: This is so easy to use. Just place the removable roller in freezer for 10 mins and you're ready to go. Feels great on your face and neck. Helps with my headaches and feels great!!\nReview Title: Great Product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students\nBj\u00f6rn Hall\n{'Package Dimensions': '5.4 x 4.9 x 0.5 inches; 0.81 Ounces'}\nI am a nurse and use headbands constantly since COVID has taken over. I love that it keeps my hair out of the way when dealing with my patients, and that I can attach my mask to the buttons to save my poor ears from rubbing raw after a long shift. Highly recommend.\nGreat headband\nIce Roller for Face & Eye by Charmlily, Puffiness, Migraine, Pain Relief - Cold Facial Massager Treatment to Reduce Puffy Face & Tighten Pores, Under Eye Wrinkles (Blue)\nCHARMLILY\n{'Brand': 'CHARMLILY', 'Special Feature': 'Heat', 'Is Cordless?': 'Yes', 'Product Grade': 'Home', 'Style': 'Rustic', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.91 x 3.54 x 2.44 inches; 5.61 Ounces', 'UPC': '679360114261', 'Manufacturer': 'CHARMLILY'}\nThis is so easy to use. Just place the removable roller in freezer for 10 mins and you're ready to go. Feels great on your face and neck. Helps with my headaches and feels great!!\nGreat Product",
+  "profile": "**User Profile Summary:**\n\n- **Occupation:** Medical professional (nurse)\n- **Primary Use:** Functional accessories that enhance comfort and practicality during long shifts\n- **Preferences:** \n  - Values products that provide convenience and ease of use in demanding environments.\n  - Prefers items that help manage hair while working and solutions that alleviate physical discomfort due to prolonged use of personal protective equipment.\n  - Recently demonstrated an interest in self-care products that offer relief from headaches and improve overall comfort following long shifts.\n\n- **Key Trends:**\n  - Strong focus on utility over aesthetics; seeks products that serve specific needs, especially in high-stress situations.\n  - Positive experiences with products that improve work conditions or enhance patient care interactions, and lately, personal comfort post-shift.\n  - High standards for comfort and quality, indicated by satisfaction with durable and effective materials.\n\nOverall, this user combines a clear need for practical, ergonomic solutions aimed at facilitating their demanding role in the healthcare sector with a growing interest in enhancing personal comfort and managing stress in their off-hours. This balance reflects a well-rounded approach to maintaining well-being while fulfilling their professional duties.",
+  "metrics": {
+    "rouge1_f": 0.2021276595744681,
+    "rouge2_f": 0.0106951871657754,
+    "rougeL_f": 0.10106382978723405,
+    "meteor": 0.1305642923959146,
+    "bleu1": 0.1976778449664354,
+    "bleu2": 0.03885464107936276,
+    "bleu3": 0.008335119558528593,
+    "bleu4": 0.003864884101366234,
+    "bertscore_precision": 0.38753122091293335,
+    "bertscore_recall": 0.43302011489868164,
+    "bertscore_f1": 0.4090147912502289
+  }
+}

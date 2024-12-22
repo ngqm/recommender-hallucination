@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ELEVEN EVER Electric Nail Drill, Professional Portable Nail File Drill Grinder Manicure Pedicure Tools for Polishing, Sanding, Removing Gel and Acrylic Nails (silver) \u2026 (silver) (ND-02black)\nReview Date: 2019/07/28\nStore: ELEVEN EVER\nAverage Rating: 3.2\nProduct Details: {'Brand': 'ELEVEN EVER', 'Material': 'Aluminum', 'Power Source': 'Corded Electric', 'Maximum Rotational Speed': '30000 RPM', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.17 x 6.22 x 2.91 inches; 1.06 Pounds', 'UPC': '722943850534'}\nReview Text: Great for the amateur at home to start with. Love that it has a box to store between use of the product. Appreciate the adjustable speed also.\nReview Title: Good product for home use\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "ELEVEN EVER Electric Nail Drill, Professional Portable Nail File Drill Grinder Manicure Pedicure Tools for Polishing, Sanding, Removing Gel and Acrylic Nails (silver) \u2026 (silver) (ND-02black)\nELEVEN EVER\n{'Brand': 'ELEVEN EVER', 'Material': 'Aluminum', 'Power Source': 'Corded Electric', 'Maximum Rotational Speed': '30000 RPM', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.17 x 6.22 x 2.91 inches; 1.06 Pounds', 'UPC': '722943850534'}\nGreat for the amateur at home to start with. Love that it has a box to store between use of the product. Appreciate the adjustable speed also.\nGood product for home use",
+  "profile": "**User Profile Summary:**\n\n- **Product Type:** Prefers home grooming tools, particularly nail care equipment.\n- **Skill Level:** Indicates a focus on products suitable for amateur or beginner use, suggesting a preference for user-friendly features over professional-grade options.\n- **Storage Considerations:** Values practicality, highlighting the importance of storage solutions for tools and accessories.\n- **Adjustable Features:** Appreciates customizable settings such as adjustable speed, indicating a desire for versatility in performance.\n- **Quality Expectations:** Maintains moderate expectations regarding quality, as reflected in the average rating given, suggesting a balance between functionality and cost-effectiveness.\n\nOverall, this user seeks accessible and convenient solutions for home nail care, emphasizing usability and thoughtful design elements for at-home applications.",
+  "metrics": {
+    "rouge1_f": 0.2233009708737864,
+    "rouge2_f": 0.02941176470588235,
+    "rougeL_f": 0.10679611650485436,
+    "meteor": 0.16778634361233483,
+    "bleu1": 0.20512820512820512,
+    "bleu2": 0.05144721129508727,
+    "bleu3": 0.01197845996084823,
+    "bleu4": 0.005789324344957073,
+    "bertscore_precision": 0.4212273359298706,
+    "bertscore_recall": 0.4389248490333557,
+    "bertscore_f1": 0.42989403009414673
+  }
+}

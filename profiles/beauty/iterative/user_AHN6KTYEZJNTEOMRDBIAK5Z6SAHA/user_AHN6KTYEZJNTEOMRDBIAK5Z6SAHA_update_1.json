@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)\nReview Date: 2018/10/08\nStore: EBOOT\nAverage Rating: 4.4\nProduct Details: {'Brand': 'EBOOT', 'Unit Count': '4.19 Count', 'Shape': 'Round', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.29 x 0.79 x 0.79 inches; 1.13 Ounces', 'UPC': '712971920705'}\nReview Text: Great\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)\nEBOOT\n{'Brand': 'EBOOT', 'Unit Count': '4.19 Count', 'Shape': 'Round', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.29 x 0.79 x 0.79 inches; 1.13 Ounces', 'UPC': '712971920705'}\nGreat\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest**: The user displays a preference for beauty and personal care items, specifically tools related to makeup application and maintenance.\n- **Brand Affinity**: They have engaged with the EBOOT brand, indicating brand loyalty or satisfaction with their products.\n- **Positive Experiences**: The user has a pattern of providing high ratings for products they purchase, suggesting a tendency to have positive experiences or high satisfaction with their selections.\n- **Specific Functionality**: The focus on brushes for nail art and makeup implies an interest in detailed, precision-oriented products that enhance personal grooming.\n- **Quality Appreciation**: The high rating reflects an appreciation for quality and effectiveness in beauty tools.\n- **Aesthetic Consideration**: The choice of colors (pink and purple) suggests a preference for aesthetically pleasing designs in personal care products.\n\nOverall, the user favors quality beauty tools that combine functionality with visual appeal, demonstrating a thoughtful approach to their beauty regimen.",
+  "metrics": {
+    "rouge1_f": 0.10945273631840796,
+    "rouge2_f": 0.03015075376884422,
+    "rougeL_f": 0.07960199004975126,
+    "meteor": 0.18032385120350114,
+    "bleu1": 0.083743842364532,
+    "bleu2": 0.006438738052228391,
+    "bleu3": 0.0027424274810411175,
+    "bleu4": 0.0017920241795033477,
+    "bertscore_precision": 0.4119488000869751,
+    "bertscore_recall": 0.36366504430770874,
+    "bertscore_f1": 0.38630402088165283
+  }
+}

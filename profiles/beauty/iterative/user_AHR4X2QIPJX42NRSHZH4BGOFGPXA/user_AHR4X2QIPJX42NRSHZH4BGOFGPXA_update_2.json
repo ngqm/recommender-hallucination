@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 36 Pack 2oz Clear Plastic Empty Bottles Travel Containers with Flip Cap for Hand Sanitizer, Cosmetic, Shampoo, Lotion, Liquid Body Soap, Cream, Toner, BPA-free\nReview Date: 2020/10/29\nStore: JIUZHU\nAverage Rating: 4.5\nProduct Details: {'Package Dimensions': '12.09 x 10.28 x 3.07 inches; 13.12 Ounces', 'UPC': '667322945817'}\nReview Text: These are exactly what I need to put homemade lotion in for gifts! Love that they come in bulk so it is more economical\nReview Title: Great for Diy lotions\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "PURE ORIGINAL INGREDIENTS Vegetable Glycerin (16 fl oz) Food Grade, Vegan, Hypoallergenic, Odorless, Colorless\nPURE ORIGINAL INGREDIENTS\n{'Brand': 'PURE ORIGINAL INGREDIENTS', 'Scent': 'Odorless', 'Item Form': 'Liquid', 'Unit Count': '16 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.58 x 3.27 x 2.52 inches; 1.39 Pounds', 'UPC': '016463997818 742309349052', 'Manufacturer': 'Pure Organic Ingredients'}\nPurchased to use for storyboard snow globe tumblers. Worked amazingly! Allowed the flow of glitter to move flawlessly. Most definitely will be purchasing again.\nPerfect for snow globe tumblers\n36 Pack 2oz Clear Plastic Empty Bottles Travel Containers with Flip Cap for Hand Sanitizer, Cosmetic, Shampoo, Lotion, Liquid Body Soap, Cream, Toner, BPA-free\nJIUZHU\n{'Package Dimensions': '12.09 x 10.28 x 3.07 inches; 13.12 Ounces', 'UPC': '667322945817'}\nThese are exactly what I need to put homemade lotion in for gifts! Love that they come in bulk so it is more economical\nGreat for Diy lotions",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for high-quality, versatile ingredients and materials suitable for creative projects, particularly in the realm of crafting and DIY. They prioritize vegan and hypoallergenic products, reflecting a conscientious approach to their purchases. Recent interactions suggest an interest in containers that facilitate the gifting of homemade beauty products, indicating a DIY mindset and a focus on practicality. The user's satisfaction with bulk purchases highlights an appreciation for economical solutions that meet their crafting needs.\n\nThey value functionality and performance, noting the importance of clear, odorless products that integrate seamlessly into their projects. This aligns with their previous desire for minimalistic characteristics in crafting materials. Their interactions show a trend towards loyalty to brands that deliver quality and meet their specific requirements. Additionally, the user demonstrates a commitment to ethical considerations in their product choices, further emphasizing a blend of practicality in crafting and conscientious consumption. Overall, their profile reflects a creative individual who enjoys making personalized gifts while adhering to values of sustainability and quality in their selections.",
+  "metrics": {
+    "rouge1_f": 0.17857142857142858,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08928571428571429,
+    "meteor": 0.11295527893038267,
+    "bleu1": 0.1408104763304689,
+    "bleu2": 0.008017770165163337,
+    "bleu3": 0.003089796422952116,
+    "bleu4": 0.001920540025916273,
+    "bertscore_precision": 0.35725462436676025,
+    "bertscore_recall": 0.3978831171989441,
+    "bertscore_f1": 0.3764759302139282
+  }
+}

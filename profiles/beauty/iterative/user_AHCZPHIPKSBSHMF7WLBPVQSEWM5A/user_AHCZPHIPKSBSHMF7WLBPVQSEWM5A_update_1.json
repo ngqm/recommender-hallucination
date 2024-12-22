@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hygieia + Encapsulated 2% Retinol Cream \u2013 Liposomal Anti-Wrinkle Cream for Face, Neck & Body \u2013 Fast & Deep Cellular Absorption \u2013 Day or Night Cream for Firming, Lifting & Repairing Aging Skin, 4oz\nReview Date: 2022/08/21\nStore: Hygieia +\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Hygieia +', 'Scent': 'Unscented', 'Item Form': 'Cream', 'Active Ingredients': 'Retinol', 'Unit Count': '4.0 Ounce', 'Package Dimensions': '3.03 x 2.87 x 2.32 inches; 4 Ounces', 'UPC': '607469295352', 'Manufacturer': 'Hygieia +'}\nReview Text: This has really helped with wrinkles and sagging skin I use it as a weekly skin care routine\nReview Title: great product\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Hygieia + Encapsulated 2% Retinol Cream \u2013 Liposomal Anti-Wrinkle Cream for Face, Neck & Body \u2013 Fast & Deep Cellular Absorption \u2013 Day or Night Cream for Firming, Lifting & Repairing Aging Skin, 4oz\nHygieia +\n{'Brand': 'Hygieia +', 'Scent': 'Unscented', 'Item Form': 'Cream', 'Active Ingredients': 'Retinol', 'Unit Count': '4.0 Ounce', 'Package Dimensions': '3.03 x 2.87 x 2.32 inches; 4 Ounces', 'UPC': '607469295352', 'Manufacturer': 'Hygieia +'}\nThis has really helped with wrinkles and sagging skin I use it as a weekly skin care routine\ngreat product",
+  "profile": "**User Summary:**\n\n- **Skincare Focus:** Exhibits a strong preference for anti-aging products, specifically targeting wrinkles and sagging skin. \n- **Product Attributes:** Favors creams with active ingredients like retinol and values deep cellular absorption for effective results.\n- **Routine-Oriented:** Incorporates products into a consistent weekly skincare routine, suggesting a commitment to skincare practices.\n- **Fragrance-Free Preference:** Shows an inclination towards unscented products, indicating a possible sensitivity to fragrances or a preference for neutral formulations.\n- **High Satisfaction:** Tends to give high ratings to products that meet their expectations, appreciating noticeable results from their skincare choices.\n\nOverall, the user appears to prioritize effective, targeted skincare solutions that fit into a regular routine and maintain a preference for minimal fragrance.",
+  "metrics": {
+    "rouge1_f": 0.22448979591836735,
+    "rouge2_f": 0.061855670103092765,
+    "rougeL_f": 0.12244897959183672,
+    "meteor": 0.14552518368136116,
+    "bleu1": 0.14465408805031446,
+    "bleu2": 0.05240798229802666,
+    "bleu3": 0.03270707756682502,
+    "bleu4": 0.021762067653405052,
+    "bertscore_precision": 0.43964484333992004,
+    "bertscore_recall": 0.43379199504852295,
+    "bertscore_f1": 0.4366988241672516
+  }
+}

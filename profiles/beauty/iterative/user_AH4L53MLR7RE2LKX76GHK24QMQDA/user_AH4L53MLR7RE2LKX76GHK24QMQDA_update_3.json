@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: YOUNIQUE BRAND BEACHFRONT BRONZER COLOR - MALIBU\nReview Date: 2019/05/05\nStore: YOUNIQUE\nAverage Rating: 5.0\nProduct Details: {'Coverage': 'Full', 'Brand': 'YOUNIQUE', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Style': 'Compact', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4 x 4 x 1.5 inches; 3.03 Ounces', 'UPC': '762047528236', 'Manufacturer': 'YOUNIQUE - SHIPS STRAIGHT FROM YOUNIQUE SOLD BY INDEPENDENT PRESENTER'}\nReview Text: This bronzer was recently recommend to me by my best friend .And I can honestly say it's so pretty and i loved using it today .Will definitely re purchase Again\nReview Title: The best ever\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nToo Faced\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nGreat smell great for travel\nFive Stars\nWet n Wild 6 Piece Brush Set\nwet 'n wild\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.39 x 3.39 x 3.19 inches; 3.2 Ounces', 'UPC': '077802346568'}\nThis set shredded A lot especially the small Eye shadow brush .i wouldn't recommend this set or buying it\nNot very good\nYOUNIQUE BRAND BEACHFRONT BRONZER COLOR - MALIBU\nYOUNIQUE\n{'Coverage': 'Full', 'Brand': 'YOUNIQUE', 'Unit Count': '1.00 Count', 'Number of Items': '1', 'Style': 'Compact', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4 x 4 x 1.5 inches; 3.03 Ounces', 'UPC': '762047528236', 'Manufacturer': 'YOUNIQUE - SHIPS STRAIGHT FROM YOUNIQUE SOLD BY INDEPENDENT PRESENTER'}\nThis bronzer was recently recommend to me by my best friend .And I can honestly say it's so pretty and i loved using it today .Will definitely re purchase Again\nThe best ever",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** Continues to value travel-friendly beauty products with appealing scents, particularly bronzers, as indicated by a recent positive purchase and review. Compact sizes remain a key interest for convenience.\n- **Quality Emphasis:** Maintains a preference for high-quality items, especially after a standout experience with a new bronzer, reinforcing their expectation for performance and satisfaction across products.\n- **Brand Loyalty:** Shows a solid engagement with established beauty brands, retaining a favorable view of well-known names in the cosmetics industry while remaining open to positive recommendations from peers.\n- **Size Considerations:** Still emphasizes the importance of mini or compact sizes for ease of use and transportability in beauty products.\n- **Positive Feedback vs. Critical Review:** While the user has historically rated products positively, their recent critical feedback on makeup tools highlights a more discerning approach to product performance. However, their exemplary rating for the bronzer suggests they are still capable of very positive evaluations when products meet or exceed expectations.\n\nOverall, this user favors compact, quality, and sensory-rich beauty products from reputable brands, embracing a careful yet enthusiastic approach to new purchases. Their expectations remain high, particularly regarding performance, while their recent positive experience illustrates their ongoing loyalty to effective and appealing beauty solutions.",
+  "metrics": {
+    "rouge1_f": 0.13917525773195877,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07731958762886597,
+    "meteor": 0.10220768601798855,
+    "bleu1": 0.1312741312741313,
+    "bleu2": 0.0071331231750393475,
+    "bleu3": 0.0027052585266451423,
+    "bleu4": 0.00166761805915045,
+    "bertscore_precision": 0.3503781259059906,
+    "bertscore_recall": 0.36232221126556396,
+    "bertscore_f1": 0.3562500476837158
+  }
+}

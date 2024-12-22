@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/01/25\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Ziller'], 'Producers': ['David Perlmutter', 'Mary Sparacio'], 'Starring': ['Kaitlyn Burke', 'Alan Thicke', 'Michael Ontkeen'], 'Studio': ['Questar', 'Inc']}\nReview Text: Since there are bear hunters pictured in this movie who shoot at a bear I would not suggest a child under 9 or 10 watch this movie.  However, no bears are killed in the movie and not bears were harmed making the movie.<br /><br />Excellent film\nReview Title: Whole family will enjoy this movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean-Jacques Annaud'], 'Producers': ['Claude Berri', 'Pierre Grunstein'], 'Starring': ['Jack Wallace', 'Tch\u00e9ky Karyo', 'Andre Lacombe'], 'Studio': ['Shout! Factory', 'LLC']}\nThis is a story based in 1885 it is an excellent story of survival.  I cannot say more without ruining the plot.  If you love animals and a little scare this is an excellent movie.  Well played.\nBeautiful wildlife scenes\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Ziller'], 'Producers': ['David Perlmutter', 'Mary Sparacio'], 'Starring': ['Kaitlyn Burke', 'Alan Thicke', 'Michael Ontkeen'], 'Studio': ['Questar', 'Inc']}\nSince there are bear hunters pictured in this movie who shoot at a bear I would not suggest a child under 9 or 10 watch this movie.  However, no bears are killed in the movie and not bears were harmed making the movie.<br /><br />Excellent film\nWhole family will enjoy this movie",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** Strong interest in survival-themed narratives, particularly those involving animals, with a recent appreciation for family-oriented films that include wildlife elements.\n- **Content Appreciation:** Values emotionally resonant storytelling with compelling plots and well-developed characters, as evidenced by recent positive feedback on a family film despite its intense themes.\n- **Visual and Audio Elements:** Enjoys high-quality visual presentations, including beautiful wildlife scenes, and consistently appreciates enhanced audio options for clearer dialogue, indicating a preference for accessible content.\n- **Rating Tendencies:** Tends to give high ratings, leaning towards 4-5 stars, reflecting satisfaction with purchased content; recently rated a film 5 stars for its quality.\n- **Viewing Experience:** Prefers engaging cinematic experiences that combine elements of nature and drama, favoring productions with thoughtful direction and high production quality.\n- **Language Accessibility:** Shows a preference for English content with validated dialogue enhancements, focusing on clarity in audio to ensure an enjoyable viewing experience. \n\nOverall, this user maintains a discerning taste for well-crafted stories that offer both emotional depth and engaging visuals, along with a newfound affinity for family-friendly films that feature wildlife and survival themes.",
+  "metrics": {
+    "rouge1_f": 0.18604651162790697,
+    "rouge2_f": 0.011695906432748537,
+    "rougeL_f": 0.09302325581395349,
+    "meteor": 0.10241404535479151,
+    "bleu1": 0.14651866387910306,
+    "bleu2": 0.022929992976247638,
+    "bleu3": 0.005743527339124235,
+    "bleu4": 0.0028775396337418807,
+    "bertscore_precision": 0.3909425139427185,
+    "bertscore_recall": 0.409997820854187,
+    "bertscore_f1": 0.40024349093437195
+  }
+}

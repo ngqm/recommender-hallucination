@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/04\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Alexander Koch'], 'Studio': ['CBS']}\nReview Text: Great beginning, nothing has been predictable.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Alexander Koch'], 'Studio': ['CBS']}\nGreat beginning, nothing has been predictable.\nFour Stars",
+  "profile": "User Profile Summary:\n\n- **Genre Preferences**: Enjoys narratives with engaging storytelling and unpredictability. Shows a preference for content that includes elements of tension often found in action and drama genres.\n  \n- **Content Sensitivities**: Comfortable with mature themes, including violence, alcohol use, and sexual content. The user is open to narratives that feature complex characters and situations.\n\n- **Language**: Prefers content in English, both in audio and subtitles, indicating a potential focus on English-language media.\n\n- **Rating Behavior**: Generally positive reviewer with an average rating of 4.5, suggesting a discerning taste while still appreciating quality content that may not be flawless.\n\n- **Director and Cast Appeal**: Shows interest in productions associated with notable directors and a specific set of actors, indicating an affinity for well-established talents in the industry.\n\nOverall, the user seems to appreciate content that is both thought-provoking and entertaining, with a strong tolerance for mature themes and complex storytelling.",
+  "metrics": {
+    "rouge1_f": 0.1359223300970874,
+    "rouge2_f": 0.029411764705882356,
+    "rougeL_f": 0.11650485436893206,
+    "meteor": 0.07251908396946564,
+    "bleu1": 0.09278350515463919,
+    "bleu2": 0.0069335672638551425,
+    "bleu3": 0.0029255267880680252,
+    "bleu4": 0.001902806899801254,
+    "bertscore_precision": 0.3962502181529999,
+    "bertscore_recall": 0.37142205238342285,
+    "bertscore_f1": 0.38343462347984314
+  }
+}

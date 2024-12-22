@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Complete Works of Yuri Norstein (DVD NTSC)\nReview Date: 2011/04/24\nStore: Yury Norstein  (Director)    Format: DVD\nCategories: Movies & TV, Movies\nAverage Rating: 4.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.5 x 5.3 x 0.6 inches; 3.2 Ounces', 'Director': 'Yury Norstein', 'Media Format': 'NTSC, DVD', 'Studio': 'Soyuzmultfilm'}\nReview Text: This slavic master is not only an official in his artform, but also a communicator, he saw something, he heard lamenting and he portrayed it drammatically in a series of dream-like plays, personally, full of warmth and intimacy.<br />Great!\nReview Title: Genius!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Complete Works of Yuri Norstein (DVD NTSC)\nYury Norstein  (Director)    Format: DVD\nMovies & TV, Movies\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.5 x 5.3 x 0.6 inches; 3.2 Ounces', 'Director': 'Yury Norstein', 'Media Format': 'NTSC, DVD', 'Studio': 'Soyuzmultfilm'}\nThis slavic master is not only an official in his artform, but also a communicator, he saw something, he heard lamenting and he portrayed it drammatically in a series of dream-like plays, personally, full of warmth and intimacy.<br />Great!\nGenius!",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Strong affinity for classic animation and artistic expressions in film, particularly from Slavic creators.\n- **Media Format Preference:** Prefers physical media formats, specifically DVDs.\n- **Artistic Appreciation:** Values warmth, intimacy, and a strong narrative in visual storytelling. Shows appreciation for directors with a distinctive artistic vision.\n- **Rating Behavior:** Tends to rate works highly when they resonate emotionally and artistically, as evidenced by a perfect rating.\n- **Cultural Awareness:** Engages with culturally rich artistic products, indicating an interest in global cinema beyond mainstream offerings.\n\nOverall, this user demonstrates a preference for unique, emotionally resonant films, with a specific focus on artful storytelling in animation, leading to a lasting appreciation for narrators who convey deep, meaningful experiences through their work.",
+  "metrics": {
+    "rouge1_f": 0.17560975609756097,
+    "rouge2_f": 0.009852216748768473,
+    "rougeL_f": 0.08780487804878048,
+    "meteor": 0.1377952755905512,
+    "bleu1": 0.1511627906976744,
+    "bleu2": 0.009402089810550502,
+    "bleu3": 0.0037325012035072506,
+    "bleu4": 0.0023552027034583617,
+    "bertscore_precision": 0.4010210335254669,
+    "bertscore_recall": 0.41679930686950684,
+    "bertscore_f1": 0.4087579548358917
+  }
+}

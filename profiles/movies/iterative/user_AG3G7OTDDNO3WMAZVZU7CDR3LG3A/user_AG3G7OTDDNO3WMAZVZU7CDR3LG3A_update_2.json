@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/23\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Clyde Geronimi', 'Hamilton S. Luske', 'Wolfgang Reitherman'], 'Producers': ['Walt Disney'], 'Starring': ['Rod Taylor', 'Betty Lou Gerson', 'Cate Bauer'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Bought online, daughter loved it.\nReview Title: daughter loved it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Kevin Lima', 'Chris Buck'], 'Producers': ['Bonnie Arnold'], 'Starring': ['Tony Goldwyn', 'Sean Bussoli', 'Reuben Sallmander'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Subtitles': ['None available'], 'Directors': ['Clyde Geronimi', 'Hamilton S. Luske', 'Wolfgang Reitherman'], 'Producers': ['Walt Disney'], 'Starring': ['Rod Taylor', 'Betty Lou Gerson', 'Cate Bauer'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.",
+  "profile": "**User Summary:**\n\n- **Family-Oriented**: Key decision-making continues to be deeply influenced by their daughter's preferences and enjoyment.\n- **Content Quality**: Maintains high standards for entertainment, reflected in an impressive 4.8 average rating, demonstrating a commitment to quality.\n- **Language and Accessibility**: Values diverse audio options and subtitles; however, recent purchases indicate flexibility as they engaged with content lacking subtitles.\n- **Brand Preference**: Strong inclination toward reputable studios, particularly Disney, remains evident, favoring well-produced family-friendly content.\n- **Positive Experiences**: Focus remains on enjoyable and engaging content for children, as reflected in enthusiastic feedback. Recent reviews confirm that both the user and their daughter are satisfied with their acquisitions, indicating a consistent trend towards content that resonates with family needs.\n\nOverall, the user exhibits a steadfast preference for high-quality, accessible entertainment that aligns with their family's values, particularly favoring renowned brands. Their continued positive engagement with Disney products further reinforces this pattern, illustrating an ongoing commitment to curating wonderful experiences for their daughter.",
+  "metrics": {
+    "rouge1_f": 0.09876543209876543,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07407407407407407,
+    "meteor": 0.08493150684931508,
+    "bleu1": 0.1261682242990654,
+    "bleu2": 0.007696356808362444,
+    "bleu3": 0.0030344373510455616,
+    "bleu4": 0.0019076030923669204,
+    "bertscore_precision": 0.3673408627510071,
+    "bertscore_recall": 0.35298964381217957,
+    "bertscore_f1": 0.36002230644226074
+  }
+}

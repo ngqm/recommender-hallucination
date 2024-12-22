@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/03/16\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ryan Little'], 'Producers': ['Charles Chan', 'Sunny Chen', 'Adam Abel', 'Ryan Little'], 'Starring': ['Corbin Allred', 'Kirby Heyborne', 'Alexander Polinsky'], 'Studio': ['Koan', 'Inc.']}\nReview Text: A very well told and gripping action film\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "The Pied Piper (1942)\nRoddy McDowall  (Actor),     Anne Baxter  (Actor),     Irving Pichel  (Director)    &                   0                  more   Format: DVD-R  This title is manufactured on demand using DVD-R, when sold by Amazon.com.  Learn more   What's this?\nMovies & TV, Movies\n['Englishman Mr Howard is on a fishing holiday in eastern France when the Germans invade in 1940. Setting off to try and get back home he is persuaded to take along the two Cavanaugh children, and as his journey progresses his family keeps growing in size. Once in German-occupied northern France a new problem arises - the risk of being heard speaking English.']\n{'Is Discontinued By Manufacturer': 'No', 'Director': 'Irving Pichel', 'Media Format': 'Black & White, Full length', 'Actors': 'Monty Woolley, Roddy McDowall, Anne Baxter'}\nThis is a great WWII movie that was very well produced. Monte Woolley was great as the lead. It arrived quicker than promised and was a very good copy.\nThe Pied Piper (1942)\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ryan Little'], 'Producers': ['Charles Chan', 'Sunny Chen', 'Adam Abel', 'Ryan Little'], 'Starring': ['Corbin Allred', 'Kirby Heyborne', 'Alexander Polinsky'], 'Studio': ['Koan', 'Inc.']}\nA very well told and gripping action film\nFour Stars",
+  "profile": "User Profile Summary:\n\n- **Movie Genre Preference:** Holds a strong interest in classic war films, especially narratives centered around WWII. Recently engaged with a gripping action film, indicating a potential openness to complementary genres that maintain high stakes and emotional depth.\n  \n- **Quality Appreciation:** Continues to value well-produced content, reflected in a high average rating for recent interactions. The user maintains a discerning taste for both cinematic quality and storytelling effectiveness.\n\n- **Format Preference:** Shows a commitment to physical media (DVD-R), favoring tangible collections, which suggests a preference for owning and displaying curated film selections.\n\n- **Actor Affinity:** Appreciates performances by established actors, demonstrating a consistent inclination toward classic cinema and seasoned talent, aligning with their previous choices.\n\n- **Timeliness:** Values prompt delivery, as evidenced by positive mentions of quick arrivals in recent interactions, reinforcing their expectation for efficient service.\n\n- **Engagement Style:** Engages thoughtfully in detailed reviews, showcasing a reflective approach to evaluating films. This suggests an eagerness to share insights and contribute to the wider film community.\n\nOverall, the user emerges as a classic film enthusiast with a distinct admiration for WWII narratives, a focus on high-quality production and performances, and an openness to exploring related action films that align with their established preferences.",
+  "metrics": {
+    "rouge1_f": 0.20100502512562812,
+    "rouge2_f": 0.020202020202020204,
+    "rougeL_f": 0.10050251256281406,
+    "meteor": 0.1220770288858322,
+    "bleu1": 0.20943381187756713,
+    "bleu2": 0.05958903422320939,
+    "bleu3": 0.02294943061041955,
+    "bleu4": 0.008016653172142032,
+    "bertscore_precision": 0.3970947563648224,
+    "bertscore_recall": 0.42360490560531616,
+    "bertscore_f1": 0.40992164611816406
+  }
+}

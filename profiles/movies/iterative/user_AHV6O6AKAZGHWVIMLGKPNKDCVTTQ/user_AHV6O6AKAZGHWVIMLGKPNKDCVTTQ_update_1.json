@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Merle Haggard Live On Stage!\nReview Date: 2014/04/02\nStore: Merle Haggard  (Actor),     Multi  (Director)    Format: DVD\nCategories: Movies & TV, Music Artists, Haggard, Merle\nAverage Rating: 4.4\nProduct Details: {'Format': 'NTSC', 'Contributor': 'Merle Haggard, Multi', 'Language': 'English', 'Number Of Discs': '1', 'Runtime': '28 minutes', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Director': 'Multi', 'Media Format': 'NTSC', 'Run time': '28 minutes', 'Release date': 'July 22, 2004', 'Actors': 'Merle Haggard', 'Studio': 'Quality', 'Number of discs': '1'}\nReview Text: I chose this because we really do like Merle Haggard. This was a good concert. I would recommend it his fans.\nReview Title: Good Concert\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Merle Haggard Live On Stage!\nMerle Haggard  (Actor),     Multi  (Director)    Format: DVD\nMovies & TV, Music Artists, Haggard, Merle\n{'Format': 'NTSC', 'Contributor': 'Merle Haggard, Multi', 'Language': 'English', 'Number Of Discs': '1', 'Runtime': '28 minutes', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Director': 'Multi', 'Media Format': 'NTSC', 'Run time': '28 minutes', 'Release date': 'July 22, 2004', 'Actors': 'Merle Haggard', 'Studio': 'Quality', 'Number of discs': '1'}\nI chose this because we really do like Merle Haggard. This was a good concert. I would recommend it his fans.\nGood Concert",
+  "profile": "The user exhibits a strong preference for classic country music, particularly valuing the works of iconic artists. They appreciate live performances, indicating a preference for authentic, engaging concert experiences over studio recordings. Their review reflects satisfaction with the quality of the content and expresses willingness to recommend it to other fans, suggesting a community-oriented mindset.\n\nKey trends include:\n- **Genre Preference**: Country music, especially classic artists.\n- **Media Format**: Favor towards DVDs, likely for visual and auditory experiences together.\n- **Content Enjoyment**: Positive feedback on live concerts, indicating a desire for genuine performance experiences.\n- **Recommendation Behavior**: Willingness to share experiences with others, showcasing community engagement.\n\nOverall, the user appears to value quality, authenticity, and a sense of connection with fellow fans in their entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.16289592760180996,
+    "rouge2_f": 0.018264840182648404,
+    "rougeL_f": 0.08144796380090498,
+    "meteor": 0.11706642046659484,
+    "bleu1": 0.15197918135854965,
+    "bleu2": 0.029895753142375515,
+    "bleu3": 0.008086575831175882,
+    "bleu4": 0.004212174035302106,
+    "bertscore_precision": 0.38043510913848877,
+    "bertscore_recall": 0.39237362146377563,
+    "bertscore_f1": 0.3863121271133423
+  }
+}

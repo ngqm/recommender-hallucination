@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/08/28\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Garland'], 'Producers': ['Scott Rudin', 'Andrew Macdonald', 'Allon Reich', 'Eli Bush', 'David Ellison', 'Dana Goldberg', 'Don Granger', 'Jo Burn'], 'Starring': ['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez'], 'Studio': ['Paramount Pictures Corp.']}\nReview Text: Week story line and terrible ending.\nReview Title: Not enjoyable\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Garland'], 'Producers': ['Scott Rudin', 'Andrew Macdonald', 'Allon Reich', 'Eli Bush', 'David Ellison', 'Dana Goldberg', 'Don Granger', 'Jo Burn'], 'Starring': ['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez'], 'Studio': ['Paramount Pictures Corp.']}\nWeek story line and terrible ending.\nNot enjoyable",
+  "profile": "**User Summary:**\n\n- **Overall Sentiment:** Generally critical of content, especially concerning story quality and resolution.\n- **Preferred Content Themes:** Shows interest in films with potentially darker themes, as indicated by the content advisory (violence, alcohol use, foul language, sexual content).\n- **Language and Accessibility:** Favors English audio with additional support like audio description and closed captions.\n- **Production Quality:** Seems to appreciate high-quality productions, as indicated by the involvement of notable directors and producers, yet might have high expectations based on these factors.\n- **Acting Preferences:** Shows a preference for films featuring well-known actresses, suggesting a focus on narrative-driven performances.\n- **Rating Discrepancies:** Displays a tendency to rate content unfavorably when disappointed, with significant emphasis on story coherence and satisfying conclusions.\n\nIn essence, this user appears to value narrative strength and production quality, with a critical eye toward how these elements come together in their viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.1782178217821782,
+    "rouge2_f": 0.1,
+    "rougeL_f": 0.1683168316831683,
+    "meteor": 0.11474007476539574,
+    "bleu1": 0.12376237623762376,
+    "bleu2": 0.007846866986973565,
+    "bleu3": 0.003134157823873892,
+    "bleu4": 0.001983249609439558,
+    "bertscore_precision": 0.4329860210418701,
+    "bertscore_recall": 0.3795381784439087,
+    "bertscore_f1": 0.4045042097568512
+  }
+}

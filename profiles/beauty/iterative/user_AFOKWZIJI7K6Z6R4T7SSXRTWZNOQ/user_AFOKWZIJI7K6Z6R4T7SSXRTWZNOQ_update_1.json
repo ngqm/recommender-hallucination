@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 35pcs Eyebrow Stamp Stencil Kit ADIMANIS Eyebrow Powder One Step Brow Stamp and Shaping Kit Eyebrow Stencils Eyebrows Shape Reusable Eyebrow Brush, Hairline Powder Contouring Stick (Light Brown)\nReview Date: 2022/02/18\nStore: ADIMANIS\nAverage Rating: 3.3\nProduct Details: {'Brand': 'ADIMANIS', 'Item Form': 'Powder', 'Finish Type': 'Natural', 'Material Feature': 'Reusable, Natural', 'Product Benefits': 'Waterproof', 'Package Dimensions': '5.59 x 4.13 x 1.65 inches; 2.08 Ounces', 'UPC': '761325190127'}\nReview Text: All the stencils and the purple t shape stencils are not long enough for my brows but otherwise work as described. The powder does not. Can't get enough powder on the presser to do any good. Doesn't show up well and not enough powder to really transfer or even do 1 brow without repressing the powder multiple times. I use the stencils with another kit. The powder and powder applicator are a joke\nReview Title: Powder didn't work at all\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "35pcs Eyebrow Stamp Stencil Kit ADIMANIS Eyebrow Powder One Step Brow Stamp and Shaping Kit Eyebrow Stencils Eyebrows Shape Reusable Eyebrow Brush, Hairline Powder Contouring Stick (Light Brown)\nADIMANIS\n{'Brand': 'ADIMANIS', 'Item Form': 'Powder', 'Finish Type': 'Natural', 'Material Feature': 'Reusable, Natural', 'Product Benefits': 'Waterproof', 'Package Dimensions': '5.59 x 4.13 x 1.65 inches; 2.08 Ounces', 'UPC': '761325190127'}\nAll the stencils and the purple t shape stencils are not long enough for my brows but otherwise work as described. The powder does not. Can't get enough powder on the presser to do any good. Doesn't show up well and not enough powder to really transfer or even do 1 brow without repressing the powder multiple times. I use the stencils with another kit. The powder and powder applicator are a joke\nPowder didn't work at all",
+  "profile": "**User Profile Summary:**\n\n- **Beauty Focus**: The user is actively engaged in eyebrow grooming products, specifically eyebrow stencils and powders.\n- **Performance Expectations**: They have high expectations regarding product efficacy and express dissatisfaction when products fail to perform as advertised.\n- **Product Usability**: The user values ease of use and effectiveness, looking for products that provide clear, satisfactory results without the need for excessive reapplication or alteration.\n- **Quality Concerns**: They show a tendency to prioritize quality, indicating that they prefer products that deliver consistent performance to avoid frustration during use.\n- **Review Behavior**: The user is likely to leave detailed feedback, providing insight into their experiences, primarily focusing on product shortcomings rather than strengths.\n- **Material Preferences**: The mention of reusable features suggests a preference for sustainable, eco-friendly options.\n\nOverall, the user demonstrates a critical approach to beauty products, seeking reliable and effective tools for eyebrow shaping while being open to using complementary products for better results.",
+  "metrics": {
+    "rouge1_f": 0.2040816326530612,
+    "rouge2_f": 0.027397260273972605,
+    "rougeL_f": 0.10884353741496598,
+    "meteor": 0.1498335183129856,
+    "bleu1": 0.18660287081339713,
+    "bleu2": 0.02995211489365769,
+    "bleu3": 0.0075676588672275264,
+    "bleu4": 0.0038085034648093993,
+    "bertscore_precision": 0.4178560674190521,
+    "bertscore_recall": 0.42309269309043884,
+    "bertscore_f1": 0.4204580783843994
+  }
+}

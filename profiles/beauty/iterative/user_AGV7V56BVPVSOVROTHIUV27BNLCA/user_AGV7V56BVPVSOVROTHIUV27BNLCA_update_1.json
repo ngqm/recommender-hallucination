@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: TAKIYA 72pcs Mixed Assorted Style Full Cover Acrylic False Artificial Nail Tips (3 Boxes\uff0cNot Includes Glue)\nReview Date: 2018/12/17\nAverage Rating: 3.2\nProduct Details: {'Size': 'Large', 'Material': 'Acrylic', 'Style': 'French', 'Coverage': 'Full Well Tips', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.06 x 6.65 x 1.06 inches; 2.54 Ounces'}\nReview Text: These are very thin and cheap. Even the designs rub off within a day or two. When I wore the first pair pair I thought it might just be a fluke that they kept breaking off and the design came off. So, I tried a second set. The same thing happened. Just tossed the 3rd set.\nReview Title: Don't waste you money!\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "TAKIYA 72pcs Mixed Assorted Style Full Cover Acrylic False Artificial Nail Tips (3 Boxes\uff0cNot Includes Glue)\n{'Size': 'Large', 'Material': 'Acrylic', 'Style': 'French', 'Coverage': 'Full Well Tips', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.06 x 6.65 x 1.06 inches; 2.54 Ounces'}\nThese are very thin and cheap. Even the designs rub off within a day or two. When I wore the first pair pair I thought it might just be a fluke that they kept breaking off and the design came off. So, I tried a second set. The same thing happened. Just tossed the 3rd set.\nDon't waste you money!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference**: The user is interested in artificial nails, specifically acrylic options with full coverage.\n- **Quality Concern**: Strong preference for quality; dissatisfied with low durability and cheap materials. Experiences with multiple purchases indicate a pattern of prioritizing product lifespan and overall craftsmanship.\n- **Style Dislike**: Negative reaction to quick wear and poor design integrity suggests a preference for reliable styles rather than purely aesthetic options.\n- **Frustration with Performance**: Expressed clear frustration with product performance, leading to a definitive stance against products that do not meet expectations. \n- **Rating Behavior**: Tends to provide low ratings for unsatisfactory products, signaling a commitment to sharing honest experiences with others.\n- **Buying Caution**: Likely to be cautious in future purchases, with an emphasis on durability and quality over quantity or price.\n\nOverall, the user's past interaction indicates a strong focus on quality and durability in beauty products, with explicit disappointment in items that fall short of these standards.",
+  "metrics": {
+    "rouge1_f": 0.1811320754716981,
+    "rouge2_f": 0.01520912547528517,
+    "rougeL_f": 0.09811320754716982,
+    "meteor": 0.16044345966717283,
+    "bleu1": 0.15639810426540285,
+    "bleu2": 0.027290160817670158,
+    "bleu3": 0.007089603839896745,
+    "bleu4": 0.003617850713233857,
+    "bertscore_precision": 0.4045616388320923,
+    "bertscore_recall": 0.3964797854423523,
+    "bertscore_f1": 0.4004799425601959
+  }
+}

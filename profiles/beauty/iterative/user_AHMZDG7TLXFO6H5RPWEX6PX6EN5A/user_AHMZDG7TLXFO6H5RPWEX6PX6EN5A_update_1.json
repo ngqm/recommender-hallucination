@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nReview Date: 2020/08/15\nStore: MELARQT\nAverage Rating: 4.4\nProduct Details: {'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nReview Text: This face wash is so exfoliating and smells great. It works really well on the beard area and preps the skin for a nice, super smooth shave. It doesn\u2019t seem to strip the face of natural oils, which is great. Overall, it just leaves a really soft, clean, oil-free (the bad oils) look and feel. I would definitely recommend this for a nice clean face, especially for men with bushy beards.\nReview Title: Great for a soft clean face & beard\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nMELARQT\n{'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nThis face wash is so exfoliating and smells great. It works really well on the beard area and preps the skin for a nice, super smooth shave. It doesn\u2019t seem to strip the face of natural oils, which is great. Overall, it just leaves a really soft, clean, oil-free (the bad oils) look and feel. I would definitely recommend this for a nice clean face, especially for men with bushy beards.\nGreat for a soft clean face & beard",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Preference:** Strong interest in effective facial cleansing and exfoliation products tailored for men's skincare, particularly for those with beards.\n- **Product Features:** Values natural ingredients and products that maintain skin hydration while removing impurities.\n- **Performance Expectations:** Seeks products that provide a deep cleanse without stripping the skin of essential oils; prioritizes those that enhance the shaving experience.\n- **User Experience:** Desires products that offer a pleasant scent and contribute to a soft, clean complexion free from excess oil, specifically for acne-prone skin.\n- **Brand Loyalty:** Shows a preference for brands that specialize in men's skincare solutions and delivers high-quality results, as indicated by a high satisfaction rating.\n\nThis user is likely to continue seeking similar types of men's skincare products that emphasize natural ingredients, effective cleansing, and beard care.",
+  "metrics": {
+    "rouge1_f": 0.34558823529411764,
+    "rouge2_f": 0.06666666666666665,
+    "rougeL_f": 0.1911764705882353,
+    "meteor": 0.1804673022658356,
+    "bleu1": 0.2418448556211303,
+    "bleu2": 0.08855421895741643,
+    "bleu3": 0.03492926651629859,
+    "bleu4": 0.012353437649392483,
+    "bertscore_precision": 0.48181861639022827,
+    "bertscore_recall": 0.5044722557067871,
+    "bertscore_f1": 0.4928852617740631
+  }
+}

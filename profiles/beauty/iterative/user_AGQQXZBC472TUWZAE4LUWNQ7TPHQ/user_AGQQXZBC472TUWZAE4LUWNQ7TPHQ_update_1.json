@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Moresoo 18inch Tape in Hair Extensions Human Hair Blonde Hair Real Human Hair 20pcs 50g Remy Human Hair Extensions Tape on Balayage #6 Brown to Blonde #60 Glue on Hair Seamless Skin Weft Hair\nReview Date: 2018/08/18\nAverage Rating: 5.0\nProduct Details: {'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Tape-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5 x 1.89 inches; 1.76 Ounces', 'UPC': '711931080862'}\nReview Text: Love love love this company love the hair. I use a little bit of blonde shampoo to keep the color nice and bright. Love it. Ive been doing extensions for nearly 12 years and these are some of the best in this price point.\nReview Title: Amaaaaazing hairr omgg\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Moresoo 18inch Tape in Hair Extensions Human Hair Blonde Hair Real Human Hair 20pcs 50g Remy Human Hair Extensions Tape on Balayage #6 Brown to Blonde #60 Glue on Hair Seamless Skin Weft Hair\n{'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Tape-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5 x 1.89 inches; 1.76 Ounces', 'UPC': '711931080862'}\nLove love love this company love the hair. I use a little bit of blonde shampoo to keep the color nice and bright. Love it. Ive been doing extensions for nearly 12 years and these are some of the best in this price point.\nAmaaaaazing hairr omgg",
+  "profile": "**User Summary:**\n\n- **Hair Preference:** Strong preference for high-quality human hair extensions, particularly in blonde colors.\n- **Experience Level:** Has significant experience (12 years) with hair extensions, indicating familiarity with the product range and installation techniques.\n- **Product Type:** Favors seamless and tape-in extensions, highlighting a desire for ease of use and natural appearance.\n- **Maintenance:** Utilizes specific hair care products (like blonde shampoo) to maintain color, suggesting a commitment to keeping hair extensions vibrant and well-maintained.\n- **Quality Focus:** Values quality at a reasonable price, as demonstrated by their enthusiasm for the product and its performance.\n- **Overall Satisfaction:** Consistently provides high ratings, indicating a satisfaction with the products used and a tendency to express positive feedback. \n\nThis profile reflects a user who prioritizes quality, ease of maintenance, and aesthetic appeal in hair extensions.",
+  "metrics": {
+    "rouge1_f": 0.32388663967611336,
+    "rouge2_f": 0.08163265306122448,
+    "rougeL_f": 0.17813765182186236,
+    "meteor": 0.21211856290839812,
+    "bleu1": 0.21693121693121692,
+    "bleu2": 0.048039347451059165,
+    "bleu3": 0.01072632283883179,
+    "bleu4": 0.005075278890377091,
+    "bertscore_precision": 0.4375639259815216,
+    "bertscore_recall": 0.44822293519973755,
+    "bertscore_f1": 0.44282931089401245
+  }
+}

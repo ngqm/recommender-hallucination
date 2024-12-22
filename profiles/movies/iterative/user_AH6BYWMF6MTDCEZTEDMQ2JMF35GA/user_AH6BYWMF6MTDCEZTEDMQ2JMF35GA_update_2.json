@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/11/16\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean-Baptiste Leonetti'], 'Producers': ['Michael Douglas', 'Robert Mitas'], 'Starring': ['Michael Douglas', 'Jeremy Irvine', 'Hanna Mangan Lawrence'], 'Studio': ['Lionsgate']}\nReview Text: Kept your attention.\nReview Title: Familiar\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nMakes you think so don't fall asleep\nMental sleep\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean-Baptiste Leonetti'], 'Producers': ['Michael Douglas', 'Robert Mitas'], 'Starring': ['Michael Douglas', 'Jeremy Irvine', 'Hanna Mangan Lawrence'], 'Studio': ['Lionsgate']}\nKept your attention.\nFamiliar",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Values thought-provoking and engaging narratives, as highlighted by a recent review praising a film for its ability to maintain attention. \n- **Genre Inclination:** Continues to favor complex storytelling often found in science fiction or philosophical themes. The user appreciates works that challenge viewers psychologically and intellectually.\n- **Content Advisory Sensitivity:** Maintains an awareness of mature themes like violence, alcohol use, foul language, and sexual content, showing a consistent preference for content that addresses adult topics thoughtfully.\n- **Language and Accessibility:** Prefers content with English audio and subtitles, emphasizing the importance of accessibility and comprehension during viewing experiences.\n- **Director and Production Value:** Shows a strong inclination towards works produced by renowned directors and producers, suggesting an appreciation for high production quality and established talent in the film industry.\n\nThe user's overall content consumption leans towards intellectually stimulating and engaging material, with a consistent history of seeking out high-quality films that deliver both in storytelling and production.",
+  "metrics": {
+    "rouge1_f": 0.1506276150627615,
+    "rouge2_f": 0.05063291139240506,
+    "rougeL_f": 0.13389121338912133,
+    "meteor": 0.0613988254137747,
+    "bleu1": 0.09134615384615384,
+    "bleu2": 0.021006802883178678,
+    "bleu3": 0.005983439443832428,
+    "bleu4": 0.0031972361134838144,
+    "bertscore_precision": 0.40761470794677734,
+    "bertscore_recall": 0.37745538353919983,
+    "bertscore_f1": 0.39195576310157776
+  }
+}

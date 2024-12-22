@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mukti Organics - Organic Balancing Foaming Cleanser\nReview Date: 2015/12/15\nStore: MUKTI\nAverage Rating: 5.0\nProduct Details: {'Item Form': 'Gel', 'Skin Type': 'Oily', 'Brand': 'MUKTI', 'Scent': 'Flame Tree', 'Material Feature': 'Organic', 'Package Dimensions': '7.9 x 2.8 x 2.7 inches; 15.2 Ounces', 'UPC': '632709438893'}\nReview Text: Very nice! It's nice to have a cleanser with foaming action that cleans well but doesn't dehydrate. Smells great.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mukti Organics - Organic Rosehip Eye Gel\nBergoti\n{'Package Dimensions': '6.5 x 1.7 x 1.6 inches; 0.35 Ounces', 'UPC': '632709438824', 'Manufacturer': 'Bergoti'}\nSo far, so good. I've been using this for a week and I appear to have less puffiness and darkness. I like the smell...and the feel of it. I use it just at night.\nso good. I've been using this for a week and ...\nMukti Organics - Organic Balancing Foaming Cleanser\nMUKTI\n{'Item Form': 'Gel', 'Skin Type': 'Oily', 'Brand': 'MUKTI', 'Scent': 'Flame Tree', 'Material Feature': 'Organic', 'Package Dimensions': '7.9 x 2.8 x 2.7 inches; 15.2 Ounces', 'UPC': '632709438893'}\nVery nice! It's nice to have a cleanser with foaming action that cleans well but doesn't dehydrate. Smells great.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Strong inclination towards organic and natural skincare products.\n- **Focus Areas:** Eye care, specifically targeting puffiness and dark circles, complemented by a recent interest in effective cleansing products for oily skin.\n- **Usage Patterns:** Regular, nightly application for optimal results, with a growing routine that includes cleansing steps.\n- **Scent Appeal:** Preferences for pleasant fragrances remain evident, with a specific appreciation for aromatic and natural scents.\n- **Product Satisfaction:** Maintains high standards for efficacy, as shown by perfect ratings and positive experiences with new products, indicating a trend towards valuing both immediate and long-term results.\n- **Review Trend:** Consistently provides positive feedback based on initial usage, reinforcing the importance of both immediate satisfaction and performance in skincare.\n- **Brand Affinity:** Continues favoring brands that focus on organic and natural ingredients, reflecting a commitment to holistic skincare solutions.\n\nOverall, the user demonstrates a dedicated approach to natural skincare, valuing efficacy and sensory experiences, while expanding their routine to include a holistic cleansing process that aligns with their existing skincare philosophy.",
+  "metrics": {
+    "rouge1_f": 0.16666666666666669,
+    "rouge2_f": 0.013422818791946308,
+    "rougeL_f": 0.1,
+    "meteor": 0.1540292002231976,
+    "bleu1": 0.18803418803418803,
+    "bleu2": 0.028407986245951394,
+    "bleu3": 0.007032843787794165,
+    "bleu4": 0.003503041104343158,
+    "bertscore_precision": 0.4011746048927307,
+    "bertscore_recall": 0.423520028591156,
+    "bertscore_f1": 0.41204458475112915
+  }
+}

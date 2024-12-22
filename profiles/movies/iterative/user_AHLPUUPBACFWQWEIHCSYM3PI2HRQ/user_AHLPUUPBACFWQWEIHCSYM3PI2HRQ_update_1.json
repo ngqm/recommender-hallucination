@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/02/15\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Mackenzie'], 'Producers': ['Carla Hacken', 'Jim Tauber', 'Peter Berg'], 'Starring': ['Chris Pine', 'Ben Foster', 'Jeff Bridges']}\nReview Text: I love Jeff Bridges.  Great little drama.\nReview Title: LOVE Jeff Bridges!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Mackenzie'], 'Producers': ['Carla Hacken', 'Jim Tauber', 'Peter Berg'], 'Starring': ['Chris Pine', 'Ben Foster', 'Jeff Bridges']}\nI love Jeff Bridges.  Great little drama.\nLOVE Jeff Bridges!",
+  "profile": "**User Summary:**\n\nThis user displays a strong preference for films featuring prominent performances, particularly appreciating actors like Jeff Bridges. Their enjoyment of dramas suggests a tendency towards character-driven narratives over action-oriented or superficial plots. The user values quality storytelling, evident from their high ratings and positive reviews, as they rated a specific film 5.0, reflecting enthusiasm and satisfaction.\n\nAdditionally, the inclusion of audio descriptions indicates an appreciation for accessibility features, possibly signaling a broader valuing of inclusivity in media consumption. The user likely prefers content that is well-produced and features strong directorial and production teams, indicating a discriminating taste in the quality of film production.\n\nOverall, the user leans towards emotionally engaging, well-crafted dramas, appreciates notable performances, and supports accessible viewing options.",
+  "metrics": {
+    "rouge1_f": 0.0736196319018405,
+    "rouge2_f": 0.02484472049689441,
+    "rougeL_f": 0.04907975460122699,
+    "meteor": 0.1297668038408779,
+    "bleu1": 0.09722222222222224,
+    "bleu2": 0.03687480657239249,
+    "bleu3": 0.02123523407036838,
+    "bleu4": 0.009077954698980466,
+    "bertscore_precision": 0.40720832347869873,
+    "bertscore_recall": 0.33921393752098083,
+    "bertscore_f1": 0.37011417746543884
+  }
+}

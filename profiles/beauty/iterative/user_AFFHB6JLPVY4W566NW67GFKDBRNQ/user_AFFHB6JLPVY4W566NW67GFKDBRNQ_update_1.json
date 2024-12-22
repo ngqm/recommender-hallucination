@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Qiray Hair Ties For Women Coil Hair Ties,Large Lace Phnom Penh,5 Colors 10 Pieces.\nReview Date: 2020/08/24\nStore: Qiray\nAverage Rating: 4.3\nProduct Details: {'Material': 'Rubber', 'Item Form': 'elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '3.15 x 3.15 x 2.36 inches', 'Number of Pieces': '10', 'Product Dimensions': '3.15 x 3.15 x 2.36 inches; 2.82 Ounces', 'UPC': '655160582486'}\nReview Text: Very pretty, they have a good stretch depending you your hairstyle you may twist twice.  You get two of each color.  The only thing I did not like is that these hair ties have a paint smell to them so wash them before wearing them.\nReview Title: Good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Qiray Hair Ties For Women Coil Hair Ties,Large Lace Phnom Penh,5 Colors 10 Pieces.\nQiray\n{'Material': 'Rubber', 'Item Form': 'elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '3.15 x 3.15 x 2.36 inches', 'Number of Pieces': '10', 'Product Dimensions': '3.15 x 3.15 x 2.36 inches; 2.82 Ounces', 'UPC': '655160582486'}\nVery pretty, they have a good stretch depending you your hairstyle you may twist twice.  You get two of each color.  The only thing I did not like is that these hair ties have a paint smell to them so wash them before wearing them.\nGood",
+  "profile": "**User Profile Summary:**\n\n- **Product Focus**: Hair accessories, particularly versatile and colorful hair ties.\n- **Aesthetic Preferences**: Values visual appeal as indicated by a description of the product as \"very pretty.\" \n- **Functionality**: Prioritizes practicality, demonstrating an awareness of the product's stretchiness to accommodate different hairstyles.\n- **Quality Assessment**: Provides a high rating, suggesting a strong preference for products that meet or exceed expectations.\n- **Sensory Awareness**: Sensitive to product scents; noted the presence of a paint smell, indicating a preference for items that are free from strong odors.\n- **Buying Habit**: Engages in thoughtful purchasing, suggesting a balance between aesthetics and functionality, with attention to product details such as material and usability.\n\nThis initial profile reflects a user who appreciates well-made, visually appealing hair accessories that are functional, although they have some concerns regarding sensory aspects of the products they choose.",
+  "metrics": {
+    "rouge1_f": 0.19166666666666665,
+    "rouge2_f": 0.04201680672268908,
+    "rougeL_f": 0.11666666666666668,
+    "meteor": 0.168757500524392,
+    "bleu1": 0.17346938775510204,
+    "bleu2": 0.059651876881530494,
+    "bleu3": 0.02637235006488178,
+    "bleu4": 0.009873526512474223,
+    "bertscore_precision": 0.41333499550819397,
+    "bertscore_recall": 0.4184665083885193,
+    "bertscore_f1": 0.41588491201400757
+  }
+}

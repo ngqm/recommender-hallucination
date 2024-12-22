@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/05/24\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shawn Levy'], 'Producers': ['Joseph M. Caracciolo Jr.', 'Shawn Levy', 'Josh McLaglen', 'Tom McNulty', 'Billy Rosenberg'], 'Starring': ['Mark Wahlberg', 'Steve Carell', 'Taraji P. Henson'], 'Studio': ['Epix']}\nReview Text: Funny\nReview Title: Fun\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Lowell'], 'Producers': ['Paul Brooks', 'Peter Safran'], 'Starring': ['Eva Longoria', 'Paul Rudd', 'Lake Bell'], 'Studio': ['WARNER BROS.']}\nOk\nOk\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Nilson', 'Michael Schwartz'], 'Producers': ['Lije Sarki', 'Christopher Lemole', 'David Thies', 'Ron Yerxa', 'Tim Zajaros', 'Albert Berger'], 'Starring': ['Zack Gottsagen', 'Ann \\xa0Owens'], 'Studio': ['Critically Acclaimed']}\nOk\nYeah\n{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Osgood Perkins'], 'Studio': ['Metro-Goldwyn-Mayer (MGM)']}\nCreepy\nWeird\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shawn Levy'], 'Producers': ['Joseph M. Caracciolo Jr.', 'Shawn Levy', 'Josh McLaglen', 'Tom McNulty', 'Billy Rosenberg'], 'Starring': ['Mark Wahlberg', 'Steve Carell', 'Taraji P. Henson'], 'Studio': ['Epix']}\nFunny\nFun",
+  "profile": "The user exhibits a strong preference for content with mature themes, consistently engaging with works that feature nudity, violence, alcohol use, foul language, and sexual content. Their previous enjoyment of provocative material is reflected in a high average rating of 4.7, although a recent critical rating of 3.0 indicates a nuanced perspective, as they described that particular work as \"creepy\" and \"weird.\" \n\nHowever, their latest interaction reaffirms their appreciation for high-quality storytelling, as they awarded a perfect 5.0 rating to a comedic film with strong production values. This aligns with their ongoing preference for titles that feature well-known actors and directors, suggesting a blend of contemporary comedic and dramatic elements in their tastes. \n\nThe user predominantly engages with English-language media, favoring titles with English subtitles for accessibility. Overall, their dynamic palate balances humor and seriousness while showcasing a willingness to explore varied narrative expressions. Their recent ratings illustrate an evolving appreciation for diverse storytelling that navigates both light-heartedness and intensity, reinforcing their enduring interest in high-quality production and mature themes.",
+  "metrics": {
+    "rouge1_f": 0.11242603550295857,
+    "rouge2_f": 0.04166666666666667,
+    "rougeL_f": 0.09467455621301776,
+    "meteor": 0.028993147074327888,
+    "bleu1": 0.03030324473882767,
+    "bleu2": 0.002330166118258255,
+    "bleu3": 0.0009925936514154376,
+    "bleu4": 0.0006486803815977149,
+    "bertscore_precision": 0.3385089635848999,
+    "bertscore_recall": 0.34792664647102356,
+    "bertscore_f1": 0.3431532084941864
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: LLTGMV Rat Tail Comb Steel Pin Rat Tail Carbon Fiber Heat Resistant Teasing Combs with Stainless Steel Pintail (Pink)\nReview Date: 2022/10/09\nStore: LLTGMV\nAverage Rating: 4.0\nProduct Details: {'Material': 'Carbon Fiber, Metal', 'Brand': 'LLTGMV', 'Hair Type': 'All', 'Color': 'Pink', 'Number of Items': '1', 'Package Dimensions': '8.03 x 1.06 x 0.28 inches; 0.32 Ounces', 'UPC': '661918856099'}\nReview Text: This is a nice rat tail comb . The plastic is thin but this comb gets the job done. I wanted to try this comb so I can make straighter  parts when I'm styling my granddaughters hair. I definitely recommend this product.\nReview Title: Nice Comb\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "LLTGMV Rat Tail Comb Steel Pin Rat Tail Carbon Fiber Heat Resistant Teasing Combs with Stainless Steel Pintail (Pink)\nLLTGMV\n{'Material': 'Carbon Fiber, Metal', 'Brand': 'LLTGMV', 'Hair Type': 'All', 'Color': 'Pink', 'Number of Items': '1', 'Package Dimensions': '8.03 x 1.06 x 0.28 inches; 0.32 Ounces', 'UPC': '661918856099'}\nThis is a nice rat tail comb . The plastic is thin but this comb gets the job done. I wanted to try this comb so I can make straighter  parts when I'm styling my granddaughters hair. I definitely recommend this product.\nNice Comb",
+  "profile": "**User Preferences Summary:**\n\n- **Hair Styling Tools**: The user shows a clear interest in hair styling tools, specifically combs that assist in creating precise parts for styling.\n\n- **Material Preference**: The user favors products made from durable materials such as carbon fiber and metal, highlighting a preference for quality in hair care tools.\n\n- **Functionality Over Aesthetics**: While the product color (pink) was mentioned, the primary focus was on functionality; the user values performance in achieving desired styling results.\n\n- **Family-Oriented**: The user\u2019s interaction reflects a familial aspect, as the comb is intended for styling their granddaughter\u2019s hair, indicating a nurturing and caring personality.\n\n- **Positive Reviews and Recommendations**: The user tends to leave positive reviews and is willing to recommend products that meet their standards, reflecting satisfaction with purchases that meet their needs effectively. \n\nOverall, this user appears to prioritize functionality, quality materials, and family values in their purchasing decisions related to hair styling tools.",
+  "metrics": {
+    "rouge1_f": 0.18473895582329317,
+    "rouge2_f": 0.016194331983805668,
+    "rougeL_f": 0.12851405622489961,
+    "meteor": 0.17679701340935866,
+    "bleu1": 0.16346153846153846,
+    "bleu2": 0.008886333709298436,
+    "bleu3": 0.0033717808421831275,
+    "bleu4": 0.0020794861816980097,
+    "bertscore_precision": 0.42721837759017944,
+    "bertscore_recall": 0.422862708568573,
+    "bertscore_f1": 0.4250293970108032
+  }
+}

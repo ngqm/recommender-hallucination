@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nReview Date: 2017/02/24\nStore: AVON\nAverage Rating: 4.3\nProduct Details: {'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nReview Text: Beautiful soft scent I remember my mother wearing. Smells just as nice today.\nReview Title: Beautiful fragrance. I get compliments.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.\nAVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.",
+  "profile": "**User Summary:**\n\nThis individual has a strong appreciation for classic fragrances that evoke nostalgia and personal connections, particularly those linked to familial memories. Their recent interaction highlights a continued preference for soft, pleasant scents that are reminiscent of past experiences, indicating a consistent desire for subtlety in fragrance rather than overpowering aromas. The user has demonstrated a positive engagement with modern interpretations of traditional products, reflecting their enjoyment of fragrances that blend classic elegance with contemporary appeal.\n\nThey particularly value scents that receive compliments, showcasing a social aspect to their preferences and a desire for fragrances that enhance personal presence without being intrusive. The user\u2019s high ratings reveal both satisfaction with product quality and emotional resonance. Their recent purchase further solidifies their inclination towards scents that are not only reminiscent but also timeless, enhancing the emotional connection they have with the fragrances they choose. Overall, the user\u2019s profile reflects a strong trend towards appreciating soft, nostalgic aromas that successfully merge the charm of the past with modern sensibilities.",
+  "metrics": {
+    "rouge1_f": 0.07333333333333333,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.046666666666666676,
+    "meteor": 0.07684918347742555,
+    "bleu1": 0.09484482931042022,
+    "bleu2": 0.0067240756701602514,
+    "bleu3": 0.0027878248945485524,
+    "bleu4": 0.001797442022911175,
+    "bertscore_precision": 0.3329159617424011,
+    "bertscore_recall": 0.348490834236145,
+    "bertscore_f1": 0.34052538871765137
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/04/22\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrew Stanton'], 'Producers': ['Jim Morris'], 'Starring': ['Ben Burtt', 'Elissa Knight', 'Jeff Garlin'], 'Studio': ['Pixar']}\nReview Text: This movie is enjoyable for everyone. I saw this in the theater when it first came out; still a classic.\nReview Title: Wonderful Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrew Stanton'], 'Producers': ['Jim Morris'], 'Starring': ['Ben Burtt', 'Elissa Knight', 'Jeff Garlin'], 'Studio': ['Pixar']}\nThis movie is enjoyable for everyone. I saw this in the theater when it first came out; still a classic.\nWonderful Movie",
+  "profile": "### User Profile Summary\n\n- **Overall Preferences:** Enjoys high-quality family-friendly entertainment, particularly animated films.\n- **Rating Tendencies:** Generally rates products highly, with an impressive average rating of 4.8; values enjoyable experiences.\n- **Content Formats:** Prefers media with multiple audio languages and descriptions, indicating a focus on accessibility and variety in audio options.\n- **Engagement with Classics:** Shows nostalgia and appreciation for classic films, as demonstrated by having seen a specific movie in theaters upon its release.\n- **Target Audience:** Prefers content that is enjoyable for a broad audience, suggesting a family-oriented mindset or interest in universal appeal.\n- **Production Quality:** Values contributions from reputable studios and recognized professionals in the industry, reflecting a preference for high production values. \n\nOverall, this user demonstrates a strong inclination towards accessible, high-quality animated films that resonate with both personal nostalgia and broad audience enjoyment.",
+  "metrics": {
+    "rouge1_f": 0.16666666666666666,
+    "rouge2_f": 0.04210526315789473,
+    "rougeL_f": 0.10416666666666667,
+    "meteor": 0.16402253745979625,
+    "bleu1": 0.14361702127659576,
+    "bleu2": 0.0480001706675769,
+    "bleu3": 0.02313791419983537,
+    "bleu4": 0.009045867510785306,
+    "bertscore_precision": 0.4218752682209015,
+    "bertscore_recall": 0.39351314306259155,
+    "bertscore_f1": 0.4072009325027466
+  }
+}

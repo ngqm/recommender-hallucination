@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MERISIHAIR Short Pink Bob Wig for Women,Pink Short Straight Wig ,Shoulder Length Bob Wigs for Women Colorful Fashion Bob Wigs\nReview Date: 2021/10/05\nStore: MERISIHAIR\nAverage Rating: 3.8\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Straight', 'Style': 'Modern', 'Brand': 'MERISIHAIR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.24 x 6.93 x 2.91 inches; 10.55 Ounces', 'UPC': '780744482941'}\nReview Text: Nice cute wig.The color is very pretty.\nReview Title: Nice wig\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JIMIRE Extra Powerful Gel Remover with Brush Applicator for Professional Eyelash Extensions | Quick & Gentle Remove Adhesive in 60s with No Fume | Easy & Convenient to Use | 10 ml\nJIMIRE\n{'Package Dimensions': '5.12 x 1.42 x 0.67 inches; 1.41 Ounces', 'UPC': '732376371056'}\nIt removes the lashes very quickly and gently!The gel pen is easy to control the amount and the brush is so soft.A must buy!!\nVery effective\nMERISIHAIR Short Pink Bob Wig for Women,Pink Short Straight Wig ,Shoulder Length Bob Wigs for Women Colorful Fashion Bob Wigs\nMERISIHAIR\n{'Material': 'Synthetic', 'Hair Type': 'Straight', 'Style': 'Modern', 'Brand': 'MERISIHAIR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.24 x 6.93 x 2.91 inches; 10.55 Ounces', 'UPC': '780744482941'}\nNice cute wig.The color is very pretty.\nNice wig",
+  "profile": "**User Profile Summary:**\n\n**Preferences:**\n- Values efficiency in beauty products (quick results).\n- Seeks gentle and user-friendly applications for eyelash maintenance.\n- Likely to prioritize convenience and control in usage.\n- Enjoys vibrant and fashionable hair options, indicating an interest in creative and playful beauty solutions.\n\n**Trends:**\n- Positive feedback on product effectiveness, particularly in terms of performance.\n- Appreciates well-designed applicators that enhance the user experience.\n- Shows a preference for products that minimize discomfort.\n- Exhibits a favorable attitude towards aesthetic appeal, with a particular interest in color and style, as demonstrated by recent purchases.\n  \nThis updated user profile reflects a person who prioritizes effective, gentle, easy-to-use solutions in beauty while embracing playful and colorful looks, adding a layer of sophistication and creativity to their beauty routine. Their experiences suggest a balanced appreciation for both practicality and aesthetics in their beauty preferences.",
+  "metrics": {
+    "rouge1_f": 0.18315018315018317,
+    "rouge2_f": 0.022140221402214024,
+    "rougeL_f": 0.09523809523809525,
+    "meteor": 0.09881422924901186,
+    "bleu1": 0.14606741573033707,
+    "bleu2": 0.009084270124201281,
+    "bleu3": 0.0036059729992533865,
+    "bleu4": 0.0022751358861275144,
+    "bertscore_precision": 0.3746195435523987,
+    "bertscore_recall": 0.4154512286186218,
+    "bertscore_f1": 0.3939802646636963
+  }
+}

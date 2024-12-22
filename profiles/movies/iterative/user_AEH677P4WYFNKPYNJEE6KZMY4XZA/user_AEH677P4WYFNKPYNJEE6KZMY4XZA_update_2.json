@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/12\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Daniel Minahan', 'Davis Guggenheim', 'Gregg Fienberg', 'Mark Tinker', 'Steve Shill', 'Alan Taylor', 'Michael Engler', 'Walter Hill', 'Michael Almereyda'], 'Producers': ['David Milch', 'Davis Guggenheim', 'Scott Stephens'], 'Starring': ['Timothy Olyphant', 'Ian McShane', 'Molly Parker'], 'Studio': ['HBO']}\nReview Text: Very entertaining. Love the characters.\nReview Title: Love the characters\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Mark Huffam', 'Carolyn Strauss', 'Joanna Burn', 'Frank Doelger', 'Guymon Casady', 'George R.R. Martin', 'Ralph Vicinanza', 'Vince Gerardis'], 'Starring': ['Sean Bean', 'Mark Addy', 'Peter Dinklage'], 'Studio': ['Discovery Global']}\nThis is not usually the kind of thing I choose, but I am enjoying it thoroughly! Well done.\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Daniel Minahan', 'Davis Guggenheim', 'Gregg Fienberg', 'Mark Tinker', 'Steve Shill', 'Alan Taylor', 'Michael Engler', 'Walter Hill', 'Michael Almereyda'], 'Producers': ['David Milch', 'Davis Guggenheim', 'Scott Stephens'], 'Starring': ['Timothy Olyphant', 'Ian McShane', 'Molly Parker'], 'Studio': ['HBO']}\nVery entertaining. Love the characters.\nLove the characters",
+  "profile": "The user displays a strong preference for high-quality storytelling, emphasizing intricate narratives and well-produced content. Their latest interaction highlights a rating of 5.0, showcasing their enjoyment of character-driven stories, further reinforcing their appreciation for engaging narratives. The user consistently values English for both audio and subtitles, signifying a focus on accessibility in their viewing experiences.\n\nHistorically, they have rated content highly, averaging 4.7, pointing to their discerning taste regarding production quality, direction, and notable performances. Their openness to exploring new genres is evident, as they've recently enjoyed content outside of their usual choices, demonstrating a willingness to embrace diverse themes and storytelling styles. \n\nThe user appreciates strong direction and experiences that feature prominent cast performances, indicating that they gravitate towards works that excel in both narrative complexity and character development. Their recent review emphasizes their affinity for well-defined characters, which aligns with their past interactions that echo a similar sentiment toward intricate storytelling. Overall, the user remains committed to high-caliber media that meets their standards for quality and engagement.",
+  "metrics": {
+    "rouge1_f": 0.09210526315789473,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.052631578947368425,
+    "meteor": 0.05303030303030303,
+    "bleu1": 0.07553798887713416,
+    "bleu2": 0.005106084625712769,
+    "bleu3": 0.002083637318592989,
+    "bleu4": 0.0013327912590670318,
+    "bertscore_precision": 0.3169286251068115,
+    "bertscore_recall": 0.35007375478744507,
+    "bertscore_f1": 0.3326776325702667
+  }
+}

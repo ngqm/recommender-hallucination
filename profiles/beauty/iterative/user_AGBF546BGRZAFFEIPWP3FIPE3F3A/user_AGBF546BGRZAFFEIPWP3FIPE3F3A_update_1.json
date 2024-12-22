@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Gio Naturals Organic Moroccan Argan Oil, 4 oz - 100% Pure and USDA Certified for Face, Hair, Skin and Nails\nReview Date: 2015/10/12\nAverage Rating: 3.6\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6 x 2.2 x 2.1 inches; 8.16 Ounces', 'UPC': '820103119702'}\nReview Text: This is 100% pure organic argan oil.  Nothing added. Excellent quality and effective on our hair and nails.  Most of the other brands that claim to be 100% pure argan oil actually add fragrance and preservatives.  If you're using this on your face or hair,  those extras can cause irritation and clogged pores. My wife and I especially like this pump top dispenser. You can precisely control how much you use.  The greatest part,though, has to be the rock bottom price.  We've seen this stuff top $20 per ounce. Here you get 4 ounces of cold pressed organic argan oil for 16 bucks. Recommend<br />&#60;discount provided for evaluation and review\nReview Title: Naturally powerful\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Gio Naturals Organic Moroccan Argan Oil, 4 oz - 100% Pure and USDA Certified for Face, Hair, Skin and Nails\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6 x 2.2 x 2.1 inches; 8.16 Ounces', 'UPC': '820103119702'}\nThis is 100% pure organic argan oil.  Nothing added. Excellent quality and effective on our hair and nails.  Most of the other brands that claim to be 100% pure argan oil actually add fragrance and preservatives.  If you're using this on your face or hair,  those extras can cause irritation and clogged pores. My wife and I especially like this pump top dispenser. You can precisely control how much you use.  The greatest part,though, has to be the rock bottom price.  We've seen this stuff top $20 per ounce. Here you get 4 ounces of cold pressed organic argan oil for 16 bucks. Recommend<br />&#60;discount provided for evaluation and review\nNaturally powerful",
+  "profile": "**User Summary:**\n\n- **Product Preference**: Strong inclination towards organic and natural personal care products, particularly oils known for their versatility in use (face, hair, skin, nails).\n- **Quality Conscious**: Values 100% pure products without additives like fragrances or preservatives, indicating a preference for authenticity and purity.\n- **Pricing Sensitivity**: Looks for high value at a reasonable price point, appreciates cost-effective options that offer quality.\n- **Convenience Features**: Favors products with user-friendly designs, such as a pump dispenser for controlled application, highlighting a trend towards convenience in usage.\n- **Positive Feedback**: Responds well to effective performance and notable quality, as indicated by a high rating when satisfied.\n\nOverall, the user seeks effective, high-quality organic products that deliver value for money while prioritizing purity and ease of use.",
+  "metrics": {
+    "rouge1_f": 0.24285714285714285,
+    "rouge2_f": 0.02158273381294964,
+    "rougeL_f": 0.15,
+    "meteor": 0.1573911517605317,
+    "bleu1": 0.23461787690998942,
+    "bleu2": 0.06938242739262589,
+    "bleu3": 0.029175740621615563,
+    "bleu4": 0.010654519667042459,
+    "bertscore_precision": 0.44312310218811035,
+    "bertscore_recall": 0.4678155779838562,
+    "bertscore_f1": 0.45513466000556946
+  }
+}

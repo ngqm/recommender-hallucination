@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Nail Repair size2\nReview Date: 2019/06/27\nStore: Cherioll\nProduct Description: ['Information [package] Box Contents: 5ml.']\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Cherioll', 'Item Form': 'Gel', 'Item Weight': '0.02 Pounds', 'Liquid Volume': '400 Milliliters', 'Unit Count': '40.5 Fl Oz', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.6 x 7 x 2 inches; 0.32 Ounces', 'Item model number': 'SG_B012XY3YLM_US', 'Manufacturer': 'CARES'}\nReview Text: Love it\nReview Title: Love it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "12 Inch Short Human Hair Clip on Extensions Thin Remy Hair Clip on Blunt Cut for Women Natural Black\nHairro\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Brand': 'Hairro', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 7.48 x 1.22 inches; 6.88 Ounces', 'UPC': '603004878639'}\nLove it\nThe price\nNail Repair size2\nCherioll\n['Information [package] Box Contents: 5ml.']\n{'Brand': 'Cherioll', 'Item Form': 'Gel', 'Item Weight': '0.02 Pounds', 'Liquid Volume': '400 Milliliters', 'Unit Count': '40.5 Fl Oz', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.6 x 7 x 2 inches; 0.32 Ounces', 'Item model number': 'SG_B012XY3YLM_US', 'Manufacturer': 'CARES'}\nLove it\nLove it",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** User maintains a preference for human hair extensions, indicating a continued desire for natural-looking hair products.\n- **Hair Texture and Style:** Interest persists in straight hairstyles and blunt cuts, favoring sleek and polished looks.\n- **Quality Focus:** User recently reviewed a nail repair product with a high rating, showcasing their continued dedication to quality items that meet satisfaction.\n- **Affordability Valuation:** While emphasizing cost-effectiveness in hair purchases, the user's positive response to a high-rated nail care product suggests they also appreciate value in non-hair-related products, possibly indicating a broader understanding of quality versus cost.\n- **Overall Satisfaction:** User expresses enthusiasm for products regardless of average collective ratings, demonstrating a consistent tendency to prioritize personal value and satisfaction over general feedback.\n\nThis profile illustrates a user who not only seeks high-quality, aesthetically pleasing hair solutions but also values effective, well-rated products across different categories, all while being mindful of budget constraints.",
+  "metrics": {
+    "rouge1_f": 0.13284132841328414,
+    "rouge2_f": 0.022304832713754642,
+    "rougeL_f": 0.09594095940959409,
+    "meteor": 0.10149804743565984,
+    "bleu1": 0.09359605911330049,
+    "bleu2": 0.006806958405143717,
+    "bleu3": 0.00284601190258479,
+    "bleu4": 0.0018425531959250436,
+    "bertscore_precision": 0.36940085887908936,
+    "bertscore_recall": 0.3605940341949463,
+    "bertscore_f1": 0.36494430899620056
+  }
+}

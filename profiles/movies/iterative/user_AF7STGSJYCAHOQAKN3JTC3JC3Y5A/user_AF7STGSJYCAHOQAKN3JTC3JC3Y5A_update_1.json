@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Patriot\nReview Date: 2015/09/11\nCategories: Action, Ambitious, Bleak, Malicious\nProduct Description: ['A family man reluctantly joins the American Revolution, aiming to avenge his son - murdered by a sadistic British officer.']\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Roland Emmerich'], 'Producers': ['Dean Devlin', 'Gary Levinsohn', 'Mark Gordon'], 'Starring': ['Mel Gibson', 'Heath Ledger', 'Joely Richardson']}\nReview Text: Great movie\nReview Title: Review\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Patriot\nAction, Ambitious, Bleak, Malicious\n['A family man reluctantly joins the American Revolution, aiming to avenge his son - murdered by a sadistic British officer.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Roland Emmerich'], 'Producers': ['Dean Devlin', 'Gary Levinsohn', 'Mark Gordon'], 'Starring': ['Mel Gibson', 'Heath Ledger', 'Joely Richardson']}\nGreat movie\nReview",
+  "profile": "**User Summary:**\n\n- **Genres Preferred:** Action, particularly those with historical or revolutionary themes.\n- **Themes:** Ambitious narratives with a focus on familial bonds, vengeance, and conflict; appreciates bleak and malicious storylines that explore darker aspects of human nature.\n- **Content Sensitivity:** Open to violence and adult themes in storytelling; not deterred by strong language or mature content.\n- **Review Tendencies:** Generally positive and enthusiastic about films, showcasing a tendency to rate highly when satisfaction is achieved.\n- **Engagement Style:** Brief and straightforward in reviews, focusing on overall enjoyment and quality rather than details. \n\nThis user demonstrates a clear preference for intense, action-driven films that engage with deep emotional and moral conflicts, reinforcing their interest in not just entertainment but also storytelling that provokes thought and personal connection.",
+  "metrics": {
+    "rouge1_f": 0.14054054054054055,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08648648648648648,
+    "meteor": 0.10502625656414102,
+    "bleu1": 0.12790697674418605,
+    "bleu2": 0.027349479264656425,
+    "bleu3": 0.007605884639217833,
+    "bleu4": 0.0040168963391384056,
+    "bertscore_precision": 0.4330558180809021,
+    "bertscore_recall": 0.4032709300518036,
+    "bertscore_f1": 0.4176329970359802
+  }
+}

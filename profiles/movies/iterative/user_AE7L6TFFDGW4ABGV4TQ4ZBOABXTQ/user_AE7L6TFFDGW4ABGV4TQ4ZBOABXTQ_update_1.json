@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/09\nAverage Rating: 3.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['The Orchard'], 'Producers': ['William Simpson'], 'Starring': ['Selena Gomez'], 'Studio': ['The Orchard']}\nReview Text: great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['The Orchard'], 'Producers': ['William Simpson'], 'Starring': ['Selena Gomez'], 'Studio': ['The Orchard']}\ngreat\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Displays a pattern of providing high ratings, as evidenced by the recent five-star review.\n- **Content Appreciation:** Demonstrates a genuine enjoyment of audio and visual content, particularly in English.\n- **Interest in Artists:** Has a preference for contemporary artists or popular figures, as indicated by their enjoyment of a work featuring a notable celebrity.\n- **Production Quality:** Values products from reputable studios and producers, hinting at a preference for polished and well-crafted media.\n- **Emphasis on Accessibility:** Inclined towards offerings that include English subtitles, indicating a consideration for accessibility and comprehension. \n\nOverall, the user appears to appreciate high-quality, engaging content featuring recognizable talent, while also valuing accessibility features.",
+  "metrics": {
+    "rouge1_f": 0.15037593984962405,
+    "rouge2_f": 0.030534351145038167,
+    "rougeL_f": 0.06015037593984962,
+    "meteor": 0.07879656160458452,
+    "bleu1": 0.06962025316455696,
+    "bleu2": 0.006659137353734052,
+    "bleu3": 0.00305190105359221,
+    "bleu4": 0.0020694022279409705,
+    "bertscore_precision": 0.4039894640445709,
+    "bertscore_recall": 0.3151729106903076,
+    "bertscore_f1": 0.35409677028656006
+  }
+}

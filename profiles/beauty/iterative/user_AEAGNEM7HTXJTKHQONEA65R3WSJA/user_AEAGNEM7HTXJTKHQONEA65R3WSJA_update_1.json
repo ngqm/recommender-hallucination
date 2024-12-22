@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pink Gellac 152 Naked Soak-Off UV/LED Gel Polish\nReview Date: 2016/05/26\nStore: PG Pink Gellac\nAverage Rating: 4.2\nProduct Details: {'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Pink', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Number of Items': '152', 'Number of Pieces': '152', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.53 Ounces'}\nReview Text: Super! Love the color and quality!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Pink Gellac 152 Naked Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Pink', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Number of Items': '152', 'Number of Pieces': '152', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.53 Ounces'}\nSuper! Love the color and quality!\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Color Preference:** Strong inclination towards pink shades.\n- **Product Type:** Preference for gel polish formulations, particularly soak-off options.\n- **Quality Appreciation:** High valuation of product quality, as evidenced by a five-star review.\n- **Finish Preference:** Enjoyment of shimmery finishes.\n- **Ethical Standards:** Preference for non-toxic and cruelty-free products.\n- **Age Demographic:** Adult consumers likely seeking reliable and stylish nail care.\n- **Positive Experience:** Consistently positive experiences as indicated by a high average rating.\n\nOverall, this user demonstrates a keen interest in quality nail products that align with their aesthetic preferences and ethical values.",
+  "metrics": {
+    "rouge1_f": 0.26900584795321636,
+    "rouge2_f": 0.0591715976331361,
+    "rougeL_f": 0.17543859649122806,
+    "meteor": 0.10417339577950042,
+    "bleu1": 0.10884353741496595,
+    "bleu2": 0.008634255503078562,
+    "bleu3": 0.0037184384454605076,
+    "bleu4": 0.0024444424917094325,
+    "bertscore_precision": 0.44472837448120117,
+    "bertscore_recall": 0.44383540749549866,
+    "bertscore_f1": 0.4442814588546753
+  }
+}

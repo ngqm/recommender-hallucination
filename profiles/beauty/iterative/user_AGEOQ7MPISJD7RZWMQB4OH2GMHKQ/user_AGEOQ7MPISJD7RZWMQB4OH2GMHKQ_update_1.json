@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Womdee(TM) Retro Vintage Fashion Antique Bronze Colorfull Rhinestone Elegant Peacock Tuck Comb Hair Clip-Purple With Womdee Accessory\nReview Date: 2016/02/18\nAverage Rating: 3.6\nProduct Details: {'Package Dimensions': '3.6 x 1.8 x 0.7 inches; 0.35 Ounces'}\nReview Text: Pretty\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Womdee(TM) Retro Vintage Fashion Antique Bronze Colorfull Rhinestone Elegant Peacock Tuck Comb Hair Clip-Purple With Womdee Accessory\n{'Package Dimensions': '3.6 x 1.8 x 0.7 inches; 0.35 Ounces'}\nPretty\nFour Stars",
+  "profile": "**User Summary:**\n\nThe user exhibits a preference for vintage and retro fashion accessories, particularly items that involve an elegant design aesthetic, as indicated by their purchase of an antique-style hair clip. Their review suggests an appreciation for visual appeal, favoring products described as \"pretty.\" The user rates items positively, as seen in their four-star review, indicating satisfaction but possibly a desire for improvement or higher quality. \n\nThe user seems to gravitate towards accessories that showcase intricate details, specifically colorful elements, which reflects a broader trend towards personalization and unique style within their fashion choices. Given the emphasis on aesthetics over functionality in their review, it can be inferred that they prioritize visual elements in their purchases, suggesting a tendency to choose items that have a standout appeal. Overall, the user appreciates elegant, visually striking accessories that align with a vintage or retro theme.",
+  "metrics": {
+    "rouge1_f": 0.13259668508287292,
+    "rouge2_f": 0.022346368715083796,
+    "rougeL_f": 0.08839779005524862,
+    "meteor": 0.09487666034155598,
+    "bleu1": 0.005988023952095806,
+    "bleu2": 0.0018992744258363593,
+    "bleu3": 0.0012978679228626646,
+    "bleu4": 0.0010745135887626983,
+    "bertscore_precision": 0.3773273229598999,
+    "bertscore_recall": 0.3005731701850891,
+    "bertscore_f1": 0.33460506796836853
+  }
+}

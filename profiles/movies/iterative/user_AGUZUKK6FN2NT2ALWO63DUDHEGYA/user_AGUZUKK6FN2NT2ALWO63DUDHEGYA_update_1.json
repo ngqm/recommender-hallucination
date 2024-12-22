@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/27\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Lehmann', 'Scott Winant', 'Daniel Minahan', 'Howard Deutch', 'John Dahl', 'Michael Ruscio', 'Anthony Hemingway', 'Alan Ball', 'Lesli Linka Glatter', 'David Petrarca'], 'Producers': ['Alan Ball', 'Alexander Woo', 'Carol Dunn Trussell'], 'Starring': ['Anna Paquin', 'Stephen Moyer', 'Ryan Kwanten'], 'Studio': ['HBO']}\nReview Text: Good acting, fuuny stereotypes, good vampires and possible werewolf, but the in the face sex that has nothing to do with plot takes away from show.\nReview Title: Good acting, fuuny stereotypes\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Lehmann', 'Scott Winant', 'Daniel Minahan', 'Howard Deutch', 'John Dahl', 'Michael Ruscio', 'Anthony Hemingway', 'Alan Ball', 'Lesli Linka Glatter', 'David Petrarca'], 'Producers': ['Alan Ball', 'Alexander Woo', 'Carol Dunn Trussell'], 'Starring': ['Anna Paquin', 'Stephen Moyer', 'Ryan Kwanten'], 'Studio': ['HBO']}\nGood acting, fuuny stereotypes, good vampires and possible werewolf, but the in the face sex that has nothing to do with plot takes away from show.\nGood acting, fuuny stereotypes",
+  "profile": "**User Summary:**\n\n- **Content Preferences:** Enjoys shows with strong acting and well-developed characters, particularly in genres that feature supernatural themes (vampires, werewolves).\n- **Humor Appreciation:** Values comedy intertwined with serious themes, indicating a preference for content that includes humorous elements, even if they involve stereotypes.\n- **Critique of Content:** Sensitive to the relevance of adult content to the overall plot; prefers shows that maintain narrative integrity without excessive, unrelated explicit scenes.\n- **Language Preference:** Favors English-language content, likely indicating a primary comfort with English media.\n- **Engagement with Creators:** Has a notable awareness of directors and producers, suggesting an interest in the creative aspects behind the scenes of entertainment.\n- **Review Rating Tendencies:** Tends to rate content favorably (high ratings) but does not hesitate to provide constructive criticism when aspects do not align with personal preferences. \n\nOverall, the user appears to seek a balance between engaging storytelling and humor while remaining critical of unnecessary adult content that detracts from the narrative.",
+  "metrics": {
+    "rouge1_f": 0.1810344827586207,
+    "rouge2_f": 0.008695652173913044,
+    "rougeL_f": 0.09482758620689656,
+    "meteor": 0.10848126232741619,
+    "bleu1": 0.1342592592592593,
+    "bleu2": 0.024989231100081877,
+    "bleu3": 0.006632806654129001,
+    "bleu4": 0.0034211971573995456,
+    "bertscore_precision": 0.4057113230228424,
+    "bertscore_recall": 0.3970845937728882,
+    "bertscore_f1": 0.4013516306877136
+  }
+}

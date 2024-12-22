@@ -1,0 +1,91 @@
+{
+  "user_id": "AFEQ45BGLFQIL5F6OYCKPM3SGSMA",
+  "summary": "=== Purchase Information ===\nProduct Title: Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Pink Blossom Beauty Train Case with Lock)\nReview Date: 2018/12/04\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11 x 10 inches; 6.6 Pounds', 'Item model number': '10/138'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large USA American Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box\nReview Date: 2018/12/04\nStore: Beautify\nAverage Rating: 4.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11.26 x 10 inches; 6.1 Pounds'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large Pink Butterfly Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box with Dividers\nReview Date: 2018/12/04\nStore: Beautify\nAverage Rating: 3.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14.17 x 8.66 x 9.45 inches; 3.88 Pounds', 'Item model number': '10/232'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Blush Pink Crocodile Animal Print Beauty Train Case with Lock)\nReview Date: 2018/12/04\nStore: TrimDish\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.35 x 11.57 x 10 inches; 5.07 Pounds', 'Item model number': '10/131'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Pink Blossom Beauty Train Case with Lock)\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11 x 10 inches; 6.6 Pounds', 'Item model number': '10/138'}\nEXCELENT ....... MY FAVORITE BRAND\nMakeup Case\nBeautify Large USA American Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box\nBeautify\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11.26 x 10 inches; 6.1 Pounds'}\nEXCELENT ....... MY FAVORITE BRAND\nMakeup Case\nBeautify Large Pink Butterfly Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box with Dividers\nBeautify\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14.17 x 8.66 x 9.45 inches; 3.88 Pounds', 'Item model number': '10/232'}\nEXCELENT ....... MY FAVORITE BRAND\nMakeup Case\nBeautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Blush Pink Crocodile Animal Print Beauty Train Case with Lock)\nTrimDish\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.35 x 11.57 x 10 inches; 5.07 Pounds', 'Item model number': '10/131'}\nEXCELENT ....... MY FAVORITE BRAND\nMakeup Case",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Pink Blossom Beauty Train Case with Lock)\nReview Date: 2018/12/04\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11 x 10 inches; 6.6 Pounds', 'Item model number': '10/138'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large USA American Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box\nReview Date: 2018/12/04\nStore: Beautify\nAverage Rating: 4.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15 x 11.26 x 10 inches; 6.1 Pounds'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large Pink Butterfly Professional Makeup Cosmetic Organizer Train Case 14\" Lockable Storage Box with Dividers\nReview Date: 2018/12/04\nStore: Beautify\nAverage Rating: 3.7\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14.17 x 8.66 x 9.45 inches; 3.88 Pounds', 'Item model number': '10/232'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Blush Pink Crocodile Animal Print Beauty Train Case with Lock)\nReview Date: 2018/12/04\nStore: TrimDish\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.35 x 11.57 x 10 inches; 5.07 Pounds', 'Item model number': '10/131'}\nReview Text: EXCELENT ....... MY FAVORITE BRAND\nReview Title: Makeup Case\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe analysis of the purchase history reveals a strong preference for makeup organizer cases, specifically from a single brand known for its quality and design. The consistent high ratings (4.0 to 4.7) and positive sentiments indicate satisfaction with product performance. The individual frequently utilizes makeup storage solutions, emphasizing functionality such as lockability and organization through dividers.\n\nA common theme across purchases is a preference for large, well-structured cases with aesthetic appeal, as evidenced by multiple instances of selecting colorful and patterned designs. The recurrent choice of beautifying features suggests a penchant for stylish yet practical items, aligning with personal branding or self-expression.\n\nQuality is a significant factor, as seen through the preference for products with solid ratings despite slight variations in average scores (e.g., a lower score of 3.7 does not deter repeat purchasing from the same brand). This indicates a tolerance for minor imperfections if overall quality remains acceptable.\n\nPrice sensitivity appears low, with repeated purchases from a premium brand signaling a willingness to invest in quality over cheaper alternatives. Overall, the core preferences encompass a commitment to durable, aesthetically pleasing, high-functionality makeup storage solutions from a trusted brand.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Makeup Case",
+    "text": "EXCELENT ....... MY FAVORITE BRAND",
+    "images": [],
+    "asin": "B01LWS2P9V",
+    "parent_asin": "B01LWS2P9V",
+    "user_id": "AFEQ45BGLFQIL5F6OYCKPM3SGSMA",
+    "timestamp": "2018-12-04 06:02:44.505000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Beautify Large Cosmetic Organizer Case - 14\" Professional Aluminum Makeup Storage Box (Black Crocodile Animal Print Beauty Train Case with Lock)",
+    "average_rating": 4.2,
+    "rating_number": 26,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61SumZh4FaL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61SumZh4FaL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/91ogkISlC3L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51-LkApuIvL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51-LkApuIvL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/8126v1S9ktL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51EZixoAVDL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51EZixoAVDL.jpg",
+        "variant": "PT02",
+        "hi_res": "https://m.media-amazon.com/images/I/81ZkgZLko4L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51pjeu+exCL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51pjeu+exCL.jpg",
+        "variant": "PT03",
+        "hi_res": "https://m.media-amazon.com/images/I/81li4U9fWsL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51jVo1FGFqL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51jVo1FGFqL.jpg",
+        "variant": "PT04",
+        "hi_res": "https://m.media-amazon.com/images/I/815Z1XONZxL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51uXHao9RuL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51uXHao9RuL.jpg",
+        "variant": "PT05",
+        "hi_res": "https://m.media-amazon.com/images/I/81LXaK4UWLL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61D4v+EuDKL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61D4v+EuDKL.jpg",
+        "variant": "PT06",
+        "hi_res": "https://m.media-amazon.com/images/I/91j6YnNDtdL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61xzu+YFRLL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61xzu+YFRLL.jpg",
+        "variant": "PT07",
+        "hi_res": "https://m.media-amazon.com/images/I/91AV3PUnR3L._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51cZ8TV6lzL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51cZ8TV6lzL.jpg",
+        "variant": "PT08",
+        "hi_res": "https://m.media-amazon.com/images/I/91LEkSTrdqL._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Package Dimensions": "15 x 11 x 10 inches; 5.07 Pounds",
+      "Item model number": "10/130"
+    },
+    "bought_together": null
+  }
+}

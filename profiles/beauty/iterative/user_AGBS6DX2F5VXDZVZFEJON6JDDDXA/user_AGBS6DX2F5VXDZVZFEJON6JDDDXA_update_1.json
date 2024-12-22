@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vaultz Locking Makeup Artist Case, Black White Stripe (VZ03755)\nReview Date: 2017/10/21\nStore: Vaultz\nProduct Description: ['At Vaultz, \"If it\\'s Important to You, Lock It Up.\" The Vaultz Makeup Artist Case allows you to lock your personal and private items up in style. This durable and chic box is ideal for carrying makeup and other cosmetics on the go. The reliable key lock provides security, and the sturdy construction features steel corners, aluminum reinforcement, and a convenient handle for easy carrying. This makeup case features a built-in 14 brush holder in lid, a removable, divided, upper tray for simple access to lower compartment and 5 adjustable dividers to customize the space. This is a makeup case that you are sure to love. Black White Stripe.']\nAverage Rating: 4.3\nProduct Details: {'Product Dimensions': '9.75 x 9.13 x 15.38 inches; 2.8 Pounds', 'Item model number': 'VZ03755', 'UPC': '826030037553', 'Manufacturer': 'Ideastream Consumer Products, LLC'}\nReview Text: Plenty of room and does not weigh alot empty.\nReview Title: plenty of room\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Vaultz Locking Makeup Artist Case, Black White Stripe (VZ03755)\nVaultz\n['At Vaultz, \"If it\\'s Important to You, Lock It Up.\" The Vaultz Makeup Artist Case allows you to lock your personal and private items up in style. This durable and chic box is ideal for carrying makeup and other cosmetics on the go. The reliable key lock provides security, and the sturdy construction features steel corners, aluminum reinforcement, and a convenient handle for easy carrying. This makeup case features a built-in 14 brush holder in lid, a removable, divided, upper tray for simple access to lower compartment and 5 adjustable dividers to customize the space. This is a makeup case that you are sure to love. Black White Stripe.']\n{'Product Dimensions': '9.75 x 9.13 x 15.38 inches; 2.8 Pounds', 'Item model number': 'VZ03755', 'UPC': '826030037553', 'Manufacturer': 'Ideastream Consumer Products, LLC'}\nPlenty of room and does not weigh alot empty.\nplenty of room",
+  "profile": "The user displays a preference for functional and stylish storage solutions, particularly for cosmetics and makeup. Key trends include a focus on durability and security, as evidenced by their interest in products that offer locking mechanisms and sturdy construction. The user values ease of transport, suggesting they may have an on-the-go lifestyle or professional involvement in makeup artistry. Their review highlights a positive experience with space efficiency, indicating a priority on organizational features such as dividers and dedicated compartments. \n\nThe user appears to prioritize both aesthetics and practicality, opting for products that blend style with robust functionality. Given their high rating for the product, it can be inferred that they appreciate quality items that meet their needs effectively. Overall, the user seeks versatile, secure, and well-designed storage solutions that enhance their makeup application experience.",
+  "metrics": {
+    "rouge1_f": 0.3050847457627119,
+    "rouge2_f": 0.034129692832764506,
+    "rougeL_f": 0.1288135593220339,
+    "meteor": 0.16367726931299478,
+    "bleu1": 0.2534154837824159,
+    "bleu2": 0.07052026994747564,
+    "bleu3": 0.013492603547760468,
+    "bleu4": 0.005911841089261073,
+    "bertscore_precision": 0.40048089623451233,
+    "bertscore_recall": 0.4984816312789917,
+    "bertscore_f1": 0.4441395103931427
+  }
+}

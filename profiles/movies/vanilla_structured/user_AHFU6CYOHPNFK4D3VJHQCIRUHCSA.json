@@ -1,0 +1,76 @@
+{
+  "user_id": "AHFU6CYOHPNFK4D3VJHQCIRUHCSA",
+  "summary": "=== Purchase Information ===\nReview Date: 2022/11/28\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Ferguson', 'Satiyesh Manoharajah', 'Chiara Messineo', 'Chlo\u00eb Avery', 'Archie Powell'], 'Producers': ['Not Specified']}\nReview Text: This 2 part series is amazing !  It teaches you the food and it\u2019s history of this beautiful country . Highly recommend\nReview Title: Fascinating Series\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2022/11/28\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Volk-Weiss'], 'Producers': ['Zac Efron', 'Darin Olien', 'Brian Volk-Weiss', 'Michael Simpkin', 'Jason Barrett', 'Cisco Henson', 'Griffin Gmelich'], 'Starring': ['Zac Efron', 'Darin Olien'], 'Studio': ['The Nacelle Company']}\nReview Text: I highly recommend this series to everyone. Educational and Interesting\nReview Title: Excellent Series\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2023/01/22\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Harvey Weinstein', 'Bob Weinstein', 'Shannon McIntosh', 'Michael Shamberg', 'James W. Skotchdopole', 'Reginald Hudlin', 'Pilar Savone', 'Stacey Sher', 'William Paul Clark'], 'Starring': ['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio'], 'Studio': ['Starz']}\nReview Text: I wasn\u2019t impressed with this movie. Disappointed because I\u2019m a fan of both Leo and Jamie\nReview Title: Wasn\u2019t impressed\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Old Man\nReview Date: 2023/01/22\nCategories: Suspense, Drama, Action\nProduct Description: ['A former CIA operative learns that to ensure his future he must reconcile his past.']\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nReview Text: This was a suspense filled movie to watch  I recommend to watch\nReview Title: Great Movie\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Ferguson', 'Satiyesh Manoharajah', 'Chiara Messineo', 'Chlo\u00eb Avery', 'Archie Powell'], 'Producers': ['Not Specified']}\nThis 2 part series is amazing !  It teaches you the food and it\u2019s history of this beautiful country . Highly recommend\nFascinating Series\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Volk-Weiss'], 'Producers': ['Zac Efron', 'Darin Olien', 'Brian Volk-Weiss', 'Michael Simpkin', 'Jason Barrett', 'Cisco Henson', 'Griffin Gmelich'], 'Starring': ['Zac Efron', 'Darin Olien'], 'Studio': ['The Nacelle Company']}\nI highly recommend this series to everyone. Educational and Interesting\nExcellent Series\n{'Subtitles': ['None available'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Harvey Weinstein', 'Bob Weinstein', 'Shannon McIntosh', 'Michael Shamberg', 'James W. Skotchdopole', 'Reginald Hudlin', 'Pilar Savone', 'Stacey Sher', 'William Paul Clark'], 'Starring': ['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio'], 'Studio': ['Starz']}\nI wasn\u2019t impressed with this movie. Disappointed because I\u2019m a fan of both Leo and Jamie\nWasn\u2019t impressed\nThe Old Man\nSuspense, Drama, Action\n['A former CIA operative learns that to ensure his future he must reconcile his past.']\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nThis was a suspense filled movie to watch  I recommend to watch\nGreat Movie",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2022/11/28\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Neil Ferguson', 'Satiyesh Manoharajah', 'Chiara Messineo', 'Chlo\u00eb Avery', 'Archie Powell'], 'Producers': ['Not Specified']}\nReview Text: This 2 part series is amazing !  It teaches you the food and it\u2019s history of this beautiful country . Highly recommend\nReview Title: Fascinating Series\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2022/11/28\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Volk-Weiss'], 'Producers': ['Zac Efron', 'Darin Olien', 'Brian Volk-Weiss', 'Michael Simpkin', 'Jason Barrett', 'Cisco Henson', 'Griffin Gmelich'], 'Starring': ['Zac Efron', 'Darin Olien'], 'Studio': ['The Nacelle Company']}\nReview Text: I highly recommend this series to everyone. Educational and Interesting\nReview Title: Excellent Series\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2023/01/22\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Harvey Weinstein', 'Bob Weinstein', 'Shannon McIntosh', 'Michael Shamberg', 'James W. Skotchdopole', 'Reginald Hudlin', 'Pilar Savone', 'Stacey Sher', 'William Paul Clark'], 'Starring': ['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio'], 'Studio': ['Starz']}\nReview Text: I wasn\u2019t impressed with this movie. Disappointed because I\u2019m a fan of both Leo and Jamie\nReview Title: Wasn\u2019t impressed\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Old Man\nReview Date: 2023/01/22\nCategories: Suspense, Drama, Action\nProduct Description: ['A former CIA operative learns that to ensure his future he must reconcile his past.']\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nReview Text: This was a suspense filled movie to watch  I recommend to watch\nReview Title: Great Movie\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThis individual consistently demonstrates a preference for educational and culturally enriching content, as evidenced by their enthusiastic reviews of series centered on food history and exploration. Their high ratings (averaging 4.5 to 5.0) indicate a strong appreciation for well-produced and engaging narratives, emphasizing a desire for knowledge and interesting topics. However, their lower rating for a movie featuring popular actors suggests selectivity in their viewing choices, hinting that star power alone does not guarantee satisfaction; rather, the quality and depth of storytelling are more critical. \n\nThemes of suspense and drama appear in their enjoyment of tense narratives, pointing to a favor for thrill in storytelling. Quality preference is evident, as they favor productions with significant educational value and immersive storytelling. Price sensitivity is not directly observable in the provided ratings, but the inclination towards higher-rated content suggests a willingness to invest in quality experiences. Overall, the person values engaging, informative, and well-crafted entertainment, prioritizing substance over simplicity in their media consumption.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Great Movie",
+    "text": "This is a great movie to get together with friends to watch  Very  Funny",
+    "images": [],
+    "asin": "B073VDJMXP",
+    "parent_asin": "B073VDJMXP",
+    "user_id": "AHFU6CYOHPNFK4D3VJHQCIRUHCSA",
+    "timestamp": "2023-01-22 18:31:34.070000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 45548,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/03a87f7dd2bd063c1ea9b7b14be0644cb584eaee0304ea87e3c6cd45110d6102._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "substance use",
+        "alcohol use",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: High",
+        "English",
+        "English [Audio Description]",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Malcolm D. Lee"
+      ],
+      "Producers": [
+        "Will Packer",
+        "Malcolm D. Lee"
+      ],
+      "Starring": [
+        "Regina Hall",
+        "Tiffany Haddish",
+        "Larenz Tate"
+      ],
+      "Studio": [
+        "Universal Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pantene Pro-v Ultimate 10 Bb Conditioner With Pump, 28.9 Fluid Ounce\nReview Date: 2017/10/12\nStore: Pantene\nProduct Description: [\"Multitask like you mean it with Pantene Pro-V Ultimate 10 BB Conditioner. BB stands for beauty boosting and this conditioner's formula works overtime to help tame fly-aways, repair roughness, infuse silky softness, add brilliant shine, smooth, control frizz, boost moisture, detangle, make hair manageable, and help keep your strands strong against damage. Help solve your hair problems from dryness to dullness with this 10in1 conditioner for flawlessly healthy hair. Also try it with the shampoo and treatment in the Pantene Pro-V Ultimate 10 Collection.\"]\nAverage Rating: 5.0\nProduct Details: {'Brand': 'Pantene', 'Hair Type': 'Dry', 'Product Benefits': 'Detangle', 'Age Range (Description)': 'Adult', 'Recommended Uses For Product': 'Softness', 'Product Dimensions': '2.94 x 9.38 x 3.94 inches; 2.05 Pounds', 'Item model number': '10080878183309', 'UPC': '080878183302', 'Manufacturer': 'Procter & Gamble, Haba Hub'}\nReview Text: I love this conditioner. It works and smells great.\nReview Title: Love it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Pantene Pro-v Ultimate 10 Bb Conditioner With Pump, 28.9 Fluid Ounce\nPantene\n[\"Multitask like you mean it with Pantene Pro-V Ultimate 10 BB Conditioner. BB stands for beauty boosting and this conditioner's formula works overtime to help tame fly-aways, repair roughness, infuse silky softness, add brilliant shine, smooth, control frizz, boost moisture, detangle, make hair manageable, and help keep your strands strong against damage. Help solve your hair problems from dryness to dullness with this 10in1 conditioner for flawlessly healthy hair. Also try it with the shampoo and treatment in the Pantene Pro-V Ultimate 10 Collection.\"]\n{'Brand': 'Pantene', 'Hair Type': 'Dry', 'Product Benefits': 'Detangle', 'Age Range (Description)': 'Adult', 'Recommended Uses For Product': 'Softness', 'Product Dimensions': '2.94 x 9.38 x 3.94 inches; 2.05 Pounds', 'Item model number': '10080878183309', 'UPC': '080878183302', 'Manufacturer': 'Procter & Gamble, Haba Hub'}\nI love this conditioner. It works and smells great.\nLove it",
+  "profile": "**User Summary:**\n\nThis user displays a strong preference for hair care products, particularly those that offer multiple benefits in one solution. Their positive review of a conditioner suggests an appreciation for products that effectively address specific hair concerns such as dryness, frizz control, and manageability. The user values quality and effectiveness, evidenced by their perfect rating and enthusiastic feedback about both performance and scent.\n\nKey trends in their behavior indicate a desire for convenient, multitasking solutions that simplify their hair care routine. They appear to favor reputable brands known for delivering results, highlighting an inclination towards established names in the beauty industry. The user also demonstrates a keen interest in products designed for dry hair, signaling a focus on moisture and repair.\n\nOverall, the user seeks high-performing hair care solutions that enhance softness, shine, and overall hair health, favoring products that provide comprehensive benefits in a single use.",
+  "metrics": {
+    "rouge1_f": 0.2368421052631579,
+    "rouge2_f": 0.013245033112582781,
+    "rougeL_f": 0.09868421052631579,
+    "meteor": 0.1364522417153996,
+    "bleu1": 0.19198966970519957,
+    "bleu2": 0.06014361430219919,
+    "bleu3": 0.011967244176599676,
+    "bleu4": 0.005346146094984415,
+    "bertscore_precision": 0.3990258574485779,
+    "bertscore_recall": 0.4607089161872864,
+    "bertscore_f1": 0.4276546239852905
+  }
+}

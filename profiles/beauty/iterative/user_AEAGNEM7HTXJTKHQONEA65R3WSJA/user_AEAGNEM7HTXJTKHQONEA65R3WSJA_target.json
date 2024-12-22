@@ -1,0 +1,94 @@
+{
+  "interaction_number": 8,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pink Gellac 200 Burnt Amber UV/LED Gel Polish\nReview Date: 2018/02/23\nAverage Rating: 3.8\nProduct Details: {'Item Form': 'Gel', 'Type': 'gel', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Weight': '0.48 Ounces', 'Is Discontinued By Manufacturer': 'No'}\nReview Text: Lovely color \ud83d\udc85\ud83c\udffb\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Pink Gellac 152 Naked Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Pink', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Number of Items': '152', 'Number of Pieces': '152', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.53 Ounces'}\nSuper! Love the color and quality!\nFive Stars\nPink Gellac 157 Sky Blue Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Blue,Pink,Sky Blue', 'Type': 'gel', 'Finish Type': 'Creme', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Dimensions LxWxH': '1.18 x 1.18 x 2.95 inches', 'Item Weight': '0.03 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 0.48 Ounces', 'UPC': '794168455238'}\nBeautiful color but isn't that bright as on the picture\nFour Stars\nPink Gellac 115 Army Green Soak-Off UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Green,Pink', 'Type': 'gel', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Dimensions LxWxH': '1.18 x 1.18 x 2.95 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.18 x 1.18 x 2.95 inches; 1.06 Ounces', 'Item model number': '115', 'UPC': '794168159860'}\nGorgeous color!  Easy to apply !\nEasy to apply\nPink Gellac 210 Tangerine Red UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Orange,Pink,Red', 'Finish Type': 'Shimmery', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces'}\nGorgeous color!  Easy to apply!\nEasy to apply\nLOVATIC Teeth Whitening Pen - 2 Packs - Advance Teeth Whitening Solution - 35% Carbamide Peroxide - Safe, Convenient and Effective\nLOVATIC\n{'Product Dimensions': '1.1 x 1.1 x 2.6 inches; 4 Ounces', 'UPC': '780150949359'}\nSuper!\nFive Stars\nPink Gellac 215 Cloudy Blue UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Blue,Pink', 'Type': 'gel', 'Finish Type': 'Creme', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Weight': '0.03 Pounds', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.17 x 3.9 x 1.69 inches; 0.48 Ounces'}\nLove this color \ud83d\udc4c\nFive Stars\nPink Gellac 201 Black Velvet UV/LED Gel Polish\nPG Pink Gellac\n{'Brand': 'PG Pink Gellac', 'Item Form': 'Gel', 'Color': 'Black,Purple', 'Type': 'gel', 'Finish Type': 'Shimmer,Velvet', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Weight': '15 Grams', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.94 x 3.07 x 1.57 inches; 0.53 Ounces'}\nBeautiful color but 3 coats are needed for a good coverage\nFive Stars\nPink Gellac 200 Burnt Amber UV/LED Gel Polish\n{'Item Form': 'Gel', 'Type': 'gel', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'Item Weight': '0.48 Ounces', 'Is Discontinued By Manufacturer': 'No'}\nLovely color \ud83d\udc85\ud83c\udffb\nFive Stars",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Lovely color \ud83d\udc85\ud83c\udffb",
+    "images": [
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/71+BB3W9CXL._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/71+BB3W9CXL._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/71+BB3W9CXL.jpg",
+        "attachment_type": "IMAGE"
+      },
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/71OQDAF776L._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/71OQDAF776L._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/71OQDAF776L.jpg",
+        "attachment_type": "IMAGE"
+      },
+      {
+        "small_image_url": "https://images-na.ssl-images-amazon.com/images/I/71WlKcfpYNL._SL256_.jpg",
+        "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/71WlKcfpYNL._SL800_.jpg",
+        "large_image_url": "https://images-na.ssl-images-amazon.com/images/I/71WlKcfpYNL.jpg",
+        "attachment_type": "IMAGE"
+      }
+    ],
+    "asin": "B01N3YBMG4",
+    "parent_asin": "B01N3YBMG4",
+    "user_id": "AEAGNEM7HTXJTKHQONEA65R3WSJA",
+    "timestamp": "2018-02-23 22:46:48.868000",
+    "helpful_vote": 1,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Pink Gellac 200 Burnt Amber UV/LED Gel Polish",
+    "average_rating": 3.8,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51hz1ElsvML._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51hz1ElsvML.jpg",
+        "variant": "MAIN",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/417ZTicaacL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/417ZTicaacL.jpg",
+        "variant": "PT01",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/315DgUWl5eL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/315DgUWl5eL.jpg",
+        "variant": "PT02",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51milbhgKEL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51milbhgKEL.jpg",
+        "variant": "PT03",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61JDO1AMHuL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61JDO1AMHuL.jpg",
+        "variant": "PT04",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61JDO1AMHuL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61JDO1AMHuL.jpg",
+        "variant": "PT05",
+        "hi_res": null
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [],
+    "details": {
+      "Item Form": "Gel",
+      "Type": "gel",
+      "Number of Items": "1",
+      "Number of Pieces": "1",
+      "Liquid Volume": "0.5 Fluid Ounces",
+      "Item Weight": "0.48 Ounces",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "bought_together": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Anastasia / Thumbelina\nReview Date: 2015/08/27\nStore: Rated:    G    Format: DVD\nCategories: Movies & TV, Studio Specials, 20th Century Fox Home Entertainment, Kids & Family, Family Features\nProduct Description: ['Anastasia and Thumbelina Double Feature DVD']\nAverage Rating: 4.7\nProduct Details: {'MPAA rating': 'G (General Audience)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '946626', 'Media Format': 'Multiple Formats, Animated, Color, NTSC, Widescreen', 'Release date': 'March 20, 2012', 'Studio': '20th Century Fox', 'Number of discs': '1'}\nReview Text: Anastasia dvd starts skipping 15 min into movie and continues. Thumbelina plays just fine, kinda bummed .\nReview Title: DVD SKIPS\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Anastasia / Thumbelina\nRated:    G    Format: DVD\nMovies & TV, Studio Specials, 20th Century Fox Home Entertainment, Kids & Family, Family Features\n['Anastasia and Thumbelina Double Feature DVD']\n{'MPAA rating': 'G (General Audience)', 'Product Dimensions': '0.7 x 7.5 x 5.4 inches; 2.72 Ounces', 'Item model number': '946626', 'Media Format': 'Multiple Formats, Animated, Color, NTSC, Widescreen', 'Release date': 'March 20, 2012', 'Studio': '20th Century Fox', 'Number of discs': '1'}\nAnastasia dvd starts skipping 15 min into movie and continues. Thumbelina plays just fine, kinda bummed .\nDVD SKIPS",
+  "profile": "User Summary:\n\n- **Content Preference**: Appears to enjoy animated family movies, particularly from established studios known for quality entertainment.\n- **Format Preference**: Shows a preference for physical media (DVD) over digital formats.\n- **Rating Sensitivity**: Values product performance, as indicated by significant disappointment over playback issues; a rating of 2.0 reflects dissatisfaction.\n- **Audience Consideration**: Engaged with content rated for general audiences, suggesting a focus on family-friendly materials suitable for all ages.\n- **Attention to Quality**: The interaction highlights a keen awareness of product quality and reliability, expecting a seamless experience while watching films.\n- **Emotional Response**: The negative review conveys strong emotional investment in the viewing experience, reinforcing a desire for enjoyment and functionality from purchased products. \n\nOverall, this user prioritizes high-quality animated family films and values the reliability of the media format, indicating a pattern of engagement driven by performance and family-oriented content.",
+  "metrics": {
+    "rouge1_f": 0.1826086956521739,
+    "rouge2_f": 0.017543859649122806,
+    "rougeL_f": 0.10434782608695653,
+    "meteor": 0.13240418118466898,
+    "bleu1": 0.13471502590673576,
+    "bleu2": 0.008376399942283771,
+    "bleu3": 0.0033242510479549858,
+    "bleu4": 0.0020969204760065245,
+    "bertscore_precision": 0.3992103338241577,
+    "bertscore_recall": 0.39594346284866333,
+    "bertscore_f1": 0.3975701928138733
+  }
+}

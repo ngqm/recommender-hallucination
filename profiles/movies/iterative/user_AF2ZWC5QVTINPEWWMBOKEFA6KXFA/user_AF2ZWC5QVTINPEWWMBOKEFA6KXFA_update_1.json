@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/04\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Beeman', 'Olatunde Osunsanmi', 'Sergio Mimica-Gezzan', 'Adam Kane', 'Jonathan Frakes', 'David Solomon', 'Holly Dale', 'Frederick E.O. Toye', 'Carl Franklin', 'Anthony Hemingway'], 'Starring': ['Noah Wyle', 'Moon Bloodgood', 'Will Patton']}\nReview Text: How I missed this series for two years is beyond me, and I really have to thank Amazon Prime because I would have never known about it without them.  Earth has been invaded by aliens and they are attempting to destroy our race and enslave our children.  Hands down the best Sci-Fi series I've seen since Lost.  The characters are amazing enough that even those that don't like the action in a series, will fall in love with it because of the underlying human drama element. I watched the entire two years in less than two weeks if that tells you how blown away I was by this series.\nReview Title: Falling Skies is Phenomenal\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Beeman', 'Olatunde Osunsanmi', 'Sergio Mimica-Gezzan', 'Adam Kane', 'Jonathan Frakes', 'David Solomon', 'Holly Dale', 'Frederick E.O. Toye', 'Carl Franklin', 'Anthony Hemingway'], 'Starring': ['Noah Wyle', 'Moon Bloodgood', 'Will Patton']}\nHow I missed this series for two years is beyond me, and I really have to thank Amazon Prime because I would have never known about it without them.  Earth has been invaded by aliens and they are attempting to destroy our race and enslave our children.  Hands down the best Sci-Fi series I've seen since Lost.  The characters are amazing enough that even those that don't like the action in a series, will fall in love with it because of the underlying human drama element. I watched the entire two years in less than two weeks if that tells you how blown away I was by this series.\nFalling Skies is Phenomenal",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Genre:** Strong preference for science fiction, particularly series that feature alien invasion and human drama.\n- **Viewing Behavior:** Engages deeply with shows, indicated by binge-watching multiple seasons in a short time frame. \n- **Emotional Engagement:** Values character development and emotional narratives alongside action; enjoys series that balance drama with thrilling elements.\n- **Discovery Method:** Relies on streaming platforms for discovering new content, suggesting a preference for curated recommendations.\n- **Rating Pattern:** Tends to give high ratings (4.6 average), indicating satisfaction with quality content, particularly when both plot and character are well-executed.\n- **Social Sharing:** Appreciates thankfulness towards platforms that introduce them to quality series, highlighting a possible tendency to share experiences with others.\n\nOverall, this user demonstrates a passion for immersive, character-driven science fiction narratives, with a tendency to binge-watch when captivated.",
+  "metrics": {
+    "rouge1_f": 0.18685121107266436,
+    "rouge2_f": 0.020905923344947737,
+    "rougeL_f": 0.08304498269896193,
+    "meteor": 0.12399691827599267,
+    "bleu1": 0.1974102960864762,
+    "bleu2": 0.05354000187201157,
+    "bleu3": 0.011173041797671054,
+    "bleu4": 0.005110859390709038,
+    "bertscore_precision": 0.40207403898239136,
+    "bertscore_recall": 0.4322206974029541,
+    "bertscore_f1": 0.4166027009487152
+  }
+}

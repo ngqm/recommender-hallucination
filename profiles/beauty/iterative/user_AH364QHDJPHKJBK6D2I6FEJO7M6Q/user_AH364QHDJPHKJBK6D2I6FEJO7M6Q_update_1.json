@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Persephone Ombre Grey Bob Wig for Women Full Machine Made Beauty Short Wavy Synthetic Wigs 2 Tones Glueless Hair Replacement Wigs\nReview Date: 2019/10/11\nStore: Persephone\nAverage Rating: 3.7\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Brand': 'Persephone', 'Age Range (Description)': 'Adult', 'Package Dimensions': '16.5 x 8.9 x 1.65 inches; 13.12 Ounces', 'UPC': '708210346207'}\nReview Text: Great for cosplay\nReview Title: Fun wig\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Persephone Ombre Grey Bob Wig for Women Full Machine Made Beauty Short Wavy Synthetic Wigs 2 Tones Glueless Hair Replacement Wigs\nPersephone\n{'Material': 'Synthetic', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Brand': 'Persephone', 'Age Range (Description)': 'Adult', 'Package Dimensions': '16.5 x 8.9 x 1.65 inches; 13.12 Ounces', 'UPC': '708210346207'}\nGreat for cosplay\nFun wig",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user shows a strong interest in wigs, particularly those that are modern and have distinctive styles.\n- **Material Preference:** Synthetic materials are favored, indicating a preference for practicality and affordability.\n- **Usage Context:** The user is likely interested in wigs for specific occasions such as cosplay, suggesting creativity and a passion for performance or themed events.\n- **Aesthetic Trends:** The choice of a short, wavy hairstyle reflects a preference for fashionable and contemporary looks.\n- **Review Behavior:** The user rates products positively, as evidenced by the high rating given for enjoyment, indicating satisfaction with their choices and experiences.\n- **Overall Attitude:** The engagement indicates a playful and fun approach to product selection, valuing aesthetics and versatility in styling. \n\nThis summary suggests that the user enjoys experimenting with their appearance through modern, synthetic wigs, particularly for fun and creative occasions.",
+  "metrics": {
+    "rouge1_f": 0.15228426395939088,
+    "rouge2_f": 0.03076923076923077,
+    "rougeL_f": 0.08121827411167512,
+    "meteor": 0.13626834381551364,
+    "bleu1": 0.0909090909090909,
+    "bleu2": 0.006793139675758246,
+    "bleu3": 0.002866124197909663,
+    "bleu4": 0.001864071650071019,
+    "bertscore_precision": 0.41628512740135193,
+    "bertscore_recall": 0.3692157566547394,
+    "bertscore_f1": 0.3913401663303375
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Banana Comb Hair Clips - Set of 4 Locking Clasp Hairclips\nReview Date: 2018/11/19\nStore: The Paragon\nAverage Rating: 3.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.4 x 2.6 x 0.9 inches; 0.81 Ounces'}\nReview Text: These work only if one has fine hair. I have shoulder length, really thick hair, and the first time I tried one of them, it totally broke in half. So now thy\u2019ll go in the \u201cX-Mas Socking Stuffer\u201d bag.\nReview Title: Too Frail\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Banana Comb Hair Clips - Set of 4 Locking Clasp Hairclips\nThe Paragon\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.4 x 2.6 x 0.9 inches; 0.81 Ounces'}\nThese work only if one has fine hair. I have shoulder length, really thick hair, and the first time I tried one of them, it totally broke in half. So now thy\u2019ll go in the \u201cX-Mas Socking Stuffer\u201d bag.\nToo Frail",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Focus**: The user has thick shoulder-length hair and seeks hair accessories that are durable and suitable for their hair type.\n- **Product Durability Concern**: The user values the quality and robustness of hair products; items perceived as frail or easily breakable are viewed negatively.\n- **Gift Consideration**: Demonstrates a tendency to repurpose unsatisfactory products as gifts, indicating a thoughtful approach to gifting.\n- **Rating Tolerance**: The average rating of products in their reviews suggests a critical eye, particularly when expectations for durability are not met.\n- **Review Behavior**: Active in detailing experiences with products, especially regarding performance relative to hair type, indicating a desire to inform potential buyers with personal insight. \n\nOverall, the user appears to prioritize the functionality and durability of hair accessories tailored to their specific hair needs, while maintaining a practical attitude towards lesser-quality items.",
+  "metrics": {
+    "rouge1_f": 0.14883720930232558,
+    "rouge2_f": 0.018779342723004695,
+    "rougeL_f": 0.11162790697674418,
+    "meteor": 0.13039117352056168,
+    "bleu1": 0.1283422459893048,
+    "bleu2": 0.008306696546830855,
+    "bleu3": 0.0033411424137574403,
+    "bleu4": 0.002121860288550315,
+    "bertscore_precision": 0.407937616109848,
+    "bertscore_recall": 0.3827148973941803,
+    "bertscore_f1": 0.3949239253997803
+  }
+}

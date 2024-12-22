@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/15\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Sebastian Borensztein'], 'Producers': ['Unavailable'], 'Starring': ['Ricardo Darin', 'Muriel Santa Ana', 'Ignacio Huang'], 'Studio': ['FilmRise']}\nReview Text: A gem!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Sebastian Borensztein'], 'Producers': ['Unavailable'], 'Starring': ['Ricardo Darin', 'Muriel Santa Ana', 'Ignacio Huang'], 'Studio': ['FilmRise']}\nA gem!\nFive Stars",
+  "profile": "User Profile Summary:\n\n- **Rating Tendencies:** Generally high ratings with an average of 4.7, indicating a strong appreciation for quality content.\n- **Content Preferences:** Enjoys films with mature themes, particularly those featuring violence, alcohol use, and sexual content.\n- **Language Barrier:** Preference for content without subtitles suggests a comfort with native language films.\n- **Genre Affinity:** Likely appreciates dramas or character-driven narratives, as indicated by the choice of actors and storytelling style.\n- **Director Influence:** Displays an inclination towards works directed by specific filmmakers, highlighting a trend in favor of particular directorial styles.\n- **Positive Attitude:** Positive reviewers, as demonstrated by terminology like \"gem\" and high ratings, suggest an enthusiastic and discerning viewer who values impactful storytelling.\n\nOverall, the user appears to be discerning, favoring high-quality, mature content with a preference for impactful narratives and experienced directors.",
+  "metrics": {
+    "rouge1_f": 0.12269938650306747,
+    "rouge2_f": 0.03726708074534161,
+    "rougeL_f": 0.12269938650306747,
+    "meteor": 0.11008111239860952,
+    "bleu1": 0.09574468085106382,
+    "bleu2": 0.007155442969619564,
+    "bleu3": 0.0030193957195025676,
+    "bleu4": 0.001964025373392873,
+    "bertscore_precision": 0.4186174273490906,
+    "bertscore_recall": 0.34096500277519226,
+    "bertscore_f1": 0.3758220076560974
+  }
+}

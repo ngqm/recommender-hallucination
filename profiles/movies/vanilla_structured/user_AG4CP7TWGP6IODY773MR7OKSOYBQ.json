@@ -1,0 +1,75 @@
+{
+  "user_id": "AG4CP7TWGP6IODY773MR7OKSOYBQ",
+  "summary": "=== Purchase Information ===\nReview Date: 2020/01/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['20th Century Fox Television']}\nReview Text: Love this show!\nReview Title: Awesome show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/01/05\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Baker', 'Neville Astley', 'Joris van Hulzen', 'Phil Hall', 'Sarah Roper'], 'Producers': ['Phil Davies']}\nReview Text: If your kid loves peppa then buy this\nReview Title: When you can\u2019t get enough Peppa...\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Die Hard\nReview Date: 2020/01/05\nCategories: Suspense, Action, Gritty, Intense\nProduct Description: ['Yippie-ki-yay! Hard-nosed NYC cop John McClane wages a one-man war against a band of cold-blooded thieves in Los Angeles in this contemporary action classic.']\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John McTiernan'], 'Producers': ['Lawrence Gordon', 'Joel Silver'], 'Starring': ['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']}\nReview Text: One of the best movies ever made! And yes it is a Christmas movie\nReview Title: Top 5 for sure\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Bohemian Rhapsody\nReview Date: 2020/01/05\nCategories: Drama, Arts, Entertainment, and Culture, Bold, Electrifying\nProduct Description: ['Bohemian Rhapsody celebrates the band Queen, their music, and their extraordinary lead singer Freddie Mercury, who defied convention to become one of the most beloved entertainers ever.']\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryan Singer'], 'Producers': ['Graham King', 'Jim Beach'], 'Starring': ['Rami Malek', 'Lucy Boynton', 'Gwilym Lee']}\nReview Text: I laughed, I cried, I felt all the feels... great movie\nReview Title: Well done!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Nun\nReview Date: 2020/01/05\nCategories: Horror, Bleak, Eerie, Frightening\nProduct Description: ['When a nun commits suicide, a priest and novitiate investigate. Together they uncover the order\u2019s unholy secret, the same demonic nun that first appeared in \u201cThe Conjuring 2\".']\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Corin Hardy'], 'Producers': ['Peter Safran', 'James Wan'], 'Starring': ['Demi\u00e1n Bichir', 'Taissa Farmiga', 'Jonas Bloquet']}\nReview Text: Terrible. But that\u2019s just my opinion... it\u2019s not amazons fault\nReview Title: Not the greatest\nRating: 1.0\n--------------------------------------------------",
+  "reference": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['20th Century Fox Television']}\nLove this show!\nAwesome show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Baker', 'Neville Astley', 'Joris van Hulzen', 'Phil Hall', 'Sarah Roper'], 'Producers': ['Phil Davies']}\nIf your kid loves peppa then buy this\nWhen you can\u2019t get enough Peppa...\nDie Hard\nSuspense, Action, Gritty, Intense\n['Yippie-ki-yay! Hard-nosed NYC cop John McClane wages a one-man war against a band of cold-blooded thieves in Los Angeles in this contemporary action classic.']\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John McTiernan'], 'Producers': ['Lawrence Gordon', 'Joel Silver'], 'Starring': ['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']}\nOne of the best movies ever made! And yes it is a Christmas movie\nTop 5 for sure\nBohemian Rhapsody\nDrama, Arts, Entertainment, and Culture, Bold, Electrifying\n['Bohemian Rhapsody celebrates the band Queen, their music, and their extraordinary lead singer Freddie Mercury, who defied convention to become one of the most beloved entertainers ever.']\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryan Singer'], 'Producers': ['Graham King', 'Jim Beach'], 'Starring': ['Rami Malek', 'Lucy Boynton', 'Gwilym Lee']}\nI laughed, I cried, I felt all the feels... great movie\nWell done!\nThe Nun\nHorror, Bleak, Eerie, Frightening\n['When a nun commits suicide, a priest and novitiate investigate. Together they uncover the order\u2019s unholy secret, the same demonic nun that first appeared in \u201cThe Conjuring 2\".']\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Corin Hardy'], 'Producers': ['Peter Safran', 'James Wan'], 'Starring': ['Demi\u00e1n Bichir', 'Taissa Farmiga', 'Jonas Bloquet']}\nTerrible. But that\u2019s just my opinion... it\u2019s not amazons fault\nNot the greatest",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2020/01/04\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['20th Century Fox Television']}\nReview Text: Love this show!\nReview Title: Awesome show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2020/01/05\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mark Baker', 'Neville Astley', 'Joris van Hulzen', 'Phil Hall', 'Sarah Roper'], 'Producers': ['Phil Davies']}\nReview Text: If your kid loves peppa then buy this\nReview Title: When you can\u2019t get enough Peppa...\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Die Hard\nReview Date: 2020/01/05\nCategories: Suspense, Action, Gritty, Intense\nProduct Description: ['Yippie-ki-yay! Hard-nosed NYC cop John McClane wages a one-man war against a band of cold-blooded thieves in Los Angeles in this contemporary action classic.']\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John McTiernan'], 'Producers': ['Lawrence Gordon', 'Joel Silver'], 'Starring': ['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']}\nReview Text: One of the best movies ever made! And yes it is a Christmas movie\nReview Title: Top 5 for sure\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Bohemian Rhapsody\nReview Date: 2020/01/05\nCategories: Drama, Arts, Entertainment, and Culture, Bold, Electrifying\nProduct Description: ['Bohemian Rhapsody celebrates the band Queen, their music, and their extraordinary lead singer Freddie Mercury, who defied convention to become one of the most beloved entertainers ever.']\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bryan Singer'], 'Producers': ['Graham King', 'Jim Beach'], 'Starring': ['Rami Malek', 'Lucy Boynton', 'Gwilym Lee']}\nReview Text: I laughed, I cried, I felt all the feels... great movie\nReview Title: Well done!\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: The Nun\nReview Date: 2020/01/05\nCategories: Horror, Bleak, Eerie, Frightening\nProduct Description: ['When a nun commits suicide, a priest and novitiate investigate. Together they uncover the order\u2019s unholy secret, the same demonic nun that first appeared in \u201cThe Conjuring 2\".']\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Corin Hardy'], 'Producers': ['Peter Safran', 'James Wan'], 'Starring': ['Demi\u00e1n Bichir', 'Taissa Farmiga', 'Jonas Bloquet']}\nReview Text: Terrible. But that\u2019s just my opinion... it\u2019s not amazons fault\nReview Title: Not the greatest\nRating: 1.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual exhibits a strong preference for high-quality entertainment, consistently rating products between 4.4 to 5.0, indicating a discerning taste. Notably, they favor engaging narratives across genres such as action, drama, and suspense, showcasing a particular appreciation for intense, gritty storytelling and emotionally resonant experiences, as seen in their affection for both classic action films and biopics.\n\nThe recurring themes in their purchases suggest that they are drawn to content with complex characters and significant emotional depth. Moreover, their positive remarks about shows and movies indicate a liking for spirited and occasionally humorous undertones, reflected in their enjoyment of lighthearted children's programming as well.\n\nIn terms of quality, they appear to prioritize well-produced content, favoring films and series from established studios and directors, which suggests a degree of price sensitivity towards premium offerings instead of lower-quality alternatives. However, their scathing review of a poorly rated horror film signifies a clear threshold for quality, implying that they are likely to avoid products that do not meet their standards.\n\nOverall, the individual seeks compelling storytelling, emotional engagement, and high production values, demonstrating a clear affinity for both critically acclaimed works and beloved classics.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Great movie",
+    "text": "Awesome movie shot in my hometown!",
+    "images": [],
+    "asin": "B006FTC08K",
+    "parent_asin": "B006FTC08K",
+    "user_id": "AG4CP7TWGP6IODY773MR7OKSOYBQ",
+    "timestamp": "2020-01-05 02:57:33.867000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.3,
+    "rating_number": 2108,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f93379220fc6ebc01ae22b66059db2f3bb9aa388e17ab788994d2deca5ab9d0a._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Nudity",
+        "violence",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English Dialogue Boost: High",
+        "English",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Ruben Fleischer"
+      ],
+      "Producers": [
+        "Ben Stiller"
+      ],
+      "Starring": [
+        "Jesse Eisenberg",
+        "Danny McBride",
+        "Aziz Ansari"
+      ],
+      "Studio": [
+        "Columbia Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

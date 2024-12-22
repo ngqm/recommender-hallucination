@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Strixaderm Lash Advance Eyelash Conditioner - Hypo Allergenic Eyebrow Enhancer Serum & Primer Mascara For Natural Eye Brow Growth & Thick Long Lashes\nReview Date: 2020/03/08\nStore: STRIXADERM-MD\nAverage Rating: 3.1\nProduct Details: {'Package Dimensions': '4.4 x 1.4 x 1.3 inches; 0.81 Ounces', 'UPC': '096563380000'}\nReview Text: Not a fan of this product because I was looking for something more like mascara. It doesn't fit my makeup needs in everyday life.<br /><br />Katiebabs\nReview Title: A Pass For Me (C Grade)\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Strixaderm Lash Advance Eyelash Conditioner - Hypo Allergenic Eyebrow Enhancer Serum & Primer Mascara For Natural Eye Brow Growth & Thick Long Lashes\nSTRIXADERM-MD\n{'Package Dimensions': '4.4 x 1.4 x 1.3 inches; 0.81 Ounces', 'UPC': '096563380000'}\nNot a fan of this product because I was looking for something more like mascara. It doesn't fit my makeup needs in everyday life.<br /><br />Katiebabs\nA Pass For Me (C Grade)",
+  "profile": "**User Profile Summary:**\n\n- **Makeup Preferences:** Prefers functional products that enhance everyday makeup routines, specifically leaning towards traditional cosmetics like mascara rather than conditioning treatments.\n- **Quality Expectations:** Values efficacy and performance; unsatisfied with products perceived as inadequate for intended use.\n- **Product Evaluation:** Critical reviewer\u2014gives low ratings when products do not meet expectations, indicating a discerning taste.\n- **Focus on Results:** Likely seeks products that provide immediate visual impact and practical benefits in appearance, favoring more substantial enhancements over subtle effects.\n- **Sensitivity to Marketing:** May have high expectations built upon marketing claims; disappointment suggests a desire for transparency and reliability in product descriptions. \n\nThis summary highlights the user\u2019s inclination towards effective makeup solutions and their critical eye for product performance in line with daily makeup needs.",
+  "metrics": {
+    "rouge1_f": 0.17258883248730963,
+    "rouge2_f": 0.02051282051282051,
+    "rougeL_f": 0.0913705583756345,
+    "meteor": 0.16598638885043535,
+    "bleu1": 0.0935672514619883,
+    "bleu2": 0.03317817345289596,
+    "bleu3": 0.008668409391372707,
+    "bleu4": 0.004437386318979464,
+    "bertscore_precision": 0.41070687770843506,
+    "bertscore_recall": 0.4079316556453705,
+    "bertscore_f1": 0.4093145728111267
+  }
+}

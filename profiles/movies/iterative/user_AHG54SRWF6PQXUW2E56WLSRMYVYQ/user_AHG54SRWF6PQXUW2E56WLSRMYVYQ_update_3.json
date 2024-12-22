@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/20\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ashby', 'Hal'], 'Producers': ['Warren Beatty'], 'Starring': ['Warren Beatty', 'Julie Christie', 'Goldie Hawn'], 'Studio': ['Crowd Pleasers']}\nReview Text: Great throwback into L.A.'s history! Loved Beauty.\nReview Title: Must see.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Susan Lacy'], 'Producers': ['THIRTEEN'], 'Starring': ['David Geffen'], 'Studio': ['Not Specified']}\nThis is a detailed, insider's look into the fascinating and brilliant personality of David Geffen. David is a  complex Human Being not easily captured except for by the clever techniques used in this bio for him to open up. Do not miss!\nBrillant, Fascinating and Compelling!\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Ford Coppola'], 'Producers': ['Gray Fredrickson', 'Fred Roos', 'Francis Ford Coppola'], 'Starring': ['Al Pacino', 'Robert Duvall', 'Diane Keaton']}\nGreatest movie ever made!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ashby', 'Hal'], 'Producers': ['Warren Beatty'], 'Starring': ['Warren Beatty', 'Julie Christie', 'Goldie Hawn'], 'Studio': ['Crowd Pleasers']}\nGreat throwback into L.A.'s history! Loved Beauty.\nMust see.",
+  "profile": "**User Profile Summary:**\n\nThe user exhibits a profound interest in engaging biographical content and character studies, with a particular focus on narratives that provide in-depth insights into complex personalities. They appreciate well-crafted storytelling that intricately reveals individual lives and resonates emotionally, as demonstrated by their enthusiastic review of a notable film they consider among the greatest ever made. This strong inclination towards high-quality cinematic productions is further reinforced by their recent interactions, reflecting an appreciation for films that explore historical contexts, especially those tied to iconic locations like Los Angeles.\n\nTheir content preferences extend to genres that delve into multifaceted characters and complex themes, valuing films and documentaries produced by renowned directors and featuring acclaimed actors. The user is drawn to narratives that are intellectually stimulating and possess compelling production qualities that captivate attention, as shown by their high ratings and positive reviews of throwback films.\n\nKeywords:\n- Biographies\n- Complex personalities\n- In-depth storytelling\n- Historical narratives\n- High-quality production\n\nOverall, the user actively seeks out materials that combine emotional depth with informative storytelling, reflecting their appreciation for character-driven content across various media formats, including film and literature. They express a particular fondness for narratives that evoke nostalgia and capture the essence of significant cultural moments.",
+  "metrics": {
+    "rouge1_f": 0.17341040462427743,
+    "rouge2_f": 0.005813953488372094,
+    "rougeL_f": 0.0809248554913295,
+    "meteor": 0.0829974221015941,
+    "bleu1": 0.12818956437434811,
+    "bleu2": 0.02112039942895344,
+    "bleu3": 0.005382139405629509,
+    "bleu4": 0.002719948646851421,
+    "bertscore_precision": 0.3636730909347534,
+    "bertscore_recall": 0.395943284034729,
+    "bertscore_f1": 0.3791227340698242
+  }
+}

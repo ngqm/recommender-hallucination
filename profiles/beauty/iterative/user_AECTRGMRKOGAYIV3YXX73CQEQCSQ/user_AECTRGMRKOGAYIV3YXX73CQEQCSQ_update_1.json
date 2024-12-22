@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Degree Male Adrenaline Series Anti-Perspirant and Deodorant Invisible Solid for Men, Overtime, 2.7 Ounce\nReview Date: 2014/04/24\nStore: DEGREE MENS DEO\nAverage Rating: 3.2\nProduct Details: {'Brand': 'DEGREE MENS DEO', 'Item Form': 'Solid', 'Scent': 'Cool Rush', 'Unit Count': '2.7 Ounce', 'Product Dimensions': '2.72 x 1.2 x 5.74 inches; 4.48 Ounces', 'Manufacturer': 'Unilever'}\nReview Text: Exactly as advertised.  Lasted all day with great odor and wetness protection.  I also appreciated that the scent was subtle enough not to compete with my cologne.  I'll be buying this again.\nReview Title: Great, all day protection with a pleasantly subtle scent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Degree Male Adrenaline Series Anti-Perspirant and Deodorant Invisible Solid for Men, Overtime, 2.7 Ounce\nDEGREE MENS DEO\n{'Brand': 'DEGREE MENS DEO', 'Item Form': 'Solid', 'Scent': 'Cool Rush', 'Unit Count': '2.7 Ounce', 'Product Dimensions': '2.72 x 1.2 x 5.74 inches; 4.48 Ounces', 'Manufacturer': 'Unilever'}\nExactly as advertised.  Lasted all day with great odor and wetness protection.  I also appreciated that the scent was subtle enough not to compete with my cologne.  I'll be buying this again.\nGreat, all day protection with a pleasantly subtle scent",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** Shows a clear preference for solid anti-perspirants and deodorants.\n- **Performance Expectations:** Values products that provide all-day odor and wetness protection.\n- **Scent Sensitivity:** Prefers subtle scents that do not overpower other fragrances, indicating a balance between effective hygiene products and personal cologne.\n- **Brand Affinity:** Demonstrates an inclination towards established brands that deliver on their promises.\n- **Review Behavior:** Engages positively with products that meet expectations, as evidenced by a high rating despite prior dissatisfaction with other brands or products.\n- **Replenishment Intent:** Willing to repurchase products that fulfill their needs, signaling loyalty to items that demonstrate consistent performance.\n\nOverall, the user appreciates effective and reliable grooming products with a focus on subtlety in scent, and is likely to revisit brands that meet these criteria.",
+  "metrics": {
+    "rouge1_f": 0.2714932126696833,
+    "rouge2_f": 0.08219178082191782,
+    "rougeL_f": 0.16289592760180996,
+    "meteor": 0.1703397817460318,
+    "bleu1": 0.18333333333333332,
+    "bleu2": 0.07839165387111083,
+    "bleu3": 0.04696204159478994,
+    "bleu4": 0.03289079788366872,
+    "bertscore_precision": 0.45058855414390564,
+    "bertscore_recall": 0.46493905782699585,
+    "bertscore_f1": 0.4576513469219208
+  }
+}

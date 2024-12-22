@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/01/01\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Debra Granik'], 'Producers': ['Anne Harrison', 'Linda Reisman', 'Anne Rosellini'], 'Starring': ['Ben Foster', 'Thomasin Harcourt McKenzie', 'Jeff Kober'], 'Studio': ['Bleecker Street']}\nReview Text: Redemption and understanding\nReview Title: Good movie and very good acting\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Debra Granik'], 'Producers': ['Anne Harrison', 'Linda Reisman', 'Anne Rosellini'], 'Starring': ['Ben Foster', 'Thomasin Harcourt McKenzie', 'Jeff Kober'], 'Studio': ['Bleecker Street']}\nRedemption and understanding\nGood movie and very good acting",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally positive, with an average rating around 4.3. The user appreciates quality in the products they choose.\n  \n- **Content Preferences:** Enjoys films that delve into themes of redemption and understanding, indicating a preference for narratives that offer emotional depth.\n  \n- **Quality Appreciation:** Values strong acting performances, suggesting a preference for character-driven stories and potentially higher production quality.\n\n- **Language and Subtitles:** Favors content in English, both in audio and subtitles, highlighting a preference for accessibility in understanding.\n\n- **Notable Collaborations:** Shows interest in works by specific directors and producers, signaling a tendency to follow particular creative teams.\n\n- **Overall Sentiment:** Demonstrates a discerning taste in film, combining appreciation for storytelling, performances, and thematic richness.",
+  "metrics": {
+    "rouge1_f": 0.14473684210526314,
+    "rouge2_f": 0.02666666666666667,
+    "rougeL_f": 0.07894736842105264,
+    "meteor": 0.11437908496732026,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.02556549962824567,
+    "bleu3": 0.0072857447974650534,
+    "bleu4": 0.0038951855076259107,
+    "bertscore_precision": 0.39112526178359985,
+    "bertscore_recall": 0.3444235026836395,
+    "bertscore_f1": 0.36629176139831543
+  }
+}

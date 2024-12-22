@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/11/02\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Studio': ['CBS']}\nReview Text: Great show, so funny!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Starring': ['Waters', 'Derek']}\nLove this show\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Studio': ['CBS']}\nSo funny, love this show!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Konner', 'Derek Waters'], 'Producers': ['Jeremy Konner', 'Derek Waters', 'Will Ferrell', 'Adam McKay', 'Owen Burke', 'Zachary Halley', 'Melissa Wylie', 'Jason D. Keller', 'Danielle Liebowitz', 'Seth Weitberg'], 'Studio': ['CBS']}\nGreat show, so funny!\nFive Stars",
+  "profile": "**User Profile Summary**:\n\n- **Content Preference**: Enjoys shows with robust comedic elements, particularly those produced by collaborative teams featuring multiple influential creators. This includes a notable inclination towards works from Jeremy Konner, Derek Waters, and other prominent industry professionals. \n\n- **User Engagement**: Maintains high satisfaction with content, exemplified by an impressive average rating of 4.7 and an enthusiastic approach to reviews. Recent interactions exhibit a deepening affection for humor-driven productions, reinforcing their passion for high-quality comedic entertainment.\n\n- **Language**: Prefers English audio and subtitles, with a strong emphasis on accessibility and comprehension for an enhanced media experience.\n\n- **Review Behavior**: Actively engages in providing feedback and values community interaction through ratings and reviews. The user typically expresses excitement for content that strongly resonates with them, demonstrated by their recent 5-star rating and positive comment.\n\n- **Trends**: Consistently enjoys high-quality productions, particularly those featuring renowned directors, producers, and performers. Their continual engagement reflects a preference for well-crafted, popular entertainment, especially comedies crafted by noteworthy creative teams. The latest interaction aligns with their established trend of favoring humor-rich shows from respected creators, further solidifying this preference in their profile.",
+  "metrics": {
+    "rouge1_f": 0.10223642172523961,
+    "rouge2_f": 0.019292604501607715,
+    "rougeL_f": 0.07667731629392971,
+    "meteor": 0.05103836677226328,
+    "bleu1": 0.07473825994408875,
+    "bleu2": 0.005049382986143353,
+    "bleu3": 0.0020594143613790286,
+    "bleu4": 0.0013165992460332278,
+    "bertscore_precision": 0.3768199682235718,
+    "bertscore_recall": 0.34881770610809326,
+    "bertscore_f1": 0.3622785210609436
+  }
+}

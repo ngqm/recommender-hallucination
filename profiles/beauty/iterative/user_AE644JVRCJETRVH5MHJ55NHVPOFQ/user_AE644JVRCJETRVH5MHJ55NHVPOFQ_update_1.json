@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Colgate Max White Sonic Power Toothbrush, Soft, 2 Count (Colors May Vary)\nReview Date: 2016/02/05\nStore: Colgate\nProduct Description: ['Colgate MaxWhite Sonic Powered Toothbrush with vibrating bristles and polishing star to help remove stains, revealing the natural whiteness of your teeth.']\nAverage Rating: 3.4\nProduct Details: {'Brand': 'Colgate', 'Age Range (Description)': 'Adult', 'Special Feature': 'Brushing Timer', 'Power Source': 'Battery Powered', 'Item Firmness Description': 'Soft', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1 x 2.15 x 9 inches; 0.48 Ounces', 'Batteries': '1 AAA batteries required.', 'UPC': '035000688521', 'Manufacturer': 'Colgate-Palmolive Co'}\nReview Text: i love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Colgate Max White Sonic Power Toothbrush, Soft, 2 Count (Colors May Vary)\nColgate\n['Colgate MaxWhite Sonic Powered Toothbrush with vibrating bristles and polishing star to help remove stains, revealing the natural whiteness of your teeth.']\n{'Brand': 'Colgate', 'Age Range (Description)': 'Adult', 'Special Feature': 'Brushing Timer', 'Power Source': 'Battery Powered', 'Item Firmness Description': 'Soft', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1 x 2.15 x 9 inches; 0.48 Ounces', 'Batteries': '1 AAA batteries required.', 'UPC': '035000688521', 'Manufacturer': 'Colgate-Palmolive Co'}\ni love it\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Oral Care Enthusiast**: The user shows a strong interest in dental hygiene products, particularly powered toothbrushes. \n- **Preference for Efficacy**: Positive feedback indicates a focus on effectiveness, enjoying products that enhance tooth whitening and cleanliness.\n- **Ease of Use**: The user likely values products with user-friendly features, such as a brushing timer, which suggests a preference for tools that promote proper oral care routines.\n- **Comfort Consideration**: A specific mention of a 'soft' firmness in product details implies a sensitivity to discomfort or a preference for gentle care products.\n- **Positive Feedback**: The user exhibits a trend of providing high ratings reflecting satisfaction with purchases, indicating a tendency to appreciate and endorse products that meet their needs effectively.\n\nThis profile outlines a user committed to maintaining a healthy smile, prioritizing both efficacy and comfort in their oral care products.",
+  "metrics": {
+    "rouge1_f": 0.11555555555555555,
+    "rouge2_f": 0.017937219730941704,
+    "rougeL_f": 0.08,
+    "meteor": 0.10438413361169101,
+    "bleu1": 0.10215053763440862,
+    "bleu2": 0.007430781037644033,
+    "bleu3": 0.0031075422006711,
+    "bleu4": 0.002012333716826853,
+    "bertscore_precision": 0.42501938343048096,
+    "bertscore_recall": 0.40407776832580566,
+    "bertscore_f1": 0.4142841100692749
+  }
+}

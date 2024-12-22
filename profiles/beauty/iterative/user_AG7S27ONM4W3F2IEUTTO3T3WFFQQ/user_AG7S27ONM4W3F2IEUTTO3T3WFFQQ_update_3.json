@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ben Nye Nose & Scar Wax Fair, 1oz\nReview Date: 2017/10/30\nStore: Ben Nye\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\nReview Text: great for special FX mackup\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ben Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Primary Interest:** Special effects makeup\n- **Product Type Preference:** Strong preference for wax-based products suitable for application\n- **Brand Loyalty:** Loyal to high-quality brands in the FX makeup category, particularly favoring Ben Nye\n- **Satisfaction Level:** Maintains a high level of satisfaction with products, consistently giving positive ratings, with a recent purchase rated 5 stars\n- **Usage Context:** Utilizes products for theatrical or creative purposes, indicating a robust engagement with performance arts or makeup artistry\n- **Review Trait:** Provides enthusiastic and positive reviews, reflecting a favorable experience with the effectiveness and ease of application of products; recent feedback highlighted effectiveness for special FX makeup\n\nThe user's interaction history reinforces a strong inclination towards high-quality special effects makeup, particularly in wax formulations, while demonstrating committed engagement in creative applications. Their recent purchase further solidifies their loyalty to leading brands in the industry and underscores their satisfaction with product performance, as indicated by consistently positive reviews. The user\u2019s preferences suggest they are well-versed in utilizing these products to enhance their creative endeavors in makeup artistry.",
+  "metrics": {
+    "rouge1_f": 0.12422360248447205,
+    "rouge2_f": 0.018750000000000003,
+    "rougeL_f": 0.08074534161490683,
+    "meteor": 0.08741562954089159,
+    "bleu1": 0.12280701754385966,
+    "bleu2": 0.04028647703457298,
+    "bleu3": 0.01929316066389232,
+    "bleu4": 0.007516348464231545,
+    "bertscore_precision": 0.3558623194694519,
+    "bertscore_recall": 0.34227773547172546,
+    "bertscore_f1": 0.34893786907196045
+  }
+}

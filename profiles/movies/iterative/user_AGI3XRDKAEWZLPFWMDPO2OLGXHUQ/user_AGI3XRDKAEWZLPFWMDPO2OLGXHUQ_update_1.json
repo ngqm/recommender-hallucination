@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/04/14\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['John Lee Hancock'], 'Producers': ['Alison Owen', 'Ian Collie', 'Philip Steuer'], 'Starring': ['Paul Giamatti', 'Jason Schwartzman', 'Emma Thompson'], 'Studio': ['BUENA VISTA PAY TELEVISION']}\nReview Text: Great acting really brings the heart-wrenching back story of the movie Mary Poppins to life.<br />Fans of Mary Poppins would be exceptionally entertained, I believe.  Myself, I selected the movie to watch because I am a huge Tom Hanks fan.<br />My adult son (early 20's) and husband would not have been interested in this type of movie.<br />Best advice: watch the trailer to ensure it piques your interest first.\nReview Title: Very Entertaining; Really Enjoyed the Characters & Storyline\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['John Lee Hancock'], 'Producers': ['Alison Owen', 'Ian Collie', 'Philip Steuer'], 'Starring': ['Paul Giamatti', 'Jason Schwartzman', 'Emma Thompson'], 'Studio': ['BUENA VISTA PAY TELEVISION']}\nGreat acting really brings the heart-wrenching back story of the movie Mary Poppins to life.<br />Fans of Mary Poppins would be exceptionally entertained, I believe.  Myself, I selected the movie to watch because I am a huge Tom Hanks fan.<br />My adult son (early 20's) and husband would not have been interested in this type of movie.<br />Best advice: watch the trailer to ensure it piques your interest first.\nVery Entertaining; Really Enjoyed the Characters & Storyline",
+  "profile": "**User Summary:**\n\n- **Entertainment Preference:** Enjoys films with strong narratives and emotional depth, particularly those featuring renowned actors.\n- **Genre Interest:** Gravitation towards biographical and family-oriented films, especially those with historical significance or a heartwarming touch.\n- **Actor Affinity:** Has a notable fondness for Tom Hanks and appreciates performances that enhance storytelling.\n- **Viewing Companions:** Prefers films that may appeal to an adult audience, suggesting selective viewing based on family members' interests.\n- **Language and Accessibility:** Values options for audio and subtitle languages, indicating a preference for bilingual content.\n- **Engagement Strategy:** Recommends checking trailers prior to viewing, reflecting a thoughtful approach to movie selection.\n\nOverall, this user demonstrates a thoughtful and discerning taste in cinematic experiences, favoring well-acted, emotional stories with accessible features.",
+  "metrics": {
+    "rouge1_f": 0.18410041841004182,
+    "rouge2_f": 0.008438818565400843,
+    "rougeL_f": 0.06694560669456066,
+    "meteor": 0.11440731609808104,
+    "bleu1": 0.15824851652342325,
+    "bleu2": 0.028974998377932545,
+    "bleu3": 0.007651602369674402,
+    "bleu4": 0.0039377332551027155,
+    "bertscore_precision": 0.417389452457428,
+    "bertscore_recall": 0.4445529580116272,
+    "bertscore_f1": 0.4305431842803955
+  }
+}

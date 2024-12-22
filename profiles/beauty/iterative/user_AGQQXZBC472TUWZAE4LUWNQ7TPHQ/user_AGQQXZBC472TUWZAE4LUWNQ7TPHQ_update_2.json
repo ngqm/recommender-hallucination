@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Full Shine 18\" Tape in Remy Human Hair Extensions Tape Ombre Extensions Dip Dyed Color #8 Ash Brown Fading to #60 and #18 Ash Blonde Highlighted Extensions 20 Pcs 50gram Per Package\nReview Date: 2019/03/26\nAverage Rating: 5.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.6 x 5 x 2 inches; 3.21 Ounces', 'UPC': '734602042013'}\nReview Text: This color is very hard to find. Very blendable and soft. I would def recommend two or three packs for a full head of extensions.\nReview Title: Color is perfect\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Moresoo 18inch Tape in Hair Extensions Human Hair Blonde Hair Real Human Hair 20pcs 50g Remy Human Hair Extensions Tape on Balayage #6 Brown to Blonde #60 Glue on Hair Seamless Skin Weft Hair\n{'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Tape-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5 x 1.89 inches; 1.76 Ounces', 'UPC': '711931080862'}\nLove love love this company love the hair. I use a little bit of blonde shampoo to keep the color nice and bright. Love it. Ive been doing extensions for nearly 12 years and these are some of the best in this price point.\nAmaaaaazing hairr omgg\nFull Shine 18\" Tape in Remy Human Hair Extensions Tape Ombre Extensions Dip Dyed Color #8 Ash Brown Fading to #60 and #18 Ash Blonde Highlighted Extensions 20 Pcs 50gram Per Package\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.6 x 5 x 2 inches; 3.21 Ounces', 'UPC': '734602042013'}\nThis color is very hard to find. Very blendable and soft. I would def recommend two or three packs for a full head of extensions.\nColor is perfect",
+  "profile": "**User Summary:**\n\n- **Hair Preference:** Strong preference for high-quality human hair extensions, with a focus on blonde hues and blendable colors.\n- **Experience Level:** Has significant experience (12 years) with hair extensions, demonstrating familiarity with product ranges and installation techniques.\n- **Product Type:** Favors seamless and tape-in extensions for their ease of use, natural appearance, and blendability.\n- **Recent Purchases:** Recently purchased ombre extensions that transition from ash brown to blonde, indicating an interest in versatile color options that are hard to find.\n- **Maintenance:** Utilizes specific hair care products (like blonde shampoo) to maintain color vibrancy and texture, reflecting a commitment to high maintenance standards.\n- **Quality Focus:** Values quality at a reasonable price, consistently seeking products that perform well and enhance aesthetic appeal.\n- **Overall Satisfaction:** Consistently provides high ratings for products, indicating satisfaction with performance and a tendency to share positive feedback, especially regarding product qualities like softness and blendability.\n\nThis profile highlights a user who prioritizes high-quality, aesthetically appealing extensions with a focus on color versatility and maintenance ease.",
+  "metrics": {
+    "rouge1_f": 0.29201101928374656,
+    "rouge2_f": 0.07756232686980609,
+    "rougeL_f": 0.16528925619834708,
+    "meteor": 0.16852218296217744,
+    "bleu1": 0.2304784124843545,
+    "bleu2": 0.074936680951655,
+    "bleu3": 0.03577904525800147,
+    "bleu4": 0.02081159565775729,
+    "bertscore_precision": 0.41805946826934814,
+    "bertscore_recall": 0.46213793754577637,
+    "bertscore_f1": 0.43899503350257874
+  }
+}

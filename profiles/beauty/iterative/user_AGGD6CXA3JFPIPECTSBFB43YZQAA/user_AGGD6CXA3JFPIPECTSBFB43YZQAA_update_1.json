@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Biutee Nail Mirror Powder4 Boxes 8 Colors 0.5g with 4 Brushes Nail Chameleon Powder Nail Glitter Nail Chrome Powder Manicure Unicorn Chrome Pigments\nReview Date: 2020/12/30\nStore: Biutee\nAverage Rating: 3.3\nProduct Details: {'Package Dimensions': '5.63 x 5.59 x 1.97 inches; 0.02 Ounces'}\nReview Text: I had never tried decorative nail powder before ; in fact never even heard of this product so was curious to give it a go and so glad that I did!! Its super easy to use and creates some really cool effects with relative ease.<br /><br />In a nutshell, you use it with gel nail colors: Apply your basecoat, color (this suggests plain black or white for the best  effects) then top coat. Do not use rubbing alcohol at this point as you would typically do, but instead apply the powder, which is just like eyeshadow with an eyeshadow type applicator then seal with one last coat of gel top coat.<br /><br />It has a chrome like effect and blends nicely , to create all kinds of effects. It is  very easy to use, much easier than gel nail polish itself and can even hide imperfections! Love it !!\nReview Title: Love this powder ! So easy to use and create unique fun effects\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Biutee Nail Mirror Powder4 Boxes 8 Colors 0.5g with 4 Brushes Nail Chameleon Powder Nail Glitter Nail Chrome Powder Manicure Unicorn Chrome Pigments\nBiutee\n{'Package Dimensions': '5.63 x 5.59 x 1.97 inches; 0.02 Ounces'}\nI had never tried decorative nail powder before ; in fact never even heard of this product so was curious to give it a go and so glad that I did!! Its super easy to use and creates some really cool effects with relative ease.<br /><br />In a nutshell, you use it with gel nail colors: Apply your basecoat, color (this suggests plain black or white for the best  effects) then top coat. Do not use rubbing alcohol at this point as you would typically do, but instead apply the powder, which is just like eyeshadow with an eyeshadow type applicator then seal with one last coat of gel top coat.<br /><br />It has a chrome like effect and blends nicely , to create all kinds of effects. It is  very easy to use, much easier than gel nail polish itself and can even hide imperfections! Love it !!\nLove this powder ! So easy to use and create unique fun effects",
+  "profile": "**User Summary:**\n\nThe user demonstrates a strong interest in nail care and decoration, particularly with products that enhance manicure results. They appreciate innovative and easy-to-use solutions that allow for creative expression, as highlighted by their enthusiasm for decorative nail powders. This suggests a preference for products that offer versatility and the ability to create unique effects, especially in combination with gel nail colors.\n\nThe user values ease of application, indicating that they prefer products that do not require complicated processes. Their positive experience with the product, coupled with the remark about hiding imperfections, implies a focus on achieving aesthetically pleasing results with minimal effort.\n\nOverall, the user is inclined towards products that combine creativity with convenience in nail care, and they express satisfaction with items that provide a significant visual impact while being user-friendly.",
+  "metrics": {
+    "rouge1_f": 0.27380952380952384,
+    "rouge2_f": 0.0718562874251497,
+    "rougeL_f": 0.15476190476190477,
+    "meteor": 0.15726887589464156,
+    "bleu1": 0.1727254034108453,
+    "bleu2": 0.06399255112200528,
+    "bleu3": 0.03193760084815314,
+    "bleu4": 0.01900433355596476,
+    "bertscore_precision": 0.40139156579971313,
+    "bertscore_recall": 0.4681475758552551,
+    "bertscore_f1": 0.4322070777416229
+  }
+}

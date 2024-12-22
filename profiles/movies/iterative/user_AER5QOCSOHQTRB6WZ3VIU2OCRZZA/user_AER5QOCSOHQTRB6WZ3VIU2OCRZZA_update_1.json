@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/03/12\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Greg Spence', 'Lisa McAtackney', 'Bryan Cogman', 'Guymon Casady', 'George R.R. Martin', 'Vince Gerardis', 'Chris Newman'], 'Starring': ['Peter Dinklage', 'Lena Headey', 'Emilia Clarke'], 'Studio': ['HBO']}\nReview Text: Love this show\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Greg Spence', 'Lisa McAtackney', 'Bryan Cogman', 'Guymon Casady', 'George R.R. Martin', 'Vince Gerardis', 'Chris Newman'], 'Starring': ['Peter Dinklage', 'Lena Headey', 'Emilia Clarke'], 'Studio': ['HBO']}\nLove this show\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Entertainment Preference**: Strong appreciation for high-quality television series, particularly those produced by major studios like HBO. \n- **Content Language**: Prefers content in English, including audio and subtitles.\n- **Rating Pattern**: Consistently gives high ratings (near perfect scores), indicating a discerning taste and satisfaction with purchased content.\n- **Genre Interest**: Enjoys dramas with complex narratives and character development.\n- **Creators & Cast Preferences**: Shows a preference for works by notable directors and writers, as well as popular actors in the industry.\n- **Engagement Style**: Engages positively with content, shown through enthusiastic reviews reflecting a genuine love for the shows.\n\nOverall, this user exhibits a strong connection to critically acclaimed series that feature significant creative talent and emotionally compelling stories.",
+  "metrics": {
+    "rouge1_f": 0.12643678160919541,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06896551724137931,
+    "meteor": 0.06291635825314582,
+    "bleu1": 0.08139534883720931,
+    "bleu2": 0.006899247727328423,
+    "bleu3": 0.0030365808743482606,
+    "bleu4": 0.002017515886172454,
+    "bertscore_precision": 0.39866989850997925,
+    "bertscore_recall": 0.38129881024360657,
+    "bertscore_f1": 0.38979092240333557
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BIOSSANCE Marine Algae Eye Cream Mini 0.1oz/3mL\nReview Date: 2021/02/16\nStore: BIOSSANCE\nProduct Description: ['BIOSSANCE Marine Algae Eye Cream Mini 0.1oz / 3mL']\nAverage Rating: 4.2\nProduct Details: {'Brand': 'BIOSSANCE', 'Item Form': 'Cream', 'Number of Items': '1', 'Use for': 'Eyes', 'Item Volume': '3 Milliliters', 'Package Dimensions': '3.98 x 2.6 x 1.1 inches; 1.45 Ounces', 'UPC': '859049007866'}\nReview Text: I don\u2019t see any result from using this. And they shouldn\u2019t sell it for money as this is supposed to be a free sample\nReview Title: Shouldn\u2019t sell for money\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "BIOSSANCE Marine Algae Eye Cream Mini 0.1oz/3mL\nBIOSSANCE\n['BIOSSANCE Marine Algae Eye Cream Mini 0.1oz / 3mL']\n{'Brand': 'BIOSSANCE', 'Item Form': 'Cream', 'Number of Items': '1', 'Use for': 'Eyes', 'Item Volume': '3 Milliliters', 'Package Dimensions': '3.98 x 2.6 x 1.1 inches; 1.45 Ounces', 'UPC': '859049007866'}\nI don\u2019t see any result from using this. And they shouldn\u2019t sell it for money as this is supposed to be a free sample\nShouldn\u2019t sell for money",
+  "profile": "**User Profile Summary:**\n\n- **Brand Preferences:** Shows interest in skincare brands that offer clean and sustainable products. Specifically engaged with BIOSSANCE.\n- **Product Formulation:** Prefers eye creams, indicating a focus on eye care within skincare.\n- **Value Sensitivity:** Critical of perceived value, especially regarding sample products being sold. This suggests a preference for cost-effective options or free samples.\n- **Effectiveness Concern:** Values tangible results from products; dissatisfaction expressed due to lack of perceived efficacy.\n- **Rating Tendencies:** Tends to use a nuanced rating system, with an inclination to give low ratings when expectations are not met.\n\nOverall, this user seems to prioritize effective and reasonably priced skincare solutions while demonstrating a commitment to quality formulations from reputable brands.",
+  "metrics": {
+    "rouge1_f": 0.18367346938775508,
+    "rouge2_f": 0.03092783505154639,
+    "rougeL_f": 0.12244897959183672,
+    "meteor": 0.13278008298755187,
+    "bleu1": 0.13043478260869565,
+    "bleu2": 0.009028938981432692,
+    "bleu3": 0.0037149995934973594,
+    "bleu4": 0.002386738321434275,
+    "bertscore_precision": 0.41894394159317017,
+    "bertscore_recall": 0.41491445899009705,
+    "bertscore_f1": 0.4169194996356964
+  }
+}

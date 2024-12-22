@@ -1,0 +1,77 @@
+{
+  "user_id": "AG3EA5O7EVFPV5SV6B7J4LXEMRMA",
+  "summary": "=== Purchase Information ===\nReview Date: 2014/08/16\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Addison Holley', 'Jadiel Dowlin', 'Raven Dauda']}\nReview Text: My kids are into robots right now. And they love this show. They can't wait for more episodes.\nReview Title: And they love this show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Dr. Seuss' How the Grinch Stole Christmas\nReview Date: 2014/12/23\nCategories: Fantasy, Kids, Gentle, Joyous\nProduct Description: [\"Jim Carrey brings Dr. Suess' holiday-hating heel to gloriously sinister life in this effects-filled adaptation of the classic story.\"]\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ron Howard'], 'Producers': ['Brian Grazer', 'Todd Hallowell'], 'Starring': ['Jim Carrey', 'Jeffrey Tambor', 'Christine Baranski']}\nReview Text: Kids loved it for the Christmas time movie night.\nReview Title: good to bring in Christmas\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/12/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Wedge', 'Carlos Saldanha'], 'Producers': ['Jerry Davis', 'John C. Donkin', 'William Joyce', 'Christopher Meledandri'], 'Starring': ['Ewan McGregor', 'Halle Berry', 'Greg Kinnear'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: My son enjoyed this movie.\nReview Title: son loves it.\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/14\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Jadiel Dowlin', 'Raven Dauda', 'Joey Nijem'], 'Studio': ['Amazon Studios']}\nReview Text: My boys love this show. They always want to watch it. Any chance they can get. They always request it.\nReview Title: My boys love this show\nRating: 5.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Addison Holley', 'Jadiel Dowlin', 'Raven Dauda']}\nMy kids are into robots right now. And they love this show. They can't wait for more episodes.\nAnd they love this show\nDr. Seuss' How the Grinch Stole Christmas\nFantasy, Kids, Gentle, Joyous\n[\"Jim Carrey brings Dr. Suess' holiday-hating heel to gloriously sinister life in this effects-filled adaptation of the classic story.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ron Howard'], 'Producers': ['Brian Grazer', 'Todd Hallowell'], 'Starring': ['Jim Carrey', 'Jeffrey Tambor', 'Christine Baranski']}\nKids loved it for the Christmas time movie night.\ngood to bring in Christmas\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Wedge', 'Carlos Saldanha'], 'Producers': ['Jerry Davis', 'John C. Donkin', 'William Joyce', 'Christopher Meledandri'], 'Starring': ['Ewan McGregor', 'Halle Berry', 'Greg Kinnear'], 'Studio': ['20TH CENTURY FOX']}\nMy son enjoyed this movie.\nson loves it.\n{'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Jadiel Dowlin', 'Raven Dauda', 'Joey Nijem'], 'Studio': ['Amazon Studios']}\nMy boys love this show. They always want to watch it. Any chance they can get. They always request it.\nMy boys love this show",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2014/08/16\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Addison Holley', 'Jadiel Dowlin', 'Raven Dauda']}\nReview Text: My kids are into robots right now. And they love this show. They can't wait for more episodes.\nReview Title: And they love this show\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Dr. Seuss' How the Grinch Stole Christmas\nReview Date: 2014/12/23\nCategories: Fantasy, Kids, Gentle, Joyous\nProduct Description: [\"Jim Carrey brings Dr. Suess' holiday-hating heel to gloriously sinister life in this effects-filled adaptation of the classic story.\"]\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ron Howard'], 'Producers': ['Brian Grazer', 'Todd Hallowell'], 'Starring': ['Jim Carrey', 'Jeffrey Tambor', 'Christine Baranski']}\nReview Text: Kids loved it for the Christmas time movie night.\nReview Title: good to bring in Christmas\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2014/12/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Chris Wedge', 'Carlos Saldanha'], 'Producers': ['Jerry Davis', 'John C. Donkin', 'William Joyce', 'Christopher Meledandri'], 'Starring': ['Ewan McGregor', 'Halle Berry', 'Greg Kinnear'], 'Studio': ['20TH CENTURY FOX']}\nReview Text: My son enjoyed this movie.\nReview Title: son loves it.\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/07/14\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: Low', 'English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['J.J. Johnson'], 'Producers': ['J.J. Johnson', 'Blair Powers', 'Christin Simms', 'Matthew J.R. Bishop'], 'Starring': ['Jadiel Dowlin', 'Raven Dauda', 'Joey Nijem'], 'Studio': ['Amazon Studios']}\nReview Text: My boys love this show. They always want to watch it. Any chance they can get. They always request it.\nReview Title: My boys love this show\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThis individual exhibits a clear preference for children's entertainment, consistently favoring family-friendly content, particularly movies and shows that engage their kids. The ratings indicate strong satisfaction, with several instances of perfect scores, reflecting a high emotional resonance with the children\u2019s enjoyment. \n\nThemes of joy and festive spirit are evident, especially around holiday movie selections. The use of language preferences, such as English audio and accessible subtitles, suggests an inclination towards content that is easy for children to follow. \n\nQuality appears paramount, as indicated by high ratings across all purchases, signaling a preference for well-produced media likely involving recognizable voices or production teams. Price sensitivity is not overtly addressed in the given data; however, the consistent high ratings imply that value is prioritized over cost. \n\nIn summary, the core preferences center around engaging, high-quality, children\u2019s media that encourages family togetherness, with a strong bias towards festive or imaginative themes, enhancing family bonding experiences.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Great Christmas movie to share with the kids.",
+    "images": [],
+    "asin": "B009IU78LM",
+    "parent_asin": "B009IU78LM",
+    "user_id": "AG3EA5O7EVFPV5SV6B7J4LXEMRMA",
+    "timestamp": "2017-12-05 19:21:51.248000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": "A Christmas Story",
+    "average_rating": 4.8,
+    "rating_number": 71686,
+    "features": [
+      "IMDb 7.9",
+      "1 h 33 min",
+      "1983",
+      "X-Ray",
+      "PG"
+    ],
+    "description": [
+      "In the 1940s, little Ralphie tries to convince his parents to get him a Red Ryder range-model BB gun for Christmas."
+    ],
+    "price": 14.99,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39211f1f7d1a48cf8fd9eae82a8fc25f45f19e2b03dbfc23e1c4b32da349ae80._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [
+      "Comedy",
+      "Nostalgic",
+      "Sentimental",
+      "Whimsical"
+    ],
+    "details": {
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Bob Clark"
+      ],
+      "Producers": [
+        "Rene Dupont",
+        "Bob Clark"
+      ],
+      "Starring": [
+        "Peter Billingsley",
+        "Melinda Dillon",
+        "Darren Mcgavin"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

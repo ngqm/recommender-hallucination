@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: FILMIA Pink Wig Long Pink Wig Pastel Pink Curly Body Wave Wig for Halloween Csotume, Cosplay Parties or Daily Use --23.6inch\nReview Date: 2022/07/28\nStore: FILMIA\nAverage Rating: 4.7\nProduct Details: {'Hair Type': 'Wavy', 'Style': 'Curly', 'Special Feature': 'Tangle Free', 'Brand': 'FILMIA', 'Age Range (Description)': 'Adult'}\nReview Text: What a fun wig! It\u2019s very bouncy and not too heavy. Also a plus that the wig is ready to wear and you don\u2019t need to trim any of the front pieces.\nReview Title: Great Quality\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "FILMIA Pink Wig Long Pink Wig Pastel Pink Curly Body Wave Wig for Halloween Csotume, Cosplay Parties or Daily Use --23.6inch\nFILMIA\n{'Hair Type': 'Wavy', 'Style': 'Curly', 'Special Feature': 'Tangle Free', 'Brand': 'FILMIA', 'Age Range (Description)': 'Adult'}\nWhat a fun wig! It\u2019s very bouncy and not too heavy. Also a plus that the wig is ready to wear and you don\u2019t need to trim any of the front pieces.\nGreat Quality",
+  "profile": "**User Summary:**\n\n- **Product Preferences:** Enjoys vibrant and playful accessories, particularly wigs that are suitable for costumes and casual wear.\n- **Style Trends:** Favors long, wavy, and curly hair options, emphasizing playful colors (like pastel pink) that enhance a fun aesthetic.\n- **Quality Appreciation:** Prioritizes high-quality products that are easy to use, specifically looking for items that are ready-to-wear and do not require additional styling or maintenance.\n- **Use Cases:** Engages in various events, such as Halloween, cosplay parties, and daily use, indicating a preference for versatile items that can be adapted to different occasions.\n- **Overall Experience:** Shows a tendency towards positive experiences with products that meet her desires for fun, bouncy, and lightweight materials.\n- **Rating Style:** Likely to provide positive feedback and high ratings for quality items that align with her playful and aesthetic preferences.\n\nThis profile reflects a user who enjoys expressing herself through vibrant and fun accessories while valuing quality and convenience.",
+  "metrics": {
+    "rouge1_f": 0.2456140350877193,
+    "rouge2_f": 0.07079646017699115,
+    "rougeL_f": 0.14912280701754385,
+    "meteor": 0.22317822651448638,
+    "bleu1": 0.14150943396226415,
+    "bleu2": 0.025897120003307447,
+    "bleu3": 0.006835357197823987,
+    "bleu4": 0.003515882393068352,
+    "bertscore_precision": 0.4912377595901489,
+    "bertscore_recall": 0.4524414539337158,
+    "bertscore_f1": 0.47104212641716003
+  }
+}

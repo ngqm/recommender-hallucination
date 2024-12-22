@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/02/01\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['James Burrows', 'David Lee', 'Andy Ackerman', 'Rick Beren'], 'Producers': ['David Angell', 'Peter Casey', 'David Lee', 'Kelsey Grammer', \"Dan O'Shannon\", 'Mark Reisman'], 'Starring': ['Kelsey Grammer', 'John Mahoney', 'David Hyde Pierce'], 'Studio': ['Grub Street Productions']}\nReview Text: It was a great show and it is fun to watch it via Amazon!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Barrett', 'Ralph Hemecker', 'Robert Harmon', 'Alex Zakrzewski', 'John Behring', 'Alex Chapple', 'Jackeline Tejada', 'Eric Laneuville', 'Michael Pressman', 'Douglas Aarniokoski'], 'Studio': ['CBS']}\nGreat cast and neat storyline!  Love Tom Seleck!\nFive Stars\n{'Subtitles': ['None available'], 'Directors': ['Doug Warner'], 'Producers': ['Andrew W. Marlowe', 'Rob Bowman'], 'Starring': ['Jon Huertas', 'Tamala Jones', 'Ruben Santiago-Hudson']}\nThis is a great video.  Fun to watch and you get to know the Actors and see how they relate to each other!  Very fun!!\nThis is a great video. Fun to watch and you get to ...\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['James Burrows', 'David Lee', 'Andy Ackerman', 'Rick Beren'], 'Producers': ['David Angell', 'Peter Casey', 'David Lee', 'Kelsey Grammer', \"Dan O'Shannon\", 'Mark Reisman'], 'Starring': ['Kelsey Grammer', 'John Mahoney', 'David Hyde Pierce'], 'Studio': ['Grub Street Productions']}\nIt was a great show and it is fun to watch it via Amazon!!\nFive Stars",
+  "profile": "**User Profile Summary**\n\nThis user demonstrates a strong preference for high-quality productions featuring talented casts, particularly expressing a fondness for specific actors. They have a consistent inclination towards content that includes varying degrees of mature themes, such as violence, substance use, and strong language. The user appreciates engaging storylines and well-crafted narratives, focusing on overall entertainment value, character development, and interpersonal dynamics among actors.\n\nRecently, they expressed particular enjoyment in watching videos that provide insights into actors' relationships, highlighting their appreciation for character interactions. Their latest interaction reflects a strong endorsement of a production that was fun to watch, reinforcing their interest in engaging and entertaining narratives.\n\nThe user favors content with English audio and subtitles, although they are open to watching without subtitles if the quality is high and the experience engaging. Their positive reviews are often coupled with high ratings, indicating a focus on enjoyable viewing experiences. Overall, the user values strong performances, intriguing plots, and the connections fostered among the cast, showcasing their affinity for productions that allow for both entertainment and a deeper appreciation of the characters' relationships.",
+  "metrics": {
+    "rouge1_f": 0.19484240687679083,
+    "rouge2_f": 0.02881844380403458,
+    "rougeL_f": 0.11461318051575932,
+    "meteor": 0.08288173414089896,
+    "bleu1": 0.1134908484290868,
+    "bleu2": 0.025125262915316564,
+    "bleu3": 0.012082911486050011,
+    "bleu4": 0.004717591537639992,
+    "bertscore_precision": 0.3578121066093445,
+    "bertscore_recall": 0.402018278837204,
+    "bertscore_f1": 0.37862926721572876
+  }
+}

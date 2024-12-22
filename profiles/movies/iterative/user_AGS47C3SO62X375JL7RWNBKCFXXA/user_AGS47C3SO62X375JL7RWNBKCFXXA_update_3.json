@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/01/22\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Matthijs van Heijningen'], 'Producers': ['Marc Abraham', 'Eric Newman'], 'Starring': ['Mary Elizabeth Winstead', 'Joel Edgerton', 'Adewale Akinnuoye-Agbaje'], 'Studio': ['Universal Pictures']}\nReview Text: Classic horror\nReview Title: Always scary\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Colin Trevorrow'], 'Producers': ['Frank Marshall', 'Patrick Crowley'], 'Starring': ['Chris Pratt', 'Bryce Dallas Howard', \"Vincent D'Onofrio\"], 'Studio': ['NBC Universal']}\nDidnt order this one either\nSomeone using my account\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': [\"James D'Arcy\"], 'Producers': ['Pippa Cross', 'Sam Tipper-Hale'], 'Starring': ['Liam Neeson', 'Miche\u00e1l Richardson', 'Valeria Bilello'], 'Studio': ['IFC Films']}\nOk\nit was ok\n{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Matthijs van Heijningen'], 'Producers': ['Marc Abraham', 'Eric Newman'], 'Starring': ['Mary Elizabeth Winstead', 'Joel Edgerton', 'Adewale Akinnuoye-Agbaje'], 'Studio': ['Universal Pictures']}\nClassic horror\nAlways scary",
+  "profile": "**User Summary:**\n\n- **Account Security Concerns:** The user remains vigilant regarding account security, reflecting ongoing concerns about maintaining account integrity in light of a history of unauthorized purchases.\n\n- **Content Preferences:** The user's recent engagement with a classic horror film reinforces their attraction to media containing mature themes such as violence, alcohol use, and foul language, showcasing their sustained interest in adult-oriented material.\n\n- **Audio and Subtitles:** Their commitment to accessibility features is evident, consistently utilizing audio descriptions and closed captions. This highlights a preference for inclusive and enriched viewing experiences.\n\n- **Engagement with Diverse Productions:** The user continues to explore both mainstream and independent films, demonstrating a broad appreciation for various cinematic styles and narratives across different genres.\n\n- **Satisfaction Range:** Their ratings exhibit a consistent pattern of mixed satisfaction. However, the recent high rating for a horror film indicates enjoyment and a positive shift in their viewing experience, while still acknowledging that overall satisfaction can fluctuate due to content quality and unauthorized usage.\n\nOverall, this user balances a cautious approach toward account safety with enthusiastic engagement in diverse, mature-themed media, emphasizing a preference for accessible options in their viewing habits.",
+  "metrics": {
+    "rouge1_f": 0.09937888198757765,
+    "rouge2_f": 0.031249999999999993,
+    "rougeL_f": 0.07453416149068323,
+    "meteor": 0.05558076457242285,
+    "bleu1": 0.07426317364891857,
+    "bleu2": 0.004803602318621028,
+    "bleu3": 0.0019309313174416063,
+    "bleu4": 0.0012255190085840937,
+    "bertscore_precision": 0.3478052616119385,
+    "bertscore_recall": 0.3478182256221771,
+    "bertscore_f1": 0.3478117287158966
+  }
+}

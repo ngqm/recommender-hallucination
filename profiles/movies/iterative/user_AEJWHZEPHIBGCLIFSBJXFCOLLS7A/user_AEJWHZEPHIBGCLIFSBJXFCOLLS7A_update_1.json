@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/15\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Dobkin'], 'Producers': ['Susan Downey', 'David Dobkin', 'David Gambino'], 'Starring': ['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga'], 'Studio': ['Warner Bros.']}\nReview Text: Good Show worth watching, Powerful actors\nReview Title: I'll watch this one again...\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Dobkin'], 'Producers': ['Susan Downey', 'David Dobkin', 'David Gambino'], 'Starring': ['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga'], 'Studio': ['Warner Bros.']}\nGood Show worth watching, Powerful actors\nI'll watch this one again...",
+  "profile": "**User Profile Summary:**\n\nThe user exhibits a preference for high-quality entertainment featuring strong performances, particularly from well-known actors. They appreciate content with powerful narratives and a compelling storyline, as indicated by their enthusiastic review highlighting the performance of the cast. The user rates experiences quite positively, as evidenced by their high average rating of 4.7, suggesting a tendency to favor engaging and impactful productions. \n\nAdditionally, the user appears to enjoy content that includes mature themes, as noted by their acceptance of violence, alcohol use, foul language, and sexual content. They value accessibility features, such as audio descriptions and closed captions, indicating inclusivity in their viewing habits. Overall, this user seems to prioritize films that promise emotional depth and involve notable talent, while also being attentive to the viewing experience enhancements.",
+  "metrics": {
+    "rouge1_f": 0.14130434782608695,
+    "rouge2_f": 0.06593406593406592,
+    "rougeL_f": 0.11956521739130434,
+    "meteor": 0.1163672787979967,
+    "bleu1": 0.12337662337662336,
+    "bleu2": 0.008979883959853469,
+    "bleu3": 0.0037575025770665315,
+    "bleu4": 0.002434614636050998,
+    "bertscore_precision": 0.3848542273044586,
+    "bertscore_recall": 0.35426032543182373,
+    "bertscore_f1": 0.368924081325531
+  }
+}

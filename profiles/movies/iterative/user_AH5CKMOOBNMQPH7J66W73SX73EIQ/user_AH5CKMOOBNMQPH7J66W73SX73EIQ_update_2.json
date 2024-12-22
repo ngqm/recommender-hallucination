@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/01/02\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth MacFarlane'], 'Producers': ['Scott Stuber', 'Seth MacFarlane', 'Jason Clark', 'Alec Sulkin', 'Wellesley Wild'], 'Starring': ['Seth MacFarlane', 'Charlize Theron', 'Amanda Seyfried'], 'Studio': ['Universal Pictures']}\nReview Text: man, this sucks\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nsad\nOne Star\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth MacFarlane'], 'Producers': ['Scott Stuber', 'Seth MacFarlane', 'Jason Clark', 'Alec Sulkin', 'Wellesley Wild'], 'Starring': ['Seth MacFarlane', 'Charlize Theron', 'Amanda Seyfried'], 'Studio': ['Universal Pictures']}\nman, this sucks\nOne Star",
+  "profile": "**User Summary:**\n\n- **Rating Tendencies:** The user maintains a strong inclination towards positive ratings, with an average of 4.6. However, they have expressed significant dissatisfaction with a recent purchase, contrasting their usual high standards with a low rating of 1.0. This reinforces the notion that they have discerning tastes and high expectations for content.\n\n- **Content Preferences:** Still favoring emotionally charged themes, the user's recent interaction indicates a continuing interest in films that promise depth, though the disappointing experience suggests that their emotional engagement was unmet in this case.\n\n- **Cultural Interest:** The user\u2019s preference for bilingual content remains evident, as they value accessibility and cultural diversity, which aligns with their past behavior.\n\n- **Media Consumption:** The user continues to appreciate high-quality production values and recognizable talent, as demonstrated by their past ratings of well-known directors, producers, and actors. However, the dissatisfaction with their latest purchase raises questions about the specific qualities they prioritize in productions.\n\n- **Content Advisory Awareness:** The user's awareness of content advisory remains relevant, suggesting they make informed choices in media selection. The recent negative experience may reflect conflicting expectations regarding content quality and thematic fulfillment.\n\nOverall, this user exhibits a complex relationship with media consumption, balancing a strong appreciation for emotional depth and quality against a backdrop of critical standards and recent disappointment.",
+  "metrics": {
+    "rouge1_f": 0.05144694533762058,
+    "rouge2_f": 0.006472491909385113,
+    "rougeL_f": 0.03858520900321544,
+    "meteor": 0.058796924468566256,
+    "bleu1": 0.08695652173913045,
+    "bleu2": 0.017782168978975478,
+    "bleu3": 0.004868624732922412,
+    "bleu4": 0.002549846659500211,
+    "bertscore_precision": 0.3665306568145752,
+    "bertscore_recall": 0.33843863010406494,
+    "bertscore_f1": 0.35192492604255676
+  }
+}

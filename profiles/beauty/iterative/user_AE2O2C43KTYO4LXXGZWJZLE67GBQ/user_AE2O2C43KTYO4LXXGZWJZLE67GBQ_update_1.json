@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Floss Picks\nReview Date: 2019/08/18\nStore: BEOKREU\nAverage Rating: 4.2\nProduct Details: {'Package Dimensions': '7.48 x 4.92 x 1.5 inches; 1.59 Ounces', 'UPC': '745679748517'}\nReview Text: This Floss Picks Dental Floss product contains a total of 200 dental floss. There are 4 separate bags. Each bag contains 50 dental floss. Each bag is resealable.<br /><br />I have used these particular dental floss at various times of the day for the past 7 days. So far, not one dental floss has broken or become frayed. The floss moves between my teeth in a smooth manner.<br /><br />This dental floss has no flavor.<br /><br />I used these dental floss at home, and took a bag with me to work so that I can discreetly used them after eating lunch.<br /><br />This dental floss works as intended to help me keep my teeth and gums healthy.\nReview Title: Dental floss moves easily between my teeth. None has broken or frayed so far. No flavor.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Floss Picks\nBEOKREU\n{'Package Dimensions': '7.48 x 4.92 x 1.5 inches; 1.59 Ounces', 'UPC': '745679748517'}\nThis Floss Picks Dental Floss product contains a total of 200 dental floss. There are 4 separate bags. Each bag contains 50 dental floss. Each bag is resealable.<br /><br />I have used these particular dental floss at various times of the day for the past 7 days. So far, not one dental floss has broken or become frayed. The floss moves between my teeth in a smooth manner.<br /><br />This dental floss has no flavor.<br /><br />I used these dental floss at home, and took a bag with me to work so that I can discreetly used them after eating lunch.<br /><br />This dental floss works as intended to help me keep my teeth and gums healthy.\nDental floss moves easily between my teeth. None has broken or frayed so far. No flavor.",
+  "profile": "**User Summary:**\n\n- **Health Conscious**: Shows a strong emphasis on dental hygiene and maintaining healthy teeth and gums.\n- **Practical and Functional**: Prefers products that serve their intended purpose effectively, as evidenced by satisfaction with performance and reliability.\n- **Convenience-Oriented**: Values products that are easy to use on-the-go, indicating a preference for portable and resealable options.\n- **Minimalist Preference**: Opts for unflavored products, suggesting a desire for straightforward, non-complicated solutions.\n- **Positive Experience**: Generally favorable attitude towards products that deliver quality and consistency, as reflected in high ratings and positive reviews.\n- **Daily User**: Implements dental care routines throughout the day, highlighting a commitment to regular hygiene practices.\n\nThis initial interaction highlights a user who is dedicated to personal health and values reliable, convenient products that simplify their dental hygiene routine.",
+  "metrics": {
+    "rouge1_f": 0.19649122807017547,
+    "rouge2_f": 0.02120141342756184,
+    "rougeL_f": 0.09824561403508773,
+    "meteor": 0.10703363914373087,
+    "bleu1": 0.18096748360719192,
+    "bleu2": 0.05238653350813377,
+    "bleu3": 0.024072985680832215,
+    "bleu4": 0.009189603839106941,
+    "bertscore_precision": 0.43434444069862366,
+    "bertscore_recall": 0.44542255997657776,
+    "bertscore_f1": 0.4398137629032135
+  }
+}

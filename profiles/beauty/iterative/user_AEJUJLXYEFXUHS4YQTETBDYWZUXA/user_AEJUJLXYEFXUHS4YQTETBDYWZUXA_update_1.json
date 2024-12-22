@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JOYYUM 1000W 2-in-1 Hot Air Spin Brush Styler Auto-rotating Negative Ionic Hair Curler Dryer Brush, 1 1/2 Inch and 2 Inch Brush Attachments, Lavander Fog\nReview Date: 2019/08/25\nStore: JOYYUM\nAverage Rating: 3.5\nProduct Details: {'Brand': 'JOYYUM', 'Material': 'Titanium', 'Power Source': 'Corded Electric', 'Special Feature': 'Comb, Portable, Massage, Hot', 'Recommended Uses For Product': 'Curling', 'Package Dimensions': '16.3 x 5.4 x 3.2 inches; 1.85 Pounds', 'UPC': '787414814279', 'Manufacturer': 'JOYYUM'}\nReview Text: Do not like it. It barely spun or you have to use it with a very very small section of hair. Well, it's easy to use but I guess it's great for people with short hair.\nReview Title: Not for me\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "JOYYUM 1000W 2-in-1 Hot Air Spin Brush Styler Auto-rotating Negative Ionic Hair Curler Dryer Brush, 1 1/2 Inch and 2 Inch Brush Attachments, Lavander Fog\nJOYYUM\n{'Brand': 'JOYYUM', 'Material': 'Titanium', 'Power Source': 'Corded Electric', 'Special Feature': 'Comb, Portable, Massage, Hot', 'Recommended Uses For Product': 'Curling', 'Package Dimensions': '16.3 x 5.4 x 3.2 inches; 1.85 Pounds', 'UPC': '787414814279', 'Manufacturer': 'JOYYUM'}\nDo not like it. It barely spun or you have to use it with a very very small section of hair. Well, it's easy to use but I guess it's great for people with short hair.\nNot for me",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** Interest in hair styling tools, particularly those that combine multiple functions (e.g., curling, drying).\n- **Performance Concern:** Values effectiveness in hair styling; frustrated with products that do not deliver on promised functionality, particularly regarding ease of use and performance on different hair lengths.\n- **Usage Experience:** Appreciates products that are user-friendly but requires them to adequately serve diverse hair types and lengths, suggesting a preference for versatility.\n- **Overall Satisfaction:** Exhibits a critical stance towards purchased items, indicating a discerning approach and likely a desire for high-quality results.\n- **Rating Trend:** Regularly evaluates products with a nuanced view, indicating that both positive features and shortcomings heavily influence overall satisfaction. \n\nThis summary suggests the user looks for reliable, effective hair styling solutions that cater to varying hair types, with a focus on ease of use and versatility.",
+  "metrics": {
+    "rouge1_f": 0.1847389558232932,
+    "rouge2_f": 0.016194331983805665,
+    "rougeL_f": 0.08835341365461848,
+    "meteor": 0.14546684709066304,
+    "bleu1": 0.18324607329842932,
+    "bleu2": 0.031055643888996322,
+    "bleu3": 0.00799109739756001,
+    "bleu4": 0.004058965459991194,
+    "bertscore_precision": 0.396748423576355,
+    "bertscore_recall": 0.41451019048690796,
+    "bertscore_f1": 0.40543487668037415
+  }
+}

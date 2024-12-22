@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: OVERMAL Chic Women Roses Barrette Hair Clip Hair Pin Claw\nReview Date: 2016/12/06\nAverage Rating: 4.5\nProduct Details: {'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Unit Count': '1.0 Count', 'Number of Items': '1', 'Pattern': 'Solid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.95 x 2.95 x 2.91 inches; 1.12 Ounces', 'UPC': '638823477473'}\nReview Text: I love these! The color is amazing!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Womdee(TM) Retro Vintage Fashion Antique Bronze Colorfull Rhinestone Elegant Peacock Tuck Comb Hair Clip-Purple With Womdee Accessory\n{'Package Dimensions': '3.6 x 1.8 x 0.7 inches; 0.35 Ounces'}\nPretty\nFour Stars\nBeard Straightener Brush For Men,BEENLE Electric Heat Beard Straightener and Hair Straightener, Multifunctional Beard and Hair Straightening Brush Comb (beard straightener)\nBEENLE\n{'Brand': 'BEENLE', 'Item Form': 'Straight', 'Skin Type': 'All', 'Item Weight': '0.06 Pounds', 'Item Dimensions LxWxH': '8 x 3 x 1 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 3 x 1 inches; 0.96 Ounces', 'Item model number': 'BEENLE', 'UPC': '783583451246'}\nWorks really good\nFive Stars\nOVERMAL Chic Women Roses Barrette Hair Clip Hair Pin Claw\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Unit Count': '1.0 Count', 'Number of Items': '1', 'Pattern': 'Solid', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.95 x 2.95 x 2.91 inches; 1.12 Ounces', 'UPC': '638823477473'}\nI love these! The color is amazing!\nFive Stars",
+  "profile": "**User Summary:**\n\nThe user continues to showcase a strong preference for vintage and retro fashion accessories, with a clear appreciation for elegant and visually appealing designs. Their recent purchase reflects a consistent trend towards intricate and colorful elements, further emphasizing their focus on aesthetics. This latest interaction, which received a five-star rating, highlights their satisfaction with the product's color and overall appeal.\n\nWhile the user values aesthetic qualities in fashion items, they recently expanded their scope to include grooming accessories, demonstrating an appreciation for effectiveness alongside visual charm. A prior five-star review of a grooming tool indicates a balanced admiration for both style and performance. \n\nThis user's reviews, typically positive yet occasionally hinting at a desire for higher quality, suggest they seek well-crafted items that align with their unique fashion sense. Overall, they continue to gravitate towards products that are not only elegant and striking but also capable of enhancing their personal style, whether through vintage accessories or modern grooming tools. Their consistent pattern of valuing elements of both aesthetics and functionality illustrates a well-rounded approach to personal care and fashion choices.",
+  "metrics": {
+    "rouge1_f": 0.11299435028248588,
+    "rouge2_f": 0.011363636363636364,
+    "rougeL_f": 0.07344632768361582,
+    "meteor": 0.05514705882352942,
+    "bleu1": 0.06310037151400101,
+    "bleu2": 0.005000615785009964,
+    "bleu3": 0.002151419650104964,
+    "bleu4": 0.001412885200688801,
+    "bertscore_precision": 0.32755351066589355,
+    "bertscore_recall": 0.3463541567325592,
+    "bertscore_f1": 0.33669158816337585
+  }
+}

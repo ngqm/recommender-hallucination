@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Chasing Dreams\nReview Date: 2008/12/03\nStore: Sean Roche & Therese Conte  (Director)    Rated:    PG    Format: VHS Tape\nCategories: Movies & TV, Featured Categories\nProduct Description: [\"When Gavin is faced with the decision to stay with the family farm or take a crack at a career in baseball, he is fueled by his older brother's success and cheers of his invalid brother to wind up and take a swing.\"]\nAverage Rating: 3.1\nProduct Details: {'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Director': 'Sean Roche & Therese Conte', 'Run time': '96 minutes', 'Date First Available': 'September 21, 2004', 'Actors': 'David G. Brown, John Fife, Jim Shane, Lisa Kingston, Kevin Costner', 'Studio': 'Prism/IRC'}\nReview Text: I buy all of Kevin's movies, so this one was a must buy, seeing as he is on the cover. I watched it, he is on two scenes MAX. They just have him on a cover to help sell the movie. I barely remember anything from this movie, so unless you're a fan of the kid in the movie, I wouldn't get it for Kevin Costner.\nReview Title: Nothing memorable\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Chasing Dreams\nSean Roche & Therese Conte  (Director)    Rated:    PG    Format: VHS Tape\nMovies & TV, Featured Categories\n[\"When Gavin is faced with the decision to stay with the family farm or take a crack at a career in baseball, he is fueled by his older brother's success and cheers of his invalid brother to wind up and take a swing.\"]\n{'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Director': 'Sean Roche & Therese Conte', 'Run time': '96 minutes', 'Date First Available': 'September 21, 2004', 'Actors': 'David G. Brown, John Fife, Jim Shane, Lisa Kingston, Kevin Costner', 'Studio': 'Prism/IRC'}\nI buy all of Kevin's movies, so this one was a must buy, seeing as he is on the cover. I watched it, he is on two scenes MAX. They just have him on a cover to help sell the movie. I barely remember anything from this movie, so unless you're a fan of the kid in the movie, I wouldn't get it for Kevin Costner.\nNothing memorable",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Enjoys movies, particularly those featuring well-known actors.\n- **Actor Affinity:** A strong fan of specific actors, notably Kevin Costner, influencing purchasing behavior. This user seeks out films primarily based on actor popularity rather than plot or quality.\n- **Decision-Making:** Tends to make purchases impulsively when attracted by a favorite actor's presence, even if their role is minimal.\n- **Satisfaction Level:** Likely has low tolerance for unmemorable content, highlighted by a tendency to express disappointment when films don't meet expectations or when there is misleading marketing.\n- **Review Attitude:** Direct and critical in feedback, showing a willingness to share negative experiences when a product doesn't fulfill anticipated value.\n- **Overall Rating:** Shows a clear distinction between purchasing habits and product enjoyment, indicating a potential disconnect between expectations and reality in the entertainment they consume.\n\nIn summary, this user prioritizes star power in film selections but may feel misled by marketing tactics, leading to dissatisfaction with choices that don\u2019t deliver on anticipated value.",
+  "metrics": {
+    "rouge1_f": 0.21700879765395897,
+    "rouge2_f": 0.017699115044247787,
+    "rougeL_f": 0.0997067448680352,
+    "meteor": 0.1530505770253271,
+    "bleu1": 0.22665760491367654,
+    "bleu2": 0.0636196311992103,
+    "bleu3": 0.012198272594708756,
+    "bleu4": 0.005347420369931084,
+    "bertscore_precision": 0.4042057394981384,
+    "bertscore_recall": 0.41845032572746277,
+    "bertscore_f1": 0.4112047255039215
+  }
+}

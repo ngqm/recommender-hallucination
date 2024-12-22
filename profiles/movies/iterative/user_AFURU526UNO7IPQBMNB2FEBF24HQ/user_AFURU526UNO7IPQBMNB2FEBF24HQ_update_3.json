@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/05/31\nAverage Rating: 4.3\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Robert Zemeckis', 'Jack Rapke', 'Steve Starkey', 'Cherylanne Martin'], 'Starring': ['Steve Carell', 'Leslie Mann', 'Diane Kruger'], 'Studio': ['Universal Pictures']}\nReview Text: Movie was ok.\nReview Title: EH... He should stick to comedy\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Winter'], 'Producers': ['Nicholas Winter', 'Jacoby Bancroft', 'Jeffrey Giles', 'Marc Goldberg', 'Michael Lurie', 'Sammy Measom', 'Jeet Thakrar', 'Lucinda Rhodes Thakrar', 'Elizabeth Williams'], 'Starring': ['Kristian Nairn', 'Martyn Ford', 'Brian Blessed'], 'Studio': ['Signature Entertainment']}\nMeh\nMeh\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sean Anders'], 'Producers': ['Mark Wahlberg', 'Steve Levinson', 'Sean Anders', 'John Morris', 'Marc Evans'], 'Starring': ['Mark Wahlberg', 'Rose Byrne', 'Isabela Moner']}\nFunny, sad it's got it all.\nGreat movie\n{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Zemeckis'], 'Producers': ['Robert Zemeckis', 'Jack Rapke', 'Steve Starkey', 'Cherylanne Martin'], 'Starring': ['Steve Carell', 'Leslie Mann', 'Diane Kruger'], 'Studio': ['Universal Pictures']}\nMovie was ok.\nEH... He should stick to comedy",
+  "profile": "**User Profile Summary**\n\n- **Rating Tendencies**: User has a varying rating pattern, most recently averaging around 3.2, but recent interactions have included higher ratings, including a notable 5.0. However, the latest review reflects a dip in enthusiasm with a rating of 2.0, indicating fluctuating engagement based on specific content quality.\n\n- **Content Preferences**: The user remains open to diverse themes, such as those featuring violence and foul language. While they previously leaned towards emotionally engaging narratives, the recent critical review suggests a return to ambivalence when the execution fails to resonate, favoring their appreciation of comedic elements.\n\n- **Language Use**: Consistent preference for English in both audio and subtitles, aligning with their primary language background.\n\n- **Engagement with Creators**: Continued interest in established directors and producers is notable. There is an inclination to evaluate their work critically, especially when the content might not align with the user's expected humor or storytelling depth.\n\n- **Overall Sentiment**: The user's sentiment showcases a balance between critical assessment and potential enjoyment. They exhibit a discerning taste that favors depth and effective execution over superficial elements, with recent interactions indicating a willingness to engage with varied genres, albeit with a critical eye.\n\nOverall, the user navigates their viewing experiences with a blend of skepticism and appreciation, exhibiting a spectrum that influences their engagement with content.",
+  "metrics": {
+    "rouge1_f": 0.09470752089136489,
+    "rouge2_f": 0.005602240896358543,
+    "rougeL_f": 0.06685236768802227,
+    "meteor": 0.0430239704978488,
+    "bleu1": 0.07712630137774894,
+    "bleu2": 0.004791890623939416,
+    "bleu3": 0.0019002219584957681,
+    "bleu4": 0.0011977094771386328,
+    "bertscore_precision": 0.3373393416404724,
+    "bertscore_recall": 0.3453730344772339,
+    "bertscore_f1": 0.34130892157554626
+  }
+}

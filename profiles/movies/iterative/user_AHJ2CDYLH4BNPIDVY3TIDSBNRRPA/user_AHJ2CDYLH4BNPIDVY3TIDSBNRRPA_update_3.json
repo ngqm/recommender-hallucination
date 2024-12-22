@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/27\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Jason Shook', 'Jon A. Levy', 'Edward Peill', 'Joe Lessard', 'Justin Zoras', 'Kevin Burns', 'David Comtois', 'Paul Buccieri', 'Jack Begley', 'Peter Fornetti']}\nReview Text: Great Show\nReview Title: Great Show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['TBD'], 'Producers': ['TBD'], 'Starring': ['TBD']}\nTWD Rockzors My Sockzors!\nTWD Rockzors My Sockzors!\n{'Subtitles': ['None available'], 'Directors': ['Jon A. Levy', 'Robin Feinberg', 'Jonathan Haug', 'Kevin Burns', 'Keith Guinto', 'William Martens'], 'Producers': ['Kevin Burns', 'Giorgio A. Tsoukalos', 'Susan E. Leventhal', 'David Silver', 'Max Thompson']}\nExcellent Show\nExcellent Show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Jason Shook', 'Jon A. Levy', 'Edward Peill', 'Joe Lessard', 'Justin Zoras', 'Kevin Burns', 'David Comtois', 'Paul Buccieri', 'Jack Begley', 'Peter Fornetti']}\nGreat Show\nGreat Show",
+  "profile": "**User Profile Summary:**\n\n- **Favorable Ratings**: The user continues to exhibit strong enthusiasm and satisfaction with their media choices, recently awarding a perfect score of 5.0 in their latest review, reinforcing their trend of high ratings across diverse content.\n- **Content Preference**: Maintains a solid preference for English-language content, as illustrated by their recent review detailing enjoyment with available subtitles. This suggests a high level of language proficiency and a penchant for clear audio comprehension.\n- **Engagement Level**: The user demonstrates a consistent emotional connection with the content, often expressing their delight succinctly with phrases like \"Great Show.\" Their ratings indicate an ongoing pattern of enthusiasm and appreciation for quality entertainment.\n- **Entertainment Focus**: Continues to favor action or adventure genres, consistent with past behavior, highlighting a sustained interest in dynamic storytelling.\n- **Community Interaction**: The user actively engages with communities or fandoms, showcasing a desire for shared experiences and discussions. Their enthusiasm for the shows contributes positively to community interactions and feedback.\n\nOverall, the user reflects high satisfaction and engagement with entertainment, particularly in English. Their ability to consistently rate content highly underscores a discerning taste for quality, while active participation in related communities illustrates a commitment to shared enjoyment of media experiences.",
+  "metrics": {
+    "rouge1_f": 0.09059233449477352,
+    "rouge2_f": 0.007017543859649123,
+    "rougeL_f": 0.0627177700348432,
+    "meteor": 0.07300991849291981,
+    "bleu1": 0.08203125000000001,
+    "bleu2": 0.017935751349485992,
+    "bleu3": 0.005021904821971032,
+    "bleu4": 0.0026599362479490752,
+    "bertscore_precision": 0.3651580214500427,
+    "bertscore_recall": 0.3317706882953644,
+    "bertscore_f1": 0.34766459465026855
+  }
+}

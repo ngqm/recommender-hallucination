@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/18\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Duke'], 'Producers': ['Frank Mancuso Jr.', 'Bill Duke', 'Helen Sugland', 'Laurence Fishburne'], 'Starring': ['Laurence Fishburne', 'Tim Roth', 'Vanessa Williams'], 'Studio': ['MGM Domestic Television Distri']}\nReview Text: Well, this was like American gangster, but not good.\nReview Title: Eh- just watch American gangster instead.\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Pritts'], 'Producers': ['Robert Simonds'], 'Starring': ['Chris Kattan', 'Peter Berg', 'Chris Penn']}\nWell, as the title would imply, I rented this movie as this hot/crazy Albanian chick loves this movie for whatever ungodly reasons. Needless to say, the mixture of Chris Kattan and alcohol cause her to be overwhelmed by hormones and ended up procreating several times. Great movie.\nRented this to get laid- success.\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bill Duke'], 'Producers': ['Frank Mancuso Jr.', 'Bill Duke', 'Helen Sugland', 'Laurence Fishburne'], 'Starring': ['Laurence Fishburne', 'Tim Roth', 'Vanessa Williams'], 'Studio': ['MGM Domestic Television Distri']}\nWell, this was like American gangster, but not good.\nEh- just watch American gangster instead.",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Enjoys comedy films with a blend of romance and humor, but is also open to exploring other genres, albeit with less enthusiasm.\n- **Viewing Context:** Engages in movie-watching primarily for social purposes, favoring films that enhance sociable or romantic encounters.\n- **Language:** Prefers content in English and values accessibility through subtitles for clarity.\n- **Target Audience:** Attracted to movies featuring recognizable actors known for comedic roles, while also occasionally watching films with notable dramatic performances.\n- **Humor Appreciation:** Favors humor characterized by outrageous scenarios and character interactions, though shows a discerning taste for quality in narratives.\n- **Rating Tendencies:** Rates movies based on personal enjoyment and social experiences, rather than strictly adhering to critical standards, though displays more critical judgement towards films perceived as inferior. \n\nThis user seeks light-hearted, entertaining content that serves social purposes, with a casual approach to film selection, while also demonstrating a willingness to critique films that do not meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.14634146341463414,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07665505226480836,
+    "meteor": 0.09410288582183186,
+    "bleu1": 0.14340329993795012,
+    "bleu2": 0.024296683384439258,
+    "bleu3": 0.006250202370180377,
+    "bleu4": 0.0031738281797409522,
+    "bertscore_precision": 0.3801748752593994,
+    "bertscore_recall": 0.4148472547531128,
+    "bertscore_f1": 0.39675500988960266
+  }
+}

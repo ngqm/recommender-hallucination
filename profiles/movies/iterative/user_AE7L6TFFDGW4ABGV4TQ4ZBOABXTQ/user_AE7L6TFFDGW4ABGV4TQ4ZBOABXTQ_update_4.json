@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/09\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['Disney Channel']}\nReview Text: great\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['The Orchard'], 'Producers': ['William Simpson'], 'Starring': ['Selena Gomez'], 'Studio': ['The Orchard']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Roger Christiansen', 'Richard Correll', 'Shannon Flynn', 'Bob Koherr', 'David Kendall', 'Jody Margolin Hahn', 'Shelley Jensen', 'Adam Weissman', 'Fred Savage', 'Chip Fields'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Victor Gonzalez', 'Bob Koherr', 'Robert Berlinger', 'Mark Cendrowski', 'Guy Distad', 'David DeLuise', 'Robbie Countryman', 'Fred Savage', 'Andrew Tsao', 'Joe Regalbuto'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Studio': ['Disney Channel']}\ngreat\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** The user consistently provides high ratings, as evidenced by their recent five-star review, reinforcing their satisfaction with various offerings. They maintain an average rating of 4.4, indicative of their discerning yet positive approach to feedback.\n\n- **Content Appreciation:** The user shows a strong preference for audio-visual content, particularly in English, demonstrating their enjoyment of engaging media formats that captivate their attention.\n\n- **Interest in Artists:** Their fondness for contemporary artists and notable figures remains evident, suggesting a preference for recognizable talent within their media selections.\n\n- **Production Quality:** The user exhibits a clear inclination toward high-quality productions from reputable studios, emphasizing their desire for polished content that meets their entertainment standards.\n\n- **Emphasis on Accessibility:** Accessibility continues to be a priority, with a consistent preference for media that includes English subtitles or closed captions. This reflects their commitment to inclusive viewing experiences, ensuring they can fully engage with the content.\n\nThe latest interaction highlights the user\u2019s ongoing appreciation for well-produced, engaging content, particularly from established studios. Their emphasis on accessibility features remains a significant aspect of their viewing choices, reinforcing their sophisticated taste in media that aligns with contemporary trends focused on enjoyable and comprehensive experiences.",
+  "metrics": {
+    "rouge1_f": 0.07260726072607261,
+    "rouge2_f": 0.013289036544850499,
+    "rougeL_f": 0.05940594059405941,
+    "meteor": 0.03592814371257484,
+    "bleu1": 0.07058823529411766,
+    "bleu2": 0.005271683205256339,
+    "bleu3": 0.0022229312384893156,
+    "bleu4": 0.001444921943269412,
+    "bertscore_precision": 0.35297396779060364,
+    "bertscore_recall": 0.33160024881362915,
+    "bertscore_f1": 0.34195342659950256
+  }
+}

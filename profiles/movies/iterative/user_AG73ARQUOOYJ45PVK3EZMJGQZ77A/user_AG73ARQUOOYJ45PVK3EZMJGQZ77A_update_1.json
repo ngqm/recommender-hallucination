@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/06\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Pritts'], 'Producers': ['Robert Simonds'], 'Starring': ['Chris Kattan', 'Peter Berg', 'Chris Penn']}\nReview Text: Well, as the title would imply, I rented this movie as this hot/crazy Albanian chick loves this movie for whatever ungodly reasons. Needless to say, the mixture of Chris Kattan and alcohol cause her to be overwhelmed by hormones and ended up procreating several times. Great movie.\nReview Title: Rented this to get laid- success.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Pritts'], 'Producers': ['Robert Simonds'], 'Starring': ['Chris Kattan', 'Peter Berg', 'Chris Penn']}\nWell, as the title would imply, I rented this movie as this hot/crazy Albanian chick loves this movie for whatever ungodly reasons. Needless to say, the mixture of Chris Kattan and alcohol cause her to be overwhelmed by hormones and ended up procreating several times. Great movie.\nRented this to get laid- success.",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Enjoys comedy films with an entertaining mix of romance and humor.\n- **Viewing Context:** Engages in movie-watching for social reasons, indicating a tendency to select films that can enhance sociable or romantic encounters.\n- **Language:** Prefers content in English, valuing accessibility through subtitles for clarity.\n- **Target Audience:** Likely attracted to movies featuring recognizable actors known for comedic roles.\n- **Humor Appreciation:** Favors films that deliver humor through outrageous scenarios and character interactions.\n- **Rating Tendencies:** Rates movies highly when they align with personal enjoyment and social experiences rather than critical standards.\n  \nOverall, the user seems to prioritize entertaining, light-hearted content that can serve social purposes, predominantly in English, reflecting a casual yet engaged approach to film selection.",
+  "metrics": {
+    "rouge1_f": 0.16666666666666669,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08333333333333334,
+    "meteor": 0.11934156378600823,
+    "bleu1": 0.14035087719298245,
+    "bleu2": 0.02873314106137437,
+    "bleu3": 0.007875772606081435,
+    "bleu4": 0.004129453270155469,
+    "bertscore_precision": 0.42189866304397583,
+    "bertscore_recall": 0.41392362117767334,
+    "bertscore_f1": 0.4178730845451355
+  }
+}

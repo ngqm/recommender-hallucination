@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ben Nye Nose & Scar Wax Fair, 1oz\nReview Date: 2017/10/30\nStore: Ben Nye\nAverage Rating: 4.4\nProduct Details: {'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\nReview Text: great for special FX mackup\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Ben Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars\nBen Nye Nose & Scar Wax Fair, 1oz\nBen Nye\n{'Item Form': 'Wax', 'Brand': 'Ben Nye', 'Number of Items': '1', 'Unit Count': '1.0 Fl Oz', 'Package Dimensions': '2.2 x 1.5 x 0.87 inches; 1.45 Ounces', 'UPC': '784779005656'}\ngreat for special FX mackup\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interest:** Special effects makeup\n- **Product Type Preference:** Wax-based products for application\n- **Brand Loyalty:** Favors specific brands known for quality in the FX makeup category, with a strong preference for Ben Nye\n- **Satisfaction Level:** High satisfaction with products, as evidenced by consistently positive ratings; recent purchase rated 5 stars\n- **Usage Context:** Likely uses products for theatrical or creative purposes, suggesting a deep engagement with performance arts or makeup artistry\n- **Review Trait:** Enthusiastic and favorable reviews, indicating a positive experience with the effectiveness and ease of application of the products purchased; reviews highlight excellent performance for special FX makeup\n\nOverall, this user demonstrates a strong inclination towards high-quality special effects makeup, particularly wax formulations, and reflects a committed engagement in creative makeup applications. The recent purchase further reinforces their loyalty to leading brands in the industry and underscores their satisfaction with product performance.",
+  "metrics": {
+    "rouge1_f": 0.1316872427983539,
+    "rouge2_f": 0.024896265560165973,
+    "rougeL_f": 0.08230452674897121,
+    "meteor": 0.11415051197678222,
+    "bleu1": 0.1319796954314721,
+    "bleu2": 0.04494549342318029,
+    "bleu3": 0.02179946814257664,
+    "bleu4": 0.008548383374004162,
+    "bertscore_precision": 0.38407015800476074,
+    "bertscore_recall": 0.3595402240753174,
+    "bertscore_f1": 0.3714005947113037
+  }
+}

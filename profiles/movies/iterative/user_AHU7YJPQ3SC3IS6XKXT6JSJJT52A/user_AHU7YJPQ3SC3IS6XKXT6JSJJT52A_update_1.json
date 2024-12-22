@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/01/16\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Lehmann'], 'Producers': ['Sean Bradley', 'Chris Dowling', 'Alex Lehmann'], 'Starring': ['New Michael Ingemi', 'Noah Britton', 'Ethan Finlan'], 'Studio': ['Punny Films LLC']}\nReview Text: It was nice people who has Asperger's working & functioning at a high level of jobs, relationships, etc.  It would have been nice to have more details on their journey.\nReview Title: Good Watch\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Lehmann'], 'Producers': ['Sean Bradley', 'Chris Dowling', 'Alex Lehmann'], 'Starring': ['New Michael Ingemi', 'Noah Britton', 'Ethan Finlan'], 'Studio': ['Punny Films LLC']}\nIt was nice people who has Asperger's working & functioning at a high level of jobs, relationships, etc.  It would have been nice to have more details on their journey.\nGood Watch",
+  "profile": "**User Profile Summary:**\n\n**Genuine Preferences:**\n- Enjoys content that explores personal struggles and achievements, particularly related to neurodiversity.\n- Prefers narratives that feature realistic portrayals of individuals with Asperger's, highlighting positive representations in professional and social contexts.\n\n**Behavior Patterns:**\n- Reviews products with thoughtful feedback, indicating a balance between personal enjoyment and critique.\n- Engages with material that includes mature themes, such as foul language, alcohol use, and sexual content, suggesting comfort with complex or adult subject matter.\n- Values detailed storytelling, particularly insights into character journeys and personal development, which indicates a preference for depth over superficial narratives.\n\n**Trends:**\n- Shows a tendency to rate content based on personal relatability and representation.\n- Exhibits a critical eye for detail when it comes to the portrayal of diverse experiences.\n- Typically rates content positively, but with noted critiques for improvement, reflecting a desire for more comprehensive narratives.",
+  "metrics": {
+    "rouge1_f": 0.16346153846153846,
+    "rouge2_f": 0.03883495145631068,
+    "rougeL_f": 0.08653846153846154,
+    "meteor": 0.12122738065995255,
+    "bleu1": 0.14438502673796794,
+    "bleu2": 0.027861507220764834,
+    "bleu3": 0.007486505735968023,
+    "bleu4": 0.003886018962627205,
+    "bertscore_precision": 0.413349986076355,
+    "bertscore_recall": 0.3979748487472534,
+    "bertscore_f1": 0.40551674365997314
+  }
+}

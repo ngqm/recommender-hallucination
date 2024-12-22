@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/12\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: I am a late arrival to the fan club for Downton Abbey...don't know what I was doing while this exceptional series was playing for two seasons, but I will clear my schedule now for season 3.\nReview Title: Superior viewing\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nI am a late arrival to the fan club for Downton Abbey...don't know what I was doing while this exceptional series was playing for two seasons, but I will clear my schedule now for season 3.\nSuperior viewing",
+  "profile": "**User Summary:**\n\n- **Content Preference**: Enjoys period dramas and series with strong character development and storytelling.\n- **Tone**: Appreciates well-crafted narratives and high production values, indicating a preference for quality over quantity in viewing.\n- **Viewer Attitude**: Late adopter of popular series, suggesting a tendency to engage with established trends after initial buzz; values seeking out exceptional content.\n- **Sensitivities**: Notably aware of content advisories, indicating consideration for themes like violence, alcohol use, and strong language.\n- **Preferred Format**: Engages with media that offers English audio and captions, suggesting a need for accessibility features.\n- **Interest in Future Content**: Actively seeks to catch up on series and eagerly anticipates new seasons, showing commitment to franchises once engaged. \n\nOverall, the user shows a strong affinity for critically acclaimed series that prioritize depth and artistic merit, coupled with a preference for thoughtful consumption of media.",
+  "metrics": {
+    "rouge1_f": 0.1926605504587156,
+    "rouge2_f": 0.037037037037037035,
+    "rougeL_f": 0.12844036697247707,
+    "meteor": 0.1132686084142395,
+    "bleu1": 0.15384615384615385,
+    "bleu2": 0.028160635851807624,
+    "bleu3": 0.00743434198043307,
+    "bleu4": 0.0038247811817662316,
+    "bertscore_precision": 0.41224074363708496,
+    "bertscore_recall": 0.4005318284034729,
+    "bertscore_f1": 0.40630194544792175
+  }
+}

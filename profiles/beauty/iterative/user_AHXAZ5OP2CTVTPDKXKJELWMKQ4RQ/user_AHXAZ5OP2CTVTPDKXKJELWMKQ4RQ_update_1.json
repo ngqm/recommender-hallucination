@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: eNilecor Short Hair Wigs Pixie Cut Light Blonde Natrual Curly Wigs for Women with Side Bangs Trendy Synthetic Wig with Wigs Cap (7.8\" Blonde)\nReview Date: 2019/06/18\nStore: eNilecor\nAverage Rating: 3.3\nProduct Details: {'Item Dimensions LxWxH': '8.3 x 4 x 1.6 inches', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'eNilecor', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.3 x 4 x 1.6 inches; 8.64 Ounces', 'UPC': '711508239747', 'Manufacturer': 'eNilecor'}\nReview Text: A hot mess. That's all I can say about that. Too short to do anything to it.\nReview Title: DON'T\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "eNilecor Short Hair Wigs Pixie Cut Light Blonde Natrual Curly Wigs for Women with Side Bangs Trendy Synthetic Wig with Wigs Cap (7.8\" Blonde)\neNilecor\n{'Item Dimensions LxWxH': '8.3 x 4 x 1.6 inches', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'eNilecor', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.3 x 4 x 1.6 inches; 8.64 Ounces', 'UPC': '711508239747', 'Manufacturer': 'eNilecor'}\nA hot mess. That's all I can say about that. Too short to do anything to it.\nDON'T",
+  "profile": "**User Profile Summary**\n\n- **Hair Accessories**: Shows interest in wigs, specifically short styles, but has had a negative experience with a specific product.\n- **Style Preference**: Leans towards modern and trendy looks, indicated by the choice of a pixie cut and side bangs.\n- **Quality Expectations**: High expectations for product quality; dissatisfaction suggests a preference for well-reviewed, reliable products.\n- **Feedback Tendencies**: Direct and critical in reviews, indicating a straightforward communication style and a low tolerance for poorly performing items.\n- **Product Selection**: Chooses synthetic options, possibly for convenience or cost-effectiveness, but experiences dissatisfaction with certain synthetic products.\n- **Interaction History**: First interaction reflects a strong tendency to provide feedback when unsatisfied, indicating engagement and investment in product quality.\n\nOverall, this user displays a desire for trendy hair solutions, with a strong emphasis on quality and performance, while being vocal about dissatisfaction with underwhelming products.",
+  "metrics": {
+    "rouge1_f": 0.18181818181818182,
+    "rouge2_f": 0.017467248908296946,
+    "rougeL_f": 0.09523809523809523,
+    "meteor": 0.15761093323420197,
+    "bleu1": 0.12626262626262624,
+    "bleu2": 0.0080057918837934,
+    "bleu3": 0.003197796628514262,
+    "bleu4": 0.0020236223967445514,
+    "bertscore_precision": 0.39873766899108887,
+    "bertscore_recall": 0.3905593752861023,
+    "bertscore_f1": 0.39460617303848267
+  }
+}

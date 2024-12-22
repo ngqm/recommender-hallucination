@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/02/10\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Amiel', 'Michael Trim', 'Adam Bernstein', 'Andrew Bernstein', 'Rosemary Rodriguez', 'Peter Werner', 'Keith Boak', 'Bill Johnson', 'David Rodriguez', 'Peter Weller'], 'Studio': ['WGN America']}\nReview Text: Not bad just not excellent\nReview Title: Decent show\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Amiel', 'Michael Trim', 'Adam Bernstein', 'Andrew Bernstein', 'Rosemary Rodriguez', 'Peter Werner', 'Keith Boak', 'Bill Johnson', 'David Rodriguez', 'Peter Weller'], 'Studio': ['WGN America']}\nNot bad just not excellent\nDecent show",
+  "profile": "User Profile Summary:\n\nThe user demonstrates a balanced appreciation for television entertainment, reflected by an average rating of 4.6 across their interactions. Their rating indicates a tendency towards moderate satisfaction rather than extreme enthusiasm. The user shows a preference for content that includes complex themes, as evidenced by their review mentioning elements like violence, alcohol use, and foul language. Their engagement with English audio and subtitle options suggests a preference for accessibility in language. \n\nThe involvement of multiple directors indicates an appreciation for diverse storytelling styles and creative approaches, hinting at the user\u2019s openness to various narratives. The user expressed a sentiment of ambivalence through their review, stating the show was \"not bad just not excellent,\" which illustrates their critical yet fair viewing experience. Overall, this user appears to favor decent-quality shows that provide engaging content without requiring an overwhelming commitment, favoring consistent enjoyment over exceptional experiences. \n\nIn summary, key themes include moderate enjoyment of well-produced, accessible content with layered themes, a critical viewing approach, and an openness to diversity in direction and storytelling.",
+  "metrics": {
+    "rouge1_f": 0.16216216216216217,
+    "rouge2_f": 0.06363636363636364,
+    "rougeL_f": 0.14414414414414414,
+    "meteor": 0.1513933385198367,
+    "bleu1": 0.105,
+    "bleu2": 0.03978585895596978,
+    "bleu3": 0.02519266399038664,
+    "bleu4": 0.016878700777427685,
+    "bertscore_precision": 0.4037629961967468,
+    "bertscore_recall": 0.32768335938453674,
+    "bertscore_f1": 0.3617665469646454
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nReview Date: 2020/07/30\nStore: HOMELEX\nAverage Rating: 3.5\nProduct Details: {'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nReview Text: So happy I added this to my headscarf collection. I got the black one but am definitely eyeing up the champagne, brown, and yellow! The fabric is so soft and I love the pleated design. It's pretty long, which allows so many styles to be worn! It could even work as a scarf around your neck! Very versatile.\nReview Title: Beautiful & Versatile\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nHOMELEX\n{'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nSo happy I added this to my headscarf collection. I got the black one but am definitely eyeing up the champagne, brown, and yellow! The fabric is so soft and I love the pleated design. It's pretty long, which allows so many styles to be worn! It could even work as a scarf around your neck! Very versatile.\nBeautiful & Versatile",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong appreciation for versatile accessories, particularly in the realm of women's fashion. They prioritize softness and quality in fabric, highlighting comfort as a crucial factor in their purchases. The preference for a variety of colors suggests a willingness to explore different styles and aesthetics, indicating a trend towards collecting and experimenting with fashion items. The user values items that can serve multiple purposes, as evidenced by their intention to use the product in different ways, such as a headscarf or a neck scarf. Overall, they favor items that offer both functionality and elegance, emphasizing the importance of design in their style choices. This indicates a broader interest in fashion that is chic yet practical.",
+  "metrics": {
+    "rouge1_f": 0.22535211267605634,
+    "rouge2_f": 0.028436018957345974,
+    "rougeL_f": 0.11267605633802817,
+    "meteor": 0.15332197614991483,
+    "bleu1": 0.20863309352517984,
+    "bleu2": 0.03888230974430438,
+    "bleu3": 0.010333826873288387,
+    "bleu4": 0.005337171508141488,
+    "bertscore_precision": 0.4284434914588928,
+    "bertscore_recall": 0.47102460265159607,
+    "bertscore_f1": 0.4487261474132538
+  }
+}

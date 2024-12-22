@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Nude Gel Polish 6 Colors Gel Nail Polish Set with Gift Box, Soak Off UV LED Gel Polish Kit\nReview Date: 2019/12/07\nStore: FULLSEXY\nAverage Rating: 3.7\nProduct Details: {'Brand': 'FULLSEXY', 'Item Form': 'Gel', 'Type': 'gel', 'Finish Type': 'Glossy', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '1.62 Fl Oz', 'Number of Items': '6', 'Package Dimensions': '7.4 x 3 x 1 inches; 8.01 Ounces'}\nReview Text: Really nice set of colors.  It\u2019s very pigmented.  My favorite is the grey color.  It works well with my Gelish base and top coat.\nReview Title: Nice colors\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Nude Gel Polish 6 Colors Gel Nail Polish Set with Gift Box, Soak Off UV LED Gel Polish Kit\nFULLSEXY\n{'Brand': 'FULLSEXY', 'Item Form': 'Gel', 'Type': 'gel', 'Finish Type': 'Glossy', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '1.62 Fl Oz', 'Number of Items': '6', 'Package Dimensions': '7.4 x 3 x 1 inches; 8.01 Ounces'}\nReally nice set of colors.  It\u2019s very pigmented.  My favorite is the grey color.  It works well with my Gelish base and top coat.\nNice colors",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys gel nail polishes, specifically those that offer a variety of colors and have high pigmentation.\n- **Color Selection:** Favors neutral and versatile shades, highlighting a preference for grey.\n- **Product Quality:** Indicates a high value for quality, evidenced by satisfaction with product performance when paired with specific base and top coats.\n- **Ethical Considerations:** Prefers products that are non-toxic and cruelty-free, suggesting an inclination towards environmentally conscious and ethical beauty options.\n- **Rating Expectation:** Demonstrates a tendency to rate products positively when they meet or exceed quality expectations, as shown by the high score given to the product despite a lower average rating overall.\n- **Gift Potential:** Shows interest in products that come in appealing packaging, as indicated by the purchase of a gift box set.",
+  "metrics": {
+    "rouge1_f": 0.2201834862385321,
+    "rouge2_f": 0.08333333333333333,
+    "rougeL_f": 0.11009174311926605,
+    "meteor": 0.15659408850365875,
+    "bleu1": 0.16111111111111112,
+    "bleu2": 0.051963316096447235,
+    "bleu3": 0.02475471352143128,
+    "bleu4": 0.009621662343203136,
+    "bertscore_precision": 0.4424084722995758,
+    "bertscore_recall": 0.441864013671875,
+    "bertscore_f1": 0.44213610887527466
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz\nReview Date: 2020/07/28\nStore: Higher Education\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Higher Education', 'Scent': 'Cucumber', 'Item Form': 'Creme', 'Unit Count': '1.7 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.88 x 2.88 x 2.13 inches; 7.2 Ounces', 'UPC': '811381032050'}\nReview Text: Nice green color with a refreshing cucumber scent. This feels light, not greasy and yet is very effective at moisturizing skin. It's quickly absorbed by my skin. I like that it doesn't have any AHA or retinol so that I can use this day or night in combination with different serums.\nReview Title: light but very effective\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz\nHigher Education\n{'Brand': 'Higher Education', 'Scent': 'Cucumber', 'Item Form': 'Creme', 'Unit Count': '1.7 Fl Oz', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.88 x 2.88 x 2.13 inches; 7.2 Ounces', 'UPC': '811381032050'}\nNice green color with a refreshing cucumber scent. This feels light, not greasy and yet is very effective at moisturizing skin. It's quickly absorbed by my skin. I like that it doesn't have any AHA or retinol so that I can use this day or night in combination with different serums.\nlight but very effective",
+  "profile": "**User Summary:**\n\n- **Skincare Focus:** Prefers products for dry and sensitive skin.\n- **Texture Preference:** Enjoys lightweight, non-greasy formulas that are quickly absorbed.\n- **Scent Preference:** Favorable towards refreshing, natural scents, specifically cucumber.\n- **Ingredient Sensitivity:** Avoids products with active ingredients like AHA or retinol, indicating a preference for gentle, versatile options that can be used both day and night.\n- **Product Effectiveness:** Values high efficacy in moisturizing capabilities, looking for products that deliver noticeable results without irritation.\n- **Brand Affinity:** Has a positive impression of the brand, noting high ratings and satisfaction with previous purchases. \n\nOverall, the user leans towards effective, gentle skincare solutions that enhance moisture without compromising skin sensitivity.",
+  "metrics": {
+    "rouge1_f": 0.31759656652360513,
+    "rouge2_f": 0.0606060606060606,
+    "rougeL_f": 0.19742489270386265,
+    "meteor": 0.17135682397959187,
+    "bleu1": 0.29426508702792853,
+    "bleu2": 0.11690549868858015,
+    "bleu3": 0.06835233993810771,
+    "bleu4": 0.04401812961184168,
+    "bertscore_precision": 0.4653310775756836,
+    "bertscore_recall": 0.4988616406917572,
+    "bertscore_f1": 0.48151329159736633
+  }
+}

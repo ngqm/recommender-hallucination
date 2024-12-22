@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/07/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Chad Stahelski'], 'Producers': ['Basil Iwanyk', 'Erica Lee'], 'Starring': ['John Leguizamo', 'Keanu Reeves', 'Common'], 'Studio': ['Lionsgate']}\nReview Text: Not as good as first.\nReview Title: Disappointed\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Chad Stahelski'], 'Producers': ['Basil Iwanyk', 'Erica Lee'], 'Starring': ['John Leguizamo', 'Keanu Reeves', 'Common'], 'Studio': ['Lionsgate']}\nNot as good as first.\nDisappointed",
+  "profile": "**User Profile Summary:**\n\n- **Rating Pattern:** Generally high ratings (average of 4.8), indicating a preference for quality content, but recent interactions show variability, such as a specific instance of disappointment with a sequel (rating of 3.0).\n\n- **Content Preferences:** Appreciates intense themes\u2014likely enjoys action or thrillers based on past reviews mentioning violence and substance use. \n\n- **Audio/Visual Needs:** Favors English audio and subtitles for accessibility, suggesting a preference for immersive and inclusive viewing experiences.\n\n- **Disappointment with Sequels:** Indicates a tendency to compare original works favorably against sequels or adaptations, leading to potential dissatisfaction when expectations are not met.\n\n- **Actor Appeal:** Shows interest in specific actors known for action genres, pointing to a preference for high-profile, well-regarded performances.\n\n- **Content Advisory Sensitivities:** Tolerates and seeks out mature themes, suggesting comfort with complex narratives that include darker elements.\n\n- **Growth and Change:** Recent lower rating suggests evolving tastes or heightened expectations, indicating the user may increasingly prioritize originality and storyline over familiar actors or franchises. \n\nOverall, this user demonstrates a keen interest in action-oriented content with high-quality production values but is discerning about narrative continuation across sequels.",
+  "metrics": {
+    "rouge1_f": 0.10480349344978165,
+    "rouge2_f": 0.026431718061674013,
+    "rougeL_f": 0.07860262008733625,
+    "meteor": 0.10050251256281406,
+    "bleu1": 0.08032128514056226,
+    "bleu2": 0.005691011770857023,
+    "bleu3": 0.0023580916013617335,
+    "bleu4": 0.0015194510963676298,
+    "bertscore_precision": 0.39682260155677795,
+    "bertscore_recall": 0.32016849517822266,
+    "bertscore_f1": 0.3543980121612549
+  }
+}

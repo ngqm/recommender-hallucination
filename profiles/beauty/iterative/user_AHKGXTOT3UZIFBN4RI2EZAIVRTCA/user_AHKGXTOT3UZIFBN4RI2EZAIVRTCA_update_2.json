@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beauty Treats Eye Shadow MODERN MATTE 2 pc Palette\nReview Date: 2018/06/18\nStore: Beauty Treats\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Beauty Treats', 'Finish Type': 'Matte', 'Special Feature': 'Travel size, Matte', 'Number of Items': '2', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.51 x 4.02 x 0.98 inches; 0.01 Ounces', 'Item model number': 'SG_B01B6WXOEY_US', 'UPC': '784179908755 755332499977 676768409036'}\nReview Text: These truly SHOCKED ME.. These are just as good as high end that's no lie.  I have visearts and when I bought these I was truly shocked. They truly can stand with the high end brands and hold their own.  Honestly\nReview Title: Just because something is cheaper doesn't mean its not good or better then higher brands.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Beauty Treats Eye shadow NUDES & SMOKY 2pc Palette\nBeauty Treats\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.51 x 4.02 x 0.98 inches; 6.4 Ounces', 'Item model number': 'SG_B01B6WTCCM_US', 'UPC': '784179131863 755332577347 676768409012'}\nTruly unreal this is really good no joke just as good as high end brands no lie. I was truly shocked but what can it hurt to try and see for yourself. This was a huge shock really good if you had blind folds on you would NOT know the differences between this and visesrts.\nJust because things are cheaper doesn't mean they are not as good or better then higher priced brands\nBeauty Treats Eye Shadow MODERN MATTE 2 pc Palette\nBeauty Treats\n{'Brand': 'Beauty Treats', 'Finish Type': 'Matte', 'Special Feature': 'Travel size, Matte', 'Number of Items': '2', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.51 x 4.02 x 0.98 inches; 0.01 Ounces', 'Item model number': 'SG_B01B6WXOEY_US', 'UPC': '784179908755 755332499977 676768409036'}\nThese truly SHOCKED ME.. These are just as good as high end that's no lie.  I have visearts and when I bought these I was truly shocked. They truly can stand with the high end brands and hold their own.  Honestly\nJust because something is cheaper doesn't mean its not good or better then higher brands.",
+  "profile": "**Updated User Profile Summary**\n\n- **Product Interest:** Cosmetics, with a particular focus on eye makeup, especially eyeshadow palettes. \n- **Brand Perception:** Strong belief that affordable options can rival high-end products, reflecting a discerning and open-minded attitude towards brand quality. \n- **Preference for Performance:** Prioritizes effective performance and values products that can compete with high-end counterparts; demonstrates a clear willingness to endorse budget-friendly items that exceed expectations.\n- **Positive Attitude:** Maintains an optimistic outlook on product experiences, emphasizing the element of surprise in discovering high-quality affordable products. \n- **Engagement:** Actively shares experiences through detailed reviews, highlighting personal insights on product efficacy and value, which fosters a sense of community within the beauty space.\n\nThe recent interaction reaffirms the user\u2019s trend of advocating for cost-effective beauty solutions, showcasing a profound appreciation for cosmetics that deliver high-quality performance without a hefty price tag.",
+  "metrics": {
+    "rouge1_f": 0.1497326203208556,
+    "rouge2_f": 0.010752688172043012,
+    "rougeL_f": 0.0748663101604278,
+    "meteor": 0.07742167806985956,
+    "bleu1": 0.1022223414038623,
+    "bleu2": 0.005642425155038226,
+    "bleu3": 0.002152259891016193,
+    "bleu4": 0.0013310797928896678,
+    "bertscore_precision": 0.3438583016395569,
+    "bertscore_recall": 0.39648228883743286,
+    "bertscore_f1": 0.36830005049705505
+  }
+}

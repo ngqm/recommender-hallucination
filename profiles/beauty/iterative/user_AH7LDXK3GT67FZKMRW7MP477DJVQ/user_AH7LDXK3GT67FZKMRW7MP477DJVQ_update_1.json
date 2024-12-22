@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Embryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\nReview Date: 2019/10/29\nAverage Rating: 3.4\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nReview Text: I love that the toner is in a spray bottle. I wish the instructions were in A bit more clear.  I do not know if you are supposed to spray it on your face and go or use a cotton pad. I do not feel a tightening on my skin like most toners. It leaves my skin soft and it smells wonderful!  I have just been spraying it on my face after washing and I like that it\u2019s easier, quicker and less waste when you don\u2019t need a cotton pad.\nReview Title: Quick, easy to apply -wonderful smelling toner!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Embryolisse Eau de Beaute Rosamelis Face Toner, 6.76 Fl Oz\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.85 x 2.76 x 7.44 inches; 8.11 Ounces', 'Item model number': '501000', 'Manufacturer': 'Embryolisse'}\nI love that the toner is in a spray bottle. I wish the instructions were in A bit more clear.  I do not know if you are supposed to spray it on your face and go or use a cotton pad. I do not feel a tightening on my skin like most toners. It leaves my skin soft and it smells wonderful!  I have just been spraying it on my face after washing and I like that it\u2019s easier, quicker and less waste when you don\u2019t need a cotton pad.\nQuick, easy to apply -wonderful smelling toner!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Appreciates skincare products, particularly toners that are easy to apply and user-friendly.\n- **Application Method:** Prefers spray format for convenience, indicating a desire for quick, efficient usage without additional tools like cotton pads.\n- **Sensory Experience:** Values pleasant scents in skincare, as noted by the enjoyment of the toner\u2019s fragrance.\n- **Skin Feel:** Favors products that soften the skin, though expectations on effects like tightening may differ, showing an openness to varied product outcomes.\n- **Desire for Clarity:** Looks for clear instructions on product usage, highlighting the importance of guidance in selecting and using skincare items.\n- **Ease of Use:** Exhibits a preference for straightforward application methods that streamline the skincare routine.\n\nOverall, this user prioritizes a practical and sensory-driven approach to skincare, emphasizing convenience, fragrance, and user education.",
+  "metrics": {
+    "rouge1_f": 0.2921348314606741,
+    "rouge2_f": 0.030188679245283016,
+    "rougeL_f": 0.1198501872659176,
+    "meteor": 0.1828788169861624,
+    "bleu1": 0.2473684210526316,
+    "bleu2": 0.07235544553430925,
+    "bleu3": 0.030310623144817125,
+    "bleu4": 0.01104678107078806,
+    "bertscore_precision": 0.4338967204093933,
+    "bertscore_recall": 0.43957650661468506,
+    "bertscore_f1": 0.4367181658744812
+  }
+}

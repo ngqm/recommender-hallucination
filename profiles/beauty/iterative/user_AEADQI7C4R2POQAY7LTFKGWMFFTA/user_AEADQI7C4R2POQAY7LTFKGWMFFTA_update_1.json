@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Arisson Men hs Razors Set \u2013 ludes 1 Ergonomic Design Razor Handle, 4 Blade Refills, Travel Blade Cover, Shave Gel (Black) 60 Count (Pack of 3)\nReview Date: 2022/08/11\nStore: Arisson\nAverage Rating: 3.5\nProduct Details: {'Brand': 'Arisson', 'Number of Blades': '5', 'Unit Count': '1.00 Count', 'Skin Type': 'All', 'Handle Material': 'Rubber'}\nReview Text: I took the razor out right when I got it today. I had the smoothest shave that I've had in a while. I will definitely purchase again!!!\nReview Title: SMOOTHEST SHAVE EVER!!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Arisson Men hs Razors Set \u2013 ludes 1 Ergonomic Design Razor Handle, 4 Blade Refills, Travel Blade Cover, Shave Gel (Black) 60 Count (Pack of 3)\nArisson\n{'Brand': 'Arisson', 'Number of Blades': '5', 'Unit Count': '1.00 Count', 'Skin Type': 'All', 'Handle Material': 'Rubber'}\nI took the razor out right when I got it today. I had the smoothest shave that I've had in a while. I will definitely purchase again!!!\nSMOOTHEST SHAVE EVER!!!",
+  "profile": "**User Summary:**\n\n- **Grooming Preferences:** The user values a smooth shaving experience and appreciates ergonomic design in grooming tools.\n- **Product Satisfaction:** Shows a tendency towards high satisfaction with shaving products, as indicated by a perfect rating after a positive initial experience.\n- **Frequent Purchaser:** Likely to repeat purchases for quality products that deliver desirable results.\n- **Travel Considerations:** Interested in convenience, including travel-friendly features in grooming products.\n- **Overall Rating Pattern:** While the average rating of products purchased is moderate, individual reviews can be highly favorable, indicating that the user might judge products based on specific experiences rather than general brand performance.\n\nThis profile suggests a consumer who prioritizes utility, comfort, and effectiveness in personal care items, potentially with a focus on grooming routines that cater to varied skin types.",
+  "metrics": {
+    "rouge1_f": 0.15920398009950248,
+    "rouge2_f": 0.020100502512562814,
+    "rougeL_f": 0.06965174129353235,
+    "meteor": 0.13917559691671366,
+    "bleu1": 0.12068965517241378,
+    "bleu2": 0.008352413211643848,
+    "bleu3": 0.0034358313031728075,
+    "bleu4": 0.002206860322586274,
+    "bertscore_precision": 0.39402127265930176,
+    "bertscore_recall": 0.37745851278305054,
+    "bertscore_f1": 0.38556212186813354
+  }
+}

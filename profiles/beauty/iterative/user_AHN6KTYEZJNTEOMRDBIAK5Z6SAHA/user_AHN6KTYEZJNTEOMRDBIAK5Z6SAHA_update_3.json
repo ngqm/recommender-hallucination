@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: uxcell Alloy Flower Bowknot Pattern Rhinestone Inlaid Bridal Bride Tiara Headpiece Forehead Pendant\nReview Date: 2019/01/09\nStore: uxcell\nAverage Rating: 3.2\nProduct Details: {'Package Dimensions': '7.2 x 5.24 x 2.2 inches; 2.36 Ounces', 'Item model number': 'a16071300ux0116', 'UPC': '709874006681'}\nReview Text: It changed color\nReview Title: No good\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)\nEBOOT\n{'Brand': 'EBOOT', 'Unit Count': '4.19 Count', 'Shape': 'Round', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4.29 x 0.79 x 0.79 inches; 1.13 Ounces', 'UPC': '712971920705'}\nGreat\nGreat\nKLEANCOLOR NEON COLORS 12 FULL COLLETION SET NAIL POLISH LACQUER-2 SETS\nKleancolor\n{'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Special Feature': 'Long-lasting', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Liquid Volume': '0.5 Fluid Ounces', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.8 x 5.9 x 3.4 inches; 3.3 Pounds', 'UPC': '303726031113'}\nGreat\nGreat\nuxcell Alloy Flower Bowknot Pattern Rhinestone Inlaid Bridal Bride Tiara Headpiece Forehead Pendant\nuxcell\n{'Package Dimensions': '7.2 x 5.24 x 2.2 inches; 2.36 Ounces', 'Item model number': 'a16071300ux0116', 'UPC': '709874006681'}\nIt changed color\nNo good",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Interest**: The user continues to show a strong preference for beauty and personal care items, particularly tools for nail and makeup application. However, their recent purchase of a hair accessory indicates an exploration into a broader range of beauty-related products, including those for special occasions.\n- **Brand Affinity**: In addition to loyalty towards EBOOT, the user has engaged with Kleancolor and uxcell, demonstrating a willingness to explore diverse brands within the beauty sector despite experiencing dissatisfaction with one of uxcell's products.\n- **Positive Experiences**: Historically, the user has maintained a trend of high ratings for product purchases; however, the low rating associated with their recent experience suggests that their standards for quality and functionality are high and that they expect the products to perform as promised.\n- **Specific Functionality**: The user maintains a focus on items that offer precise application and effectiveness, as evidenced by their continued interest in detailed grooming tools, though recent experiences may shift their emphasis slightly towards overall product reliability.\n- **Quality Appreciation**: They highly value quality in beauty tools; the negative review indicates that unexpected issues can quickly impact their overall satisfaction.\n- **Aesthetic Consideration**: While they have shown a preference for vibrant colors in previous preferences, the low rating for aesthetics in the recent interaction highlights a need for consistency in both functionality and visual appeal across all beauty items they choose.\n\nOverall, the user prioritizes effective, aesthetically pleasing beauty tools but is discerning and expects consistent quality across their purchases.",
+  "metrics": {
+    "rouge1_f": 0.08977556109725686,
+    "rouge2_f": 0.005012531328320803,
+    "rougeL_f": 0.04987531172069826,
+    "meteor": 0.07950150408250967,
+    "bleu1": 0.08681672025723475,
+    "bleu2": 0.0052920122478473195,
+    "bleu3": 0.0020849440286859386,
+    "bleu4": 0.0013097340591940092,
+    "bertscore_precision": 0.3580865263938904,
+    "bertscore_recall": 0.354494571685791,
+    "bertscore_f1": 0.35628148913383484
+  }
+}

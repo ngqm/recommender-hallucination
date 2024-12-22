@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 6 Pack Soft Headband BEoffer Coral Fleece Women Makeup Spa Head Bands Turban Fashion Bow Bowknot Hairlace Headwear Wash Face Hair Holder Elastic Top Knot Bandage Girl Baby Hair Accessories 6 Colors\nReview Date: 2020/03/17\nStore: BEoffer\nAverage Rating: 4.6\nProduct Details: {'Age Range (Description)': 'Baby', 'Material': 'Elastic', 'Fabric Type': 'Fleece', 'Number of Items': '6', 'Recommended Uses For Product': 'Face Makeup', 'Product Dimensions': '7.28 x 1.97 x 0.67 inches; 1.16 Ounces', 'Item model number': 'BH-002', 'UPC': '799899729252'}\nReview Text: I love this set! Even though I don\u2019t need 6 of them.<br />They are well made, very stretchy, so I guess they fit a wide range of head sizes!<br />Super super soft. The fabric is thick.<br />Comfortable to use, it does not squeeze the head. But it holds all the hair back.<br />I use it when washing my face. It keeps my hair dry too.<br />I love the bow! Very 50\u2019s!!!<br />Great colors. Like it a lot.\nReview Title: Fun and works great!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "6 Pack Soft Headband BEoffer Coral Fleece Women Makeup Spa Head Bands Turban Fashion Bow Bowknot Hairlace Headwear Wash Face Hair Holder Elastic Top Knot Bandage Girl Baby Hair Accessories 6 Colors\nBEoffer\n{'Age Range (Description)': 'Baby', 'Material': 'Elastic', 'Fabric Type': 'Fleece', 'Number of Items': '6', 'Recommended Uses For Product': 'Face Makeup', 'Product Dimensions': '7.28 x 1.97 x 0.67 inches; 1.16 Ounces', 'Item model number': 'BH-002', 'UPC': '799899729252'}\nI love this set! Even though I don\u2019t need 6 of them.<br />They are well made, very stretchy, so I guess they fit a wide range of head sizes!<br />Super super soft. The fabric is thick.<br />Comfortable to use, it does not squeeze the head. But it holds all the hair back.<br />I use it when washing my face. It keeps my hair dry too.<br />I love the bow! Very 50\u2019s!!!<br />Great colors. Like it a lot.\nFun and works great!",
+  "profile": "**User Profile Summary:**\n\n- **Product Usage:** Enjoys using hair accessories, particularly for practical purposes like makeup application and facial care.\n- **Material Preference:** Prefers soft, stretchy materials that provide comfort and a good fit for a variety of head sizes.\n- **Aesthetic Taste:** Drawn to playful and nostalgic designs, such as bows and vibrant colors, indicating a liking for fun and fashionable styles.\n- **Quality Expectation:** Values well-made products that deliver on comfort and functionality without causing discomfort during use.\n- **Practicality:** Appreciates accessories that are not only stylish but also effective in keeping hair out of the way during personal care routines.\n- **Multi-functionality:** Likes items that serve multiple purposes, such as keeping hair dry while washing the face.\n\nThis user likely has an engaged interest in beauty and personal care routines with a focus on both style and comfort in their accessories.",
+  "metrics": {
+    "rouge1_f": 0.271523178807947,
+    "rouge2_f": 0.04000000000000001,
+    "rougeL_f": 0.1456953642384106,
+    "meteor": 0.1369956652280955,
+    "bleu1": 0.17074527454601704,
+    "bleu2": 0.05413630077450608,
+    "bleu3": 0.02329588100312822,
+    "bleu4": 0.008604990781287819,
+    "bertscore_precision": 0.4167550206184387,
+    "bertscore_recall": 0.4562980532646179,
+    "bertscore_f1": 0.43563103675842285
+  }
+}

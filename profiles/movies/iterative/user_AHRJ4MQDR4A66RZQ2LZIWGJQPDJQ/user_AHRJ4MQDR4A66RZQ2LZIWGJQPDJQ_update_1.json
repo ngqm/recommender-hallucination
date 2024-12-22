@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/15\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Hopkins'], 'Producers': ['Jean Charles Levy', 'Luc Dayan', 'Louis-Philippe Rochon', 'Dominique Seguin', 'Stephen Hopkins', 'Kate Garwood', 'Karsten Brunig', 'Nicolas Manuel'], 'Starring': ['Stephan James', 'Jason Sudeikis', 'Jeremy Irons'], 'Studio': ['Focus Features']}\nReview Text: Great movie\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Hopkins'], 'Producers': ['Jean Charles Levy', 'Luc Dayan', 'Louis-Philippe Rochon', 'Dominique Seguin', 'Stephen Hopkins', 'Kate Garwood', 'Karsten Brunig', 'Nicolas Manuel'], 'Starring': ['Stephan James', 'Jason Sudeikis', 'Jeremy Irons'], 'Studio': ['Focus Features']}\nGreat movie\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Generally positive reviewer with a tendency to give high ratings (average rating of 4.7).\n- **Media Interest:** Displays a clear preference for films, indicating a strong engagement with cinematic storytelling.\n- **Language Accessibility:** Values English audio and subtitles, highlighting a focus on accessibility in content consumption.\n- **Director & Producer Recognition:** Shows an inclination towards works from specific directors and producers, suggesting an appreciation for certain production styles or recurring actors.\n- **Diversity in Content:** Enjoys films featuring a mix of genres, likely appreciating storytelling that combines both dramatic and comedic elements, as inferred from cast choices.\n- **Strong Recommendations:** Actively participates in recommending quality content, as implied by high star ratings (5.0 on the latest review), suggesting a discerning taste in films.\n\nOverall, this user appears to prioritize well-crafted film experiences, especially those that emphasize quality performances and inclusive accessibility features.",
+  "metrics": {
+    "rouge1_f": 0.09523809523809523,
+    "rouge2_f": 0.0106951871657754,
+    "rougeL_f": 0.08465608465608465,
+    "meteor": 0.08275261324041812,
+    "bleu1": 0.07389162561576355,
+    "bleu2": 0.006048141258359555,
+    "bleu3": 0.002630364481001049,
+    "bleu4": 0.0017368185528879262,
+    "bertscore_precision": 0.38962358236312866,
+    "bertscore_recall": 0.33578139543533325,
+    "bertscore_f1": 0.36070430278778076
+  }
+}

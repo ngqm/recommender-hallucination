@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Professional Quality Nail Art Set With 3 Different Stamps/Stampers/Stamping Tools With Rubber Heads for Nails Designs/Patterns And Flat Head Scraper By VAGA\nReview Date: 2016/05/09\nStore: VAGA\nAverage Rating: 3.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'UPC': '646437939416'}\nReview Text: I love these stampers. They all came individually packaged. They are comfortable for me to hold, fairly squishy with a tacky/slightly sticky feel, and all of them picked up images beautifully right out of the package with no priming. I like having the two colors, because white or very light colored polish will show up on the red. I think these are very good value for the price. It's nice that the scraper has a plastic, not metal edge. I still prefer credit/gift cards sor scraping, as theyare slightly flexible, but I think this one would work very well for anyone who prefers a stiffer scraper.\nReview Title: VERY happy with this purchase.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Professional Quality Nail Art Set With 3 Different Stamps/Stampers/Stamping Tools With Rubber Heads for Nails Designs/Patterns And Flat Head Scraper By VAGA\nVAGA\n{'Is Discontinued By Manufacturer': 'No', 'UPC': '646437939416'}\nI love these stampers. They all came individually packaged. They are comfortable for me to hold, fairly squishy with a tacky/slightly sticky feel, and all of them picked up images beautifully right out of the package with no priming. I like having the two colors, because white or very light colored polish will show up on the red. I think these are very good value for the price. It's nice that the scraper has a plastic, not metal edge. I still prefer credit/gift cards sor scraping, as theyare slightly flexible, but I think this one would work very well for anyone who prefers a stiffer scraper.\nVERY happy with this purchase.",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Nail art and design tools\n- **Product Preference:** Appreciates high-quality stamping tools that are easy to use and perform well without extensive preparation.\n- **Comfort & Usability:** Values comfort in handling tools, with a preference for those that are slightly squishy and easy to grip.\n- **Value Sensitivity:** Focuses on good value for the price, indicating a willingness to invest in products that offer both quality and affordability.\n- **Aesthetic Appeal:** Prefers items that enhance visual contrast in design (e.g., varied colors for better visibility of designs).\n- **Material Preference:** Favors plastic scraping tools over metal for comfort and utility, while also being adaptable to using flexible materials like credit or gift cards.\n\nPrevious interactions reflect a consistent pattern of seeking quality and usability in nail art products, along with an emphasis on aesthetics and value considerations.",
+  "metrics": {
+    "rouge1_f": 0.32394366197183105,
+    "rouge2_f": 0.06382978723404255,
+    "rougeL_f": 0.16901408450704228,
+    "meteor": 0.18193603918575968,
+    "bleu1": 0.24210526315789474,
+    "bleu2": 0.08003062627359132,
+    "bleu3": 0.046754700438953654,
+    "bleu4": 0.032334493052456184,
+    "bertscore_precision": 0.47023072838783264,
+    "bertscore_recall": 0.4737568199634552,
+    "bertscore_f1": 0.47198718786239624
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Evan Almighty\nReview Date: 2019/02/07\nCategories: Comedy, Fantasy, Fun\nProduct Description: [\"When God instructs him to build an ark, Evan's life goes from overnight success to almighty mess!\"]\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Shadyac'], 'Producers': ['Tom Shadyac', 'Gary Barber', 'Roger Birnbaum', 'Neal H. Moritz', 'Michael Bostick'], 'Starring': ['Steve Carell', 'Morgan Freeman', 'Lauren Graham']}\nReview Text: At first my kids didn't want to see this.  This wasn't their kind of movies.  I didn't have high expectations either.  However, the main actor who played Evan was the star of the show. He did an excellent job of potraying a nutty and off the wall character.\nReview Title: First time I've geniunely laughed in a long time.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Evan Almighty\nComedy, Fantasy, Fun\n[\"When God instructs him to build an ark, Evan's life goes from overnight success to almighty mess!\"]\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Shadyac'], 'Producers': ['Tom Shadyac', 'Gary Barber', 'Roger Birnbaum', 'Neal H. Moritz', 'Michael Bostick'], 'Starring': ['Steve Carell', 'Morgan Freeman', 'Lauren Graham']}\nAt first my kids didn't want to see this.  This wasn't their kind of movies.  I didn't have high expectations either.  However, the main actor who played Evan was the star of the show. He did an excellent job of potraying a nutty and off the wall character.\nFirst time I've geniunely laughed in a long time.",
+  "profile": "**User Summary:**\n\n- **Preferred Genres:** Comedy, Fantasy\n- **Family Orientation:** Enjoys family-friendly films that appeal to both adults and children; seeks entertaining content for kids.\n- **Humor Style:** Appreciates offbeat and quirky humor, particularly when portrayed through strong character performances.\n- **Emotional Engagement:** Values genuine comedic moments that provide significant enjoyment and laughter.\n- **Realistic Expectations:** Approaches new films with moderate expectations but can be pleasantly surprised by quality performances.\n- **Feedback on Performers:** Shows a preference for standout lead actors, who can elevate the overall viewing experience.\n- **Review Trends:** Tends to rate films positively, particularly if they evoke laughter and a sense of fun.",
+  "metrics": {
+    "rouge1_f": 0.15813953488372096,
+    "rouge2_f": 0.018779342723004692,
+    "rougeL_f": 0.09302325581395349,
+    "meteor": 0.09898190045248867,
+    "bleu1": 0.1550250311659283,
+    "bleu2": 0.041564765679332406,
+    "bleu3": 0.02131837714546425,
+    "bleu4": 0.00859946211812751,
+    "bertscore_precision": 0.41242730617523193,
+    "bertscore_recall": 0.4424964189529419,
+    "bertscore_f1": 0.42693307995796204
+  }
+}

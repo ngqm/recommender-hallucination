@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Vktech Hair Buns Accessories 2pcs Sponge Swelling Curvature Volume Hair Base\nReview Date: 2014/05/16\nStore: Vktech\nAverage Rating: 3.2\nProduct Details: {}\nReview Text: I was excited when I ordered these because I like to make a high poof ponytail from time to time. Unfortunately, these are not going to give me the kind of poof I am looking for because both of them are way too small. They do not compare to Bumpits, which I currently use. The reason I wanted to get these is because I thought it would not show as much as the plastic Bumpits and I thought it would give the same effect. These are not even big enough to give the effect the picture shows. A little disappointed with these! Will have to keep searching for sponges that are big enough. :(\nReview Title: Too small, not exactly like the picture shows!\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Vktech Hair Buns Accessories 2pcs Sponge Swelling Curvature Volume Hair Base\nVktech\n{}\nI was excited when I ordered these because I like to make a high poof ponytail from time to time. Unfortunately, these are not going to give me the kind of poof I am looking for because both of them are way too small. They do not compare to Bumpits, which I currently use. The reason I wanted to get these is because I thought it would not show as much as the plastic Bumpits and I thought it would give the same effect. These are not even big enough to give the effect the picture shows. A little disappointed with these! Will have to keep searching for sponges that are big enough. :(\nToo small, not exactly like the picture shows!",
+  "profile": "User Summary:\n\n- **Preference for Hair Accessories**: The user frequently seeks products that enhance hairstyles, particularly those that create volume and height, such as poofy ponytails.\n- **Disappointment with Size**: The user has emphasized the importance of product size and effectiveness, expressing dissatisfaction when the actual product does not meet their expectations or match promotional images.\n- **Comparison to Competitors**: They have experience with other hair accessories, indicating a preference for items that provide comparable results to those they have successfully used in the past.  \n- **Value for Aesthetic**: The user prefers hair accessories that blend discreetly with their hair, hinting at an interest in products that are less visible than popular options.\n- **Seeking the Right Fit**: Overall, they are actively searching for the right solutions for hair volume and are critical of products that do not deliver on their promises. \n\nThis user profile suggests a focus on quality, effectiveness, and visual discretion in hair accessories.",
+  "metrics": {
+    "rouge1_f": 0.2736842105263158,
+    "rouge2_f": 0.028268551236749116,
+    "rougeL_f": 0.12631578947368421,
+    "meteor": 0.1733158927403532,
+    "bleu1": 0.19796954314720813,
+    "bleu2": 0.05504676256220447,
+    "bleu3": 0.011582695812666206,
+    "bleu4": 0.005319940876147336,
+    "bertscore_precision": 0.46609532833099365,
+    "bertscore_recall": 0.44766777753829956,
+    "bertscore_f1": 0.4566957652568817
+  }
+}

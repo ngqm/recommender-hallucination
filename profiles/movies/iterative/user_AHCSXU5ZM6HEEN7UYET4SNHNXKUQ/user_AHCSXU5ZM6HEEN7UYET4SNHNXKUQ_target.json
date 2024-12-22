@@ -1,0 +1,76 @@
+{
+  "interaction_number": 12,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/01/03\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bruce Goodison', 'Robert Quinn'], 'Producers': ['Rebecca Eaton', 'Francis Hopinkson', 'Catherine Oldfield', 'Sue de Beauvoir', 'Jeremy Gwilt'], 'Starring': ['Samantha Bond', 'Claire Calbraith', 'Claire Rushbrook'], 'Studio': ['PBS']}\nReview Text: Great show.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nWe love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nSimply one of our favorite shows to watch!\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nWe love watching this show and look forward to it every week.  My family has had a long-time dream of living in Alaska and the scenery and people are great.\nSimply one of our favorite shows to watch!\n{'Subtitles': ['None available'], 'Directors': ['Sean Overbeeke', 'Scott Enlow', 'Frank Sun', 'Kirk Streb', 'David Lee Felter', 'Jennifer Herron'], 'Producers': ['Sean Overbeeke', 'Kirk Streb', 'Bill Hayes', 'Deanie Wilcher', 'Courtney Enlow', 'Alon Orstein'], 'Studio': ['TLC']}\nOur favorite show season after season.  Love seeing the kids grow up and love a show I don't mind my kids watching.\nOur favorite show season after season\n{'Subtitles': ['None available'], 'Directors': ['Sean Overbeeke', 'Scott Enlow', 'Frank Sun', 'Kirk Streb', 'David Lee Felter', 'Jennifer Herron'], 'Producers': ['Sean Overbeeke', 'Kirk Streb', 'Bill Hayes', 'Deanie Wilcher', 'Courtney Enlow', 'Alon Orstein'], 'Studio': ['TLC']}\nOur favorite show season after season.  Love seeing the kids grow up and love a show I don't mind my kids watching.\nOur favorite show season after season\n{'Subtitles': ['None available'], 'Directors': ['Bobby Sheehan'], 'Producers': ['Bobby Sheehan'], 'Starring': ['Alanah Rafferty'], 'Studio': ['FilmBuff']}\nVery good information!\nFive Stars\n{'Subtitles': ['None available'], 'Directors': ['Bobby Sheehan'], 'Producers': ['Bobby Sheehan'], 'Starring': ['Alanah Rafferty'], 'Studio': ['FilmBuff']}\nVery good information!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nLove this show and can't get enough.  Always look forward to new seasons and anxiously await each episode.\nAnother great season.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Daniel Soiseth', 'Brigham Cottam', 'Chad Fraser', 'Paul Taggart', 'Sandy Varo Jarrell', 'Justin Inda', 'Kevin Toomey', 'Vincent Ueber', 'Stefan Ashe', 'Chris Rantamaki'], 'Studio': ['Discovery Channel']}\nLove this show and can't get enough.  Always look forward to new seasons and anxiously await each episode.\nAnother great season.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Amy Kenney'], 'Producers': ['Shawn Kenney'], 'Starring': ['Aura Kenney', 'Chris Steele', 'Keegan Steele']}\nPretty good show.  It had a good message and is a good family movie. Acting wasn't the best, but it's obviously made on a budget.\nWorth the time to watch. Good movie.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Amy Kenney'], 'Producers': ['Shawn Kenney'], 'Starring': ['Aura Kenney', 'Chris Steele', 'Keegan Steele']}\nPretty good show.  It had a good message and is a good family movie. Acting wasn't the best, but it's obviously made on a budget.\nWorth the time to watch. Good movie.\n{'Content advisory': ['Violence', 'substance use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bruce Goodison', 'Robert Quinn'], 'Producers': ['Rebecca Eaton', 'Francis Hopinkson', 'Catherine Oldfield', 'Sue de Beauvoir', 'Jeremy Gwilt'], 'Starring': ['Samantha Bond', 'Claire Calbraith', 'Claire Rushbrook'], 'Studio': ['PBS']}\nGreat show.\nFive Stars\n{'Content advisory': ['Violence', 'substance use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Bruce Goodison', 'Robert Quinn'], 'Producers': ['Rebecca Eaton', 'Francis Hopinkson', 'Catherine Oldfield', 'Sue de Beauvoir', 'Jeremy Gwilt'], 'Starring': ['Samantha Bond', 'Claire Calbraith', 'Claire Rushbrook'], 'Studio': ['PBS']}\nGreat show.\nFive Stars",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Great show.",
+    "images": [],
+    "asin": "B015MT9FAO",
+    "parent_asin": "B015MT9FAO",
+    "user_id": "AHCSXU5ZM6HEEN7UYET4SNHNXKUQ",
+    "timestamp": "2017-01-03 20:32:26",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 2562,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97499889fc86d65525753f5af4d6538b86e7165a2332b169b05e7d3aa98baee0._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "substance use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Bruce Goodison",
+        "Robert Quinn"
+      ],
+      "Producers": [
+        "Rebecca Eaton",
+        "Francis Hopinkson",
+        "Catherine Oldfield",
+        "Sue de Beauvoir",
+        "Jeremy Gwilt"
+      ],
+      "Starring": [
+        "Samantha Bond",
+        "Claire Calbraith",
+        "Claire Rushbrook"
+      ],
+      "Studio": [
+        "PBS"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

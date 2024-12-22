@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Shenandoah\nReview Date: 2017/07/26\nStore: Rated:    Unrated    Format: VHS Tape\nCategories: Movies & TV, Genre for Featured Categories, Westerns\nProduct Description: ['Doug McClure & Glen Corbett']\nAverage Rating: 4.8\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.4 x 3.9 x 1 inches; 6.4 Ounces', 'Release date': 'April 30, 1996', 'Date First Available': 'December 31, 2006', 'Actors': 'Stewart, Hudson, Clark', 'Studio': 'Universal Studios Home Entertainment'}\nReview Text: I will be ordering more vhs movies\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Shenandoah\nRated:    Unrated    Format: VHS Tape\nMovies & TV, Genre for Featured Categories, Westerns\n['Doug McClure & Glen Corbett']\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.4 x 3.9 x 1 inches; 6.4 Ounces', 'Release date': 'April 30, 1996', 'Date First Available': 'December 31, 2006', 'Actors': 'Stewart, Hudson, Clark', 'Studio': 'Universal Studios Home Entertainment'}\nI will be ordering more vhs movies\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Format:** VHS tapes\n- **Genre Affinity:** Strong interest in Western films, evidenced by preference for targeted categories like Movies & TV and Westerns.\n- **Rating Behavior:** Shows high satisfaction with purchases, typically giving a maximum rating (5.0).\n- **Review Engagement:** Actively participates in providing feedback on products, indicating a desire to share experiences and support the community.\n- **Future Intentions:** Plans to continue purchasing VHS movies, signaling a commitment to this format and genre. \n\nOverall, the user demonstrates a consistent preference for classic Western films, particularly in physical media formats, and exhibits a proactive approach to content engagement through reviews and future purchasing intentions.",
+  "metrics": {
+    "rouge1_f": 0.15476190476190477,
+    "rouge2_f": 0.048192771084337345,
+    "rougeL_f": 0.10714285714285715,
+    "meteor": 0.16288003475371216,
+    "bleu1": 0.1437908496732026,
+    "bleu2": 0.05327266931721772,
+    "bleu3": 0.02658748899579172,
+    "bleu4": 0.010579988060715905,
+    "bertscore_precision": 0.45809677243232727,
+    "bertscore_recall": 0.43194079399108887,
+    "bertscore_f1": 0.44463446736335754
+  }
+}

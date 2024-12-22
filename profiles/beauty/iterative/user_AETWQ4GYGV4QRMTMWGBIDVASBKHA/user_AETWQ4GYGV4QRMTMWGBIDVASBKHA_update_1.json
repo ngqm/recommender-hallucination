@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: [miclan] Honey Black Rice Moisturizing Mask 10pcs - Mediheal Family Brand Facial Sheet Mask Full of Moisturizing Revitalize Skin with Black Rice and Honey\nReview Date: 2020/08/10\nStore: miclan\nAverage Rating: 4.9\nProduct Details: {'Package Dimensions': '8.07 x 4.41 x 1.54 inches; 11.99 Ounces'}\nReview Text: These are real Korean face masks from a great brand. I first discovered this brand from a subscription box and am now hooked. The box contains 10 masks and each are individually wrapped. They have a generous amount of serum in each. Great as a weekend treat at home after a bath. Overall, highly recommended!\nReview Title: Great face masks!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "[miclan] Honey Black Rice Moisturizing Mask 10pcs - Mediheal Family Brand Facial Sheet Mask Full of Moisturizing Revitalize Skin with Black Rice and Honey\nmiclan\n{'Package Dimensions': '8.07 x 4.41 x 1.54 inches; 11.99 Ounces'}\nThese are real Korean face masks from a great brand. I first discovered this brand from a subscription box and am now hooked. The box contains 10 masks and each are individually wrapped. They have a generous amount of serum in each. Great as a weekend treat at home after a bath. Overall, highly recommended!\nGreat face masks!",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user shows a strong preference for high-quality facial masks, specifically those with moisturizing properties. The mention of Korean skincare indicates a trend towards popular and effective beauty products known for their innovation.\n\n- **Brand Loyalty:** The user appears to appreciate the brand\u2019s reputation as indicated by their discovery through a subscription box and subsequent enthusiasm for the product. This suggests a willingness to explore and remain loyal to brands that meet their skincare needs.\n\n- **Usage Context:** The user enjoys using products as a treat during self-care routines, particularly after baths. This indicates a pattern of integrating skincare into relaxing and pampering experiences.\n\n- **Product Characteristics:** The emphasis on generous serum content highlights a preference for products that deliver noticeable hydration and effectiveness.\n\n- **Overall Satisfaction:** The high overall rating reflects a positive experience, suggesting that the user prioritizes quality and efficacy in their skincare routine.\n\nOverall, the user is inclined towards effective and enjoyable self-care experiences, gravitating towards reputable brands and products that provide significant skincare benefits.",
+  "metrics": {
+    "rouge1_f": 0.22304832713754646,
+    "rouge2_f": 0.0299625468164794,
+    "rougeL_f": 0.1412639405204461,
+    "meteor": 0.15702479338842976,
+    "bleu1": 0.15,
+    "bleu2": 0.06924247647178143,
+    "bleu3": 0.040408244357088924,
+    "bleu4": 0.023482133506045746,
+    "bertscore_precision": 0.4624045491218567,
+    "bertscore_recall": 0.42595797777175903,
+    "bertscore_f1": 0.44343361258506775
+  }
+}

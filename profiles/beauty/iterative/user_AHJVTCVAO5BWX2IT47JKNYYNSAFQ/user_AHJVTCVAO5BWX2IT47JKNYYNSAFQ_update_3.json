@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz\nReview Date: 2017/08/04\nStore: Becca Cosmetics\nProduct Description: ['BECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz']\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Becca Cosmetics', 'Package Information': 'Tube', 'Finish Type': 'Shimmery', 'Package Type': 'Box', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.8 x 3 x 0.3 inches; 0.64 Ounces'}\nReview Text: Got and love need to get me a bigger one.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wet 'n' Wild MegaGlo Illuminating Powder, Catwalk Pink 345\nWet 'n' Wild\n{'Item Form': 'Powder', 'Finish Type': 'Luminous', 'Brand': \"Wet 'n' Wild\", 'Color': 'Pink', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.5 x 1.25 x 2.5 inches; 1.45 Ounces', 'UPC': '077802534507', 'Manufacturer': \"Wet 'n' Wild\"}\nLove it\nFive Stars\nCITY COLOR Intense Exposure Highlighting Powder - Highlight\nCity Color Cosmetics\n{'Item Form': 'Powder', 'Brand': 'City Color Cosmetics', 'Skin Tone': 'All', 'Number of Items': '1', 'Material Feature': 'Cruelty Free', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.3 x 2.5 x 0.7 inches; 0.32 Ounces'}\nlove it\nFive Stars\nBECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz\nBecca Cosmetics\n['BECCA Shimmering Skin Perfector, OPAL (golden opal pearl), Deluxe Travel Size, 0.34 oz']\n{'Brand': 'Becca Cosmetics', 'Package Information': 'Tube', 'Finish Type': 'Shimmery', 'Package Type': 'Box', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.8 x 3 x 0.3 inches; 0.64 Ounces'}\nGot and love need to get me a bigger one.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Product Type Preference:** Enjoys illuminating face powders and highlighting products, with a growing interest in shimmery finishes.\n- **Color Preference:** Fond of pink shades, but has shown an appreciation for versatile tones like golden opal that enhance glow.\n- **Finish Type:** Prefers luminous and shimmery finishes for makeup products, valuing their ability to provide a radiant look.\n- **Rating Behavior:** Tendency to give high ratings, indicating satisfaction with purchases; recent feedback reflects an enthusiastic endorsement of products.\n- **Brand Affinity:** Positive experience with Wet 'n' Wild and City Color Cosmetics, now expanded to include Becca Cosmetics, further demonstrating an openness to various quality budget-friendly options.\n- **Simplicity in Preference:** Expresses appreciation clearly and directly, indicating a preference for effective beauty products without complex critiques.\n- **Engagement Style:** Minimal yet enthusiastic feedback, consistently valuing quality and effectiveness, with recent interactions reaffirming this enthusiastic trend.\n\nOverall, the user favors budget-friendly beauty products that deliver luminous and shimmery finishes, particularly enjoying products in pink and complementary tones. The consistent high engagement and satisfaction patterns suggest a strong alignment with cruelty-free brands that prioritize effectiveness and quality in their offerings.",
+  "metrics": {
+    "rouge1_f": 0.18082191780821918,
+    "rouge2_f": 0.0440771349862259,
+    "rougeL_f": 0.1095890410958904,
+    "meteor": 0.10337044124915304,
+    "bleu1": 0.1409582923928598,
+    "bleu2": 0.05835990523187642,
+    "bleu3": 0.03283803686668159,
+    "bleu4": 0.018735491601079388,
+    "bertscore_precision": 0.41132020950317383,
+    "bertscore_recall": 0.4011479616165161,
+    "bertscore_f1": 0.40617039799690247
+  }
+}

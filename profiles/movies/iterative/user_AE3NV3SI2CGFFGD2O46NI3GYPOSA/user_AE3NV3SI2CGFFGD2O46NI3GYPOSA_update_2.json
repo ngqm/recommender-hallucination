@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/05/05\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Frankel', 'Mikael Salomon', 'Tom Hanks', 'David Leland', 'Richard Loncraine', 'David Nutter', 'Phil Alden Robinson', 'Tony To'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Mary Richards'], 'Starring': ['Patrick Dempsey', 'Rick Gomez', 'Scott Grimes'], 'Studio': ['Discovery Global']}\nReview Text: Difficult to watch at the same time knowing it's an accurate depiction\nReview Title: Very accurate\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mars Attacks!\nScience Fiction, Comedy, Coarse, Futuristic\n['Superstar Jack Nicholson as the President of the United States greetinginvaders from outer space? Anything can and does happen when the twistedmind of director Tim Burton.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tim Burton'], 'Producers': ['Tim Burtin', 'Larry Franco'], 'Starring': ['Jack Nicholson', 'Glenn Close', 'Annette Bening']}\nThis could really happen and the stupid responses and reaction are well within the range of possibilities.  Hopefully,<br />Tex or Bruce or someone's music will save the world.\nbest movie ever\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Frankel', 'Mikael Salomon', 'Tom Hanks', 'David Leland', 'Richard Loncraine', 'David Nutter', 'Phil Alden Robinson', 'Tony To'], 'Producers': ['Tom Hanks', 'Steven Spielberg', 'Mary Richards'], 'Starring': ['Patrick Dempsey', 'Rick Gomez', 'Scott Grimes'], 'Studio': ['Discovery Global']}\nDifficult to watch at the same time knowing it's an accurate depiction\nVery accurate",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Strong interest in science fiction and comedy genres, particularly those with a satirical edge.\n- **Favorite Themes:** Enjoys narratives that blend humor with absurd or fantastical elements, particularly those involving extraterrestrial encounters and accurate portrayals of serious subjects.\n- **Director Influence:** Preference for works by Tim Burton, as well as other notable filmmakers like Tom Hanks and Steven Spielberg, indicating an appreciation for unique storytelling styles and engaging content.\n- **Engagement with Content:** Values thought-provoking narratives that prompt reflection, especially those that balance humor with serious themes, as shown in recent interactions.\n- **Viewer Sensibility:** Comfortable with mature themes including violence and coarse language, suggesting a proclivity towards edgy content that tackles complex issues.\n- **Rating Tendencies:** Tends to give high ratings to media that resonate with their thematic and emotional preferences, as evidenced by a recent enthusiastic review highlighting accuracy in representation alongside personal engagement.\n- **Cultural References:** Enjoys music and cultural commentary, often seeking additional layers of meaning and social critique in media experiences.\n\nThis profile reflects a preference for whimsical yet insightful entertainment that challenges norms, entertains, and engages with serious themes in a responsible manner.",
+  "metrics": {
+    "rouge1_f": 0.1754385964912281,
+    "rouge2_f": 0.023529411764705882,
+    "rougeL_f": 0.08771929824561404,
+    "meteor": 0.0966002165796933,
+    "bleu1": 0.14456899363367828,
+    "bleu2": 0.022622459907211952,
+    "bleu3": 0.00566588876194348,
+    "bleu4": 0.0028383363352836723,
+    "bertscore_precision": 0.39267638325691223,
+    "bertscore_recall": 0.3993123471736908,
+    "bertscore_f1": 0.3959665596485138
+  }
+}

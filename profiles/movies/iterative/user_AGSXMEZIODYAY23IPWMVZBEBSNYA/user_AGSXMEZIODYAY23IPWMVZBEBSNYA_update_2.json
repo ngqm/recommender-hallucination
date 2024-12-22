@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/21\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Callie Khouri', 'Stephen Cragg', 'Michael Lohmann', 'Mike Listo', 'Paul McCrane', 'Julie H\u00e9bert', 'Michael Waxman', 'Allan Arkush', 'Dan Lerner', 'Mario Van Peebles'], 'Studio': ['ABC']}\nReview Text: Love this show, have seen all episodes.\nReview Title: Excellent Show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J. McMahon', 'Lance Jeffery'], 'Producers': ['Jon Kramer', 'Laura Keats', 'Lisa Bosak Lucas', 'Rasha Drachkovitch', 'Michael Dinco', 'Patrick Keegan', 'Heather Hollin', 'Keith Guinto'], 'Starring': ['Tia Torres', 'Matt \"Country\" Eldridge', 'Mariah \"M2\" Chock'], 'Studio': ['Animal Planet']}\nGreat show!! My dream would to one day be able to adopt a pit from here. I can dream!!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Callie Khouri', 'Stephen Cragg', 'Michael Lohmann', 'Mike Listo', 'Paul McCrane', 'Julie H\u00e9bert', 'Michael Waxman', 'Allan Arkush', 'Dan Lerner', 'Mario Van Peebles'], 'Studio': ['ABC']}\nLove this show, have seen all episodes.\nExcellent Show",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** The user has a strong affinity for uplifting animal-related content, particularly shows centered on pet adoption and rescue. Their enthusiasm for these themes continues to grow, reinforcing a desire to engage with heartwarming narratives that promote animal welfare.\n\n- **Viewing Patterns:** The user consistently prefers English language content with closed captions, highlighting their commitment to accessibility and understanding in their viewing experience. This trend is evident in their interactions with various shows.\n\n- **Engagement Level:** The user demonstrates a high level of engagement with their chosen content, as shown by their positive ratings and emotionally expressive reviews. Their recent interaction involved a perfect rating, signifying both satisfaction and strong emotional resonance with the material.\n\n- **Aspirational Values:** The user values compassion and empathy, as indicated by their aspiration to adopt a pet. This wish aligns with their interests, reflecting a deeper commitment to animal welfare and rescue initiatives.\n\nOverall, the user shows a consistent pattern of valuing and actively engaging with heartwarming, animal-centered content, underpinned by an aspirational desire to adopt a pet and support animal welfare causes. Their engagement is marked by high ratings and positive feedback, showcasing a deep connection to the material they consume.",
+  "metrics": {
+    "rouge1_f": 0.07260726072607261,
+    "rouge2_f": 0.0132890365448505,
+    "rougeL_f": 0.0528052805280528,
+    "meteor": 0.06784260515603799,
+    "bleu1": 0.09236947791164657,
+    "bleu2": 0.027293133650219834,
+    "bleu3": 0.014447851976923694,
+    "bleu4": 0.0059172332075524085,
+    "bertscore_precision": 0.3554607033729553,
+    "bertscore_recall": 0.36546188592910767,
+    "bertscore_f1": 0.36039191484451294
+  }
+}

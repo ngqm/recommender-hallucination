@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AISI BEAUTY Long Blonde Wig with Bangs Straight Blonde Wigs for Women 24 Inch Synthetic Heat Resistant Cosplay Wigs for Girls Costume Party Wear\nReview Date: 2022/02/05\nStore: AISI BEAUTY\nAverage Rating: 3.7\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Straight', 'Special Feature': 'Heat Resistant', 'Brand': 'AISI BEAUTY', 'Package Dimensions': '10.59 x 9.29 x 3.27 inches; 12.31 Ounces'}\nReview Text: This is a high-quality wig. My daughter does princess parties, and she can use this for multiple characters. The inside has pins and straps to help it fits better. It also comes with a free set of lashes. The only complaint is that the bangs are long but easy to trim. You could not find a better quality wig for the price.\nReview Title: Coco's Conclusion: High Quality Wig, Includes a Set of Lashes\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "AISI BEAUTY Long Blonde Wig with Bangs Straight Blonde Wigs for Women 24 Inch Synthetic Heat Resistant Cosplay Wigs for Girls Costume Party Wear\nAISI BEAUTY\n{'Material': 'Synthetic', 'Hair Type': 'Straight', 'Special Feature': 'Heat Resistant', 'Brand': 'AISI BEAUTY', 'Package Dimensions': '10.59 x 9.29 x 3.27 inches; 12.31 Ounces'}\nThis is a high-quality wig. My daughter does princess parties, and she can use this for multiple characters. The inside has pins and straps to help it fits better. It also comes with a free set of lashes. The only complaint is that the bangs are long but easy to trim. You could not find a better quality wig for the price.\nCoco's Conclusion: High Quality Wig, Includes a Set of Lashes",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** The user is engaged in activities related to costume and role-playing events, particularly for children, as indicated by the purchase related to princess parties.\n- **Product Preferences:** The user values high-quality synthetic products that are versatile for different characters. They appreciate features like heat resistance and secure fittings (pins and straps).\n- **Shopping Behavior:** Prioritizes value for money, highlighted by satisfaction with the product's quality for the price. The inclusion of additional accessories (like a set of lashes) is viewed positively.\n- **Family Focus:** The user's purchases suggest a focus on enhancing experiences for their daughter, reflecting a supportive role in creative play.\n- **Style Considerations:** Shows a willingness to modify products (trimming bangs) to meet personal standards or aesthetics.\n\nOverall, the user seeks quality, versatility, and affordability in products that contribute to children's imaginative play.",
+  "metrics": {
+    "rouge1_f": 0.3370786516853933,
+    "rouge2_f": 0.07547169811320756,
+    "rougeL_f": 0.15730337078651685,
+    "meteor": 0.23541588585143874,
+    "bleu1": 0.27692307692307694,
+    "bleu2": 0.12530691899989654,
+    "bleu3": 0.06878349860395955,
+    "bleu4": 0.03608177461204547,
+    "bertscore_precision": 0.4438716769218445,
+    "bertscore_recall": 0.4687943756580353,
+    "bertscore_f1": 0.4559926986694336
+  }
+}

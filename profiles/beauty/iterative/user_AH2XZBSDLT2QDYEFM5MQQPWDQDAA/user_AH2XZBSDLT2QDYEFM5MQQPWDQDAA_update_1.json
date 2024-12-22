@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JOYYUM 1000W 2-in-1 Hot Air Spin Brush Styler Auto-rotating Negative Ionic Hair Curler Dryer Brush, 1 1/2 Inch and 2 Inch Brush Attachments, Lavander Fog\nReview Date: 2019/10/30\nStore: JOYYUM\nAverage Rating: 3.5\nProduct Details: {'Brand': 'JOYYUM', 'Material': 'Titanium', 'Power Source': 'Corded Electric', 'Special Feature': 'Comb, Portable, Massage, Hot', 'Recommended Uses For Product': 'Curling', 'Package Dimensions': '16.3 x 5.4 x 3.2 inches; 1.85 Pounds', 'UPC': '787414814279', 'Manufacturer': 'JOYYUM'}\nReview Text: Hard to rate this as it does not work with fine, layered hair. It has no clamp to hold hair in place so it just spins right out. Might work with longer, fine hair that is of one length.\nReview Title: Not great with fine, layered hair\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "JOYYUM 1000W 2-in-1 Hot Air Spin Brush Styler Auto-rotating Negative Ionic Hair Curler Dryer Brush, 1 1/2 Inch and 2 Inch Brush Attachments, Lavander Fog\nJOYYUM\n{'Brand': 'JOYYUM', 'Material': 'Titanium', 'Power Source': 'Corded Electric', 'Special Feature': 'Comb, Portable, Massage, Hot', 'Recommended Uses For Product': 'Curling', 'Package Dimensions': '16.3 x 5.4 x 3.2 inches; 1.85 Pounds', 'UPC': '787414814279', 'Manufacturer': 'JOYYUM'}\nHard to rate this as it does not work with fine, layered hair. It has no clamp to hold hair in place so it just spins right out. Might work with longer, fine hair that is of one length.\nNot great with fine, layered hair",
+  "profile": "**User Summary:**\n\n- **Hair Care Preferences**: The user values versatility in hair styling tools, as evidenced by the interest in a multi-functional hot air brush. However, they encounter challenges with specific hair types, particularly fine, layered hair. This suggests that they seek products that are effective for various hair textures but have found limitations with certain options.\n\n- **Product Features**: The user seems to prefer styling tools with innovative features, like auto-rotation and ionic technology. They appreciate products that combine different functionalities (e.g., curling and drying) but require practical effectiveness for their unique hair needs.\n\n- **Review Patterns**: The user is discerning and provides constructive feedback, indicating a thoughtful approach to product evaluation. They express disappointment when products fail to meet their expectations, especially regarding compatibility with their hair type.\n\n- **Rating Tendency**: The average rating given (3.5) reflects a balanced view, suggesting that while they may appreciate certain features, they prioritize results and functionality. Their review title indicates a focus on specific user experience rather than overall brand loyalty.\n\nIn summary, this user seeks effective, multifunctional hair styling tools tailored to fine, layered hair and values detailed, practical performance over superficial attributes.",
+  "metrics": {
+    "rouge1_f": 0.22950819672131148,
+    "rouge2_f": 0.039603960396039604,
+    "rougeL_f": 0.11803278688524592,
+    "meteor": 0.19202449000387362,
+    "bleu1": 0.17479674796747968,
+    "bleu2": 0.07066960307707161,
+    "bleu3": 0.04677514696538861,
+    "bleu4": 0.03352664653697671,
+    "bertscore_precision": 0.42183858156204224,
+    "bertscore_recall": 0.416279137134552,
+    "bertscore_f1": 0.41904041171073914
+  }
+}

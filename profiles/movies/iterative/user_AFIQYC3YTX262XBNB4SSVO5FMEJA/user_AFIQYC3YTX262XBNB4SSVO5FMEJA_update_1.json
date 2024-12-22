@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2012/10/18\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Sackheim', 'Peter Markle', 'David Straiton', 'Elodie Keene', 'Adam Arkin', 'Paul McCrane', 'John Behring', 'Frederick King Keller', 'John Dahl', 'David Semel'], 'Studio': ['NBC']}\nReview Text: The Life series was one of those quirky shows that allowed Damian Lewis to hone his skills. Skills which have proven to be superb in Homeland and Band of Brothers just to name two. Sadly Life only lasted 2 seasons, but it did give us two excellent actors in Lewis and Shahi. We can still enjoy both on the small screen today.\nReview Title: Life and then some\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Daniel Sackheim', 'Peter Markle', 'David Straiton', 'Elodie Keene', 'Adam Arkin', 'Paul McCrane', 'John Behring', 'Frederick King Keller', 'John Dahl', 'David Semel'], 'Studio': ['NBC']}\nThe Life series was one of those quirky shows that allowed Damian Lewis to hone his skills. Skills which have proven to be superb in Homeland and Band of Brothers just to name two. Sadly Life only lasted 2 seasons, but it did give us two excellent actors in Lewis and Shahi. We can still enjoy both on the small screen today.\nLife and then some",
+  "profile": "**User Profile Summary:**\n\n**Keywords:**  \n- Genre Preferences: Quirky, Dramatic\n- Content Type: Series  \n- Viewing Language: English  \n- Subtitles: English [CC]  \n- Actor Appreciation: Damian Lewis, Sarah Shahi  \n- Directors: Multiple directors, suggesting an interest in varied creative perspectives  \n- Longevity Preference: Shows with short runs (2 seasons noted), indicating a preference for unique narratives over mainstream success.  \n- Emotional Engagement: Strong emotional connection to character development and performances.\n\n**Trends:**  \n- This user values high-quality storytelling and character-driven narratives, as evidenced by their appreciation for the performances of specific actors.  \n- They enjoy series that may have niche appeal and are driven by interesting premises rather than conventional popularity.  \n- Attention to detail in reviews suggests they analyze productions critically, looking beyond surface-level entertainment into the quality of acting and direction.  \n- A healthy skepticism towards short-lived series, showing a preference for innovative but possibly underappreciated content.\n\nOverall, this user appears to seek out series that exhibit depth and uniqueness, with a particular affinity for strong performances and creative execution.",
+  "metrics": {
+    "rouge1_f": 0.24031007751937983,
+    "rouge2_f": 0.046875,
+    "rougeL_f": 0.12403100775193798,
+    "meteor": 0.16351219026290914,
+    "bleu1": 0.19718309859154928,
+    "bleu2": 0.060995375418814016,
+    "bleu3": 0.026027779609658217,
+    "bleu4": 0.009572448022149446,
+    "bertscore_precision": 0.4400133490562439,
+    "bertscore_recall": 0.3877002000808716,
+    "bertscore_f1": 0.4122036099433899
+  }
+}

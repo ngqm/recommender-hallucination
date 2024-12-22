@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/09/01\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'substance use'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Graham Yost', 'Elmore Leonard', 'Michael Dinner', 'Sarah Timberman', 'Carl Beverly'], 'Starring': ['Timothy Olyphant', 'Nick Searcy', 'Jere Burns'], 'Studio': ['FX Cable Channel']}\nReview Text: Lots of plot twists and turns.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Arkin', 'Jon Avnet', 'Peter Werner', 'Michael Dinner', 'John Dahl', 'Bill Johnson', 'Michael W. Watkins', 'Gwyneth Horder-Payton', 'Don Kurt', 'Dean Parisot'], 'Producers': ['Graham Yost', 'Elmore Leonard', 'Michael Dinner', 'Sarah Timberman', 'Carl Beverly'], 'Starring': ['Timothy Olyphant', 'Nick Searcy', 'Jere Burns'], 'Studio': ['FX Cable Channel']}\nLots of plot twists and turns.\nFive Stars",
+  "profile": "**User Profile Summary**\n\n- **Rating Preference**: The user exhibits a tendency to rate high, with an average rating of 4.9, indicating a positive inclination towards their experiences.\n  \n- **Content Interest**: Shows a preference for narratives featuring strong plot twists and complex storytelling, highlighting an appreciation for engaging and unpredictable plots.\n\n- **Genre Leanings**: Indicates an interest in mature themes such as violence and substance use, suggesting a comfort with darker, more intense subject matter.\n\n- **Language & Accessibility**: Prefer content available in English, with an emphasis on English subtitles, revealing a focus on accessibility and comprehension.\n\n- **Production Quality**: Favors works from notable directors and producers, pointing to a keen interest in high-quality production values and well-crafted storytelling.\n\n- **Actor Preference**: Indicates recognition of specific actors, suggesting a preference for familiar, compelling performances. \n\nOverall, the user seems to gravitate towards high-quality, intense storytelling that includes unexpected plot developments, resonating with themes that are more mature in nature.",
+  "metrics": {
+    "rouge1_f": 0.12844036697247704,
+    "rouge2_f": 0.037037037037037035,
+    "rougeL_f": 0.10091743119266056,
+    "meteor": 0.09121621621621621,
+    "bleu1": 0.1184834123222749,
+    "bleu2": 0.03359186584112786,
+    "bleu3": 0.01754313973859248,
+    "bleu4": 0.007137804657439395,
+    "bertscore_precision": 0.3888924717903137,
+    "bertscore_recall": 0.36796578764915466,
+    "bertscore_f1": 0.378139853477478
+  }
+}

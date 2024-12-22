@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bvlgari Goldea EDP 1.5ml/0.05oz Mini Spray Sample\nReview Date: 2018/10/06\nStore: BVLGARI\nAverage Rating: 3.9\nProduct Details: {'Brand': 'BVLGARI', 'Item Form': 'Spray', 'Item Volume': '1.5 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Package Dimensions': '5 x 5 x 1 inches; 12 Ounces', 'UPC': '783320506017'}\nReview Text: But then after it dries and settles down, the brightness goes away and it just smells flat... No more sweetness no more brightness. And not worth buying either. Stinky.!!!\nReview Title: First spray it smells great\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Avon Outspoken Party! By Fergie 1.7 Fl. Oz.\n{'Item Volume': '1.7 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Item Weight': '0.82 Pounds', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.28 x 4.72 x 3.39 inches; 13.05 Ounces', 'Item model number': 'result.feed.gl_beauty-part_number', 'UPC': '888761070070'}\nSmells average. Ordinary. Fergies best perfume is Viva. Forget about all the others.\nNothing special or unique.\nANGELICA - Color: BUTTER PECAN-R\nNoriko\n{'Material': 'Human Hair', 'Hair Type': 'Color', 'Style': 'Modern', 'Brand': 'Noriko', 'Age Range (Description)': 'Adult', 'Item Weight': '13.5 Ounces', 'UPC': '694483001427'}\nPretty darn close to perfect.!  yes.\nSo gorgeous\nBvlgari Goldea EDP 1.5ml/0.05oz Mini Spray Sample\nBVLGARI\n{'Brand': 'BVLGARI', 'Item Form': 'Spray', 'Item Volume': '1.5 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Package Dimensions': '5 x 5 x 1 inches; 12 Ounces', 'UPC': '783320506017'}\nBut then after it dries and settles down, the brightness goes away and it just smells flat... No more sweetness no more brightness. And not worth buying either. Stinky.!!!\nFirst spray it smells great",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** The user continues to favor distinctive and unique scents, as evidenced by their critical feedback on recent fragrance interactions. They expect a complex, engaging experience and exhibit disappointment when scents become lackluster or flat after dry down.\n\n- **Brand Affinity:** While the user shows an openness to exploring various brands, their recent review indicates that even notable names may not always meet their expectations. They appreciate quality regardless of brand, but they remain highly discerning.\n\n- **Rating Behavior:** The user\u2019s critical perspective is reinforced by a recent low rating, highlighting their insistence on high standards. They demonstrate a consistent willingness to assign low scores when products fail to deliver the expected level of excellence. However, they are also capable of recognizing quality, as seen in past interactions.\n\n- **Review Insight:** The user's reviews reveal an appreciation for unique fragrance experiences that captivate the senses. Their feedback remains enthusiastic when encounters with truly exceptional products occur, showcasing a commitment to quality amidst a critical evaluation of ordinary offerings.\n\nOverall, this profile characterizes the user as someone with a robust commitment to high standards, actively seeking out exceptional fragrance experiences while maintaining a critical approach to products that do not meet their elevated expectations.",
+  "metrics": {
+    "rouge1_f": 0.10256410256410257,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05128205128205129,
+    "meteor": 0.0859106529209622,
+    "bleu1": 0.1307373874056361,
+    "bleu2": 0.0066331639287936905,
+    "bleu3": 0.00245885039176779,
+    "bleu4": 0.0014985380935416193,
+    "bertscore_precision": 0.34209054708480835,
+    "bertscore_recall": 0.37841325998306274,
+    "bertscore_f1": 0.35933634638786316
+  }
+}

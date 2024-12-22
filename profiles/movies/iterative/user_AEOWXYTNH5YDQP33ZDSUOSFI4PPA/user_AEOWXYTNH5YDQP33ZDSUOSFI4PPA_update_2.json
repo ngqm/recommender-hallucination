@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/03\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['20th Century Fox'], 'Producers': ['Jason Blum', 'Mark Ciardi', 'Gordon Gray', 'Kevin Halloran', 'Jim Piddock', 'Emma Watts'], 'Starring': ['Dwayne Johnson', 'Ashley Judd', 'Stephen Merchant'], 'Studio': ['20th Century Fox']}\nReview Text: So funny.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nA little slow but godd movie.\nFour Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['20th Century Fox'], 'Producers': ['Jason Blum', 'Mark Ciardi', 'Gordon Gray', 'Kevin Halloran', 'Jim Piddock', 'Emma Watts'], 'Starring': ['Dwayne Johnson', 'Ashley Judd', 'Stephen Merchant'], 'Studio': ['20th Century Fox']}\nSo funny.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Tends to rate products positively, with an average rating of 4.7, and has recently given a rating of 5.0, indicating a continuing trend of high engagement with content.\n- **Content Sensitivity:** Interested in media with a mature content advisory, specifically themes involving violence, smoking, and foul language.\n- **Language Accessibility:** Values English audio options and the availability of subtitles, emphasizing a consistent preference for accessibility features in media.\n- **Engagement with Popular Content:** Shows a strong affinity for well-known actors and popular production teams, as evidenced by consistent ratings of mainstream projects.\n- **Pacing Tolerance:** Open to slower-paced narratives; their enjoyment shines through in reviews, even when noting a slower pace.\n- **Overall Enjoyment:** Generally expresses satisfaction with experiences, reflecting an optimistic approach to media consumption. Recent reviews describe content as \u201cfunny\u201d and enjoyable, reinforcing a positive outlook towards comedy and entertainment.\n\nThis summary illustrates a user who enjoys mainstream, accessible entertainment with mature themes and appreciates high-quality production and narration, while consistently engaging in a positive manner with their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.09486166007905139,
+    "rouge2_f": 0.03187250996015937,
+    "rougeL_f": 0.09486166007905139,
+    "meteor": 0.07659799260433175,
+    "bleu1": 0.10548523206751054,
+    "bleu2": 0.006685591389846972,
+    "bleu3": 0.002669340234002412,
+    "bleu4": 0.0016884919132770574,
+    "bertscore_precision": 0.3959466814994812,
+    "bertscore_recall": 0.35543614625930786,
+    "bertscore_f1": 0.3745993673801422
+  }
+}

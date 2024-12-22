@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexandre Aja'], 'Producers': ['Cathy Schulman', 'Riza Aziz', 'Joey McFarland', 'Alexandre Aja'], 'Starring': ['Daniel Radcliffe', 'Juno Temple', 'Max Minghella']}\nReview Text: Awesome movie\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Patrick Osborne'], 'Producers': ['Kristina Reed'], 'Starring': ['Stephen Apostolina', 'Kirk Baily', 'Ben Bledsoe'], 'Studio': ['Walt Disney Animation Studios']}\nJust had to own it!!!\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexandre Aja'], 'Producers': ['Cathy Schulman', 'Riza Aziz', 'Joey McFarland', 'Alexandre Aja'], 'Starring': ['Daniel Radcliffe', 'Juno Temple', 'Max Minghella']}\nAwesome movie\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preference for Animation and Quality:** The user exhibits a robust affinity for animated content, particularly from reputable studios, while also embracing high-quality live-action films that resonate with their artistic values.\n- **High Engagement with Quality:** They consistently rate content highly, underscoring a preference for well-produced works that evoke strong emotional responses.\n- **Language Sensitivity:** The user continues to prioritize English audio and subtitles, emphasizing a commitment to accessibility and comprehension in their media selections.\n- **Emotional Connection:** Demonstrating a personal connection to the products, the user expresses enthusiasm in reviews, often showcasing a desire to own and champion films that impact them.\n- **Positive Outlook:** This user maintains an optimistic approach toward their media choices, highlighted by their high ratings and exalted language in reviews, reflecting a strong appreciation for entertainment that uplifts and entertains.\n\nThe recent interactions reinforce the user's dedication to high-quality content, emotional engagement, and the importance of language support, consistently reflecting their values in media consumption.",
+  "metrics": {
+    "rouge1_f": 0.08771929824561404,
+    "rouge2_f": 0.01769911504424779,
+    "rougeL_f": 0.05263157894736841,
+    "meteor": 0.07730364873222016,
+    "bleu1": 0.09389671361502347,
+    "bleu2": 0.021045403927840392,
+    "bleu3": 0.005943067898163016,
+    "bleu4": 0.0031619368742805895,
+    "bertscore_precision": 0.3835359811782837,
+    "bertscore_recall": 0.3378254175186157,
+    "bertscore_f1": 0.35923242568969727
+  }
+}

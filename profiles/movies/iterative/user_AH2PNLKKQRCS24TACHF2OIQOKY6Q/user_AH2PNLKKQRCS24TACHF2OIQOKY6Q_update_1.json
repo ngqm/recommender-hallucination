@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/05\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Oedekerk'], 'Producers': ['Steve Oedekerk', 'Mark Beam', 'Nicholisa Contis', 'Andrew Egiziano', 'Paul Marshal', 'Julia Pistor', 'Aaron Parry'], 'Starring': ['Kevin James', 'Courteney Cox', 'Sam Elliott'], 'Studio': ['Paramount Pictures']}\nReview Text: This movie is barely fit for adults, much less children. Adult themes dressed in children's clothing. So glad I previewed this before I let the kids watch! Trash.\nReview Title: Cartoons Aren't Always For Kids\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Oedekerk'], 'Producers': ['Steve Oedekerk', 'Mark Beam', 'Nicholisa Contis', 'Andrew Egiziano', 'Paul Marshal', 'Julia Pistor', 'Aaron Parry'], 'Starring': ['Kevin James', 'Courteney Cox', 'Sam Elliott'], 'Studio': ['Paramount Pictures']}\nThis movie is barely fit for adults, much less children. Adult themes dressed in children's clothing. So glad I previewed this before I let the kids watch! Trash.\nCartoons Aren't Always For Kids",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Strongly prefers content that is suitable for children; deeply disapproves of adult themes in children's media. \n- **Viewing Behavior:** Engages in previewing material before allowing children to watch, indicating a protective stance regarding media consumption.\n- **Rating Trends:** Exhibits a critical approach to media, providing lower ratings for content deemed inappropriate. Tends to give higher ratings to well-crafted, suitable family-friendly material.\n- **Language and Accessibility Needs:** Prefers content with English audio and closed captions, implying a focus on clear understanding and accessibility in viewing experiences.\n- **Interest in Family Dynamics:** Shows concern for the suitability of entertainment choices for younger audiences, highlighting a focus on family-friendly options. \n\nThis profile suggests the user values quality, child-appropriate content and maintains an active role in curating viewing experiences for their family.",
+  "metrics": {
+    "rouge1_f": 0.1650485436893204,
+    "rouge2_f": 0.039215686274509796,
+    "rougeL_f": 0.11650485436893203,
+    "meteor": 0.1279757989406146,
+    "bleu1": 0.1452513966480447,
+    "bleu2": 0.04039849210780981,
+    "bleu3": 0.020969384414272603,
+    "bleu4": 0.00850767897458417,
+    "bertscore_precision": 0.40997326374053955,
+    "bertscore_recall": 0.4050849676132202,
+    "bertscore_f1": 0.40751445293426514
+  }
+}

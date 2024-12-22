@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 6 Pieces Bouffant Caps with Buttons, Soft Unisex Stretch Headband Elastic Turban Headwrap with Ear Loop Holder Button (Black, Grey, Lake Blue, Royal Blue, Navy, Purple)\nReview Date: 2021/02/26\nStore: Geyoga\nAverage Rating: 4.4\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Cotton', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Geyoga', 'Package Dimensions': '12.24 x 10.2 x 1 inches; 7.05 Ounces'}\nReview Text: I bought these for my son who is on the autism spectrum.  Because of his sensory issues,  he hates the ear loops on his mask that he wears to school.  These are super comfortable and the mask loops can be moved to the side buttons.  I was a little concerned that he would get hot wearing a hat all day, but they are very lightweight and breathable.\nReview Title: Very comfortable\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "6 Pieces Bouffant Caps with Buttons, Soft Unisex Stretch Headband Elastic Turban Headwrap with Ear Loop Holder Button (Black, Grey, Lake Blue, Royal Blue, Navy, Purple)\nGeyoga\n{'Age Range (Description)': 'Adult', 'Material': 'Cotton', 'Fabric Type': 'Elastic', 'Number of Items': '1', 'Brand': 'Geyoga', 'Package Dimensions': '12.24 x 10.2 x 1 inches; 7.05 Ounces'}\nI bought these for my son who is on the autism spectrum.  Because of his sensory issues,  he hates the ear loops on his mask that he wears to school.  These are super comfortable and the mask loops can be moved to the side buttons.  I was a little concerned that he would get hot wearing a hat all day, but they are very lightweight and breathable.\nVery comfortable",
+  "profile": "**User Profile Summary**\n\n- **Demographics:** Parent of a child on the autism spectrum.\n- **Key Preferences:**\n  - Prioritizes comfort and sensory-friendly products.\n  - Looks for items that alleviate discomfort associated with traditional designs (e.g., ear loops).\n  - Values lightweight and breathable materials in clothing/accessories.\n- **Behavior Patterns:**\n  - Engages with products aimed at enhancing the sensory experiences for children with specific needs.\n  - Demonstrates a strong inclination towards finding practical solutions for everyday challenges faced by their child.\n  - Displays a tendency to seek out high-rated products that support the well-being of their child. \n- **Shopping Focus:** Functional, comfort-oriented items that help manage sensory sensitivities.",
+  "metrics": {
+    "rouge1_f": 0.24888888888888885,
+    "rouge2_f": 0.06278026905829595,
+    "rougeL_f": 0.11555555555555555,
+    "meteor": 0.14948013296227577,
+    "bleu1": 0.21086600465477,
+    "bleu2": 0.0946383382038336,
+    "bleu3": 0.06027154811269848,
+    "bleu4": 0.040519249878946784,
+    "bertscore_precision": 0.4186079800128937,
+    "bertscore_recall": 0.4545004069805145,
+    "bertscore_f1": 0.4358164668083191
+  }
+}

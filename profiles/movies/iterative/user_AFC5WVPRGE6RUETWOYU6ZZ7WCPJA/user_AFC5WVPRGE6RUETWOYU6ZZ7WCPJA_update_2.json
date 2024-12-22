@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/01/12\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Mark Schwahn'], 'Producers': ['Mark Schwahn', 'Brian Robbins', 'Joe Davola', 'Shuana Phelan'], 'Starring': ['Elizabeth Hurley (Queen Helena)', 'William Moseley (Prince Liam)', 'Alexandra Park (Princess Eleanor)'], 'Studio': ['lionsgate']}\nReview Text: Waiting for season 2, depicts everything that is affecting our society today and how character is paramount to victory to survive/\nReview Title: Waiting for season 2,\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Eva Gressel']}\nI will keep it, but I didn't order this book----I just looked at it\nJust inquired>>Amazon sent it!\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Mark Schwahn'], 'Producers': ['Mark Schwahn', 'Brian Robbins', 'Joe Davola', 'Shuana Phelan'], 'Starring': ['Elizabeth Hurley (Queen Helena)', 'William Moseley (Prince Liam)', 'Alexandra Park (Princess Eleanor)'], 'Studio': ['lionsgate']}\nWaiting for season 2, depicts everything that is affecting our society today and how character is paramount to victory to survive/\nWaiting for season 2,",
+  "profile": "**User Profile Summary (Updated):**\n\n- **Interaction History:** The user demonstrates a notable shift in engagement, moving from a pattern of mixed reviews to more positive feedback with a recent high rating.\n- **Review Sentiment:** The latest review reflects an average rating of 4.2, indicating improved satisfaction, particularly in relation to content that resonates with societal themes and character development.\n- **Preferences:**\n  - **Product Reception:** While previously exhibiting confusion or dissatisfaction with purchases, the user\u2019s latest interaction indicates a more favorable response to specific content, suggesting an evolving appreciation for quality offerings that align with their interests.\n  - **Interest in Content:** The user remains primarily focused on content exploration, as evidenced by the excitement for upcoming seasons, showcasing engagement with narratives rather than mere transactional intent.\n- **Behavioral Trends:** The user continues to retain items, now possibly indicating a growing attachment to content deemed valuable or thought-provoking, alongside the exploration of new options. They likely appreciate narratives that reflect contemporary issues and strong character arcs.\n\nOverall, the user still prioritizes exploration but is becoming increasingly discerning in their preferences, valuing content that sparks interest and aligns with their perspectives while seeking clearer communication in the purchasing process.",
+  "metrics": {
+    "rouge1_f": 0.09059233449477352,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.055749128919860634,
+    "meteor": 0.09433962264150944,
+    "bleu1": 0.11857707509881422,
+    "bleu2": 0.006859620607619772,
+    "bleu3": 0.002656493904688257,
+    "bleu4": 0.0016548042044198718,
+    "bertscore_precision": 0.37503165006637573,
+    "bertscore_recall": 0.36069822311401367,
+    "bertscore_f1": 0.36772531270980835
+  }
+}

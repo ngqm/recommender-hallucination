@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wet n Wild 6 Piece Brush Set\nReview Date: 2019/02/18\nStore: wet 'n wild\nAverage Rating: 4.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.39 x 3.39 x 3.19 inches; 3.2 Ounces', 'UPC': '077802346568'}\nReview Text: This set shredded A lot especially the small Eye shadow brush .i wouldn't recommend this set or buying it\nReview Title: Not very good\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nToo Faced\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nGreat smell great for travel\nFive Stars\nWet n Wild 6 Piece Brush Set\nwet 'n wild\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8.39 x 3.39 x 3.19 inches; 3.2 Ounces', 'UPC': '077802346568'}\nThis set shredded A lot especially the small Eye shadow brush .i wouldn't recommend this set or buying it\nNot very good",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** Values travel-friendly beauty products, particularly bronzers with appealing scents, but has shown dissatisfaction with certain beauty tools in recent interactions.\n- **Quality Emphasis:** Generally prefers high-quality items but may be more discerning with makeup tools, as indicated by lower satisfaction with a recent brush set.\n- **Brand Loyalty:** Engaged with a well-known beauty brand, indicating a tendency to choose established names in the cosmetics industry, although the new feedback suggests a willingness to critique even reputable brands.\n- **Size Considerations:** Interest in mini or compact sizes for convenience remains, highlighting a practical approach to beauty purchasing.\n- **Positive Feedback vs. Critical Review:** While this user has a history of rating products positively, the recent negative review reflects a shift in expectations, signaling a more scrutinizing perspective on makeup tool performance.\n\nOverall, this user favors compact and sensory-rich beauty products from reputable brands while becoming increasingly critical of product performance, particularly related to makeup application tools. Their focus on convenience and quality continues as a core part of their purchasing decisions.",
+  "metrics": {
+    "rouge1_f": 0.08823529411764706,
+    "rouge2_f": 0.007407407407407408,
+    "rougeL_f": 0.0588235294117647,
+    "meteor": 0.10116731517509729,
+    "bleu1": 0.08071748878923768,
+    "bleu2": 0.006029861456479851,
+    "bleu3": 0.0025433578207659153,
+    "bleu4": 0.0016536741143999252,
+    "bertscore_precision": 0.3613368272781372,
+    "bertscore_recall": 0.33790332078933716,
+    "bertscore_f1": 0.3492273986339569
+  }
+}

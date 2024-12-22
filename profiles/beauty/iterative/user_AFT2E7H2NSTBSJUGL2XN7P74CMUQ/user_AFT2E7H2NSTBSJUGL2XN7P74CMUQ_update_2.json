@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AWAYTR Feather Headband Indian Headpiece - Bohemian Tassels Hair Band Headwear For Women Girls (All black)\nReview Date: 2019/05/17\nStore: AWAYTR\nAverage Rating: 1.6\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Feather', 'Number of Items': '1', 'Brand': 'AWAYTR', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '22 x 2.5 x 0.7 inches; 1.59 Ounces', 'UPC': '799670075714'}\nReview Text: Looks much more costume like than the pic.\nReview Title: Good for costume only\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "PrettyDiva Winged Eyeliner Stamp - Waterproof Long Lasting Liquid Eyeliner Pen Smudgeproof Eye Makeup Seal Stamp Tool for Wing or Cat Eye - Black\nPretty Diva\n{'Brand': 'Pretty Diva', 'Special Feature': 'Waterproof', 'Product Benefits': 'Long Lasting', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.2 x 0.7 x 0.7 inches; 0.64 Ounces'}\nPen is dried out\nOne Star\nAWAYTR Feather Headband Indian Headpiece - Bohemian Tassels Hair Band Headwear For Women Girls (All black)\nAWAYTR\n{'Age Range (Description)': 'Adult', 'Material': 'Feather', 'Number of Items': '1', 'Brand': 'AWAYTR', 'Unit Count': '1.00 Count', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '22 x 2.5 x 0.7 inches; 1.59 Ounces', 'UPC': '799670075714'}\nLooks much more costume like than the pic.\nGood for costume only",
+  "profile": "**User Profile Summary:**\n\n- **Product Usage:** The user primarily engages with makeup products, particularly eye makeup, but has recently shown interest in beauty accessories related to personal style.\n- **Preference for Quality:** The user consistently prioritizes durability and effectiveness, as seen in their dissatisfaction with a dried-out product and a feather headpiece that did not match expectations.\n- **Rating Behavior:** The user is critical and precise in their evaluations, reflected in multiple one-star ratings due to product performance not meeting their standards.\n- **Expectations:** The user values waterproof and long-lasting features in eye makeup, while also seeking accessories that align with their aesthetic preferences, indicating a desire for reliability and authenticity in both categories.\n- **Feedback Engagement:** Actively participates in providing feedback and reviews, underscoring their commitment to sharing genuine experiences and influencing product quality. The user expresses dissatisfaction readily when products do not perform as anticipated, whether it\u2019s makeup or fashion items.\n\nOverall, this user exhibits a discerning approach to both beauty and style products, emphasizing functionality, quality, and authenticity, and they are unafraid to convey disappointment when their expectations are not fulfilled.",
+  "metrics": {
+    "rouge1_f": 0.12738853503184713,
+    "rouge2_f": 0.025641025641025644,
+    "rougeL_f": 0.06369426751592357,
+    "meteor": 0.09663032705649156,
+    "bleu1": 0.11440677966101695,
+    "bleu2": 0.006977373146533345,
+    "bleu3": 0.0027503587585157884,
+    "bleu4": 0.0017286339178467526,
+    "bertscore_precision": 0.36785709857940674,
+    "bertscore_recall": 0.3592078983783722,
+    "bertscore_f1": 0.3634810745716095
+  }
+}

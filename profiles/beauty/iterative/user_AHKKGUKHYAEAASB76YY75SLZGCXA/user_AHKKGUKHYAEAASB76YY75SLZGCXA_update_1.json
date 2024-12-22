@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ApHogee Two-Step Protein Treatment 1oz & Balancing Moisturizer 0.75oz Packet\"Pack of 2\"\nReview Date: 2016/12/01\nStore: Aphogee\nAverage Rating: 4.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.39 x 3.19 x 0.83 inches; 3.84 Ounces', 'UPC': '638302438452'}\nReview Text: the best product I've ever used for severely damaged hair (I've used over 50 products).\nReview Title: you can't go wrong\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ApHogee Two-Step Protein Treatment 1oz & Balancing Moisturizer 0.75oz Packet\"Pack of 2\"\nAphogee\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.39 x 3.19 x 0.83 inches; 3.84 Ounces', 'UPC': '638302438452'}\nthe best product I've ever used for severely damaged hair (I've used over 50 products).\nyou can't go wrong",
+  "profile": "**User Summary:**\n\n- **Focus on Hair Care:** User prioritizes solutions for severely damaged hair, indicating a strong interest in hair health and repair.\n- **Product Variety:** Has experience with a wide range of products (over 50), suggesting a willingness to experiment and seek out effective solutions.\n- **High Standards:** The user rates products highly, indicating a preference for quality and effectiveness in hair care.\n- **Positive Experiences:** Demonstrates satisfaction with past purchases, emphasizing that they value products that deliver tangible results.\n- **Preference for Specialized Treatments:** User likely seeks targeted treatments over general products, reflecting a detailed understanding of their hair care needs.\n\nThis behavior aligns with a consumer who is discerning and knowledgeable about personal care products, particularly focused on addressing specific hair conditions.",
+  "metrics": {
+    "rouge1_f": 0.1348314606741573,
+    "rouge2_f": 0.04545454545454545,
+    "rougeL_f": 0.07865168539325844,
+    "meteor": 0.14442742391549035,
+    "bleu1": 0.09467455621301774,
+    "bleu2": 0.047477953834489814,
+    "bleu3": 0.029998474530150362,
+    "bleu4": 0.02008155578564872,
+    "bertscore_precision": 0.3849461078643799,
+    "bertscore_recall": 0.38574329018592834,
+    "bertscore_f1": 0.38534432649612427
+  }
+}

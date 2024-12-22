@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 1 Kleancolor Nail Polish Lacquer #166 Metallic Fuschia Manicure + Free Earring Gift\nReview Date: 2020/03/11\nStore: Kleancolor\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Finish Type': 'Metallic', 'Special Feature': 'Long-lasting', 'Unit Count': '1.00 Fl Oz', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'UPC': '634145845556'}\nReview Text: awesome color.it goes on thick,so I only have to apply one coat.\nReview Title: good quality\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "1 Kleancolor Nail Polish Lacquer #166 Metallic Fuschia Manicure + Free Earring Gift\nKleancolor\n{'Brand': 'Kleancolor', 'Item Form': 'Liquid', 'Finish Type': 'Metallic', 'Special Feature': 'Long-lasting', 'Unit Count': '1.00 Fl Oz', 'Number of Items': '1', 'Number of Pieces': '1', 'Liquid Volume': '0.5 Fluid Ounces', 'UPC': '634145845556'}\nawesome color.it goes on thick,so I only have to apply one coat.\ngood quality",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Enjoys high-quality beauty products, particularly nail polish.\n- **Color Preference:** Favors vibrant and metallic shades, as indicated by the choice of a bold color.\n- **Application Style:** Prefers products that provide ample coverage with minimal effort, appreciating formulas that allow for single-coat application.\n- **Quality Expectations:** Values long-lasting performance and overall product quality, leading to positive ratings.\n- **Shopping Behavior:** Engages in thoughtful purchasing, considering both aesthetic appeal and the efficiency of use.\n- **Gift Incentives:** Responds positively to promotions such as free gifts accompanying purchases, indicating a preference for value-added shopping experiences.\n\nOverall, this user values efficiency, quality, and vibrancy in beauty products, especially in nail care.",
+  "metrics": {
+    "rouge1_f": 0.1485714285714286,
+    "rouge2_f": 0.023121387283236997,
+    "rougeL_f": 0.09142857142857141,
+    "meteor": 0.11796733212341197,
+    "bleu1": 0.13253012048192775,
+    "bleu2": 0.008962214298964415,
+    "bleu3": 0.003658717970422442,
+    "bleu4": 0.0023412608284889068,
+    "bertscore_precision": 0.40575623512268066,
+    "bertscore_recall": 0.4004358947277069,
+    "bertscore_f1": 0.40307849645614624
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sayas Hair Brazilian Curly Hair Weave 3 Bundles 14 16 18 inch Total 300g(10.5oz) Brazilian Virgin Kinky Curly Human Hair Weave 8A 100% Unprocessed Hair Weft Extensions Natural Black Color\nReview Date: 2018/12/21\nStore: SAYAS\nAverage Rating: 4.0\nProduct Details: {'Brand': 'SAYAS', 'Color': 'black', 'Material': 'Human', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14 x 11 x 2 inches; 10.5 Ounces', 'UPC': '613468608178'}\nReview Text: These bundles are so good I love them\nReview Title: Those are so good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sayas Hair Brazilian Curly Hair Weave 3 Bundles 14 16 18 inch Total 300g(10.5oz) Brazilian Virgin Kinky Curly Human Hair Weave 8A 100% Unprocessed Hair Weft Extensions Natural Black Color\nSAYAS\n{'Brand': 'SAYAS', 'Color': 'black', 'Material': 'Human', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14 x 11 x 2 inches; 10.5 Ounces', 'UPC': '613468608178'}\nThese bundles are so good I love them\nThose are so good\nSayas Hair Brazilian Curly Hair Weave 3 Bundles 14 16 18 inch Total 300g(10.5oz) Brazilian Virgin Kinky Curly Human Hair Weave 8A 100% Unprocessed Hair Weft Extensions Natural Black Color\nSAYAS\n{'Brand': 'SAYAS', 'Color': 'black', 'Material': 'Human', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14 x 11 x 2 inches; 10.5 Ounces', 'UPC': '613468608178'}\nThese bundles are so good I love them\nThose are so good",
+  "profile": "**User Profile Summary:**\n\n- **Hair Preferences:** This user shows a consistent preference for curly hair textures, emphasizing a strong affinity for natural-looking human hair extensions. The recent purchase reaffirms their preference for curly hair, specifically with lengths around 18 inches.\n- **Product Quality:** They prioritize premium quality, as indicated by their high rating on previous products, as well as their latest purchase, which received an excellent review. This suggests a commitment to selecting top-tier options that deliver satisfaction.\n- **Brand Loyalty:** The user continues to demonstrate loyalty to the SAYAS brand, actively purchasing their products and indicating a positive perception of their offerings.\n- **Length Preference:** They have a clear inclination towards longer hair extensions, with a consistent choice noted for 18 inches.\n- **Overall Satisfaction:** Their positive engagement is highlighted by a high rating and enthusiastic review of their latest product, indicating ongoing satisfaction with their purchases.\n- **Review Engagement:** The user regularly participates in review activities, sharing their experiences to inform the community, underscoring their involvement in the product ecosystem.\n\nOverall, this user's profile reflects a strong inclination towards high-quality, natural-looking curly hair extensions, a notable preference for specific brands and lengths, along with a proactive approach to engaging with product reviews and satisfaction.",
+  "metrics": {
+    "rouge1_f": 0.16246498599439776,
+    "rouge2_f": 0.033802816901408454,
+    "rougeL_f": 0.1176470588235294,
+    "meteor": 0.10590770472932795,
+    "bleu1": 0.10566037735849057,
+    "bleu2": 0.0063263631109468765,
+    "bleu3": 0.002478092389989454,
+    "bleu4": 0.0015524327559854809,
+    "bertscore_precision": 0.36176586151123047,
+    "bertscore_recall": 0.34696921706199646,
+    "bertscore_f1": 0.35421305894851685
+  }
+}

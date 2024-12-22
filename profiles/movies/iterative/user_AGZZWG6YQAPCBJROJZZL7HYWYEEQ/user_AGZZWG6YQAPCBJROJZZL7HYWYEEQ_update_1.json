@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/09\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: I am late in watching this show. Now, I can't wait to watch the next episode. I love the acting, the scenery the costumes and the in-depth story line. It is a mastery piece of work!\nReview Title: Mastery\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nI am late in watching this show. Now, I can't wait to watch the next episode. I love the acting, the scenery the costumes and the in-depth story line. It is a mastery piece of work!\nMastery",
+  "profile": "User Summary:\n\nThe user exhibits a strong appreciation for high-quality content characterized by in-depth storytelling and strong performances. They enjoy well-crafted narratives, as indicated by their excitement for continuing a series, highlighting their engagement with character development and plot intricacies. Visual elements such as scenery and costumes are also significant to their viewing preferences, suggesting a preference for aesthetically appealing productions.\n\nThe user's rating trends showcase a tendency to favor content that includes complex themes and rich characterization, evidenced by their high ratings despite exposure to potentially controversial themes like violence and sexual content. Their focus on acting quality implies that they are likely drawn to productions featuring skilled ensembles and acclaimed creators.\n\nOverall, the user values artistic craftsmanship in entertainment, particularly in works that are richly produced and offer nuanced narratives, reflecting a discerning taste in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.15720524017467247,
+    "rouge2_f": 0.01762114537444934,
+    "rougeL_f": 0.07860262008733623,
+    "meteor": 0.08631319358816278,
+    "bleu1": 0.1286685472420168,
+    "bleu2": 0.02816879302765153,
+    "bleu3": 0.007897263263325448,
+    "bleu4": 0.00418834805941282,
+    "bertscore_precision": 0.3942098617553711,
+    "bertscore_recall": 0.4147845506668091,
+    "bertscore_f1": 0.4042355716228485
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/01\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kris Greengrove', 'Susan Holden', 'Steve Oakes', 'David Starr', 'Richard Winkler', 'Soo Kim', 'Jennifer Twomey', 'Marcy Pritchard', 'Amy Steinberg', 'Max Goodman'], 'Studio': ['CBS']}\nReview Text: Such a cute show, my 4 old loves it! I've noticed she developed an interest in math and patterns after starting this show...love that!\nReview Title: Fun and catchy songs!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Kris Greengrove', 'Susan Holden', 'Steve Oakes', 'David Starr', 'Richard Winkler', 'Soo Kim', 'Jennifer Twomey', 'Marcy Pritchard', 'Amy Steinberg', 'Max Goodman'], 'Studio': ['CBS']}\nSuch a cute show, my 4 old loves it! I've noticed she developed an interest in math and patterns after starting this show...love that!\nFun and catchy songs!",
+  "profile": "The user demonstrates a clear preference for engaging and educational entertainment suitable for young children. Keywords from their interactions indicate a strong appreciation for content that incorporates elements of music and learning, particularly focused on math and patterns. The mention of their child's development of interest in math highlights the importance of educational value in the content they choose. \n\nThe user tends to favor shows that are family-friendly, with an emphasis on fun and catchy songs that captivate young audiences. The high ratings given (4.7 and 5.0) reflect a positive responsiveness to quality programming. Overall, this profile suggests that the user values content that is entertaining, supportive of early childhood learning, and provides enjoyable viewing experiences for both parents and children.",
+  "metrics": {
+    "rouge1_f": 0.17391304347826086,
+    "rouge2_f": 0.07692307692307693,
+    "rougeL_f": 0.11956521739130434,
+    "meteor": 0.1068970001381676,
+    "bleu1": 0.1259259259259259,
+    "bleu2": 0.07508977490438169,
+    "bleu3": 0.050289471651611226,
+    "bleu4": 0.017618313025922625,
+    "bertscore_precision": 0.38380587100982666,
+    "bertscore_recall": 0.4007716774940491,
+    "bertscore_f1": 0.3921053409576416
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/14\nAverage Rating: 3.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Antonia Bird'], 'Producers': ['ITV'], 'Starring': ['Robbie Coltrane', 'Barbara Flynn', 'Geraldine Somerville'], 'Studio': ['Acorn TV']}\nReview Text: This story is that of a British vet with 3 tours in Ulster under its belt.  He has lost mates and is suffering from PTSD.  The anti-American comments and moments are from his point of view.  As Fitz says, understandable but not justified.  I find the other reviewers a bit thin skinned.  If they had complained about the believability of the vet going off the rails, that would have been more valid in my opinion.\nReview Title: Not that bloody awful if you watch the whole thing\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Richard Standeven'], 'Producers': ['Gub Neal'], 'Starring': ['Robbie Coltrane', 'Ricky Tomlinson', 'Dennis Philby'], 'Studio': ['Acorn Media']}\nRight in line with others in this series.  Great writing and great acting.  A vintage retrospective look at British Hong Kong at the time of the handover to China also.\nCrime in Hong Kong\n{'Subtitles': ['None available'], 'Directors': ['Antonia Bird'], 'Producers': ['ITV'], 'Starring': ['Robbie Coltrane', 'Barbara Flynn', 'Geraldine Somerville'], 'Studio': ['Acorn TV']}\nThis story is that of a British vet with 3 tours in Ulster under its belt.  He has lost mates and is suffering from PTSD.  The anti-American comments and moments are from his point of view.  As Fitz says, understandable but not justified.  I find the other reviewers a bit thin skinned.  If they had complained about the believability of the vet going off the rails, that would have been more valid in my opinion.\nNot that bloody awful if you watch the whole thing",
+  "profile": "**User Summary:**\n\n- **Content Preference:** Enjoys high-quality writing and strong acting in series/movies, with a particular focus on historical or cultural themes. Recent engagement reflects an openness to narratives that explore complex psychological topics, such as PTSD, within a cultural context.\n- **Geographic Interest:** Displays a sustained interest in British culture and history, especially in narratives involving Hong Kong's past. \n- **Rating Pattern:** Generally rates content positively, with an average rating around 4.4, though has shown a willingness to rate lower for productions that might lack certain quality elements. Recently rated a piece with a score of 4.0, suggesting he values nuanced storytelling despite imperfect execution.\n- **Language and Accessibility:** Prefers content available in English, with a consistent emphasis on accessibility features like closed captions. The absence of subtitles in recent interactions may influence future preferences.\n- **Cultural Insight:** Appreciates narratives offering retrospective views or analyses of significant cultural and historical events, demonstrating tolerance for perspectives that might be controversial while maintaining a critical mindset towards storytelling integrity.\n\nOverall, this user gravitates towards well-crafted English-language productions that blend quality storytelling with cultural or historical insights, while also engaging with narratives that tackle serious themes and complex character studies.",
+  "metrics": {
+    "rouge1_f": 0.22222222222222224,
+    "rouge2_f": 0.0111731843575419,
+    "rougeL_f": 0.10555555555555556,
+    "meteor": 0.13896568928447567,
+    "bleu1": 0.2289156626506024,
+    "bleu2": 0.052622628976998424,
+    "bleu3": 0.01038841705123798,
+    "bleu4": 0.004620385960385564,
+    "bertscore_precision": 0.41129469871520996,
+    "bertscore_recall": 0.4179189205169678,
+    "bertscore_f1": 0.4145803451538086
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/01/04\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Kay', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Allan Kroeker', 'Jamie Barber', 'Emile B. Levisetti', 'Kate Woods', 'J. Miller Tobin', 'Christopher Gorham', 'Larysa Kondracki', 'Ken Girotti'], 'Starring': ['Piper Perabo', 'Christopher Gorham', 'Peter Gallagher']}\nReview Text: But still enjoyable to watch. I like to watch it when I'm doing stuff around the house or working from home.\nReview Title: Fun & a little predictable\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Stephen Kay', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Allan Kroeker', 'Jamie Barber', 'Emile B. Levisetti', 'Kate Woods', 'J. Miller Tobin', 'Christopher Gorham', 'Larysa Kondracki', 'Ken Girotti'], 'Starring': ['Piper Perabo', 'Christopher Gorham', 'Peter Gallagher']}\nBut still enjoyable to watch. I like to watch it when I'm doing stuff around the house or working from home.\nFun & a little predictable",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys media that incorporates elements of violence, alcohol use, and adult themes, suggesting a preference for mature content.\n- **Viewing Context:** Prefers watching during multitasking activities like household chores or while working from home, indicating a penchant for background entertainment.\n- **Rating Trend:** Generally positive evaluator, as shown by average ratings around 4.0 to 4.5, reflecting a balanced approach to enjoyment versus critique.\n- **Engagement with Genre:** Shows interest in narratives that might be considered light or entertaining, with a hint of predictability, which suggests a preference for accessible storytelling rather than complex plots. \n\nOverall, this user favors enjoyable, character-driven content that complements an active lifestyle while maintaining a discerning eye for quality.",
+  "metrics": {
+    "rouge1_f": 0.17435897435897435,
+    "rouge2_f": 0.04145077720207254,
+    "rougeL_f": 0.13333333333333333,
+    "meteor": 0.1319798832839071,
+    "bleu1": 0.18867924528301888,
+    "bleu2": 0.04887069548308309,
+    "bleu3": 0.024777974152366756,
+    "bleu4": 0.009937295332810315,
+    "bertscore_precision": 0.41243383288383484,
+    "bertscore_recall": 0.42959555983543396,
+    "bertscore_f1": 0.420839786529541
+  }
+}

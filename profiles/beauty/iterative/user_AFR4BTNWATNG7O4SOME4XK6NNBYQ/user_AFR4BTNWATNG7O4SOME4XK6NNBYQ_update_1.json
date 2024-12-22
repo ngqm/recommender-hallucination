@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Savon de Marseille, Jasmine fragrance, 5.3 Oz Bar soap, Marius Fabre\nReview Date: 2014/11/14\nStore: Marius Fabre\nAverage Rating: 4.5\nProduct Details: {'Item Form': 'Bar', 'Brand': 'Marius Fabre', 'Age Range (Description)': 'Adult', 'Unit Count': '5.3 Ounce', 'Item Package Quantity': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 1 x 2 inches; 4.8 Ounces', 'Item model number': 'HB150JA'}\nReview Text: The bar is rather small..but the jasmine is overly pungent! In a good way..I'm wondering could it be chemically enhanced? Most jasmine's are rather light in nature. Regardless this bar is for a special occasion like my birthday 2015\nReview Title: blooms in jasmine\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Savon de Marseille, Jasmine fragrance, 5.3 Oz Bar soap, Marius Fabre\nMarius Fabre\n{'Item Form': 'Bar', 'Brand': 'Marius Fabre', 'Age Range (Description)': 'Adult', 'Unit Count': '5.3 Ounce', 'Item Package Quantity': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3 x 1 x 2 inches; 4.8 Ounces', 'Item model number': 'HB150JA'}\nThe bar is rather small..but the jasmine is overly pungent! In a good way..I'm wondering could it be chemically enhanced? Most jasmine's are rather light in nature. Regardless this bar is for a special occasion like my birthday 2015\nblooms in jasmine",
+  "profile": "**User Preferences Summary:**\n\n- **Fragrance Preference:** Strong inclination towards floral scents, particularly jasmine. The user appreciates intense, well-defined fragrances that stand out, indicating a preference for products with potent aromatic profiles.\n\n- **Product Form:** Favorable towards bar soaps, suggesting a preference for solid forms over liquids or gels.\n\n- **Context of Use:** Indicates use for special occasions, hinting at a tendency to seek luxurious or distinctive products for memorable events.\n\n- **Brand Affinity:** Shows an inclination toward reputable brands known for quality and craftsmanship, valuing both product integrity and overall experience.\n\n- **Product Evaluation:** Tends to rate products positively, demonstrating a discerning yet appreciative approach to purchases.\n\n- **Sensory Experience:** The mention of the fragrance being \"overly pungent\" in a positive light suggests a strong interest in sensory experiences that evoke strong feelings or memories.\n\nOverall, this user values quality personal care products with compelling scents, particularly floral fragrances, and seeks unique items for special occasions.",
+  "metrics": {
+    "rouge1_f": 0.176,
+    "rouge2_f": 0.04032258064516129,
+    "rougeL_f": 0.152,
+    "meteor": 0.14582693822603734,
+    "bleu1": 0.16113744075829384,
+    "bleu2": 0.027700562204909598,
+    "bleu3": 0.007160504581767501,
+    "bleu4": 0.0036449526124416732,
+    "bertscore_precision": 0.4062040448188782,
+    "bertscore_recall": 0.3979625999927521,
+    "bertscore_f1": 0.4020410478115082
+  }
+}

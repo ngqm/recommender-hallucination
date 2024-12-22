@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Hairro Curly Ponytail Drawstring 18 Inch #12 Light Brown\nReview Date: 2022/07/22\nStore: Hairro\nAverage Rating: 3.6\nProduct Details: {'Material': 'Synthetic', 'Hair Type': 'Wavy, Curly, Coily', 'Style': 'Curly', 'Special Feature': 'Heat Resistant', 'Brand': 'Hairro', 'Package Dimensions': '12.4 x 8.03 x 1.69 inches; 5.61 Ounces'}\nReview Text: It\u2019s not great, but I also guess it\u2019s not horrible. It tangles easily and the combs don\u2019t really have a purpose and pokes you in the scalp. It\u2019s extremely heavy, & definitely has a synthetic look to it. But maybe add some baby powder or dry shampoo to get rid of the shine?\nReview Title: You get what you pay for.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Hairro Curly Ponytail Drawstring 18 Inch #12 Light Brown\nHairro\n{'Material': 'Synthetic', 'Hair Type': 'Wavy, Curly, Coily', 'Style': 'Curly', 'Special Feature': 'Heat Resistant', 'Brand': 'Hairro', 'Package Dimensions': '12.4 x 8.03 x 1.69 inches; 5.61 Ounces'}\nIt\u2019s not great, but I also guess it\u2019s not horrible. It tangles easily and the combs don\u2019t really have a purpose and pokes you in the scalp. It\u2019s extremely heavy, & definitely has a synthetic look to it. But maybe add some baby powder or dry shampoo to get rid of the shine?\nYou get what you pay for.",
+  "profile": "**User Profile Summary:**\n\n- **Hair Care Preferences:** The user has a specific interest in curly hairstyles and is inclined towards products that cater to wavy, curly, or coily hair types, highlighting a preference for styles that enhance natural curl patterns.\n\n- **Material Sensitivity:** The user appears to prefer products that offer heat resistance but is wary of synthetic materials due to their tendency to tangle and display an unnatural appearance.\n\n- **Product Quality Expectation:** The user expresses moderate dissatisfaction with quality, indicating a critical stance on value for money. They recognize the trade-off between cost and quality, suggesting they may favor budget-friendly options but expect a fair performance.\n\n- **Practical Usage Insights:** Concern about product weight and comfort, along with practical suggestions for maintenance (e.g., using baby powder or dry shampoo), indicates a hands-on approach and desire for manageability in their hair care routine.\n\n- **Overall Satisfaction:** The low ratings given suggest this user values functionality and comfort over aesthetics, marking them as someone who prioritizes practicality and realistic expectations over an idealized outcome.\n\nThis initial profile indicates a user who seeks functional solutions in hair care but remains critical of quality, particularly with synthetic options.",
+  "metrics": {
+    "rouge1_f": 0.22297297297297297,
+    "rouge2_f": 0.05442176870748299,
+    "rougeL_f": 0.13513513513513511,
+    "meteor": 0.208753965871592,
+    "bleu1": 0.15102040816326534,
+    "bleu2": 0.055629852553722256,
+    "bleu3": 0.03368037613351437,
+    "bleu4": 0.02370480336477928,
+    "bertscore_precision": 0.4473293423652649,
+    "bertscore_recall": 0.41017740964889526,
+    "bertscore_f1": 0.42794856429100037
+  }
+}

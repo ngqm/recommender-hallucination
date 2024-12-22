@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ChapStick (1) Pack Lip Balm Sticks - 3pc Set Includes: Peaches & Cream, Strawberries & Cream, Bananas & Cream - Paraben Free\nReview Date: 2020/05/26\nStore: Nuonove\nProduct Description: ['3 pc set of chapstick , peaches & cream / strawberries & cream / bananas & cream']\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Nuonove', 'Color': 'Cream White', 'Skin Type': 'All', 'Item Form': 'balm', 'Finish Type': 'Cream', 'Package Dimensions': '5.79 x 3.07 x 0.63 inches; 0.14 Ounces', 'Item model number': 'sdw2', 'UPC': '305732017259'}\nReview Text: love \ud83d\udc98 it will buy it again\nReview Title: love \ud83d\udc98 it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "12 Inch Short Human Hair Clip on Extensions Thin Remy Hair Clip on Blunt Cut for Women Natural Black\nHairro\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Brand': 'Hairro', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.81 x 7.48 x 1.22 inches; 6.88 Ounces', 'UPC': '603004878639'}\nLove it\nThe price\nNail Repair size2\nCherioll\n['Information [package] Box Contents: 5ml.']\n{'Brand': 'Cherioll', 'Item Form': 'Gel', 'Item Weight': '0.02 Pounds', 'Liquid Volume': '400 Milliliters', 'Unit Count': '40.5 Fl Oz', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.6 x 7 x 2 inches; 0.32 Ounces', 'Item model number': 'SG_B012XY3YLM_US', 'Manufacturer': 'CARES'}\nLove it\nLove it\nChapStick (1) Pack Lip Balm Sticks - 3pc Set Includes: Peaches & Cream, Strawberries & Cream, Bananas & Cream - Paraben Free\nNuonove\n['3 pc set of chapstick , peaches & cream / strawberries & cream / bananas & cream']\n{'Brand': 'Nuonove', 'Color': 'Cream White', 'Skin Type': 'All', 'Item Form': 'balm', 'Finish Type': 'Cream', 'Package Dimensions': '5.79 x 3.07 x 0.63 inches; 0.14 Ounces', 'Item model number': 'sdw2', 'UPC': '305732017259'}\nlove \ud83d\udc98 it will buy it again\nlove \ud83d\udc98 it",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Type Preference:** User continues to favor high-quality products, now extending their interest to lip care items, showcasing an appreciation for effective, everyday essentials.\n- **Hair Texture and Style:** Interest remains in straight hairstyles and blunt cuts, reflecting a commitment to sleek and polished aesthetics.\n- **Quality Focus:** The user's recent purchase of a highly-rated lip balm indicates a consistent priority for quality items, reinforcing their long-standing dedication to products that deliver satisfaction across various categories.\n- **Affordability Valuation:** While the user prioritizes cost-effectiveness in hair purchases, their endorsement of well-rated lip care products suggests a balanced approach to affordability and quality, indicating they are willing to invest in highly-rated items regardless of category.\n- **Overall Satisfaction:** User expresses enthusiasm and personal satisfaction with products, focusing on their individual value rather than collective ratings. This trend reinforces their tendency to seek out products that resonate with their personal preferences.\n\nThis profile illustrates a versatile user who seeks high-quality solutions in both hair and personal care products, demonstrating a holistic approach to personal grooming while being mindful of budget considerations.",
+  "metrics": {
+    "rouge1_f": 0.10298102981029811,
+    "rouge2_f": 0.010899182561307902,
+    "rougeL_f": 0.04878048780487805,
+    "meteor": 0.06679958508686053,
+    "bleu1": 0.07773830399142395,
+    "bleu2": 0.005028882778913949,
+    "bleu3": 0.00202168946243022,
+    "bleu4": 0.0012832494114164853,
+    "bertscore_precision": 0.33827850222587585,
+    "bertscore_recall": 0.34617429971694946,
+    "bertscore_f1": 0.34218087792396545
+  }
+}

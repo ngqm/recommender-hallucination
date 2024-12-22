@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: COSYCODE Blonde Bob Wig with Bangs 12 inches Short Synthetic Wigs for Daily Wear Halloween Party\nReview Date: 2019/06/18\nAverage Rating: 3.3\nProduct Details: {'Hair Type': 'Curly', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.7 x 6.8 x 2.5 inches; 8.01 Ounces', 'UPC': '682228998477'}\nReview Text: Look ok. Color is not of the picture. Very dull. If the wind blow all my black hair underneath is shown. If flipped behind ear all my hair will be exposed\nReview Title: No smiles over here\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "eNilecor Short Hair Wigs Pixie Cut Light Blonde Natrual Curly Wigs for Women with Side Bangs Trendy Synthetic Wig with Wigs Cap (7.8\" Blonde)\neNilecor\n{'Item Dimensions LxWxH': '8.3 x 4 x 1.6 inches', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'eNilecor', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8.3 x 4 x 1.6 inches; 8.64 Ounces', 'UPC': '711508239747', 'Manufacturer': 'eNilecor'}\nA hot mess. That's all I can say about that. Too short to do anything to it.\nDON'T\nCOSYCODE Blonde Bob Wig with Bangs 12 inches Short Synthetic Wigs for Daily Wear Halloween Party\n{'Hair Type': 'Curly', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Package Dimensions': '10.7 x 6.8 x 2.5 inches; 8.01 Ounces', 'UPC': '682228998477'}\nLook ok. Color is not of the picture. Very dull. If the wind blow all my black hair underneath is shown. If flipped behind ear all my hair will be exposed\nNo smiles over here",
+  "profile": "**User Profile Summary**\n\n- **Hair Accessories**: Continues to show interest in wigs, particularly short styles. The user has encountered negative experiences, specifically with color discrepancies and coverage.\n- **Style Preference**: Prefers modern and trendy looks, evidenced by the choice of styles like bob wigs with bangs, although recent selections indicate dissatisfaction with execution.\n- **Quality Expectations**: Maintains high standards for product quality. Recent dissatisfaction highlights a strong preference for accurate representations and dependable performance in products.\n- **Feedback Tendencies**: Remains direct and critical in reviews, reflecting a straightforward communication style and significant frustration with underperforming items.\n- **Product Selection**: Favors synthetic options for convenience, yet encounters notable issues with certain products regarding appearance and functionality.\n- **Interaction History**: The user consistently provides feedback when unsatisfied, showing engagement and a clear investment in the quality and efficacy of hair accessories.\n\nOverall, the user is focused on trendy hair solutions with a strong emphasis on both quality and appearance. Disappointments with product performance have reinforced a critical viewpoint, driving a high demand for reliable, well-represented options in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.17159763313609466,
+    "rouge2_f": 0.017857142857142856,
+    "rougeL_f": 0.10059171597633135,
+    "meteor": 0.11516731855714907,
+    "bleu1": 0.15584415584415584,
+    "bleu2": 0.008231544729143728,
+    "bleu3": 0.0030929701890945647,
+    "bleu4": 0.001898008219637955,
+    "bertscore_precision": 0.3646507263183594,
+    "bertscore_recall": 0.3813006281852722,
+    "bertscore_f1": 0.3727898895740509
+  }
+}

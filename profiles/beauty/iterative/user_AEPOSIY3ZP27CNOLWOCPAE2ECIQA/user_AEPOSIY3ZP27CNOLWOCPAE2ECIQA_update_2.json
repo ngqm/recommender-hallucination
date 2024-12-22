@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SEATTLE Eyelashes 5 Pairs Pack 3D Fake Eyelashes Mink Fur Hand-Made Dramatic Thick Crisscross Deluxe False Lashes Black Nature Fluffy Long Soft Reusable\nReview Date: 2019/09/02\nStore: ALICROWN HAIR\nAverage Rating: 4.2\nProduct Details: {'Brand': 'ALICROWN HAIR', 'Material': 'Mink Fur', 'Item Dimensions LxWxH': '6.1 x 3.75 x 0.5 inches', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Product Dimensions': '6.1 x 3.75 x 0.5 inches; 0.81 Ounces', 'UPC': '680613003638'}\nReview Text: Recommend this purchase may have to curl up a little but they are beautiful! I love them! They give me the look I desire! You will not be disappointed!\nReview Title: Must buy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ALICROWN 25mm Mink 3D Lashes Long Volume Mink Eyelashes False Strip Eyelashes 3 Pack\nALICROWN HAIR\n{'Brand': 'ALICROWN HAIR', 'Material': 'Mink Fur', 'Item Dimensions LxWxH': '6.7 x 4.4 x 0.5 inches', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Product Dimensions': '6.7 x 4.4 x 0.5 inches; 0.81 Ounces', 'UPC': '680613003713'}\nTHESE LASHES WERE GREAT! They are amazing and they looked beautiful\nMust buy\nSEATTLE Eyelashes 5 Pairs Pack 3D Fake Eyelashes Mink Fur Hand-Made Dramatic Thick Crisscross Deluxe False Lashes Black Nature Fluffy Long Soft Reusable\nALICROWN HAIR\n{'Brand': 'ALICROWN HAIR', 'Material': 'Mink Fur', 'Item Dimensions LxWxH': '6.1 x 3.75 x 0.5 inches', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Product Dimensions': '6.1 x 3.75 x 0.5 inches; 0.81 Ounces', 'UPC': '680613003638'}\nRecommend this purchase may have to curl up a little but they are beautiful! I love them! They give me the look I desire! You will not be disappointed!\nMust buy",
+  "profile": "**User Profile Summary**\n\n**Preferences:**\n- Beauty and Personal Care: Continues to show a strong interest in cosmetic products, especially false eyelashes and eye cosmetics.\n- Quality Focus: Reaffirms commitment to high-quality materials with a notable admiration for cruelty-free options, consistently seeking products that enhance beauty while being ethically sourced.\n- Aesthetic Appeal: Values visually striking products, with recent feedback emphasizing beauty and the desired dramatic effect of the lashes.\n\n**Behavior Patterns:**\n- Positive Engagement: Maintains a habit of leaving enthusiastic reviews, consistently awarding products top ratings and expressing satisfaction with their purchases.\n- Influenced by Experience: Demonstrates loyalty to brands that provide positive experiences, evident in the endorsement for repeat purchasing based on recent interactions.\n\n**Trends:**\n- Cruelty-Free Options: Continues to prioritize ethically sourced products, reflecting an alignment with sustainable consumer practices.\n- Specific Product Types: Sustains a defined interest in false eyelashes and related beauty items, showcasing a desire for variety within this niche.\n\nThis profile indicates a user deeply committed to enhancing their beauty routine through high-quality, visually appealing, and ethically produced products, reinforcing their role as a discerning consumer in the beauty industry.",
+  "metrics": {
+    "rouge1_f": 0.14245014245014245,
+    "rouge2_f": 0.011461318051575933,
+    "rougeL_f": 0.09686609686609687,
+    "meteor": 0.09649910233393176,
+    "bleu1": 0.11304347826086955,
+    "bleu2": 0.007025949352653815,
+    "bleu3": 0.002787137497294669,
+    "bleu4": 0.0017573664514383201,
+    "bertscore_precision": 0.3578062057495117,
+    "bertscore_recall": 0.3717176616191864,
+    "bertscore_f1": 0.3646292984485626
+  }
+}

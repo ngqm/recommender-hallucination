@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: IQ:Natural Eco-Smart Formula Mineral Fair 2 Foundation 12g (MED BEIGE)\nReview Date: 2014/05/07\nStore: iQ Natural\nAverage Rating: 4.2\nProduct Details: {'Item Form': 'Powder', 'Finish Type': 'Natural', 'Package Information': 'Bottle', 'Brand': 'IQ Natural', 'Skin Tone': 'Medium', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.8 x 4.1 x 1.2 inches; 0.42 Ounces'}\nReview Text: the color of this make is so unreal I couldnt believe it. the price was good so I ordered it, I went back and looked at all of the shades and none of them look real also really light I am a light blonde and I still looked like the bride of frankenstien not worth the money to send back they need to fix the colors to human shades the mineral veil is nice will buy again sorry\nReview Title: orange yikes\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "IQ:Natural Eco-Smart Formula Mineral Fair 2 Foundation 12g (MED BEIGE)\niQ Natural\n{'Item Form': 'Powder', 'Finish Type': 'Natural', 'Package Information': 'Bottle', 'Brand': 'IQ Natural', 'Skin Tone': 'Medium', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.8 x 4.1 x 1.2 inches; 0.42 Ounces'}\nthe color of this make is so unreal I couldnt believe it. the price was good so I ordered it, I went back and looked at all of the shades and none of them look real also really light I am a light blonde and I still looked like the bride of frankenstien not worth the money to send back they need to fix the colors to human shades the mineral veil is nice will buy again sorry\norange yikes",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Engages with mineral makeup products, specifically foundations.\n- **Skin Tone Consideration:** Values appropriateness of shades for medium to fair skin tones, indicating a need for realistic color matching.\n- **Feedback on Color Accuracy:** Strong aversion to unflattering or artificial color representations; experiences disappointment when products do not meet color expectations.\n- **Value Sensitivity:** Looks for products that are reasonably priced, demonstrating an interest in cost-effectiveness while still prioritizing quality.\n- **Mixed Experiences:** While appreciative of some product aspects (e.g., a complementary mineral veil), the user expresses dissatisfaction with specific foundation shades, indicating a careful approach to repurchasing after negative experiences. \n- **Overall Rating Tendency:** Shows a dual tendency where the average rating is markedly impacted by extreme opinions, suggesting that either exceptional or poor experiences significantly influence overall satisfaction.\n\nThis summary reflects a user who is discerning about cosmetic quality and color accuracy, seeking products that offer true-to-skin finishes and match their specific skin tone.",
+  "metrics": {
+    "rouge1_f": 0.2229965156794425,
+    "rouge2_f": 0.014035087719298246,
+    "rougeL_f": 0.10452961672473868,
+    "meteor": 0.1700418000759608,
+    "bleu1": 0.1822429906542056,
+    "bleu2": 0.029250656318964317,
+    "bleu3": 0.007390011651079222,
+    "bleu4": 0.003718889107971135,
+    "bertscore_precision": 0.4075499475002289,
+    "bertscore_recall": 0.4044423997402191,
+    "bertscore_f1": 0.40599021315574646
+  }
+}

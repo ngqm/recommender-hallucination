@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sigma 3DHD - Precision Brush - Pink\nReview Date: 2015/04/25\nAverage Rating: 4.2\nProduct Details: {'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Brass', 'Item Dimensions LxWxH': '2 x 1 x 8 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2 x 1 x 8 inches; 0.35 Ounces', 'Item model number': '3DP02'}\nReview Text: This is another great brush from Sigma! I now have 4 Sigma brushes and all four are of outstanding quality. This little brush does exactly  what Sigma's website says it will do (see the video on their site) and I highly recommend it. I no longer see any reason to pay $40 and up for one makeup brush when Sigma offers such a large variety of brushes at half the price!\nReview Title: Another win for Sigma\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sigma 3DHD - Precision Brush - Pink\n{'Skin Type': 'All', 'Item Form': 'Wand', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Brass', 'Item Dimensions LxWxH': '2 x 1 x 8 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2 x 1 x 8 inches; 0.35 Ounces', 'Item model number': '3DP02'}\nThis is another great brush from Sigma! I now have 4 Sigma brushes and all four are of outstanding quality. This little brush does exactly  what Sigma's website says it will do (see the video on their site) and I highly recommend it. I no longer see any reason to pay $40 and up for one makeup brush when Sigma offers such a large variety of brushes at half the price!\nAnother win for Sigma",
+  "profile": "**User Profile Summary:**\n\n- **Brand Loyalty:** Strong preference for Sigma products, indicative of trust in quality and value.\n- **Value-Conscious:** Looks for affordable options without compromising on quality, contrasting high-priced alternatives.\n- **Quality Focused:** Prioritizes high-quality makeup tools, with a positive perception of design and functionality.\n- **Frequency of Use:** Regular use of brushes, suggesting a commitment to makeup application and beauty routines.\n- **Cosmetics Enthusiast:** Enthusiasm for cosmetics tools indicates an interest in makeup artistry or beauty applications.\n- **Skin Type & Age Range:** Engages with products suitable for all skin types and adult demographics, suggesting versatility in product selection.\n- **Positive Reviewer:** Tends to provide positive reviews, reinforcing satisfaction with purchases.\n\nOverall, this user showcases a clear preference for effective, high-quality beauty tools that offer good value, illustrating their dedication to enhancing their makeup application experience while maintaining cost-effectiveness.",
+  "metrics": {
+    "rouge1_f": 0.19157088122605365,
+    "rouge2_f": 0.03088803088803089,
+    "rougeL_f": 0.0996168582375479,
+    "meteor": 0.13068393927281988,
+    "bleu1": 0.18686868686868685,
+    "bleu2": 0.043556216882595804,
+    "bleu3": 0.009891938569274793,
+    "bleu4": 0.004720113101438075,
+    "bertscore_precision": 0.4122123420238495,
+    "bertscore_recall": 0.4263680577278137,
+    "bertscore_f1": 0.4191707372665405
+  }
+}

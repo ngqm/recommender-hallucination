@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MyGift Luxuriously Soft Padded Spa Bath Pillow / Cushion - Hinged Dual Sections, w/ Premium Suction Cups\nReview Date: 2014/09/28\nStore: YRMJK\nProduct Description: ['MyGift Luxuriously Soft Padded Spa Bath Pillow / Cushion - Hinged Dual Sections, w/ Premium Suction Cups']\nAverage Rating: 3.0\nProduct Details: {'Brand': 'YRMJK', 'Item Dimensions LxWxH': '14.5 x 2 x 13 inches', 'Item Weight': '0.57 Pounds', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14.5 x 2 x 13 inches; 9.12 Ounces', 'UPC': '887702050430', 'Manufacturer': 'HealthMarket'}\nReview Text: This bath pillow has made soaking much more pleasant. The suction cups really hold in place and the pillow cradles my head very comfortably. It is easy to keep clean and a perfect addition to my bathing. It was also a very good value price-wise. I am most pleased with this purchase.\nReview Title: Excellent bath pillow with perfect suction\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "MyGift Luxuriously Soft Padded Spa Bath Pillow / Cushion - Hinged Dual Sections, w/ Premium Suction Cups\nYRMJK\n['MyGift Luxuriously Soft Padded Spa Bath Pillow / Cushion - Hinged Dual Sections, w/ Premium Suction Cups']\n{'Brand': 'YRMJK', 'Item Dimensions LxWxH': '14.5 x 2 x 13 inches', 'Item Weight': '0.57 Pounds', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '14.5 x 2 x 13 inches; 9.12 Ounces', 'UPC': '887702050430', 'Manufacturer': 'HealthMarket'}\nThis bath pillow has made soaking much more pleasant. The suction cups really hold in place and the pillow cradles my head very comfortably. It is easy to keep clean and a perfect addition to my bathing. It was also a very good value price-wise. I am most pleased with this purchase.\nExcellent bath pillow with perfect suction",
+  "profile": "**User Profile Summary:**\n\n- **Bathing Comfort:** The user highly values comfort during bath time, as indicated by their positive review of a spa bath pillow that enhances their soaking experience.\n  \n- **Practicality:** They appreciate functional features such as effective suction for stability and ease of cleaning, highlighting a preference for user-friendly products.\n\n- **Value Consciousness:** The user is inclined towards products that offer good value for money, suggesting a tendency to weigh quality against price in their purchasing decisions.\n\n- **Positive Experience Expectation:** Given the user's satisfaction reflected in the high rating, they expect products to perform well and improve their overall experience.\n\n- **Emphasis on Comfort and Quality:** The choice of a cushioned item indicates a preference for softness and quality in relaxation products. \n\nOverall, this user demonstrates a clear trend towards prioritizing comfort, practicality, and value in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.22058823529411764,
+    "rouge2_f": 0.022222222222222223,
+    "rougeL_f": 0.125,
+    "meteor": 0.1560246222719642,
+    "bleu1": 0.20540540540540542,
+    "bleu2": 0.04725111056958085,
+    "bleu3": 0.010685404906474412,
+    "bleu4": 0.005088331422087426,
+    "bertscore_precision": 0.3881649672985077,
+    "bertscore_recall": 0.4035392999649048,
+    "bertscore_f1": 0.3957028388977051
+  }
+}

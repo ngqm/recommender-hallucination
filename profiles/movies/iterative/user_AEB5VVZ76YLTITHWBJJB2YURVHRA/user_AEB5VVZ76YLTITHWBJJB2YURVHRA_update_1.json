@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/02/05\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Farrelly'], 'Producers': ['Peter Farrelly', 'Charles B. Wessler', 'Nick Vallelonga', 'Jim Burke', 'Brian Currie'], 'Starring': ['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini'], 'Studio': ['Universal Pictures']}\nReview Text: Cost ?\nReview Title: Cost?\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Farrelly'], 'Producers': ['Peter Farrelly', 'Charles B. Wessler', 'Nick Vallelonga', 'Jim Burke', 'Brian Currie'], 'Starring': ['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini'], 'Studio': ['Universal Pictures']}\nCost ?\nCost?",
+  "profile": "**User Profile Summary:**\n\n- **Rating Trends**: Strong preference for high-quality content, as indicated by an average rating of 4.8 across reviews.\n  \n- **Content Preferences**: Enjoys productions with notable themes such as violence, complexity, and mature subject matter, including alcohol use and sexual content.\n\n- **Language and Accessibility**: Values options for English audio and captioning, indicating a need for accessible formats.\n\n- **Collaboration**: Appreciates works involving specific acclaimed directors and producers, suggesting a preference for well-produced content from reputable sources.\n\n- **Critique Focus**: Tends to express value-based feedback, considering the cost in comparison to overall quality.\n\n- **Viewer Engagement**: May expect a thoughtful portrayal of characters and narratives, indicated by a keen interest in the content advisory details.\n\nOverall, the user appears to be discerning, seeking content that balances quality with engaging storytelling while being mindful of accessibility options. The emphasis on cost also indicates a pragmatic approach to entertainment spending.",
+  "metrics": {
+    "rouge1_f": 0.14432989690721648,
+    "rouge2_f": 0.041666666666666664,
+    "rougeL_f": 0.13402061855670105,
+    "meteor": 0.09554140127388536,
+    "bleu1": 0.09852216748768473,
+    "bleu2": 0.006983791967221538,
+    "bleu3": 0.0028950907181139796,
+    "bleu4": 0.001866332993966641,
+    "bertscore_precision": 0.3998762369155884,
+    "bertscore_recall": 0.3474588394165039,
+    "bertscore_f1": 0.3718292713165283
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mr. Pristine Organic Beard Conditioner to Grow, Thicken, Moisturize and Protect Your Beard, 8.5 oz.\nReview Date: 2020/09/07\nStore: Mr. Pristine\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Mr. Pristine', 'Material Feature': 'Natural', 'Hair Type': 'Dry', 'Age Range (Description)': 'Adult', 'Unit Count': '8.5 Fl Oz', 'Package Dimensions': '3.1 x 2.5 x 2.36 inches; 7.76 Ounces', 'UPC': '627843801825', 'Manufacturer': 'Mr. Pristine'}\nReview Text: This is a really nice conditioner specifically designed for your beard. I recommend starting with Mr.. Pristine's shampoo first. It has a nice minty smell that doesn't over power and leaves your beard and skin feeling soft and smelling good. I recommend this to anyone with a beard.\nReview Title: Highly recommend. Buy their shampoo as well.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mr. Pristine Organic Beard Shampoo with Natural Essential Oils for Moisturizing Skin & Hair, 8.5 oz.\nMr. Pristine\n{'Brand': 'Mr. Pristine', 'Item Form': 'Liquid', 'Hair Type': 'Color Treated', 'Scent': 'Peppermint', 'Age Range (Description)': 'Adult', 'Package Dimensions': '5.21 x 2.8 x 2.3 inches; 7.76 Ounces', 'UPC': '627843801832', 'Manufacturer': 'Mr. Pristine'}\nThis is a really nice shampoo specifically designed for your beard. It has a nice minty smell that doesn't over power and leaves your beard and skin feeling soft and smelling good. Also,grab their conditioner. I recommend this to anyone with a beard. Notable upgrade from traditional soap or shampoo.\nGreat stuff for your beard.\nMr. Pristine Organic Beard Conditioner to Grow, Thicken, Moisturize and Protect Your Beard, 8.5 oz.\nMr. Pristine\n{'Brand': 'Mr. Pristine', 'Material Feature': 'Natural', 'Hair Type': 'Dry', 'Age Range (Description)': 'Adult', 'Unit Count': '8.5 Fl Oz', 'Package Dimensions': '3.1 x 2.5 x 2.36 inches; 7.76 Ounces', 'UPC': '627843801825', 'Manufacturer': 'Mr. Pristine'}\nThis is a really nice conditioner specifically designed for your beard. I recommend starting with Mr.. Pristine's shampoo first. It has a nice minty smell that doesn't over power and leaves your beard and skin feeling soft and smelling good. I recommend this to anyone with a beard.\nHighly recommend. Buy their shampoo as well.",
+  "profile": "User Summary:\n\nThis user is dedicated to grooming products that enhance beard care, with a strong preference for organic and natural formulations. They consistently seek out items with moisturizing properties that promote skin and hair health, indicating a deep awareness of ingredient quality. Their appreciation for products with pleasant and subtle scents continues, particularly enjoying mint fragrances that provide a refreshing experience without being overpowering. Recent interactions highlight their emphasis on high-quality beard conditioners and shampoos, showcasing their belief in the synergy of using complementary products for optimal care. Notably, they express satisfaction in recommending these grooming solutions, demonstrating both contentment with their purchases and a commitment to sharing positive experiences with others. Overall, this user values effective, scented, and skin-friendly grooming products that enhance their beard care regimen, and they actively advocate for products that align with these priorities.",
+  "metrics": {
+    "rouge1_f": 0.23561643835616436,
+    "rouge2_f": 0.016528925619834708,
+    "rougeL_f": 0.11506849315068493,
+    "meteor": 0.10286677908937605,
+    "bleu1": 0.11628785492777936,
+    "bleu2": 0.01666571100209449,
+    "bleu3": 0.004056809758724514,
+    "bleu4": 0.002004784908671412,
+    "bertscore_precision": 0.3461064100265503,
+    "bertscore_recall": 0.4190821647644043,
+    "bertscore_f1": 0.37911444902420044
+  }
+}

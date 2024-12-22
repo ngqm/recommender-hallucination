@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Face Cradle Cover - APPEARUS Massage Fitted Headrest Covers (6 Count/BD1005x6)\nReview Date: 2013/07/12\nStore: APPEARUS\nAverage Rating: 3.9\nProduct Details: {'Brand': 'APPEARUS', 'Age Range (Description)': 'Adult', 'Product Care Instructions': 'Machine Wash', 'Package Dimensions': '11.9 x 4.2 x 1.2 inches; 1.6 Ounces', 'UPC': '794168357655'}\nReview Text: I purchased this cover January 17, 2011 when I started massage therapy school. I will also mention that when I made my purchase, it was sold as one cover for $8.50. It is a very long lasting cover! Not only did it survive 7 months of use in school, it has been part of my cover collection used for almost 2 years in my practice. It has been laundered and has held up beautifully - no rips, tears, fading or loss of softness. I am considering purchasing more now as my clientele has grown. With the current offer of $32 for a pack of 6, that makes each cover only a little over $5 each. With the track record the one I already have has, I am more than confident in purchasing more!\nReview Title: Lasts and Lasts\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Face Cradle Cover - APPEARUS Massage Fitted Headrest Covers (6 Count/BD1005x6)\nAPPEARUS\n{'Brand': 'APPEARUS', 'Age Range (Description)': 'Adult', 'Product Care Instructions': 'Machine Wash', 'Package Dimensions': '11.9 x 4.2 x 1.2 inches; 1.6 Ounces', 'UPC': '794168357655'}\nI purchased this cover January 17, 2011 when I started massage therapy school. I will also mention that when I made my purchase, it was sold as one cover for $8.50. It is a very long lasting cover! Not only did it survive 7 months of use in school, it has been part of my cover collection used for almost 2 years in my practice. It has been laundered and has held up beautifully - no rips, tears, fading or loss of softness. I am considering purchasing more now as my clientele has grown. With the current offer of $32 for a pack of 6, that makes each cover only a little over $5 each. With the track record the one I already have has, I am more than confident in purchasing more!\nLasts and Lasts",
+  "profile": "**User Profile Summary:**\n\nThe user demonstrates a preference for durable, high-quality massage accessories, specifically headrest covers. Their experience indicates a strong commitment to massage therapy, participating in both education and practice, suggesting a professional level of engagement in this field. The user values longevity and cost-effectiveness, as evidenced by their satisfaction with the product's durability over two years of active use and consideration of bulk purchasing to accommodate a growing clientele. They appreciate practical features such as machine washability, highlighting a preference for low-maintenance items. Their consistent positive rating reflects a discerning taste for reliable products that withstand wear and tear in a professional setting. Overall, the user exhibits a trend towards investing in products that enhance their therapy practice, favoring functionality, and value in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.2483660130718954,
+    "rouge2_f": 0.019736842105263157,
+    "rougeL_f": 0.1372549019607843,
+    "meteor": 0.15488830253656913,
+    "bleu1": 0.19335014969787956,
+    "bleu2": 0.028920809586318902,
+    "bleu3": 0.007142012131522492,
+    "bleu4": 0.0035552640851689373,
+    "bertscore_precision": 0.4051118791103363,
+    "bertscore_recall": 0.46007096767425537,
+    "bertscore_f1": 0.43084579706192017
+  }
+}

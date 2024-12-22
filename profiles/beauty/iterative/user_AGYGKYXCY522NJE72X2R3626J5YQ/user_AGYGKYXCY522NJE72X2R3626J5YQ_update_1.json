@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Girls False Bangs Neat Fringe Hairpiece Side Clip-on Hair Extensions Extension Black\u2026\nReview Date: 2015/12/10\nStore: Silmei\nAverage Rating: 3.3\nProduct Details: {'Brand': 'Silmei', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Clip-In', 'Package Dimensions': '5.8 x 4 x 0.4 inches; 0.81 Ounces', 'UPC': '794168455092'}\nReview Text: Very cute. Didn't look good on me but easy to put on.\nReview Title: Would purchase again\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Girls False Bangs Neat Fringe Hairpiece Side Clip-on Hair Extensions Extension Black\u2026\nSilmei\n{'Brand': 'Silmei', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Clip-In', 'Package Dimensions': '5.8 x 4 x 0.4 inches; 0.81 Ounces', 'UPC': '794168455092'}\nVery cute. Didn't look good on me but easy to put on.\nWould purchase again",
+  "profile": "**User Summary:**\n\n- **Product Interest:** Hair accessories/extensions, specifically those that enhance appearance.\n- **Styling Preferences:** Favor products that are easy to apply or install, indicating a preference for user-friendly solutions.\n- **Material Sensitivity:** Shows a preference for natural-looking materials, as observed from the emphasis on human hair in the purchase.\n- **Aesthetic Appreciation:** Values cute and visually appealing products, even if they may not suit her personally.\n- **Purchase Behavior:** Open to repurchasing and likely values practicality and ease of use in her purchases, as suggested by the intention to buy again despite some drawbacks.\n- **Rating Trends:** Generally positive about products even with minor issues, indicating a tendency toward optimism in her evaluations.\n\nThis profile hints at a user who enjoys experimenting with hair fashion but prioritizes convenience and natural aesthetics in her choices.",
+  "metrics": {
+    "rouge1_f": 0.18749999999999997,
+    "rouge2_f": 0.021052631578947368,
+    "rougeL_f": 0.10416666666666666,
+    "meteor": 0.13333333333333333,
+    "bleu1": 0.12568306010928962,
+    "bleu2": 0.026278627520035288,
+    "bleu3": 0.007252853876619502,
+    "bleu4": 0.0038156064089157845,
+    "bertscore_precision": 0.4224492609500885,
+    "bertscore_recall": 0.39670079946517944,
+    "bertscore_f1": 0.40917032957077026
+  }
+}

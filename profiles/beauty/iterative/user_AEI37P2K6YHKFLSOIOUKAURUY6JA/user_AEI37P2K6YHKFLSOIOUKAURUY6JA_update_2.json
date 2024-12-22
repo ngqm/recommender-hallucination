@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: False Lashes Faux Mink Eyelashes 30 Pairs Fluffy Wispy Eye Lashes Pack 3D Natural Look 17mm Eyelashes Wholesale\nReview Date: 2020/11/20\nStore: HeyAlice\nAverage Rating: 4.2\nProduct Details: {'Brand': 'HeyAlice', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Package Dimensions': '10.55 x 6.97 x 0.67 inches; 1.76 Ounces'}\nReview Text: These look amazing! These lashes are really soft and lightweight! It comes in a 3 pack of 3 different styles from natural to more dramatic. You also get gemstones! You can wear these lashes for daily purposes or a night out. Highly recommend! Super affordable for the price!\nReview Title: Amazing affordable lashes!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JIMIRE 20 Pairs False Eyelashes Natural Short Lashes Pack Bulk Eyelashes Multipack\nJIMIRE\n{'Brand': 'JIMIRE', 'Material': 'Synthetic', 'Material Feature': 'Latex Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.7 x 4.9 x 0.9 inches; 1.59 Ounces', 'UPC': '680580997350'}\nThese lashes are very comparable to the Ardell demi wispies. They feel amazing and lightweight and with proper care, they can last a week per pair maybe even 2 weeks. Whenever I wear them they look very natural and is excellent for everyday wear.\nGreat deal for amazing lashes!\nFalse Lashes Faux Mink Eyelashes 30 Pairs Fluffy Wispy Eye Lashes Pack 3D Natural Look 17mm Eyelashes Wholesale\nHeyAlice\n{'Brand': 'HeyAlice', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Package Dimensions': '10.55 x 6.97 x 0.67 inches; 1.76 Ounces'}\nThese look amazing! These lashes are really soft and lightweight! It comes in a 3 pack of 3 different styles from natural to more dramatic. You also get gemstones! You can wear these lashes for daily purposes or a night out. Highly recommend! Super affordable for the price!\nAmazing affordable lashes!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Continues to favor natural-looking false eyelashes, now showing a preference for a variety of styles within a single pack, from natural to dramatic options.\n- **Quality Sensitivity:** Values high-quality materials such as faux mink and cotton, emphasizing comfort and a realistic appearance while also appreciating cruelty-free options.\n- **Longevity:** Prefers products that offer good value for money, as demonstrated by a positive review of an affordable multi-pack.\n- **Versatility:** Looks for products suitable for both everyday wear and special occasions, indicating a desire for versatility in her beauty routine.\n- **Positive Review Behavior:** Regularly expresses satisfaction in reviews, highlighting a willingness to endorse products that exceed her expectations. The most recent review showcases enthusiasm for affordable quality options, reinforcing her discerning taste.\n- **Brand Comparison:** Displays familiarity with various brands and a keen interest in finding affordable yet high-quality choices, suggesting ongoing comparison with popular options.\n\nOverall, the user prioritizes comfort, appearance, and value, particularly in beauty-related purchases, and appreciates a wide range of styles for different occasions.",
+  "metrics": {
+    "rouge1_f": 0.23592493297587133,
+    "rouge2_f": 0.03773584905660377,
+    "rougeL_f": 0.1126005361930295,
+    "meteor": 0.13567131666523313,
+    "bleu1": 0.19790635624617328,
+    "bleu2": 0.04718767854843868,
+    "bleu3": 0.02031786306117982,
+    "bleu4": 0.007505506142494646,
+    "bertscore_precision": 0.3926336169242859,
+    "bertscore_recall": 0.43205249309539795,
+    "bertscore_f1": 0.4114009737968445
+  }
+}

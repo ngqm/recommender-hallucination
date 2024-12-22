@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Body Brush with Super Comfy Bristles for Universal Skin,Long Bamboo Handle Gentle Exfoliation Improve Skin's Health and Beauty Wet or Dry Brushing Back Scrubber for Shower\nReview Date: 2021/01/31\nStore: Zhaoyun\nProduct Description: ['Bath Body Exfoliating Brush,Shower Back Cleaning Scrubber with Long Handle,Dry or Wet Skin Exfoliator Brush with Soft Bristles Back Washer', 'Perfect for Daily Hygiene and Sensitive Skin.', 'Soft Nylon Bristles Be Easier to produce abundant foam,Just add some gel on it and rub the bristles.', 'This Brush will help you a better bath experience, Feel Fresh and Renewed Every Day.', 'Long Reach Handle', 'The Extended 16 inches Long Handle Will Use More Friendly.', 'Note\uff1athis brush bristles is too soft so if you want to exfoliate, we recommend using it with a body scrub.']\nAverage Rating: 4.4\nProduct Details: {'Product Dimensions': '17 x 4 x 2 inches; 7.55 Ounces', 'Manufacturer': 'Zhaoyun'}\nReview Text: the bristles were surprisingly close together and soft. I love this product.\nReview Title: very soft and dense\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Body Brush with Super Comfy Bristles for Universal Skin,Long Bamboo Handle Gentle Exfoliation Improve Skin's Health and Beauty Wet or Dry Brushing Back Scrubber for Shower\nZhaoyun\n['Bath Body Exfoliating Brush,Shower Back Cleaning Scrubber with Long Handle,Dry or Wet Skin Exfoliator Brush with Soft Bristles Back Washer', 'Perfect for Daily Hygiene and Sensitive Skin.', 'Soft Nylon Bristles Be Easier to produce abundant foam,Just add some gel on it and rub the bristles.', 'This Brush will help you a better bath experience, Feel Fresh and Renewed Every Day.', 'Long Reach Handle', 'The Extended 16 inches Long Handle Will Use More Friendly.', 'Note\uff1athis brush bristles is too soft so if you want to exfoliate, we recommend using it with a body scrub.']\n{'Product Dimensions': '17 x 4 x 2 inches; 7.55 Ounces', 'Manufacturer': 'Zhaoyun'}\nthe bristles were surprisingly close together and soft. I love this product.\nvery soft and dense",
+  "profile": "**User Profile Summary:**\n\nThe user shows a distinct preference for personal care products, specifically those focused on skin health and hygiene. They are inclined towards items that incorporate gentle exfoliation and comfort, highlighting an appreciation for soft and effective materials. The emphasis on sensitivity indicates a priority for products that are suitable for a range of skin types, affirming a desire for versatility. \n\nTheir positive feedback reveals a trend towards enjoying products that enhance the bathing experience, embodying a holistic approach to self-care. The user values convenience, as suggested by the preference for items with a long handle for easier reach and usability. \n\nOverall, this user is likely to favor products that combine functionality with a soothing experience, aligning with their interest in maintaining skin vitality while ensuring daily hygiene.",
+  "metrics": {
+    "rouge1_f": 0.26480836236933797,
+    "rouge2_f": 0.04912280701754385,
+    "rougeL_f": 0.14634146341463414,
+    "meteor": 0.1666025033562347,
+    "bleu1": 0.17566763451131243,
+    "bleu2": 0.051604853414878346,
+    "bleu3": 0.011065504573504215,
+    "bleu4": 0.005132840535468998,
+    "bertscore_precision": 0.40000686049461365,
+    "bertscore_recall": 0.4405503273010254,
+    "bertscore_f1": 0.41930079460144043
+  }
+}

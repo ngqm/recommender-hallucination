@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nReview Date: 2017/02/24\nStore: AVON\nAverage Rating: 4.3\nProduct Details: {'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nReview Text: Beautiful soft scent I remember my mother wearing. Smells just as nice today.\nReview Title: Beautiful fragrance. I get compliments.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.\nAVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.\nAVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.",
+  "profile": "**User Summary:**\n\nThis individual maintains a strong appreciation for classic fragrances that evoke nostalgia and personal connections, particularly those associated with familial memories. Their recent purchase reinforces their preference for soft, pleasant scents that resonate with past experiences, further emphasizing a consistent desire for subtlety in fragrance over overpowering aromas. The user's positive engagement with modern interpretations of traditional scents reflects their enjoyment of fragrances that seamlessly blend classic elegance with contemporary appeal.\n\nTheir recent review highlights a nostalgic connection to fragrances worn by their mother, showcasing an ongoing trend toward scents that enhance personal presence while being gentle enough to invite compliments. The user\u2019s high ratings consistently demonstrate satisfaction with product quality and emotional resonance, underscoring their appreciation for timeless scents that evoke strong memories. Overall, the user's profile reflects a clear tendency towards enjoying gentle, nostalgic aromas that effectively merge charm from the past with present-day sensibilities, enriching their personal narrative and social interactions through the fragrances they choose.",
+  "metrics": {
+    "rouge1_f": 0.07222222222222222,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06111111111111111,
+    "meteor": 0.05631003643590594,
+    "bleu1": 0.0506683765243804,
+    "bleu2": 0.01165583941299207,
+    "bleu3": 0.0033210262727456793,
+    "bleu4": 0.001775149328887314,
+    "bertscore_precision": 0.3216512203216553,
+    "bertscore_recall": 0.3521924912929535,
+    "bertscore_f1": 0.33622971177101135
+  }
+}

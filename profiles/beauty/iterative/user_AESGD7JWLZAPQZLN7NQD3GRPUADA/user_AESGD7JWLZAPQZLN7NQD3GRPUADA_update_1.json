@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Kristin Ess The Oversized Satin Scrunchie ? Cheetah\nReview Date: 2022/05/09\nStore: Kristin Ess\nProduct Description: ['But make it fashun! This chic satin, oversized scrunchie can be wrapped once or twice depending on the thickness of your hair. Try securing your ponytail with a regular elastic first and then put this over to maximize the look!']\nAverage Rating: 4.5\nProduct Details: {'Material': 'Satin', 'Item Form': 'Scrunchie', 'Brand': 'Kristin Ess', 'Hair Type': 'All', 'Number of Pieces': '1', 'Package Dimensions': '10.55 x 6.26 x 1.46 inches; 1.13 Ounces', 'Item model number': '184-KES-0309', 'UPC': '840797141438'}\nReview Text: this rust/burnt orange colored scrunchie is exactly what I wanted. It holds bun in place overnight<br />I have both thin and fine hair and wrap it 3 times around a messy top knot bun<br />I feel it would look great and effortless wrapped once or twice for someone with thicker or fuller hair<br />it is accurately described oversized\nReview Title: love it! super soft large scrunchie great hold\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Kristin Ess The Oversized Satin Scrunchie ? Cheetah\nKristin Ess\n['But make it fashun! This chic satin, oversized scrunchie can be wrapped once or twice depending on the thickness of your hair. Try securing your ponytail with a regular elastic first and then put this over to maximize the look!']\n{'Material': 'Satin', 'Item Form': 'Scrunchie', 'Brand': 'Kristin Ess', 'Hair Type': 'All', 'Number of Pieces': '1', 'Package Dimensions': '10.55 x 6.26 x 1.46 inches; 1.13 Ounces', 'Item model number': '184-KES-0309', 'UPC': '840797141438'}\nthis rust/burnt orange colored scrunchie is exactly what I wanted. It holds bun in place overnight<br />I have both thin and fine hair and wrap it 3 times around a messy top knot bun<br />I feel it would look great and effortless wrapped once or twice for someone with thicker or fuller hair<br />it is accurately described oversized\nlove it! super soft large scrunchie great hold",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user prefers hair accessories, specifically oversized scrunchies made from soft materials like satin.\n- **Color Trends:** The user is attracted to warm tones, such as rust or burnt orange, indicating a preference for earthy color palettes.\n- **Functionality:** Values functionality and hold in hair accessories, as shown by the ability to secure hairstyles overnight and accommodate different hair types (both thin/fine and thick).\n- **Aesthetic Appeal:** Appreciates a chic and fashionable look, indicating a preference for stylish yet practical items that enhance overall appearance.\n- **Experience with Variability:** Demonstrates awareness of different hair types and adaptability in using products for various styling needs, showcasing versatility in handling hair accessories.\n- **Positive Feedback:** The user tends to prioritize comfort and performance in their evaluations, as reflected in their high rating and satisfaction with the purchase. \n\nOverall, the user seeks fashionable yet functional hair accessories that offer reliable performance while being aesthetically pleasing.",
+  "metrics": {
+    "rouge1_f": 0.27184466019417475,
+    "rouge2_f": 0.026058631921824105,
+    "rougeL_f": 0.1488673139158576,
+    "meteor": 0.14236622484045167,
+    "bleu1": 0.21904761904761907,
+    "bleu2": 0.010237552111150686,
+    "bleu3": 0.0036935414057261097,
+    "bleu4": 0.0022212101155040364,
+    "bertscore_precision": 0.41275525093078613,
+    "bertscore_recall": 0.4411715269088745,
+    "bertscore_f1": 0.4264906048774719
+  }
+}

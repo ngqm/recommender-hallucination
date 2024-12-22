@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: TUKNON Toenail Corrector Patch Kit 100 Pre\nReview Date: 2020/07/27\nStore: TUKNON\nAverage Rating: 4.5\nProduct Details: {'Brand': 'TUKNON', 'Item Form': 'Wipes,Tablets', 'Specific Uses For Product': 'Camera, Eyewear', 'Material Feature': 'Glue Free', 'Unit Count': '100 Count', 'Package Dimensions': '5.5 x 4.25 x 2.5 inches; 8.01 Ounces', 'UPC': '754407654068 754407655782', 'Manufacturer': 'VISUMALL FOOX'}\nReview Text: I got this for my cellphone to desinfect them after getting home from work because my daughter play with my phone and now with covid-19 we have to be more careful. They do the job and that's what I'm looking for . They are not to moistened  and is great because you want to clean your lens,phone,camera not give a shower.  This wipes is only alcohol with water and to much could damage your device.<br /><br />Recommendation<br />Don't use wipes for sunglasses, it could damage them. Use better warm water and soap for desinfect thing them if you don't have the right cleaner.\nReview Title: Does the job\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "TUKNON Toenail Corrector Patch Kit 100 Pre\nTUKNON\n{'Brand': 'TUKNON', 'Item Form': 'Wipes,Tablets', 'Specific Uses For Product': 'Camera, Eyewear', 'Material Feature': 'Glue Free', 'Unit Count': '100 Count', 'Package Dimensions': '5.5 x 4.25 x 2.5 inches; 8.01 Ounces', 'UPC': '754407654068 754407655782', 'Manufacturer': 'VISUMALL FOOX'}\nI got this for my cellphone to desinfect them after getting home from work because my daughter play with my phone and now with covid-19 we have to be more careful. They do the job and that's what I'm looking for . They are not to moistened  and is great because you want to clean your lens,phone,camera not give a shower.  This wipes is only alcohol with water and to much could damage your device.<br /><br />Recommendation<br />Don't use wipes for sunglasses, it could damage them. Use better warm water and soap for desinfect thing them if you don't have the right cleaner.\nDoes the job",
+  "profile": "**User Profile Summary:**\n\n- **Health and Hygiene Focus:** The user emphasizes cleanliness, particularly in the context of protecting their devices from germs, especially during health concerns like COVID-19.\n  \n- **Device Care:** Prefers products suitable for cleaning electronics without causing damage, indicating a thoughtful approach to maintaining the longevity of their devices.\n\n- **Practicality:** Values products that effectively serve their intended purpose, as evidenced by their satisfaction with cleaning wipes that balance moisture content.\n\n- **Caution in Use:** Shows awareness of proper usage guidelines, such as avoiding certain products on delicate items like sunglasses, suggesting a cautious and informed mindset.\n\n- **Preference for Alcohol-based Solutions:** Encouraged by the effectiveness of alcohol and water solutions for disinfection, indicating a likelihood of choosing similar cleaning products in the future.\n\nOverall, the user displays a pattern of prioritizing health, functionality, and device protection in their purchases, showcasing a proactive approach to personal hygiene and care for electronics.",
+  "metrics": {
+    "rouge1_f": 0.19871794871794873,
+    "rouge2_f": 0.0064516129032258064,
+    "rougeL_f": 0.09615384615384615,
+    "meteor": 0.12863268222963314,
+    "bleu1": 0.2176915840293013,
+    "bleu2": 0.03217741733768615,
+    "bleu3": 0.007910130708914423,
+    "bleu4": 0.0039268981676728815,
+    "bertscore_precision": 0.3805050849914551,
+    "bertscore_recall": 0.4097869098186493,
+    "bertscore_f1": 0.39460352063179016
+  }
+}

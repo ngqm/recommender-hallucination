@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Rossy&Nancy Cheap Braided Synthetic Lace Front Wigs for Black Women Natural Black Color 24inch\nReview Date: 2016/11/20\nStore: Rossy&Nancy\nAverage Rating: 2.9\nProduct Details: {'Color': 'Black', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Brand': 'Rossy&Nancy', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.6 x 7.1 x 2.6 inches; 2.53 Pounds'}\nReview Text: Nice wig easy to maintain long braids  all or even a can be glued on or sewd on the wig is full of braids I'm happy with this product looks real\nReview Title: Happy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "3 Part Lace Closure 4x4 Body Wave Human Hair Closure Piece with Baby Hair Natural Black Color No Bleached Knots (10 inch)\n{'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5.24 x 0.39 inches; 1.59 Ounces', 'UPC': '605175459785'}\nGreat texture\nFive Stars\nRossy&Nancy Cheap Braided Synthetic Lace Front Wigs for Black Women Natural Black Color 24inch\nRossy&Nancy\n{'Color': 'Black', 'Material': 'Synthetic', 'Hair Type': 'Straight', 'Brand': 'Rossy&Nancy', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.6 x 7.1 x 2.6 inches; 2.53 Pounds'}\nNice wig easy to maintain long braids  all or even a can be glued on or sewd on the wig is full of braids I'm happy with this product looks real\nHappy",
+  "profile": "**Updated User Profile Summary:**\n\n- **Product Preference:** The user continues to favor human hair products, particularly closures with a wavy texture, indicating a consistent bias towards high-quality, natural-looking options. They show interest in synthetic products as well, expanding their exploration to functional styles.\n- **Style Preference:** Their lean towards modern styles is reinforced by the recent purchase of a curly hairpiece, aligning with contemporary trends, while also appreciating practicality with easy-to-maintain options like long braids.\n- **Quality Focus:** Despite a lower average rating on a recent synthetic purchase, the user still emphasizes quality, as indicated by their previous consistent feedback. The satisfaction expressed in their latest review shows they value realistic appearances, even in synthetic products.\n- **Simplicity in Use:** The user's preference for low-maintenance options is still evident. Their recent interaction showcases a comfort with products that are easy to style and maintain, despite the underlying material differences.\n- **Positive Feedback:** The user's history of positive experiences continues, as they express satisfaction with their new purchase, particularly highlighted in the review\u2019s positive sentiment.\n- **Age Range:** The consistency with the adult demographic indicates a sustained preference for products that cater to more sophisticated and elegant styles.\n\nOverall, the user appreciates high-quality, versatile hair products that provide ease of use, maintaining an open yet discerning approach to both human and synthetic options.",
+  "metrics": {
+    "rouge1_f": 0.1912568306010929,
+    "rouge2_f": 0.027472527472527472,
+    "rougeL_f": 0.12021857923497269,
+    "meteor": 0.1159488878371983,
+    "bleu1": 0.12237762237762238,
+    "bleu2": 0.02930512467938914,
+    "bleu3": 0.006712066783070574,
+    "bleu4": 0.0032151081980952177,
+    "bertscore_precision": 0.38777732849121094,
+    "bertscore_recall": 0.37471163272857666,
+    "bertscore_f1": 0.3811325430870056
+  }
+}

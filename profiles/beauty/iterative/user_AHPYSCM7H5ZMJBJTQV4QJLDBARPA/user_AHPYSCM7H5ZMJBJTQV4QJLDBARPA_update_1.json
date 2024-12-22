@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nReview Date: 2017/02/24\nStore: AVON\nAverage Rating: 4.3\nProduct Details: {'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nReview Text: Beautiful soft scent I remember my mother wearing. Smells just as nice today.\nReview Title: Beautiful fragrance. I get compliments.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "AVON Classics Collection Cologne Spray - Odyssey 1.7 Fl.Oz. (50mL)\nAVON\n{'Brand': 'AVON', 'Item Form': 'Spray', 'Item Volume': '50 Milliliters', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5 x 1.75 x 1.5 inches; 6.4 Ounces', 'UPC': '888761147253'}\nBeautiful soft scent I remember my mother wearing. Smells just as nice today.\nBeautiful fragrance. I get compliments.",
+  "profile": "**User Summary:**\n\nThis individual has a strong appreciation for classic fragrances that evoke nostalgia and personal connections, particularly to familial memories. Their preference leans towards soft and pleasant scents, indicating a desire for subtlety in fragrance rather than overpowering aromas. They exhibit a positive engagement with brands that offer modern interpretations of traditional products, as highlighted by their enjoyment of a specific AVON cologne. The user values fragrances that receive compliments, showcasing a social aspect to their preferences, and likely prioritizes scents that enhance personal presence without being intrusive. Their high rating reflects both satisfaction with product quality and emotional resonance. Overall, the user exhibits a trend towards favoring scents that blend classic elegance with contemporary appeal.",
+  "metrics": {
+    "rouge1_f": 0.1208791208791209,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06593406593406594,
+    "meteor": 0.10658016682113067,
+    "bleu1": 0.12686567164179102,
+    "bleu2": 0.009766663864336715,
+    "bleu3": 0.004165235075622727,
+    "bleu4": 0.002725284296762902,
+    "bertscore_precision": 0.38160091638565063,
+    "bertscore_recall": 0.38870763778686523,
+    "bertscore_f1": 0.38512149453163147
+  }
+}

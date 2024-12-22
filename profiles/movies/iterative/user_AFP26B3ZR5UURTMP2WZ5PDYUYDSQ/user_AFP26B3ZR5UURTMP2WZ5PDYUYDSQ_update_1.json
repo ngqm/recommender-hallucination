@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/13\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Beeman', 'Olatunde Osunsanmi', 'Sergio Mimica-Gezzan', 'Adam Kane', 'Jonathan Frakes', 'David Solomon', 'Holly Dale', 'Frederick E.O. Toye', 'Carl Franklin', 'Anthony Hemingway'], 'Starring': ['Noah Wyle', 'Moon Bloodgood', 'Will Patton'], 'Studio': ['TNT']}\nReview Text: Great writers, producers, director. Excellent cast. Story plot just keeps getting better. Excellent special effects and acting. I'm hooked. One of the best series on television today.\nReview Title: Top Show on TV\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Beeman', 'Olatunde Osunsanmi', 'Sergio Mimica-Gezzan', 'Adam Kane', 'Jonathan Frakes', 'David Solomon', 'Holly Dale', 'Frederick E.O. Toye', 'Carl Franklin', 'Anthony Hemingway'], 'Starring': ['Noah Wyle', 'Moon Bloodgood', 'Will Patton'], 'Studio': ['TNT']}\nGreat writers, producers, director. Excellent cast. Story plot just keeps getting better. Excellent special effects and acting. I'm hooked. One of the best series on television today.\nTop Show on TV",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for high-quality television series characterized by compelling storytelling, excellent direction, and robust performances. They particularly appreciate work from talented writers and a notable cast, indicating a focus on the overall production quality. Their ratings suggest a tendency to favor well-crafted narratives with engaging plots and impressive special effects. The user's choice of genres leans towards drama or science fiction, as inferred from their enthusiasm about plot development. The focus on English audio and subtitles suggests a comfort with content in English, possibly indicating a preference for domestic productions. Overall, this user values shows that excel in creative craftsmanship and can deliver a captivating viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.20320855614973263,
+    "rouge2_f": 0.010810810810810811,
+    "rougeL_f": 0.0962566844919786,
+    "meteor": 0.12387466532797857,
+    "bleu1": 0.1879482398689867,
+    "bleu2": 0.03773394657721906,
+    "bleu3": 0.010282090767102205,
+    "bleu4": 0.0053777544719310144,
+    "bertscore_precision": 0.4076068699359894,
+    "bertscore_recall": 0.4240615963935852,
+    "bertscore_f1": 0.4156714379787445
+  }
+}

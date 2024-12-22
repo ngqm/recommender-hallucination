@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/07/03\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ron Howard'], 'Producers': ['Brian Grazer', 'John Calley'], 'Starring': ['Tom Hanks', 'Audrey Tautou', 'Jean Reno']}\nReview Text: Doesn't hold up to the book, but it's a pretty good movie\nReview Title: Pretty good\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "The Book of Eli\nSuspense, Drama, Bleak, Gritty\n['A lone warrior (Denzel Washington) wanders the post-apocalyptic desert that was once America, battling lawlessness to realize his hope of a better future.']\n{'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Allen Hughes', 'Albert Hughes'], 'Producers': ['Joel Silver', 'Denzel Washington', 'Broderick Johnson', 'David Valdes', 'Andrew A. Kosove'], 'Starring': ['Denzel Washington', 'Gary Oldman', 'Mila Kunis']}\nA bit violent for some, no doubt, but great acting and good story\nbut great acting and good\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Yasuhiro Yoshiura'], 'Producers': ['Takanori Aki', 'Kei Hiroki', 'Tsutomu Nagae', 'Yoshifumi Nakano', 'Michiru Ohshima', 'Mikio Ono', 'Samuel Peralta', 'Masao Teshima'], 'Starring': ['Michael Sinterniklaas', 'Cassandra Lee Morris', 'Bill Lader'], 'Studio': ['GKIDS']}\nI loved it! Creative story!\nGreat story!\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Ron Howard'], 'Producers': ['Brian Grazer', 'John Calley'], 'Starring': ['Tom Hanks', 'Audrey Tautou', 'Jean Reno']}\nDoesn't hold up to the book, but it's a pretty good movie\nPretty good",
+  "profile": "**User Profile Summary:**\n\nThis user has a distinct preference for suspenseful and dramatic content, particularly in gritty or post-apocalyptic settings. They appreciate high-quality acting and narratives with depth, valuing well-developed characters and intricate storytelling. Their recent interactions reflect an enthusiasm for creative storytelling and an appreciation for thought-provoking cinema that challenges viewers. They engage with intense themes and show a tolerance for violence in films, especially when accompanied by compelling performances. Their review style consistently conveys a positive outlook, as seen in their rating of 4.0 for a recent film that, while not meeting the standards of its source material, they still found enjoyable. This demonstrates their capacity to appreciate films on their own merit, despite any shortcomings. The user particularly enjoys films with significant character development and emotionally resonant narratives. They continue to showcase a balanced approach in their critiques, valuing both content quality and personal engagement. Overall, this individual is drawn to diverse storytelling within their preferred genres, maintaining a keen interest in both innovative narratives and high-quality performances.",
+  "metrics": {
+    "rouge1_f": 0.13445378151260504,
+    "rouge2_f": 0.01126760563380282,
+    "rougeL_f": 0.07282913165266106,
+    "meteor": 0.05119453924914675,
+    "bleu1": 0.05672896314258922,
+    "bleu2": 0.01094559575134004,
+    "bleu3": 0.002940801634069663,
+    "bleu4": 0.001526310578974026,
+    "bertscore_precision": 0.3272547721862793,
+    "bertscore_recall": 0.3722420334815979,
+    "bertscore_f1": 0.3483017683029175
+  }
+}

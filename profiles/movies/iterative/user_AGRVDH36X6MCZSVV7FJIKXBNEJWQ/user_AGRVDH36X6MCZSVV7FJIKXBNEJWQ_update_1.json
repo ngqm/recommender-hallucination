@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/23\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vincente Minnelli'], 'Producers': ['Howard W. Koch'], 'Starring': ['Barbra Streisand', 'Yves Montand', 'Bob Newhart']}\nReview Text: Not one of Streisand best musical movies.\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Vincente Minnelli'], 'Producers': ['Howard W. Koch'], 'Starring': ['Barbra Streisand', 'Yves Montand', 'Bob Newhart']}\nNot one of Streisand best musical movies.\nTwo Stars",
+  "profile": "**User Summary:**\n\nThis user shows a discerning taste in film, particularly in musicals. They exhibit a preference for critically acclaimed works, often valuing artistic direction and performance quality. Despite their appreciation for notable stars, they are critical when content does not meet their expectations, as evidenced by a low rating for a specific musical. The user demonstrates a clear inclination towards English audio and subtitles, indicating a preference for accessibility in viewing experiences. Overall, the patterns suggest a user who enjoys classic cinema but sets high standards for narrative and musical execution, willing to express disappointment when these standards are not met.",
+  "metrics": {
+    "rouge1_f": 0.0916030534351145,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04580152671755725,
+    "meteor": 0.07617728531855955,
+    "bleu1": 0.07563025210084033,
+    "bleu2": 0.008005837494214022,
+    "bleu3": 0.003797891554404893,
+    "bleu4": 0.002621455093224222,
+    "bertscore_precision": 0.38855722546577454,
+    "bertscore_recall": 0.34295567870140076,
+    "bertscore_f1": 0.3643350899219513
+  }
+}

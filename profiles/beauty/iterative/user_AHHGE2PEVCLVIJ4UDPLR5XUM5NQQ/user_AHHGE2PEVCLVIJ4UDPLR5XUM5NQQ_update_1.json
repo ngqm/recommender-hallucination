@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: False Eyelashes Faux Mink 20 Pairs 5 Styles Natural Lashes Wispy Fluffy 3D Volume Fake Lashes Pack by HeyAlice\nReview Date: 2021/05/20\nStore: HeyAlice\nAverage Rating: 4.3\nProduct Details: {'Brand': 'HeyAlice', 'Material': 'Faux Mink', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Package Dimensions': '8.9 x 7.6 x 0.55 inches; 1.45 Ounces'}\nReview Text: [[VIDEOID:ddf150995980386ab3068dcb7c2e3a4f]] I absolutely love love these lashes! They aren't heavy at all and I love the different styles included. Very lightweight, fashionable, and stylish. Worth the money and I'd definitely be shopping again!\nReview Title: Love these!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "False Eyelashes Faux Mink 20 Pairs 5 Styles Natural Lashes Wispy Fluffy 3D Volume Fake Lashes Pack by HeyAlice\nHeyAlice\n{'Brand': 'HeyAlice', 'Material': 'Faux Mink', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Package Dimensions': '8.9 x 7.6 x 0.55 inches; 1.45 Ounces'}\n[[VIDEOID:ddf150995980386ab3068dcb7c2e3a4f]] I absolutely love love these lashes! They aren't heavy at all and I love the different styles included. Very lightweight, fashionable, and stylish. Worth the money and I'd definitely be shopping again!\nLove these!",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Shows a strong affinity for false eyelashes, particularly those that are lightweight and stylish, indicating a preference for beauty and cosmetics.\n  \n- **Material Choice:** Favors cruelty-free options, highlighting a preference for ethical products.\n\n- **Variety:** Appreciates variety in styles, as indicated by the enjoyment of multiple lash styles in one purchase.\n\n- **Quality Over Quantity:** Willing to invest in higher-quality products, as suggested by the positive review and high rating.\n\n- **Shopping Behavior:** Engages in repeat purchasing, as indicated by the intention to shop again.\n\n- **Overall Sentiment:** Expresses enthusiasm and satisfaction with products, valuing both functionality and aesthetics. \n\nThis user's preferences lean towards fashionable, ethical beauty products that provide versatility and comfort.",
+  "metrics": {
+    "rouge1_f": 0.18719211822660098,
+    "rouge2_f": 0.03980099502487562,
+    "rougeL_f": 0.10837438423645321,
+    "meteor": 0.16329482565114747,
+    "bleu1": 0.16568047337278108,
+    "bleu2": 0.044411559168432764,
+    "bleu3": 0.010570410576010485,
+    "bleu4": 0.005164661594204148,
+    "bertscore_precision": 0.39974766969680786,
+    "bertscore_recall": 0.41154879331588745,
+    "bertscore_f1": 0.4055624008178711
+  }
+}

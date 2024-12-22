@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/15\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Smith', 'Anton Cropper', 'Christopher Misiano', 'Kevin Bray', 'Roger Kumble', 'Silver Tree', 'John Scott', 'Cherie Nowlan', 'Gabriel Macht', 'Patrick J. Adams'], 'Starring': ['Gabriel Macht', 'Patrick J. Adams', 'Rick Hoffman'], 'Studio': ['USA']}\nReview Text: Great!!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Perry'], 'Producers': ['Ozzie Areu', 'Matt Moore', 'Tyler Perry'], 'Starring': ['Nia Long', 'Amy Smart', 'Cocoa Brown'], 'Studio': ['Lionsgate']}\nIt was great!!!\nFive Stars\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Smith', 'Anton Cropper', 'Christopher Misiano', 'Kevin Bray', 'Roger Kumble', 'Silver Tree', 'John Scott', 'Cherie Nowlan', 'Gabriel Macht', 'Patrick J. Adams'], 'Starring': ['Gabriel Macht', 'Patrick J. Adams', 'Rick Hoffman'], 'Studio': ['USA']}\nGreat!!!\nFive Stars",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for engaging, high-quality entertainment, particularly in film and television. They favor productions by notable filmmakers and appreciate diverse themes, including complex social issues, as indicated by their content advisory tags reflecting substance use, language, and sexual content. The user's recent review shows a pattern of consistently high ratings, underscoring their appreciation for both storytelling and production quality. \n\nThey enjoy accessible content, as evidenced by their attention to audio descriptions and closed captioning, indicating an inclusive approach to viewing. The positive feedback on a recent purchase highlights their affinity for narratives that are both impactful and entertaining, suggesting they enjoy works that blend drama with humor. \n\nThe user seems to appreciate productions featuring a mix of established and emerging talent, as indicated by their engagement with projects that include a diverse range of directors and actors. Their interactions demonstrate a trend toward seeking immersive stories that resonate on multiple levels while maintaining a seamless viewing experience. Overall, they value compelling narratives that offer rich character development and emotional depth, enhanced by a commitment to accessibility and quality.",
+  "metrics": {
+    "rouge1_f": 0.07692307692307693,
+    "rouge2_f": 0.028169014084507043,
+    "rougeL_f": 0.07692307692307693,
+    "meteor": 0.04919466068214228,
+    "bleu1": 0.07628370475700832,
+    "bleu2": 0.005547362628380167,
+    "bleu3": 0.0023191516732743874,
+    "bleu4": 0.001501312803705471,
+    "bertscore_precision": 0.3449500799179077,
+    "bertscore_recall": 0.339602530002594,
+    "bertscore_f1": 0.3422554135322571
+  }
+}

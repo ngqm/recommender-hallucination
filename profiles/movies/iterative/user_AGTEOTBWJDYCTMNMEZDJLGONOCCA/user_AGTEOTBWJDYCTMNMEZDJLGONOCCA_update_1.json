@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/11/02\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'Fran\u00e7ais (Canada)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Espa\u00f1ol (Latinoam\u00e9rica)', '\u65e5\u672c\u8a9e', 'Portugu\u00eas', 'Deutsch', 'Fran\u00e7ais (France)'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Nederlands', 'Portugu\u00eas', 'Svenska'], 'Directors': ['Randall Wallace'], 'Producers': ['Randall Wallace', 'Russell Smith'], 'Starring': ['Leonardo DiCaprio', 'Jeremy Irons', 'John Malkovich'], 'Studio': ['MGM Domestic Television Distri']}\nReview Text: Classic movie. Love Leonardo DiCaprio. If you like action movies especially in this time theme\nReview Title: Love Leonardo DiCaprio\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'Fran\u00e7ais (Canada)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Espa\u00f1ol (Latinoam\u00e9rica)', '\u65e5\u672c\u8a9e', 'Portugu\u00eas', 'Deutsch', 'Fran\u00e7ais (France)'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)', 'Espa\u00f1ol (Espa\u00f1a)', 'Italiano', 'Nederlands', 'Portugu\u00eas', 'Svenska'], 'Directors': ['Randall Wallace'], 'Producers': ['Randall Wallace', 'Russell Smith'], 'Starring': ['Leonardo DiCaprio', 'Jeremy Irons', 'John Malkovich'], 'Studio': ['MGM Domestic Television Distri']}\nClassic movie. Love Leonardo DiCaprio. If you like action movies especially in this time theme\nLove Leonardo DiCaprio",
+  "profile": "**User Summary:**\n\n- **Genres**: Strong preference for action movies and classics, particularly those featuring historical or thematic elements.\n- **Favorites**: Enjoys performances by Leonardo DiCaprio, indicating a preference for films with him in a leading role.\n- **Content Sensitivity**: Open to content with mature themes, including nudity, violence, and foul language, suggesting a tolerance for adult content.\n- **Language Variety**: Shows interest in content available in multiple languages, which may reflect a global perspective or diverse cultural interests.\n- **Overall Rating Behavior**: Tends to rate things positively, as evidenced by an average rating of 4.7 and a perfect 5.0 in at least one review, indicating a generally favorable response to films that resonate with personal preferences. \n\nOverall, the user enjoys critically acclaimed movies, particularly in the action genre, and appreciates strong storytelling and performances from notable actors.",
+  "metrics": {
+    "rouge1_f": 0.15525114155251143,
+    "rouge2_f": 0.03686635944700461,
+    "rougeL_f": 0.10045662100456622,
+    "meteor": 0.10486542544825418,
+    "bleu1": 0.15135135135135136,
+    "bleu2": 0.04056012061438943,
+    "bleu3": 0.00965122547696452,
+    "bleu4": 0.004714319360764303,
+    "bertscore_precision": 0.38388901948928833,
+    "bertscore_recall": 0.39158904552459717,
+    "bertscore_f1": 0.38770079612731934
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: kastu Green Tea Moisturized Face Clean Mask Stick Facial Clean Mud Deep Cleanse Mask for All Skin Types\nReview Date: 2022/05/27\nStore: kastu\nAverage Rating: 3.4\nProduct Details: {'Brand': 'kastu', 'Unit Count': '1.00 Count', 'Recommended Uses For Product': 'Hydrating,Cleansing,Provides Vitamins', 'Material Feature': 'Natural', 'Skin Tone': 'All', 'Product Dimensions': '1.5 x 1.5 x 3.07 inches; 2.89 Ounces', 'UPC': '751474920263'}\nReview Text: I have very sensitive skin and this stuff is great. I have adult acne and break out with my cycle but since using this it hasn't been as bad and I am seeing a visual difference in my pores and this is the only change in my routine. Would recommend even to those with sensitive skin\nReview Title: Works great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "kastu Green Tea Moisturized Face Clean Mask Stick Facial Clean Mud Deep Cleanse Mask for All Skin Types\nkastu\n{'Brand': 'kastu', 'Unit Count': '1.00 Count', 'Recommended Uses For Product': 'Hydrating,Cleansing,Provides Vitamins', 'Material Feature': 'Natural', 'Skin Tone': 'All', 'Product Dimensions': '1.5 x 1.5 x 3.07 inches; 2.89 Ounces', 'UPC': '751474920263'}\nI have very sensitive skin and this stuff is great. I have adult acne and break out with my cycle but since using this it hasn't been as bad and I am seeing a visual difference in my pores and this is the only change in my routine. Would recommend even to those with sensitive skin\nWorks great",
+  "profile": "**User Summary:**\n\n- **Skin Care Focus**: Prioritizes products that cater to sensitive skin, indicating a strong awareness of skin sensitivities and conditions like adult acne.\n- **Effective Results**: Values products that provide visible improvements, especially in reducing breakouts and minimizing the appearance of pores.\n- **Natural Ingredients**: Shows a preference for products described as natural or hydrating, signaling interest in gentle yet effective formulations.\n- **Routine Stability**: Appreciates products that can seamlessly integrate into an existing skincare regimen without causing negative reactions.\n- **Positive Experience Sharing**: Likely to recommend products that yield satisfactory results, particularly for individuals with similar skin concerns.\n- **Rating Pattern**: Tends to rate higher for products that deliver on their promises, especially for sensitive skin solutions. \n\nOverall, the user seeks effective, gentle skincare solutions that address adult acne and enhance overall skin health without irritation.",
+  "metrics": {
+    "rouge1_f": 0.2258064516129032,
+    "rouge2_f": 0.04065040650406505,
+    "rougeL_f": 0.12903225806451615,
+    "meteor": 0.14956437523966534,
+    "bleu1": 0.19148936170212763,
+    "bleu2": 0.06400022755676919,
+    "bleu3": 0.028029586911802684,
+    "bleu4": 0.010445268084811167,
+    "bertscore_precision": 0.42744266986846924,
+    "bertscore_recall": 0.4427132308483124,
+    "bertscore_f1": 0.43494394421577454
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JIMIRE 20 Pairs False Eyelashes Natural Short Lashes Pack Bulk Eyelashes Multipack\nReview Date: 2019/09/10\nStore: JIMIRE\nAverage Rating: 4.2\nProduct Details: {'Brand': 'JIMIRE', 'Material': 'Synthetic', 'Material Feature': 'Latex Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.7 x 4.9 x 0.9 inches; 1.59 Ounces', 'UPC': '680580997350'}\nReview Text: These lashes are very comparable to the Ardell demi wispies. They feel amazing and lightweight and with proper care, they can last a week per pair maybe even 2 weeks. Whenever I wear them they look very natural and is excellent for everyday wear.\nReview Title: Great deal for amazing lashes!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "JIMIRE 20 Pairs False Eyelashes Natural Short Lashes Pack Bulk Eyelashes Multipack\nJIMIRE\n{'Brand': 'JIMIRE', 'Material': 'Synthetic', 'Material Feature': 'Latex Free', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.7 x 4.9 x 0.9 inches; 1.59 Ounces', 'UPC': '680580997350'}\nThese lashes are very comparable to the Ardell demi wispies. They feel amazing and lightweight and with proper care, they can last a week per pair maybe even 2 weeks. Whenever I wear them they look very natural and is excellent for everyday wear.\nGreat deal for amazing lashes!",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Favor natural-looking false eyelashes that are lightweight and durable for everyday use.\n- **Quality Sensitivity:** Values high-quality synthetic materials that provide comfort and a realistic appearance.\n- **Longevity:** Prefers products that can last a significant period with proper care, indicating a focus on value for money.\n- **Brand Comparison:** Shows familiarity with other brands, specifically noting comparison to popular options, suggesting a discerning taste.\n- **Usage Context:** Looks for products suitable for regular, day-to-day wear, emphasizing a desire for versatility.\n- **Positive Review Behavior:** Tends to express satisfaction in reviews, reflecting a willingness to endorse products that meet their standards.\n\nOverall, the user prioritizes comfort, appearance, and value, particularly in beauty-related purchases.",
+  "metrics": {
+    "rouge1_f": 0.22325581395348837,
+    "rouge2_f": 0.07511737089201877,
+    "rougeL_f": 0.12093023255813953,
+    "meteor": 0.16717264081931238,
+    "bleu1": 0.20588235294117646,
+    "bleu2": 0.09234539199981245,
+    "bleu3": 0.053400764816015814,
+    "bleu4": 0.030901637246912746,
+    "bertscore_precision": 0.43303555250167847,
+    "bertscore_recall": 0.4523729085922241,
+    "bertscore_f1": 0.4424930810928345
+  }
+}

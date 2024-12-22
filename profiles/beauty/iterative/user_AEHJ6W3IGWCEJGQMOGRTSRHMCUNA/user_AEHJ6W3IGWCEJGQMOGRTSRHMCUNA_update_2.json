@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: VOOADA Electric for Face, Arm, Waist, Belly, Leg, Hip\nReview Date: 2020/10/03\nStore: VOOADA\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '9.69 x 7.87 x 2.05 inches; 1.37 Pounds', 'UPC': '699936288523'}\nReview Text: Great nail set! At first I thought it didn't come with any attachments, but they're actually on the bottom!\nReview Title: Easy to use!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "DeepDream Portable Electric Nail Drill - Professional Efile Nail Drill Kit For Acrylic, Gel Nails, Manicure Pedicure Polishing Shape Tools with 11Pcs Nail Drill Bits and 36 Sanding Bands\nDeep Dream\n{'Brand': 'Deep Dream', 'Power Source': 'Battery Powered', 'Maximum Rotational Speed': '20000 RPM', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '8 x 4 x 2.6 inches; 10.41 Ounces', 'UPC': '191762584966', 'Manufacturer': 'Deep Dream'}\nJust used the deep dream electric nail drill.\u00a0\u00a0Love it, I will not use nail files again! Loved that it has a speed control where it can be slow to very fast for acrylic nails. It worked great on my natural nails. Will definitely keep using it!\nWorks fantastic! No more nail file for me!\nVOOADA Electric for Face, Arm, Waist, Belly, Leg, Hip\nVOOADA\n{'Package Dimensions': '9.69 x 7.87 x 2.05 inches; 1.37 Pounds', 'UPC': '699936288523'}\nGreat nail set! At first I thought it didn't come with any attachments, but they're actually on the bottom!\nEasy to use!",
+  "profile": "User Profile Summary:\n\n- **Nail Care Enthusiast**: Engaged in professional-grade nail care tools, particularly electric nail drills; recently expanded interest to encompass broader grooming devices.\n- **Preference for Efficiency**: Strong emphasis on tools that simplify the grooming process, showcasing a continued inclination towards technologies that enhance ease of use in personal care routines.\n- **Quality Assurance**: Maintains a high standard for product performance, demonstrated through positive experiences and ratings, as well as a keen appreciation for features like speed control.\n- **Positive Experience with Versatility**: Values products that adapt to various needs, evident from usage across different grooming areas, including various body parts, reinforcing a preference for multifunctional tools.\n- **Consistent Use**: Demonstrates a commitment to integrating purchased products into regular grooming practices, reflecting a focus on sustained care and convenience.\n- **High Standards**: Likely to offer favorable feedback on products that meet or exceed expectations, as seen in past and recent reviews.\n\nThis user values high-quality, versatile grooming tools that promote convenience and efficiency, whether for nail care or other personal grooming needs. Their latest purchase reflects an eagerness to explore innovative solutions that enhance overall grooming routines.",
+  "metrics": {
+    "rouge1_f": 0.14124293785310735,
+    "rouge2_f": 0.017045454545454544,
+    "rougeL_f": 0.096045197740113,
+    "meteor": 0.1234961417770223,
+    "bleu1": 0.17916666666666667,
+    "bleu2": 0.03872082966479754,
+    "bleu3": 0.008572433349631911,
+    "bleu4": 0.00403776464854741,
+    "bertscore_precision": 0.4009632468223572,
+    "bertscore_recall": 0.4175158739089966,
+    "bertscore_f1": 0.4090721905231476
+  }
+}

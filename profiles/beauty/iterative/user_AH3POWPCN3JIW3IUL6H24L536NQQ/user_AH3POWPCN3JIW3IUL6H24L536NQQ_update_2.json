@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 3Pcs Bun Hair Pieces for Women Synthetic Chignon Bun Updo Hair Piece Bun #4\nReview Date: 2020/08/07\nStore: COSYMAY\nAverage Rating: 3.2\nProduct Details: {'Package Dimensions': '6.3 x 5.51 x 2.2 inches; 4.41 Ounces', 'UPC': '738628157393'}\nReview Text: This is super cute, you get three.  My only problem is it totally does not match my hair color.  This is used as a scrunchy you get three and it would allow you to have a fuller bun.. Its super nice how I would solve it is just to buy a hair color spray and spray it to match my hair color. When I do so I will post some pics as an update.  Its beautiful though I just can't use it because it does not match my hair color.\nReview Title: I love these but\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10 Pack Wide Headbands, 4 Style knot Turban Hairband Vintage Head wrap Hair Band Elastic Hair Accessories\nNEWTGAN\n{'Age Range (Description)': 'Adult', 'Material': 'Chiffon', 'Fabric Type': 'Velvet', 'Number of Items': '10', 'Brand': 'NEWTGAN', 'Package Dimensions': '12.87 x 6.97 x 2.95 inches; 10.55 Ounces', 'UPC': '703805015872'}\nLove them all, super comfortable and adorable set... pretty much goes with any clothing.\nSo sweet\n3Pcs Bun Hair Pieces for Women Synthetic Chignon Bun Updo Hair Piece Bun #4\nCOSYMAY\n{'Package Dimensions': '6.3 x 5.51 x 2.2 inches; 4.41 Ounces', 'UPC': '738628157393'}\nThis is super cute, you get three.  My only problem is it totally does not match my hair color.  This is used as a scrunchy you get three and it would allow you to have a fuller bun.. Its super nice how I would solve it is just to buy a hair color spray and spray it to match my hair color. When I do so I will post some pics as an update.  Its beautiful though I just can't use it because it does not match my hair color.\nI love these but",
+  "profile": "**Updated User Profile Summary:**\n\n- **Fashion Acumen:** Exhibits a strong interest in stylish and versatile accessories, suggesting a preference for products that complement a variety of outfits.\n- **Comfort Priority:** Values comfort in fashion items, indicating a preference for materials that feel good to wear.\n- **Positive Reviews:** Tends to provide high ratings for products that meet or exceed expectations in style and comfort, although recent experiences show a willingness to address potential mismatches with customizable solutions.\n- **Trendy Aesthetic:** Leans toward vintage or bohemian styles, appreciating accessories that incorporate unique design elements. The user shows a creative approach to achieving desired looks, suggesting adaptability in their style.\n- **Practical Purchases:** Prefers multi-pack options, indicating a desire for variety and value in choices. \n\nOverall, this user enjoys combining comfort with chic style, focusing on accessories that enhance their wardrobe while providing practical solutions to everyday fashion needs. They are open to customizing accessories to ensure style alignment with personal preferences and demonstrate a commitment to maintaining their unique aesthetic.",
+  "metrics": {
+    "rouge1_f": 0.11797752808988764,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06179775280898877,
+    "meteor": 0.09546033092914721,
+    "bleu1": 0.13373716378480624,
+    "bleu2": 0.00749358197949774,
+    "bleu3": 0.002871970474826724,
+    "bleu4": 0.0017800662271354865,
+    "bertscore_precision": 0.3817540109157562,
+    "bertscore_recall": 0.4210965037345886,
+    "bertscore_f1": 0.4004613161087036
+  }
+}

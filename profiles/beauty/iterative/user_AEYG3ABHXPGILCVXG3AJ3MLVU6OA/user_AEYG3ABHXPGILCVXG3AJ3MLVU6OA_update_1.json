@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: GranNaturals Boar Bristle Smoothing Hair Brush for Women and Men - Medium/Soft Bristles - Natural Wooden Large Flat Square Paddle Hairbrush for Fine, Thin, Straight, Long, or Short Hair\nReview Date: 2015/02/23\nStore: GranNaturals\nAverage Rating: 3.9\nProduct Details: {'Brand': 'GranNaturals', 'Color': 'Brown, Black', 'Shape': 'Square', 'Handle Material': 'Wood', 'Product Benefits': 'Smoothing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10 x 3.43 x 1.57 inches; 4.23 Ounces', 'Item model number': '753807366748000', 'UPC': '753807366748 794168026971', 'Manufacturer': 'Gran Goods'}\nReview Text: This is a really good brush it doesn't just look expensive it performs like the high end brushes , I love everything about it ,I wouldn't change a thing . It's perfect, everyone can use it in your family it 's for all different hair types .\nReview Title: BEST BRUSH\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "GranNaturals Boar Bristle Smoothing Hair Brush for Women and Men - Medium/Soft Bristles - Natural Wooden Large Flat Square Paddle Hairbrush for Fine, Thin, Straight, Long, or Short Hair\nGranNaturals\n{'Brand': 'GranNaturals', 'Color': 'Brown, Black', 'Shape': 'Square', 'Handle Material': 'Wood', 'Product Benefits': 'Smoothing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10 x 3.43 x 1.57 inches; 4.23 Ounces', 'Item model number': '753807366748000', 'UPC': '753807366748 794168026971', 'Manufacturer': 'Gran Goods'}\nThis is a really good brush it doesn't just look expensive it performs like the high end brushes , I love everything about it ,I wouldn't change a thing . It's perfect, everyone can use it in your family it 's for all different hair types .\nBEST BRUSH",
+  "profile": "**User Profile Summary:**\n\n- **Product Affinity:** Preference for high-quality personal grooming tools, specifically hair brushes.\n- **Performance Orientation:** Values functionality and performance over aesthetics, favoring products that deliver results akin to high-end counterparts. \n- **Inclusivity:** Looks for versatile products suitable for a wide range of users, indicating a family-oriented or multi-user preference.\n- **Satisfaction Rating:** Shows a tendency to give high ratings when a product meets or exceeds expectations, as evidenced by a perfect score for the brush.\n- **User Experience:** Prioritizes products that enhance user experience, highlighting satisfaction with both performance and quality.\n\nOverall, this user appreciates well-made, effective grooming products that cater to various needs, signaling a trend toward practicality and quality in their purchasing behavior.",
+  "metrics": {
+    "rouge1_f": 0.17721518987341772,
+    "rouge2_f": 0.01702127659574468,
+    "rougeL_f": 0.10126582278481014,
+    "meteor": 0.10992275698158052,
+    "bleu1": 0.1891773566481827,
+    "bleu2": 0.010608127549129404,
+    "bleu3": 0.0040687770271054715,
+    "bleu4": 0.002523813065087516,
+    "bertscore_precision": 0.37860122323036194,
+    "bertscore_recall": 0.40782636404037476,
+    "bertscore_f1": 0.39267078042030334
+  }
+}

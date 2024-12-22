@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Qiray Hair Ties For Women Coil Hair Ties,Large Lace Phnom Penh,5 Colors 10 Pieces.\nReview Date: 2020/08/26\nStore: Qiray\nAverage Rating: 4.3\nProduct Details: {'Material': 'Rubber', 'Item Form': 'elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '3.15 x 3.15 x 2.36 inches', 'Number of Pieces': '10', 'Product Dimensions': '3.15 x 3.15 x 2.36 inches; 2.82 Ounces', 'UPC': '655160582486'}\nReview Text: I really enjoyed having something this pretty to put in my hair. You get two of each color, and they are very pretty. I don\u2019t have a lot of hair so they were a bit lose on me. With the pearls on them, they really don\u2019t wrap around too many times and look the same. My daughter put them around her bun in her hair. This accentuated the beauty of the hairpiece, and it worked really well-just an idea for these beautiful hair accessories. They are prettier than the pictures. I\u2019ll be interested to see how long they stay together so I\u2019ll put an update later on how well they last. Very pleased with this product so far, but they are not for people with thin hair.\nReview Title: Really beautifully made\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Qiray Hair Ties For Women Coil Hair Ties,Large Lace Phnom Penh,5 Colors 10 Pieces.\nQiray\n{'Material': 'Rubber', 'Item Form': 'elastic', 'Brand': 'Qiray', 'Item Dimensions LxWxH': '3.15 x 3.15 x 2.36 inches', 'Number of Pieces': '10', 'Product Dimensions': '3.15 x 3.15 x 2.36 inches; 2.82 Ounces', 'UPC': '655160582486'}\nI really enjoyed having something this pretty to put in my hair. You get two of each color, and they are very pretty. I don\u2019t have a lot of hair so they were a bit lose on me. With the pearls on them, they really don\u2019t wrap around too many times and look the same. My daughter put them around her bun in her hair. This accentuated the beauty of the hairpiece, and it worked really well-just an idea for these beautiful hair accessories. They are prettier than the pictures. I\u2019ll be interested to see how long they stay together so I\u2019ll put an update later on how well they last. Very pleased with this product so far, but they are not for people with thin hair.\nReally beautifully made",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** Enjoys aesthetically pleasing hair accessories that enhance beauty, particularly those with unique designs or embellishments (e.g., pearls). \n- **User Engagement:** Shows a positive initial experience with products, as evidenced by interest in durability and a willingness to provide future updates on performance.\n- **Hair Type Consideration:** Acknowledges specific needs based on hair type; less ideal for thin hair. Likely seeks versatile uses for products, as demonstrated by using accessories in different styles (e.g., buns).\n- **Color Variety:** Appreciates products that come in multiple color options, indicating a preference for personalization and variety in selections.\n- **Family Orientation:** Engages in shared use of products with family, suggesting a focus on multifunctionality and appeal to a broader audience, particularly with her daughter.\n\nOverall, the user values beauty, functionality, and shared experiences in hair accessory purchases, leaning towards products that combine aesthetics with practicality.",
+  "metrics": {
+    "rouge1_f": 0.24477611940298508,
+    "rouge2_f": 0.012012012012012014,
+    "rougeL_f": 0.11940298507462686,
+    "meteor": 0.16091806973936437,
+    "bleu1": 0.23335935837676017,
+    "bleu2": 0.06308947360273964,
+    "bleu3": 0.025741851091430696,
+    "bleu4": 0.009258234573904598,
+    "bertscore_precision": 0.41523316502571106,
+    "bertscore_recall": 0.4454484283924103,
+    "bertscore_f1": 0.42981040477752686
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/06/15\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Dennis Principe Jr.', 'Julie Auerbach', 'Russell McCarroll', 'Stewart Shields', 'Matthew Ginsburg', 'Gary Auerbach', 'Gail Berman', 'Ron Brody', 'Tina Gazzerro', 'Lloyd Braun'], 'Studio': ['A&E Television Networks']}\nReview Text: I like watching this series....Mr.Meltzer brings in his POV on the subject matter and actually has a couple of people working for him to make the effort of doing their own investigation on the matter in a Non linear and no sides perspective. He calls it as he sees it and he goes to far lengths and very thorough investigation to the people who are experts on the subject matter and none of those people who only had an opinion on the subject.\nReview Title: \"Decoded: One Man;s Honest Opinion\"\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Dennis Principe Jr.', 'Julie Auerbach', 'Russell McCarroll', 'Stewart Shields', 'Matthew Ginsburg', 'Gary Auerbach', 'Gail Berman', 'Ron Brody', 'Tina Gazzerro', 'Lloyd Braun'], 'Studio': ['A&E Television Networks']}\nI like watching this series....Mr.Meltzer brings in his POV on the subject matter and actually has a couple of people working for him to make the effort of doing their own investigation on the matter in a Non linear and no sides perspective. He calls it as he sees it and he goes to far lengths and very thorough investigation to the people who are experts on the subject matter and none of those people who only had an opinion on the subject.\n\"Decoded: One Man;s Honest Opinion\"",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Prefers engaging narratives with depth, particularly those featuring thorough investigations and expert insights. Appreciates diverse perspectives and balanced viewpoints in storytelling.\n\n- **Rating Trends:** Generally positive, with an average rating of 4.6, suggesting a discerning taste and high expectations for quality.\n\n- **Communication Style:** Enjoys content that presents information honestly and transparently, values authenticity in opinions.\n\n- **Language & Accessibility:** Favors content that includes English audio and subtitles, indicating a preference for accessible viewing experiences.\n\n- **Content Advisory:** Tolerant of mature themes, as shown by the acceptance of foul language, signaling a preference for unfiltered and realistic depictions.\n\n- **Engagement with Creators:** Responds positively to creators and producers who are committed to well-researched content, emphasizing the importance of expertise and credibility in the works consumed.\n\nOverall, this user seeks thought-provoking and well-crafted entertainment that provides insightful commentary and expert knowledge, with a preference for mature, authentic representations.",
+  "metrics": {
+    "rouge1_f": 0.28776978417266186,
+    "rouge2_f": 0.02898550724637681,
+    "rougeL_f": 0.12230215827338128,
+    "meteor": 0.16388740692101791,
+    "bleu1": 0.2222222222222222,
+    "bleu2": 0.032844309272143095,
+    "bleu3": 0.008073381372171288,
+    "bleu4": 0.004007597152380889,
+    "bertscore_precision": 0.39017707109451294,
+    "bertscore_recall": 0.4025401175022125,
+    "bertscore_f1": 0.39626216888427734
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Baebody Coconut Milk Body Scrub: With Dead Sea Salt, Almond Oil, and Vitamin E. - Exfoliator, Moisturizer Promoting Radiant Skin 10oz.\nReview Date: 2017/09/10\nStore: Baebody\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Baebody', 'Material Feature': 'Natural', 'Item Volume': '12 Fluid Ounces', 'Number of Items': '1', 'Special Feature': 'Moisturizing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.25 x 2.3 x 2 inches; 12 Ounces', 'Item model number': 'Baebody-Coconut Milk Scrub', 'UPC': '794168026704 858466006070'}\nReview Text: Very messy okay! Not sure if I would buy it again!\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Baebody Coconut Milk Body Scrub: With Dead Sea Salt, Almond Oil, and Vitamin E. - Exfoliator, Moisturizer Promoting Radiant Skin 10oz.\nBaebody\n{'Brand': 'Baebody', 'Material Feature': 'Natural', 'Item Volume': '12 Fluid Ounces', 'Number of Items': '1', 'Special Feature': 'Moisturizing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.25 x 2.3 x 2 inches; 12 Ounces', 'Item model number': 'Baebody-Coconut Milk Scrub', 'UPC': '794168026704 858466006070'}\nVery messy okay! Not sure if I would buy it again!\nThree Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences:** The user shows an interest in body care products, particularly scrubs that offer exfoliating and moisturizing benefits. Natural materials and ingredients are likely important to them, indicating a preference for products that are gentle and beneficial to skin health.\n\n- **Usage Experience:** This user values functionality but is critical of messiness in product application, which suggests they appreciate practicality in their purchases. Their three-star review indicates a moderate level of satisfaction, with room for improvement.\n\n- **Skepticism Towards Repurchase:** The uncertainty expressed about buying the product again highlights a cautious approach to skincare purchases. The user may be open to trying alternatives that balance efficacy with ease of use.\n\n- **Overall Attitude:** The user appears to have a balanced and pragmatic outlook on personal care formulations. Their approach focuses on performance with a thoughtful consideration of product usability and experience. \n\nOverall, the user demonstrates a strong inclination towards natural and effective skincare solutions, tempered with practical expectations and a willingness to explore other options if their needs aren't fully met.",
+  "metrics": {
+    "rouge1_f": 0.13492063492063494,
+    "rouge2_f": 0.008,
+    "rougeL_f": 0.07142857142857144,
+    "meteor": 0.09818731117824774,
+    "bleu1": 0.07834101382488479,
+    "bleu2": 0.006022373940722306,
+    "bleu3": 0.002564674923774982,
+    "bleu4": 0.0016756017326825206,
+    "bertscore_precision": 0.3879340589046478,
+    "bertscore_recall": 0.3724885880947113,
+    "bertscore_f1": 0.3800544738769531
+  }
+}

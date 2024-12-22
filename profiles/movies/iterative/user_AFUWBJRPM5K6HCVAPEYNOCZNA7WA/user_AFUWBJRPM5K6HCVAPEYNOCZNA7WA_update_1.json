@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/08/14\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nReview Text: Very clever story that keeps you on end of chair. Please add season 2 ASAP.  If you like shows about how Americans deal with apocalyptic challenges, this is for you!\nReview Title: Great Show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nVery clever story that keeps you on end of chair. Please add season 2 ASAP.  If you like shows about how Americans deal with apocalyptic challenges, this is for you!\nGreat Show",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Strong interest in storytelling that involves apocalyptic themes and clever narratives. Enjoys plots that create suspense and keep viewers engaged.\n\n- **Rating Tendencies**: Generally positive reviewer, with an average rating around 4.5 to 5.0, indicating satisfaction with selected content.\n\n- **Content Advisory**: Tolerance for mature themes, including violence, alcohol use, foul language, and sexual content. Prefers content that may challenge viewers but remains entertaining.\n\n- **Language and Accessibility**: Interested in English audio with subtitles, indicating a possible preference for clarity and understanding in storytelling.\n\n- **Engagement with Series**: Shows a desire for continuation and expansion of series, suggesting loyalty to shows that resonate emotionally and intellectually.\n\n- **Director and Cast Recognition**: Values works from established directors and familiar ensembles, suggesting an appreciation for quality production values and performances.\n\nOverall, this user favors engaging, thought-provoking entertainment that explores complex scenarios, particularly those reflective of American culture in extreme situations.",
+  "metrics": {
+    "rouge1_f": 0.23376623376623373,
+    "rouge2_f": 0.052401746724890834,
+    "rougeL_f": 0.13852813852813853,
+    "meteor": 0.1217948717948718,
+    "bleu1": 0.14761904761904762,
+    "bleu2": 0.0265765165630679,
+    "bleu3": 0.006976606999409256,
+    "bleu4": 0.003578826200500926,
+    "bertscore_precision": 0.4267732501029968,
+    "bertscore_recall": 0.4153698682785034,
+    "bertscore_f1": 0.4209943413734436
+  }
+}

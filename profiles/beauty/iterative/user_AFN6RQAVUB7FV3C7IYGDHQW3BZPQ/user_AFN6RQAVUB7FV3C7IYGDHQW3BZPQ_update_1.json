@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Nano Botanix | Recovery Night Gel Moisturizer - with Hyaluronic Acid, Dual Peptides, and Color Correction - plus Aloe, Licorice, and Green Tea Extracts - Recover and Repair - 1.7 OZ (50mL)\nReview Date: 2022/08/18\nStore: Nano Botanix\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Nano Botanix', 'Unit Count': '1.70 Fl Oz', 'Number of Items': '1', 'Use for': 'Face', 'Skin Type': 'All', 'Package Dimensions': '6.46 x 1.5 x 1.42 inches; 1.7 Ounces', 'UPC': '850034727271'}\nReview Text: There's really no fragrance which is kind of a bummer BUT the gel is light weight, soaks in well and hydrates beautifully.  I love this product line and tried this as an alternative to the night serum. I love both.  This seems to absorb quicker into my skin. Leaves no greasy residue,  not sticky. Super soft. I highly recommend this and all of their products.  I'm 54 and am enjoying more glowing, youthful looking skin.\nReview Title: After 2 weeks I can see a nice decrease in fine lines\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Nano Botanix | Recovery Night Gel Moisturizer - with Hyaluronic Acid, Dual Peptides, and Color Correction - plus Aloe, Licorice, and Green Tea Extracts - Recover and Repair - 1.7 OZ (50mL)\nNano Botanix\n{'Brand': 'Nano Botanix', 'Unit Count': '1.70 Fl Oz', 'Number of Items': '1', 'Use for': 'Face', 'Skin Type': 'All', 'Package Dimensions': '6.46 x 1.5 x 1.42 inches; 1.7 Ounces', 'UPC': '850034727271'}\nThere's really no fragrance which is kind of a bummer BUT the gel is light weight, soaks in well and hydrates beautifully.  I love this product line and tried this as an alternative to the night serum. I love both.  This seems to absorb quicker into my skin. Leaves no greasy residue,  not sticky. Super soft. I highly recommend this and all of their products.  I'm 54 and am enjoying more glowing, youthful looking skin.\nAfter 2 weeks I can see a nice decrease in fine lines",
+  "profile": "**User Summary:**\n\n- **Age Group**: 54 years old\n- **Skin Care Focus**: Prioritizes products that promote hydration, recovery, and repair, specifically for facial care.\n- **Preferred Product Characteristics**: Enjoys lightweight formulations that absorb well into the skin without leaving a greasy or sticky residue.\n- **Product Usage**: Utilizes night moisturizers and serums, showing a preference for effective skincare routines that visibly improve skin texture and address signs of aging, such as fine lines.\n- **Scent Preference**: Neutral towards fragrance in skincare products; prefers formulations that are unscented or lightly fragranced.\n- **Overall Satisfaction**: Reports high satisfaction with products, indicating trust and a preference for brands that consistently deliver noticeable results, including a glowing and youthful appearance.\n- **Brand Loyalty**: Demonstrates an affinity for a specific product line based on positive experiences, suggesting a tendency to seek out and recommend reliable products.\n- **Evaluation of Products**: Values effectiveness and quick results, using detailed reviews to assess and recommend products to others.\n\nThis profile suggests a user dedicated to skincare, favoring quality and efficacy in their choices as they aim to maintain a youthful appearance while enjoying the process of self-care.",
+  "metrics": {
+    "rouge1_f": 0.3154761904761905,
+    "rouge2_f": 0.017964071856287425,
+    "rougeL_f": 0.11309523809523811,
+    "meteor": 0.2252069470322065,
+    "bleu1": 0.2924901185770751,
+    "bleu2": 0.07617988821593766,
+    "bleu3": 0.013223171994865128,
+    "bleu4": 0.005514634493801046,
+    "bertscore_precision": 0.4413822889328003,
+    "bertscore_recall": 0.45920151472091675,
+    "bertscore_f1": 0.4501156210899353
+  }
+}

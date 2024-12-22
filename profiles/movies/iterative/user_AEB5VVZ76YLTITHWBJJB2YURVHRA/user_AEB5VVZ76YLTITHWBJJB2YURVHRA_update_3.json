@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/02/05\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Kevin Dowling', 'Jeremy Webb', 'Olatunde Osunsanmi', 'Tom Vaughan', 'Ellen Kuras', 'Omar Madha', 'John David Coles', 'Tom Harper', 'Daniel Sackheim'], 'Producers': ['Henry Bronchtein'], 'Starring': ['Carlos Bardem', 'David Wilson Barnes', 'Elizabeth Frances'], 'Studio': ['AMC']}\nReview Text: Great series cost!\nReview Title: Didn\u2019t know I had to pay\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Farrelly'], 'Producers': ['Peter Farrelly', 'Charles B. Wessler', 'Nick Vallelonga', 'Jim Burke', 'Brian Currie'], 'Starring': ['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini'], 'Studio': ['Universal Pictures']}\nCost ?\nCost?\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Hamilton', 'Guy Jenkin'], 'Producers': ['David M. Thompson', 'Dan Winch'], 'Starring': ['Rosamund Pike', 'David Tennant', 'Billy Connolly'], 'Studio': ['Lionsgate']}\nDidn\u2019t know I paid for it\nCost?\n{'Audio languages': ['English'], 'Subtitles': ['English'], 'Directors': ['Kevin Dowling', 'Jeremy Webb', 'Olatunde Osunsanmi', 'Tom Vaughan', 'Ellen Kuras', 'Omar Madha', 'John David Coles', 'Tom Harper', 'Daniel Sackheim'], 'Producers': ['Henry Bronchtein'], 'Starring': ['Carlos Bardem', 'David Wilson Barnes', 'Elizabeth Frances'], 'Studio': ['AMC']}\nGreat series cost!\nDidn\u2019t know I had to pay",
+  "profile": "**Updated User Profile Summary:**\n\n- **Rating Trends**: The user maintains a high average rating of 4.8; however, they demonstrated increased sensitivity to cost versus quality in a recent review, resulting in a lower rating of 3.0, indicating potential disappointment regarding unexpected charges.\n\n- **Content Preferences**: Continues to favor productions with complex themes and mature subject matter, including violence, alcohol use, and sexual content, aligning with their previous engagement patterns.\n\n- **Language and Accessibility**: Still prioritizes English audio and captioning options, ensuring accessibility in their viewing experience.\n\n- **Collaboration**: Shows a strong preference for works featuring well-respected directors and producers, as seen in their recent interaction, which highlighted established industry professionals.\n\n- **Critique Focus**: The user is increasingly vocal about the relationship between cost and perceived value, as evidenced by their recent critique questioning the clarity of pricing.\n\n- **Viewer Engagement**: Expects intelligent character portrayals and narratives, which continues to reflect their interest in content advisory details throughout their reviews.\n\nThe user remains discerning and values high-quality storytelling while becoming increasingly aware of cost implications in their entertainment choices, leading to a distinct focus on value for money in their recent interactions.",
+  "metrics": {
+    "rouge1_f": 0.10725552050473186,
+    "rouge2_f": 0.03174603174603175,
+    "rougeL_f": 0.08832807570977917,
+    "meteor": 0.051495016611295685,
+    "bleu1": 0.08256191532218728,
+    "bleu2": 0.005130669130430627,
+    "bleu3": 0.0020349875932667554,
+    "bleu4": 0.0012829203939258415,
+    "bertscore_precision": 0.3630417585372925,
+    "bertscore_recall": 0.3583674430847168,
+    "bertscore_f1": 0.3606894612312317
+  }
+}

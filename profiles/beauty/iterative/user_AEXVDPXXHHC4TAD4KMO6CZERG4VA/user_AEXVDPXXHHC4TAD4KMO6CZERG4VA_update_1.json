@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brazilian Virgin Hair 3 Bundles with Closure Brazilian Body Wave 8A 100% Unprocessed Human Hair bundles With Lace Closure Natural Black Color brazilian hair (12\" 14\" 16\"+10\"closure, Free Part)\nReview Date: 2017/12/15\nStore: Free Queen\nAverage Rating: 3.9\nProduct Details: {'Brand': 'Free Queen', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Installation Type': 'weave', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.02 x 7.01 x 5 inches; 12 Ounces', 'Manufacturer': 'Free Queen'}\nReview Text: My wife loved this hair. she made a very beautiful wig and even bleached her bundles. it came out very nice\nReview Title: My wife loved this hair\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Virgin Hair 3 Bundles with Closure Brazilian Body Wave 8A 100% Unprocessed Human Hair bundles With Lace Closure Natural Black Color brazilian hair (12\" 14\" 16\"+10\"closure, Free Part)\nFree Queen\n{'Brand': 'Free Queen', 'Color': 'black', 'Material': 'Human Hair', 'Hair Type': 'Wavy', 'Installation Type': 'weave', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.02 x 7.01 x 5 inches; 12 Ounces', 'Manufacturer': 'Free Queen'}\nMy wife loved this hair. she made a very beautiful wig and even bleached her bundles. it came out very nice\nMy wife loved this hair",
+  "profile": "The user demonstrates a strong preference for high-quality hair products, particularly unprocessed human hair options suitable for styling and customization. The specific selection of Brazilian virgin hair suggests a desire for versatility, as the user appreciates the ability to create hairstyles like wigs and the potential for altering color (e.g., bleaching). The positive feedback highlights the importance of satisfaction, both in product quality and in meeting personal or family needs (indicating a preference for gifting or shared experiences). The user's interaction reflects an inclination toward products that have a natural appearance and are easy to manage, as evidenced by the specific mention of body wave texture. Overall, the user values products that contribute to aesthetically pleasing results and cater to creative hair styling.",
+  "metrics": {
+    "rouge1_f": 0.1552511415525114,
+    "rouge2_f": 0.055299539170506916,
+    "rougeL_f": 0.10045662100456622,
+    "meteor": 0.12691019582424237,
+    "bleu1": 0.11510791366906477,
+    "bleu2": 0.009132991385315647,
+    "bleu3": 0.003934007434193672,
+    "bleu4": 0.0025866737458825335,
+    "bertscore_precision": 0.3906841576099396,
+    "bertscore_recall": 0.3949383795261383,
+    "bertscore_f1": 0.3927997648715973
+  }
+}

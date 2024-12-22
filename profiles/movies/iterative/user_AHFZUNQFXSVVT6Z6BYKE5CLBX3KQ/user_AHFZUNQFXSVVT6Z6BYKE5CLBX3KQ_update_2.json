@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/05/16\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lasse Hallstrom'], 'Producers': ['Marty Bowen', 'Wyck Godfrey', 'Ryan Kavanaugh'], 'Starring': ['Channing Tatum', 'Amanda Seyfried', 'Richard Jenkins'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: love this movie now i can watch it any time i like on the road at home in the doctor office any were i like love it will buy again.\nReview Title: Dear john\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Failure to Launch\nComedy, Drama, Cheerful, Passionate\n['Matthew McConaughey is Tripp, a 35 year-old who still lives with his parents. Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little-push.']\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Dey'], 'Producers': ['Scott Rudin', 'Scott Aversano'], 'Starring': ['Matthew McConaughey', 'Sarah Jessica Parker', 'Zooey Deschanel']}\ni love this movie i was so happy to have to watch were ever i go, i will buy thins again for my kindle fire like these.\nFailure to launch\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lasse Hallstrom'], 'Producers': ['Marty Bowen', 'Wyck Godfrey', 'Ryan Kavanaugh'], 'Starring': ['Channing Tatum', 'Amanda Seyfried', 'Richard Jenkins'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nlove this movie now i can watch it any time i like on the road at home in the doctor office any were i like love it will buy again.\nDear john",
+  "profile": "**User Profile Summary Updated:**\n\n- **Preferred Genres:** Comedy, Drama, Romance\n- **Mood:** Cheerful, Passionate\n- **Content Interests:** Enjoys light-hearted narratives with emotional and relational themes, favoring romantic elements and heartfelt stories.\n- **Viewing Habits:** Appreciates films that combine humor with emotional depth, linked to personal relationships, and shows a strong inclination towards romantic dramas.\n- **Formats:** Prefers digital access for convenience (e.g., Kindle) and values the ability to watch favorite films anytime and anywhere.\n- **Engagement Style:** Expresses strong enthusiasm for chosen films, often highlighting a desire for accessibility and the joy of revisiting beloved content, indicating a high level of satisfaction.\n- **Key Features Valued:** High-quality storytelling and engaging character dynamics, particularly in relatable life situations that evoke both laughter and warmth.\n- **Purchase Behavior:** Willing to repurchase content to enhance accessibility, as demonstrated by the intent to buy again when enjoying a film.\n\nThis user profile reflects a deep appreciation for feel-good stories that resonate emotionally, often leading to high ratings for films that embody these qualities.",
+  "metrics": {
+    "rouge1_f": 0.1764705882352941,
+    "rouge2_f": 0.023668639053254437,
+    "rougeL_f": 0.1,
+    "meteor": 0.10665625152950665,
+    "bleu1": 0.16288273173776377,
+    "bleu2": 0.0598891838875132,
+    "bleu3": 0.03239419774028371,
+    "bleu4": 0.01812230002762645,
+    "bertscore_precision": 0.37457042932510376,
+    "bertscore_recall": 0.41475966572761536,
+    "bertscore_f1": 0.3936418890953064
+  }
+}

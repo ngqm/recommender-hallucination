@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/27\nAverage Rating: 4.8\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Jon A. Levy', 'Robin Feinberg', 'Jonathan Haug', 'Kevin Burns', 'Keith Guinto', 'William Martens'], 'Producers': ['Kevin Burns', 'Giorgio A. Tsoukalos', 'Susan E. Leventhal', 'David Silver', 'Max Thompson']}\nReview Text: Excellent Show\nReview Title: Excellent Show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['TBD'], 'Producers': ['TBD'], 'Starring': ['TBD']}\nTWD Rockzors My Sockzors!\nTWD Rockzors My Sockzors!\n{'Subtitles': ['None available'], 'Directors': ['Jon A. Levy', 'Robin Feinberg', 'Jonathan Haug', 'Kevin Burns', 'Keith Guinto', 'William Martens'], 'Producers': ['Kevin Burns', 'Giorgio A. Tsoukalos', 'Susan E. Leventhal', 'David Silver', 'Max Thompson']}\nExcellent Show\nExcellent Show",
+  "profile": "**User Profile Summary:**\n\n- **Favorable Ratings**: Continues to give high ratings, recently scoring a product with a perfect 5.0. This indicates a firm enthusiasm and satisfaction with their media choices.\n- **Content Preference**: Maintains a preference for English-language content, as evidenced by previous interactions. The absence of available subtitles did not detract from their enjoyment, suggesting strong language proficiency and adaptability.\n- **Engagement Level**: Displays a consistent level of engagement and emotional connection with the content, reflecting in their enthusiastic feedback (\"Excellent Show\"). This aligns with their previous patterns of expressing excitement about media.\n- **Entertainment Focus**: Consistently leans towards action or adventure genres, indicated by their ongoing enjoyment of various shows and media types.\n- **Community Interaction**: Shows a strong inclination towards engaging with communities or fandoms, indicating a desire for shared experiences and discussions about the content they enjoy.\n\nOverall, this user exhibits a high level of satisfaction and engagement with their media choices, particularly in English, while actively participating in related communities. Their ability to rate diverse content highly demonstrates a deep appreciation for quality entertainment.",
+  "metrics": {
+    "rouge1_f": 0.08695652173913043,
+    "rouge2_f": 0.008771929824561403,
+    "rougeL_f": 0.05217391304347826,
+    "meteor": 0.09042073628850489,
+    "bleu1": 0.08189655172413791,
+    "bleu2": 0.01882898103839717,
+    "bleu3": 0.005361775180639937,
+    "bleu4": 0.0028643268855754883,
+    "bertscore_precision": 0.3695772886276245,
+    "bertscore_recall": 0.32388168573379517,
+    "bertscore_f1": 0.34522393345832825
+  }
+}

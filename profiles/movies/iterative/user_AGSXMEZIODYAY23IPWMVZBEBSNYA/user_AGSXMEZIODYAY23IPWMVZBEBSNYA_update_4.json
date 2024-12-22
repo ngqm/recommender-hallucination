@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/21\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Nicotero', 'Michael E. Satrazemis', 'David Boyd'], 'Starring': ['Norman Reedus : Daryl Dixon', 'Melissa McBride : Carol Peletier : Carol'], 'Studio': ['Starz']}\nReview Text: Great show, watch weekly!!\nReview Title: Love It\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J. McMahon', 'Lance Jeffery'], 'Producers': ['Jon Kramer', 'Laura Keats', 'Lisa Bosak Lucas', 'Rasha Drachkovitch', 'Michael Dinco', 'Patrick Keegan', 'Heather Hollin', 'Keith Guinto'], 'Starring': ['Tia Torres', 'Matt \"Country\" Eldridge', 'Mariah \"M2\" Chock'], 'Studio': ['Animal Planet']}\nGreat show!! My dream would to one day be able to adopt a pit from here. I can dream!!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Callie Khouri', 'Stephen Cragg', 'Michael Lohmann', 'Mike Listo', 'Paul McCrane', 'Julie H\u00e9bert', 'Michael Waxman', 'Allan Arkush', 'Dan Lerner', 'Mario Van Peebles'], 'Studio': ['ABC']}\nLove this show, have seen all episodes.\nExcellent Show\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Rob Evans', 'Robert Del Mastro', 'Joss Agnew', 'Lawrence Till', 'Dominic Barlow', 'Andrew Davies'], 'Producers': ['Kate Brooke'], 'Studio': ['ITV']}\nWant to see more!\nGood Show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Nicotero', 'Michael E. Satrazemis', 'David Boyd'], 'Starring': ['Norman Reedus : Daryl Dixon', 'Melissa McBride : Carol Peletier : Carol'], 'Studio': ['Starz']}\nGreat show, watch weekly!!\nLove It",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** The user maintains a strong affinity for uplifting animal-related content, especially those emphasizing pet adoption and rescue. Their passion for heartwarming narratives that promote animal welfare continues to be evident, reflecting a consistent engagement with these themes.\n\n- **Viewing Patterns:** The user prefers English language content with closed captions, which reinforces their commitment to accessibility and a thorough viewing experience. This trend remains steadfast across their interactions.\n\n- **Engagement Level:** The user demonstrates a high level of engagement, recently rating a show with a perfect score and providing enthusiastic feedback. Their emotionally charged reviews signal a deep connection to the material and a sincere appreciation for quality content.\n\n- **Aspirational Values:** Aspiring to adopt a pet, the user aligns closely with animal welfare and rescue, which illustrates their deeper values of compassion and empathy. This goal is a recurring theme in their content choices and interactions.\n\nOverall, the user exhibits a consistent pattern of valuing heartwarming, animal-centered material, highlighted by their high ratings and positive feedback. Their latest interaction, marked by a perfect rating and a joyful response, further emphasizes their eagerness for uplifting content, solidifying their commitment to supporting animal welfare initiatives as they continue their viewing journey.",
+  "metrics": {
+    "rouge1_f": 0.06860158311345646,
+    "rouge2_f": 0.010610079575596816,
+    "rougeL_f": 0.052770448548812667,
+    "meteor": 0.05122063473493675,
+    "bleu1": 0.0656507724770986,
+    "bleu2": 0.017274911440245514,
+    "bleu3": 0.008797786810764461,
+    "bleu4": 0.003534155581413568,
+    "bertscore_precision": 0.33133941888809204,
+    "bertscore_recall": 0.3581567108631134,
+    "bertscore_f1": 0.34422653913497925
+  }
+}

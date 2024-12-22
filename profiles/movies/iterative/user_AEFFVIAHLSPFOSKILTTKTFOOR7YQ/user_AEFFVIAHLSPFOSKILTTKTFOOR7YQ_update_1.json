@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/29\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nReview Text: Great movie!\nReview Title: Great movie\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nGreat movie!\nGreat movie",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Quality Entertainment**: The user appreciates films, expressing satisfaction through a high average rating and positive reviews.\n  \n- **Interest in Specific Genres**: The preference leans towards engaging dramas or action-adventures, indicated by the notable directors and cast choices.\n\n- **Value for Accessibility**: The user seems to prefer content available in English with subtitles, highlighting attention to detail in comprehension.\n\n- **Engagement with Popular Titles**: Tendencies suggest that the user enjoys well-received, mainstream movies featuring well-known actors.\n\n- **Positive Review Behavior**: The user tends to provide favorable ratings, typically around the 4-star range, suggesting a consistent preference for quality content.\n\nOverall, this user appears to favor well-produced films with accessible formats and positive reception.",
+  "metrics": {
+    "rouge1_f": 0.08275862068965519,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.04137931034482759,
+    "meteor": 0.08312020460358056,
+    "bleu1": 0.07453416149068322,
+    "bleu2": 0.006825236327899353,
+    "bleu3": 0.0030828052341289173,
+    "bleu4": 0.0020751299283968652,
+    "bertscore_precision": 0.38742005825042725,
+    "bertscore_recall": 0.31955456733703613,
+    "bertscore_f1": 0.35022997856140137
+  }
+}

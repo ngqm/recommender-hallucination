@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/29\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nReview Text: I expected more, but it was enough so that I could see Part 2 without wondering what happened in Part 1.\nReview Title: Expected More\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Schwentke'], 'Producers': ['Douglas Wick', 'Lucy Fisher', 'Pouya Shahbazian'], 'Starring': ['Shailene Woodley', 'Theo James', 'Octavia Spencer']}\nGreat movie!\nGreat movie\n{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nI expected more, but it was enough so that I could see Part 2 without wondering what happened in Part 1.\nExpected More",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Quality Entertainment**: The user appreciates films, but recent interactions indicate a more critical perspective, with occasional dissatisfaction expressed through ratings.\n\n- **Interest in Specific Genres**: The preference still leans toward engaging dramas or action-adventures, as shown by their continued engagement with well-known directors and casts. However, recent ratings reflect tempered expectations.\n\n- **Value for Accessibility**: The user maintains a preference for content available in English with subtitles, demonstrating a consistent focus on comprehension and engagement with accessible formats.\n\n- **Engagement with Popular Titles**: The user continues to gravitate towards mainstream movies featuring well-known actors; nevertheless, their recent review shows a shift towards a more discerning approach to storytelling and execution.\n\n- **Critical Review Behavior**: While the user typically rates films around 4 stars, recent behavior has included lower ratings, suggesting a more analytical engagement with content. Ratings as low as 3 stars reflect an evolving viewpoint that considers both enjoyment and overall coherence in film narratives.\n\nOverall, this user values quality production and accessibility but is now demonstrating a willingness to express disappointment in films that do not meet their raised expectations, indicating a shift towards more critical engagement with their entertainment choices.",
+  "metrics": {
+    "rouge1_f": 0.10108303249097474,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07220216606498195,
+    "meteor": 0.07061379684953831,
+    "bleu1": 0.08467741935483869,
+    "bleu2": 0.018515495136264843,
+    "bleu3": 0.005184559359238908,
+    "bleu4": 0.002746264527376247,
+    "bertscore_precision": 0.3872314691543579,
+    "bertscore_recall": 0.3629741966724396,
+    "bertscore_f1": 0.37471064925193787
+  }
+}

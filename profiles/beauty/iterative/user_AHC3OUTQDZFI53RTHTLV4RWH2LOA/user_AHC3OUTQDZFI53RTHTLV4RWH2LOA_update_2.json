@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 8oz Clear Glass Refillable Spray Bottles with Reusable Chalk Labels (2 Pack)\nReview Date: 2015/12/22\nAverage Rating: 3.1\nProduct Details: {'Color': 'Clear', 'Material': 'Glass', 'Capacity': '8 Ounces', 'Number of Items': '2', 'Item Dimensions LxWxH': '5.5 x 3 x 8 inches'}\nReview Text: Cute glass bottles; love the super fine mist the sprayers give off and the reusable labels are a nice touch\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sunshiny Reusable Hair Colouring Hairdressing Highlighting Dye Cap Hook Frosting Random Color\n{}\nNice professional quality product\nNice\n8oz Clear Glass Refillable Spray Bottles with Reusable Chalk Labels (2 Pack)\n{'Color': 'Clear', 'Material': 'Glass', 'Capacity': '8 Ounces', 'Number of Items': '2', 'Item Dimensions LxWxH': '5.5 x 3 x 8 inches'}\nCute glass bottles; love the super fine mist the sprayers give off and the reusable labels are a nice touch\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Hairdressing and beauty tools, with a recent expansion into versatile accessories such as spray bottles that enhance their hair coloring and highlighting methods.\n- **Quality Preference:** Values professional quality products and demonstrates a willingness to positively rate items that meet quality expectations, even in categories with mixed reviews, indicating a discerning taste.\n- **Rating Behavior:** Consistently rates products based on their performance and quality. Recent feedback shows heightened satisfaction for products that are functional and aesthetically pleasing, such as those that provide a fine mist and reusable features.\n- **Review Style:** Offers concise and clear feedback that reflects genuine satisfaction with product performance, emphasizing practical benefits and design aesthetics.\n\nOverall, the user continues to exhibit a strong interest in high-quality tools that elevate their beauty regimen, now also appreciating functional yet stylish accessories that complement their beauty routines. This suggests a growing interest in products that blend functionality with design, enhancing the overall user experience.",
+  "metrics": {
+    "rouge1_f": 0.17467248908296942,
+    "rouge2_f": 0.03524229074889868,
+    "rougeL_f": 0.09606986899563318,
+    "meteor": 0.15523931496876348,
+    "bleu1": 0.11442786069651742,
+    "bleu2": 0.033827187393650905,
+    "bleu3": 0.008315586791337908,
+    "bleu4": 0.004128130120415078,
+    "bertscore_precision": 0.42881715297698975,
+    "bertscore_recall": 0.38945263624191284,
+    "bertscore_f1": 0.4081880450248718
+  }
+}

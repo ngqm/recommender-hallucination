@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Piglet Files: A Question of Intelligence\nReview Date: 2008/06/16\nStore: Louise Catt  (Actor),     Nicholas Lyndhurst  (Actor)    Rated:    Unrated    Format: DVD\nCategories: Movies & TV, Genre for Featured Categories, Comedy\nProduct Description: ['Don\\'t be fooled by the title: this arch British comedy series has nothing to do with Pooh Bear\\'s porcine pal. Instead, it concerns the misadventures of Peter Chapman, a college professor whose life takes surprising turns after he and his wife encounter two bungling spies. He loses his job in academia only to find himself thrust into the shadowy world of espionage, where he assumes the unlikely code name of \"Piglet.\" About 3 hours on 3 DVDs.']\nAverage Rating: 4.4\nProduct Details: {'Aspect Ratio': '1.33:1', 'MPAA rating': 'Unrated (Not Rated)', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Media Format': 'Color, NTSC, DVD', 'Run time': '2 hours and 51 minutes', 'Release date': 'April 29, 2003', 'Actors': 'Louise Catt, Nicholas Lyndhurst, Serena Evans, Clive Francis, John Ringham', 'Studio': 'Bfs Entertainment', 'Number of discs': '2'}\nReview Text: I found this by accident in my library and really enjoyed it! If you like spy-parody comedies, this is worth you're while.\nReview Title: This is a Great Series!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Piglet Files: A Question of Intelligence\nLouise Catt  (Actor),     Nicholas Lyndhurst  (Actor)    Rated:    Unrated    Format: DVD\nMovies & TV, Genre for Featured Categories, Comedy\n['Don\\'t be fooled by the title: this arch British comedy series has nothing to do with Pooh Bear\\'s porcine pal. Instead, it concerns the misadventures of Peter Chapman, a college professor whose life takes surprising turns after he and his wife encounter two bungling spies. He loses his job in academia only to find himself thrust into the shadowy world of espionage, where he assumes the unlikely code name of \"Piglet.\" About 3 hours on 3 DVDs.']\n{'Aspect Ratio': '1.33:1', 'MPAA rating': 'Unrated (Not Rated)', 'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Media Format': 'Color, NTSC, DVD', 'Run time': '2 hours and 51 minutes', 'Release date': 'April 29, 2003', 'Actors': 'Louise Catt, Nicholas Lyndhurst, Serena Evans, Clive Francis, John Ringham', 'Studio': 'Bfs Entertainment', 'Number of discs': '2'}\nI found this by accident in my library and really enjoyed it! If you like spy-parody comedies, this is worth you're while.\nThis is a Great Series!",
+  "profile": "**User Summary:**\n\nThis user shows a preference for British comedy, particularly in the genre of spy-parody. They appreciate clever humor and engaging plots, as indicated by their positive review highlighting an unexpected enjoyment of a title found in their library. Their high rating reflects a strong satisfaction with content quality, suggesting they value thorough storytelling and character development. The user's engagement with DVDs demonstrates an affinity for physical media over digital formats, possibly indicating nostalgia or a preference for a tangible collection. Overall, they seek out lighthearted entertainment that combines wit with adventure, especially if it includes elements of espionage.",
+  "metrics": {
+    "rouge1_f": 0.23208191126279862,
+    "rouge2_f": 0.020618556701030927,
+    "rougeL_f": 0.0955631399317406,
+    "meteor": 0.09481279739544202,
+    "bleu1": 0.0940523238958165,
+    "bleu2": 0.021669887994749754,
+    "bleu3": 0.004908277361332578,
+    "bleu4": 0.0023410654647943413,
+    "bertscore_precision": 0.3424789309501648,
+    "bertscore_recall": 0.45567020773887634,
+    "bertscore_f1": 0.3910483419895172
+  }
+}

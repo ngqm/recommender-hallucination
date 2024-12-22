@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Tub Pillow Bathtub Pillows Headrest with Neck and Back Support, 4D Air Mesh Bath Accessories, 6 Strong Suction Cups, Hot Tub, Jacuzzi Home Spa for Women Men\nReview Date: 2021/09/20\nStore: Apriluna\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Apriluna', 'Material': 'Foam, Mesh', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.75 x 7.95 x 5.55 inches; 15.24 Ounces', 'Item model number': 'BP4D', 'Manufacturer': 'Apriluna'}\nReview Text: This pillow is soft and comfy and makes for a relaxing bath. I love the soft fabric that covers the pillow, such an improvement over the plastic pillow I had been using. With six suction cups, it stays in place in my free-standing tub, and it\u2019s just the right size to cradle my head and also cushion my upper back. There is an attached hook to hang the pillow to dry when done bathing. Included with the pillow are a tool to loosen the suction cups from the tub, a storage bag, and a bag of rose petals for your first bath with the new pillow. A very nice pillow!\nReview Title: Soft and comfortable\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Tub Pillow Bathtub Pillows Headrest with Neck and Back Support, 4D Air Mesh Bath Accessories, 6 Strong Suction Cups, Hot Tub, Jacuzzi Home Spa for Women Men\nApriluna\n{'Brand': 'Apriluna', 'Material': 'Foam, Mesh', 'Product Care Instructions': 'Hand Wash Only', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '15.75 x 7.95 x 5.55 inches; 15.24 Ounces', 'Item model number': 'BP4D', 'Manufacturer': 'Apriluna'}\nThis pillow is soft and comfy and makes for a relaxing bath. I love the soft fabric that covers the pillow, such an improvement over the plastic pillow I had been using. With six suction cups, it stays in place in my free-standing tub, and it\u2019s just the right size to cradle my head and also cushion my upper back. There is an attached hook to hang the pillow to dry when done bathing. Included with the pillow are a tool to loosen the suction cups from the tub, a storage bag, and a bag of rose petals for your first bath with the new pillow. A very nice pillow!\nSoft and comfortable",
+  "profile": "**User Summary:**\n\nThis user prioritizes comfort and relaxation in their bath experience, demonstrated by their preference for soft, high-quality materials. They appreciate functional design features, such as suction cups for stability and convenient accessories like hooks for drying and storage bags, indicating a focus on practicality alongside comfort. The user enjoys enhancements to their bathing ritual, such as additional elements (e.g., rose petals) that contribute to a soothing environment. Their positive experience with a bath accessory reflects an overall inclination towards products that enhance self-care and create a spa-like atmosphere at home. Ratings indicate a tendency to favor products that deliver on quality and effectiveness, suggesting an interest in well-reviewed items. Their strong appreciation for improvements over previous products highlights an openness to exploring new options that provide superior comfort and functionality. Overall, this user values products that aid relaxation and contribute positively to their personal wellness routines.",
+  "metrics": {
+    "rouge1_f": 0.31831831831831836,
+    "rouge2_f": 0.030211480362537763,
+    "rougeL_f": 0.12012012012012013,
+    "meteor": 0.17668076632107146,
+    "bleu1": 0.22094197748170114,
+    "bleu2": 0.05374460612183144,
+    "bleu3": 0.010818635521344527,
+    "bleu4": 0.0048611552914050275,
+    "bertscore_precision": 0.4269740879535675,
+    "bertscore_recall": 0.4688805043697357,
+    "bertscore_f1": 0.4469471573829651
+  }
+}

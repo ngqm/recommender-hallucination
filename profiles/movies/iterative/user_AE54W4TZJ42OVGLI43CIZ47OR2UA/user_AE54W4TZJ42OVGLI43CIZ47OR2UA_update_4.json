@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/08/29\nAverage Rating: 3.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bruce Neibaur'], 'Producers': ['Afsana Amarsy and Goulam Amarsy'], 'Starring': ['Christopher Heyerdahl', 'Smriti Mishra'], 'Studio': ['Janson Media']}\nReview Text: Loved it!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Captive\nSuspense, Drama, Bleak, Downbeat\n[\"After Matthew's daughter vanishes mysteriously, his life falls apart. Years later when image of his daughter appear online, Matthew risks everything to ensure his daughter's safe return. Starring Ryan Reynolds\"]\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Atom Egoyan'], 'Producers': ['Atom Egoyan', 'Stephen Traynor', 'Simone Urdl', 'Jennifer Weiss'], 'Starring': ['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']}\nGreat movie!\nLoved it!\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexs Stadermann'], 'Producers': ['Jim Ballantine', 'Patrick Elemendorff', 'Alexia Gates-Foale', 'Kacy McDonald', 'Barbara Stephen', 'Thorsten Wegener'], 'Starring': ['Kodi Smit-McPhee', 'Richard Roxburgh', 'Miriam Margolyes']}\nVery cute movie.  Would watch again!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': [\"Reader's Digest\"], 'Producers': [\"Reader's Digest\"], 'Studio': ['Questar']}\nGreat - loved It!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bruce Neibaur'], 'Producers': ['Afsana Amarsy and Goulam Amarsy'], 'Starring': ['Christopher Heyerdahl', 'Smriti Mishra'], 'Studio': ['Janson Media']}\nLoved it!\nFive Stars",
+  "profile": "**User Summary:**\n\nThe user continues to demonstrate a strong affinity for dramatic and suspenseful narratives, particularly those that delve into themes of personal loss and resilience. Their recent high rating and enthusiastic review of a family-themed product suggest a deepening appreciation for uplifting and feel-good stories, indicating a healthy balance in their viewing preferences.\n\nKey Preferences:\n- **Genres:** Suspense, Drama, Lighthearted\n- **Themes:** Personal loss, Resilience, Intensity, Family-oriented stories\n- **Content Tolerance:** Willingly accepts violence, alcohol use, foul language, and sexual content, while remaining open to lighter themes\n- **Engagement:** Highly engaged, frequently expressing strong positive reactions to both intense films and more lighthearted content\n\nThe user's profile reflects an enduring love for emotionally resonant narratives that challenge characters with significant obstacles, coupled with a newfound enthusiasm for family-friendly entertainment. This nuanced viewing approach highlights their passion for quality filmmaking and strong performances, showcasing a versatile cinematic taste. The recent engagement further emphasizes their capability to appreciate a broad spectrum of storytelling, enhancing their profile as a well-rounded viewer who finds value in both intense dramas and heartwarming narratives.",
+  "metrics": {
+    "rouge1_f": 0.09142857142857144,
+    "rouge2_f": 0.03448275862068965,
+    "rougeL_f": 0.08,
+    "meteor": 0.05329593267882188,
+    "bleu1": 0.0815303563007764,
+    "bleu2": 0.023922629045424797,
+    "bleu3": 0.013907631493105454,
+    "bleu4": 0.008926960211667043,
+    "bertscore_precision": 0.3522207736968994,
+    "bertscore_recall": 0.37621957063674927,
+    "bertscore_f1": 0.36382484436035156
+  }
+}

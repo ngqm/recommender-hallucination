@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Silicone Makeup Sponge 2 Pack Premium Quality Silisponge -Easy To Wash Beauty Sponge Applicator for Flawless Application of Liquid Foundation,Primer, Concealer by SEALUXE\nReview Date: 2017/11/28\nStore: SEALUXE\nAverage Rating: 3.4\nProduct Details: {'Brand': 'SEALUXE', 'Item Dimensions LxWxH': '3.5 x 3.5 x 0.6 inches', 'Recommended Uses For Product': 'Makeup'}\nReview Text: My 18 year old grand daughter does her full face make up everyday whether she is leaving the house or not. I will admit she is pretty good at it, but she does spend alot of money on it. She had been using a sponge type and what she said that she really likes about this blender is that there is alot less waste of makeup, since the sponge absorbs it and this silicone blender spreads it. She said it spreads alot more evenly also and she was very happy with how she could clean it easily in water after each use.\nReview Title: SPREADS EVENLY & CLEANS EASILY\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Silicone Makeup Sponge 2 Pack Premium Quality Silisponge -Easy To Wash Beauty Sponge Applicator for Flawless Application of Liquid Foundation,Primer, Concealer by SEALUXE\nSEALUXE\n{'Brand': 'SEALUXE', 'Item Dimensions LxWxH': '3.5 x 3.5 x 0.6 inches', 'Recommended Uses For Product': 'Makeup'}\nMy 18 year old grand daughter does her full face make up everyday whether she is leaving the house or not. I will admit she is pretty good at it, but she does spend alot of money on it. She had been using a sponge type and what she said that she really likes about this blender is that there is alot less waste of makeup, since the sponge absorbs it and this silicone blender spreads it. She said it spreads alot more evenly also and she was very happy with how she could clean it easily in water after each use.\nSPREADS EVENLY & CLEANS EASILY",
+  "profile": "**User Profile Summary:**\n\n- **Demographics**: Likely a family-oriented individual with an interest in cosmetics, particularly for younger generations (e.g., a granddaughter).\n- **Product Usage**: Shows a preference for beauty tools that enhance makeup application efficiency and reduce product waste.\n- **Quality Preference**: Values ease of cleaning and practical functionality, as indicated by the preference for tools that maintain hygiene and deliver better results.\n- **Importance of Performance**: Prioritizes products that improve makeup application, ensuring even distribution and minimizing wastage.\n- **Feedback Behavior**: Engages in product reviews, sharing positive experiences when the product meets or exceeds expectations.\n- **Cosmetic Trends**: Emphasis on innovative products in the beauty space, particularly those that are different from standard options (like silicone over traditional sponges). \n\nOverall, the user appears to appreciate functional beauty tools that are effective and easy to maintain, aiming for a flawless finish in makeup application for personal or family use.",
+  "metrics": {
+    "rouge1_f": 0.2305084745762712,
+    "rouge2_f": 0.0136518771331058,
+    "rougeL_f": 0.10847457627118642,
+    "meteor": 0.1498534102808192,
+    "bleu1": 0.1724137931034483,
+    "bleu2": 0.029215297863020167,
+    "bleu3": 0.007516370739065352,
+    "bleu4": 0.003817232791927156,
+    "bertscore_precision": 0.40608376264572144,
+    "bertscore_recall": 0.4270159602165222,
+    "bertscore_f1": 0.4162868857383728
+  }
+}

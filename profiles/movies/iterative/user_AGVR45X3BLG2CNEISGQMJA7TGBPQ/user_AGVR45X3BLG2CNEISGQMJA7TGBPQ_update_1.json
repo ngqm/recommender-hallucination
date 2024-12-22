@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/06/14\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Susanna White'], 'Producers': ['David Parfitt', 'Selwyn Roberts', 'Michele Buck', 'Damien Timmer', 'Ben Donald'], 'Starring': ['Benedict Cumberbatch', 'Rebecca Hall', 'Roger Allam'], 'Studio': ['HBO']}\nReview Text: I had the same problem with the series as with the book. The characters are wooden and unbelievable. I stopped reading the book half way through and knew enough after the first episode to stop the series. The British with their superlative actors, stately homes surrounded by beautiful scenery can make even mediocre material look good, but not this time.\nReview Title: Couldn't get into it\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Susanna White'], 'Producers': ['David Parfitt', 'Selwyn Roberts', 'Michele Buck', 'Damien Timmer', 'Ben Donald'], 'Starring': ['Benedict Cumberbatch', 'Rebecca Hall', 'Roger Allam'], 'Studio': ['HBO']}\nI had the same problem with the series as with the book. The characters are wooden and unbelievable. I stopped reading the book half way through and knew enough after the first episode to stop the series. The British with their superlative actors, stately homes surrounded by beautiful scenery can make even mediocre material look good, but not this time.\nCouldn't get into it",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** This user shows a preference against material they find lacks depth and authenticity, as indicated by their critique of character development. They seem to appreciate well-crafted narratives but are quick to disengage from content they perceive as mediocre.\n\n- **Media Consumption:** The individual seems to be drawn to British productions, as evidenced by their mention of British actors and settings. However, they maintain a high standard for quality, which affects their viewing choices.\n\n- **Critical Engagement:** The user demonstrates a critical approach to media, evident in their willingness to stop engaging with content they find unfulfilling. This pattern suggests they value storytelling quality and character relatability.\n\n- **Rating Trends:** The average rating of 4.2 indicates a tendency to appreciate quality productions but contrasts sharply with their lowest rating of 2.0, highlighting a significant disappointment in specific instances.\n\n- **Content Sensitivity:** They indicate awareness of mature themes (nudity, violence, etc.), which could suggest a preference to approach content with caution, or an expectation of thoughtful handling of such themes when they are included.\n\nOverall, this user appears to prioritize strong characterization and quality storytelling in their media choices, with a clear intolerance for mediocrity.",
+  "metrics": {
+    "rouge1_f": 0.16556291390728475,
+    "rouge2_f": 0.02,
+    "rougeL_f": 0.08609271523178809,
+    "meteor": 0.1320754716981132,
+    "bleu1": 0.16600790513833993,
+    "bleu2": 0.03629770043203139,
+    "bleu3": 0.008066680094831276,
+    "bleu4": 0.0038065901851367006,
+    "bertscore_precision": 0.4028280973434448,
+    "bertscore_recall": 0.3954935073852539,
+    "bertscore_f1": 0.39912712574005127
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nReview Date: 2020/08/17\nStore: Azun\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nReview Text: Our tub is situated so that a wall is about 3 inches from the end of the tub, meaning that if you take a bath, your head essentially has to be either vertical or in the tub.  Sticking a bath pillow to the wall only means that your vertical head has a bit of padding.  This bath pillow has changed that!  Because it's so long and softer than an inflatable pillow, it actually sort of creates that angle so my head does not have to vertical!  After my first bath, I was trying to think of a way to hang it up to dry when I realized it actually has a hook just for that!  I really, really love this bath pillow!\nReview Title: Very Comfy!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bath Pillow for Bathtub, Spa Pillows for Neck Head Shoulders Back Support, Thick Bath Tub Cushion with 6 Suction Cups Men Women Breathable Comfort 4D Air Mesh Quick Dry Headrest Bath Accessories\nAzun\n{'Brand': 'Azun', 'Material': 'Mesh', 'Item Dimensions LxWxH': '13 x 11 x 1 inches', 'Product Care Instructions': 'Hand Wash Only', 'Product Dimensions': '13 x 11 x 1 inches; 11.36 Ounces'}\nOur tub is situated so that a wall is about 3 inches from the end of the tub, meaning that if you take a bath, your head essentially has to be either vertical or in the tub.  Sticking a bath pillow to the wall only means that your vertical head has a bit of padding.  This bath pillow has changed that!  Because it's so long and softer than an inflatable pillow, it actually sort of creates that angle so my head does not have to vertical!  After my first bath, I was trying to think of a way to hang it up to dry when I realized it actually has a hook just for that!  I really, really love this bath pillow!\nVery Comfy!",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Comfort:** Values products that enhance relaxation and comfort during bathing experiences, as highlighted by the positive reaction to the bath pillow.\n- **Practicality:** Appreciates functional features that solve real-life problems (such as the pillow\u2019s angle and drying hook), indicating a preference for user-friendly designs.\n- **Quality Materials:** Shows a tendency towards items made from breathable, quick-drying materials, suggesting a focus on quality and longevity in product choices.\n- **Positive Sensory Experience:** Enjoys enhancements that improve sensory experiences, demonstrating a desire for luxurious and pleasurable moments in daily routines.\n- **Quality Ratings:** Appears to consider average ratings in product selection, indicating an inclination towards reliable and well-reviewed options.\n\nOverall, the user displays a clear trend towards products that combine comfort, practicality, and quality, especially in personal care and relaxation contexts.",
+  "metrics": {
+    "rouge1_f": 0.22910216718266252,
+    "rouge2_f": 0.012461059190031152,
+    "rougeL_f": 0.11145510835913312,
+    "meteor": 0.1300182481751825,
+    "bleu1": 0.19807713752153913,
+    "bleu2": 0.041871647087958715,
+    "bleu3": 0.009205785583564163,
+    "bleu4": 0.0043224122560234,
+    "bertscore_precision": 0.39903247356414795,
+    "bertscore_recall": 0.43117403984069824,
+    "bertscore_f1": 0.4144810736179352
+  }
+}

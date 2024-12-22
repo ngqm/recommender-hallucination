@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: senvenski Gel Nail Polish Top and Base Coat Shine Mirror Eggshell Fur Matte Crystal Cat Eye Effect No Wipe Art Set Soak Off UV LED Lacquer Clear Resin Home Salon Use 6pcs (TB6-001)\nReview Date: 2021/04/26\nStore: senvenski\nAverage Rating: 3.7\nProduct Details: {}\nReview Text: Great nail polish\nReview Title: Great nail polish\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "senvenski Gel Nail Polish Top and Base Coat Shine Mirror Eggshell Fur Matte Crystal Cat Eye Effect No Wipe Art Set Soak Off UV LED Lacquer Clear Resin Home Salon Use 6pcs (TB6-001)\nsenvenski\n{}\nGreat nail polish\nGreat nail polish",
+  "profile": "**User Summary:**\n\nThis user has a strong preference for high-quality nail products, particularly those that offer a variety of finishes and effects. The positive feedback on the nail polish suggests an appreciation for versatility in nail art, indicating a likelihood of interest in innovative beauty solutions that enhance home salon experiences. The user values products that deliver good performance, as reflected in their high rating despite an average overall store rating. Their engagement suggests an inclination towards experimenting with nail aesthetics, including unique textures and colors, while also prioritizing usability and satisfaction in their beauty routine.",
+  "metrics": {
+    "rouge1_f": 0.13043478260869568,
+    "rouge2_f": 0.029411764705882353,
+    "rougeL_f": 0.10144927536231883,
+    "meteor": 0.13572665207591544,
+    "bleu1": 0.036363636363636355,
+    "bleu2": 0.018265030599088915,
+    "bleu3": 0.006759880483719922,
+    "bleu4": 0.004122003144653969,
+    "bertscore_precision": 0.379230797290802,
+    "bertscore_recall": 0.307198703289032,
+    "bertscore_f1": 0.33943530917167664
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Too Faced x Kat Von D ~ Better Together Ultimate Eye Collection ~ Limited Edition\nReview Date: 2017/09/05\nStore: Too Faced\nAverage Rating: 4.1\nProduct Details: {'Brand': 'Too Faced', 'Special Feature': 'Travel size, Matte', 'Number of Items': '1', 'Unit Count': '1.00 Count', 'Coverage': 'Full', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.02 x 9.53 x 7.01 inches; 1.15 Pounds', 'Item model number': 'SG_B01MQZUUTB_US', 'UPC': '651986906291'}\nReview Text: I love this set!! A full sized liner, and a Too Faced Better than Sex full sized. The colors are gorgeous. Kats &#34;devotion&#34; is a highly pigmented black!! Great for lining as well...I have the whole collection, and I almost let this by , but the deal was great!!! Recommended!\nReview Title: Great Sex!! Great Value!!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Too Faced x Kat Von D ~ Better Together Ultimate Eye Collection ~ Limited Edition\nToo Faced\n{'Brand': 'Too Faced', 'Special Feature': 'Travel size, Matte', 'Number of Items': '1', 'Unit Count': '1.00 Count', 'Coverage': 'Full', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.02 x 9.53 x 7.01 inches; 1.15 Pounds', 'Item model number': 'SG_B01MQZUUTB_US', 'UPC': '651986906291'}\nI love this set!! A full sized liner, and a Too Faced Better than Sex full sized. The colors are gorgeous. Kats &#34;devotion&#34; is a highly pigmented black!! Great for lining as well...I have the whole collection, and I almost let this by , but the deal was great!!! Recommended!\nGreat Sex!! Great Value!!",
+  "profile": "**User Profile Summary:**\n\n**Preferences:**\n- Enjoys high-quality makeup products, particularly in eye cosmetics.\n- Appreciates sets or collections that offer value, such as full-sized items at a discounted price.\n- Favors vibrant, pigmented colors, especially in liners and eyeshadows.\n- Shows a preference for products from specific brands known for their cosmetics quality.\n- Demonstrates a tendency to collect makeup, indicating a strong interest in expanding their beauty collection.\n\n**Patterns:**\n- Favorable towards limited edition or special collaboration collections, which suggests an appreciation for exclusive or unique items.\n- Rates products positively, typically around the range of 4 to 5 stars, indicating a satisfaction with performance and value.\n- Engages with brand promotions or deals, highlighting a value-seeking approach in purchasing behavior.\n- Likely an informed consumer who follows beauty trends and values recommendations.\n\nOverall, this user seems to be a keen makeup enthusiast who prioritizes quality, value, and pigmentation in cosmetics, particularly within the eye makeup category.",
+  "metrics": {
+    "rouge1_f": 0.22304832713754646,
+    "rouge2_f": 0.022471910112359553,
+    "rougeL_f": 0.11152416356877323,
+    "meteor": 0.1410936706079457,
+    "bleu1": 0.15306122448979592,
+    "bleu2": 0.028016590734026292,
+    "bleu3": 0.00739621647960685,
+    "bleu4": 0.003805115845545451,
+    "bertscore_precision": 0.37775301933288574,
+    "bertscore_recall": 0.4030763506889343,
+    "bertscore_f1": 0.39000406861305237
+  }
+}

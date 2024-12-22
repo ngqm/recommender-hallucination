@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/07\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Rauch', 'Matthew Penn', 'Jay Chandrasekhar', 'Emile B. Levisetti', 'Constantine Makris', 'Michael W. Watkins', 'Ed Fraiman', 'Mark Feuerstein', 'Allison Liddi-Brown', 'Don Scardino'], 'Starring': ['Mark Feuerstein', 'Paulo Costanzo', 'Jill Flint'], 'Studio': ['USA']}\nReview Text: I should have started watching this show years ago, but I'm glad I finally caught up on<br />All the episodes...looking forward to a new season after this one ends.\nReview Title: Good show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nI am a late arrival to the fan club for Downton Abbey...don't know what I was doing while this exceptional series was playing for two seasons, but I will clear my schedule now for season 3.\nSuperior viewing\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Rauch', 'Matthew Penn', 'Jay Chandrasekhar', 'Emile B. Levisetti', 'Constantine Makris', 'Michael W. Watkins', 'Ed Fraiman', 'Mark Feuerstein', 'Allison Liddi-Brown', 'Don Scardino'], 'Starring': ['Mark Feuerstein', 'Paulo Costanzo', 'Jill Flint'], 'Studio': ['USA']}\nI should have started watching this show years ago, but I'm glad I finally caught up on<br />All the episodes...looking forward to a new season after this one ends.\nGood show",
+  "profile": "**User Summary:**\n\n- **Content Preference**: Enjoys period dramas and series with strong character development and storytelling, as well as engaging with critically acclaimed shows that may not be immediately mainstream.\n- **Tone**: Prioritizes well-crafted narratives and high production values, reflecting a preference for quality content that resonates on a deeper level.\n- **Viewer Attitude**: Late adopter of popular series, indicating a tendency to explore established trends after initial buzz; values exceptional content, evident in their positive review of a show they discovered later.\n- **Sensitivities**: Acutely aware of content advisories; considers themes such as violence, alcohol use, and strong language before engaging with new shows.\n- **Preferred Format**: Consistently seeks media offering English audio and captions, highlighting a necessity for accessibility features in viewing experiences.\n- **Interest in Future Content**: Actively seeks to catch up on series and expresses excitement for upcoming seasons, showcasing a commitment to franchises once engaged, as noted by anticipation for new episodes.\n\nThe user's recent interaction reinforces their appreciation for series that may involve nuanced storytelling and reflects their enthusiasm for quality content, aligning with their historical tendencies towards thoughtful consumption of media.",
+  "metrics": {
+    "rouge1_f": 0.18497109826589597,
+    "rouge2_f": 0.029069767441860465,
+    "rougeL_f": 0.09826589595375723,
+    "meteor": 0.08885599194360523,
+    "bleu1": 0.12806583699007099,
+    "bleu2": 0.028695496813053282,
+    "bleu3": 0.006429788330320358,
+    "bleu4": 0.0030467694360884786,
+    "bertscore_precision": 0.3720693588256836,
+    "bertscore_recall": 0.40575751662254333,
+    "bertscore_f1": 0.3881838917732239
+  }
+}

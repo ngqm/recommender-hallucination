@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nReview Date: 2020/08/18\nStore: Natwag\nAverage Rating: 4.6\nProduct Details: {'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nReview Text: This took off layers of foundation and contouring easily, but was soft on the skin while removing them. I like the loops on each pad because I can hook a finger through the loop to keep the pad in place while I wash my face.\nReview Title: Soft on skin, hard on makeup\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Natwag Makeup Remover Pads,18 Pack 3.74 Inch Reusable Microfiber Cleansing Pad with Laundry Bag Suitable for All Skin Types,3 Color Facial Cleansing Pad Set.\nNatwag\n{'Brand': 'Natwag', 'Skin Type': 'All Skin,Dry', 'Material Feature': 'Reusable', 'Unit Count': '18.00 Count', 'Number of Items': '18', 'Package Dimensions': '4.4 x 4.37 x 2.59 inches; 3.84 Ounces', 'UPC': '745103569701'}\nThis took off layers of foundation and contouring easily, but was soft on the skin while removing them. I like the loops on each pad because I can hook a finger through the loop to keep the pad in place while I wash my face.\nSoft on skin, hard on makeup",
+  "profile": "**User Summary:**\n\n- **Product Preference:** User favors reusable and environmentally friendly options in beauty care.\n- **Skin Sensitivity:** Prefers products that are gentle and suitable for all skin types, specifically accommodating dry skin.\n- **Functionality:** Values practicality and effectiveness in makeup removal, seeking products that easily and efficiently remove heavy makeup.\n- **Design Features:** Appreciates thoughtful design elements, such as functional loops for better usability during application.\n- **Overall Satisfaction:** Generally positive experience with high satisfaction, as indicated by a strong rating for performance and comfort.\n- **Review Style:** Focuses on product effectiveness and user experience, with an emphasis on comfort for the skin in their feedback.",
+  "metrics": {
+    "rouge1_f": 0.22325581395348834,
+    "rouge2_f": 0.05633802816901408,
+    "rougeL_f": 0.1302325581395349,
+    "meteor": 0.162959495523416,
+    "bleu1": 0.18954248366013074,
+    "bleu2": 0.03531274591531799,
+    "bleu3": 0.009381998171030588,
+    "bleu4": 0.0048439393099207325,
+    "bertscore_precision": 0.4235744774341583,
+    "bertscore_recall": 0.45738887786865234,
+    "bertscore_f1": 0.4398327171802521
+  }
+}

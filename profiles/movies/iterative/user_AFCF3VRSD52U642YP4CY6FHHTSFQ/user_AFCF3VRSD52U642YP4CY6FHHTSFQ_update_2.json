@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/18\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Bay'], 'Producers': ['Jerry Bruckheimer', 'Gale Anne Hurd', 'Michael Bay', 'Jonathan Hensleigh', 'Jim Van Wyck', 'Chad Oman'], 'Starring': ['Bruce Willis', 'Billy Bob Thornton', 'Liv Tyler'], 'Studio': ['Buena Vista']}\nReview Text: Bad science, great movie!  Lots of fun, Entertaining!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['M. Night Shyamalan'], 'Producers': ['Frank Marshall', 'Sam Mercer', 'M. Night Shyamalan'], 'Starring': ['Mel Gibson', 'Joaquin Phoenix'], 'Studio': ['WALT DISNEY PICTURES']}\nNever get tired of watching this movie.  Just wish I could afford Premium LOL\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Bay'], 'Producers': ['Jerry Bruckheimer', 'Gale Anne Hurd', 'Michael Bay', 'Jonathan Hensleigh', 'Jim Van Wyck', 'Chad Oman'], 'Starring': ['Bruce Willis', 'Billy Bob Thornton', 'Liv Tyler'], 'Studio': ['Buena Vista']}\nBad science, great movie!  Lots of fun, Entertaining!\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** Enjoys films with a mix of drama, suspense, and psychological elements, favoring intense storytelling and engaging narratives. Recently appreciated movies with entertaining action sequences, indicating a broader acceptance of varied cinematic styles.\n- **Content Tolerance:** Comfortable with mature content, embracing themes of violence, frightening scenes, nudity, and strong language, as evidenced by the latest interaction.\n- **Language & Accessibility:** Prefers English audio and appreciates English subtitles for enhanced comprehension and accessibility.\n- **Favorite Directors:** Shows a preference for notable directors with unique storytelling approaches, including M. Night Shyamalan and Michael Bay, reflecting an interest in both dramatic and entertaining narratives.\n- **Artist Affinity:** Tends to gravitate towards films starring well-known actors, indicating an appreciation for performances by established talent, such as Bruce Willis and Billy Bob Thornton.\n- **Rating Inclination:** Consistently rates films highly; the latest rating of 4.0 demonstrates a tendency to value quality cinema while still recognizing less tangible aspects like entertainment value.\n- **Consumption Habits:** Indicates a desire for premium content while acknowledging budget constraints, reflecting an interest in quality entertainment that is also accessible and enjoyable.\n\nOverall, this user showcases a strong appreciation for engaging and entertaining films with complex narratives while exploring a wider range of cinematic experiences.",
+  "metrics": {
+    "rouge1_f": 0.20846905537459284,
+    "rouge2_f": 0.05901639344262295,
+    "rougeL_f": 0.14332247557003258,
+    "meteor": 0.10699553764364671,
+    "bleu1": 0.13868613138686134,
+    "bleu2": 0.03187499983616879,
+    "bleu3": 0.00720184592851692,
+    "bleu4": 0.003426419609516316,
+    "bertscore_precision": 0.4226307272911072,
+    "bertscore_recall": 0.40302154421806335,
+    "bertscore_f1": 0.4125933051109314
+  }
+}

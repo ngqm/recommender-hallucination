@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/31\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Barry Sonnenfeld'], 'Producers': ['Lucy Fisher', 'Douglas Wick'], 'Starring': ['Diane Michelle', 'Robin Williams', 'Jeff Daniels'], 'Studio': ['Columbia Pictures']}\nReview Text: it was a good move\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Barry Sonnenfeld'], 'Producers': ['Lucy Fisher', 'Douglas Wick'], 'Starring': ['Diane Michelle', 'Robin Williams', 'Jeff Daniels'], 'Studio': ['Columbia Pictures']}\nit was a good move\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Content Preference**: Enjoys films with strong narratives, often favoring productions by renowned directors and studios.\n- **Language and Accessibility**: Prefers content in English, values closed captions for enhanced comprehension.\n- **Overall Rating Trends**: Tends to rate content positively (average rating of 4.7), indicating a consistent appreciation for quality.\n- **Review Behavior**: Engages in providing constructive feedback; uses straightforward language indicating an analytical yet casual approach to reviewing.\n- **Genre Inclination**: Likely enjoys a mix of comedy and drama, as suggested by the involvement of well-known actors in those genres.\n- **Producer Affinity**: Shows a preference for films produced by established figures in the industry.\n\nThis foundational profile indicates a user who appreciates high-quality English-language films, with a focus on accessible viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.0909090909090909,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.051948051948051945,
+    "meteor": 0.07566938300349244,
+    "bleu1": 0.06857142857142857,
+    "bleu2": 0.006277648205743444,
+    "bleu3": 0.0028347577327370935,
+    "bleu4": 0.0019076770268746418,
+    "bertscore_precision": 0.3972766697406769,
+    "bertscore_recall": 0.33663344383239746,
+    "bertscore_f1": 0.3644495904445648
+  }
+}

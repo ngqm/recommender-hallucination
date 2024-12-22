@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/07/18\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Branagh'], 'Producers': ['David Ellison', 'Dana Goldberg', 'Paul Schwake', 'Mace Neufeld', 'Lorenzo Di Bonaventura', 'David Barron', 'Mark Vahradian'], 'Starring': ['Chris Pine', 'Kevin Costner', 'Kenneth Branagh']}\nReview Text: Lots of action shots plus good story line.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Branagh'], 'Producers': ['David Ellison', 'Dana Goldberg', 'Paul Schwake', 'Mace Neufeld', 'Lorenzo Di Bonaventura', 'David Barron', 'Mark Vahradian'], 'Starring': ['Chris Pine', 'Kevin Costner', 'Kenneth Branagh']}\nLots of action shots plus good story line.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies**: Generally favorable, with a preference for high ratings (often around 4.5 to 5.0).\n- **Content Interests**: Enjoys media with action elements, indicating a preference for thrilling experiences alongside a compelling narrative.\n- **Themes**: Appreciates intense themes possibly involving violence and adult content (e.g., alcohol use and foul language), suggesting comfort with mature subject matter.\n- **Format Preferences**: Favors content available in English, both in audio and subtitles, indicating a preference for accessibility in understanding.\n- **Engagement Style**: Likely values both story and action, which points to interests in genres that blend plot depth with dynamic sequences.\n- **Favorites**: Shows a tendency towards films with strong production teams and notable cast members, indicating a recognition of quality in both filmmaking and performances.\n\nOverall, this user appears to gravitate towards high-quality action films with well-crafted storylines and mature content.",
+  "metrics": {
+    "rouge1_f": 0.13471502590673576,
+    "rouge2_f": 0.020942408376963352,
+    "rougeL_f": 0.11398963730569947,
+    "meteor": 0.0905349794238683,
+    "bleu1": 0.11111111111111109,
+    "bleu2": 0.007510098484322212,
+    "bleu3": 0.0030643972529423324,
+    "bleu4": 0.0019599732560354956,
+    "bertscore_precision": 0.43047940731048584,
+    "bertscore_recall": 0.40077513456344604,
+    "bertscore_f1": 0.4150965213775635
+  }
+}

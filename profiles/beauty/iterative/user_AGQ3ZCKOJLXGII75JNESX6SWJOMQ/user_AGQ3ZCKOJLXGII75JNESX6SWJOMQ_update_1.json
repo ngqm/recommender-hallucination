@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 24K Gold Under Eye Mask\u2013 20 Pairs- Under Eye Patches with Face Massager Roller, Anti-Aging Hyaluronic Acid Collagen Eye Masks for Dark Circles and Puffiness Dark Under Eyes Treatment\nReview Date: 2020/09/08\nStore: FRLEDM\nAverage Rating: 4.2\nProduct Details: {'Package Dimensions': '7.4 x 6.8 x 1.1 inches; 1.2 Pounds', 'Batteries': '1 AA batteries required. (included)', 'UPC': '616985543564', 'Manufacturer': 'FRLEDM'}\nReview Text: I wish I was one of those girls that wake up looking rested and flawless. But some days I wake up looking like I cried my eyes out all night, even though I slept peacefully! Not fair. These under-eye patches have been helping you girl out. I don't know if this is how you're supposed to use them but I put them in the fridge overnight and then use them in the morning when my eyes are puffy. It feels amazing and brings down the puffiness.\nReview Title: Helps puffy morning eyes\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "24K Gold Under Eye Mask\u2013 20 Pairs- Under Eye Patches with Face Massager Roller, Anti-Aging Hyaluronic Acid Collagen Eye Masks for Dark Circles and Puffiness Dark Under Eyes Treatment\nFRLEDM\n{'Package Dimensions': '7.4 x 6.8 x 1.1 inches; 1.2 Pounds', 'Batteries': '1 AA batteries required. (included)', 'UPC': '616985543564', 'Manufacturer': 'FRLEDM'}\nI wish I was one of those girls that wake up looking rested and flawless. But some days I wake up looking like I cried my eyes out all night, even though I slept peacefully! Not fair. These under-eye patches have been helping you girl out. I don't know if this is how you're supposed to use them but I put them in the fridge overnight and then use them in the morning when my eyes are puffy. It feels amazing and brings down the puffiness.\nHelps puffy morning eyes",
+  "profile": "**User Profile Summary:**\n\n- **Skincare Enthusiast**: The user demonstrates a strong interest in skincare, particularly products targeting specific concerns such as dark circles and puffiness under the eyes.\n  \n- **Focus on Anti-Aging**: A clear preference for products that offer anti-aging benefits, suggesting a commitment to maintaining a youthful appearance.\n\n- **Practical Application**: The user employs practical methods for product use, like refrigerating the under-eye patches, indicating a hands-on approach to skincare.\n\n- **Problem-Solving Mindset**: The user seeks solutions for specific issues (e.g., puffiness), reflecting a proactive attitude towards self-care.\n\n- **Mindfulness of Results**: High rating and positive feedback suggest that the user values results and efficacy in their skincare products.\n\n- **Comfort and Experience**: Emphasis on the sensory experience of using the product (cooling effect) indicates a preference for enjoyable and comforting self-care rituals.\n\nOverall, the user appears to prioritize effective, enjoyable, and practical skincare solutions that address specific concerns while also fostering a sense of well-being.",
+  "metrics": {
+    "rouge1_f": 0.17532467532467536,
+    "rouge2_f": 0.039215686274509796,
+    "rougeL_f": 0.11688311688311688,
+    "meteor": 0.13831332729928691,
+    "bleu1": 0.17452830188679247,
+    "bleu2": 0.02876018689394023,
+    "bleu3": 0.007330293621333781,
+    "bleu4": 0.0037051385851177296,
+    "bertscore_precision": 0.4151490330696106,
+    "bertscore_recall": 0.4150165319442749,
+    "bertscore_f1": 0.41508275270462036
+  }
+}

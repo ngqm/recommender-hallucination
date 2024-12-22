@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nReview Date: 2020/09/02\nStore: MELARQT\nAverage Rating: 4.4\nProduct Details: {'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nReview Text: my fifteen year old has been using this (along with the daily facial cleanser) and it has helped clear the acne on his forehead. he gives it 5 stars!\nReview Title: helps with teenage boy acne\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nEMMOR\n{'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nnice color, nice texture, soft. comes with 2 nylon hair caps. great value for price.\nnice wig, great price.\nSELF/ish Men's Face Scrub | Exfoliating Facial Cleanser | Deep Cleansing | Effective Shave Prep & Beard Exfoliator for Men | Natural Ingredients | 3.4fl oz\nMELARQT\n{'Brand': 'MELARQT', 'Item Form': 'Scrub', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Exfoliating', 'Material Feature': 'Natural', 'Package Dimensions': '6.26 x 2.09 x 2.01 inches; 4.73 Ounces', 'Department': 'Men', 'UPC': '810042384002'}\nmy fifteen year old has been using this (along with the daily facial cleanser) and it has helped clear the acne on his forehead. he gives it 5 stars!\nhelps with teenage boy acne",
+  "profile": "**User Summary:**\n\nThe user demonstrates a clear preference for high-quality, value-oriented hair products, particularly wigs featuring modern styles and natural textures. They appreciate soft-touch items with aesthetically pleasing color options. This user prioritizes practicality, valuing products that come with additional accessories, indicating a focus on convenience and comprehensive solutions. Their positive ratings reflect satisfaction with both quality and price, suggesting a trend towards budget-sensitive purchases without compromising on standards. They favor synthetic hair options that mimic natural looks, likely for daily use or special occasions, and actively seek deals aligned with their value-driven approach.\n\nRecently, the user has expanded their interest to skincare, indicating a holistic approach to personal grooming. They have purchased a men's facial scrub praised for its effectiveness in addressing acne, particularly for teenagers, which shows an interest in products that provide tangible benefits and cater to specific skincare needs. This suggests a growing awareness of self-care routines and a desire to incorporate quality, effective products across various categories. Overall, the user's behavior reflects a commitment to value, quality, and practical solutions in both hair care and skincare products.",
+  "metrics": {
+    "rouge1_f": 0.23955431754874654,
+    "rouge2_f": 0.01680672268907563,
+    "rougeL_f": 0.11142061281337047,
+    "meteor": 0.14104209804947423,
+    "bleu1": 0.16641676489345392,
+    "bleu2": 0.008238099215192434,
+    "bleu3": 0.003029619826452895,
+    "bleu4": 0.0018394351552783478,
+    "bertscore_precision": 0.36506521701812744,
+    "bertscore_recall": 0.3962435722351074,
+    "bertscore_f1": 0.3800159692764282
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Torchwood\nReview Date: 2016/05/05\nCategories: Science Fiction, Fantasy, Suspense, Drama\nProduct Description: ['Torchwood follows the adventures of a team of investigators led by the enigmatic Captain Jack Harkness. Set in the UK in the present day, the team uses scavenged alien technology to solve crime both alien and human.']\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Goddard', 'Ashley Way', 'Euros Lyn', 'Colin Teague', 'Billy Gierhart', 'Guy Ferland', 'Brian Kelly', 'James Strong', 'Alice Troughton', 'Jonathan Fox Bassett'], 'Starring': ['John Barrowman', 'Eve Myles', 'Gareth David-Lloyd']}\nReview Text: Torchwood: Miracle Day is edgier than season 3, not really for the very young as it contains some sexual content. The story line is fabulous. I have only gotten to episode 8, but have been engrossed in this plot. Best yet!\nReview Title: Luv it!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Torchwood\nScience Fiction, Fantasy, Suspense, Drama\n['Torchwood follows the adventures of a team of investigators led by the enigmatic Captain Jack Harkness. Set in the UK in the present day, the team uses scavenged alien technology to solve crime both alien and human.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andy Goddard', 'Ashley Way', 'Euros Lyn', 'Colin Teague', 'Billy Gierhart', 'Guy Ferland', 'Brian Kelly', 'James Strong', 'Alice Troughton', 'Jonathan Fox Bassett'], 'Starring': ['John Barrowman', 'Eve Myles', 'Gareth David-Lloyd']}\nTorchwood: Miracle Day is edgier than season 3, not really for the very young as it contains some sexual content. The story line is fabulous. I have only gotten to episode 8, but have been engrossed in this plot. Best yet!\nLuv it!",
+  "profile": "**User Profile Summary:**\n\n- **Genres Preferred:** Strong interest in science fiction, fantasy, suspense, and drama narratives.\n- **Content Themes:** Enjoys intricate plots with elements of mystery and edginess; appreciates mature themes and character-driven stories.\n- **Engagement Style:** Highly engaged, as evidenced by a positive review despite not completing the entire series.\n- **Rating Tendencies:** Tends to rate highly when captivated by the storyline, indicating a preference for quality storytelling over other aspects like production values or star power.\n- **Viewing Context:** Likely prefers content that offers a mix of adventurous and thought-provoking themes, potentially geared towards adult audiences.\n- **Overall Enjoyment:** Expresses enthusiastic and positive reactions to compelling narratives\u2014\u201cluv it!\u201d demonstrates a strong emotional connection to the material. \n\nThis user appears to prioritize engrossing narratives and character development, favoring works that combine imaginative elements with complex storytelling.",
+  "metrics": {
+    "rouge1_f": 0.22656249999999997,
+    "rouge2_f": 0.03937007874015748,
+    "rougeL_f": 0.109375,
+    "meteor": 0.14791289925322482,
+    "bleu1": 0.18324607329842932,
+    "bleu2": 0.04391931277604773,
+    "bleu3": 0.010068151822946004,
+    "bleu4": 0.004826950604571822,
+    "bertscore_precision": 0.4191270172595978,
+    "bertscore_recall": 0.4398628771305084,
+    "bertscore_f1": 0.42924466729164124
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: WINOMO Eyebrow Shaping Stencils, Eyebrow Grooming Stencil Kit, Shaping Templates DIY Tools 9 Styles(Mainly White)\nReview Date: 2019/04/12\nStore: WINOMO\nAverage Rating: 3.0\nProduct Details: {'Brand': 'WINOMO', 'Item Form': 'Pencil', 'Skin Type': 'All', 'Item Weight': '0.02 Pounds', 'Item Dimensions LxWxH': '3.19 x 1.18 x 0.2 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3.19 x 1.18 x 0.2 inches; 0.32 Ounces', 'UPC': '191388030137'}\nReview Text: never like it!\nReview Title: hard to use\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Empty Deodorant Containers Round (2.2oz, Pack of 6) - BPA Free Clear Plastic, Small Size Great for Carry-On Travel, DIY Make Your Own Deodorant, Lip Balm, Lotion Bar, Moisturizer, Heel Balm, Sunscreen\nDermaFAB\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11 x 6 x 2 inches; 8 Ounces', 'Item model number': 'SG_B07CQ4GN39_US'}\nMaybe I used wrong way. If so better has instruction.\nleak\nWINOMO Eyebrow Shaping Stencils, Eyebrow Grooming Stencil Kit, Shaping Templates DIY Tools 9 Styles(Mainly White)\nWINOMO\n{'Brand': 'WINOMO', 'Item Form': 'Pencil', 'Skin Type': 'All', 'Item Weight': '0.02 Pounds', 'Item Dimensions LxWxH': '3.19 x 1.18 x 0.2 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '3.19 x 1.18 x 0.2 inches; 0.32 Ounces', 'UPC': '191388030137'}\nnever like it!\nhard to use",
+  "profile": "**User Summary:**\n\n- **Product Use:** Interested in DIY projects, particularly in creating personal care items such as deodorants, lip balms, lotions, and now also exploring eyebrow grooming tools.\n- **Travel-Friendly Focus:** Prefers compact and portable items suitable for travel.\n- **Material Preference:** Values BPA-free and safe materials for personal care products.\n- **Review Behavior:** Provides constructive feedback, seeking clear instructions to enhance product effectiveness. Recently exhibited a strong dissatisfaction with usability, indicating a critical stance when products fail to meet expectations.\n- **Rating Trends:** Maintains an overall positive inclination toward products (average rating of 4.5), though recent interactions reveal a more critical perspective on usability and effectiveness, leading to lower scores (e.g. a recent low rating for hard-to-use products).\n- **Engagement Style:** Engages analytically, emphasizing the need for user-friendly solutions and improvements in product design.\n\nOverall, the user displays creativity in DIY personal care, a practical focus on travel efficiency, and a critical eye for usability and quality, as evidenced by recent experiences with eyebrow grooming tools. This suggests a growing interest in refining their personal grooming routine alongside existing DIY interests.",
+  "metrics": {
+    "rouge1_f": 0.1761006289308176,
+    "rouge2_f": 0.05063291139240507,
+    "rougeL_f": 0.08176100628930817,
+    "meteor": 0.13691683569979718,
+    "bleu1": 0.1311475409836066,
+    "bleu2": 0.007346440054525401,
+    "bleu3": 0.0028147911105348973,
+    "bleu4": 0.0017441360850589133,
+    "bertscore_precision": 0.4064733386039734,
+    "bertscore_recall": 0.40286290645599365,
+    "bertscore_f1": 0.40466007590293884
+  }
+}

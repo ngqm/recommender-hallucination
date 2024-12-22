@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/01/23\nAverage Rating: 3.7\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Matthew Bonifacio'], 'Producers': ['Stephen Ashkinos', 'Matthew Bonifacio', 'Carmine Famiglietti'], 'Starring': ['Lou Martini Jr.', 'Susan Varon', 'Sharon Angela'], 'Studio': ['FilmBuff']}\nReview Text: This was listed as being a documentary and so I started it. It's clearly not, and from what I can tell (I only watched 20 minutes it's not that great of a movie.\nReview Title: Not a Documentary\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Matthew Bonifacio'], 'Producers': ['Stephen Ashkinos', 'Matthew Bonifacio', 'Carmine Famiglietti'], 'Starring': ['Lou Martini Jr.', 'Susan Varon', 'Sharon Angela'], 'Studio': ['FilmBuff']}\nThis was listed as being a documentary and so I started it. It's clearly not, and from what I can tell (I only watched 20 minutes it's not that great of a movie.\nNot a Documentary",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Genres:** The user appears to have a preference for documentaries but is disappointed when films misrepresent their genre.\n- **Expectations:** The user values accuracy in genre classification and expects films to adhere to their stated genre.\n- **Engagement Duration:** Indicates a tendency to disengage from content that does not meet expectations, as shown by the user stopping after 20 minutes.\n- **Rating Tendencies:** The user has a critical eye, as reflected by a moderate average rating, suggesting a balanced approach to assessing the quality of films.\n- **Content Appreciation:** They likely favor well-defined narratives and may prioritize educational or informative content over entertainment that lacks substance.\n\nThis initial summary reflects a user who seeks authenticity in film genres and has a critical view of media that fails to deliver on advertised content.",
+  "metrics": {
+    "rouge1_f": 0.14432989690721648,
+    "rouge2_f": 0.010416666666666666,
+    "rougeL_f": 0.09278350515463918,
+    "meteor": 0.1343986539163731,
+    "bleu1": 0.13068181818181818,
+    "bleu2": 0.027326786250001043,
+    "bleu3": 0.007542974225841438,
+    "bleu4": 0.003968674146561939,
+    "bertscore_precision": 0.399954617023468,
+    "bertscore_recall": 0.3889610171318054,
+    "bertscore_f1": 0.39438122510910034
+  }
+}

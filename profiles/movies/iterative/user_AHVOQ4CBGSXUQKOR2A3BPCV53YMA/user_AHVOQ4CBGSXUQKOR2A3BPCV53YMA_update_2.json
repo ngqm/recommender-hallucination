@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/21\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Smith', 'Anton Cropper', 'Christopher Misiano', 'Kevin Bray', 'Roger Kumble', 'Silver Tree', 'John Scott', 'Cherie Nowlan', 'Gabriel Macht', 'Patrick J. Adams'], 'Starring': ['Gabriel Macht', 'Patrick J. Adams', 'Rick Hoffman'], 'Studio': ['USA']}\nReview Text: Love.  Love this show and confident women!\nReview Title: One of the best\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholaus Goossen'], 'Producers': ['Allen Covert', 'Jack Giarraputo', 'Adam Sandler'], 'Starring': ['Allen Covert', 'Doris Roberts', 'Shirley Jones'], 'Studio': ['20TH CENTURY FOX']}\nI wish I could have gone back and time and got those two hours back.  My boyfriend at the time made me watch it.  Dumbest movie ever made.\nDon't waste your time, take a nap instead.\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael Smith', 'Anton Cropper', 'Christopher Misiano', 'Kevin Bray', 'Roger Kumble', 'Silver Tree', 'John Scott', 'Cherie Nowlan', 'Gabriel Macht', 'Patrick J. Adams'], 'Starring': ['Gabriel Macht', 'Patrick J. Adams', 'Rick Hoffman'], 'Studio': ['USA']}\nLove.  Love this show and confident women!\nOne of the best",
+  "profile": "User Summary:\n\nThis individual exhibits a strong preference for engaging media experiences, particularly valuing quality content. They demonstrate a low tolerance for poor storytelling or lackluster production quality, as evidenced by their previous rating of 1.0 for a film that did not meet their expectations. This user emphasizes the importance of meaningful entertainment and is straightforward in expressing dissatisfaction when experiences fall short, especially during shared viewings.\n\nRecently, the user expressed high appreciation for a television show, rating it 5.0 and highlighting their admiration for confident characters. This shift in rating indicates a willingness to engage with content that resonates positively with their values, suggesting they seek out narratives that empower and entertain. They continue to prioritize quality-focused experiences, remaining critical of media that fails to deliver substantial or provocative content.\n\nKeywords indicating preferences include:\n\n- Quality-focused\n- Discontent with poor storytelling \n- Engaged audience \n- Value for time invested \n- Appreciation for strong character development \n\nOverall, the user remains critical of films that disappoint but is also capable of recognizing and celebrating content that aligns with their desire for thought-provoking and entertaining narratives.",
+  "metrics": {
+    "rouge1_f": 0.08974358974358974,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05128205128205128,
+    "meteor": 0.06165473349244233,
+    "bleu1": 0.10166471303985652,
+    "bleu2": 0.006202565910756062,
+    "bleu3": 0.0024458552094947066,
+    "bleu4": 0.0015378266878910644,
+    "bertscore_precision": 0.34445565938949585,
+    "bertscore_recall": 0.3687649071216583,
+    "bertscore_f1": 0.35619598627090454
+  }
+}

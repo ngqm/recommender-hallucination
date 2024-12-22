@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/12/10\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nReview Text: Hilarious\nReview Title: Hilarious\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nHilarious\nHilarious",
+  "profile": "**User Summary:**\n\n- **Rating Preferences:** Tends to give high ratings, notably a 5.0 for comedic content.\n- **Content Type:** Enjoys humorous entertainment, particularly comedies featuring notable comedic actors and directors.\n- **Language & Accessibility:** Prefers content in English, with a keen interest in offerings that include audio descriptions and closed captions for enhanced accessibility.\n- **Industry Connections:** Favors works produced or directed by influential figures in comedy, indicating an appreciation for recognizable talent in the industry.\n- **Overall Sentiment:** Expresses positive sentiments towards content that is entertaining and engaging, reflecting a strong inclination towards laugh-inducing experiences.\n\nThis initial profile suggests the user values humor and accessibility in their media choices, with a penchant for high-quality productions led by established comedic talents.",
+  "metrics": {
+    "rouge1_f": 0.08275862068965519,
+    "rouge2_f": 0.01398601398601399,
+    "rougeL_f": 0.0689655172413793,
+    "meteor": 0.10738506902559981,
+    "bleu1": 0.0736196319018405,
+    "bleu2": 0.0067412326189917465,
+    "bleu3": 0.0030447449373638704,
+    "bleu4": 0.002049430485534913,
+    "bertscore_precision": 0.4131997227668762,
+    "bertscore_recall": 0.3290966749191284,
+    "bertscore_f1": 0.36638370156288147
+  }
+}

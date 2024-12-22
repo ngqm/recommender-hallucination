@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Professional Tattoo Stencil +100 Self-adhesive Temporary Tattoo Templates for Henna/Airbrush/Face paint/Glitter\nReview Date: 2018/11/09\nStore: Gilded Girl\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10.5 x 8.5 x 0.5 inches; 4.37 Ounces', 'UPC': '704715526281', 'Manufacturer': 'Nanjari Logistics Solutions, LLC'}\nReview Text: I love them. Easy to use and it can be use mire than twice.\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Professional Tattoo Stencil +100 Self-adhesive Temporary Tattoo Templates for Henna/Airbrush/Face paint/Glitter\nGilded Girl\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10.5 x 8.5 x 0.5 inches; 4.37 Ounces', 'UPC': '704715526281', 'Manufacturer': 'Nanjari Logistics Solutions, LLC'}\nI love them. Easy to use and it can be use mire than twice.\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Body art, particularly temporary tattoos, henna, airbrush designs, face painting, and glitter applications.\n- **Preferences:** Values ease of use and versatility in products, indicating a preference for tools that can be reused or that offer multiple applications.\n- **Satisfaction Level:** Shows a positive attitude towards products, demonstrated by a high rating and enthusiastic feedback.\n- **Behavior:** Engages with products that enhance creativity and self-expression through temporary body art. Likely to appreciate products that simplify the creation process and are user-friendly.\n\nOverall, this user demonstrates a clear inclination towards creative and artistic pursuits, with a focus on products that support temporary body modifications effectively and conveniently.",
+  "metrics": {
+    "rouge1_f": 0.19277108433734938,
+    "rouge2_f": 0.06097560975609756,
+    "rougeL_f": 0.1325301204819277,
+    "meteor": 0.14481939163498103,
+    "bleu1": 0.10666666666666669,
+    "bleu2": 0.03783870158723216,
+    "bleu3": 0.009890165942545262,
+    "bleu4": 0.005064928864287814,
+    "bertscore_precision": 0.42049938440322876,
+    "bertscore_recall": 0.4170633554458618,
+    "bertscore_f1": 0.4187743067741394
+  }
+}

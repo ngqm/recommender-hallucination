@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 1 Ounce Hyaluronic Acid Serum for Skin \u2013 Hydrating Facial Moisturizer with Anti-Aging Skin Care Properties. Beauty and Skin Care\nReview Date: 2019/06/18\nStore: Temer\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Temer', 'Item Form': 'Oil', 'Active Ingredients': 'Hyaluronic_acid', 'Unit Count': '1 Fl. Oz', 'Number of Items': '1'}\nReview Text: For those of you familiar with Hyaluronic Acid Serum, you know how well this works.  For those of you who are not familiar with it, I would be hesitant to say that Hyaluronic Acid is a go to miracle solution for wrinkles.  It will temporarily reduce them I find, but that's good enough for me.  I tend to use these on days where I've had late nights or need an extra bit of a touch up.  If you haven't tried it before, I'd give it a go to see what you think but for me, it's one of those essentials I keep on hand.\nReview Title: Good for what it is\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "1 Ounce Hyaluronic Acid Serum for Skin \u2013 Hydrating Facial Moisturizer with Anti-Aging Skin Care Properties. Beauty and Skin Care\nTemer\n{'Brand': 'Temer', 'Item Form': 'Oil', 'Active Ingredients': 'Hyaluronic_acid', 'Unit Count': '1 Fl. Oz', 'Number of Items': '1'}\nFor those of you familiar with Hyaluronic Acid Serum, you know how well this works.  For those of you who are not familiar with it, I would be hesitant to say that Hyaluronic Acid is a go to miracle solution for wrinkles.  It will temporarily reduce them I find, but that's good enough for me.  I tend to use these on days where I've had late nights or need an extra bit of a touch up.  If you haven't tried it before, I'd give it a go to see what you think but for me, it's one of those essentials I keep on hand.\nGood for what it is",
+  "profile": "**User Profile Summary:**\n\n- **Beauty & Skin Care Focus:** The user demonstrates a clear interest in beauty products, specifically those related to skin care.\n- **Active Ingredients:** Shows a preference for products containing key active ingredients, like Hyaluronic Acid, appreciated for its hydrating and anti-aging properties.\n- **Practical Use:** Values products that offer temporary improvements, indicating a preference for solutions that provide immediate results, especially after late nights or when needing a quick refresh.\n- **Repeat Purchaser:** Identifies essential products to keep on hand, suggesting they favor reliable items with demonstrated effectiveness.\n- **Cautious Optimism:** While recognizing the benefits, the user maintains a realistic view on performance, indicating a thoughtful and moderate approach to skin care. \n- **Positive Experience:** Rates the product highly, suggesting satisfaction with the results and willingness to recommend it to others.\n\nOverall, the user's profile indicates a practical, ingredient-focused approach to skin care, with a preference for immediate, reliable results in their beauty regimen.",
+  "metrics": {
+    "rouge1_f": 0.29967426710097717,
+    "rouge2_f": 0.059016393442622946,
+    "rougeL_f": 0.16286644951140067,
+    "meteor": 0.22128118511505812,
+    "bleu1": 0.25233644859813087,
+    "bleu2": 0.08430936469097154,
+    "bleu3": 0.04062704695499906,
+    "bleu4": 0.013351831048096416,
+    "bertscore_precision": 0.4700932800769806,
+    "bertscore_recall": 0.4583190679550171,
+    "bertscore_f1": 0.46413153409957886
+  }
+}

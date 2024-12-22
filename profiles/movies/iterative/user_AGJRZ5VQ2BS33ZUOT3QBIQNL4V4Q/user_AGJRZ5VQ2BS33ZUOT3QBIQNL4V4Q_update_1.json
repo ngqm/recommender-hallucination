@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/05/20\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Love it!!! Incredible show!  I can't stop watching every second of it.  The characters are wonderful and charismatic.  The storyline is engaging.\nReview Title: Love it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'David Evans', 'Philip John', 'Andy Goddard', 'Catherine Morshead', 'Minkie Spiro', 'Brian Kelly', 'Michael Engler', 'Ben Bolt', 'Ashley Pearce'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nLove it!!! Incredible show!  I can't stop watching every second of it.  The characters are wonderful and charismatic.  The storyline is engaging.\nLove it",
+  "profile": "**User Profile Summary:**\n\n- **Overall Rating Preference:** Tends to favor high-quality content, often rating around 4.8 to 5.0.\n  \n- **Content Genres:** Prefers engaging dramas, likely with historical or period themes, characterized by strong character development.\n\n- **Character Appreciation:** Shows a strong preference for charismatic and well-developed characters.\n\n- **Storytelling Style:** Enjoys intricate and engaging storylines that captivate attention, indicating a desire for narratives that are both immersive and compelling.\n\n- **Content Advisory Tolerance:** Open to themes that include violence and foul language, suggesting a comfort with mature content.\n\n- **Language and Accessibility Needs:** Prefers content available in English, appreciates audio descriptions, and values subtitles for accessibility.\n\n- **Production Quality:** Shows an inclination towards well-produced shows, possibly favoring content from specific studios recognized for high-quality productions.\n\nThis user appears to be an enthusiastic viewer who engages deeply with content that resonates on emotional and narrative levels.",
+  "metrics": {
+    "rouge1_f": 0.16901408450704225,
+    "rouge2_f": 0.02843601895734597,
+    "rougeL_f": 0.11267605633802817,
+    "meteor": 0.11392562630772156,
+    "bleu1": 0.11442786069651742,
+    "bleu2": 0.007563989049982735,
+    "bleu3": 0.0030634883668966776,
+    "bleu4": 0.0019520722111279136,
+    "bertscore_precision": 0.38890859484672546,
+    "bertscore_recall": 0.3856746256351471,
+    "bertscore_f1": 0.38728487491607666
+  }
+}

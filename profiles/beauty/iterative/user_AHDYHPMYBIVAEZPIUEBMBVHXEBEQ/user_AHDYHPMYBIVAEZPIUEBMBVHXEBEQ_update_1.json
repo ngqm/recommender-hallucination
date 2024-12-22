@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: One Dozen Hibiscus Flower Hair Clips/LUAU/BEACH Party Supplies/Hair Accessories\nReview Date: 2015/07/08\nAverage Rating: 3.8\nProduct Details: {'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Flower, Bow', 'Theme': 'Floral', 'Occasion': 'Wedding, Birthdays', 'Package Dimensions': '3.5 x 2.3 x 0.5 inches; 2.4 Ounces'}\nReview Text: Very lovely.  Would buy again.\nReview Title: Very lovely. Would buy again.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "One Dozen Hibiscus Flower Hair Clips/LUAU/BEACH Party Supplies/Hair Accessories\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Flower, Bow', 'Theme': 'Floral', 'Occasion': 'Wedding, Birthdays', 'Package Dimensions': '3.5 x 2.3 x 0.5 inches; 2.4 Ounces'}\nVery lovely.  Would buy again.\nVery lovely. Would buy again.",
+  "profile": "**User Summary:**\n\n- **Interests:** Floral themes, vibrant and decorative accessories, particularly hair accessories.\n- **Occasions:** Enjoys products suited for weddings and birthdays, indicating a preference for celebration and event-oriented items.\n- **Aesthetic:** Appreciates lovely and visually appealing designs, with a positive inclination toward colorful embellishments like flowers and bows.\n- **Quality Expectation:** Shows a willingness to repurchase, suggesting satisfaction with product quality and value.\n- **Target Group:** Purchases designed for adults, indicating a mature demographic instinct in taste.\n\nThis user appears to favor decorative, thematic accessories that enhance personal style, especially in social and celebratory contexts.",
+  "metrics": {
+    "rouge1_f": 0.16783216783216784,
+    "rouge2_f": 0.014184397163120569,
+    "rougeL_f": 0.08391608391608392,
+    "meteor": 0.14688601645123384,
+    "bleu1": 0.12857142857142856,
+    "bleu2": 0.009617558454562523,
+    "bleu3": 0.004062096106002491,
+    "bleu4": 0.0026447370781654067,
+    "bertscore_precision": 0.43228858709335327,
+    "bertscore_recall": 0.4158083200454712,
+    "bertscore_f1": 0.42388832569122314
+  }
+}

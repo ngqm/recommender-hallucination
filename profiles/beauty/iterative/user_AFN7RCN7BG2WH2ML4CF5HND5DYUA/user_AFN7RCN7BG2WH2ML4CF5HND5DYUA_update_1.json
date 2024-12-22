@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 25mm 3D Mink Lashes Full Volume Mink Eyelashes Fluffy Volume Dramatic 25mm Mink Lashes Extension Cruelty-free Siberian Mink Strip Eyelashes\u2026\u2026\u2026 (LJ632AMIX)\nReview Date: 2021/03/03\nStore: HICOCU\nProduct Description: ['25mm 3D Mink Lashes Full Volume Mink Eyelashes Fluffy Volume Dramatic 25mm Mink Lashes Extension Cruelty-free Siberian Mink Strip Eyelashes']\nAverage Rating: 4.4\nProduct Details: {'Color': 'LJ632AMIX', 'Brand': 'HICOCU', 'Material': 'Silk, Faux Mink, Mink Fur', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Package Dimensions': '5.43 x 5.31 x 0.75 inches; 0.63 Ounces', 'Manufacturer': 'HICOCU'}\nReview Text: Cute packaging. Lashes look and feel great. I tried on the longest/fullest pair.\nReview Title: Great lashes\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "25mm 3D Mink Lashes Full Volume Mink Eyelashes Fluffy Volume Dramatic 25mm Mink Lashes Extension Cruelty-free Siberian Mink Strip Eyelashes\u2026\u2026\u2026 (LJ632AMIX)\nHICOCU\n['25mm 3D Mink Lashes Full Volume Mink Eyelashes Fluffy Volume Dramatic 25mm Mink Lashes Extension Cruelty-free Siberian Mink Strip Eyelashes']\n{'Color': 'LJ632AMIX', 'Brand': 'HICOCU', 'Material': 'Silk, Faux Mink, Mink Fur', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Package Dimensions': '5.43 x 5.31 x 0.75 inches; 0.63 Ounces', 'Manufacturer': 'HICOCU'}\nCute packaging. Lashes look and feel great. I tried on the longest/fullest pair.\nGreat lashes",
+  "profile": "**User Summary:**\n\n- **Beauty Products**: User shows a strong preference for high-quality beauty products, specifically focusing on eyelashes.\n- **Product Material**: Values cruelty-free and high-end materials, highlighted by the selection of mink and faux mink lashes.\n- **Aesthetic Preferences**: Prefers dramatic, fluffy, and voluminous lash styles, indicating a taste for bold makeup looks.\n- **Quality Over Quantity**: Rated the product highly (5.0) and noted positive aspects like packaging and overall feel, suggesting a keen eye for detail and quality in aesthetics.\n- **Brand Loyalty**: Engaged with a specific brand, indicating potential loyalty or satisfaction with the products from this brand.\n- **Positive Experience**: Tends to have a positive outlook on product experiences, as evidenced by the enthusiastic review and the emphasis on visual and tactile appeal.\n\nThis profile illustrates a user who prioritizes effective beauty enhancements with a preference for ethical products and a focus on dramatic aesthetics.",
+  "metrics": {
+    "rouge1_f": 0.18410041841004185,
+    "rouge2_f": 0.02531645569620253,
+    "rougeL_f": 0.12552301255230125,
+    "meteor": 0.14147431124348475,
+    "bleu1": 0.13,
+    "bleu2": 0.008082489292651686,
+    "bleu3": 0.0032073155895433903,
+    "bleu4": 0.0020229712693154633,
+    "bertscore_precision": 0.4094077944755554,
+    "bertscore_recall": 0.40163934230804443,
+    "bertscore_f1": 0.4054863750934601
+  }
+}

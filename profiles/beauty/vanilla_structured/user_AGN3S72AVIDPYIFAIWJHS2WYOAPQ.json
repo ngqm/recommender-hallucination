@@ -1,0 +1,77 @@
+{
+  "user_id": "AGN3S72AVIDPYIFAIWJHS2WYOAPQ",
+  "summary": "=== Purchase Information ===\nProduct Title: Premium Quality Stainless Steel Manicure/Pedicure Cuticle Pusher/Scraper By VAGA\nReview Date: 2015/10/16\nStore: VAGA\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'UPC': '820103562836'}\nReview Text: They came quickly and very sturdy metal. Exactly what I needed. Yes I'd buy more.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: CHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher\nReview Date: 2015/10/16\nStore: CHOP MALL\nProduct Description: ['CHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher']\nAverage Rating: 5.0\nProduct Details: {'Item model number': 'nail2gen02', 'Manufacturer': 'CHOP MALL'}\nReview Text: Came quickly & loved them great pushers for acrylic prep. Love them I do recommend.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Sannysis DIY Nail Art Image Stamp Stamping Plates Manicure Template (OM60)\nReview Date: 2015/11/11\nAverage Rating: 4.4\nProduct Details: {}\nReview Text: Quick delivery, great packaging, new, no scratches, deep print, great results I do recommend.\nReview Title: great packaging, new\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Mia Secret Oval Kolinsky Nail Brush Size #6\nReview Date: 2015/12/01\nStore: Mia Secret\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Mia Secret', 'Handle Material': 'Aluminum', 'Head Material': 'Kolinsky', 'Unit Count': '1.00 Count', 'Shape': 'Oval', 'Item Weight': '0.96 Ounces'}\nReview Text: Love this brush, great quality, exactly what I ordered & great packaging.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Susenstone Christmas DIY Image Stamp Stamping Plates Manicure Template Nail Art Plate\nReview Date: 2016/02/27\nAverage Rating: 3.7\nProduct Details: {}\nReview Text: Awsome stamper & came within the week.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference": "Premium Quality Stainless Steel Manicure/Pedicure Cuticle Pusher/Scraper By VAGA\nVAGA\n{'Is Discontinued By Manufacturer': 'No', 'UPC': '820103562836'}\nThey came quickly and very sturdy metal. Exactly what I needed. Yes I'd buy more.\nFive Stars\nCHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher\nCHOP MALL\n['CHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher']\n{'Item model number': 'nail2gen02', 'Manufacturer': 'CHOP MALL'}\nCame quickly & loved them great pushers for acrylic prep. Love them I do recommend.\nFive Stars\nSannysis DIY Nail Art Image Stamp Stamping Plates Manicure Template (OM60)\n{}\nQuick delivery, great packaging, new, no scratches, deep print, great results I do recommend.\ngreat packaging, new\nMia Secret Oval Kolinsky Nail Brush Size #6\nMia Secret\n{'Brand': 'Mia Secret', 'Handle Material': 'Aluminum', 'Head Material': 'Kolinsky', 'Unit Count': '1.00 Count', 'Shape': 'Oval', 'Item Weight': '0.96 Ounces'}\nLove this brush, great quality, exactly what I ordered & great packaging.\nFive Stars\nSusenstone Christmas DIY Image Stamp Stamping Plates Manicure Template Nail Art Plate\n{}\nAwsome stamper & came within the week.\nFive Stars",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: Premium Quality Stainless Steel Manicure/Pedicure Cuticle Pusher/Scraper By VAGA\nReview Date: 2015/10/16\nStore: VAGA\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'UPC': '820103562836'}\nReview Text: They came quickly and very sturdy metal. Exactly what I needed. Yes I'd buy more.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: CHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher\nReview Date: 2015/10/16\nStore: CHOP MALL\nProduct Description: ['CHOP MALL 600pcs Nail Wipe Cotton Pads and 1 pcs Cuticle Pusher']\nAverage Rating: 5.0\nProduct Details: {'Item model number': 'nail2gen02', 'Manufacturer': 'CHOP MALL'}\nReview Text: Came quickly & loved them great pushers for acrylic prep. Love them I do recommend.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Sannysis DIY Nail Art Image Stamp Stamping Plates Manicure Template (OM60)\nReview Date: 2015/11/11\nAverage Rating: 4.4\nProduct Details: {}\nReview Text: Quick delivery, great packaging, new, no scratches, deep print, great results I do recommend.\nReview Title: great packaging, new\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Mia Secret Oval Kolinsky Nail Brush Size #6\nReview Date: 2015/12/01\nStore: Mia Secret\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Mia Secret', 'Handle Material': 'Aluminum', 'Head Material': 'Kolinsky', 'Unit Count': '1.00 Count', 'Shape': 'Oval', 'Item Weight': '0.96 Ounces'}\nReview Text: Love this brush, great quality, exactly what I ordered & great packaging.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Susenstone Christmas DIY Image Stamp Stamping Plates Manicure Template Nail Art Plate\nReview Date: 2016/02/27\nAverage Rating: 3.7\nProduct Details: {}\nReview Text: Awsome stamper & came within the week.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe purchase history reveals a strong preference for nail care and beauty products, underscored by consistently high ratings and positive sentiments. The individual exhibits a clear appreciation for high-quality, durable tools that enhance their manicure and pedicure experiences. Frequent emphasis is placed on quick delivery and satisfaction with product condition upon arrival, indicating an expectation for reliability and prompt service.\n\nCommon themes suggest a focus on products that facilitate DIY nail art, as highlighted by multiple purchases related to stamping and application tools. Quality is a critical factor, with several items receiving ratings of 4.0 or higher, but there's a discernible tolerance for variations; products rated as low as 3.7 still earned favorable reviews due to overall satisfaction.\n\nPrice sensitivity appears to be moderate, given the inclination towards premium options, evidenced by the purchase of sophisticated tools like a Kolinsky nail brush. The consistent trend of recommending products supports the notion that this shopper values sharing positive experiences, indicating a potential line of community engagement or social influence.\n\nIn summary, this individual demonstrates a genuine preference for high-quality, reliable nail care tools, with a focus on efficient delivery and DIY capabilities, while maintaining an openness to varied pricing structures within their product choices.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Perfect works great!!",
+    "images": [],
+    "asin": "B018JXEFNC",
+    "parent_asin": "B018JXEFNC",
+    "user_id": "AGN3S72AVIDPYIFAIWJHS2WYOAPQ",
+    "timestamp": "2016-04-25 19:51:46",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "Born Pretty Nail Art Stamp Template Image Plate Romantic Butterfly Patterns BP34",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61aF6ox81mL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61aF6ox81mL.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/71VFNLQwgjL._SL1000_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51mdpuMl+iL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51mdpuMl+iL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/71TToNk25XL._SL1001_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51CYmSF9shL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51CYmSF9shL.jpg",
+        "variant": "PT02",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/61izDyJafKL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/61izDyJafKL.jpg",
+        "variant": "PT03",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51GUMIfY4OL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51GUMIfY4OL.jpg",
+        "variant": "PT04",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51ajLqS099L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51ajLqS099L.jpg",
+        "variant": "PT05",
+        "hi_res": null
+      }
+    ],
+    "videos": [],
+    "store": "Born Pretty",
+    "categories": [],
+    "details": {
+      "Manufacturer": "Born Pretty"
+    },
+    "bought_together": null
+  }
+}

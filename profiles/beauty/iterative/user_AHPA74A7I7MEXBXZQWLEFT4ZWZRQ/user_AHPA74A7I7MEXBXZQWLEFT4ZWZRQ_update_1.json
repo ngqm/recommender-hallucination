@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Grace Plus Hair 613 Blonde Straight Human Hair Lace Front Wigs 150% Density 13x4 Brazilian Straight Human Hair Wigs for Women Pre Plucked With Baby Hair (30 inch, 613 Blonde wig)\nReview Date: 2020/05/23\nStore: GRACE PLUS\nAverage Rating: 3.3\nProduct Details: {}\nReview Text: It sheds tremendously!!! And the wig is not 150 density ... I have a recent blonde 150 density wig and it\u2019s full as hell (Another vendor and website) !! And yes I\u2019m getting my $294 back. If you get a wig from them just make sure it\u2019s 18 inches and shorter. The longer the worse. And it tangles\nReview Title: Buy at your own risk\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Grace Plus Hair 613 Blonde Straight Human Hair Lace Front Wigs 150% Density 13x4 Brazilian Straight Human Hair Wigs for Women Pre Plucked With Baby Hair (30 inch, 613 Blonde wig)\nGRACE PLUS\n{}\nIt sheds tremendously!!! And the wig is not 150 density ... I have a recent blonde 150 density wig and it\u2019s full as hell (Another vendor and website) !! And yes I\u2019m getting my $294 back. If you get a wig from them just make sure it\u2019s 18 inches and shorter. The longer the worse. And it tangles\nBuy at your own risk",
+  "profile": "**User Summary:**\n\n- **Hair Product Preferences:** Prefers high-density wigs but has experienced dissatisfaction with claims of density in purchased products. Particularly critiques shedding and tangling issues in longer hairstyles, suggesting a preference for shorter wigs.\n  \n- **Quality Concerns:** Places significant importance on product quality, as evidenced by the critical review highlighting the discrepancy in advertised versus actual product performance. Expresses willingness to seek refunds for unsatisfactory purchases.\n\n- **Color Preference:** Has shown a preference for blonde hair, specifically a shade that aligns with previous positive experiences from other vendors.\n\n- **Review Behavior:** Engages actively in leaving reviews, indicating a desire to share experiences and warn others about potential pitfalls. \n\n- **Customer Service Expectations:** Expects responsive customer service and fair return policies, as indicated by the mention of seeking a refund after a disappointing purchase.\n\nOverall, this user values quality, density, and tangibility in hair products and prefers to make informed decisions based on previous experiences.",
+  "metrics": {
+    "rouge1_f": 0.2338709677419355,
+    "rouge2_f": 0.008130081300813009,
+    "rougeL_f": 0.12096774193548386,
+    "meteor": 0.13855898653998416,
+    "bleu1": 0.10447761194029852,
+    "bleu2": 0.007227641798688508,
+    "bleu3": 0.002971985743135815,
+    "bleu4": 0.0019081773819061138,
+    "bertscore_precision": 0.41262590885162354,
+    "bertscore_recall": 0.3715779781341553,
+    "bertscore_f1": 0.39102762937545776
+  }
+}

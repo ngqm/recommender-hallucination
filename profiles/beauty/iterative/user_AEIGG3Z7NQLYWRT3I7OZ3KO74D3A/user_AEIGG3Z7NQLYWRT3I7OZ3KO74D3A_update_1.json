@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Nu-pore Hydrocolloid Pimple Patch - Blemish Patches to care for Blemish Control, scar prevention, must haves tools for skincare. korean makeup trusted cosmetics secret k-beauty. 60 Patches\nReview Date: 2021/10/26\nStore: nu-pore\nAverage Rating: 3.6\nProduct Details: {'Brand': 'Nu-pore', 'Item Form': 'Patch', 'Product Benefits': 'Blemish Control', 'Scent': 'Hydrocolloid', 'Skin Type': 'Acne Prone', 'Product Dimensions': '5 x 3 x 3 inches; 1.2 Ounces', 'UPC': '780707702413'}\nReview Text: I tend to breakout a lot especially week prior to menstrual period. These pimple patches do a great job in minimizing pimple size and inflammation. I put it on at night before bed and when I wake up in the morning, the pimple is almost gone. It has good adhesion, mine did not come off during sleep. I definitely recommend.\nReview Title: Helps minimize inflammation\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Nu-pore Hydrocolloid Pimple Patch - Blemish Patches to care for Blemish Control, scar prevention, must haves tools for skincare. korean makeup trusted cosmetics secret k-beauty. 60 Patches\nnu-pore\n{'Brand': 'Nu-pore', 'Item Form': 'Patch', 'Product Benefits': 'Blemish Control', 'Scent': 'Hydrocolloid', 'Skin Type': 'Acne Prone', 'Product Dimensions': '5 x 3 x 3 inches; 1.2 Ounces', 'UPC': '780707702413'}\nI tend to breakout a lot especially week prior to menstrual period. These pimple patches do a great job in minimizing pimple size and inflammation. I put it on at night before bed and when I wake up in the morning, the pimple is almost gone. It has good adhesion, mine did not come off during sleep. I definitely recommend.\nHelps minimize inflammation",
+  "profile": "**User Profile Summary:**\n\n**Skincare Preferences:** The user has a strong interest in managing acne and blemish control, seeking effective solutions for skin concerns related to breakouts. They demonstrate a particular affinity for products that prevent scarring and reduce inflammation.\n\n**Treatment Methods:** This user prefers topical solutions, specifically patches, that can be applied overnight. Their routine suggests a preference for convenience and efficacy, highlighting a desire for products that deliver visible results quickly.\n\n**Product Characteristics:** The user values good adhesion of skincare products, indicating they prefer items that stay in place throughout the night. They appreciate products that are low maintenance and that can seamlessly fit into their nighttime routine.\n\n**Purchase Behavior:** The user appears to lean towards K-beauty products, suggesting an interest in trends and trusted brands in the skincare industry. They are also discerning, as indicated by their average rating and the detailed feedback provided.\n\n**Overall Trends:** The user demonstrates consistency in seeking out acne-focused solutions, valuing efficiency, convenience, and product reliability in their skincare regimen.",
+  "metrics": {
+    "rouge1_f": 0.2268041237113402,
+    "rouge2_f": 0.03460207612456747,
+    "rougeL_f": 0.10309278350515465,
+    "meteor": 0.1774650751638539,
+    "bleu1": 0.19907407407407404,
+    "bleu2": 0.05270462766947299,
+    "bleu3": 0.010908404703507667,
+    "bleu4": 0.004968508425343378,
+    "bertscore_precision": 0.4299297630786896,
+    "bertscore_recall": 0.4504462480545044,
+    "bertscore_f1": 0.4399489462375641
+  }
+}

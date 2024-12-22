@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/07/05\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sergio Leone'], 'Producers': ['Giorgio Papi', 'Arrigo Colombo'], 'Starring': ['Clint Eastwood', 'Marianne Koch', 'John Wels'], 'Studio': ['MGM']}\nReview Text: I just like almost all of Clint Eastwood movies.My husband always wanted to go to his new movies.In those days there were no  videos.\nReview Title: Clint Eastwood Movies\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Oliver Hirschbiegel'], 'Producers': ['Robert Bernstein', 'Douglas Rae'], 'Starring': ['Naomi Watts', 'Naveen Andrews', 'Geraldine James'], 'Studio': ['EONE']}\nI loved this sweet love story. It showed the caring side of Diana and she really loved the Doctor is story.\nSweet Love Story\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sergio Leone'], 'Producers': ['Giorgio Papi', 'Arrigo Colombo'], 'Starring': ['Clint Eastwood', 'Marianne Koch', 'John Wels'], 'Studio': ['MGM']}\nI just like almost all of Clint Eastwood movies.My husband always wanted to go to his new movies.In those days there were no  videos.\nClint Eastwood Movies",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Primarily enjoys romantic narratives that delve into emotional depth and character connections, but has an appreciation for classic films featuring notable actors, suggesting a broadening interest in various genres.\n  \n- **Themes:** Prefers stories that highlight genuine love, care, and personal relationships, indicating a strong affinity for character-driven plots, though also values narratives featuring strong, iconic performances.\n\n- **Content Type:** Favors films with robust emotional storytelling and character development, while also showing an interest in classic cinema known for its storytelling excellence, emphasizing a balanced taste in both contemporary and classic films.\n\n- **Language:** Engages with media primarily in English, utilizing both audio and subtitles, indicating comfort with English-language content.\n\n- **Rating Behavior:** Tends to rate films positively, reflected in high ratings for both romantic stories and classic films, showcasing an appreciation for quality storytelling and production.\n\n- **Director and Actor Recognition:** Values the works of renowned directors and established actors like Sergio Leone and Clint Eastwood, suggesting a preference for high-quality productions and performances that leave a lasting impact.\n\n- **Additional Insight:** The user shares a nostalgic connection to cinema, particularly in relation to their spouse, revealing a personal connection to the art of film that enhances their viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.17475728155339806,
+    "rouge2_f": 0.013029315960912051,
+    "rougeL_f": 0.0970873786407767,
+    "meteor": 0.1226039833256137,
+    "bleu1": 0.1449814126394052,
+    "bleu2": 0.023258878311223183,
+    "bleu3": 0.0058733888875948026,
+    "bleu4": 0.002954242616324804,
+    "bertscore_precision": 0.3965054154396057,
+    "bertscore_recall": 0.3923508822917938,
+    "bertscore_f1": 0.3944172263145447
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Keanu\nReview Date: 2016/10/28\nCategories: Comedy, Action, Intense, Fun\nProduct Description: ['Cousins hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.']\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Atencio'], 'Producers': ['Keegan-Michael Key', 'Jordan Peele', 'Peter Principato', 'Paul Young', 'Joel Zadak'], 'Starring': ['Jordan Peele', 'Keegan-Michael Key', 'Tiffany Haddish']}\nReview Text: it had a few funny scenes but I could only suffer through 30-40mins till I got bored and started washing clothes instead.  I like the main actors.  I would like to see them in a better movie.\nReview Title: Kinda funny but lost interest less than half way through....\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Keanu\nComedy, Action, Intense, Fun\n['Cousins hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.']\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peter Atencio'], 'Producers': ['Keegan-Michael Key', 'Jordan Peele', 'Peter Principato', 'Paul Young', 'Joel Zadak'], 'Starring': ['Jordan Peele', 'Keegan-Michael Key', 'Tiffany Haddish']}\nit had a few funny scenes but I could only suffer through 30-40mins till I got bored and started washing clothes instead.  I like the main actors.  I would like to see them in a better movie.\nKinda funny but lost interest less than half way through....",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** The user has an interest in comedy and action genres, indicating a preference for films that blend humor with dynamic storytelling.\n  \n- **Engagement Level:** Exhibits a low engagement level with the content, as evidenced by losing interest within the first 30-40 minutes of viewing. This suggests a tendency towards selective viewing, favoring stronger narratives or pacing.\n\n- **Actor Appreciation:** Shows a clear admiration for specific actors, which influences their viewing choices. The user's desire to see favored actors in better films implies that they prioritize performance and talent in their entertainment selections.\n\n- **Review Disposition:** Exhibits a critical but constructive approach to reviews, expressing both appreciation and disappointment. This suggests a discerning taste and expectation for quality content.\n\n- **Tolerance for Content:** Indicates a limited tolerance for elements such as violence, nudity, and explicit language, which may impact viewing decisions.\n\n- **Overall Trend:** The user seeks compelling narratives and high-quality performances but may easily disengage if content does not meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.19285714285714287,
+    "rouge2_f": 0.007194244604316547,
+    "rougeL_f": 0.09285714285714286,
+    "meteor": 0.11346054667354305,
+    "bleu1": 0.1772727272727273,
+    "bleu2": 0.028451089752321357,
+    "bleu3": 0.0071875427244326145,
+    "bleu4": 0.0036167658716552437,
+    "bertscore_precision": 0.39584827423095703,
+    "bertscore_recall": 0.4224564731121063,
+    "bertscore_f1": 0.4087197780609131
+  }
+}

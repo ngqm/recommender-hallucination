@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bandana Headband for Women,MHDGG Sequins Wide Headbands Turban Headband Hair Band Bandana Hairband Head Band Wrap with Bow Cloth Wrapped Headwear,Pink\nReview Date: 2021/03/14\nStore: MHDGG\nAverage Rating: 4.0\nProduct Details: {'Material': 'Cloth', 'Brand': 'MHDGG', 'Size': 'Medium', 'Item Form': 'Wrap', 'Unit Count': '1.00 Count', 'Package Dimensions': '6.14 x 5.24 x 1.77 inches; 1.13 Ounces'}\nReview Text: This headband is beautiful the shade of purple is very pretty its a nice width also\nReview Title: Very Pretty\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "WINIAER Headbands for Women 8 Pack, Fabric Hair Band Accessories Elastic Head Wrap Cute Outdoor Hair Accessories, Suitable for Women and Girls\nWINIAER\n{'Material': 'Plastic', 'Fabric Type': 'Elastic', 'Brand': 'WINIAER', 'Item Form': 'Wrap', 'Unit Count': '1.00 Count', 'Package Dimensions': '8 x 7 x 2 inches; 7.2 Ounces', 'UPC': '791405583280'}\nBeautiful style, nice and wide headbands\nLovely headbands\nBandana Headband for Women,MHDGG Sequins Wide Headbands Turban Headband Hair Band Bandana Hairband Head Band Wrap with Bow Cloth Wrapped Headwear,Pink\nMHDGG\n{'Material': 'Cloth', 'Brand': 'MHDGG', 'Size': 'Medium', 'Item Form': 'Wrap', 'Unit Count': '1.00 Count', 'Package Dimensions': '6.14 x 5.24 x 1.77 inches; 1.13 Ounces'}\nThis headband is beautiful the shade of purple is very pretty its a nice width also\nVery Pretty",
+  "profile": "**User Summary:**\n\n- **Fashion Preferences:** Enjoys stylish and functional accessories, with a focus on headbands that combine aesthetic appeal with practicality.\n- **Material Preference:** Prefers elastic materials for comfort but also appreciates cloth materials that enhance design and beauty.\n- **Aesthetic Style:** Shows a preference for wider styles that offer a unique and attractive look, favoring items that stand out visually.\n- **Quality:** Values high-quality products, as evidenced by consistent high ratings for satisfactory purchases, indicating a discerning taste.\n- **Demographic:** Likely targets women and girls, emphasizing a focus on feminine accessories that cater to diverse styles.\n- **Shopping Behavior:** Engages positively with brands that blend aesthetics and functionality, demonstrating loyalty to those that meet her standards.\n- **Rating History:** Consistently gives high ratings, often indicating satisfaction and a strong appreciation for beautiful designs. Recently rated a purchase highly, showing continued enthusiasm for stylish accessories.\n- **Color Preference:** Has indicated an appreciation for various colors, particularly shades that are visually appealing, enhancing her collection's diversity. \n\nOverall, the user embodies a sophisticated approach to headbands, prioritizing both design and comfort, while maintaining a keen eye for quality and aesthetics.",
+  "metrics": {
+    "rouge1_f": 0.1607717041800643,
+    "rouge2_f": 0.012944983818770225,
+    "rougeL_f": 0.09003215434083602,
+    "meteor": 0.11855670103092783,
+    "bleu1": 0.13229571984435795,
+    "bleu2": 0.007188742279717804,
+    "bleu3": 0.002726393573049129,
+    "bleu4": 0.0016806720698591714,
+    "bertscore_precision": 0.40690508484840393,
+    "bertscore_recall": 0.4045463800430298,
+    "bertscore_f1": 0.40572232007980347
+  }
+}

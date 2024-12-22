@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SEGMINISMART Organic Nails Gel Color Top Coat\nReview Date: 2019/06/21\nStore: Organic Nails\nAverage Rating: 4.7\nProduct Details: {'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nReview Text: Organic lo mejor siempre\nReview Title: Muy bueno\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "SEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno\nSEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno\nSEGMINISMART Organic Nails Gel Color Top Coat\nOrganic Nails\n{'Brand': 'Organic Nails', 'Item Form': 'Gel', 'Finish Type': 'Glossy', 'Material Feature': 'Organic', 'Age Range (Description)': 'Adult', 'Number of Items': '1', 'Liquid Volume': '15 Milliliters', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.07 x 1.1 x 1.1 inches; 7.05 Ounces'}\nOrganic lo mejor siempre\nMuy bueno",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user exhibits a strong preference for organic and natural beauty products, with a particular focus on gel nail solutions.\n- **Recent Purchases:** Their latest acquisition, an organic gel top coat, reinforces their commitment to quality and natural ingredients. This aligns with their history of selecting high-rated products, maintaining a minimum average rating of 4.7.\n- **Quality Focus:** The user prioritizes high-quality items and consistently provides positive feedback, as demonstrated by their recent 5-star review, emphasizing their satisfaction with the products.\n- **Aesthetic Preference:** A notable inclination towards glossy finishes is present, indicating their appreciation for polished and visually appealing beauty products.\n- **Target Demographic:** They engage primarily with beauty products designed for adults, which reflects their mature consumer base and personal grooming aspirations.\n\n**Overall Trend:** The user\u2019s behaviors and interactions indicate a consistent and growing commitment to high-quality organic beauty products that align with their values of sustainability and aesthetic appeal. Their focus remains on enhancing their grooming experience with items that feature natural ingredients, glossy finishes, and impressive ratings, reinforcing their position as a discerning and quality-focused consumer in the beauty market.",
+  "metrics": {
+    "rouge1_f": 0.12054794520547944,
+    "rouge2_f": 0.005509641873278236,
+    "rougeL_f": 0.07671232876712329,
+    "meteor": 0.06682252738952471,
+    "bleu1": 0.07191675733809015,
+    "bleu2": 0.0049728868636155195,
+    "bleu3": 0.002043913867814244,
+    "bleu4": 0.0013117084702160744,
+    "bertscore_precision": 0.3431857228279114,
+    "bertscore_recall": 0.33534103631973267,
+    "bertscore_f1": 0.33921802043914795
+  }
+}

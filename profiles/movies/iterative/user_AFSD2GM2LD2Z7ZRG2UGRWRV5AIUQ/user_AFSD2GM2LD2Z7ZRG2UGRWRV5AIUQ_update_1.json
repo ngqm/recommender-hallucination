@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Glades\nReview Date: 2014/07/21\nCategories: Drama\nProduct Description: ['Season Four of \"The Glades\" is packed with even more mystery, intrigue and fun from Florida\\'s favorite homicide investigator - the disarmingly charming Detective Jim Longworth (Matt Passmore).   From haunted plantations to rum-soaked shot girls and even a zombie apocalypse, Longworth is once again solving murders that can only happen in the Sunshine State.']\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary A. Randall', 'Eric Laneuville', 'Kelly Makin', 'Jonathan Frakes', 'Randy Zisk', 'Timothy Busfield', 'Jeff Bleckner', 'Lee Rose', 'Ron Underwood', 'Tricia Brock'], 'Producers': ['Fox']}\nReview Text: Great show -- wonderfully entertaining. Please tell me there will be a season 5.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Glades\nDrama\n['Season Four of \"The Glades\" is packed with even more mystery, intrigue and fun from Florida\\'s favorite homicide investigator - the disarmingly charming Detective Jim Longworth (Matt Passmore).   From haunted plantations to rum-soaked shot girls and even a zombie apocalypse, Longworth is once again solving murders that can only happen in the Sunshine State.']\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gary A. Randall', 'Eric Laneuville', 'Kelly Makin', 'Jonathan Frakes', 'Randy Zisk', 'Timothy Busfield', 'Jeff Bleckner', 'Lee Rose', 'Ron Underwood', 'Tricia Brock'], 'Producers': ['Fox']}\nGreat show -- wonderfully entertaining. Please tell me there will be a season 5.\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Genre:** This user shows a strong affinity for drama, particularly crime-related narratives. They gravitate towards series that blend mystery with intriguing settings.\n\n- **Content Engagement:** They appreciate well-developed storylines that offer both entertainment and depth. Enjoyment of plot twists and character development is evident.\n\n- **Rating Behavior:** The user tends to rate highly, demonstrating a positive outlook on content they engage with. They specifically gave a perfect score for a show they found highly entertaining.\n\n- **Content Themes:** The user seems tolerant of mature content, as indicated by their engagement with shows that contain violence, substance use, and other adult themes.\n\n- **Interest in Continuation:** There's a desire for ongoing content, as indicated by their enthusiastic query for additional seasons, reflecting a commitment to follow series over time.\n\n- **Overall Attitude:** The user's review exudes enthusiasm and satisfaction, signaling a positive mindset towards the series they watch. \n\nOverall, this profile indicates a user who enjoys engaging stories within the drama genre and is particularly drawn to murder mysteries with a blend of humor and unique settings.",
+  "metrics": {
+    "rouge1_f": 0.20408163265306123,
+    "rouge2_f": 0.0136986301369863,
+    "rougeL_f": 0.10204081632653061,
+    "meteor": 0.12326656394453005,
+    "bleu1": 0.16877637130801684,
+    "bleu2": 0.02674236555938789,
+    "bleu3": 0.0067263159003018895,
+    "bleu4": 0.003376983826554115,
+    "bertscore_precision": 0.39478111267089844,
+    "bertscore_recall": 0.41249096393585205,
+    "bertscore_f1": 0.40344178676605225
+  }
+}

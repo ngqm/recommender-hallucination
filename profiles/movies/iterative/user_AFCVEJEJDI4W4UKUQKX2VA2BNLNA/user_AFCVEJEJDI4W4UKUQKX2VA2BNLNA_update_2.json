@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/05/29\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jake Kasdan'], 'Producers': ['Matt Tolmach', 'William Teitler'], 'Starring': ['Dwayne Johnson', 'Kevin Hart', 'Jack Black'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: Hysterical movie. Tough to build upon the original but this is a refreshing take on a classic.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anna Boden', 'Ryan Fleck'], 'Producers': ['Jamie Patricof', 'Lynette Howell', 'Tom Rice', 'Ben Nearn'], 'Starring': ['Ryan Reynolds', 'Ben Mendelsohn', 'Sienna Miller'], 'Studio': ['A24 Distribution LLC']}\nGreat movie and acting. Plot lacked at times but the acting made up for it\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jake Kasdan'], 'Producers': ['Matt Tolmach', 'William Teitler'], 'Starring': ['Dwayne Johnson', 'Kevin Hart', 'Jack Black'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nHysterical movie. Tough to build upon the original but this is a refreshing take on a classic.\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys films with strong acting performances and comedic elements, indicating an appreciation for character portrayal and talent, even in lighter genres. The recent positive review of a comedy suggests an openness to diverse content, including adaptations and reimagined classics.\n- **Rating Behavior:** Continues to rate experiences positively (average 4.1), with a notable recent rating of 4.7 for a film, reflecting a consistent optimistic disposition and a propensity to find enjoyment across different styles of filmmaking.\n- **Language and Accessibility:** Prefers English audio with various enhancements, including dialogue boosts and audio descriptions, along with English subtitles, highlighting a commitment to an engaging and accessible viewing experience.\n- **Genre Tendency:** While previously leaning towards dramas or emotionally deep narratives, the latest interaction indicates a growing affinity for comedic films that still deliver quality performances. This suggests a broader interest in independent cinema and major studio productions that showcase talent.\n- **Overall Experience:** Values both performance aspects and humor in film, revealing a nuanced approach to content evaluation. The user appreciates films that successfully blend quality acting with entertaining narratives, whether dramatic or comedic, indicative of a sophisticated but inclusive media taste. \n\nThis profile reflects a user who enjoys quality acting in various genres, appreciating both the emotional depth of dramas and the humor found in comedies.",
+  "metrics": {
+    "rouge1_f": 0.15151515151515152,
+    "rouge2_f": 0.024390243902439025,
+    "rougeL_f": 0.10303030303030304,
+    "meteor": 0.1074842358810118,
+    "bleu1": 0.1240875912408759,
+    "bleu2": 0.00674190849276842,
+    "bleu3": 0.0025566165799883384,
+    "bleu4": 0.0015758209793544182,
+    "bertscore_precision": 0.398245632648468,
+    "bertscore_recall": 0.4024635851383209,
+    "bertscore_f1": 0.40034347772598267
+  }
+}

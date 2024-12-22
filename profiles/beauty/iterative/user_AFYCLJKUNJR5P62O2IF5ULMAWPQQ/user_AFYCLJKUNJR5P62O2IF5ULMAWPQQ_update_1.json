@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: YOUFA Brazilian Human Hair Bundles 16 18 20 with Closure Straight Hair Unprocessed Virgin Hair Extensions Natural Color(16 18 20 +14\"closure)\nReview Date: 2019/12/19\nStore: YOUFA\nAverage Rating: 5.0\nProduct Details: {'Brand': 'YOUFA', 'Color': 'Natural', 'Material': 'Human Hair', 'Extension Length': '14 Inches', 'Hair Type': 'Straight', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10 x 7.7 x 2.1 inches; 12.8 Ounces'}\nReview Text: This hair is soooooo luxurious!!!  The bundles are probably middle weight-not super thin or lightweight but not suer heavy either. They are perfect for making clip in extensions or pony tail wraps.  The hair is soo soft and thick but looks fine with my fine hair.<br />Mine came with a small silk piece to use as a topper or perhaps bangs.  The one I got was a bit weird. The hair all went to a slight angle. I don't know if this is from being packed or what. I am going to wash it and brush it straight while wet and see how it dries. I'd love to have a little topper piece but if it stays slanted I'll make it into something else.\nReview Title: Gorgeous hair!!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "YOUFA Brazilian Human Hair Bundles 16 18 20 with Closure Straight Hair Unprocessed Virgin Hair Extensions Natural Color(16 18 20 +14\"closure)\nYOUFA\n{'Brand': 'YOUFA', 'Color': 'Natural', 'Material': 'Human Hair', 'Extension Length': '14 Inches', 'Hair Type': 'Straight', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10 x 7.7 x 2.1 inches; 12.8 Ounces'}\nThis hair is soooooo luxurious!!!  The bundles are probably middle weight-not super thin or lightweight but not suer heavy either. They are perfect for making clip in extensions or pony tail wraps.  The hair is soo soft and thick but looks fine with my fine hair.<br />Mine came with a small silk piece to use as a topper or perhaps bangs.  The one I got was a bit weird. The hair all went to a slight angle. I don't know if this is from being packed or what. I am going to wash it and brush it straight while wet and see how it dries. I'd love to have a little topper piece but if it stays slanted I'll make it into something else.\nGorgeous hair!!!",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Enjoys high-quality, luxurious human hair extensions, specifically straight types.\n- **Quality Standards:** Values softness and thickness, indicating a preference for products that feel durable yet look natural.\n- **Buyer's Approach:** Open to experimenting with product adjustments (e.g., washing and styling), showing a hands-on attitude toward hair care and styling.\n- **Specific Uses:** Interested in versatility for creating clip-in extensions and ponytails, demonstrating a desire for practical applications in hairstyling.\n- **Attention to Detail:** Notices product packaging and presentation, suggesting a keen eye for quality and performance.\n- **Review Behavior:** Tends to leave positive reviews, reflecting satisfaction with products that meet or exceed expectations.\n\nThis user demonstrates a consistent pattern of prioritizing quality, versatility, and attention to detail in their hair care purchases.",
+  "metrics": {
+    "rouge1_f": 0.22364217252396165,
+    "rouge2_f": 0.03858520900321543,
+    "rougeL_f": 0.11501597444089456,
+    "meteor": 0.13163668275559454,
+    "bleu1": 0.19098028602190775,
+    "bleu2": 0.00892906593915385,
+    "bleu3": 0.0032226555109267224,
+    "bleu4": 0.0019387538752977465,
+    "bertscore_precision": 0.40542304515838623,
+    "bertscore_recall": 0.43863537907600403,
+    "bertscore_f1": 0.4213757812976837
+  }
+}

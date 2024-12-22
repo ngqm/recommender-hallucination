@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 12ML Refillable Perfume Atomizer Bottle for Travel Spray Scent Pump Case Pack of 5\nReview Date: 2020/03/08\nStore: Rioa\nAverage Rating: 3.9\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.71 x 0.71 x 4.13 inches; 4.8 Ounces', 'Item model number': 'Surface Matalic Bottle', 'UPC': '753940391508'}\nReview Text: It us perfect for traveling. It is very tight so no leak. It is easy to be filled.\nReview Title: Tight and good size\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "NeWisdom 72 PCS Toddler Girls Hair Accessory Set with Gift Packing Organization Box, Gifts for Grandkids, Cute Hair Bows Hair Clips Hair Bands for Girls Toddlers, Multi-Style Elastic Hair Ties Hair Accessories for Baby Girls Age 3 4 5 6\nNeWisdom\n{'Brand': 'NeWisdom', 'Hair Type': 'All', 'Color': 'GirlsKit', 'Age Range (Description)': 'Babies', 'Embellishment': 'Bow', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '10.83 x 7.28 x 1.77 inches; 14.57 Ounces', 'Manufacturer recommended age': '5 months and up', 'Item model number': 'NW-GirlsKit-36Grid', 'Department': 'Baby-girls', 'UPC': '778942698455', 'Manufacturer': 'NeWisdom'}\nI likr thr variety and the quality. It is packed very well in beautiful box :) .. it could be such a nice gift :)\nGood quality\n12ML Refillable Perfume Atomizer Bottle for Travel Spray Scent Pump Case Pack of 5\nRioa\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.71 x 0.71 x 4.13 inches; 4.8 Ounces', 'Item model number': 'Surface Matalic Bottle', 'UPC': '753940391508'}\nIt us perfect for traveling. It is very tight so no leak. It is easy to be filled.\nTight and good size",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** The user has a strong interest in toddler and baby accessories, specifically hair accessories for girls, while also showing an appreciation for practical travel-related products, indicating a versatile approach to shopping. \n\n- **Gift-Giving:** The user values aesthetically pleasing and functional items, preferring products that are well-packaged and suitable for gifting, which suggests a thoughtful approach to selecting gifts. \n\n- **Quality Perception:** The user maintains a positive attitude toward products that demonstrate good quality and thoughtful design. Their high ratings indicate a preference for items that not only meet expectations but also enhance the overall user experience.\n\n- **Age Focus:** They primarily shop for children in the toddler age range (ages 3-6), with a focus on gifts and accessories geared toward young girls. \n\n- **Presentation Preference:** The user prioritizes beautiful packaging and organization in their purchases, consistently favoring items that come in attractive or convenient packaging.\n\n- **Overall Satisfaction:** The user tends to provide positive feedback for items that exceed expectations, emphasizing quality, usability, and reliability. This recent purchase of a practical travel accessory reflects their interest in items that blend functionality with quality, enhancing their overall satisfaction with shopping experiences. \n\nThis profile suggests a user dedicated to quality, aesthetic appeal, and practicality, particularly in the context of gifts for young children and personal travel needs.",
+  "metrics": {
+    "rouge1_f": 0.21500000000000002,
+    "rouge2_f": 0.035175879396984924,
+    "rougeL_f": 0.10999999999999999,
+    "meteor": 0.13631224989742832,
+    "bleu1": 0.16785714285714284,
+    "bleu2": 0.007756535984989121,
+    "bleu3": 0.0027867431512213344,
+    "bleu4": 0.0016718709997842647,
+    "bertscore_precision": 0.38853034377098083,
+    "bertscore_recall": 0.4089435040950775,
+    "bertscore_f1": 0.39847564697265625
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bikini Trimmer, Gexond Women's Painless Hair Removal, Waterproof 3 in 1 Portable Travel Bikini Groomer Kit for Ladies, Body Shaver Razor Facial Trimmer for Bikini Area, legs and Eyebrow, Wet Dry Use\nReview Date: 2019/09/22\nStore: Gexond\nAverage Rating: 3.1\nProduct Details: {'Package Dimensions': '8.5 x 4.1 x 1.3 inches; 7.04 Ounces', 'Batteries': '1 AA batteries required. (included)', 'UPC': '749789475806'}\nReview Text: Trimmer not good with me, i do not like it\nReview Title: Clean not good.\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Beard Straightener, Beard Straightener Brush Comb Hair Straightener Brush for Men & Women, USB Rechargeable 2 in 1 Beard Comb Straightener, Portable Cordless Beard For Travel, Black\nVITI\n{'Package Dimensions': '10.1 x 4.3 x 2.2 inches; 15.2 Ounces', 'UPC': '787894560994'}\nEasier to get a cool and perfect beard or a smooth long hair. Lightweight and small size, easy to carry. Best for home, traveling, party and dating working. Safety and easy to use.\nGood for man and woman\nBikini Trimmer, Gexond Women's Painless Hair Removal, Waterproof 3 in 1 Portable Travel Bikini Groomer Kit for Ladies, Body Shaver Razor Facial Trimmer for Bikini Area, legs and Eyebrow, Wet Dry Use\nGexond\n{'Package Dimensions': '8.5 x 4.1 x 1.3 inches; 7.04 Ounces', 'Batteries': '1 AA batteries required. (included)', 'UPC': '749789475806'}\nTrimmer not good with me, i do not like it\nClean not good.",
+  "profile": "**Updated User Profile Summary:**\n\n- **Interests:** Grooming products, particularly for facial hair and hair styling, with a recent focus on body grooming.\n- **Product Preferences:** Values portable and lightweight items, ideal for travel and on-the-go use, although recent experience indicates some dissatisfaction with effectiveness.\n- **Usage Context:** Seeks versatility in products for home use, travel, social events, and everyday grooming, while now showing caution towards products that do not meet quality expectations.\n- **Target Audience:** Products appealing to both men and women, indicating a gender-neutral preference.\n- **Key Attributes Sought:** Ease of use, safety, and effectiveness in achieving desired grooming results, though recent interactions reveal a heightened scrutiny of product claims and performance.\n- **Expectations:** Looks for products that enhance appearance with practicality and convenience, yet recent experiences may shift focus towards higher quality and more reliable choices.\n- **Value Indicators:** Considers reasonable average ratings important, emphasizing balanced quality and functionality, now demonstrating a caution towards low-rated products.\n\nOverall, while the user continues to prioritize grooming efficiency and convenience, their recent negative experience suggests a growing emphasis on product effectiveness and reliability, alongside their openness to gender-neutral offerings.",
+  "metrics": {
+    "rouge1_f": 0.20238095238095238,
+    "rouge2_f": 0.02395209580838323,
+    "rougeL_f": 0.09523809523809526,
+    "meteor": 0.16038696537678207,
+    "bleu1": 0.1968503937007874,
+    "bleu2": 0.039447808487577965,
+    "bleu3": 0.008515596480573186,
+    "bleu4": 0.003960434864024353,
+    "bertscore_precision": 0.4136715531349182,
+    "bertscore_recall": 0.4232705235481262,
+    "bertscore_f1": 0.41841599345207214
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: JSY 30PCS Spiral Hair Ties No Crease For Women Girls,Coil Hair Ties, hair ties for women, Phone Cord Hair Ties Waterproof, Hair Coils\nReview Date: 2021/05/19\nStore: JSY\nAverage Rating: 3.9\nProduct Details: {'Material': 'Plastic', 'Item Form': 'Spiral', 'Brand': 'JSY', 'Hair Type': 'Curly', 'Number of Pieces': '30', 'Package Dimensions': '5.35 x 4.45 x 1.57 inches; 2.4 Ounces'}\nReview Text: Spiral hair ties very stretchy and durable great for putting ur hair up in a pony tail my daughter love them there will worth the money\nReview Title: Spiral hair ties\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "MOULOSY Eyeshadow Palette, 26 Colors Professional Matte Shimmer Makeup Palette, Highly Pigmented Colorful Powder, Easy to Blend Waterproof and Sweatproof\nMOULOSY\n{'Brand': 'MOULOSY', 'Item Form': 'Powder', 'Finish Type': 'Metallic,Glitter,Shimmers,Matte,Shimmer,Satin,Natural', 'Special Feature': 'Waterproof', 'Product Benefits': 'Smoothening', 'Product Dimensions': '7.8 x 5.9 x 0.5 inches; 9.81 Ounces', 'UPC': '749965963288'}\nEyeshadow this is a very nice set of eyeshadow it got some beautiful colors in it I got it as a gift for my wife for her birthday and she loves it she can put it in her purse because it\u2019s the perfect size\nEyeshadow palette\nJSY 30PCS Spiral Hair Ties No Crease For Women Girls,Coil Hair Ties, hair ties for women, Phone Cord Hair Ties Waterproof, Hair Coils\nJSY\n{'Material': 'Plastic', 'Item Form': 'Spiral', 'Brand': 'JSY', 'Hair Type': 'Curly', 'Number of Pieces': '30', 'Package Dimensions': '5.35 x 4.45 x 1.57 inches; 2.4 Ounces'}\nSpiral hair ties very stretchy and durable great for putting ur hair up in a pony tail my daughter love them there will worth the money\nSpiral hair ties",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Cosmetics, particularly eyeshadow palettes that offer a variety of colors and finishes. Recently expanded interest to hair accessories, specifically hair ties that offer durability and practicality.\n- **Preference for Quality:** Values highly pigmented and easy-to-blend makeup products, indicating a strong focus on performance. The recent purchase of hair ties suggests an appreciation for stretchy and durable items.\n- **Special Features:** Favors waterproof and sweatproof cosmetics, reflecting a desire for long-lasting wear. This attention to durability appears relevant in their choice of hair accessories as well.\n- **Gift-Giving:** Engages in thoughtful shopping behaviors, as demonstrated by purchasing gifts for a partner's birthday and also considering practical items for family members, such as hair ties for their daughter.\n- **Packaging Size:** Appreciates compact products for cosmetics and now also favors compact hair accessory packaging, highlighting practicality across different product categories.\n- **Positive Experience:** Shares satisfaction with products, likely to be inclined to review high-rated items favorably. Recent review of hair ties indicates a willingness to provide positive feedback for quality and value in non-cosmetic products.\n\nOverall, the user demonstrates a consistent preference for versatile, high-quality items that balance aesthetic appeal with functional attributes across both cosmetics and practical accessories.",
+  "metrics": {
+    "rouge1_f": 0.29156010230179036,
+    "rouge2_f": 0.08226221079691518,
+    "rougeL_f": 0.1687979539641944,
+    "meteor": 0.16213064900162663,
+    "bleu1": 0.18461538461538465,
+    "bleu2": 0.07063713605183178,
+    "bleu3": 0.03381884866754372,
+    "bleu4": 0.0110760735994086,
+    "bertscore_precision": 0.4060852825641632,
+    "bertscore_recall": 0.4142138957977295,
+    "bertscore_f1": 0.41010934114456177
+  }
+}

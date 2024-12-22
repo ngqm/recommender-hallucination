@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/06/13\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Liz Friedman', 'Thomas Moran', 'Mike Listo', 'Sebastian Lee', 'David Kim', 'Seth Gordon', 'Erin Gunn', 'Daniel Kim', 'David Shore'], 'Studio': ['ABC Network']}\nReview Text: Great show. Can't wait for season three.\nReview Title: Great show\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Liz Friedman', 'Thomas Moran', 'Mike Listo', 'Sebastian Lee', 'David Kim', 'Seth Gordon', 'Erin Gunn', 'Daniel Kim', 'David Shore'], 'Studio': ['ABC Network']}\nGreat show. Can't wait for season three.\nGreat show",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys engaging narratives, particularly in the genre associated with a specific television show.\n- **Viewing Habits:** Prioritizes content with English audio and subtitles, indicating a preference for clear and accessible viewing experiences.\n- **Enthusiasm for Series:** Shows excitement for upcoming seasons, suggesting a strong interest in serialized storytelling and character development.\n- **Quality Appreciation:** Provides high ratings (average of 4.8), signaling a discerning taste and satisfaction with the quality of productions.\n- **Production Value Preference:** Values contributions from well-known producers, indicating an appreciation for professional quality and established creative teams. \n\nOverall, the user exhibits a strong affinity for high-quality, narrative-driven content with a preference for accessible language options, and demonstrates enthusiasm for ongoing series developments.",
+  "metrics": {
+    "rouge1_f": 0.1139240506329114,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06329113924050633,
+    "meteor": 0.10393873085339168,
+    "bleu1": 0.09580838323353294,
+    "bleu2": 0.024024132349405772,
+    "bleu3": 0.0070459111076637115,
+    "bleu4": 0.003821570781407475,
+    "bertscore_precision": 0.4010280966758728,
+    "bertscore_recall": 0.36703547835350037,
+    "bertscore_f1": 0.38327959179878235
+  }
+}

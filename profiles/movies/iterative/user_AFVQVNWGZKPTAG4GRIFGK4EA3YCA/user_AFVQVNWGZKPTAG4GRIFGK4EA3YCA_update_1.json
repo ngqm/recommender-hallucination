@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/07\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Annakin'], 'Producers': ['Milton Sperling', 'Philip Yordan'], 'Starring': ['Henry Fonda', 'Robert Shaw', 'Robert Ryan']}\nReview Text: I would have given the movie a four for historical accuracy had there not been so many American made tanks impersonating German tanks.\nReview Title: American made tanks against American made tanks\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ken Annakin'], 'Producers': ['Milton Sperling', 'Philip Yordan'], 'Starring': ['Henry Fonda', 'Robert Shaw', 'Robert Ryan']}\nI would have given the movie a four for historical accuracy had there not been so many American made tanks impersonating German tanks.\nAmerican made tanks against American made tanks",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Generally provides positive ratings (average 4.7), but displays critical insights, particularly regarding historical accuracy, as seen in a specific review rated 3.0.\n\n- **Content Sensitivity:** Demonstrates awareness and concern about content advisories. Preferences suggest a tolerance for mature themes, indicated by interactions with content featuring violence, alcohol, smoking, foul language, and sexual content.\n\n- **Language and Accessibility:** Shows a preference for content in English, with interest in subtitles. The inclusion of closed captions indicates a possible appreciation for enhanced understanding and accessibility.\n\n- **Historical Context:** Values historical accuracy, preferring content that authentically represents the subject matter. Discrepancies between production choices (e.g., using American tanks to represent German ones) impact user satisfaction.\n\n- **Content Interests:** Appears to engage with war or historical-themed media, stemming from the involvement of notable actors and directors in past purchases.\n\nOverall, this user exhibits a blend of critical evaluation regarding realistic representation and an appreciation for engaging narratives, with likely ongoing interest in historically-themed content.",
+  "metrics": {
+    "rouge1_f": 0.19469026548672566,
+    "rouge2_f": 0.05357142857142856,
+    "rougeL_f": 0.17699115044247787,
+    "meteor": 0.14284013199179177,
+    "bleu1": 0.1306306306306306,
+    "bleu2": 0.024312318408225574,
+    "bleu3": 0.006452727963032561,
+    "bleu4": 0.003328100930229236,
+    "bertscore_precision": 0.43186312913894653,
+    "bertscore_recall": 0.36982542276382446,
+    "bertscore_f1": 0.39844393730163574
+  }
+}

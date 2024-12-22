@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Curly Tape in Hair Extensions Human Hair Brown Tape in Human Hair 18 Inch 50g 20pcs #4 Dark Brown Invisible Thick Tape in Hair Extensions Wave Hair\nReview Date: 2020/07/01\nStore: Hetto\nAverage Rating: 2.8\nProduct Details: {'Brand': 'Hetto', 'Color': 'Brown', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Wavy, Curly', 'Product Dimensions': '18 x 1 x 1 inches; 1.76 Ounces', 'Item model number': 'HA-LowSale-NW-Tape-#4-18-50g'}\nReview Text: Very nice tape is durable.\nReview Title: Good quality\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "18 inch Dark Brown Tape in Human Hair Extensions 20pcs/30g Long Straight Skin Weft Invisible Double Sided Tape +10pcs Replacement Tapes(18\", 2)\nBenehair\n{'Brand': 'Benehair', 'Material': 'Human Hair', 'Hair Type': 'Straight', 'Installation Type': 'tape', 'Package Dimensions': '13.78 x 7.8 x 0.75 inches; 2.96 Ounces', 'UPC': '758277455930'}\nThin but the tape quality is good\nLittle longer weft then normal\nCurly Tape in Hair Extensions Human Hair Brown Tape in Human Hair 18 Inch 50g 20pcs #4 Dark Brown Invisible Thick Tape in Hair Extensions Wave Hair\nHetto\n{'Brand': 'Hetto', 'Color': 'Brown', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Wavy, Curly', 'Product Dimensions': '18 x 1 x 1 inches; 1.76 Ounces', 'Item model number': 'HA-LowSale-NW-Tape-#4-18-50g'}\nVery nice tape is durable.\nGood quality",
+  "profile": "**User Summary:**\n\n- **Product Type Preference**: The user prefers hair extensions, specifically favoring tape-in options for their temporary nature and ease of use.\n- **Material Preference**: Demonstrates a strong preference for human hair, indicating a desire for natural, high-quality looks.\n- **Quality Focus**: Values product quality and effectiveness; despite a recent purchase receiving average ratings overall, the user highlighted that the tape quality was very good, showcasing a discerning taste for durable products.\n- **Length Specification**: Favors longer extensions, seeking enhancement in hair length; however, recent purchases suggest a trend towards 18-inch options.\n- **Installation Method**: Continues to appreciate the simplicity of installation with tape-in extensions, aligning with their preference for user-friendly hair solutions.\n- **Dissatisfaction with Thickness**: Previously noted dissatisfaction with thinness persists, indicating a strong desire for fuller extensions; despite recent positive feedback on tape durability, thickness may still be a concern.\n\nOverall, the user remains focused on quality and effectiveness in hair extensions, showing a consistent preference for human hair products that offer both length and ease of installation, while also seeking a fuller appearance. The recent interaction reinforces their evaluation of product quality, particularly the tape's durability and the continued need for substantial thickness in extensions.",
+  "metrics": {
+    "rouge1_f": 0.2208955223880597,
+    "rouge2_f": 0.06606606606606606,
+    "rougeL_f": 0.16119402985074627,
+    "meteor": 0.1406622568223065,
+    "bleu1": 0.13793103448275862,
+    "bleu2": 0.03257311709922282,
+    "bleu3": 0.016000723692128033,
+    "bleu4": 0.006312476767810127,
+    "bertscore_precision": 0.4087143838405609,
+    "bertscore_recall": 0.4056232273578644,
+    "bertscore_f1": 0.40716293454170227
+  }
+}

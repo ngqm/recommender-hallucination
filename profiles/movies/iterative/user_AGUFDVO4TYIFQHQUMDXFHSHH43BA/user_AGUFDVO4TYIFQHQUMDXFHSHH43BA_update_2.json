@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/02/25\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['universal'], 'Producers': ['Barry Bernardi', 'Michael Bostick', 'Allen Covert', 'Lew Gallo', 'Jack Giarraputo', 'Kevin Grady', 'Ryan Kavanaugh', 'Amanda Morgan Palmer', 'Adam Sandler'], 'Starring': ['Adam Sandler', 'Kevin James', 'Jessica Biel'], 'Studio': ['NBC Universal']}\nReview Text: Great movie, excellent cast truly a classic.\nReview Title: Great movie!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jonathan Lynn'], 'Producers': ['Brian Grazer'], 'Starring': ['Steve Martin', 'Dan Aykroyd', 'Phil Hartman'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nGreat movie, excellent cast truly a classic.\nSo super funny\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['universal'], 'Producers': ['Barry Bernardi', 'Michael Bostick', 'Allen Covert', 'Lew Gallo', 'Jack Giarraputo', 'Kevin Grady', 'Ryan Kavanaugh', 'Amanda Morgan Palmer', 'Adam Sandler'], 'Starring': ['Adam Sandler', 'Kevin James', 'Jessica Biel'], 'Studio': ['NBC Universal']}\nGreat movie, excellent cast truly a classic.\nGreat movie!",
+  "profile": "**User Summary:**\n\nThis user continues to exhibit a strong preference for classic comedies, especially those featuring well-known actors, as evidenced by their recent interaction. They have recently rated a film highly, highlighting their appreciation for entertaining and humorous content with a notable cast, further reinforcing their pattern of enjoying productions featuring recognizable performers. The user seems to favor high-quality productions and values films that balance charm and humor, while also demonstrating a willingness to engage with content that includes adult themes, as indicated by the content advisory of their latest choice.\n\nTheir rating history showcases a consistent inclination towards English audio and subtitles, emphasizing a focus on comprehensibility and accessibility. The user\u2019s enthusiastic review, coupled with a perfect rating for a classic film featuring prominent actors like Adam Sandler and Kevin James, reflects their continued satisfaction with comedic content. With a growing interest in movies that not only entertain but also resonate with nostalgic elements, the user remains firmly aligned with their established behavioral patterns, showcasing a fondness for both contemporary and classic comedic performances.",
+  "metrics": {
+    "rouge1_f": 0.12274368231046931,
+    "rouge2_f": 0.029090909090909087,
+    "rougeL_f": 0.09386281588447652,
+    "meteor": 0.05553087516659263,
+    "bleu1": 0.09990462960475915,
+    "bleu2": 0.020884093988085696,
+    "bleu3": 0.005762690590363284,
+    "bleu4": 0.0030309772200861115,
+    "bertscore_precision": 0.3822135627269745,
+    "bertscore_recall": 0.36518022418022156,
+    "bertscore_f1": 0.37350279092788696
+  }
+}

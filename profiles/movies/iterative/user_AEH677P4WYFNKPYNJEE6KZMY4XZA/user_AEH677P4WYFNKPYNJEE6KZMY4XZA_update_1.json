@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/09/26\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Mark Huffam', 'Carolyn Strauss', 'Joanna Burn', 'Frank Doelger', 'Guymon Casady', 'George R.R. Martin', 'Ralph Vicinanza', 'Vince Gerardis'], 'Starring': ['Sean Bean', 'Mark Addy', 'Peter Dinklage'], 'Studio': ['Discovery Global']}\nReview Text: This is not usually the kind of thing I choose, but I am enjoying it thoroughly! Well done.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Nutter', 'Alan Taylor', 'Alex Graves', 'Miguel Sapochnik', 'Mark Mylod', 'Jeremy Podeswa', 'Daniel Minahan', 'Alik Sakharov', 'Michelle MacLaren', 'Brian Kirk'], 'Producers': ['Mark Huffam', 'Carolyn Strauss', 'Joanna Burn', 'Frank Doelger', 'Guymon Casady', 'George R.R. Martin', 'Ralph Vicinanza', 'Vince Gerardis'], 'Starring': ['Sean Bean', 'Mark Addy', 'Peter Dinklage'], 'Studio': ['Discovery Global']}\nThis is not usually the kind of thing I choose, but I am enjoying it thoroughly! Well done.\nFive Stars",
+  "profile": "The user displays a preference for high-quality storytelling, as indicated by their appreciation for well-produced content. Their positive interaction showcases enjoyment of intricate narratives, suggestive of a liking for genre-rich media. The user values quality in audio and subtitle options, preferring English for accessibility. \n\nThey seem open to exploring new genres, as evidenced by their comment about the content not typically being their choice yet still enjoying it thoroughly. This reflects a willingness to embrace diverse themes and storytelling styles. The user's high rating suggests a discerning taste, with a focus on production quality, direction, and star performances contributing to their positive experiences.\n\nKey trends include:\n- Prefers English audio and subtitles.\n- Enjoys well-produced, intricate narratives.\n- Open to exploring various genres despite previous preferences.\n- Values high ratings (averaging 4.7) and quality in media.\n- Likely appreciates a blend of strong direction and notable cast performances.",
+  "metrics": {
+    "rouge1_f": 0.12444444444444445,
+    "rouge2_f": 0.017937219730941704,
+    "rougeL_f": 0.07111111111111111,
+    "meteor": 0.07832556749342173,
+    "bleu1": 0.10526315789473682,
+    "bleu2": 0.035190767153889344,
+    "bleu3": 0.01942332549579918,
+    "bleu4": 0.00812672138363922,
+    "bertscore_precision": 0.3534025549888611,
+    "bertscore_recall": 0.37204259634017944,
+    "bertscore_f1": 0.36248308420181274
+  }
+}

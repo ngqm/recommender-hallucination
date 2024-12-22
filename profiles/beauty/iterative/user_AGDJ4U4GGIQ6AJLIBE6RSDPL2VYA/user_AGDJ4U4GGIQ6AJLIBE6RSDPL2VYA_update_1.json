@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: C.O. Bigelow Shampoo, Lavender Peppermint Shampoo Cleanses & Soothes Hair & Scalp, Luxury Shampoo for Men & Women, 10.4 Fl Oz.\nReview Date: 2020/01/04\nStore: C. O. Bigelow\nAverage Rating: 4.4\nProduct Details: {'Brand': 'C. O. Bigelow', 'Item Form': 'Lotion,Liquid,Gel', 'Scent': 'Fresh,Lavender,Peppermint', 'Age Range (Description)': 'Adult', 'Material Type Free': 'Paraben Free', 'Package Dimensions': '5.91 x 2.32 x 2.24 inches; 10.4 Ounces', 'UPC': '815691009023'}\nReview Text: This is a very good shampoo for everyday use. It has wonderful scent that keeps hair smelling great long after the shower, gets hair clean and moisturizes scalp well. I like using it.\nReview Title: Love the scent\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "C.O. Bigelow Shampoo, Lavender Peppermint Shampoo Cleanses & Soothes Hair & Scalp, Luxury Shampoo for Men & Women, 10.4 Fl Oz.\nC. O. Bigelow\n{'Brand': 'C. O. Bigelow', 'Item Form': 'Lotion,Liquid,Gel', 'Scent': 'Fresh,Lavender,Peppermint', 'Age Range (Description)': 'Adult', 'Material Type Free': 'Paraben Free', 'Package Dimensions': '5.91 x 2.32 x 2.24 inches; 10.4 Ounces', 'UPC': '815691009023'}\nThis is a very good shampoo for everyday use. It has wonderful scent that keeps hair smelling great long after the shower, gets hair clean and moisturizes scalp well. I like using it.\nLove the scent",
+  "profile": "**User Summary:**\n\n- **Product Preference**: The user shows a clear preference for personal care products, particularly shampoos that offer both cleansing and moisturizing benefits.\n- **Scent Preference**: This individual values fragrances, especially fresh and soothing scents like lavender and peppermint, indicating a tendency toward products that provide a pleasant sensory experience.\n- **Usage Habits**: The user seeks items meant for everyday use, suggesting a desire for products that can be part of a daily routine without being overwhelming.\n- **Quality Expectations**: A high satisfaction level is implied by the 5-star rating, reflecting a preference for quality and effectiveness in personal care products. \n- **Material Concerns**: The user appreciates that products are free from parabens, indicating an interest in healthier or more natural formulations.\n- **Gender Neutral**: The product is marketed for both men and women, suggesting that the user's preferences may not be tied to specific gender-targeted products.\n\nOverall, the user exhibits a trend toward high-quality, naturally formulated personal care products that provide a pleasant scent and effective results for daily use.",
+  "metrics": {
+    "rouge1_f": 0.2247191011235955,
+    "rouge2_f": 0.022641509433962266,
+    "rougeL_f": 0.11235955056179775,
+    "meteor": 0.163115845539281,
+    "bleu1": 0.15625,
+    "bleu2": 0.045847769162956346,
+    "bleu3": 0.021155720194747298,
+    "bleu4": 0.008090452126541381,
+    "bertscore_precision": 0.4216744899749756,
+    "bertscore_recall": 0.42363378405570984,
+    "bertscore_f1": 0.42265182733535767
+  }
+}

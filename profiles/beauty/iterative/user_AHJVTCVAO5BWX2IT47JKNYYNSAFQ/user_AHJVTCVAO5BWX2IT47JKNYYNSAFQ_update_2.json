@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: CITY COLOR Intense Exposure Highlighting Powder - Highlight\nReview Date: 2017/04/08\nStore: City Color Cosmetics\nAverage Rating: 3.9\nProduct Details: {'Item Form': 'Powder', 'Brand': 'City Color Cosmetics', 'Skin Tone': 'All', 'Number of Items': '1', 'Material Feature': 'Cruelty Free', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.3 x 2.5 x 0.7 inches; 0.32 Ounces'}\nReview Text: love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wet 'n' Wild MegaGlo Illuminating Powder, Catwalk Pink 345\nWet 'n' Wild\n{'Item Form': 'Powder', 'Finish Type': 'Luminous', 'Brand': \"Wet 'n' Wild\", 'Color': 'Pink', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.5 x 1.25 x 2.5 inches; 1.45 Ounces', 'UPC': '077802534507', 'Manufacturer': \"Wet 'n' Wild\"}\nLove it\nFive Stars\nCITY COLOR Intense Exposure Highlighting Powder - Highlight\nCity Color Cosmetics\n{'Item Form': 'Powder', 'Brand': 'City Color Cosmetics', 'Skin Tone': 'All', 'Number of Items': '1', 'Material Feature': 'Cruelty Free', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '4.3 x 2.5 x 0.7 inches; 0.32 Ounces'}\nlove it\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Product Type Preference:** Enjoys illuminating face powders and highlighting products.\n- **Color Preference:** Fond of pink shades, with a consistent appreciation for products that enhance glow.\n- **Finish Type:** Prefers luminous finishes for makeup products, valuing their ability to provide a radiant look.\n- **Rating Behavior:** Shows a tendency to give high ratings, consistently indicating satisfaction with purchases, as demonstrated by recent positive feedback.\n- **Brand Affinity:** Positive experience with the Wet 'n' Wild brand, along with recent engagement with City Color Cosmetics, suggesting openness to various budget-friendly options that meet quality standards.\n- **Simplicity in Preference:** Expresses straightforward appreciation without complex critiques, indicating a clear preference for effective and straightforward beauty products.\n- **Engagement Style:** Minimal but enthusiastic feedback; values quality and effectiveness, with recent interactions reaffirming this trend.\n\nOverall, the user appears to favor budget-friendly beauty products that offer luminous finishes, particularly in pink tones. The consistent pattern of high engagement and satisfaction suggests a strong alignment with brands that prioritize effective and cruelty-free products.",
+  "metrics": {
+    "rouge1_f": 0.1751824817518248,
+    "rouge2_f": 0.044117647058823525,
+    "rougeL_f": 0.13138686131386862,
+    "meteor": 0.12618064869030715,
+    "bleu1": 0.13419913419913418,
+    "bleu2": 0.05401270667713175,
+    "bleu3": 0.03368417266497801,
+    "bleu4": 0.02023418432462477,
+    "bertscore_precision": 0.42099469900131226,
+    "bertscore_recall": 0.38439857959747314,
+    "bertscore_f1": 0.4018652141094208
+  }
+}

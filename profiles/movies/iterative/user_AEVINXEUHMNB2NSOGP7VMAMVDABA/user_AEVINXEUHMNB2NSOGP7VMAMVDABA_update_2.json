@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/14\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Catching up on previous years that I missed.  My favorite show ever!!\nReview Title: My favorite show ever\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenneth Branagh'], 'Producers': ['David Ellison', 'Dana Goldberg', 'Paul Schwake', 'Mace Neufeld', 'Lorenzo Di Bonaventura', 'David Barron', 'Mark Vahradian'], 'Starring': ['Chris Pine', 'Kevin Costner', 'Kenneth Branagh']}\nLots of action shots plus good story line.\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nCatching up on previous years that I missed.  My favorite show ever!!\nMy favorite show ever",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies**: The user consistently gives high ratings, with a notable average of 4.9, showing a strong inclination for quality content.\n- **Content Interests**: Demonstrates a passion for media that reflects intense themes, such as violence and adult situations. This aligns with a preference for thrilling narratives enriched with complexity and engagement.\n- **Themes**: Comfortable with mature content, including elements like foul language, alcohol use, smoking, and sexual content, suggesting an affinity for storytelling that explores deeper or darker issues.\n- **Format Preferences**: Prefers content in English, utilizing both audio and subtitles for greater accessibility, as highlighted by their choice of audio descriptions and closed captions.\n- **Engagement Style**: Values a robust combination of story and action, signaling a tendency towards genres that fuse plot depth with dynamic sequences. The user's review reflects enthusiasm for series that captivate them.\n- **Favorites**: Favors high-quality productions, demonstrated by a trend towards notable cast members and experienced production teams, indicating a discerning taste for well-crafted filmmaking and performances.\n\nOverall, the user exhibits a keen interest in high-impact, mature-themed shows and films that prioritize strong narratives and acting talent, further solidified by their enthusiastic feedback on previously enjoyed content.",
+  "metrics": {
+    "rouge1_f": 0.1633986928104575,
+    "rouge2_f": 0.03289473684210527,
+    "rougeL_f": 0.09803921568627451,
+    "meteor": 0.08902037536291997,
+    "bleu1": 0.13076923076923075,
+    "bleu2": 0.007105635122214655,
+    "bleu3": 0.0026948134090210366,
+    "bleu4": 0.001661166804544176,
+    "bertscore_precision": 0.3961811065673828,
+    "bertscore_recall": 0.3830147981643677,
+    "bertscore_f1": 0.38948673009872437
+  }
+}

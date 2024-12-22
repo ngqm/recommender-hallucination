@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4D Silk Fiber Lash Mascara Black, Waterproof Natural Thick Fiber Mascara, Thick Thickening Lengthening, Dramatic Extension Voluminous Eyelashes Mascara, No Clumping, No Smudging Lasting All Day\nReview Date: 2020/07/28\nStore: SIKEMAY\nAverage Rating: 4.0\nProduct Details: {'Color': 'black', 'Special Feature': 'Water, Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.2 x 4 x 1.1 inches; 2.4 Ounces', 'UPC': '764690676838', 'Manufacturer': 'SIKEMAY'}\nReview Text: Presentation is nice and product is good. It\u2019s very light on the eyes but definitely adds definition and makes a difference. I like how light the brush is and nicely it applies to the lashes. It does not bleed either!\nReview Title: Lash heaven!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "4D Silk Fiber Lash Mascara Black, Waterproof Natural Thick Fiber Mascara, Thick Thickening Lengthening, Dramatic Extension Voluminous Eyelashes Mascara, No Clumping, No Smudging Lasting All Day\nSIKEMAY\n{'Color': 'black', 'Special Feature': 'Water, Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '7.2 x 4 x 1.1 inches; 2.4 Ounces', 'UPC': '764690676838', 'Manufacturer': 'SIKEMAY'}\nPresentation is nice and product is good. It\u2019s very light on the eyes but definitely adds definition and makes a difference. I like how light the brush is and nicely it applies to the lashes. It does not bleed either!\nLash heaven!",
+  "profile": "**User Profile Summary**\n\n- **Product Preference**: Focus on cosmetics, specifically mascaras, highlighting a preference for products that enhance eyelash appearance.\n- **Attributes Valued**: \n  - **Performance**: Seeks products that provide thickening and lengthening effects while preventing clumping and smudging.\n  - **Comfort**: Prefers lightweight formulations that feel comfortable on the eyes.\n  - **Durability**: Values waterproof and long-lasting qualities.\n- **Buying Experience**: Appreciates nice product presentation and effective application, indicating a tendency towards quality aesthetic experiences.\n- **Satisfaction**: Expresses high satisfaction with products that meet performance claims and provide noticeable enhancement.\n- **Rating Behavior**: Willing to give high ratings for products that align with personal expectations and satisfaction levels, emphasizing a discerning approach to purchases.",
+  "metrics": {
+    "rouge1_f": 0.18009478672985782,
+    "rouge2_f": 0.019138755980861247,
+    "rougeL_f": 0.11374407582938388,
+    "meteor": 0.11074918566775244,
+    "bleu1": 0.1497005988023952,
+    "bleu2": 0.04246906724096979,
+    "bleu3": 0.022193229300584035,
+    "bleu4": 0.009035546249319576,
+    "bertscore_precision": 0.42410045862197876,
+    "bertscore_recall": 0.4395095407962799,
+    "bertscore_f1": 0.4316675066947937
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ALICROWN 25mm Lashes Faux Mink,7 Styles Mixed Dramatic Volumn Eyelashes Strip Thick False Eyelash 3D/4D/5D/6D\nReview Date: 2019/10/27\nStore: ALICROWN HAIR\nAverage Rating: 4.3\nProduct Details: {'Color': 'Black', 'Brand': 'ALICROWN HAIR', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Package Dimensions': '6.6 x 6.5 x 0.6 inches; 2.4 Ounces'}\nReview Text: They were a perfect fit. Came as described\nReview Title: Would buy again\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ALICROWN 25mm Lashes Faux Mink,7 Styles Mixed Dramatic Volumn Eyelashes Strip Thick False Eyelash 3D/4D/5D/6D\nALICROWN HAIR\n{'Color': 'Black', 'Brand': 'ALICROWN HAIR', 'Material': 'Faux Mink, Cotton', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Package Dimensions': '6.6 x 6.5 x 0.6 inches; 2.4 Ounces'}\nThey were a perfect fit. Came as described\nWould buy again",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Eyelashes**: The user shows a strong interest in dramatic and voluminous false eyelashes, specifically faux mink varieties, indicating a preference for high-impact beauty products.\n\n- **Quality and Fit**: They prioritize quality, as evidenced by satisfaction with product fit and description accuracy. The user appreciates products that deliver as promised, indicating reliability in purchase decisions.\n\n- **Cruelty-Free Material**: Preference for cruelty-free products suggests a conscientious consumer who values ethical considerations in beauty purchases.\n\n- **Repeat Buyer Potential**: The user expresses a willingness to repurchase, indicating loyalty and positive past experiences with brands that meet their expectations.\n\nOverall, the user demonstrates a keen interest in beauty accessories that combine aesthetic appeal with ethical sourcing, and they value product performance and accuracy in descriptions.",
+  "metrics": {
+    "rouge1_f": 0.14893617021276595,
+    "rouge2_f": 0.03225806451612904,
+    "rougeL_f": 0.09574468085106383,
+    "meteor": 0.12609649122807018,
+    "bleu1": 0.10303030303030303,
+    "bleu2": 0.007926118564990202,
+    "bleu3": 0.0033778822644810686,
+    "bleu4": 0.0022085367359539554,
+    "bertscore_precision": 0.40249475836753845,
+    "bertscore_recall": 0.3830631375312805,
+    "bertscore_f1": 0.3925386071205139
+  }
+}

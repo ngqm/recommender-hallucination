@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/06/13\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['John Badham'], 'Producers': ['Gregg Champion', 'Mark Damon', 'David Foster', 'Gary Foster', 'Dana Satler Hankins', 'John W. Hyde', 'Dennis E. Jones', 'Lawrence Turman'], 'Starring': ['Ally Sheedy', 'Steve Guttenberg', 'Fisher Stevens']}\nReview Text: Great movie. Forgot about all the great lines from it.\nReview Title: Nice movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Producers': ['Liz Friedman', 'Thomas Moran', 'Mike Listo', 'Sebastian Lee', 'David Kim', 'Seth Gordon', 'Erin Gunn', 'Daniel Kim', 'David Shore'], 'Studio': ['ABC Network']}\nGreat show. Can't wait for season three.\nGreat show\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['John Badham'], 'Producers': ['Gregg Champion', 'Mark Damon', 'David Foster', 'Gary Foster', 'Dana Satler Hankins', 'John W. Hyde', 'Dennis E. Jones', 'Lawrence Turman'], 'Starring': ['Ally Sheedy', 'Steve Guttenberg', 'Fisher Stevens']}\nGreat movie. Forgot about all the great lines from it.\nNice movie",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** Continues to enjoy engaging narratives, particularly within specific genres that resonate with their interests. Shows a growing appreciation for classic films alongside current series.\n- **Viewing Habits:** Maintains a strong preference for content with English audio and subtitles, enhancing their viewing experience with clarity and accessibility. The addition of English audio description indicates an openness to various viewing aids.\n- **Enthusiasm for Series and Films:** Displays excitement for both upcoming seasons of series and classic films, highlighting a broad appreciation for serialized storytelling and character development across different formats.\n- **Quality Appreciation:** Sustains high ratings (average of 4.8), reflecting a discerning taste. Recent interactions have included exceptionally high ratings, indicating a consistent satisfaction with the quality of productions.\n- **Production Value Preference:** Continues to value contributions from established producers, demonstrating an appreciation for well-crafted storytelling and professional quality.\n\nOverall, the user exhibits a strong affinity for high-quality, narrative-driven content, whether it be series or films. Their preference for accessible language options persists, along with an ongoing enthusiasm for new and noteworthy projects in the entertainment landscape.",
+  "metrics": {
+    "rouge1_f": 0.1142857142857143,
+    "rouge2_f": 0.014388489208633094,
+    "rougeL_f": 0.07142857142857142,
+    "meteor": 0.08144476566145589,
+    "bleu1": 0.11063829787234043,
+    "bleu2": 0.00687614164172529,
+    "bleu3": 0.002727582544251555,
+    "bleu4": 0.001719734605958114,
+    "bertscore_precision": 0.38499584794044495,
+    "bertscore_recall": 0.37655889987945557,
+    "bertscore_f1": 0.38073062896728516
+  }
+}

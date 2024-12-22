@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/04/22\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth'], 'Studio': ['SciFi and Fantasy']}\nReview Text: I didn't like this one as much since it seems like Jennifer's angst over being in the games were a little over done. I get it, she didn't want to be there - like the rest of them - but her whining did get on my nerves after a while. I do hope the next movie will be better.\nReview Title: Not As Good As The First\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth'], 'Studio': ['SciFi and Fantasy']}\nI didn't like this one as much since it seems like Jennifer's angst over being in the games were a little over done. I get it, she didn't want to be there - like the rest of them - but her whining did get on my nerves after a while. I do hope the next movie will be better.\nNot As Good As The First",
+  "profile": "The user exhibits a preference for high-quality sci-fi and fantasy content, as evidenced by their average rating of 4.8. However, they express nuanced criticism about story execution, particularly regarding character development and emotional depth. Key trends include:\n\n- **Rating Trends:** Generally positive ratings, but prone to critical observations, indicating a discerning taste.\n- **Content Sensitivity:** Awareness of content advisory (violence, sexual content), suggesting a preference for narrative-driven stories that balance complex themes without excessive negativity.\n- **Character Connections:** A strong focus on character development, particularly emotional representation. The user finds excessive angst to be off-putting, indicating they prefer more balanced portrayals.\n- **Expectations for Improvement:** The user anticipates better quality in future installments, which suggests they value progression in narrative and production quality.\n- **Interest in Audio and Subtitles:** The mention of audio languages and subtitles indicates a potential for multilingual content consumption or accessibility interests.\n- **Overall Engagement:** Their review indicates a willingness to engage with content critically, suggesting they are invested in the narratives presented.\n\nThis initial profile indicates a user who enjoys sci-fi and fantasy genres but is critical of character portrayal and emotional depth, seeking a more balanced storytelling approach in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.17704918032786884,
+    "rouge2_f": 0.0462046204620462,
+    "rougeL_f": 0.09180327868852459,
+    "meteor": 0.1388132825258574,
+    "bleu1": 0.16600790513833993,
+    "bleu2": 0.03629770043203139,
+    "bleu3": 0.008066680094831276,
+    "bleu4": 0.0038065901851367006,
+    "bertscore_precision": 0.40972521901130676,
+    "bertscore_recall": 0.39334404468536377,
+    "bertscore_f1": 0.40136757493019104
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Antichrist [Blu-ray]\nReview Date: 2010/04/03\nStore: Willem Dafoe  (Actor),     Charlotte Gainsbourg  (Actor),     Lars von Trier  (Director)    &                   0                  more   Format: Blu-ray\nCategories: Movies & TV, Featured Categories, Blu-ray\nAverage Rating: 3.7\nProduct Details: {'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Director': 'Lars von Trier', 'Media Format': 'Blu-ray', 'Actors': 'Willem Dafoe, Charlotte Gainsbourg', 'Studio': 'Zentropa Entertainment'}\nReview Text: I streamed this one off Netflix.  I've enjoyed von Trier's wor in the past, and Willem Dafoe usually provides a wonderful performance (which could be taken in other ways in this context.)  The movie was amazing in the sense of being a work of art, but I don't think I could watch it a second time (though I'm tempted to buy it just to support von Trier's work.)  It contains intense violence, sex and a rather bizarre story.  I highly recommend it to those who enjoy a smart, artsy film and have strong stomachs.\nReview Title: Incredibly well done, but extremely morbid.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Antichrist [Blu-ray]\nWillem Dafoe  (Actor),     Charlotte Gainsbourg  (Actor),     Lars von Trier  (Director)    &                   0                  more   Format: Blu-ray\nMovies & TV, Featured Categories, Blu-ray\n{'Package Dimensions': '7.1 x 5.42 x 0.58 inches; 2.93 Ounces', 'Director': 'Lars von Trier', 'Media Format': 'Blu-ray', 'Actors': 'Willem Dafoe, Charlotte Gainsbourg', 'Studio': 'Zentropa Entertainment'}\nI streamed this one off Netflix.  I've enjoyed von Trier's wor in the past, and Willem Dafoe usually provides a wonderful performance (which could be taken in other ways in this context.)  The movie was amazing in the sense of being a work of art, but I don't think I could watch it a second time (though I'm tempted to buy it just to support von Trier's work.)  It contains intense violence, sex and a rather bizarre story.  I highly recommend it to those who enjoy a smart, artsy film and have strong stomachs.\nIncredibly well done, but extremely morbid.",
+  "profile": "**User Profile Summary:**\n\n- **Film Preferences:** Prefers intelligent, artsy films with strong thematic depth, particularly those that provoke thought and elicit a strong emotional response. Enjoys the works of directors known for their unique and often controversial storytelling styles.\n- **Director and Actor Affinity:** Shows a strong appreciation for the works of Lars von Trier and performances by Willem Dafoe, suggesting a favor for unconventional narratives and complex characters.\n- **Content Tolerance:** Willingness to engage with films that feature intense violence and sexual content, indicating a preference for mature themes and unconventional storytelling.\n- **Viewing Habits:** Has a tendency to stream films before purchasing, suggesting a cautious approach to buying media, but expresses a desire to support filmmakers whose work resonates with them.\n- **Critique Style:** Offers a nuanced perspective in reviews, recognizing both artistic merit and personal comfort with the material, indicating a thoughtful and reflective viewer.\n\nOverall, the user appreciates groundbreaking cinema with challenging content, emphasizes artful storytelling, and values the creative expression of filmmakers.",
+  "metrics": {
+    "rouge1_f": 0.2616822429906542,
+    "rouge2_f": 0.050156739811912224,
+    "rougeL_f": 0.11838006230529595,
+    "meteor": 0.18350249909703767,
+    "bleu1": 0.25116279069767444,
+    "bleu2": 0.10277607262445768,
+    "bleu3": 0.03673963275647444,
+    "bleu4": 0.012367079224073103,
+    "bertscore_precision": 0.4180499017238617,
+    "bertscore_recall": 0.4437173902988434,
+    "bertscore_f1": 0.43050140142440796
+  }
+}

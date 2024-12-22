@@ -1,0 +1,69 @@
+{
+  "interaction_number": 11,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/07/12\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Theodore Melfi'], 'Producers': ['Donna Gigliotti', 'Peter Chernin', 'Jenno Topping', 'Pharrell Williams', 'Theodore Melfi'], 'Starring': ['Taraji P. Henson', 'Janelle Monae', 'Kevin Costner']}\nReview Text: Love it.  Great movie\nReview Title: Loved it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Mangold'], 'Producers': ['Hugh Jackman', 'Lauren Shuler Donner', 'Hutch Parker'], 'Starring': ['Hugh Jackman', 'Hiroyuki Sanada', 'Famke Janssen'], 'Studio': ['20th Century Fox']}\nI thought the movie was ok.  It had more action than plot.  I was able to enjoy it with family.\nIt was Ok\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Seth Rogen'], 'Producers': ['Seth Rogen'], 'Starring': ['James Franco', 'Seth Rogen', 'Lizzy Caplan'], 'Studio': ['Columbia Pictures']}\nMovie was ok\nFour Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Judd Apatow'], 'Producers': ['Judd Apatow', 'Barry Mendel'], 'Starring': ['Amy Schumer', 'Bill Hader', 'Daniel Radcliffe']}\nEnjoy it\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Anna Boden', 'Ryan Fleck'], 'Producers': ['Jamie Patricof', 'Lynette Howell', 'Tom Rice', 'Ben Nearn'], 'Starring': ['Ryan Reynolds', 'Ben Mendelsohn', 'Sienna Miller'], 'Studio': ['A24 Distribution LLC']}\nI lost interest in the movie in the middle, but the ending was good.\nbut the ending was good.\nFantastic Four\nScience Fiction, Adventure, Fantastic, Harrowing\n[\"The FANTASTIC FOUR make a triumphant return with MARVEL's next generation of heroes\u2014four outsiders whose physical forms are altered when they teleport to an alternate universe.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Josh Trank'], 'Producers': ['Simon Kinberg', 'Matthew Vaughn', 'Hutch Parker', 'Robert Kulzer', 'Gregory Goodman'], 'Starring': ['Miles Teller', 'Michael B. Jordan', 'Kate Rooney Mara']}\nI enjoyed the movie\nFour Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Peyton Reed'], 'Producers': ['Kevin Feige'], 'Starring': ['Paul Rudd', 'Michael Douglas', 'Evangeline Lilly']}\nKept trying to wrap my head around the moving being about an ant, but it was ok.\nThree Stars\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Cannon'], 'Producers': ['Nick Cannon', 'Michael Goldman'], 'Starring': [\"Bobb'e J. Thompson\", 'Luenell', 'Mike Epps'], 'Studio': ['LIONSGATE']}\nFunny\nFour Stars\nWhen the Bough Breaks\nSuspense, Drama, Atmospheric, Emotional\n[\"A couple's marriage is threatened when the baby surrogate they've hired becomes obsessed and wants the husband and baby inside of her for her own.\"]\n{'Audio languages': ['English (US)', 'English (UK) [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Cassar'], 'Producers': ['Bob Shaye', 'Michael Lynne'], 'Starring': ['Morris Chestnut', 'Regina Hall', 'Jaz Sinclair']}\nI enjoyed the movie\nThree Stars\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Baran bo Odar'], 'Producers': ['Roy Lee', 'Adam Stone'], 'Starring': ['Jamie Foxx', 'Michelle Monaghan', 'TI'], 'Studio': ['Viacom']}\nEnjoyed the movie\nGood movie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jordan Peele'], 'Producers': ['Jason Blum', 'Sean McKittrick', 'Edward H. Hamm Jr.', 'Jordan Peele'], 'Starring': ['Daniel Kaluuya', 'Allison Williams', 'Bradley Whitford'], 'Studio': ['Universal Pictures']}\nLoved it\nLoved it\n{'Content advisory': ['Foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Theodore Melfi'], 'Producers': ['Donna Gigliotti', 'Peter Chernin', 'Jenno Topping', 'Pharrell Williams', 'Theodore Melfi'], 'Starring': ['Taraji P. Henson', 'Janelle Monae', 'Kevin Costner']}\nLove it.  Great movie\nLoved it",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Loved it",
+    "text": "Love it.  Great movie",
+    "images": [],
+    "asin": "B01MS4V81A",
+    "parent_asin": "B01MS4V81A",
+    "user_id": "AHUOZU4UFPRZZZVHDIS65TMHIHSQ",
+    "timestamp": "2017-07-12 19:26:13.310000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.9,
+    "rating_number": 35212,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f25bb4e1235fde285b02a6c5d1e7f7cf244cb4d2b5c28ed0315227efac1b1ea._RI_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Theodore Melfi"
+      ],
+      "Producers": [
+        "Donna Gigliotti",
+        "Peter Chernin",
+        "Jenno Topping",
+        "Pharrell Williams",
+        "Theodore Melfi"
+      ],
+      "Starring": [
+        "Taraji P. Henson",
+        "Janelle Monae",
+        "Kevin Costner"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

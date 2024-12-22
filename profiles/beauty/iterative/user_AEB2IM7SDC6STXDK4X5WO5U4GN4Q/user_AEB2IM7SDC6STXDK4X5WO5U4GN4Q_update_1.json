@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Amtidy Solid Color Vintage Modern Style Elastic Women's Rhinestone Crown Tiara, Bridal Wedding Dance Party Birthday Party Women's Headband Tiara, Queen Tiara With Comb\uff08Silver\uff09\nReview Date: 2020/08/30\nStore: Amtidy\nAverage Rating: 4.0\nProduct Details: {'Material': 'Rubber', 'Fabric Type': 'Elastic', 'Brand': 'Amtidy', 'Item Form': 'Spiral', 'Unit Count': '10.00 Count', 'Package Dimensions': '11.65 x 5.63 x 3.23 inches; 12.03 Ounces', 'UPC': '782931993780'}\nReview Text: These headbands are really nice quality. They are like women\u2019s stocking or tights fabric. The colors are very vibrant and the bands are stitched so the knot stays in place. I can\u2019t quite figure out how to style them but overall they are cute, great quality, and good value.<br />If you found this review helpful please click \u201chelpful\u201d below. Thank you.\nReview Title: Vibrant colors, soft, good quality.\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Amtidy Solid Color Vintage Modern Style Elastic Women's Rhinestone Crown Tiara, Bridal Wedding Dance Party Birthday Party Women's Headband Tiara, Queen Tiara With Comb\uff08Silver\uff09\nAmtidy\n{'Material': 'Rubber', 'Fabric Type': 'Elastic', 'Brand': 'Amtidy', 'Item Form': 'Spiral', 'Unit Count': '10.00 Count', 'Package Dimensions': '11.65 x 5.63 x 3.23 inches; 12.03 Ounces', 'UPC': '782931993780'}\nThese headbands are really nice quality. They are like women\u2019s stocking or tights fabric. The colors are very vibrant and the bands are stitched so the knot stays in place. I can\u2019t quite figure out how to style them but overall they are cute, great quality, and good value.<br />If you found this review helpful please click \u201chelpful\u201d below. Thank you.\nVibrant colors, soft, good quality.",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Focuses on fashion accessories, particularly hair adornments suited for special occasions such as weddings and parties.\n- **Quality Appreciation:** Values high-quality materials and craftsmanship, as indicated by the emphasis on good quality and vibrant colors in their review.\n- **Price Sensitivity:** Considers value for money important, as they mention the product's good value ratio.\n- **Style Exploration:** Shows a willingness to experiment with styles, despite uncertainty in styling. This suggests an interest in personal aesthetics and possibly a desire to enhance appearances for events.\n- **Engagement Behavior:** Actively participates in product reviews and expresses helpfulness to other shoppers, indicating a sense of community engagement within the shopping experience.\n\nOverall, this user exhibits a preference for stylish and quality-oriented accessories while maintaining an interest in affordability and community feedback.",
+  "metrics": {
+    "rouge1_f": 0.2076923076923077,
+    "rouge2_f": 0.0310077519379845,
+    "rougeL_f": 0.1,
+    "meteor": 0.13375298017187587,
+    "bleu1": 0.1910112359550562,
+    "bleu2": 0.032850563544173934,
+    "bleu3": 0.008495540087621923,
+    "bleu4": 0.0043264703619220754,
+    "bertscore_precision": 0.4057663381099701,
+    "bertscore_recall": 0.4272981882095337,
+    "bertscore_f1": 0.4162539839744568
+  }
+}

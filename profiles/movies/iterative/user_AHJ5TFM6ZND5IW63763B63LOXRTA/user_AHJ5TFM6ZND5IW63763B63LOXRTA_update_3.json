@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/03\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shekhar Kapur'], 'Producers': ['Alison Owen', 'Eric Fellner', 'Tim Bevan'], 'Starring': ['Eric Cantona', 'Cate Blanchett', 'Geoffrey Rush'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: best movie every!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Gordon-Levitt'], 'Producers': ['Ram Bergman'], 'Starring': ['Joseph Gordon-Levitt', 'Scarlett Johansson', 'Julianne Moore'], 'Studio': ['RELATIVITY MEDIA']}\nstupid\nOne Star\n{'Subtitles': ['None available'], 'Directors': ['William Wyler'], 'Producers': ['Samuel Goldwyn'], 'Starring': ['Merle Oberan', 'Laurence Olivier', 'David Niven'], 'Studio': ['MGM']}\nlove it\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shekhar Kapur'], 'Producers': ['Alison Owen', 'Eric Fellner', 'Tim Bevan'], 'Starring': ['Eric Cantona', 'Cate Blanchett', 'Geoffrey Rush'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nbest movie every!\nFive Stars",
+  "profile": "User Profile Summary:\n\n- **Rating Trends**: The user continues to provide a wide range of ratings, reflecting their critical yet appreciative stance on various media. A recent 5-star rating reinforces a positive shift in their feedback, showcasing their capacity to recognize and celebrate high-quality content.\n\n- **Content Preferences**: The user's inclination towards media with adult themes persists, particularly classic films featuring prominent actors and rich, complex narratives. The latest review demonstrates a strong preference for engaging storylines and outstanding performances.\n\n- **Language and Accessibility**: Consistent preference for English audio and closed-captioned subtitles remains evident. The inclusion of audio description suggests a broader flexibility with accessibility features, highlighting the importance of tailored viewing experiences.\n\n- **Creative Involvement**: The user continues to engage with works from respected filmmakers and actors known for thought-provoking storytelling. Their recent purchase aligns with this interest, indicating a sustained appreciation for creative narratives.\n\n- **Emotional Reaction**: The user has shown a remarkable ability to experience strong emotions regarding content, where critical assessments are balanced with genuine enjoyment, as highlighted by their enthusiastic high ratings.\n\n- **Customization Preferences**: They value personalized viewing experiences and actively seek diverse media options that cater to their tastes.\n\nOverall, the user appreciates high-quality, thought-provoking media, demonstrating a mix of critical evaluation and moments of genuine satisfaction in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.0668693009118541,
+    "rouge2_f": 0.012232415902140673,
+    "rougeL_f": 0.0486322188449848,
+    "meteor": 0.05275035550503326,
+    "bleu1": 0.07299073717353527,
+    "bleu2": 0.005170738307915875,
+    "bleu3": 0.0021421473309213815,
+    "bleu4": 0.0013800683542458507,
+    "bertscore_precision": 0.36287063360214233,
+    "bertscore_recall": 0.3475220203399658,
+    "bertscore_f1": 0.35503050684928894
+  }
+}

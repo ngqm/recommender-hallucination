@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nReview Date: 2020/08/07\nStore: EMMOR\nAverage Rating: 4.0\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nReview Text: nice color, nice texture, soft. comes with 2 nylon hair caps. great value for price.\nReview Title: nice wig, great price.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "EMMOR Long Ombre Brown Wig for Women - 23 Inch Natural Synthetic Straight Hair Middle Part With Air Bang Wigs Dark Root, Party Cosplay Daily Use\nEMMOR\n{'Material': 'Human Hair', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'EMMOR', 'Age Range (Description)': 'Adult', 'Package Dimensions': '13.5 x 9.72 x 2.2 inches; 11.68 Ounces', 'Item model number': 'femlc169-1'}\nnice color, nice texture, soft. comes with 2 nylon hair caps. great value for price.\nnice wig, great price.",
+  "profile": "**User Summary:**\n\nThe user demonstrates a clear preference for high-quality, value-oriented hair products, particularly wigs that feature modern styles and natural textures. They appreciate items that are soft to the touch and offer aesthetically pleasing color options. This user seems to prioritize practicality, valuing products that come with additional accessories, such as hair caps, which suggests a focus on convenience and all-in-one solutions. The positive rating indicates satisfaction with both the quality and price, showing a trend towards budget-sensitive purchases while maintaining a desire for good-quality products. Overall, the user favors synthetic hair options that mimic natural looks, likely for daily use or special occasions. Their emphasis on value suggests they are likely to seek deals that do not compromise on quality.",
+  "metrics": {
+    "rouge1_f": 0.21359223300970875,
+    "rouge2_f": 0.029411764705882353,
+    "rougeL_f": 0.10679611650485438,
+    "meteor": 0.14955966821979433,
+    "bleu1": 0.15602836879432624,
+    "bleu2": 0.03338395345867384,
+    "bleu3": 0.0092900969036137,
+    "bleu4": 0.004909592100033316,
+    "bertscore_precision": 0.3930674195289612,
+    "bertscore_recall": 0.39680105447769165,
+    "bertscore_f1": 0.39492538571357727
+  }
+}

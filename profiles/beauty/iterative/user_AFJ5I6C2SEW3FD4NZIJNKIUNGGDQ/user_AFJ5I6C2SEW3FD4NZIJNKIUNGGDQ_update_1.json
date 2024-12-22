@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Rated Green - Hibiscus Moisturizing Scalp Pack - Tube - 6.76 fl. oz. Cold Brewed Organic Hibiscus with Natural Honey - Softening Hair Mask for Women & Men\nReview Date: 2021/09/25\nStore: RATED GREEN\nAverage Rating: 4.5\nProduct Details: {'Brand': 'RATED GREEN', 'Item Form': 'Cream', 'Material Feature': 'Organic, Natural', 'Hair Type': 'Fine', 'Product Benefits': 'Moisturizing', 'Product Dimensions': '19.69 x 19.69 x 11.02 inches; 7.8 Ounces', 'Item model number': 'RGNOP2'}\nReview Text: Used my regular shampoo, then followed up with this hair mask. Left it on for 5 mins and brushed it through my hair with a comb in the shower. The smell is amazing( if you like bananas, which I do ) After washing I let my hair air dry and my hair is so smooth and soft. I also have a nice shine to my hair. I notice with this product a little goes a long way so one bottle can last a while. Never used a hair mask before and I really like the life it gave my hair back.  I will continue to use this 1-2 times a week.\nReview Title: Amazing soft smooth hair after use\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Rated Green - Hibiscus Moisturizing Scalp Pack - Tube - 6.76 fl. oz. Cold Brewed Organic Hibiscus with Natural Honey - Softening Hair Mask for Women & Men\nRATED GREEN\n{'Brand': 'RATED GREEN', 'Item Form': 'Cream', 'Material Feature': 'Organic, Natural', 'Hair Type': 'Fine', 'Product Benefits': 'Moisturizing', 'Product Dimensions': '19.69 x 19.69 x 11.02 inches; 7.8 Ounces', 'Item model number': 'RGNOP2'}\nUsed my regular shampoo, then followed up with this hair mask. Left it on for 5 mins and brushed it through my hair with a comb in the shower. The smell is amazing( if you like bananas, which I do ) After washing I let my hair air dry and my hair is so smooth and soft. I also have a nice shine to my hair. I notice with this product a little goes a long way so one bottle can last a while. Never used a hair mask before and I really like the life it gave my hair back.  I will continue to use this 1-2 times a week.\nAmazing soft smooth hair after use",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Favoring hair care products, particularly moisturizing treatments.\n- **Ingredients:** Strong preference for organic and natural formulations, indicating a health-conscious approach.\n- **Perfume Sensitivity:** Enjoys pleasant scents in products, specifically favoring fruity aromas like banana.\n- **Hair Type Focus:** Specifically focuses on products that cater to fine hair, seeking softness and shine.\n- **Usage Pattern:** Shows a tendency for routine use, planning to incorporate products into a weekly regimen (1-2 times a week).\n- **Application Method:** Prefers simple application processes, such as using a comb to distribute products during a shower.\n- **Value for Money:** Appreciates the longevity of products, highlighting that a little product goes a long way, indicating importance on cost-effectiveness.\n- **Feedback Behavior:** Willing to share positive feedback after satisfactory experiences, resulting in high ratings for effective products. \n\nOverall, the user displays a clear trend toward effective, high-quality hair care solutions that align with natural ingredients and pleasant scents, combined with a practical approach to application and usage frequency.",
+  "metrics": {
+    "rouge1_f": 0.31176470588235294,
+    "rouge2_f": 0.08284023668639054,
+    "rougeL_f": 0.14705882352941174,
+    "meteor": 0.20284035359817365,
+    "bleu1": 0.3021276595744681,
+    "bleu2": 0.11362851069759446,
+    "bleu3": 0.060519161163786875,
+    "bleu4": 0.03717963976227764,
+    "bertscore_precision": 0.4525911808013916,
+    "bertscore_recall": 0.45919105410575867,
+    "bertscore_f1": 0.4558672308921814
+  }
+}

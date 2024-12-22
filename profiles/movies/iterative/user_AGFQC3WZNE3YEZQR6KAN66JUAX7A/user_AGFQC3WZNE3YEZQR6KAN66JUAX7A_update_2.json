@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/24\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Thomas Lucas'], 'Producers': ['Thomas Lucas'], 'Studio': ['MagellanTV']}\nReview Text: Though the program itself was a little dated, I thought the program was very informative, and very well done.\nReview Title: Soar Storms\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Life of Pi\nDrama, Fantasy, Beautiful, Dreamlike\n['After a cataclysmic shipwreck, young Pi Patel finds himself stranded on a lifeboat with only one other survivor \u2013 a ferocious Bengal tiger named Richard Parker. Bound by the need to survive, the two are cast on an epic journey.']\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['---'], 'Producers': ['Gil Netter', 'Ang Lee', 'David Womark'], 'Starring': ['Suraj Sharma', 'Irrfan Khan', 'Tabu']}\nThis movie was recommended by a friend who told me it made him think and he wanted to see it again. I found it interesting, thought provoking, beautifully filmed,  with an excellent cast.\nLife of Pi\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Thomas Lucas'], 'Producers': ['Thomas Lucas'], 'Studio': ['MagellanTV']}\nThough the program itself was a little dated, I thought the program was very informative, and very well done.\nSoar Storms",
+  "profile": "**User Summary:**\n\n- **Genres:** Prefers dramatic and fantasy films that are visually stunning and dreamlike, showing a growing interest in informative and well-produced documentaries.\n- **Themes:** Engages with thought-provoking narratives, survival stories, and profound life lessons while also appreciating educational content.\n- **Visual Aesthetics:** Continues to value beautiful cinematography and artistic presentation, indicating an appreciation for high production quality across genres.\n- **Emotional Engagement:** Values films and programs that elicit deep reflection and emotional responses, highlighting a strong connection to narratives that provide meaning and insight.\n- **Social Influence:** Strongly influenced by recommendations from friends, showing a tendency to trust peer opinions when selecting both films and documentaries.\n- **Overall Rating Tendencies:** Generally gives high ratings to admired films and programs, indicating a positive and discerning taste in visual storytelling. The recent interaction reflects a willingness to appreciate quality content, even if slightly dated, reinforcing the user\u2019s unique blend of preferences. \n\nThe user\u2019s profile now incorporates a broader engagement with artistic works, including documentaries, reflecting a multifaceted appreciation for storytelling and visual presentation.",
+  "metrics": {
+    "rouge1_f": 0.22429906542056072,
+    "rouge2_f": 0.012539184952978056,
+    "rougeL_f": 0.10591900311526478,
+    "meteor": 0.11399371069182389,
+    "bleu1": 0.16246345337854431,
+    "bleu2": 0.03552941895047997,
+    "bleu3": 0.007897440561142555,
+    "bleu4": 0.0037274399467187983,
+    "bertscore_precision": 0.39797690510749817,
+    "bertscore_recall": 0.4216017425060272,
+    "bertscore_f1": 0.4094488322734833
+  }
+}

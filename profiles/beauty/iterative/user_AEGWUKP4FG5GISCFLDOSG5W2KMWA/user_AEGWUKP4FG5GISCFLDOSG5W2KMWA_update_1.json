@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mountain Falls Regular Nail Polish Remover for Natural Nails, with Vitamin E and Panthenol, 6 Fluid Ounce\nReview Date: 2019/08/30\nStore: Mountain Falls\nProduct Description: [\"Don't wait for your next spa day to treat yourself. Mountain Falls Regular Nail Polish Remover has been carefully formulated to quickly and gently care for your nails. The salon quality formula softens cuticles and contains Vitamin E. Our formula is free of Parabens and Phthalates. Try Mountain Falls Regular Nail Polish Remover today.\"]\nAverage Rating: 3.2\nProduct Details: {'Brand': 'Mountain Falls', 'Item Form': 'Liquid', 'Material Feature': 'Natural', 'Item Weight': '0.4 Pounds', 'Unit Count': '6 Fl Oz', 'Package Dimensions': '8 x 4 x 2 inches; 6.4 Ounces', 'Manufacturer': 'Vi-Jon'}\nReview Text: This nail polish remover works well. It doesn\u2019t seem to dry my nails out. I appreciate that it is free of Parabens and Phthalates. But the advertised price is high in comparison to comparable nail polishes.\nReview Title: Good nail polish remover. But pricey\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Mountain Falls Regular Nail Polish Remover for Natural Nails, with Vitamin E and Panthenol, 6 Fluid Ounce\nMountain Falls\n[\"Don't wait for your next spa day to treat yourself. Mountain Falls Regular Nail Polish Remover has been carefully formulated to quickly and gently care for your nails. The salon quality formula softens cuticles and contains Vitamin E. Our formula is free of Parabens and Phthalates. Try Mountain Falls Regular Nail Polish Remover today.\"]\n{'Brand': 'Mountain Falls', 'Item Form': 'Liquid', 'Material Feature': 'Natural', 'Item Weight': '0.4 Pounds', 'Unit Count': '6 Fl Oz', 'Package Dimensions': '8 x 4 x 2 inches; 6.4 Ounces', 'Manufacturer': 'Vi-Jon'}\nThis nail polish remover works well. It doesn\u2019t seem to dry my nails out. I appreciate that it is free of Parabens and Phthalates. But the advertised price is high in comparison to comparable nail polishes.\nGood nail polish remover. But pricey",
+  "profile": "**User Profile Summary**\n\n- **Product Type Preference:** The user has a preference for beauty and personal care products, specifically those related to nail care.\n- **Key Ingredients:** Values products that are formulated with beneficial ingredients such as Vitamin E and Panthenol, indicating an inclination towards nourishing and moisturizing properties.\n- **Formulation Concerns:** Shows a preference for products that are free from harmful chemicals like Parabens and Phthalates, suggesting an awareness and concern for health and safety in beauty products.\n- **Performance Expectations:** Looks for efficacy in products, emphasizing functionality (e.g., quick and gentle nail care) while also being sensitive to the condition of nails (i.e., avoiding products that cause dryness).\n- **Price Sensitivity:** Displays price sensitivity, noting concerns about the cost in comparison to similar products, which suggests a tendency to seek value-for-money in purchases.\n- **Rating Behavior:** Generally rates products positively when they meet performance expectations, but also indicates a critical analysis when value is not aligned with price.\n\nOverall, this user is health-conscious, values high-quality personal care items, and seeks cost-effective solutions in beauty products.",
+  "metrics": {
+    "rouge1_f": 0.25609756097560976,
+    "rouge2_f": 0.04294478527607362,
+    "rougeL_f": 0.1402439024390244,
+    "meteor": 0.15765765765765763,
+    "bleu1": 0.23504273504273504,
+    "bleu2": 0.08983394027594264,
+    "bleu3": 0.055819718135362406,
+    "bleu4": 0.03503041104343159,
+    "bertscore_precision": 0.46849238872528076,
+    "bertscore_recall": 0.46239328384399414,
+    "bertscore_f1": 0.4654228389263153
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Starring': ['Mireille Enos', 'Joel Kinnaman'], 'Studio': ['NETFLIX']}\nReview Text: Great series and price\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Studio': ['NETFLIX']}\nWonderful series\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Starring': ['Mireille Enos', 'Joel Kinnaman'], 'Studio': ['NETFLIX']}\nGreat series and price\nFive Stars",
+  "profile": "The user maintains a strong preference for high-quality, engaging series, consistently favoring those with complex narratives and intense themes, including violence, alcohol use, and mature content. Their latest interaction, featuring a high rating and enthusiastic feedback, reinforces their discerning taste for thought-provoking television that evokes strong emotional responses. \n\nThey have shown a particular appreciation for well-produced content from reputable studios, with a recent positive mention of a series from Netflix, signaling their inclination toward high production values. Furthermore, the user values content that is accessible in English, with English subtitles available, highlighting their need for comprehension and engagement with the material.\n\nThe consistent positive ratings indicate a tendency to connect with critically acclaimed series that stimulate deep reflection and emotional involvement. Overall, the user seeks series that not only entertain but also provoke thought and resonate on a personal level, maintaining a keen interest in mature themes and quality storytelling.",
+  "metrics": {
+    "rouge1_f": 0.11336032388663966,
+    "rouge2_f": 0.024489795918367346,
+    "rougeL_f": 0.08906882591093117,
+    "meteor": 0.04843173431734317,
+    "bleu1": 0.08664391273792202,
+    "bleu2": 0.00614474927262367,
+    "bleu3": 0.0025485041471929783,
+    "bleu4": 0.0016437059839093623,
+    "bertscore_precision": 0.32641905546188354,
+    "bertscore_recall": 0.32808011770248413,
+    "bertscore_f1": 0.3272475004196167
+  }
+}

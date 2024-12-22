@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/01/18\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Mottola'], 'Producers': ['Tim Bevan', 'Nira Park', 'Eric Fellner'], 'Starring': ['Simon Pegg', 'Nick Frost', 'Seth Rogen'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: I really enjoy these two as a comedy team. The film is very funny and has a lot of social commentary on the US.\nReview Title: Great Movie for a laugh\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Edgar Wright'], 'Producers': ['Nira Park'], 'Starring': ['Simon Pegg', 'Nick Frost', 'Paddy Considine'], 'Studio': ['NBC Universal']}\nA deep exploration of human connectedness and brotherly love in the face of cruel time. Add pubs, car chases, explosions, 1000 funny jokes, and you'll have the thread of this film. Pegg and Frost are on par with the great comedy teams of all time.\nA Riot\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Greg Mottola'], 'Producers': ['Tim Bevan', 'Nira Park', 'Eric Fellner'], 'Starring': ['Simon Pegg', 'Nick Frost', 'Seth Rogen'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nI really enjoy these two as a comedy team. The film is very funny and has a lot of social commentary on the US.\nGreat Movie for a laugh",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys films that blend humor with deeper themes of human relationships and emotional connections. Shows a preference for stories involving camaraderie, brotherly love, and significant life events. Recent interactions indicate an appreciation for social commentary within comedic frameworks.\n\n- **Media Style:** Favors comedic narratives that include action elements such as car chases and explosive scenarios. Values clever dialogue and a mix of humor with heartfelt moments, which has led to consistently high ratings for engaging content.\n\n- **Rating Behavior:** Demonstrates a tendency to provide high ratings (average of 4.6, with a recent rating of 5.0) when entertained and emotionally engaged. Evaluates films based on the quality of humor and thematic depth, further enhanced by familiar comedic performers.\n\n- **Cast Preferences:** Shows a preference for collaborations among specific comedic actors, particularly enjoying the chemistry of Simon Pegg and Nick Frost, which aligns with recent ratings.\n\n- **Content Advisory Tolerance:** Open to films with mature content, including violence, substance use, and strong language, indicating comfort with edgy themes that contribute to the overall comedic experience. \n\n- **Media Accessibility:** Prefers content available in English, with notable appreciation for accessible features like subtitles.\n\nOverall, this user enjoys a rich blend of laughter and emotional resonance, valuing both comedic execution and character-driven narratives, highlighted by a keen interest in social themes within humor.",
+  "metrics": {
+    "rouge1_f": 0.2702702702702703,
+    "rouge2_f": 0.059782608695652176,
+    "rougeL_f": 0.13513513513513514,
+    "meteor": 0.146824232150785,
+    "bleu1": 0.21254355400696864,
+    "bleu2": 0.0721256886151704,
+    "bleu3": 0.012221139320052667,
+    "bleu4": 0.0050350546218362715,
+    "bertscore_precision": 0.4439025819301605,
+    "bertscore_recall": 0.4504570960998535,
+    "bertscore_f1": 0.44715580344200134
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: L\u2019ANGE HAIR Wide Tooth Comb Tortoiseshell Acetate | Lightweight, Smooth, Compact Design | Easy Glide Wide Tooth Comb\nReview Date: 2022/08/21\nStore: L'ANGE HAIR\nAverage Rating: 4.6\nProduct Details: {'Product Dimensions': '0.25 x 7 x 3.13 inches; 1.76 Ounces', 'Item model number': '2427', 'UPC': '810108190974'}\nReview Text: This comb is the cutest thing.It fits in my purse since it\u2019s super thin.It does come with a white carrying case which I appreciate.I\u2019ve use it as a pick since I have type 4 hair and I wear it out quite a lot and it works fine.<br />8/10 would recommend to a friend.\nReview Title: Fits into purse very easy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "L\u2019ANGE HAIR Wide Tooth Comb Tortoiseshell Acetate | Lightweight, Smooth, Compact Design | Easy Glide Wide Tooth Comb\nL'ANGE HAIR\n{'Product Dimensions': '0.25 x 7 x 3.13 inches; 1.76 Ounces', 'Item model number': '2427', 'UPC': '810108190974'}\nThis comb is the cutest thing.It fits in my purse since it\u2019s super thin.It does come with a white carrying case which I appreciate.I\u2019ve use it as a pick since I have type 4 hair and I wear it out quite a lot and it works fine.<br />8/10 would recommend to a friend.\nFits into purse very easy",
+  "profile": "User Summary:\n\n- **Hair Care**: Shows a strong interest in hair care tools, particularly those designed for textured hair (type 4).\n- **Convenience**: Prefers lightweight and compact products that can easily fit into a purse or bag, indicating a lifestyle that values portability.\n- **Practicality**: Appreciates items that serve multiple functions; uses the comb as a pick, showcasing versatility in product usage.\n- **Aesthetic Value**: Values attractive and cute design elements in products, suggesting a preference for products that are visually appealing.\n- **Quality Focus**: Indicates a tendency to choose higher-rated products, as seen in their positive review and high rating of the product\u2019s functionality.\n- **Recommendation Behavior**: Open to recommending products to friends, implying a social aspect to their shopping habits.\n\nOverall, the user demonstrates a practical yet stylish approach to hair care, with an emphasis on convenience, versatility, and quality.",
+  "metrics": {
+    "rouge1_f": 0.25619834710743805,
+    "rouge2_f": 0.033333333333333326,
+    "rougeL_f": 0.1487603305785124,
+    "meteor": 0.1767401392111369,
+    "bleu1": 0.1487179487179487,
+    "bleu2": 0.05537462828861278,
+    "bleu3": 0.025139392558187933,
+    "bleu4": 0.009537636742594703,
+    "bertscore_precision": 0.42295411229133606,
+    "bertscore_recall": 0.4239065647125244,
+    "bertscore_f1": 0.42342981696128845
+  }
+}

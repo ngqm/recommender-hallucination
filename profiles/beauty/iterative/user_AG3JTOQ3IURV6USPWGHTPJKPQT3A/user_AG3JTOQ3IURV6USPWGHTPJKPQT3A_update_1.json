@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Zen Rituals Pure Minerals Sea Bath Salts Set for Relaxation with Premium Essential Oils Aromatherapy Lavender, Tea Tree and Epsom Eucalyptus, Bundle Pack of 3 Bottles\nReview Date: 2020/09/11\nStore: Zen Rituals\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Zen Rituals', 'Scent': 'Lavender, Tea Tree', 'Product Benefits': 'Relaxation,Aromatherapy', 'Unit Count': '105.6 Ounce', 'Number of Items': '3', 'Product Dimensions': '6.79 x 8.98 x 2.99 inches; 7.12 Pounds', 'Item model number': 'SEASETLAVTEATREAEUCALYPT', 'UPC': '791109148211', 'Manufacturer': 'Zen Rituals Product'}\nReview Text: I wish all bath salts were like these. They dissolve fast and have a great aromatherapy effect in a hot tub. Plus they actually feel beneficial on my skin. Love them! I want more!\nReview Title: Recieved as a gift, but LOVE the bath salts\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Zen Rituals Pure Minerals Sea Bath Salts Set for Relaxation with Premium Essential Oils Aromatherapy Lavender, Tea Tree and Epsom Eucalyptus, Bundle Pack of 3 Bottles\nZen Rituals\n{'Brand': 'Zen Rituals', 'Scent': 'Lavender, Tea Tree', 'Product Benefits': 'Relaxation,Aromatherapy', 'Unit Count': '105.6 Ounce', 'Number of Items': '3', 'Product Dimensions': '6.79 x 8.98 x 2.99 inches; 7.12 Pounds', 'Item model number': 'SEASETLAVTEATREAEUCALYPT', 'UPC': '791109148211', 'Manufacturer': 'Zen Rituals Product'}\nI wish all bath salts were like these. They dissolve fast and have a great aromatherapy effect in a hot tub. Plus they actually feel beneficial on my skin. Love them! I want more!\nRecieved as a gift, but LOVE the bath salts",
+  "profile": "**User Profile Summary:**\n\n- **Preference for Relaxation Products:** The user exhibits a strong interest in relaxation and wellness, particularly through bath and aromatherapy products.\n- **Positive Experience with Aromatherapy:** They specifically appreciate products that provide an enhanced sensory experience, indicating a preference for scents like lavender and tea tree.\n- **Effectiveness and Quality:** The user values products that dissolve easily and offer tangible benefits for both physical relaxation and skin care.\n- **Desire for Repeat Purchases:** Their enthusiastic feedback suggests a strong likelihood of repurchasing or recommending similar products, highlighting brand loyalty.\n- **Enjoyment of Gifted Items:** The user appreciates receiving wellness products as gifts, associating them with positive experiences.\n\nOverall, this user profile demonstrates a consistent focus on high-quality, effective relaxation solutions with an emphasis on aromatic properties.",
+  "metrics": {
+    "rouge1_f": 0.2916666666666667,
+    "rouge2_f": 0.01680672268907563,
+    "rougeL_f": 0.15000000000000002,
+    "meteor": 0.15498641497918203,
+    "bleu1": 0.21637426900584794,
+    "bleu2": 0.03567617997602123,
+    "bleu3": 0.009098224786083799,
+    "bleu4": 0.004601401995441829,
+    "bertscore_precision": 0.4347786009311676,
+    "bertscore_recall": 0.45162177085876465,
+    "bertscore_f1": 0.4430401623249054
+  }
+}

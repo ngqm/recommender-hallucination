@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/08\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Carr'], 'Producers': ['Adam Sandler', 'Jack Giarraputo', 'Todd Garner', 'Kevin James', 'Barry Bernardi'], 'Starring': ['Kevin James', 'Jayma Mays', \"Keir O'donnell\"], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: I didn't find this movie very funny at all, some people find this thing funny but I found it annoying.\nReview Title: Watch at your own risk\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Koepp'], 'Producers': ['Andrew Lazar', 'Johnny Depp', 'Christi Dembrowski'], 'Starring': ['Johnny Depp', 'Gwyneth Paltrow', 'Ewan McGregor'], 'Studio': ['LIONSGATE']}\nI liked Mordecai... Johnny Depp is always funny, it was a little draggy in parts but overall worth watching.\nOk\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve Carr'], 'Producers': ['Adam Sandler', 'Jack Giarraputo', 'Todd Garner', 'Kevin James', 'Barry Bernardi'], 'Starring': ['Kevin James', 'Jayma Mays', \"Keir O'donnell\"], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nI didn't find this movie very funny at all, some people find this thing funny but I found it annoying.\nWatch at your own risk",
+  "profile": "**Updated User Profile Summary:**\n\n- **Overall Rating Trend:** Generally positive but with increased variance; tends to rate around 4.2 on average but has shown recent strong discontent, with a 1.0 rating indicating potential shifts in expectations or tolerance towards humor in films.\n\n- **Content Preferences:** Enjoys humor and performances from notable actors, specifically appreciating the comedic talent of a well-known male lead. However, recent feedback indicates disappointment with certain comedic offerings, signaling a need for a more discerning selection that aligns with personal comedic taste. Still shows a preference for films with mature themes, including violence and sexual content.\n\n- **Viewing Experience:** Values engaging storytelling and may find pacing issues distracting; however, the recent negative experience suggests a heightened sensitivity to humor that feels more annoying than entertaining.\n\n- **Language and Accessibility:** Uses English audio and appreciates subtitled content, maintaining a preference for inclusivity in viewing.\n\n- **Notable Trends:** Likely to appreciate films that blend comedic elements with drama and feature well-recognized casts but has become increasingly critical of comedic films that do not meet personal enjoyment standards. This recent review reflects a shift towards a more critical outlook on humor's effectiveness in storytelling.",
+  "metrics": {
+    "rouge1_f": 0.13124999999999998,
+    "rouge2_f": 0.012578616352201257,
+    "rougeL_f": 0.075,
+    "meteor": 0.06923076923076922,
+    "bleu1": 0.09130693609376775,
+    "bleu2": 0.0059060526015183535,
+    "bleu3": 0.0023740895216328114,
+    "bleu4": 0.0015067816294451473,
+    "bertscore_precision": 0.3733236789703369,
+    "bertscore_recall": 0.3999597430229187,
+    "bertscore_f1": 0.3861829936504364
+  }
+}

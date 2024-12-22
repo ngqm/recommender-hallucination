@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/08/09\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Amma Asante'], 'Producers': ['Theuns De Wet', 'Widens Pkolo Dorsainville', 'Brunson Green', 'Peter Heslop', 'Guy Hibbert', 'Veronika Lencova', 'Charlie Mason', 'Rick McCallum', 'Cameron McCracken'], 'Starring': ['David Oyelowo', 'Rosamund Pike', 'Jack Davenport'], 'Studio': ['Fox Searchlight']}\nReview Text: Loved the film!!  So well acted and real.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Amma Asante'], 'Producers': ['Theuns De Wet', 'Widens Pkolo Dorsainville', 'Brunson Green', 'Peter Heslop', 'Guy Hibbert', 'Veronika Lencova', 'Charlie Mason', 'Rick McCallum', 'Cameron McCracken'], 'Starring': ['David Oyelowo', 'Rosamund Pike', 'Jack Davenport'], 'Studio': ['Fox Searchlight']}\nLoved the film!!  So well acted and real.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Film Appreciation:** Strong preference for well-acted films with authentic storytelling.  \n- **Genre Interests:** Likely enjoys dramatic narratives, especially those with historical or biographical elements.  \n- **Quality Focus:** High standards for production quality, as indicated by the average rating (4.6) and the five-star review for a specific title.  \n- **Language Accessibility:** Preference for English audio and subtitle options, suggesting a focus on accessibility in viewing experiences.  \n- **Collaboration Recognition:** Values the contributions of directors and producers, indicating an awareness and appreciation of filmmaking roles.  \n- **Emotional Connection:** Engages with films that evoke genuine emotions, as reflected in the excitement and affection expressed in the review.  \n\nOverall, this user appears to be discerning in their film choices, with an emphasis on quality performances and meaningful content.",
+  "metrics": {
+    "rouge1_f": 0.14689265536723164,
+    "rouge2_f": 0.03428571428571429,
+    "rougeL_f": 0.1016949152542373,
+    "meteor": 0.0800640512409928,
+    "bleu1": 0.09550561797752811,
+    "bleu2": 0.007345609318394936,
+    "bleu3": 0.0031297837280761277,
+    "bleu4": 0.002045861520694368,
+    "bertscore_precision": 0.3953285217285156,
+    "bertscore_recall": 0.39412087202072144,
+    "bertscore_f1": 0.3947237730026245
+  }
+}

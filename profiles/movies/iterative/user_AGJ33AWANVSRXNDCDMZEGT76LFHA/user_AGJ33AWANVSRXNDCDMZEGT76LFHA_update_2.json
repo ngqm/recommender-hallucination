@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/03/05\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alan Poul', 'Greg Mottola', 'Anthony Hemingway', 'Lesli Linka Glatter', 'Jeremy Podeswa', 'Alex Graves', 'Joshua Marston', 'Daniel Minahan', 'Jason Ensler', 'Julian Farino'], 'Starring': ['Jeff Daniels', 'Emily Mortimer', 'Sam Waterston'], 'Studio': ['HBO']}\nReview Text: Great show! 5 STARS****\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Ron White', 'John MacDonald'], 'Producers': ['Ron White', 'John MacDonald'], 'Starring': ['Ron White'], 'Studio': ['Image Entertainment']}\nGreat show, funny, very entertaining. Ron White is one of my favorites! Great to be able to watch on my iPad\nRon White is awesome\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alan Poul', 'Greg Mottola', 'Anthony Hemingway', 'Lesli Linka Glatter', 'Jeremy Podeswa', 'Alex Graves', 'Joshua Marston', 'Daniel Minahan', 'Jason Ensler', 'Julian Farino'], 'Starring': ['Jeff Daniels', 'Emily Mortimer', 'Sam Waterston'], 'Studio': ['HBO']}\nGreat show! 5 STARS****\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Favorite Genre:** Comedy\n- **Preferred Comedian:** Ron White\n- **Content Format:** Enjoys watching shows on mobile devices (iPad)\n- **Engagement:** Engages with content that has high entertainment value\n- **Rating Trends:** Generally positive rating pattern (average rating of 4.7), recently awarded a 5-star rating\n- **Content Appreciation:** Values humor and performance quality; enjoys shows with engaging storylines and performances\n- **Review Behavior:** Provides thoughtful feedback expressing enjoyment, including a recent review that highlights a particularly strong affinity for a new show\n- **Content Accessibility:** Favors shows without language barriers (prefers content without subtitles)\n\nThe user's strong preference for comedic performances remains evident, especially in their admiration for Ron White. With a consistent history of high ratings, including a recent perfect score, this user demonstrates a discerning taste for quality entertainment that is easily accessible on mobile devices. Their feedback indicates a desire for impactful and engaging storytelling, aligning with their appreciation for humor and performance quality.",
+  "metrics": {
+    "rouge1_f": 0.15873015873015872,
+    "rouge2_f": 0.024,
+    "rougeL_f": 0.07142857142857142,
+    "meteor": 0.11059670781893007,
+    "bleu1": 0.13963963963963963,
+    "bleu2": 0.056207364865738164,
+    "bleu3": 0.011282047479177945,
+    "bleu4": 0.005060342515532745,
+    "bertscore_precision": 0.4107915759086609,
+    "bertscore_recall": 0.3986217975616455,
+    "bertscore_f1": 0.404615193605423
+  }
+}

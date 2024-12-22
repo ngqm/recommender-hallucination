@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ALICROWN 3D False Eyelashes 4 Styles Volume Soft Lashes Hand-made Reusable Long Lash\nReview Date: 2019/10/11\nStore: ALICROWN HAIR\nAverage Rating: 4.4\nProduct Details: {'Brand': 'ALICROWN HAIR', 'Item Dimensions LxWxH': '3.94 x 3.94 x 0.59 inches', 'Material Feature': 'Lash', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Product Dimensions': '3.94 x 3.94 x 0.59 inches; 0.81 Ounces', 'UPC': '734830078440'}\nReview Text: When I received the lashes (which was in two days from purchase date), I immediately was fond of the packaging. The package was cute and then I opened the boxes the lashes came in. There were multiple styles! All were so pretty and unique. I recommend these lashes for the quality and price. I will recommend these to my friends!\nReview Title: Great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ALICROWN 3D False Eyelashes 4 Styles Volume Soft Lashes Hand-made Reusable Long Lash\nALICROWN HAIR\n{'Brand': 'ALICROWN HAIR', 'Item Dimensions LxWxH': '3.94 x 3.94 x 0.59 inches', 'Material Feature': 'Lash', 'Item Form': 'Pair', 'Mounting Type': 'Eyelash Glue', 'Product Dimensions': '3.94 x 3.94 x 0.59 inches; 0.81 Ounces', 'UPC': '734830078440'}\nWhen I received the lashes (which was in two days from purchase date), I immediately was fond of the packaging. The package was cute and then I opened the boxes the lashes came in. There were multiple styles! All were so pretty and unique. I recommend these lashes for the quality and price. I will recommend these to my friends!\nGreat",
+  "profile": "**User Profile Summary:**\n\n- **Product Preferences**: Demonstrates a strong interest in beauty products, particularly false eyelashes. Values variety in styles and high-quality offerings.\n- **Quality Sensitivity**: Prioritizes quality and craftsmanship in products, as indicated by the emphasis on hand-made and reusable features.\n- **Value for Money**: Appreciates affordable options without compromising on quality, suggesting a focus on cost-effectiveness when making purchases.\n- **Aesthetics**: Shows a preference for appealing packaging and presentation, indicating an appreciation for visual appeal in product design.\n- **Social Influence**: Willing to recommend products to friends, suggesting a tendency towards sharing positive experiences, indicative of social engagement and influence.\n- **Positive Feedback**: Provides high ratings for satisfactory products, suggesting a tendency to express positivity when experiences meet or exceed expectations.\n\nOverall, the user appears to be a beauty enthusiast who values quality, variety, and aesthetic appeal in products while maintaining a focus on affordability.",
+  "metrics": {
+    "rouge1_f": 0.19083969465648853,
+    "rouge2_f": 0.023076923076923075,
+    "rougeL_f": 0.12977099236641224,
+    "meteor": 0.15373260795540036,
+    "bleu1": 0.16500000000000004,
+    "bleu2": 0.02879489066906169,
+    "bleu3": 0.007481497913977968,
+    "bleu4": 0.0038183423367376774,
+    "bertscore_precision": 0.403403103351593,
+    "bertscore_recall": 0.41457462310791016,
+    "bertscore_f1": 0.4089125990867615
+  }
+}

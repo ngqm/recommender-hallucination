@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/11/01\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nReview Text: Makes you think so don't fall asleep\nReview Title: Mental sleep\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Christopher Nolan'], 'Producers': ['Emma Thomas', 'Christopher Nolan', 'Lynda Obst', 'Jordan Goldberg', 'Jake Myers', 'Kip Thorne', 'Thomas Tull'], 'Starring': ['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']}\nMakes you think so don't fall asleep\nMental sleep",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys thought-provoking narratives that might challenge viewers, indicated by a review that emphasizes the importance of staying engaged. \n- **Genre Inclination:** Appears to favor complex storytelling often found in science fiction or philosophical films, as shown through a positive interaction with a work that combines elements of science and existential themes. \n- **Content Advisory Sensitivity:** Shows awareness of and acknowledges mature themes such as violence, alcohol use, foul language, and sexual content, suggesting a preference for content that does not shy away from adult topics.\n- **Language and Accessibility:** Prefers content with English audio and subtitles, indicating a focus on accessibility and comprehension during viewing.\n- **Director and Production Value:** Exhibits a preference for works by well-known directors and producers, hinting at an appreciation for high-quality film production.\n\nOverall, this user values intellectually stimulating content and is selective about the themes in the media they consume, showing a balance between engaging storytelling and technical quality.",
+  "metrics": {
+    "rouge1_f": 0.14354066985645933,
+    "rouge2_f": 0.05797101449275362,
+    "rougeL_f": 0.1339712918660287,
+    "meteor": 0.0912106135986733,
+    "bleu1": 0.09178743961352658,
+    "bleu2": 0.00667510370864224,
+    "bleu3": 0.002790748658759629,
+    "bleu4": 0.0018066873413485375,
+    "bertscore_precision": 0.4149321913719177,
+    "bertscore_recall": 0.3557736575603485,
+    "bertscore_f1": 0.38308247923851013
+  }
+}

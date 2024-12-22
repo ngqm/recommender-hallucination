@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/23\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Pierre Coffin', 'Chris Renaud'], 'Producers': ['Chris Meledandri', 'John Cohen', 'Janet Healy'], 'Starring': ['Steve Carell', 'Jason Segel', 'Russell Brand'], 'Studio': ['Universal Pictures']}\nReview Text: Bought online, daughter loved it.\nReview Title: daughter loved it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Kevin Lima', 'Chris Buck'], 'Producers': ['Bonnie Arnold'], 'Starring': ['Tony Goldwyn', 'Sean Bussoli', 'Reuben Sallmander'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Subtitles': ['None available'], 'Directors': ['Clyde Geronimi', 'Hamilton S. Luske', 'Wolfgang Reitherman'], 'Producers': ['Walt Disney'], 'Starring': ['Rod Taylor', 'Betty Lou Gerson', 'Cate Bauer'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Pete Docter'], 'Producers': ['Jonas Rivera'], 'Starring': ['Amy Poehler', 'Phyllis Smith', 'Richard Kind']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Pierre Coffin', 'Chris Renaud'], 'Producers': ['Chris Meledandri', 'John Cohen', 'Janet Healy'], 'Starring': ['Steve Carell', 'Jason Segel', 'Russell Brand'], 'Studio': ['Universal Pictures']}\nBought online, daughter loved it.\ndaughter loved it.",
+  "profile": "**User Summary:**\n\n- **Family-Oriented**: The user continues to prioritize their daughter's preferences in decision-making, as evidenced by a recent successful purchase that she absolutely loved.\n- **Content Quality**: They maintain high standards for entertainment, boasting an impressive average rating of 4.8, with a recent acquisition rated 5.0, reinforcing their commitment to quality family-friendly content.\n- **Language and Accessibility**: While they value diverse audio options and subtitles, the user has shown increased adaptability in engaging with content that may not offer subtitles, indicating a flexible approach to viewing choices.\n- **Brand Preference**: The user exhibits a strong inclination towards reputable studios, particularly prioritizing family-friendly productions. Although they have a history with Disney, the recent purchase from Universal Pictures reflects an openness to exploring quality content from other established studios.\n- **Positive Experiences**: They focus on enjoyable and engaging content for children, consistently receive enthusiastic feedback, and confirm high satisfaction for both themselves and their daughter, reinforcing their commitment to curating delightful viewing experiences.\n\nOverall, the user exemplifies a dedicated approach to selecting high-quality, accessible entertainment that caters to their family's needs, continuously fostering enjoyable experiences for their daughter while maintaining their standards in content selection.",
+  "metrics": {
+    "rouge1_f": 0.08670520231213874,
+    "rouge2_f": 0.005813953488372094,
+    "rougeL_f": 0.07514450867052024,
+    "meteor": 0.05622965374371116,
+    "bleu1": 0.09145257979903552,
+    "bleu2": 0.004969782993730307,
+    "bleu3": 0.0018849836520918452,
+    "bleu4": 0.001162081891663558,
+    "bertscore_precision": 0.3469613790512085,
+    "bertscore_recall": 0.3515354096889496,
+    "bertscore_f1": 0.34923338890075684
+  }
+}

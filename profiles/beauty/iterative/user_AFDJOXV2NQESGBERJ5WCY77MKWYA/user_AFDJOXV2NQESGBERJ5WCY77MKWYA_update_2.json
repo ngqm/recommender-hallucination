@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4 oz - Bargz Perfume - Mambo Body Oil For Men Scented Fragrance\nReview Date: 2019/07/18\nStore: Bargz\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'UPC': '795827859985 781772914626'}\nReview Text: great.\nReview Title: great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Envy Women Perfume, Blush, 60ml\nEnvy\n{}\nThis perfume is AMAZING , Smells great.\nHow it smells\n4 oz - Bargz Perfume - Mambo Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'UPC': '795827859985 781772914626'}\ngreat.\ngreat",
+  "profile": "**User Profile Summary:**\n\n- **Fragrance Preferences:** Strong inclination towards perfumes, particularly floral or sweet scents, complemented by a recent interest in scented body oils, indicating an openness to diverse fragrance formats.\n- **Product Sentiment:** Consistently expresses satisfaction with products, focusing on quality and sensory appeal. The user recently praised a body oil, showcasing adaptability in their fragrance choices.\n- **Rating Behavior:** Continues to give maximum ratings (5.0) on highly enjoyable products, reflecting a discerning taste and appreciation for well-crafted, enjoyable scents regardless of the product type.\n- **Emotional Engagement:** Uses enthusiastic language (\"great\") to describe experiences with chosen products, reinforcing a positive emotional connection and joy derived from usage.\n- **Shopping Behavior:** Likely to seek out high-quality, well-reviewed products in the fragrance category, suggesting a preference for premium items, with a growing interest in body oils as an alternative to traditional perfumes.\n- **Overall Trend:** Appreciates products that deliver a pleasant sensory experience while maintaining a focus on exceptional quality and performance, now expanding their fragrance exploration beyond classic perfumes.",
+  "metrics": {
+    "rouge1_f": 0.1095890410958904,
+    "rouge2_f": 0.009216589861751152,
+    "rougeL_f": 0.0730593607305936,
+    "meteor": 0.15655577299412915,
+    "bleu1": 0.09565217391304348,
+    "bleu2": 0.006462933409758371,
+    "bleu3": 0.0026361786503779367,
+    "bleu4": 0.0016854841178710702,
+    "bertscore_precision": 0.39926987886428833,
+    "bertscore_recall": 0.3461998701095581,
+    "bertscore_f1": 0.37084585428237915
+  }
+}

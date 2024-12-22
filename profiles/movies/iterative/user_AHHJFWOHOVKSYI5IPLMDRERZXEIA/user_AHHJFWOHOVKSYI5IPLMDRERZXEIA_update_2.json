@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wind River\nReview Date: 2019/01/01\nCategories: Suspense, Drama, Bleak, Harrowing\nProduct Description: ['A chilling murder mystery set in the icy backwoods of a Native American Reservation, starring Elizabeth Olsen and Jeremy Renner.']\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Taylor Sheridan'], 'Producers': ['Basil Iwanyk', 'Peter Berg', 'Matthew George', 'Wayne L. Rogers', 'Elizabeth A. Bell'], 'Starring': ['Jeremy Renner', 'Elizabeth Olsen', 'Jon Bernthal']}\nReview Text: What a story..be ready for it.\nReview Title: Good acting and story line\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Debra Granik'], 'Producers': ['Anne Harrison', 'Linda Reisman', 'Anne Rosellini'], 'Starring': ['Ben Foster', 'Thomasin Harcourt McKenzie', 'Jeff Kober'], 'Studio': ['Bleecker Street']}\nRedemption and understanding\nGood movie and very good acting\nWind River\nSuspense, Drama, Bleak, Harrowing\n['A chilling murder mystery set in the icy backwoods of a Native American Reservation, starring Elizabeth Olsen and Jeremy Renner.']\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Taylor Sheridan'], 'Producers': ['Basil Iwanyk', 'Peter Berg', 'Matthew George', 'Wayne L. Rogers', 'Elizabeth A. Bell'], 'Starring': ['Jeremy Renner', 'Elizabeth Olsen', 'Jon Bernthal']}\nWhat a story..be ready for it.\nGood acting and story line",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies:** Maintains a generally positive rating average around 4.3, appreciating quality and strong performances in their chosen films.\n\n- **Content Preferences:** Enjoys narrative-driven films that explore themes of redemption, understanding, and emotional depth, with a recent inclination toward suspenseful and harrowing stories.\n\n- **Quality Appreciation:** Clearly values strong acting performances, as emphasized by recent interactions that highlight the significance of both character development and production quality.\n\n- **Language and Subtitles:** Prefers content in English for both audio and subtitles, reinforcing a need for accessibility and clarity in understanding compelling narratives.\n\n- **Notable Collaborations:** Shows a heightened interest in specific directors and producers, often following their works, suggesting loyalty to particular creative teams.\n\n- **Overall Sentiment:** Demonstrates a discerning taste in film, combining an appreciation for storytelling, emotional richness, and high-caliber performances. Recent interactions indicate a particular enjoyment of films with darker themes and intense character portrayals.",
+  "metrics": {
+    "rouge1_f": 0.20769230769230768,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.13076923076923078,
+    "meteor": 0.09530141843971632,
+    "bleu1": 0.14816829423379596,
+    "bleu2": 0.008055321665913667,
+    "bleu3": 0.003056611989518562,
+    "bleu4": 0.0018852018303662722,
+    "bertscore_precision": 0.3885830044746399,
+    "bertscore_recall": 0.40918219089508057,
+    "bertscore_f1": 0.39861664175987244
+  }
+}

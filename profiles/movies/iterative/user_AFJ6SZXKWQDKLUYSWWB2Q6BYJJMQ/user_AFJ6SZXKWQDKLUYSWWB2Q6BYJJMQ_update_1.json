@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/11\nAverage Rating: 4.4\nProduct Details: {'Subtitles': ['None available'], 'Producers': ['Mick Kaczorowski', 'Caroline Hawkins', 'Mark Wild', 'Chris Barker', 'Simon Willock', 'Clare Birks', 'Anne Sommerfield', 'Lucinda Axelsson', 'Renoir Tuahene', 'Anne Somerville'], 'Studio': ['Animal Planet']}\nReview Text: I loved viewing this series. Please provide a wider selection of stills with the names of the Meerkats on the photographs for your loyal Meerkat enthusiasts!\nReview Title: I love the Meerkat series!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Producers': ['Mick Kaczorowski', 'Caroline Hawkins', 'Mark Wild', 'Chris Barker', 'Simon Willock', 'Clare Birks', 'Anne Sommerfield', 'Lucinda Axelsson', 'Renoir Tuahene', 'Anne Somerville'], 'Studio': ['Animal Planet']}\nI loved viewing this series. Please provide a wider selection of stills with the names of the Meerkats on the photographs for your loyal Meerkat enthusiasts!\nI love the Meerkat series!",
+  "profile": "**User Summary:**\n\n- **Interest in Wildlife:** The user demonstrates a strong enthusiasm for wildlife-related content, particularly series focused on animal behaviors and interactions, as evidenced by their positive review of a Meerkat series.\n\n- **Visual Engagement:** They express a desire for enhanced visual content, specifically requesting more stills with identifying information, indicating a preference for visual representations that enrich their viewing experience.\n\n- **Content Enthusiasm:** The user rates their experience highly, suggesting they are likely to engage with high-quality productions and enjoy immersive storytelling in nature documentaries.\n\n- **Loyalty to Series:** Their request for wider selection of materials reflects a commitment to supporting and engaging with content they enjoy, suggesting they may be a loyal fan of similar series or franchises.\n\nThis user profile indicates a passionate viewer who values both the educational and entertainment aspects of wildlife documentaries and seeks deeper engagement through visuals and detailed content.",
+  "metrics": {
+    "rouge1_f": 0.18627450980392155,
+    "rouge2_f": 0.039603960396039604,
+    "rougeL_f": 0.08823529411764706,
+    "meteor": 0.15432040858870127,
+    "bleu1": 0.1358695652173913,
+    "bleu2": 0.060928508948282716,
+    "bleu3": 0.027322676331017086,
+    "bleu4": 0.010303215519357327,
+    "bertscore_precision": 0.41082763671875,
+    "bertscore_recall": 0.3905290365219116,
+    "bertscore_f1": 0.40042123198509216
+  }
+}

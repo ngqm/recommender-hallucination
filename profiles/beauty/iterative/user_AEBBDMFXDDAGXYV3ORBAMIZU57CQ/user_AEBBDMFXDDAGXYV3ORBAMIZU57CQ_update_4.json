@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Ebingoo 613 Platinum Blonde Wig Wavy Blond Plucked Middle Part Long Natural Straight Synthetic Lace Front Wigs for Women 24 inch\nReview Date: 2017/02/02\nStore: Ebingoo\nAverage Rating: 3.9\nProduct Details: {'Material': 'synthetic', 'Hair Type': 'Straight', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.1 x 5.8 x 1.8 inches; 9.6 Ounces', 'UPC': '736950484866 784190541290'}\nReview Text: nice\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Ebingoo Blonde Ombre Lace Front Wigs Side Part Natural Long Wave Synthetic Heat Resistant Fiber Wig for Women 24 Inch\nEbingoo\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.5 x 1.89 x 1.5 inches; 8.8 Ounces', 'UPC': '736950486662'}\ngood wig\nFour Stars\nEbingoo Free Part Copper Red Long Natural Wave Synthetic Lace Front Wig 20inch\nEbingoo\n{'Material': 'Synthetic', 'Hair Type': 'Curly', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.2 x 6.3 x 1.8 inches; 12.64 Ounces', 'UPC': '711420424085'}\ngood hair\nFour Stars\nZeny Pro 2in1 Hot Salon Ozone Facial Steamer w/ 5x Desktop LED Magnifying Magnifier Floor Lamp Combo (#1)\n{'Package Dimensions': '28 x 13 x 8.5 inches; 10 Pounds'}\nflimsy but it works\nTwo Stars\nEbingoo 613 Platinum Blonde Wig Wavy Blond Plucked Middle Part Long Natural Straight Synthetic Lace Front Wigs for Women 24 inch\nEbingoo\n{'Material': 'synthetic', 'Hair Type': 'Straight', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.1 x 5.8 x 1.8 inches; 9.6 Ounces', 'UPC': '736950484866 784190541290'}\nnice\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Wigs, specifically lace front and synthetic options.\n- **Style Preference**: Natural-looking styles featuring wave patterns; shades preferred include blonde, ombre, and copper red, with a growing interest in bolder colors.\n- **Purchase Behavior**: Engages with products that balance quality and affordability. The user maintains a positive rating average around 4.0 but recently showed signs of caution towards non-wig products due to a lower satisfaction rating of 2.0. The latest wig purchase reaffirms an interest in stylish and manageable options, with a return to a favorable rating of 4.0 for this recent item.\n- **Rating Consistency**: Generally favorable ratings indicate satisfaction with product functionality and aesthetics, though there is a noticeable fluctuation in satisfaction levels for categories outside of wigs.\n- **Review Characteristics**: Provides concise, clear feedback with a preference for efficiency in communication. The recent reviews reflect mixed feelings about different beauty products while remaining positive about wig purchases.\n\nThe user continues to prioritize stylish wigs that enhance their appearance and shows an inclination towards exploring beauty tools, though recent experiences indicate a selective approach to non-wig items, highlighting the necessity for reliability in all purchases.",
+  "metrics": {
+    "rouge1_f": 0.10966057441253264,
+    "rouge2_f": 0.015748031496062995,
+    "rougeL_f": 0.06266318537859007,
+    "meteor": 0.08699086410354018,
+    "bleu1": 0.08266685071369334,
+    "bleu2": 0.005584949034345132,
+    "bleu3": 0.0022778078658726047,
+    "bleu4": 0.0014561944133772472,
+    "bertscore_precision": 0.36175471544265747,
+    "bertscore_recall": 0.34778743982315063,
+    "bertscore_f1": 0.354633629322052
+  }
+}

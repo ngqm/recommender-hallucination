@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/08/07\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven K. Tsuchida', 'Peter Lauer', 'Stuart McDonald', 'Todd Biermann', 'Seth Gordon', 'Jeannie Gaffigan'], 'Producers': ['Jeannie Gaffigan', 'Tony Hernandez', 'Michael Wimer', 'David Bausch', 'Jim Gaffigan'], 'Starring': ['Gaffigan', 'Jim', 'Gaffigan', 'Jim', 'Williams', 'Ashley']}\nReview Text: I wish this series was available on Prime, the first (free) episode was very good.\nReview Title: Wish it was on Prime\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jamie Payne', 'James Kent', 'Colin Teague'], 'Producers': ['John Griffin', 'Colin Callender', 'George Faber', 'Charles Pattinson', 'Philippa Gregory', 'Eurydice Gysel', 'Jan Vrints'], 'Starring': ['Rebecca Ferguson', 'James Frain', 'Amanda Hale'], 'Studio': ['Starz']}\nQuality production with good acting.\nBetter than was expected\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven K. Tsuchida', 'Peter Lauer', 'Stuart McDonald', 'Todd Biermann', 'Seth Gordon', 'Jeannie Gaffigan'], 'Producers': ['Jeannie Gaffigan', 'Tony Hernandez', 'Michael Wimer', 'David Bausch', 'Jim Gaffigan'], 'Starring': ['Gaffigan', 'Jim', 'Gaffigan', 'Jim', 'Williams', 'Ashley']}\nI wish this series was available on Prime, the first (free) episode was very good.\nWish it was on Prime",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** Enjoys quality productions with strong narratives and well-developed characters. Shows a clear appreciation for performances by skilled actors, particularly favoring comedic talents.\n- **Rating Behavior:** Tends to rate highly, typically averaging around 4.7 to 5.0, with a recent interaction reflecting a rating of 5.0, indicating a consistently positive reception towards engaging content.\n- **Genre Interest:** Likely comfortable with mature themes, including nudity, violence, and sexual content, and is drawn to adult-oriented shows and movies.\n- **Audio/Visual Preferences:** Prefers English audio options, including high dialogue boost, which emphasizes clarity in communication and detail. Subtitles in English are also favored.\n- **Age Group:** Engages with content primarily targeted at adults, aligning with preferences for sophisticated themes and narratives.\n- **Production Value:** Values high production quality, as shown in commentary about quality and acting. Recent interactions suggest a keen interest in the work of noted directors and producers in the comedy genre.\n\nOverall, the user appears to favor well-crafted narratives that engage an adult audience, are delivered with high-quality production, and feature strong comedic performances, while maintaining their interest in accessibility, such as the availability of content on popular streaming platforms.",
+  "metrics": {
+    "rouge1_f": 0.13836477987421386,
+    "rouge2_f": 0.03164556962025317,
+    "rougeL_f": 0.11320754716981134,
+    "meteor": 0.07694950197885402,
+    "bleu1": 0.11974266565821319,
+    "bleu2": 0.02999430636578425,
+    "bleu3": 0.0069747334148593295,
+    "bleu4": 0.0033666681203933665,
+    "bertscore_precision": 0.3846481740474701,
+    "bertscore_recall": 0.38928094506263733,
+    "bertscore_f1": 0.38695070147514343
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beard Straightener Brush For Men,BEENLE Electric Heat Beard Straightener and Hair Straightener, Multifunctional Beard and Hair Straightening Brush Comb (beard straightener)\nReview Date: 2016/03/18\nStore: BEENLE\nAverage Rating: 3.8\nProduct Details: {'Brand': 'BEENLE', 'Item Form': 'Straight', 'Skin Type': 'All', 'Item Weight': '0.06 Pounds', 'Item Dimensions LxWxH': '8 x 3 x 1 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 3 x 1 inches; 0.96 Ounces', 'Item model number': 'BEENLE', 'UPC': '783583451246'}\nReview Text: Works really good\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Womdee(TM) Retro Vintage Fashion Antique Bronze Colorfull Rhinestone Elegant Peacock Tuck Comb Hair Clip-Purple With Womdee Accessory\n{'Package Dimensions': '3.6 x 1.8 x 0.7 inches; 0.35 Ounces'}\nPretty\nFour Stars\nBeard Straightener Brush For Men,BEENLE Electric Heat Beard Straightener and Hair Straightener, Multifunctional Beard and Hair Straightening Brush Comb (beard straightener)\nBEENLE\n{'Brand': 'BEENLE', 'Item Form': 'Straight', 'Skin Type': 'All', 'Item Weight': '0.06 Pounds', 'Item Dimensions LxWxH': '8 x 3 x 1 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '8 x 3 x 1 inches; 0.96 Ounces', 'Item model number': 'BEENLE', 'UPC': '783583451246'}\nWorks really good\nFive Stars",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for vintage and retro fashion accessories, particularly valuing elegant design aesthetics, as shown by their previous purchases. They appreciate visually appealing items described as \"pretty,\" indicating a focus on aesthetics over functionality. Their past reviews suggest a tendency to rate items positively, reflecting satisfaction but also hinting at a desire for higher quality, as seen in their four-star review.\n\nRecently, the user broadened their interest to include grooming accessories, specifically items designed for personal care. Their five-star review of a grooming tool highlights their satisfaction with performance, further indicating that while they prioritize visual elements in fashion, they also value effectiveness in their purchases. This suggests a balanced appreciation for both aesthetics and functionality when it comes to grooming.\n\nThe user continues to gravitate towards intricate and colorful elements in their accessories, underscoring a trend towards personalization and unique style. Overall, they appreciate elegant, visually striking products that complement their fashion choices, whether in vintage accessories or modern grooming tools, maintaining a consistent elegance in their preferences.",
+  "metrics": {
+    "rouge1_f": 0.13333333333333333,
+    "rouge2_f": 0.014134275618374558,
+    "rougeL_f": 0.07017543859649122,
+    "meteor": 0.08442776735459663,
+    "bleu1": 0.06372549019607843,
+    "bleu2": 0.00560284455358742,
+    "bleu3": 0.002495486697647987,
+    "bleu4": 0.0016675060950701024,
+    "bertscore_precision": 0.3553104102611542,
+    "bertscore_recall": 0.34587252140045166,
+    "bertscore_f1": 0.35052791237831116
+  }
+}

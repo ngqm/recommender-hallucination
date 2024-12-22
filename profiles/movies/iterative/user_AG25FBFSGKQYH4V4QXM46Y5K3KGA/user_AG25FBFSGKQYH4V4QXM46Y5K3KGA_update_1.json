@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/15\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Rosemary Rodriguez', 'Michael Zinberg', 'Brooke Kennedy', 'James Whitmore Jr.', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Jim McKay', 'Frederick E.O. Toye', 'Robert King', 'Matt Shakman', 'Nelson McCormick'], 'Studio': ['CBS']}\nReview Text: Addictive\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Rosemary Rodriguez', 'Michael Zinberg', 'Brooke Kennedy', 'James Whitmore Jr.', 'F\u00e9lix Enr\u00edquez Alcal\u00e1', 'Jim McKay', 'Frederick E.O. Toye', 'Robert King', 'Matt Shakman', 'Nelson McCormick'], 'Studio': ['CBS']}\nAddictive\nFive Stars",
+  "profile": "**User Preferences Summary:**\n\n- **Rating Tendencies:** Generally high ratings, often around 4.8 to 5.0.\n- **Content Preference:** Enjoys intense and engaging content with themes involving violence, substance use, and adult situations.\n- **Language:** Prefers media with English audio options, demonstrating an appreciation for enhanced dialogue clarity (Dialogue Boost).\n- **Content Accessibility:** Values subtitles, particularly English closed captions for better understanding.\n- **Media Type:** Shows a strong inclination towards serialized content, likely from networks with diverse storytelling approaches.\n- **Overall Sentiment:** Describes content as \"addictive,\" indicating a preference for captivating narratives that hold engagement. \n\nThis initial profile reflects a user who favors compelling, well-produced media with complex themes, favoring content that challenges norms while ensuring accessibility through dialogue enhancements and subtitles.",
+  "metrics": {
+    "rouge1_f": 0.17241379310344826,
+    "rouge2_f": 0.03488372093023255,
+    "rougeL_f": 0.13793103448275865,
+    "meteor": 0.10358565737051792,
+    "bleu1": 0.12000000000000001,
+    "bleu2": 0.02626128657194451,
+    "bleu3": 0.007359731403707084,
+    "bleu4": 0.003901794228003743,
+    "bertscore_precision": 0.4070354700088501,
+    "bertscore_recall": 0.37789830565452576,
+    "bertscore_f1": 0.3919260799884796
+  }
+}

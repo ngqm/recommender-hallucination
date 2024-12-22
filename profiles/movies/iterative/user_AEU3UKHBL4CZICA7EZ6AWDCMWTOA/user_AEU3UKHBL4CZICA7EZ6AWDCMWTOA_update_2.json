@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/01/01\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Demonaco'], 'Producers': ['Jason Blum', 'Michael Bay', 'Andrew Form', 'Brad Fuller', 'Sebastien K. Lemercier'], 'Starring': ['Frank Grillo', 'Carmen Ejogo', 'Zach Gilford'], 'Studio': ['AMC Plus Horror']}\nReview Text: What can I say lol I love this series!!\nReview Title: Love this series\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Gerard McMurray'], 'Producers': ['Jason Blum', 'Michael Bay', 'Andrew Form', 'Brad Fuller', 'S\u00e9bastien K. Lemercier'], 'Starring': [\"Y'lan Noel\", 'Lex Davis', 'Joivan Wade']}\nLove this movie. Scary of course but love it.\nThat song\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Demonaco'], 'Producers': ['Jason Blum', 'Michael Bay', 'Andrew Form', 'Brad Fuller', 'Sebastien K. Lemercier'], 'Starring': ['Frank Grillo', 'Carmen Ejogo', 'Zach Gilford'], 'Studio': ['AMC Plus Horror']}\nWhat can I say lol I love this series!!\nLove this series",
+  "profile": "**Updated User Profile Summary:**\n\n- **Genre Preference:** Strong affinity for horror and thriller films, particularly those with dark themes and intense narratives. Recently demonstrated a particular enthusiasm for a horror series that further emphasizes this genre preference.\n- **Content Tolerance:** Comfortably engages with mature content, including violence, substance use, and sexual themes, reinforcing an open-minded approach to media consumption.\n- **Engagement Style:** Continues to express high levels of enthusiasm in reviews, as evidenced by a recent glowing rating, indicating a deep emotional connection and enjoyment of the content.\n- **Media Format:** Consistent preference for content in English, with an appreciation for audio description and closed caption options, enhancing accessibility and engagement.\n- **Production Values:** Shows preference for works associated with well-known and reputable producers and directors, reflecting a focus on quality filmmaking, with recent interactions reinforcing this trend.\n- **Overall Sentiment:** Exhibits a generally positive attitude toward media, often providing high ratings in reviews, demonstrating a commitment to and passion for quality horror content.\n\nThe user's profile highlights an ongoing appreciation for immersive horror experiences and a clear enjoyment of series that push the boundaries of the genre.",
+  "metrics": {
+    "rouge1_f": 0.14189189189189189,
+    "rouge2_f": 0.02040816326530612,
+    "rougeL_f": 0.0945945945945946,
+    "meteor": 0.08382168199990693,
+    "bleu1": 0.12244897959183675,
+    "bleu2": 0.007084067195435212,
+    "bleu3": 0.0027435930253322076,
+    "bleu4": 0.0017091726163238972,
+    "bertscore_precision": 0.37167778611183167,
+    "bertscore_recall": 0.3716634511947632,
+    "bertscore_f1": 0.3716706335544586
+  }
+}

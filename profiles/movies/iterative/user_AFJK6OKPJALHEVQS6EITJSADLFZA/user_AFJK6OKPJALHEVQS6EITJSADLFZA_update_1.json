@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/10/09\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jennifer Oxley', 'Robert Powers', 'Robert M. Wallace', 'Josh Selig', 'Dave Heiss', 'Michael T. Cocuzza', 'Melanie Pal', 'Ren Smith', 'Maciek Albrecht', 'John Canemaker'], 'Studio': ['Noggin']}\nReview Text: Love it and so does my daughter\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jennifer Oxley', 'Robert Powers', 'Robert M. Wallace', 'Josh Selig', 'Dave Heiss', 'Michael T. Cocuzza', 'Melanie Pal', 'Ren Smith', 'Maciek Albrecht', 'John Canemaker'], 'Studio': ['Noggin']}\nLove it and so does my daughter\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Enjoys children's programming, particularly that which is engaging for young audiences.\n- **Family-Oriented**: Values content that can be appreciated by both the user and their child, indicating a focus on family-friendly entertainment.\n- **Language Accessibility**: Prefers productions available in English with English subtitles, highlighting a need for understanding and accessibility in content.\n- **High Standards**: Tends to provide positive ratings (average of 4.7), suggesting a discerning taste for quality in entertainment experiences.\n- **Creators and Studios**: Shows affinity towards specific directors and production companies known for quality children's content, indicating a trust in their output. \n\nOverall, the user appears to prioritize high-quality, accessible children's media that fosters positive experiences for both themselves and their daughter.",
+  "metrics": {
+    "rouge1_f": 0.09815950920245399,
+    "rouge2_f": 0.012422360248447204,
+    "rougeL_f": 0.07361963190184048,
+    "meteor": 0.0802997858672377,
+    "bleu1": 0.07692307692307693,
+    "bleu2": 0.006766649524509583,
+    "bleu3": 0.003015390981543837,
+    "bleu4": 0.002015954387745801,
+    "bertscore_precision": 0.3918853998184204,
+    "bertscore_recall": 0.3318968713283539,
+    "bertscore_f1": 0.35940515995025635
+  }
+}

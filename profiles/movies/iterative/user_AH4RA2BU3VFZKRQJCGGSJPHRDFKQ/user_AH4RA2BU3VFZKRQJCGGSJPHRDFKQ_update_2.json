@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/05/24\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Nilson', 'Michael Schwartz'], 'Producers': ['Lije Sarki', 'Christopher Lemole', 'David Thies', 'Ron Yerxa', 'Tim Zajaros', 'Albert Berger'], 'Starring': ['Zack Gottsagen', 'Ann \\xa0Owens'], 'Studio': ['Critically Acclaimed']}\nReview Text: Ok\nReview Title: Yeah\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Lowell'], 'Producers': ['Paul Brooks', 'Peter Safran'], 'Starring': ['Eva Longoria', 'Paul Rudd', 'Lake Bell'], 'Studio': ['WARNER BROS.']}\nOk\nOk\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Nilson', 'Michael Schwartz'], 'Producers': ['Lije Sarki', 'Christopher Lemole', 'David Thies', 'Ron Yerxa', 'Tim Zajaros', 'Albert Berger'], 'Starring': ['Zack Gottsagen', 'Ann \\xa0Owens'], 'Studio': ['Critically Acclaimed']}\nOk\nYeah",
+  "profile": "The user maintains a strong preference for content with mature themes, as their interactions consistently reflect an interest in works featuring nudity, violence, alcohol use, foul language, and sexual content. Their willingness to embrace more provocative material is evidenced by a high average rating of 4.7 for a recent purchase, despite its content advisory. This aligns with their previously noted tolerance for unconventional storytelling.\n\nThe user appreciates high production values and is inclined toward films showcasing well-known actors and directors, indicating a preference for both critically acclaimed and mainstream entertainment. They engage predominantly with English-language media, favoring content with English subtitles, which underscores their focus on accessibility.\n\nThe recent interaction illustrated a slight dip in their rating compared to their historical scores, suggesting a nuanced engagement with the material. Overall, they seem to enjoy a blend of contemporary comedic and dramatic films, reflecting a diverse and dynamic taste that embraces humor alongside more serious narratives. Their consistent interest in high-quality production with mature content continues to define their entertainment preferences, illustrating a complex appreciation for storytelling that strikes a balance between light-heartedness and intensity.",
+  "metrics": {
+    "rouge1_f": 0.15162454873646208,
+    "rouge2_f": 0.06545454545454545,
+    "rougeL_f": 0.10830324909747292,
+    "meteor": 0.050343249427917625,
+    "bleu1": 0.08160955298664603,
+    "bleu2": 0.006097707575400254,
+    "bleu3": 0.0025724868764503794,
+    "bleu4": 0.0016729486942971695,
+    "bertscore_precision": 0.35963743925094604,
+    "bertscore_recall": 0.34424924850463867,
+    "bertscore_f1": 0.3517751395702362
+  }
+}

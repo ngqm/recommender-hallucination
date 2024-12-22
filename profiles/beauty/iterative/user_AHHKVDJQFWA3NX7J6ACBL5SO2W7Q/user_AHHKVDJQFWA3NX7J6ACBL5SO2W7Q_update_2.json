@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Baby Bench Cologne - Gummy Bear (200ml)\nReview Date: 2016/03/11\nStore: Thinkpichaidai\nProduct Description: ['Bench Baby Cologne (Gummy Bear scent) 200mL']\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Thinkpichaidai', 'Item Form': 'Liquid', 'Item Volume': '200 Milliliters', 'Scent': 'Apple', 'Special Feature': 'Hypoallergenic', 'Product Dimensions': '2.95 x 1.57 x 6.5 inches; 7.94 Ounces', 'UPC': '885839645680', 'Manufacturer': 'Suyen Corporation'}\nReview Text: doesnt even smell like gummy bear, has a strong alcohol scent of floral again!!! i had to toss it,..i wont rebuy this scent is junk!!!!!!\nReview Title: doesnt even smell like gummy bear\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Temotei 2 in 1 Delicate Shampoo 13.5Oz\nTimotei\n{'Package Dimensions': '8.27 x 2.36 x 1.34 inches; 13.5 Ounces'}\nI love this 2 in 1 of timotei..soft hair now!!!!\nlove this timotei\nBaby Bench Cologne - Gummy Bear (200ml)\nThinkpichaidai\n['Bench Baby Cologne (Gummy Bear scent) 200mL']\n{'Brand': 'Thinkpichaidai', 'Item Form': 'Liquid', 'Item Volume': '200 Milliliters', 'Scent': 'Apple', 'Special Feature': 'Hypoallergenic', 'Product Dimensions': '2.95 x 1.57 x 6.5 inches; 7.94 Ounces', 'UPC': '885839645680', 'Manufacturer': 'Suyen Corporation'}\ndoesnt even smell like gummy bear, has a strong alcohol scent of floral again!!! i had to toss it,..i wont rebuy this scent is junk!!!!!!\ndoesnt even smell like gummy bear",
+  "profile": "**User Summary:**\n\n- **Preferred Product Type:** 2 in 1 hair care solutions, but shows a willingness to explore other personal care items.\n- **Quality Focus:** Strong emphasis on high-quality products, as reflected in satisfaction with outcomes (soft hair), but recent experience indicates disappointment with a non-hair care product that did not meet scent expectations.\n- **Emotional Response:** Generally maintains a positive outlook towards products, but recent interaction reveals a potential for frustration when products do not align with advertised qualities. This suggests a more critical stance when expectations are unmet.\n- **Brand Loyalty:** Displays an affinity for specific brands (e.g., Timotei), but the negative experience with a new purchase indicates a cautious approach towards unfamiliar brands.\n- **Review Engagement:** Actively shares experiences through reviews; feedback can be positive, but is also candidly negative if disappointments occur, indicating a trend towards frankness in product evaluations.\n- **Overall Trend:** Values convenience and effectiveness in personal care products, but recent interaction suggests increased scrutiny towards product authenticity and scent accuracy. While still favoring products that deliver tangible benefits, the user may now be more discerning in product selection and brand loyalty when faced with inadequate results.",
+  "metrics": {
+    "rouge1_f": 0.11764705882352942,
+    "rouge2_f": 0.019736842105263153,
+    "rougeL_f": 0.0718954248366013,
+    "meteor": 0.12914786656781455,
+    "bleu1": 0.13944223107569723,
+    "bleu2": 0.04090607256763189,
+    "bleu3": 0.018870876566477936,
+    "bleu4": 0.007214913609126279,
+    "bertscore_precision": 0.3845856785774231,
+    "bertscore_recall": 0.3612823486328125,
+    "bertscore_f1": 0.3725699782371521
+  }
+}

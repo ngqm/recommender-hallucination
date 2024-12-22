@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/02/20\nAverage Rating: 4.6\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Stuart Heisler'], 'Producers': ['Willis Goldbeck', 'Jack Wrather'], 'Starring': ['Clayton Moore', 'Jay Silverheels', 'Tyle Bettger'], 'Studio': ['Apex Films Corp.']}\nReview Text: Nothing like the original theatrical\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Stuart Heisler'], 'Producers': ['Willis Goldbeck', 'Jack Wrather'], 'Starring': ['Clayton Moore', 'Jay Silverheels', 'Tyle Bettger'], 'Studio': ['Apex Films Corp.']}\nNothing like the original theatrical\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Rating Preference:** Generally positive; enjoys high-quality content, evident from a 4.6 average rating.\n- **Nostalgic Taste:** Prefers original versions of films, appreciating authenticity and classic theatrical experiences.\n- **Genre Interest:** Likely enjoys classic or historical narratives, given the focus on established works from past decades.\n- **Director and Producer Affinity:** Shows an interest in specific directors and producers, suggesting a preference for particular filmmaking styles and histories.\n- **Casting Preference:** Values performances from notable actors, indicating a preference for character-driven narratives with strong leads.\n- **Non-Subtitled Content:** Likely prefers straightforward viewing experiences without additional language considerations, showing a preference for English-language content or content without language barriers.\n- **Engagement Style:** Engages positively with content, favoring reviews that convey strong appreciation or validation of his tastes. \n\nOverall, this user demonstrates a strong inclination towards classic film experiences, valuing quality storytelling and established cinematic talent.",
+  "metrics": {
+    "rouge1_f": 0.09248554913294797,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.034682080924855495,
+    "meteor": 0.11278195488721804,
+    "bleu1": 0.07352941176470587,
+    "bleu2": 0.0060184204826321695,
+    "bleu3": 0.002617406810357669,
+    "bleu4": 0.0017282414090329186,
+    "bertscore_precision": 0.3864813446998596,
+    "bertscore_recall": 0.3133884072303772,
+    "bertscore_f1": 0.3461180627346039
+  }
+}

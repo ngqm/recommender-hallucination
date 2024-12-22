@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/06/11\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English (UK) [CC]', 'English (US) [CC]'], 'Directors': ['Brian G. Hutton'], 'Producers': ['Elliott Kastner'], 'Starring': ['Richard Burton', 'Clint Eastwood', 'Mary Ure'], 'Studio': ['Warner Bros.']}\nReview Text: Very exciting movie, very well done.  A movie I have seen before and will watch many more times.  Scenery spectacular.\nReview Title: Excellent movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Frankenheimer'], 'Producers': ['Edward Lewis'], 'Starring': ['Burt Lancaster', 'Kirk Douglas', 'Fredric March'], 'Studio': ['WARNER HOME VIDEO']}\nSaw it years ago and with this viewing found it even more exciting and disturbing.  Very well acted and produced.\nThought provoking.\n{'Audio languages': ['English'], 'Subtitles': ['English (UK) [CC]', 'English (US) [CC]'], 'Directors': ['Brian G. Hutton'], 'Producers': ['Elliott Kastner'], 'Starring': ['Richard Burton', 'Clint Eastwood', 'Mary Ure'], 'Studio': ['Warner Bros.']}\nVery exciting movie, very well done.  A movie I have seen before and will watch many more times.  Scenery spectacular.\nExcellent movie",
+  "profile": "**Updated User Profile Summary:**\n\n- **Content Preference:** Enjoys thought-provoking and intense narratives featuring complex themes such as violence and moral ambiguity. Prefers content that includes alcohol use, smoking, and mature language, indicating comfort with adult themes.\n\n- **Quality Appreciation:** Values high-quality production and strong performances, particularly favoring works by reputable directors and acclaimed actors, which leans towards classic cinema. The user has recently demonstrated a strong affinity for films that offer excitement and lasting visual impact.\n\n- **Viewing Experience:** Engages with movies that provoke thought and evoke a range of emotions, appreciating those that leave a lasting impression. The user enjoys rewatching films to uncover deeper meanings, as seen in the recent interaction where they expressed excitement about revisiting a well-crafted film.\n\n- **Language and Accessibility:** Prefers content in English, seeking out options with subtitles for nuanced dialogue and accessibility.\n\n- **Overall Ratings:** Consistently rates content highly, suggesting a discerning taste and a strong inclination towards cinematic excellence, as indicated by a recent high rating for an exciting and beautifully executed film.",
+  "metrics": {
+    "rouge1_f": 0.18978102189781024,
+    "rouge2_f": 0.029411764705882353,
+    "rougeL_f": 0.12408759124087591,
+    "meteor": 0.09356458238247375,
+    "bleu1": 0.14545454545454545,
+    "bleu2": 0.025771612418352095,
+    "bleu3": 0.006728871421647328,
+    "bleu4": 0.003442244691084217,
+    "bertscore_precision": 0.4027262330055237,
+    "bertscore_recall": 0.41291317343711853,
+    "bertscore_f1": 0.40775611996650696
+  }
+}

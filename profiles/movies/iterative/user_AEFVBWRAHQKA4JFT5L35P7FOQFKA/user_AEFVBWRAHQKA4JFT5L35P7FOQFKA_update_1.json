@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Pied Piper (1942)\nReview Date: 2013/01/25\nStore: Roddy McDowall  (Actor),     Anne Baxter  (Actor),     Irving Pichel  (Director)    &                   0                  more   Format: DVD-R  This title is manufactured on demand using DVD-R, when sold by Amazon.com.  Learn more   What's this?\nCategories: Movies & TV, Movies\nProduct Description: ['Englishman Mr Howard is on a fishing holiday in eastern France when the Germans invade in 1940. Setting off to try and get back home he is persuaded to take along the two Cavanaugh children, and as his journey progresses his family keeps growing in size. Once in German-occupied northern France a new problem arises - the risk of being heard speaking English.']\nAverage Rating: 4.1\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Director': 'Irving Pichel', 'Media Format': 'Black & White, Full length', 'Actors': 'Monty Woolley, Roddy McDowall, Anne Baxter'}\nReview Text: This is a great WWII movie that was very well produced. Monte Woolley was great as the lead. It arrived quicker than promised and was a very good copy.\nReview Title: The Pied Piper (1942)\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "The Pied Piper (1942)\nRoddy McDowall  (Actor),     Anne Baxter  (Actor),     Irving Pichel  (Director)    &                   0                  more   Format: DVD-R  This title is manufactured on demand using DVD-R, when sold by Amazon.com.  Learn more   What's this?\nMovies & TV, Movies\n['Englishman Mr Howard is on a fishing holiday in eastern France when the Germans invade in 1940. Setting off to try and get back home he is persuaded to take along the two Cavanaugh children, and as his journey progresses his family keeps growing in size. Once in German-occupied northern France a new problem arises - the risk of being heard speaking English.']\n{'Is Discontinued By Manufacturer': 'No', 'Director': 'Irving Pichel', 'Media Format': 'Black & White, Full length', 'Actors': 'Monty Woolley, Roddy McDowall, Anne Baxter'}\nThis is a great WWII movie that was very well produced. Monte Woolley was great as the lead. It arrived quicker than promised and was a very good copy.\nThe Pied Piper (1942)",
+  "profile": "User Profile Summary:\n\n- **Movie Genre Preference:** Strong interest in classic war films, particularly those set during WWII.\n- **Quality Appreciation:** Values well-produced content and has a discerning taste for cinematic quality, as evidenced by a high rating and positive feedback on production quality.\n- **Format Preference:** Shows a willingness to purchase physical media (DVD-R), indicating a potential preference for tangible collections over digital formats.\n- **Actor Affinity:** Displays appreciation for performances by specific actors, hinting at a preference for classic cinema and established talent.\n- **Timeliness:** Considers prompt delivery important, as they noted the quick arrival of the product positively.\n- **Engagement Style:** Engages in detailed reviews, suggesting a thoughtful and reflective approach to evaluating and sharing opinions about previously watched films. \n\nOverall, this user appears to be a classic film enthusiast with particular admiration for WWII narratives and a focus on quality and performance in their movie selections.",
+  "metrics": {
+    "rouge1_f": 0.24422442244224424,
+    "rouge2_f": 0.013289036544850499,
+    "rougeL_f": 0.099009900990099,
+    "meteor": 0.14264633546483027,
+    "bleu1": 0.23514904948732093,
+    "bleu2": 0.03402731537762612,
+    "bleu3": 0.00830608413447703,
+    "bleu4": 0.004109025779897813,
+    "bertscore_precision": 0.374814510345459,
+    "bertscore_recall": 0.41795995831489563,
+    "bertscore_f1": 0.39521318674087524
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MOSTORY 3 in 1 Eyebrow Pencil - Super Model Perfect Brow Stylist Waterproof Brown Eye Brow Makeup Long Lasting Professional Soft Powder Pen Brush (MEDIUM BROWN)\nReview Date: 2019/12/12\nStore: MOSTORY\nAverage Rating: 4.0\nProduct Details: {'Brand': 'MOSTORY', 'Item Form': 'Powder', 'Finish Type': 'Natural', 'Special Feature': 'Waterproof, Long Lasting', 'Material Feature': 'Natural', 'Package Dimensions': '7 x 1 x 0.5 inches; 1.59 Ounces'}\nReview Text: This is a warm color eyebrow pencil, it glides out smoothly and very easy to apply. It feels more red than the picture of product, for someone with darker eyebrows like me might need to blend in with another dark color to make it natural. I like the weight of this pencil, it feels nice to grab in palm when using. The fine tip works well to fill in the blank and the powder adds natural final touch.\nReview Title: Smooth eyebrow pencil with rich color\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "MOSTORY 3 in 1 Eyebrow Pencil - Super Model Perfect Brow Stylist Waterproof Brown Eye Brow Makeup Long Lasting Professional Soft Powder Pen Brush (MEDIUM BROWN)\nMOSTORY\n{'Brand': 'MOSTORY', 'Item Form': 'Powder', 'Finish Type': 'Natural', 'Special Feature': 'Waterproof, Long Lasting', 'Material Feature': 'Natural', 'Package Dimensions': '7 x 1 x 0.5 inches; 1.59 Ounces'}\nThis is a warm color eyebrow pencil, it glides out smoothly and very easy to apply. It feels more red than the picture of product, for someone with darker eyebrows like me might need to blend in with another dark color to make it natural. I like the weight of this pencil, it feels nice to grab in palm when using. The fine tip works well to fill in the blank and the powder adds natural final touch.\nSmooth eyebrow pencil with rich color",
+  "profile": "**User Preferences Summary:**\n\n- **Product Type:** Favorable towards makeup products, specifically eyebrow cosmetics.\n- **Color Preference:** Prefers warm tones, but also seeks versatility for darker hair.\n- **Application Experience:** Values ease of use and smooth application; appreciates tools that provide a natural finish.\n- **Performance Features:** Strong preference for waterproof and long-lasting formulas, indicating an interest in durability in products.\n- **Sensory Experience:** Enjoys products that have a pleasant weight and feel during application.\n- **Detail Orientation:** Focused on fine details in application (e.g., fine tip for filling gaps).\n- **Review Behavior:** Tends to rate products based on effectiveness and utility rather than brand loyalty, suggesting a practical approach to purchasing. \n\nOverall, the user exhibits a thoughtful approach to makeup, seeking quality and functionality while maintaining aesthetic preferences.",
+  "metrics": {
+    "rouge1_f": 0.26053639846743293,
+    "rouge2_f": 0.015444015444015444,
+    "rougeL_f": 0.11494252873563218,
+    "meteor": 0.1653703913355221,
+    "bleu1": 0.2258064516129032,
+    "bleu2": 0.034936734451345076,
+    "bleu3": 0.008721320866320239,
+    "bleu4": 0.004363388937790073,
+    "bertscore_precision": 0.4494166076183319,
+    "bertscore_recall": 0.4523116648197174,
+    "bertscore_f1": 0.45085951685905457
+  }
+}

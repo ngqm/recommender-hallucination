@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Style Icon Lace Front Wigs Short Bob Wig Middle Part Wig for Women Synthetic Wig 130% Density Heat Resistant Replacement Wig (9.5 INCH, 1)\nReview Date: 2019/10/21\nStore: Style Icon\nAverage Rating: 3.3\nProduct Details: {'Package Dimensions': '10.6 x 7.6 x 2.4 inches; 10.41 Ounces'}\nReview Text: Too small..  hate it will be returning\nReview Title: Nope\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Style Icon Lace Front Wigs Short Bob Wig Middle Part Wig for Women Synthetic Wig 130% Density Heat Resistant Replacement Wig (9.5 INCH, 1)\nStyle Icon\n{'Package Dimensions': '10.6 x 7.6 x 2.4 inches; 10.41 Ounces'}\nToo small..  hate it will be returning\nNope",
+  "profile": "**User Summary:**\n\n- **Product Category Preference:** Wigs, specifically synthetic options.\n- **Size Issues:** User has a preference for appropriately fitting products; experience with a small size resulted in dissatisfaction.\n- **Quality Expectations:** Based on a low rating, user shows a demand for better quality and functionality in products.\n- **Return Behavior:** Willingness to return unsatisfactory items indicates strong preference for value and fit.\n- **Rating Trends:** The user expresses clear dissatisfaction when products do not meet expectations, suggesting a pattern of careful selection based on previous experiences. \n\nOverall, the user seeks high-quality, well-fitting wigs and is likely to prioritize comfort and suitability over brand loyalty.",
+  "metrics": {
+    "rouge1_f": 0.07947019867549669,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.052980132450331126,
+    "meteor": 0.11682242990654206,
+    "bleu1": 0.040816326530612235,
+    "bleu2": 0.005287380072840039,
+    "bleu3": 0.0026814581250899847,
+    "bleu4": 0.0019128796253251783,
+    "bertscore_precision": 0.41831690073013306,
+    "bertscore_recall": 0.3459465801715851,
+    "bertscore_f1": 0.378705233335495
+  }
+}

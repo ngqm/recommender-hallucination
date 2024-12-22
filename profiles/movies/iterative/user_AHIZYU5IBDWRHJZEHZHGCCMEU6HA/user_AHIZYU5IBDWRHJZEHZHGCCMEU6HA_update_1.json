@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Breaking Bad\nReview Date: 2015/08/26\nCategories: Suspense, Drama\nProduct Description: [\"In Season 3's finale, Jesse (Aaron Paul) was on the run, with Mike (Jonathan Banks) in hot pursuit, while Walt (Bryan Cranston) negotiated for his life with Gus (Giancarlo Esposito). In a desperate attempt to escape certain death, Walt concocted a disturbing plan \u2014 kill his former lab assistant Gale \u2014 to provide for his and Jesse's safety. The scheme ultimately forced Jesse to Gale's doorstep ...\"]\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michelle MacLaren', 'Adam Bernstein', 'Vince Gilligan', 'Colin Bucksey', 'Michael Slovis', 'Bryan Cranston', 'Terry McDonough', 'Johan Renck', 'Rian Johnson', 'Scott Winant'], 'Producers': ['Michelle MacLaren', 'Mark Johnson', 'Vince Gilligan']}\nReview Text: Scary, but really a great way to spend a rainy weekend.\nReview Title: Couldn't stop watching this train wreck!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Breaking Bad\nSuspense, Drama\n[\"In Season 3's finale, Jesse (Aaron Paul) was on the run, with Mike (Jonathan Banks) in hot pursuit, while Walt (Bryan Cranston) negotiated for his life with Gus (Giancarlo Esposito). In a desperate attempt to escape certain death, Walt concocted a disturbing plan \u2014 kill his former lab assistant Gale \u2014 to provide for his and Jesse's safety. The scheme ultimately forced Jesse to Gale's doorstep ...\"]\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michelle MacLaren', 'Adam Bernstein', 'Vince Gilligan', 'Colin Bucksey', 'Michael Slovis', 'Bryan Cranston', 'Terry McDonough', 'Johan Renck', 'Rian Johnson', 'Scott Winant'], 'Producers': ['Michelle MacLaren', 'Mark Johnson', 'Vince Gilligan']}\nScary, but really a great way to spend a rainy weekend.\nCouldn't stop watching this train wreck!",
+  "profile": "**User Profile Summary**\n\n- **Preferred Genres:** Suspense, Drama\n- **Viewing Preferences:** Enjoys intense, character-driven narratives that involve moral dilemmas and complex situations.\n- **Content Tolerance:** Comfortable with mature themes, including violence, substance use, and strong language as indicated by content advisories.\n- **Viewing Habits:** Tends to binge-watch gripping series, particularly ones that evoke strong emotional reactions (\"couldn't stop watching\").\n- **Contextual Viewing:** Likely to engage with content during leisure times, such as rainy weekends, indicating a preference for escapism during downtime.\n- **Engagement Level:** High engagement with storytelling and character development, suggesting a preference for well-crafted plots and character arcs.\n\nThis profile reflects a user who enjoys engaging with thought-provoking and suspenseful content that challenges characters in extreme circumstances, alongside a penchant for dramatic storytelling.",
+  "metrics": {
+    "rouge1_f": 0.22307692307692306,
+    "rouge2_f": 0.062015503875969,
+    "rougeL_f": 0.11538461538461538,
+    "meteor": 0.13907578281857408,
+    "bleu1": 0.18297176972044388,
+    "bleu2": 0.06256689460304608,
+    "bleu3": 0.032297019363528655,
+    "bleu4": 0.010988174579902341,
+    "bertscore_precision": 0.3856823444366455,
+    "bertscore_recall": 0.42615145444869995,
+    "bertscore_f1": 0.4049082398414612
+  }
+}

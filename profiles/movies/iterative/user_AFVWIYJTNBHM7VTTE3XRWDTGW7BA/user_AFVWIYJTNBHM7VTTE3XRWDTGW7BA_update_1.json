@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/02/21\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Newman'], 'Producers': ['Paul Newman'], 'Starring': ['Joanne Woodward', 'James Olson', 'Geraldine Fitzgerald'], 'Studio': ['WARNER BROS.']}\nReview Text: i really chose this movie because of the area in which it was filmed the scenes were well done and of course the actors were supurbe the story line was ok but left something in the end unfinished..\nReview Title: rachel rachel\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Paul Newman'], 'Producers': ['Paul Newman'], 'Starring': ['Joanne Woodward', 'James Olson', 'Geraldine Fitzgerald'], 'Studio': ['WARNER BROS.']}\ni really chose this movie because of the area in which it was filmed the scenes were well done and of course the actors were supurbe the story line was ok but left something in the end unfinished..\nrachel rachel",
+  "profile": "The user has demonstrated a preference for quality filmmaking, particularly valuing well-executed scenes and strong performances by actors. They exhibit an appreciation for the aesthetic and artistic aspects of a film, suggesting an inclination towards visually appealing and artistically significant works. The user rated a film highly due to its filming location and the caliber of its cast, implying that location and actor performance are crucial factors in their viewing choices.\n\nWhile they rated the storyline as merely \"okay,\" indicating a level of expectation for engaging narratives, their overall rating suggests they hold the visual and performance elements in higher regard. The use of terms like \"superb\" reflects a discerning taste, favoring productions that have a notable artistic touch. The mention of an \"unfinished\" storyline hints at a preference for closure in narrative arcs, yet they seem willing to overlook minor shortcomings if other elements meet their standards.\n\nIn summary, the user's profile indicates a strong preference for well-crafted films featuring talented actors and appealing cinematography, while being critical of narrative completeness.",
+  "metrics": {
+    "rouge1_f": 0.12658227848101264,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.08438818565400845,
+    "meteor": 0.10008703220191471,
+    "bleu1": 0.10256410256410255,
+    "bleu2": 0.007271044911510829,
+    "bleu3": 0.0030144779752776765,
+    "bleu4": 0.00194349657298093,
+    "bertscore_precision": 0.39238306879997253,
+    "bertscore_recall": 0.3789519667625427,
+    "bertscore_f1": 0.3855505883693695
+  }
+}

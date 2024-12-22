@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/06/26\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nReview Text: Good\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['---']}\nRIP Purple Prince\nFour Stars\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jack Bender', 'Peter Leto', 'David Barrett', 'Sergio Mimica-Gezzan', 'Kari Skogland', 'Eriq La Salle', 'Edward Ornelas', 'Peter Weller', 'Roxann Dawson', 'Paul A. Edwards'], 'Starring': ['Mike Vogel', 'Rachelle Lefevre', 'Natalie Martinez'], 'Studio': ['CBS']}\nGood\nThree Stars",
+  "profile": "**Updated User Profile Summary**\n\n- **Preference for Quality**: The user maintains a favorable inclination towards quality products, though their recent rating of 3.0 suggests a more critical stance on certain offerings. Their overall average rating now stands at 4.1, reflecting an evolving perspective.\n\n- **Interest in Artistry and Emotional Connection**: The previous interest in iconic musical figures continues, but the latest interaction implies a broader engagement with different forms of storytelling that may include complex narratives, as indicated by the involvement of various directors and a cast that suggests a focus on performance.\n\n- **Simplicity and Accessibility**: Despite the preference for straightforward content seen in previous reviews, the user has also engaged with content that includes subtitles. This could suggest a growing acceptance of more complex or nuanced storytelling that still maintains a core appeal.\n\n- **Sensitivity to Cultural Context**: The user continues to reflect on emotional narratives and cultural impact, as they engage with products that touch on significant themes, including violence and adult content, indicating a willingness to confront deeper societal issues.\n\n- **Engagement with Diverse Content**: There\u2019s a newfound openness to different genres and themes, including those that might challenge or provoke thought, which complements their established appreciation for quality and emotional resonance in art.\n\nThis updated perspective illustrates a user who, while still valuing artistic integrity and emotional depth, is increasingly open to diverse storytelling methods and thematic explorations.",
+  "metrics": {
+    "rouge1_f": 0.041237113402061855,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.034364261168384876,
+    "meteor": 0.06081946222791293,
+    "bleu1": 0.06690140845070423,
+    "bleu2": 0.004862105887112357,
+    "bleu3": 0.0020314208502695817,
+    "bleu4": 0.0013142359695252812,
+    "bertscore_precision": 0.3590537905693054,
+    "bertscore_recall": 0.31359243392944336,
+    "bertscore_f1": 0.3347868323326111
+  }
+}

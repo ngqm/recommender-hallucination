@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4D Silk Fiber Lash Mascara Black, Natural Waterproof Mascara Extra Long Lash,Thick Thickening and Lengthening, No Clumping, No Smudging, Lasting Voluminous Eyelashes Dramatic Extension Mascara\nReview Date: 2020/07/26\nStore: SIKEMAY\nAverage Rating: 4.0\nProduct Details: {'Color': 'Black', 'Special Feature': 'Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, Hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '8.9 x 4 x 1.1 inches; 2.57 Ounces', 'UPC': '764690676852', 'Manufacturer': 'SIKEMAY'}\nReview Text: I really wanted to like this. Unlike most fiber mascaras this didnt give me much volume or length. And it flaked off after a full day of wear. I really love the packaging. I think this may be ok on fake lashes but not so great on real or short lashes.\nReview Title: Not a true fiber mascara.\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "4D Silk Fiber Lash Mascara Black, Natural Waterproof Mascara Extra Long Lash,Thick Thickening and Lengthening, No Clumping, No Smudging, Lasting Voluminous Eyelashes Dramatic Extension Mascara\nSIKEMAY\n{'Color': 'Black', 'Special Feature': 'Smudge Proof, Non Clumping', 'Brand': 'SIKEMAY', 'Specialty': 'Waterproof, Hypoallergenic', 'Unit Count': '1.00 Count', 'Package Dimensions': '8.9 x 4 x 1.1 inches; 2.57 Ounces', 'UPC': '764690676852', 'Manufacturer': 'SIKEMAY'}\nI really wanted to like this. Unlike most fiber mascaras this didnt give me much volume or length. And it flaked off after a full day of wear. I really love the packaging. I think this may be ok on fake lashes but not so great on real or short lashes.\nNot a true fiber mascara.",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user is interested in cosmetics, particularly mascara, emphasizing features like volume, length, and durability (waterproof, smudge-proof).\n- **Quality Expectations:** This individual has high standards for performance, seeking effective results. They prefer products that deliver on promises of thickening and lengthening but are disappointed when products fall short.\n- **Packaging Appreciation:** They express appreciation for attractive packaging, indicating that aesthetics may influence their purchasing decisions.\n- **Experience with Fiber Mascaras:** The user shows a preference for fiber mascaras; however, they are critical of their performance, particularly regarding volume and longevity, suggesting a focus on effective ingredients.\n- **User Experience:** The review reflects a practical mindset, as they assess the product's suitability for both natural and false lashes, indicating a versatile approach to beauty products.\n\nOverall, this user prioritizes effective and reliable cosmetics while valuing attractive packaging and is willing to share constructive criticism based on personal experience.",
+  "metrics": {
+    "rouge1_f": 0.23880597014925375,
+    "rouge2_f": 0.045112781954887216,
+    "rougeL_f": 0.10447761194029852,
+    "meteor": 0.17025089605734764,
+    "bleu1": 0.2270531400966184,
+    "bleu2": 0.03319939320540189,
+    "bleu3": 0.008131465249593925,
+    "bleu4": 0.004029202232446755,
+    "bertscore_precision": 0.4391302466392517,
+    "bertscore_recall": 0.43998923897743225,
+    "bertscore_f1": 0.43955931067466736
+  }
+}

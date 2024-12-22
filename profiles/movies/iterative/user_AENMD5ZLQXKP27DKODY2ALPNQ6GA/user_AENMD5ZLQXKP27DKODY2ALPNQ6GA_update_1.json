@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/30\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Binder'], 'Producers': ['Mike Binder', 'Cassian Elwes', 'Rod Lake', 'Jasa McCall', 'Ryan Kavanaugh', 'Tucker Tooley', 'Jacob Pechenk', 'Andy Neuberger', 'Robert Ogden Barnum', 'Alex Gartner', 'Kevin Costner', 'Todd Lewis'], 'Starring': ['Kevin Costner', 'Octavia Spencer', 'Anthony Mackie'], 'Studio': ['RELATIVITY MEDIA']}\nReview Text: Strong language. Overall theme was good and it was entertaining.\nReview Title: Overall theme was good and it was entertaining\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike Binder'], 'Producers': ['Mike Binder', 'Cassian Elwes', 'Rod Lake', 'Jasa McCall', 'Ryan Kavanaugh', 'Tucker Tooley', 'Jacob Pechenk', 'Andy Neuberger', 'Robert Ogden Barnum', 'Alex Gartner', 'Kevin Costner', 'Todd Lewis'], 'Starring': ['Kevin Costner', 'Octavia Spencer', 'Anthony Mackie'], 'Studio': ['RELATIVITY MEDIA']}\nStrong language. Overall theme was good and it was entertaining.\nOverall theme was good and it was entertaining",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user shows a preference for engaging narratives with strong thematic elements, particularly those that involve complex themes and entertainment value.\n\n- **Rating Trends:** Generally satisfied with products, as indicated by a high average rating of 4.6. This suggests a tendency to appreciate quality and impactful content.\n\n- **Content Tolerance:** The user is comfortable with content that contains mature themes, including violence, foul language, sexual content, and alcohol use, suggesting a preference for more adult-oriented narratives.\n\n- **Language and Accessibility:** Prefers content available in English with subtitled options, indicating a need for accessibility and clarity.\n\n- **Cast and Production Values:** Shows an inclination towards productions featuring well-known actors and reputable producers, implying a value for star power and established industry talent. \n\n- **Entertainment Value:** The user values overall themes and entertainment, highlighting a preference for content that is not only enjoyable but also thought-provoking. \n\nThis profile indicates a user who enjoys films and shows that balance strong narratives with adult themes, valuing both quality production and entertainment.",
+  "metrics": {
+    "rouge1_f": 0.1728395061728395,
+    "rouge2_f": 0.04149377593360996,
+    "rougeL_f": 0.14814814814814814,
+    "meteor": 0.10088272383354352,
+    "bleu1": 0.11013215859030837,
+    "bleu2": 0.006980762395614845,
+    "bleu3": 0.0027874541427591326,
+    "bleu4": 0.0017633714050777722,
+    "bertscore_precision": 0.40659260749816895,
+    "bertscore_recall": 0.37532469630241394,
+    "bertscore_f1": 0.39033347368240356
+  }
+}

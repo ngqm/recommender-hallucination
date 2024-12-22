@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Del Monte Sauerkraut 14.5 oz. (3-Pack)\nReview Date: 2014/07/13\nAverage Rating: 3.6\nProduct Details: {'Package Dimensions': '8.4 x 4.9 x 2.9 inches; 14.46 Ounces', 'UPC': '741655221609'}\nReview Text: We have strayed from a national name brand of sauer kraut and was that a  big mistake. The store brand was one that almost everyone set aside on their plate and did not eat. We went back to a  name brand and that was Del Monte. The kraut we think is the best on the market. We do nto like that other kinds of kraut such as Bavarian. We want the real stuff, at least to us it is the real stuff. Did you know the whole  14.5 oz can only has 10 calories in it and zero fat. Even for carbs there is only 1g. Now this is where we definitely go wrong as we serve it with smoked sausage, which we know is totally off the chart. Don't do this often---just occasionally. The meal is delicious. I do have a note fro Del Monte. Remember when your cans contained 16 oz of kraut, then you cut back and now it's 14.5 oz. Please quit doing this to us!.Do you realize, and I am sure you do, that I now have about 10% LESS to serve to my family.\nReview Title: Some Of The Best Sauer Kraut There Is !\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Del Monte Sauerkraut 14.5 oz. (3-Pack)\n{'Package Dimensions': '8.4 x 4.9 x 2.9 inches; 14.46 Ounces', 'UPC': '741655221609'}\nWe have strayed from a national name brand of sauer kraut and was that a  big mistake. The store brand was one that almost everyone set aside on their plate and did not eat. We went back to a  name brand and that was Del Monte. The kraut we think is the best on the market. We do nto like that other kinds of kraut such as Bavarian. We want the real stuff, at least to us it is the real stuff. Did you know the whole  14.5 oz can only has 10 calories in it and zero fat. Even for carbs there is only 1g. Now this is where we definitely go wrong as we serve it with smoked sausage, which we know is totally off the chart. Don't do this often---just occasionally. The meal is delicious. I do have a note fro Del Monte. Remember when your cans contained 16 oz of kraut, then you cut back and now it's 14.5 oz. Please quit doing this to us!.Do you realize, and I am sure you do, that I now have about 10% LESS to serve to my family.\nSome Of The Best Sauer Kraut There Is !",
+  "profile": "**User Profile Summary:**\n\n- **Brand Loyalty:** Prefers national name brands over store brands, emphasizing a strong preference for recognized quality.\n- **Product Preferences:** Shows a clear inclination towards traditional, authentic flavors, specifically favoring classic preparations (e.g., sauerkraut over Bavarian variants).\n- **Health-Conscious Choices:** Values low-calorie, low-fat food options, but indulges occasionally in heavier pairings (e.g., with smoked sausage) while being aware of dietary impacts.\n- **Consumer Advocacy:** Expresses concerns about product changes (e.g., reduction in can size), indicating a desire for consistency and transparency from brands.\n- **Culinary Traditions:** Enjoys combining favorite condiments with hearty meals, highlighting a blend of healthy choices with occasional indulgences.\n\nOverall, this user exhibits a balanced approach to food preferences, prioritizing quality and flavor while maintaining an awareness of health implications.",
+  "metrics": {
+    "rouge1_f": 0.17464788732394368,
+    "rouge2_f": 0.028328611898016994,
+    "rougeL_f": 0.10704225352112676,
+    "meteor": 0.1021619214355752,
+    "bleu1": 0.14487917286113322,
+    "bleu2": 0.039787470223909084,
+    "bleu3": 0.01796513041245423,
+    "bleu4": 0.006798045733550741,
+    "bertscore_precision": 0.3941448926925659,
+    "bertscore_recall": 0.4321863055229187,
+    "bertscore_f1": 0.41228994727134705
+  }
+}

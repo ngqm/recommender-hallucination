@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Essential Oils Travel Case - Classic Khaki Waxed Canvas Bag | Holds 6 Essential Oil Bottles\nReview Date: 2020/06/06\nStore: Red Silk Essentials\nAverage Rating: 3.5\nProduct Details: {'Package Dimensions': '6.1 x 4.1 x 0.9 inches; 2.4 Ounces', 'UPC': '013415448831'}\nReview Text: I got it and after 2 days later the zipper broke very poor quality. They said they would replace it still haven\u2019t seen one it\u2019s been over a month still nothing I\u2019d like an address to return this item and get a refund! I was promised a replacement it\u2019s honorable to keep your word!\nReview Title: Broken zipper\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Essential Oils Travel Case - Classic Khaki Waxed Canvas Bag | Holds 6 Essential Oil Bottles\nRed Silk Essentials\n{'Package Dimensions': '6.1 x 4.1 x 0.9 inches; 2.4 Ounces', 'UPC': '013415448831'}\nI got it and after 2 days later the zipper broke very poor quality. They said they would replace it still haven\u2019t seen one it\u2019s been over a month still nothing I\u2019d like an address to return this item and get a refund! I was promised a replacement it\u2019s honorable to keep your word!\nBroken zipper",
+  "profile": "**User Profile Summary:**\n\n- **Product Focus:** Interest in essential oils and related accessories.\n- **Quality Consciousness:** Strong emphasis on product quality, particularly zippers and overall durability.\n- **Customer Service Expectation:** Expects prompt and reliable customer service, including timely replacements and clear return processes.\n- **Frustration with Delays:** Discontent with slow responses and unresolved issues in customer service, indicating a low tolerance for delays and unmet promises.\n- **Skepticism:** Experiences with poor product quality leading to skepticism towards future purchases in similar categories.\n- **Review Behavior:** Willing to share negative feedback publicly, reflecting a desire for accountability and improvement in product standards.\n\nOverall, this user exhibits a preference for high-quality essential oil products, a strong expectation for effective customer service, and a readiness to express dissatisfaction when these expectations are not met.",
+  "metrics": {
+    "rouge1_f": 0.1643835616438356,
+    "rouge2_f": 0.018433179723502304,
+    "rougeL_f": 0.10045662100456622,
+    "meteor": 0.1402520649976547,
+    "bleu1": 0.08888888888888888,
+    "bleu2": 0.00704688563442253,
+    "bleu3": 0.0030329003979718038,
+    "bleu4": 0.001992509012526459,
+    "bertscore_precision": 0.39670929312705994,
+    "bertscore_recall": 0.39559394121170044,
+    "bertscore_f1": 0.3961508572101593
+  }
+}

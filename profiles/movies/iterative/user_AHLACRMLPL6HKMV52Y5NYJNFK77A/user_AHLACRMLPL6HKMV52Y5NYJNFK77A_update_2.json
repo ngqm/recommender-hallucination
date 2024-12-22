@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/11/08\nAverage Rating: 4.2\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['John Patterson'], 'Producers': ['Freyda Rothstein'], 'Starring': ['Patty Duke', 'David Selby', 'David Soul'], 'Studio': ['Fisher Klingenstein Films']}\nReview Text: Ok\nReview Title: Three Stars\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['John Hough'], 'Producers': ['John Hough', 'Albert Fennell', 'Lew Grade', 'Peter Manley'], 'Starring': ['Emma Simm', 'Oliver Reed', 'Michael York']}\nQuality of color was so poor, I decided not watch it.  Very orange and pale.\nTwo Stars\n{'Subtitles': ['None available'], 'Directors': ['John Patterson'], 'Producers': ['Freyda Rothstein'], 'Starring': ['Patty Duke', 'David Selby', 'David Soul'], 'Studio': ['Fisher Klingenstein Films']}\nOk\nThree Stars",
+  "profile": "**User Profile Summary**\n\n- **General Preferences:** This user exhibits a strong inclination towards high production values in their viewing experiences and places significant importance on visual quality. They have a low tolerance for poor quality, as seen in their previous dissatisfaction with color accuracy. \n\n- **Rating Trends:** The user provides critical ratings when content does not meet their expectations. Their recent three-star rating suggests a more neutral response compared to their previous lower ratings, indicating a slight shift towards moderate acceptance, though they remain discerning about quality.\n\n- **Content Insights:** The user appears to favor films with notable directorial efforts and well-regarded actors, continuing to emphasize their appreciation for recognized talent in narratives. This suggests a balance between critical evaluation and a desire for engaging storytelling.\n\n- **Engagement Style:** Their reviews indicate a willingness to share feedback, regardless of whether they hold a negative or neutral view. This reflects their preference for transparency and their interest in community discussions regarding content quality.\n\nOverall, the user's profile highlights a consistent dedication to quality cinema, with a discerning mindset that has evolved to include a broader range of content acceptance, while still valuing visually compelling storytelling and strong production standards.",
+  "metrics": {
+    "rouge1_f": 0.0694980694980695,
+    "rouge2_f": 0.007782101167315175,
+    "rougeL_f": 0.03861003861003861,
+    "meteor": 0.07903780068728522,
+    "bleu1": 0.07916666666666666,
+    "bleu2": 0.005755356488734027,
+    "bleu3": 0.002405410304352083,
+    "bleu4": 0.0015566995103377874,
+    "bertscore_precision": 0.37793678045272827,
+    "bertscore_recall": 0.3503742218017578,
+    "bertscore_f1": 0.3636339604854584
+  }
+}

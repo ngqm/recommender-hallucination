@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2011/07/30\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Toby Haynes'], 'Producers': ['Sanne Wohlenberg', 'Steven Moffat', 'Piers Wenger', 'Beth Willis'], 'Starring': ['Matt Smith', 'Karen Gillan', 'Arthur Darvill'], 'Studio': ['BBC America']}\nReview Text: Always enjoy the Doctor Who Christmas specials unfortunately don't have BBC America.<br />Thanks to Amazon I can still keep up.\nReview Title: Love the Doctor\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Toby Haynes'], 'Producers': ['Sanne Wohlenberg', 'Steven Moffat', 'Piers Wenger', 'Beth Willis'], 'Starring': ['Matt Smith', 'Karen Gillan', 'Arthur Darvill'], 'Studio': ['BBC America']}\nAlways enjoy the Doctor Who Christmas specials unfortunately don't have BBC America.<br />Thanks to Amazon I can still keep up.\nLove the Doctor",
+  "profile": "**User Profile Summary:**\n\n- **Interest in Sci-Fi/Fantasy:** Strong preference for science fiction and fantasy genres, particularly enjoying series known for their imaginative storytelling.\n- **Appreciation for Quality Content:** High ratings (average of 4.9) indicate a discerning taste for well-produced shows and films.\n- **Engagement with English Language Media:** Preference for English audio and subtitles suggests a focus on content in this language.\n- **Loyalty to Specific Franchises:** Displays enthusiasm for the Doctor Who series, especially its holiday specials, indicating a strong fan attachment to specific franchises.\n- **Utilization of Streaming Services:** Reliance on platforms like Amazon to access content, suggesting a preference for convenience in viewing options. \n- **Fandom Culture:** Likely values community discussions and interactions surrounding favorite shows, as indicated by engagement with specific titles.\n- **Interest in Productions with Notable Figures:** Engagement with content featuring well-known directors and producers highlights an appreciation for recognized talent in the industry.\n\nThis user's profile reflects a combination of loyalty to beloved franchises, a focus on quality storytelling, and a preference for accessible viewing options in English.",
+  "metrics": {
+    "rouge1_f": 0.13215859030837004,
+    "rouge2_f": 0.017777777777777778,
+    "rougeL_f": 0.08810572687224671,
+    "meteor": 0.10109519797809603,
+    "bleu1": 0.09012875536480687,
+    "bleu2": 0.027874217998124284,
+    "bleu3": 0.014982966259785107,
+    "bleu4": 0.006183956018621404,
+    "bertscore_precision": 0.40541568398475647,
+    "bertscore_recall": 0.35129594802856445,
+    "bertscore_f1": 0.3764205276966095
+  }
+}

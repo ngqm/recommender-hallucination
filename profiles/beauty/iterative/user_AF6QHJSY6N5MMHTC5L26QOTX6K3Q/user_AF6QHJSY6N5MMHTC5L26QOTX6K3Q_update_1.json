@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: SALOCY Facial Mask Applicator,Facial Mask Brush 4 Piese with 2 Piese Cat ear Headbands\nReview Date: 2017/09/16\nStore: SALOCY\nAverage Rating: 4.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.8 x 4.9 x 1.7 inches; 2.4 Ounces', 'UPC': '756244688534'}\nReview Text: Love the headbands, the brushes are pretty good. I took a pair of pliers and crimped down the metal onto the bristles so it held them better as I don't know how long the glue holding the bristles in will last after repeated washings. The handles are smooth and splinter free. The brush bristles are soft and won't scratch your skin, and smoothly applies masks from clay to gel. The bristles wash clean easily and haven't stained or changed color. The headbands are soft, totally adorable, and stay put. They wash well, but I've never put mine in the dryer and instead hang them up to air dry.\nReview Title: Great set for home spa\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "SALOCY Facial Mask Applicator,Facial Mask Brush 4 Piese with 2 Piese Cat ear Headbands\nSALOCY\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.8 x 4.9 x 1.7 inches; 2.4 Ounces', 'UPC': '756244688534'}\nLove the headbands, the brushes are pretty good. I took a pair of pliers and crimped down the metal onto the bristles so it held them better as I don't know how long the glue holding the bristles in will last after repeated washings. The handles are smooth and splinter free. The brush bristles are soft and won't scratch your skin, and smoothly applies masks from clay to gel. The bristles wash clean easily and haven't stained or changed color. The headbands are soft, totally adorable, and stay put. They wash well, but I've never put mine in the dryer and instead hang them up to air dry.\nGreat set for home spa",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Home spa and skincare accessories.\n- **Key Preferences:** \n  - Quality and durability of materials (e.g., brushes, headbands).\n  - Soft and skin-friendly products that enhance the user experience.\n  - Items that are easy to clean and maintain.\n- **Practicality:** Shows a hands-on approach to product improvement (modifying brush for better durability).\n- **Aesthetic Appeal:** Values adorable and visually appealing items.\n- **Care Instructions:** Prefers gentle care for products (air drying headbands).\n- **Usage Context:** Engages in home spa activities, suggesting an interest in self-care rituals.\n\nThis user shows a clear trend towards investing in tools that allow for a pleasant and efficient skincare routine while also caring for the longevity of their products.",
+  "metrics": {
+    "rouge1_f": 0.20973782771535582,
+    "rouge2_f": 0.022641509433962263,
+    "rougeL_f": 0.10486891385767791,
+    "meteor": 0.14024648888515986,
+    "bleu1": 0.21892248033797956,
+    "bleu2": 0.03515860628307553,
+    "bleu3": 0.008887906697377039,
+    "bleu4": 0.004475357780734777,
+    "bertscore_precision": 0.4247018098831177,
+    "bertscore_recall": 0.42578884959220886,
+    "bertscore_f1": 0.42524462938308716
+  }
+}

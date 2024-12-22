@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Escobar: Paradise Lost\nReview Date: 2015/08/24\nCategories: Suspense, Historical, Compelling, Passionate\nProduct Description: ['In Colombia, a young surfer meets the woman of his dreams - and then he meets her uncle, Pablo Escobar.']\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Subtitles': ['None available'], 'Directors': ['Andrea Di Stefano'], 'Producers': ['Dimitri Rassam'], 'Starring': ['Benicio Del Toro', 'Josh Hutcherson', 'Claudia Traisac']}\nReview Text: Thrilling movie. I love the drama and unexpected turns the plot made.\nReview Title: Very entertaining\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Escobar: Paradise Lost\nSuspense, Historical, Compelling, Passionate\n['In Colombia, a young surfer meets the woman of his dreams - and then he meets her uncle, Pablo Escobar.']\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language'], 'Subtitles': ['None available'], 'Directors': ['Andrea Di Stefano'], 'Producers': ['Dimitri Rassam'], 'Starring': ['Benicio Del Toro', 'Josh Hutcherson', 'Claudia Traisac']}\nThrilling movie. I love the drama and unexpected turns the plot made.\nVery entertaining",
+  "profile": "**User Profile Summary:**\n\n- **Genres**: Prefers suspenseful and historical narratives, indicating a strong interest in thrilling storytelling and drama.\n- **Themes**: Enjoys compelling and passionate plots with unexpected twists, suggesting a preference for emotionally charged and intricate storylines.\n- **Mood & Tone**: Values entertainment and thrill in movies, indicating a fondness for dynamic and engaging content.\n- **Rating Trend**: Demonstrates a tendency to give high ratings for enjoyable experiences, reflecting a positive engagement with content that meets their preferences.\n- **Caution with Content**: Aware of and possibly tolerant towards content that includes violence and mature themes, as indicated by the content advisory details.\n\nOverall, this user exhibits a distinct preference for dramatic, suspenseful films with rich narratives and emotional depth, leaning towards higher ratings when content aligns with their interests.",
+  "metrics": {
+    "rouge1_f": 0.20833333333333331,
+    "rouge2_f": 0.010526315789473684,
+    "rougeL_f": 0.13541666666666666,
+    "meteor": 0.15472732317484045,
+    "bleu1": 0.15517241379310345,
+    "bleu2": 0.009470746373682825,
+    "bleu3": 0.0037360555240190598,
+    "bleu4": 0.0023499626724840625,
+    "bertscore_precision": 0.4082728922367096,
+    "bertscore_recall": 0.4200907051563263,
+    "bertscore_f1": 0.41409751772880554
+  }
+}

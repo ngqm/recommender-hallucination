@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: [miclan] Honey Teatree Relaxing Mask 10pcs - Mediheal Family Brand Facial Sheet Mask Full of Hydrating Soothing Purifying Skin with Teatree and Honey\nReview Date: 2020/07/26\nStore: miclan\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Miclan', 'Item Form': 'Sheet', 'Product Benefits': 'Soothing,Skin Soothing,Soothes', 'Scent': 'Honey', 'Skin Type': 'Sensitive', 'Package Dimensions': '7.91 x 4.25 x 1.5 inches; 11.99 Ounces'}\nReview Text: Great mask to use after a long day. The mask is well coated with the honey tea tree serum on a mesh-like sheet. I use the extra serum in the package and apply it on my neck and arms. It's soothing and refreshing, and the scent is not to strong. It made my skin feel soft and supple. It didn't irritate my skin at all. Next time, I'll put it in fridge prior to using for a more cooling experience.\nReview Title: Great face mask\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "[miclan] Honey Teatree Relaxing Mask 10pcs - Mediheal Family Brand Facial Sheet Mask Full of Hydrating Soothing Purifying Skin with Teatree and Honey\nmiclan\n{'Brand': 'Miclan', 'Item Form': 'Sheet', 'Product Benefits': 'Soothing,Skin Soothing,Soothes', 'Scent': 'Honey', 'Skin Type': 'Sensitive', 'Package Dimensions': '7.91 x 4.25 x 1.5 inches; 11.99 Ounces'}\nGreat mask to use after a long day. The mask is well coated with the honey tea tree serum on a mesh-like sheet. I use the extra serum in the package and apply it on my neck and arms. It's soothing and refreshing, and the scent is not to strong. It made my skin feel soft and supple. It didn't irritate my skin at all. Next time, I'll put it in fridge prior to using for a more cooling experience.\nGreat face mask",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** Strong affinity for facial sheet masks, particularly those with soothing and hydrating properties.\n  \n- **Ingredients:** Prefers products featuring natural ingredients such as honey and tea tree, indicating a trend toward gentle, skin-friendly formulations suitable for sensitive skin.\n\n- **Usage Context:** Likely to use skincare products as a form of self-care after long days, valuing relaxation and comfort in their routine.\n\n- **Texture and Scent:** Appreciates well-coated masks and mild scents, hinting at a dislike for overpowering fragrances. Enjoys the idea of extra serum application for enhanced benefits.\n\n- **Sensory Experience:** Values the cooling effect of skincare products, suggesting that temperature variation (like refrigeration) enhances their user experience.\n\n- **Overall Sentiment:** Generally positive attitude toward product effectiveness, comfort, and sensory satisfaction, as reflected by high ratings and detailed, enthusiastic reviews.\n\nThis profile illustrates a user who prioritizes soothing, natural skincare that enhances relaxation and is particularly suited for their sensitive skin.",
+  "metrics": {
+    "rouge1_f": 0.3469387755102041,
+    "rouge2_f": 0.0547945205479452,
+    "rougeL_f": 0.1836734693877551,
+    "meteor": 0.2159553887859729,
+    "bleu1": 0.26291079812206575,
+    "bleu2": 0.08626048715932533,
+    "bleu3": 0.015221137852987163,
+    "bleu4": 0.00640148180970317,
+    "bertscore_precision": 0.45406094193458557,
+    "bertscore_recall": 0.44532012939453125,
+    "bertscore_f1": 0.44964808225631714
+  }
+}

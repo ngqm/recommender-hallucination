@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Mountain Falls Nourishing Nail Polish Remover for Natural Nails, with Vitamin E and Panthenol, 6 Fluid Ounce\nReview Date: 2019/10/07\nStore: Mountain Falls\nProduct Description: [\"Don't wait for your next spa day to treat yourself. Mountain Falls Nourishing Nail Polish Remover has been carefully formulated to quickly and gently care for your nails. The salon quality formula softens cuticles and contains Vitamin E. Quickly, easily, and gently returns nails to their natural healthy appearance. Our formula is free of Parabens, and Phthalates.\"]\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Mountain Falls', 'Item Form': 'Liquid', 'Unit Count': '6 Fl Oz', 'Package Dimensions': '6.38 x 3 x 1.18 inches; 4.8 Ounces', 'Manufacturer': 'Vi-Jon'}\nReview Text: Great nail polish. It contains acetone.\nReview Title: Has acetone\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Mountain Falls Nourishing Nail Polish Remover for Natural Nails, with Vitamin E and Panthenol, 6 Fluid Ounce\nMountain Falls\n[\"Don't wait for your next spa day to treat yourself. Mountain Falls Nourishing Nail Polish Remover has been carefully formulated to quickly and gently care for your nails. The salon quality formula softens cuticles and contains Vitamin E. Quickly, easily, and gently returns nails to their natural healthy appearance. Our formula is free of Parabens, and Phthalates.\"]\n{'Brand': 'Mountain Falls', 'Item Form': 'Liquid', 'Unit Count': '6 Fl Oz', 'Package Dimensions': '6.38 x 3 x 1.18 inches; 4.8 Ounces', 'Manufacturer': 'Vi-Jon'}\nGreat nail polish. It contains acetone.\nHas acetone",
+  "profile": "**User Profile Summary:**\n\n- **Preferences:**\n  - Prefers nail care products and shows an interest in those designed for natural nails.\n  - Values nourishing ingredients, specifically mentions Vitamin E and Panthenol.\n  - Appears to appreciate products that are effective and deliver salon-quality results at home.\n  - Shows a preference for items that cater to the health and appearance of nails.\n\n- **Trends:**\n  - Positive view on product effectiveness, as indicated by a high rating despite a mixed experience with the product's formulation.\n  - Awareness of product ingredients, specifically looking for acetone as a component in nail polish remover.\n\n- **Behavior Patterns:**\n  - Likely to rate products based on a combination of effectiveness and ingredient transparency.\n  - Engages in purchasing products that align with personal care routines, particularly for nails, indicating an interest in self-care and personal grooming.\n\nThis initial interaction suggests a user who is health-conscious regarding nail care, appreciates quality formulations, and is knowledgeable about product ingredients.",
+  "metrics": {
+    "rouge1_f": 0.2748091603053436,
+    "rouge2_f": 0.06153846153846154,
+    "rougeL_f": 0.1603053435114504,
+    "meteor": 0.17798286090969018,
+    "bleu1": 0.22164948453608244,
+    "bleu2": 0.0830099846424786,
+    "bleu3": 0.04155881394632054,
+    "bleu4": 0.02475933732047897,
+    "bertscore_precision": 0.4455276429653168,
+    "bertscore_recall": 0.42647629976272583,
+    "bertscore_f1": 0.4357938766479492
+  }
+}

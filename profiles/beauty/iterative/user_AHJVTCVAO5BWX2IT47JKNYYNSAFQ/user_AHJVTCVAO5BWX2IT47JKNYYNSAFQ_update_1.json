@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wet 'n' Wild MegaGlo Illuminating Powder, Catwalk Pink 345\nReview Date: 2017/04/06\nStore: Wet 'n' Wild\nAverage Rating: 5.0\nProduct Details: {'Item Form': 'Powder', 'Finish Type': 'Luminous', 'Brand': \"Wet 'n' Wild\", 'Color': 'Pink', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.5 x 1.25 x 2.5 inches; 1.45 Ounces', 'UPC': '077802534507', 'Manufacturer': \"Wet 'n' Wild\"}\nReview Text: Love it\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wet 'n' Wild MegaGlo Illuminating Powder, Catwalk Pink 345\nWet 'n' Wild\n{'Item Form': 'Powder', 'Finish Type': 'Luminous', 'Brand': \"Wet 'n' Wild\", 'Color': 'Pink', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.5 x 1.25 x 2.5 inches; 1.45 Ounces', 'UPC': '077802534507', 'Manufacturer': \"Wet 'n' Wild\"}\nLove it\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Product Type Preference:** Enjoys illuminating face powders.\n- **Color Preference:** Fond of pink shades.\n- **Finish Type:** Prefers luminous finishes for makeup products.\n- **Rating Behavior:** Shows a tendency to give high ratings, indicating satisfaction with purchases.\n- **Brand Affinity:** Positive experience with the Wet 'n' Wild brand.\n- **Simplicity in Preference:** Expresses straightforward appreciation without complex critiques, suggesting a clear preference for effective beauty products.\n- **Engagement Style:** Minimal but enthusiastic feedback; values quality and effectiveness. \n\nOverall, the user appears to favor budget-friendly beauty products that offer luminous finishes, particularly in pink tones, and demonstrates a consistent pattern of positive engagement with the Wet 'n' Wild brand.",
+  "metrics": {
+    "rouge1_f": 0.20987654320987653,
+    "rouge2_f": 0.0625,
+    "rougeL_f": 0.18518518518518517,
+    "meteor": 0.18964906799958348,
+    "bleu1": 0.1437125748502994,
+    "bleu2": 0.07207239704821732,
+    "bleu3": 0.05012310808576244,
+    "bleu4": 0.03520262359134521,
+    "bertscore_precision": 0.4556959271430969,
+    "bertscore_recall": 0.4092888832092285,
+    "bertscore_f1": 0.4312475323677063
+  }
+}

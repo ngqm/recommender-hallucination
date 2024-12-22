@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Eyebrow Stencils & Eyebrow Pencil, 10 Styles of Eyebrow Shaper, Reusable Eyebrow Template with Dark Brown Dual-Ended Pencil & Eyebrow Razor, 3 Minutes Makeup, Suitable For All Face Shape\nReview Date: 2022/04/26\nStore: VIAMAZ\nAverage Rating: 3.7\nProduct Details: {'Brand': 'VIAMAZ', 'Item Form': 'Pencil', 'Finish Type': 'Natural', 'Special Feature': 'Reusable', 'Material Feature': 'Reusable, Natural', 'Package Dimensions': '6.61 x 1.97 x 0.75 inches; 1.13 Ounces'}\nReview Text: I don't wear makeup often, and since this was something new to me I wanted to try it out. I like the variety of stencils included. It was easy to position and hold one in place. The problem was with the pencil...every time you try to color your eyebrow, the tip just rolls back into the tube after each pass over, making it annoying to have to keep holding the stencil with one hand while constantly twisting the color back out of the applicator with the other! Will probably end up giving these to my daughter, she has more patience than I do!\nReview Title: Not bad, but not great either!\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Eyebrow Stencils & Eyebrow Pencil, 10 Styles of Eyebrow Shaper, Reusable Eyebrow Template with Dark Brown Dual-Ended Pencil & Eyebrow Razor, 3 Minutes Makeup, Suitable For All Face Shape\nVIAMAZ\n{'Brand': 'VIAMAZ', 'Item Form': 'Pencil', 'Finish Type': 'Natural', 'Special Feature': 'Reusable', 'Material Feature': 'Reusable, Natural', 'Package Dimensions': '6.61 x 1.97 x 0.75 inches; 1.13 Ounces'}\nI don't wear makeup often, and since this was something new to me I wanted to try it out. I like the variety of stencils included. It was easy to position and hold one in place. The problem was with the pencil...every time you try to color your eyebrow, the tip just rolls back into the tube after each pass over, making it annoying to have to keep holding the stencil with one hand while constantly twisting the color back out of the applicator with the other! Will probably end up giving these to my daughter, she has more patience than I do!\nNot bad, but not great either!",
+  "profile": "**User Summary:**\n\n- **Makeup Usage:** The user rarely wears makeup, indicating a preference for minimalistic beauty routines.\n- **Experimentation:** Shows curiosity in trying new beauty products, especially tools that simplify the application process.\n- **Product Features:** Values versatility, as seen in the appreciation for a variety of stencils; however, practicality and ease of use are critical.\n- **Frustration with Application:** Experienced annoyance with product performance, particularly regarding difficulty in maintaining the pencil's functionality during use.\n- **Intended Use:** Indicated a willingness to pass items on to family members, suggesting a considerate nature and potential for gifting.\n- **Review Tone:** Balanced critique; acknowledges both positives and negatives, leaning toward a supportive recommendation but highlighting practical shortcomings.\n- **Overall Rating Pattern:** Tends toward moderate ratings, indicating a discerning approach and likely no inclination toward overly positive bias without justification. \n\nThis summary reflects a user who prefers simplicity and usability in beauty products while being open to exploring options despite infrequent makeup application.",
+  "metrics": {
+    "rouge1_f": 0.20433436532507737,
+    "rouge2_f": 0.037383177570093455,
+    "rougeL_f": 0.10526315789473684,
+    "meteor": 0.15600337179284546,
+    "bleu1": 0.1872146118721461,
+    "bleu2": 0.05075773704372741,
+    "bleu3": 0.022812957411518966,
+    "bleu4": 0.008610388644192002,
+    "bertscore_precision": 0.42208331823349,
+    "bertscore_recall": 0.43330907821655273,
+    "bertscore_f1": 0.427622526884079
+  }
+}

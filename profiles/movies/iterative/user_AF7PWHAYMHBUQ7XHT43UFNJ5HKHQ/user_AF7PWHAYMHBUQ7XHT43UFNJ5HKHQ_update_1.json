@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/08/09\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philip Martin'], 'Producers': ['Simon Moseley'], 'Starring': ['Kenneth Branagh', 'Sarah Smart', 'Jeany Spark']}\nReview Text: Wallender is an interesting, introspective and clever (not to overlook moody) detective who investigates tragic and often gruesome murders.  It is well written, well photographed, generally believable and worth watching.  You should begin to connect with the character by the third episode.\nReview Title: Not disappointing\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philip Martin'], 'Producers': ['Simon Moseley'], 'Starring': ['Kenneth Branagh', 'Sarah Smart', 'Jeany Spark']}\nWallender is an interesting, introspective and clever (not to overlook moody) detective who investigates tragic and often gruesome murders.  It is well written, well photographed, generally believable and worth watching.  You should begin to connect with the character by the third episode.\nNot disappointing",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference:** Enjoys introspective and moody detective stories, particularly those that focus on complex characters and intricate plots. \n- **Content Quality:** Appreciates well-written and well-produced content, showing a tendency towards high production values. \n- **Character Development:** Values character growth and emotional connections, expecting to develop an attachment to characters over time.\n- **Language and Accessibility:** Prefers content in English with English subtitles, indicating a focus on accessible viewing experiences.\n- **Rating Trends:** Generally positive with an average rating of 4.4, suggesting discerning taste. Likely favors content that balances storytelling and production quality. \n\nThis user's interactions reveal a clear trend towards thoughtfully crafted narratives that balance atmosphere and character depth, reflecting a preference for quality over quantity in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.22580645161290325,
+    "rouge2_f": 0.043478260869565216,
+    "rougeL_f": 0.12903225806451615,
+    "meteor": 0.12719298245614036,
+    "bleu1": 0.1488095238095238,
+    "bleu2": 0.029850879264628025,
+    "bleu3": 0.008127095989460023,
+    "bleu4": 0.004246983325681099,
+    "bertscore_precision": 0.44558003544807434,
+    "bertscore_recall": 0.422932893037796,
+    "bertscore_f1": 0.4339612126350403
+  }
+}

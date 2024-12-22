@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/02/25\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jonathan Lynn'], 'Producers': ['Brian Grazer'], 'Starring': ['Steve Martin', 'Dan Aykroyd', 'Phil Hartman'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nReview Text: Great movie, excellent cast truly a classic.\nReview Title: So super funny\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jonathan Lynn'], 'Producers': ['Brian Grazer'], 'Starring': ['Steve Martin', 'Dan Aykroyd', 'Phil Hartman'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nGreat movie, excellent cast truly a classic.\nSo super funny",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for classic comedies, particularly those featuring well-known actors. They appreciate high-quality productions with a notable cast and are inclined to rate films positively when they find them entertaining and funny. Their rating history suggests a tendency towards enjoying English audio and subtitles, indicating a focus on comprehensibility and accessibility. Overall, the user values humor and nostalgic elements in their movie selections, indicating a possible interest in films from earlier decades, especially those that highlight the comedic talents of recognized performers. The positive rating and enthusiastic review reflect a pattern of satisfaction with content that offers both charm and humor.",
+  "metrics": {
+    "rouge1_f": 0.11267605633802817,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.056338028169014086,
+    "meteor": 0.07281553398058253,
+    "bleu1": 0.0983606557377049,
+    "bleu2": 0.009016085521462998,
+    "bleu3": 0.004076476405655601,
+    "bleu4": 0.002746799498333628,
+    "bertscore_precision": 0.3941752314567566,
+    "bertscore_recall": 0.36987388134002686,
+    "bertscore_f1": 0.3816380798816681
+  }
+}

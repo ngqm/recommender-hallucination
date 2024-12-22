@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MAKE-UP FOR YOU BB Cream Concealer Brush, Pink\nReview Date: 2016/12/22\nStore: MAKE-UP FOR YOU\nAverage Rating: 3.3\nProduct Details: {'Brand': 'MAKE-UP FOR YOU', 'Recommended Uses For Product': 'For Concealing', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Package Dimensions': '4.7 x 1.4 x 1.4 inches; 4.64 Ounces', 'Item model number': 'ytd48', 'UPC': '601913494704'}\nReview Text: This brush is amazing for foundation!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "MAKE-UP FOR YOU BB Cream Concealer Brush, Pink\nMAKE-UP FOR YOU\n{'Brand': 'MAKE-UP FOR YOU', 'Recommended Uses For Product': 'For Concealing', 'Skin Type': 'All', 'Item Form': 'Wand', 'Number of Pieces': '1', 'Age Range (Description)': 'Adult', 'Ferrule Material': 'Aluminum', 'Package Dimensions': '4.7 x 1.4 x 1.4 inches; 4.64 Ounces', 'Item model number': 'ytd48', 'UPC': '601913494704'}\nThis brush is amazing for foundation!\nFive Stars",
+  "profile": "### User Profile Summary\n\n**Key Preferences:**\n- Enjoys makeup application tools, specifically brushes designed for foundation and concealing.\n- Values products with positive performance, as evidenced by a five-star rating for a brush.\n- Focuses on quality and effectiveness when evaluating makeup tools.\n- Demonstrates a preference for versatile products that can cater to different skin types.\n\n**Behavior Patterns:**\n- Engages with brands that emphasize functionality and user experience in their products.\n- Rates purchases highly when they meet or exceed expectations.\n- Shows interest in products that simplify or enhance the makeup application process.\n\n**Overall Trends:**\n- Aesthetic preferences lean towards appealing, user-friendly designs (e.g., a pink brush).\n- Indicates a potential for exploring additional makeup-related items, favoring those that promote a flawless finish. \n\nThis initial profile suggests a user passionate about makeup tools and driven by quality results in their beauty routine.",
+  "metrics": {
+    "rouge1_f": 0.16425120772946858,
+    "rouge2_f": 0.029268292682926828,
+    "rougeL_f": 0.08695652173913045,
+    "meteor": 0.11558219178082192,
+    "bleu1": 0.07865168539325842,
+    "bleu2": 0.02107984355923179,
+    "bleu3": 0.0063203437566496075,
+    "bleu4": 0.003465740269905582,
+    "bertscore_precision": 0.3764333128929138,
+    "bertscore_recall": 0.3621029853820801,
+    "bertscore_f1": 0.36912912130355835
+  }
+}

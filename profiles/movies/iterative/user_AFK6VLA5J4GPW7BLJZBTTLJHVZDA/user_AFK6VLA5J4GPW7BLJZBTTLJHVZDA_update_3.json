@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Peter Hedges'], 'Producers': ['James Whitaker', 'Scott Sanders'], 'Starring': ['Jennifer Garner', 'Joel Edgerton', 'Ron Livingston'], 'Studio': ['Walt Disney Pictures']}\nReview Text: Will make you cry so good!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Patrick Osborne'], 'Producers': ['Kristina Reed'], 'Starring': ['Stephen Apostolina', 'Kirk Baily', 'Ben Bledsoe'], 'Studio': ['Walt Disney Animation Studios']}\nJust had to own it!!!\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexandre Aja'], 'Producers': ['Cathy Schulman', 'Riza Aziz', 'Joey McFarland', 'Alexandre Aja'], 'Starring': ['Daniel Radcliffe', 'Juno Temple', 'Max Minghella']}\nAwesome movie\nFive Stars\n{'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Peter Hedges'], 'Producers': ['James Whitaker', 'Scott Sanders'], 'Starring': ['Jennifer Garner', 'Joel Edgerton', 'Ron Livingston'], 'Studio': ['Walt Disney Pictures']}\nWill make you cry so good!\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preference for Animation and Quality:** The user maintains a strong affinity for animated content, particularly from reputable studios, while also valuing high-quality live-action films that align with their artistic tastes.\n  \n- **High Engagement with Quality:** Their consistent high ratings highlight an appreciation for well-produced works that provoke strong emotional responses. This recent interaction solidified their inclination towards content that elicits heartfelt reactions.\n\n- **Language Sensitivity:** English audio and subtitles are paramount for this user, underscoring their commitment to accessibility and comprehension. The inclusion of Spanish options reflects an openness to diverse content while still prioritizing their primary linguistic needs.\n\n- **Emotional Connection:** The user expresses a personal connection to the films they engage with, evidenced by their enthusiastic reviews. They have a strong desire to own and advocate for films that resonate deeply with them, evident in their emotive language.\n\n- **Positive Outlook:** Their optimistic approach towards media is reflected in their high ratings and exalted language in reviews, showcasing a consistent appreciation for entertainment that uplifts and inspires.\n\nThe recent interaction reinforces their dedication to high-quality storytelling, emotional resonance, and the importance of language support in enhancing their media consumption experience.",
+  "metrics": {
+    "rouge1_f": 0.07308970099667775,
+    "rouge2_f": 0.013377926421404684,
+    "rougeL_f": 0.046511627906976744,
+    "meteor": 0.046110665597433834,
+    "bleu1": 0.06797977495548897,
+    "bleu2": 0.016521407310623962,
+    "bleu3": 0.0047921798934199575,
+    "bleu4": 0.0025836027058529464,
+    "bertscore_precision": 0.3605682849884033,
+    "bertscore_recall": 0.3422410190105438,
+    "bertscore_f1": 0.35116568207740784
+  }
+}

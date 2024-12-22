@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: BET ComicView All Stars, Vol. 3\nReview Date: 2012/09/25\nStore: Rated:    Unrated    Format: DVD\nCategories: Movies & TV, Genre for Featured Categories, Comedy\nProduct Description: ['DVD']\nAverage Rating: 4.7\nProduct Details: {'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '7.5 x 5.5 x 0.75 inches; 4 Ounces', 'Media Format': 'NTSC', 'Release date': 'June 11, 2002', 'Studio': 'Time Life Records'}\nReview Text: Wish they had more of Don DC Curry! The other artists are funny as well, some are younger shots of current/recent successful comedians, but other than that I would rate it a 8.5. Definitely worth a look!\nReview Title: Hilarious!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "BET ComicView All Stars, Vol. 3\nRated:    Unrated    Format: DVD\nMovies & TV, Genre for Featured Categories, Comedy\n['DVD']\n{'MPAA rating': 'Unrated (Not Rated)', 'Product Dimensions': '7.5 x 5.5 x 0.75 inches; 4 Ounces', 'Media Format': 'NTSC', 'Release date': 'June 11, 2002', 'Studio': 'Time Life Records'}\nWish they had more of Don DC Curry! The other artists are funny as well, some are younger shots of current/recent successful comedians, but other than that I would rate it a 8.5. Definitely worth a look!\nHilarious!",
+  "profile": "**User Profile Summary:**\n\n- **Primary Interests:** Comedy-focused media, particularly stand-up and variety shows.\n- **Format Preference:** Enjoys purchasing DVDs, indicating a preference for physical media over digital formats.\n- **Engagement with Artists:** Shows a strong appreciation for specific comedians, valuing performances that feature a mix of well-known and emerging talent. Demonstrates a particular fondness for certain veteran artists.\n- **Rating Pattern:** Tends to provide high ratings (e.g., 5.0 for quality and entertainment value), suggesting a positive outlook on the products consumed.\n- **Review Style:** Detailed and personal, reflecting genuine enthusiasm and thoughtful critique. Values humor and entertainment in reviews.\n- **Long-term Affinity:** This interaction from 2012 indicates a longstanding commitment to comedy as a preferred entertainment genre. \n\nOverall, the user exhibits a deep appreciation for humor and comedic performances, likely seeking out materials that offer both nostalgia and contemporary comedic talent.",
+  "metrics": {
+    "rouge1_f": 0.19213973799126638,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.10480349344978165,
+    "meteor": 0.14772727272727273,
+    "bleu1": 0.14358974358974358,
+    "bleu2": 0.027205758902719573,
+    "bleu3": 0.007265320772642103,
+    "bleu4": 0.0037593762037824155,
+    "bertscore_precision": 0.4090900421142578,
+    "bertscore_recall": 0.40948736667633057,
+    "bertscore_f1": 0.40928858518600464
+  }
+}

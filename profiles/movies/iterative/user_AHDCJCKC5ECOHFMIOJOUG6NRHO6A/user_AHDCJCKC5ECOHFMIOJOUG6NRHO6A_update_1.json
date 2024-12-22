@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/09/04\nAverage Rating: 4.4\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Leszek Burzynski'], 'Producers': ['Julie Hartley', 'Patty Hedeen', 'Ken Promersberger', 'Robert Schwartz', 'Maggie Soboil', 'Buffie Stone'], 'Starring': ['Peter Fonda', 'Kris Kristofferson', 'Joseph Mazzello'], 'Studio': ['Lionsgate']}\nReview Text: heartfelt story-- pretty good actinh\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Leszek Burzynski'], 'Producers': ['Julie Hartley', 'Patty Hedeen', 'Ken Promersberger', 'Robert Schwartz', 'Maggie Soboil', 'Buffie Stone'], 'Starring': ['Peter Fonda', 'Kris Kristofferson', 'Joseph Mazzello'], 'Studio': ['Lionsgate']}\nheartfelt story-- pretty good actinh\nFour Stars",
+  "profile": "**User Summary:**\n\nThe user exhibits a preference for heartfelt narratives, indicating an appreciation for emotional depth in storytelling. They particularly value strong performances, as noted by their comment on \"pretty good acting.\" The user tends to rate content favorably, reflected in their overall average rating of 4.4, suggesting a tendency towards enjoyment in their media choices. There is a specific fondness for productions involving notable actors, hinting at their interest in star power and established talent. Additionally, the user's engagement with films associated with a well-known studio suggests they lean towards mainstream cinema. Overall, the user favors quality storytelling, emotional resonance, and solid performances in their viewing selections.",
+  "metrics": {
+    "rouge1_f": 0.06849315068493152,
+    "rouge2_f": 0.013888888888888892,
+    "rougeL_f": 0.0547945205479452,
+    "meteor": 0.09762102515424774,
+    "bleu1": 0.09923664122137404,
+    "bleu2": 0.027628948199776883,
+    "bleu3": 0.008395495464593552,
+    "bleu4": 0.0046369483253590055,
+    "bertscore_precision": 0.3687094449996948,
+    "bertscore_recall": 0.3303121328353882,
+    "bertscore_f1": 0.3484562039375305
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: lootaan 500 Pieces False Nails French Acrylic Fake Nails Tips Half Cover Artificial Fake Nails With Box and False Nail Clipper for Women Girl\nReview Date: 2020/11/01\nStore: lootaan\nAverage Rating: 4.4\nProduct Details: {'Material': 'Acrylic', 'Brand': 'lootaan', 'Number of Pieces': '500', 'Package Dimensions': '9 x 6 x 2 inches; 8.01 Ounces', 'UPC': '710157699223'}\nReview Text: These are the longest nail tips I own. They are long and sturdy and they fit bigger nail beds. I compared them to other nail tips I have and these are bigger, i definitely recommend for people with bigger nail beds.\nReview Title: Long and Sturdy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "lootaan 500 Pieces False Nails French Acrylic Fake Nails Tips Half Cover Artificial Fake Nails With Box and False Nail Clipper for Women Girl\nlootaan\n{'Material': 'Acrylic', 'Brand': 'lootaan', 'Number of Pieces': '500', 'Package Dimensions': '9 x 6 x 2 inches; 8.01 Ounces', 'UPC': '710157699223'}\nThese are the longest nail tips I own. They are long and sturdy and they fit bigger nail beds. I compared them to other nail tips I have and these are bigger, i definitely recommend for people with bigger nail beds.\nLong and Sturdy",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** Strong inclination towards nail care and beauty products, particularly artificial nails.\n- **Material Preference:** Favors acrylic products, indicating a preference for durability and quality.\n- **Size Consideration:** Prioritizes larger sizes and accommodates bigger nail beds, showing a need for inclusivity and comfort in product fit.\n- **Rating Behavior:** Tends to leave positive feedback (5-star rating) when satisfied, highlighting an appreciation for quality and effectiveness.\n- **Usage Context:** Engages with beauty products regularly, more specifically in the realm of nail enhancements.\n- **Recommendation Tendencies:** Willing to recommend products that meet or exceed her expectations, especially those that offer unique benefits (e.g., sturdiness, size).\n\nOverall, this user exhibits a clear preference for high-quality, oversized beauty products that fit diverse needs.",
+  "metrics": {
+    "rouge1_f": 0.21800947867298576,
+    "rouge2_f": 0.019138755980861243,
+    "rougeL_f": 0.14218009478672985,
+    "meteor": 0.15114379084967325,
+    "bleu1": 0.17222222222222222,
+    "bleu2": 0.043866509313534835,
+    "bleu3": 0.022111356345357085,
+    "bleu4": 0.008840324791510217,
+    "bertscore_precision": 0.4390888512134552,
+    "bertscore_recall": 0.4169503152370453,
+    "bertscore_f1": 0.42773330211639404
+  }
+}

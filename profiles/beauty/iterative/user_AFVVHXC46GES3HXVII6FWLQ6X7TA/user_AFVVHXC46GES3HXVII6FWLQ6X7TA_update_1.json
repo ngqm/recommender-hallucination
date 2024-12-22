@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beast Blue Beard Oil with Organic Argan & Jojoba Oils, 1 fl oz\nReview Date: 2020/01/31\nStore: Tame the Beast\nAverage Rating: 4.1\nProduct Details: {'Liquid Volume': '1 Fluid Ounces', 'Item Form': 'Oil', 'Brand': 'Tame the Beast', 'Number of Items': '1', 'Unit Count': '1 FL OZ', 'Package Dimensions': '7.05 x 3.54 x 1.54 inches; 2.89 Ounces', 'UPC': '817662018546'}\nReview Text: Out of all the beard oils the husband has used he says this one is the best. Its lightweight, moisturizing and the scent (which is excellent on its own) doesn't linger too long. I've tried other products from this line and they've all been great!\nReview Title: 5/5\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Beast Blue Beard Oil with Organic Argan & Jojoba Oils, 1 fl oz\nTame the Beast\n{'Liquid Volume': '1 Fluid Ounces', 'Item Form': 'Oil', 'Brand': 'Tame the Beast', 'Number of Items': '1', 'Unit Count': '1 FL OZ', 'Package Dimensions': '7.05 x 3.54 x 1.54 inches; 2.89 Ounces', 'UPC': '817662018546'}\nOut of all the beard oils the husband has used he says this one is the best. Its lightweight, moisturizing and the scent (which is excellent on its own) doesn't linger too long. I've tried other products from this line and they've all been great!\n5/5",
+  "profile": "**User Profile Summary:**\n\n- **Grooming Products:** The user shows a strong preference for high-quality beard care solutions, indicating satisfaction with lightweight and moisturizing formulations. They value the balance between effectiveness and subtle fragrance, as noted in their review of the beard oil.\n\n- **Positive Experience with Brand:** The user appears loyal to the brand, having tried multiple products and expressing overall satisfaction, suggesting a trend towards prioritizing brands with consistent quality and positive results.\n\n- **Feedback and Ratings:** The user rates products highly when they meet or exceed expectations, indicating they are discerning and appreciate superior performance in grooming products.\n\n- **Purchase Intent:** Based on their review, the user likely seeks products that offer a good user experience\u2014specifically, those that are easy to use, effective, and provide pleasant but not overpowering scents.\n\nOverall, the user demonstrates an inclination toward premium grooming products that deliver on both functionality and sensory experience.",
+  "metrics": {
+    "rouge1_f": 0.17600000000000002,
+    "rouge2_f": 0.01612903225806452,
+    "rougeL_f": 0.112,
+    "meteor": 0.13522884882108183,
+    "bleu1": 0.16230366492146597,
+    "bleu2": 0.029227210188044576,
+    "bleu3": 0.0076742799978955336,
+    "bleu4": 0.003937665023809279,
+    "bertscore_precision": 0.4007808566093445,
+    "bertscore_recall": 0.4265843331813812,
+    "bertscore_f1": 0.4132802486419678
+  }
+}

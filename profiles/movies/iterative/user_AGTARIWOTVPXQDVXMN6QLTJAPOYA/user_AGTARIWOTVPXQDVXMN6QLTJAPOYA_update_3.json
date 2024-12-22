@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2023/01/24\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.P. Watts'], 'Producers': ['Chris Lemos', 'Luis Guerrero', 'Will Knochel'], 'Starring': ['Sam Hazeldine', 'Tom Goodman-Hill', 'Kris Hitchen'], 'Studio': ['Vital Pictures']}\nReview Text: ****\nReview Title: ****\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom McCarthy', 'Oliver Bokelberg', 'Danis Goulet', 'Clark Johnson', 'Patricia Riggen', 'Craig William Macneill', 'Catriona McKenzie', 'Ruba Nadda', 'Michael Pressman', 'Bosede Williams'], 'Studio': ['Fox']}\nWHAT PROGRAM CAN GET AWAY FROM WOKENESS TODAY?  NOT EVEN A SHOW BASED IN ALASKA.  GOOD SHOW OBVIOUSLY TRYING TO MAKE MEDIA LOOK BETTER THAN THEY ARE.  UNFORTUNATELY NO MORE OLD SCHOOL REPORTERS LIKE THEY TRY TO BE\nPRETTY GOOD SHOW W OBVIOUS WOKE HIGHLIGHTS\n{'Content advisory': ['Nudity', 'violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Conway'], 'Producers': ['Robert Conway'], 'Starring': ['Shawn Anderson', 'Amelia Haberman', 'James Ray'], 'Studio': ['CreateSpace']}\nLOW BUDGET COMPARED TO THE ORIGINAL\nLOW BUDGET COMPARED TO THE ORIGINAL\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['J.P. Watts'], 'Producers': ['Chris Lemos', 'Luis Guerrero', 'Will Knochel'], 'Starring': ['Sam Hazeldine', 'Tom Goodman-Hill', 'Kris Hitchen'], 'Studio': ['Vital Pictures']}\n****\n****",
+  "profile": "**User Summary:**\n\nThis user maintains a strong preference for media that engages with contemporary issues while expressing a critical stance toward perceived \"wokeness\" in programming. They continue to seek out high-quality storytelling and have displayed a growing intolerance for low-budget productions, as evidenced by their previous negative review of a disappointing adaptation. \n\nHowever, their recent interaction indicates a shift towards more favorable content, as they awarded a rating of 4.0 to a production that appears to align more closely with their standards for quality and authenticity. This suggests they are still engaged with compelling narratives, especially those featuring unique settings, such as Alaska, which enhance the storytelling experience.\n\nWhile they appreciate strong production values and original narratives, the user's nuanced viewing approach reveals a desire for entertainment that is not heavily laden with overt ideological messages. Their consistent preference for engaging content, coupled with their discerning standards, indicates an evolving media consumption pattern where they remain critical yet open to productions that successfully balance substance with quality. Overall, they continue to seek out high-quality drama, reflecting a blend of critical engagement and appreciation for well-crafted storytelling.",
+  "metrics": {
+    "rouge1_f": 0.12903225806451613,
+    "rouge2_f": 0.011799410029498525,
+    "rougeL_f": 0.05865102639296189,
+    "meteor": 0.08707213997899585,
+    "bleu1": 0.058585438944154626,
+    "bleu2": 0.018570191871074816,
+    "bleu3": 0.0046720019304772,
+    "bleu4": 0.002346197550279668,
+    "bertscore_precision": 0.31301969289779663,
+    "bertscore_recall": 0.3434450924396515,
+    "bertscore_f1": 0.32752731442451477
+  }
+}

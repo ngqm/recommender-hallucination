@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: MD Complete Bright & Healthy Vitamin C+ Vitalizing Face Serum| with Vitamin C, Vitamin E and Herbal Extracts | Potent Antioxidant Protection, Nourishes, Brightens and Evens Skin 0.5 fl oz\nReview Date: 2020/10/20\nStore: MD Complete by Dr. Brian Zelickson\nAverage Rating: 4.2\nProduct Details: {'Skin Type': 'Acne Prone, Sensitive', 'Use for': 'Face', 'Scent': 'Aloe', 'Brand': 'MD Complete by Dr. Brian Zelickson', 'Item Form': 'Serum', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.05 x 1.63 x 3.75 inches; 4.97 Ounces', 'UPC': '850458005573'}\nReview Text: Not my favorite Vit C serum. While it supplies major moisture, my skin did not appreciate the thickness. When I woke up the first morning after using my face felt greasy. It didn't appear to have that sheer feeling of a clean moisturizer. Afterward, I applied the serum every other night. Four days later, I had breakouts on my nose. I have combination skin. This didn't work well for me, but I can see this working for those with severely dry skin.\nReview Title: Vitamin C Serum\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "MD Complete Bright & Healthy Vitamin C+ Vitalizing Face Serum| with Vitamin C, Vitamin E and Herbal Extracts | Potent Antioxidant Protection, Nourishes, Brightens and Evens Skin 0.5 fl oz\nMD Complete by Dr. Brian Zelickson\n{'Skin Type': 'Acne Prone, Sensitive', 'Use for': 'Face', 'Scent': 'Aloe', 'Brand': 'MD Complete by Dr. Brian Zelickson', 'Item Form': 'Serum', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.05 x 1.63 x 3.75 inches; 4.97 Ounces', 'UPC': '850458005573'}\nNot my favorite Vit C serum. While it supplies major moisture, my skin did not appreciate the thickness. When I woke up the first morning after using my face felt greasy. It didn't appear to have that sheer feeling of a clean moisturizer. Afterward, I applied the serum every other night. Four days later, I had breakouts on my nose. I have combination skin. This didn't work well for me, but I can see this working for those with severely dry skin.\nVitamin C Serum",
+  "profile": "**User Profile Summary:**\n\n- **Skin Type:** Prefers products catering to sensitive and acne-prone skin with combination characteristics.\n- **Product Preference:** Values serums but is cautious about thickness and moisture levels, indicating a preference for lightweight formulations that don\u2019t leave a greasy residue. \n- **Effectiveness:** Prioritizes products that provide hydration without causing breakouts or feeling heavy on the skin.\n- **Fragrance Sensitivity:** Responds positively to soothing scents like aloe, which suggests a preference for gentle and calming ingredients.\n- **Usage Patterns:** Leans towards using products consistently but may adjust frequency if adverse reactions occur, indicating attentiveness to skin reactions.\n- **Overall Satisfaction:** Evaluates products based on their performance and suitability for individual skin needs, showing a pragmatic approach to skincare. \n\nThis user appears to seek effective skincare solutions that align with their combination skin's sensitivities while remaining open to experimentation with formulations, albeit with caution.",
+  "metrics": {
+    "rouge1_f": 0.25,
+    "rouge2_f": 0.026490066225165563,
+    "rougeL_f": 0.1118421052631579,
+    "meteor": 0.12422360248447203,
+    "bleu1": 0.21249761052430555,
+    "bleu2": 0.05500860503837808,
+    "bleu3": 0.011302324375195641,
+    "bleu4": 0.005129833867240016,
+    "bertscore_precision": 0.4140394926071167,
+    "bertscore_recall": 0.44355905055999756,
+    "bertscore_f1": 0.4282912313938141
+  }
+}

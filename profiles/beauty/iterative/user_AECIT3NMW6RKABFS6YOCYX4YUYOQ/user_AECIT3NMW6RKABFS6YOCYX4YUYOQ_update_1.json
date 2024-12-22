@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Pine Gel Nail Polish Set Chameleon Shimmering Color and Black 7.5 ml LED UV Cured Soak Off Nail Gel for Nail Art Manicure\nReview Date: 2020/12/26\nStore: pine\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Pine', 'Item Form': 'Gel', 'Type': 'Gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Liquid Volume': '0.25 Fluid Ounces', 'Package Dimensions': '4.96 x 3.7 x 2.91 inches; 9.14 Ounces', 'UPC': '738628890993'}\nReview Text: These are fun colors. I love that each bottle has the color at the top of the cap. So often it's hard to find the color you're looking for. I got a couple of sets from this company, and they're all quality.\nReview Title: Love the colors, and that each bottle has the color on the top of the cap.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Pine Gel Nail Polish Set Chameleon Shimmering Color and Black 7.5 ml LED UV Cured Soak Off Nail Gel for Nail Art Manicure\npine\n{'Brand': 'Pine', 'Item Form': 'Gel', 'Type': 'Gel', 'Finish Type': 'Shimmery', 'Material Feature': 'Non-Toxic, Cruelty Free', 'Age Range (Description)': 'Adult', 'Unit Count': '1 Count', 'Number of Items': '1', 'Liquid Volume': '0.25 Fluid Ounces', 'Package Dimensions': '4.96 x 3.7 x 2.91 inches; 9.14 Ounces', 'UPC': '738628890993'}\nThese are fun colors. I love that each bottle has the color at the top of the cap. So often it's hard to find the color you're looking for. I got a couple of sets from this company, and they're all quality.\nLove the colors, and that each bottle has the color on the top of the cap.",
+  "profile": "**User Preference Summary:**\n\n- **Product Preference**: Enjoys gel nail polish sets, particularly those with vibrant and shimmering colors.\n- **Aesthetic Values**: Values practicality and design, appreciating product features like color indicators on packaging for ease of use.\n- **Quality Awareness**: Prioritizes quality in purchases, as reflected in positive experiences with products from the same brand.\n- **Conscious Choices**: Shows a preference for non-toxic and cruelty-free products, indicating an awareness of ethical considerations in beauty choices.\n- **Engagement Style**: After using multiple products from the same company, demonstrates brand loyalty based on satisfaction with past purchases. \n\nOverall, this user exhibits a clear inclination towards fun and practical beauty products, with an emphasis on quality and ethical standards.",
+  "metrics": {
+    "rouge1_f": 0.24096385542168677,
+    "rouge2_f": 0.048582995951417,
+    "rougeL_f": 0.15261044176706828,
+    "meteor": 0.12365591397849462,
+    "bleu1": 0.19269136120267344,
+    "bleu2": 0.044941379495836056,
+    "bleu3": 0.010212927845151454,
+    "bleu4": 0.004876362236490378,
+    "bertscore_precision": 0.4149332046508789,
+    "bertscore_recall": 0.442331999540329,
+    "bertscore_f1": 0.42819473147392273
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/05/14\nAverage Rating: 4.2\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrew Dunn', 'Daniel Elias', 'Dan Flaherty', 'Po Kutchins'], 'Producers': ['Andrew Dunn', 'Daniel Elias', 'Dan Flaherty', 'Po Kutchins', 'David Houts', 'Kendall Canner-Frulio', 'Danielle Birmingham', 'Anneliese Paull', 'Jenifer Lerman', 'Yuka Nishino'], 'Studio': ['A&E Television Networks']}\nReview Text: The show can be fun to watch except for the constant editing and replaying of scenes.  That becomes extremely annoying. I guess it is done to fill air time but it practically kills the show.\nReview Title: ParkingWarsFiller\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Andrew Dunn', 'Daniel Elias', 'Dan Flaherty', 'Po Kutchins'], 'Producers': ['Andrew Dunn', 'Daniel Elias', 'Dan Flaherty', 'Po Kutchins', 'David Houts', 'Kendall Canner-Frulio', 'Danielle Birmingham', 'Anneliese Paull', 'Jenifer Lerman', 'Yuka Nishino'], 'Studio': ['A&E Television Networks']}\nThe show can be fun to watch except for the constant editing and replaying of scenes.  That becomes extremely annoying. I guess it is done to fill air time but it practically kills the show.\nParkingWarsFiller",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Enjoys engaging and entertaining shows, particularly in the reality or documentary genre.\n- **Language:** Prefers content in English, indicating a focus on mainstream media.\n- **Viewing Experience:** Values a streamlined and cohesive viewing experience; dislikes excessive editing or repetition of scenes that detracts from the enjoyment of the show.\n- **Critical Assessments:** Tends to provide balanced reviews, appreciating entertaining aspects while also highlighting negative features that impact the overall experience.\n- **Engagement Style:** Engages through rating and written feedback, showcasing a reflective approach to evaluating content. \n\nOverall, the user leans towards shows that offer genuine entertainment but has a low tolerance for production techniques that disrupt the narrative flow.",
+  "metrics": {
+    "rouge1_f": 0.18085106382978725,
+    "rouge2_f": 0.03225806451612903,
+    "rougeL_f": 0.11702127659574468,
+    "meteor": 0.11008522727272728,
+    "bleu1": 0.15286624203821655,
+    "bleu2": 0.054219327032082,
+    "bleu3": 0.026668106602680115,
+    "bleu4": 0.010534500708128187,
+    "bertscore_precision": 0.4033688008785248,
+    "bertscore_recall": 0.4388800263404846,
+    "bertscore_f1": 0.420375794172287
+  }
+}

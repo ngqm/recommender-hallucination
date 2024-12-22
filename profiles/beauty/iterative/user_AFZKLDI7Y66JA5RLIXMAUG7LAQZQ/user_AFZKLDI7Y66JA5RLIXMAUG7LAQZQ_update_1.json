@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Eyelash Curler With Refill Pad Lash Curlers Tool ULG Travel Eye Lashes Clip Professional Stainless Steel Curled Cosmetic Makeup Accessory Rose Gold\nReview Date: 2018/09/15\nStore: ULG\nAverage Rating: 3.8\nProduct Details: {'Brand': 'ULG', 'Item Dimensions LxWxH': '2.6 x 5.1 x 1.7 inches', 'Operation Mode': 'Manual'}\nReview Text: Nice! Works as expected and comes with a whole lot of refills which is nice. Not that you need to replace them all that often.\nReview Title: Useful\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Eyelash Curler With Refill Pad Lash Curlers Tool ULG Travel Eye Lashes Clip Professional Stainless Steel Curled Cosmetic Makeup Accessory Rose Gold\nULG\n{'Brand': 'ULG', 'Item Dimensions LxWxH': '2.6 x 5.1 x 1.7 inches', 'Operation Mode': 'Manual'}\nNice! Works as expected and comes with a whole lot of refills which is nice. Not that you need to replace them all that often.\nUseful",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** The user shows a preference for cosmetic tools, particularly those related to eye makeup.\n- **Quality and Functionality:** Values products that perform well and meet expectations, as evidenced by their positive review despite the average rating.\n- **Supplemental Features:** Appreciates accessories that come with additional components, such as refill pads, indicating a tendency towards items that offer longevity or added value.\n- **Simplicity in Use:** Indicates a preference for manual operation tools that are straightforward and user-friendly.\n- **Aesthetic Appeal:** The choice of a rose gold color suggests an inclination towards stylish or trendy designs in beauty products.",
+  "metrics": {
+    "rouge1_f": 0.2754491017964072,
+    "rouge2_f": 0.03636363636363637,
+    "rougeL_f": 0.10778443113772454,
+    "meteor": 0.21470526709825163,
+    "bleu1": 0.10416666666666666,
+    "bleu2": 0.008534859274986487,
+    "bleu3": 0.0037156499714771866,
+    "bleu4": 0.0024559601634466122,
+    "bertscore_precision": 0.4325966238975525,
+    "bertscore_recall": 0.41195473074913025,
+    "bertscore_f1": 0.4220234453678131
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/18\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jerusha Hess'], 'Producers': ['Stephenie Meyer', 'Gina Mingacci'], 'Starring': ['Keri Russell', 'JJ Feild', 'Jennifer Coolidge'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nReview Text: It was cute - not as good as Lost in Austen but an enjoyable story.  Mr Nobley makes a good Darcy substitute.<br />I'd watch it again in the future.\nReview Title: Austen fans will be amused\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jerusha Hess'], 'Producers': ['Stephenie Meyer', 'Gina Mingacci'], 'Starring': ['Keri Russell', 'JJ Feild', 'Jennifer Coolidge'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nIt was cute - not as good as Lost in Austen but an enjoyable story.  Mr Nobley makes a good Darcy substitute.<br />I'd watch it again in the future.\nAusten fans will be amused",
+  "profile": "**User Summary:**\n\n- **Genre Preference:** Enjoys romantic comedies and adaptations, particularly those with a connection to classic literature.\n  \n- **Content Themes:** Shows an interest in stories containing elements of romance, humor, and nostalgia, with a preference for narratives featuring characters reminiscent of classic figures (e.g., Darcy).\n\n- **Rating Patterns:** Generally positive with a tendency to rate around 4.6 on average. Shows some critical discernment, as indicated by a lower score (3.0) for a specific title, suggesting a discerning taste within the genre.\n\n- **Audience Insight:** Appears to enjoy content that caters to a specific audience, particularly fans of Jane Austen and similar works. Values cute and lighthearted storytelling.\n\n- **Viewing Preferences:** Likely prefers movies that are rewatchable and have a charming or whimsical quality.\n\n- **Content Advisory Sensitivity:** Shows awareness and consideration of content advisories, indicating a preference for stories that handle mature themes delicately. \n\nOverall, this user is an Austen enthusiast with a penchant for romantic comedies that evoke nostalgia and charm, rating content thoughtfully with an appreciation for storytelling quality.",
+  "metrics": {
+    "rouge1_f": 0.12048192771084336,
+    "rouge2_f": 0.008097165991902834,
+    "rougeL_f": 0.05622489959839357,
+    "meteor": 0.11926605504587157,
+    "bleu1": 0.14285714285714285,
+    "bleu2": 0.007881104062391004,
+    "bleu3": 0.0030045507715215857,
+    "bleu4": 0.0018571669596866276,
+    "bertscore_precision": 0.39763835072517395,
+    "bertscore_recall": 0.37938442826271057,
+    "bertscore_f1": 0.3882969617843628
+  }
+}

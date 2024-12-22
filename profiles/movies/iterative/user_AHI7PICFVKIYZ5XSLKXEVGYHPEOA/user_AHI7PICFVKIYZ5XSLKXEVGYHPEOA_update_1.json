@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Jackass Presents: Bad Grandpa Extended Version\nReview Date: 2015/02/22\nCategories: Comedy, Feel-good, Outrageous, Fun\nProduct Description: ['Johnny Knoxville reprises his Jackass role as 86-year-old Irving Zisman in the story of a crotchety old man unexpectedly saddled with the care of his 8-year-old grandson Billy (Jackson Nicoll). Extended Version']\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Tremaine'], 'Producers': ['Johnny Knoxville', 'Spike Jonze', 'Jeff Tremaine', 'Derek Freda', 'Trip Taylor'], 'Starring': ['Johnny Knoxville']}\nReview Text: Terrible, stopped movie after 10 minutes.\nReview Title: One Star\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Jackass Presents: Bad Grandpa Extended Version\nComedy, Feel-good, Outrageous, Fun\n['Johnny Knoxville reprises his Jackass role as 86-year-old Irving Zisman in the story of a crotchety old man unexpectedly saddled with the care of his 8-year-old grandson Billy (Jackson Nicoll). Extended Version']\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeff Tremaine'], 'Producers': ['Johnny Knoxville', 'Spike Jonze', 'Jeff Tremaine', 'Derek Freda', 'Trip Taylor'], 'Starring': ['Johnny Knoxville']}\nTerrible, stopped movie after 10 minutes.\nOne Star",
+  "profile": "User Summary:\n\nThis user shows a clear preference for comedic content, particularly in formats that are outrageous and humorous. Despite an affinity for feel-good themes, their review indicates a strong intolerance for poorly executed comedy, as evidenced by their negative reaction to a specific film they found unwatchable within just 10 minutes. \n\nKey preferences and trends:\n- Enjoys comedy, especially outrageous and fun genres\n- Values well-produced content; dissatisfaction arises from low-quality storytelling or execution\n- Tends to rate experiences on a scale, demonstrating an appreciation for meaningful distinctions in quality\n- Rapidly disengages from content that fails to meet expectations, showcasing a preference for engaging and well-crafted storytelling \n\nOverall, the user values humor but is highly critical of execution, indicating a discerning taste in their comedic choices.",
+  "metrics": {
+    "rouge1_f": 0.12440191387559808,
+    "rouge2_f": 0.01932367149758454,
+    "rougeL_f": 0.07655502392344497,
+    "meteor": 0.10036122520952617,
+    "bleu1": 0.13380281690140847,
+    "bleu2": 0.04356503525160837,
+    "bleu3": 0.02384419700002942,
+    "bleu4": 0.009937641508571994,
+    "bertscore_precision": 0.375433087348938,
+    "bertscore_recall": 0.38598865270614624,
+    "bertscore_f1": 0.3806377053260803
+  }
+}

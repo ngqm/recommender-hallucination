@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Moyo Natural Labs 9 Piece 2 Oz Premium HDPE Travel Size bottle Reusable Travel Bottle Kit And Travel Jars With Fine Mist Spray Bottle BPA FREE travel accessories for women TSA Approved 2oz 59 ml\nReview Date: 2015/11/20\nStore: MoYo Natural Labs\nAverage Rating: 3.2\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4 x 4 x 4 inches; 1 Pounds', 'Item model number': '2OZHDPEWHITE9PC', 'Manufacturer': 'MoYo Natural Labs'}\nReview Text: This is an excellent set of small travel bottles!<br /><br />They are well constructed, and so far have not leaked a drop. I am confident in using these with any liquids; the last thing you want is leakage, and I do not expect to have any with this set.<br /><br />You get nine vessels to hold liquids with the set: 1 spary bottle, 3 squeeze bottles, and 5 small twist cap bottles.<br /><br />For an inexpensive set, this one really covers all of the bases. Highly recommended!\nReview Title: Excellent travel set for the money!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Moyo Natural Labs 9 Piece 2 Oz Premium HDPE Travel Size bottle Reusable Travel Bottle Kit And Travel Jars With Fine Mist Spray Bottle BPA FREE travel accessories for women TSA Approved 2oz 59 ml\nMoYo Natural Labs\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '4 x 4 x 4 inches; 1 Pounds', 'Item model number': '2OZHDPEWHITE9PC', 'Manufacturer': 'MoYo Natural Labs'}\nThis is an excellent set of small travel bottles!<br /><br />They are well constructed, and so far have not leaked a drop. I am confident in using these with any liquids; the last thing you want is leakage, and I do not expect to have any with this set.<br /><br />You get nine vessels to hold liquids with the set: 1 spary bottle, 3 squeeze bottles, and 5 small twist cap bottles.<br /><br />For an inexpensive set, this one really covers all of the bases. Highly recommended!\nExcellent travel set for the money!",
+  "profile": "**User Profile Summary:**\n\n- **Product Focus**: Emphasis on travel accessories and reusable containers.\n- **Preference for Quality**: Values well-constructed and leak-proof products, indicating a preference for reliability in functionality.\n- **Value for Money**: Strong inclination towards cost-effective purchases, appreciating multi-functional sets that provide various options in a single package.\n- **TSA Approval**: Concern for travel convenience and compliance, likely indicating frequent travel or a desire for hassle-free experiences.\n- **Rating Tendencies**: Displays a tendency to give higher ratings for products that meet or exceed expectations, particularly if they provide solid utility.\n- **Material Awareness**: Prefers BPA-free products, suggesting an interest in health-conscious and safe materials.\n\nOverall, this user shows a strong inclination toward practical, durable, and economical travel solutions, prioritizing functionality and quality in their purchases.",
+  "metrics": {
+    "rouge1_f": 0.21126760563380284,
+    "rouge2_f": 0.035460992907801414,
+    "rougeL_f": 0.10563380281690142,
+    "meteor": 0.11747617149600692,
+    "bleu1": 0.14387733843647246,
+    "bleu2": 0.04562708194038615,
+    "bleu3": 0.010032686671586744,
+    "bleu4": 0.00471125624887122,
+    "bertscore_precision": 0.4112909138202667,
+    "bertscore_recall": 0.4370083510875702,
+    "bertscore_f1": 0.4237598180770874
+  }
+}

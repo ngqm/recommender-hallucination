@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/04/13\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Morten Tyldum'], 'Producers': ['Nora Grossman', 'Ido Ostrowsky', 'Teddy Schwarzman', 'Peter Heslop'], 'Starring': ['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode'], 'Studio': ['Lionsgate']}\nReview Text: One of my favorite films!\nReview Title: Great Film -WWII\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Lehmann'], 'Producers': ['Sean Bradley', 'Chris Dowling', 'Alex Lehmann'], 'Starring': ['New Michael Ingemi', 'Noah Britton', 'Ethan Finlan'], 'Studio': ['Punny Films LLC']}\nIt was nice people who has Asperger's working & functioning at a high level of jobs, relationships, etc.  It would have been nice to have more details on their journey.\nGood Watch\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Morten Tyldum'], 'Producers': ['Nora Grossman', 'Ido Ostrowsky', 'Teddy Schwarzman', 'Peter Heslop'], 'Starring': ['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode'], 'Studio': ['Lionsgate']}\nOne of my favorite films!\nGreat Film -WWII",
+  "profile": "**User Profile Summary:**\n\n**Genuine Preferences:**\n- Enjoys content that explores personal struggles and achievements, particularly related to neurodiversity.\n- Prefers narratives featuring realistic portrayals of individuals with Asperger's, focusing on positive representations in professional and social contexts.\n- Appreciates films and stories set against significant historical backdrops, particularly those that are impactful and well-executed.\n\n**Behavior Patterns:**\n- Reviews products with thoughtful feedback, indicating a balance between personal enjoyment and critique.\n- Engages with material that includes mature themes, such as foul language, alcohol use, and sexual content, suggesting comfort with complex narratives.\n- Values detailed storytelling with insights into character journeys and personal development, indicating a preference for depth over superficial narratives.\n- Tends to rate content positively, reflecting an appreciation for artistic quality while also expressing critiques for potential improvements.\n\n**Trends:**\n- Shows a tendency to rate content based on personal relatability and representation, while also recognizing the historical significance of themes.\n- Exhibits a critical eye for detail in the portrayal of diverse experiences and narratives, spotlighting the importance of authenticity.\n- Recently rated a film highly, demonstrating a strong affinity for well-crafted stories, especially those set during WWII, which aligns with past behaviors of valuing both emotional depth and historical relevance.",
+  "metrics": {
+    "rouge1_f": 0.13548387096774195,
+    "rouge2_f": 0.025974025974025972,
+    "rougeL_f": 0.07741935483870967,
+    "meteor": 0.08104422797085578,
+    "bleu1": 0.132,
+    "bleu2": 0.023024345418007238,
+    "bleu3": 0.005979170912617369,
+    "bleu4": 0.003050046689612291,
+    "bertscore_precision": 0.38762080669403076,
+    "bertscore_recall": 0.3979097604751587,
+    "bertscore_f1": 0.39269790053367615
+  }
+}

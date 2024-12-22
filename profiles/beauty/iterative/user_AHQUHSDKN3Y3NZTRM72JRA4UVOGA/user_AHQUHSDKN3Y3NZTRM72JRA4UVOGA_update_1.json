@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Aubss 20Pcs Colors Gel Nail Polish Kit with Glossy & Matte Top Coat and 2Pcs Base Coat, Rainbow Colors Skin Tones Yellow Red Gel Polish for All Reason, Gel Nail Kit for Women Girls Christmas Gift\nReview Date: 2022/02/07\nStore: AUBSS\nAverage Rating: 4.1\nProduct Details: {'Brand': 'AUBSS', 'Item Form': 'Gel', 'Color': '003', 'Type': 'Gel', 'Finish Type': 'Matte,Glossy', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Number of Items': '25', 'Item Dimensions LxWxH': '7.87 x 5.51 x 2.76 inches', 'Product Dimensions': '7.87 x 5.51 x 2.76 inches; 2.08 Ounces', 'Manufacturer': 'AUBSS'}\nReview Text: I love the variety of this set. I have 2 daughters but also many nieces and they love having nail salon parties. This set gives me not only the base and top coats but also a HUGE variety of colors to choose from. Polish goes on great and looks perfect!\nReview Title: Gorgeous colors!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Aubss 20Pcs Colors Gel Nail Polish Kit with Glossy & Matte Top Coat and 2Pcs Base Coat, Rainbow Colors Skin Tones Yellow Red Gel Polish for All Reason, Gel Nail Kit for Women Girls Christmas Gift\nAUBSS\n{'Brand': 'AUBSS', 'Item Form': 'Gel', 'Color': '003', 'Type': 'Gel', 'Finish Type': 'Matte,Glossy', 'Age Range (Description)': 'Adult', 'Unit Count': '1.00 Count', 'Number of Items': '25', 'Item Dimensions LxWxH': '7.87 x 5.51 x 2.76 inches', 'Product Dimensions': '7.87 x 5.51 x 2.76 inches; 2.08 Ounces', 'Manufacturer': 'AUBSS'}\nI love the variety of this set. I have 2 daughters but also many nieces and they love having nail salon parties. This set gives me not only the base and top coats but also a HUGE variety of colors to choose from. Polish goes on great and looks perfect!\nGorgeous colors!",
+  "profile": "User Summary:\n\n- **Family-Oriented**: The user shows a preference for products that can be enjoyed in a social or family setting, particularly with daughters and nieces, indicating a focus on activities that promote bonding and fun.\n\n- **Variety Preference**: A strong appreciation for a wide range of color options is evident, suggesting that the user values diversity in choices for creativity.\n\n- **Quality and Performance**: The user emphasizes satisfaction with the application and finish of the product, indicating a preference for high-quality items that perform well.\n\n- **Nail Art Enthusiast**: The interest in nail salon parties indicates a passion for nail care and beauty, suggesting that this user might regularly participate in or host similar events.\n\n- **Gift Consideration**: The mention of purchasing for a holiday gift suggests that the user values products that are suitable for gifting, indicating a thoughtful approach to selections.\n\nOverall, the user profile reflects a creative, family-oriented individual who values quality, variety, and social experiences related to beauty and self-care.",
+  "metrics": {
+    "rouge1_f": 0.20915032679738563,
+    "rouge2_f": 0.01973684210526316,
+    "rougeL_f": 0.1111111111111111,
+    "meteor": 0.1509133319226308,
+    "bleu1": 0.20772946859903382,
+    "bleu2": 0.04490869578680918,
+    "bleu3": 0.02142737686818112,
+    "bleu4": 0.008333342165317326,
+    "bertscore_precision": 0.3860856890678406,
+    "bertscore_recall": 0.4119395613670349,
+    "bertscore_f1": 0.39859381318092346
+  }
+}

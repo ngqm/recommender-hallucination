@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Growom Garden Hose Nozzle 4 Adjustable Spray Patterns Garden Sprayer Heavy Duty Metal Hose Nozzle with 3 Washers for Gardening, Car Washing, Pet Bathing and General Cleaning\nReview Date: 2019/09/13\nStore: Growom\nAverage Rating: 3.1\nProduct Details: {'Brand': 'Growom', 'Finish Type': 'Polished', 'Material': 'Heavy,Metal', 'Handle Type': 'Lever', 'Package Dimensions': '8.3 x 4.6 x 1.7 inches; 1.15 Pounds'}\nReview Text: This nozzle is super built to last. It\u2019s rather heavy but I know it will withstand the much abuse. My only worry is we have hard water and sometimes that eats away at our nozzles over time. Great product that will last though!\nReview Title: Super heavy duty\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Growom Garden Hose Nozzle 4 Adjustable Spray Patterns Garden Sprayer Heavy Duty Metal Hose Nozzle with 3 Washers for Gardening, Car Washing, Pet Bathing and General Cleaning\nGrowom\n{'Brand': 'Growom', 'Finish Type': 'Polished', 'Material': 'Heavy,Metal', 'Handle Type': 'Lever', 'Package Dimensions': '8.3 x 4.6 x 1.7 inches; 1.15 Pounds'}\nThis nozzle is super built to last. It\u2019s rather heavy but I know it will withstand the much abuse. My only worry is we have hard water and sometimes that eats away at our nozzles over time. Great product that will last though!\nSuper heavy duty",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference**: Favorable towards heavy-duty, durable gardening tools and accessories.\n- **Material Preference**: Strong affinity for metal materials, indicating a desire for longevity and sturdiness in products.\n- **Concern for Durability**: Values products that withstand wear and tear, with an expressed concern about the effects of hard water, showcasing a pragmatic approach to gardening equipment.\n- **Versatility**: Interested in tools that cater to multiple uses (gardening, car washing, pet bathing), suggesting a preference for multifunctional products.\n- **Overall Satisfaction**: While the user rated the product positively, they expressed a greater concern for its performance in specific conditions (e.g., hard water), indicating a thoughtful and critical approach to product evaluation.\n- **Review Behavior**: Engages in product reviews, sharing experiences that reflect both positive attributes and concerns, promoting informed decisions for themselves and others.\n\nOverall, the user demonstrates a clear inclination towards quality, heavy-duty products that offer versatility while being mindful of their environmental and usage conditions.",
+  "metrics": {
+    "rouge1_f": 0.19531250000000003,
+    "rouge2_f": 0.06299212598425197,
+    "rougeL_f": 0.1328125,
+    "meteor": 0.17373510935015507,
+    "bleu1": 0.1232876712328767,
+    "bleu2": 0.023781080217214683,
+    "bleu3": 0.0063875523717981265,
+    "bleu4": 0.0033142664282205777,
+    "bertscore_precision": 0.4276871085166931,
+    "bertscore_recall": 0.4147488474845886,
+    "bertscore_f1": 0.4211186170578003
+  }
+}

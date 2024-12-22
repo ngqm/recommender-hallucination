@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/05/02\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Favreau'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle'], 'Studio': ['Marvel']}\nReview Text: Just watch it.\nReview Title: Loved it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Jon Favreau'], 'Producers': ['Kevin Feige'], 'Starring': ['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle'], 'Studio': ['Marvel']}\nJust watch it.\nLoved it.",
+  "profile": "**User Summary:**\n\n- **Media Preference**: Enjoys content produced by major studios, particularly Marvel.\n- **Genre**: Likely favors superhero films or action-adventure genres.\n- **Language**: Prefers English audio and appreciates options like audio description for accessibility.\n- **Viewing Experience**: Values high-quality productions, indicated by the positive rating.\n- **Engagement Style**: Engages with content simply, using concise expressions of enjoyment (\"Just watch it\", \"Loved it\").\n- **Rating Pattern**: Tends to rate highly (average rating of 4.7), suggesting a positive outlook on most viewed content.\n\nOverall, this user demonstrates a strong preference for blockbuster films with well-known actors and top-tier production values, favoring clear and engaging storytelling.",
+  "metrics": {
+    "rouge1_f": 0.1954887218045113,
+    "rouge2_f": 0.0916030534351145,
+    "rougeL_f": 0.13533834586466165,
+    "meteor": 0.18941528936369473,
+    "bleu1": 0.12422360248447208,
+    "bleu2": 0.04826170890658402,
+    "bleu3": 0.024468241358346573,
+    "bleu4": 0.009812683586863486,
+    "bertscore_precision": 0.4412301182746887,
+    "bertscore_recall": 0.3707291781902313,
+    "bertscore_f1": 0.4029189348220825
+  }
+}

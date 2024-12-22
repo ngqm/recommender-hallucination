@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brown & Blonde Highlight Tape in Human Hair Extensions Long Straight Seamless Skin Weft Hair Invisible Double Sided Tape 20pcs 30g+10pcs Extra Tapes Medium Brown mixed Dark Blonde #4-27 18inch\nReview Date: 2020/05/27\nStore: Benehair\nAverage Rating: 3.6\nProduct Details: {'Brand': 'Benehair', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Tape-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.5 x 7 x 0.6 inches; 3.2 Ounces', 'UPC': '765951854224'}\nReview Text: The hair is really itchy. It does not feel like human hair. Gave me a horrible rash on my face and neck\nReview Title: Not human\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Brown & Blonde Highlight Tape in Human Hair Extensions Long Straight Seamless Skin Weft Hair Invisible Double Sided Tape 20pcs 30g+10pcs Extra Tapes Medium Brown mixed Dark Blonde #4-27 18inch\nBenehair\n{'Brand': 'Benehair', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Straight', 'Installation Type': 'Tape-In', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.5 x 7 x 0.6 inches; 3.2 Ounces', 'UPC': '765951854224'}\nThe hair is really itchy. It does not feel like human hair. Gave me a horrible rash on my face and neck\nNot human",
+  "profile": "**User Profile Summary:**\n\n- **Product Type**: Prefers hair extensions, particularly tape-in styles.\n- **Material Sensitivity**: Has a strong preference for genuine human hair but had a negative experience with quality, indicating sensitivity to material authenticity. \n- **Quality Expectations**: Expects high quality and natural feel; dissatisfied with products that feel synthetic or cause skin irritation.\n- **Length Preference**: Interested in 18-inch extensions, indicating a preference for longer styles.\n- **Comfort Level**: Values comfort and wearability, as evident from the reaction to itchiness and rash.\n- **Overall Satisfaction**: Experienced dissatisfaction with a previous purchase, which may influence future purchasing decisions; indicates a cautious approach to similar products moving forward. \n- **Rating Trends**: Previous ratings suggest a tendency toward lower satisfaction when expectations are not met.\n\nThis profile reflects a customer seeking high-quality, comfortable hair extensions, with an aversion to products that do not live up to promised standards of authenticity and comfort.",
+  "metrics": {
+    "rouge1_f": 0.19327731092436976,
+    "rouge2_f": 0.0423728813559322,
+    "rougeL_f": 0.11764705882352941,
+    "meteor": 0.13983371126228272,
+    "bleu1": 0.14009661835748793,
+    "bleu2": 0.026078356382991063,
+    "bleu3": 0.006922593926401426,
+    "bleu4": 0.0035710349517264557,
+    "bertscore_precision": 0.4185304641723633,
+    "bertscore_recall": 0.4064604938030243,
+    "bertscore_f1": 0.41240715980529785
+  }
+}

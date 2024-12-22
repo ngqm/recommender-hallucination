@@ -1,0 +1,66 @@
+{
+  "interaction_number": 13,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2022/10/23\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Kendrick'], 'Producers': ['Stephen Kendrick'], 'Starring': ['Karen Abercrombie', 'Priscilla Shirer', 'T.C. Stallings'], 'Studio': ['TriStar Pictures']}\nReview Text: Great movie\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Steve McQueen'], 'Producers': ['Iain Canning', 'Emile Sherman', 'Steve McQueen', 'Arnon Milchan'], 'Starring': ['Viola Davis', 'Michelle Rodriguez', 'Elizabeth Debicki'], 'Studio': ['20th Century Fox']}\nThis movie was awesome and worth the buy!!!\nMovie was worth the buy\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Steven Soderbergh'], 'Producers': ['Jerry Weintraub'], 'Starring': ['George Clooney', 'Brad Pitt', 'Matt Damon'], 'Studio': ['Warner Bros.']}\nI\u2019m behind the ball here so I\u2019m just watching this for the first time!! Great showing!!!\nGreat movie\nLine Sisters\nSuspense, Comedy, Horror, Drama\n['Four sorority sisters reunite at a Black Greek Weekend celebration held on the Outer Banks of North Carolina. Having pledged the Alpha Beta Omega Sorority, Inc., they share more than the bonds of sisterhood, after the mysterious death of the dean of pledges 15 years prior. But the past comes knocking on their door as they arrive to the island.']\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Big Dreams Entertainment', 'LLC'], 'Producers': ['David Eubanks', 'Leslie Greif', 'Regina McLeod', 'Tiayoka McMillan', \"D'Angela Proctor\", 'Kelly R. Tenney', 'Eric Tomosunas']}\nThe movie was corny but I still watched it lol\nThe movie was corny\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nLove this show!!!! I had a issue with my Hulu so I had to buy it here!!!!\nLove!!!!!\nHostel\nHorror, Suspense, Eerie, Frightening\n['Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.']\n{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Eli Roth'], 'Producers': ['Eli Roth', 'Mike Fleiss'], 'Starring': ['Jan Vlasak', 'Jay Hernandez', 'Derek Richardson']}\nThis is still a crazy movie!!! It\u2019s not for the weak\nGot this to show my daughter\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Quentin Tarantino'], 'Producers': ['Lawrence Bender'], 'Starring': ['Uma Thurman', 'David Carradine', 'Michael Madsen'], 'Studio': ['Miramax', 'LLC']}\nI just love to watch this!!! This is my favorite movie!!!!\nMy favorite movie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jake Kasdan'], 'Producers': ['Matt Tolmach', 'Dwayne Johnson', 'Dany Garcia', 'Hiram Garcia'], 'Starring': ['Dwayne Johnson', 'Kevin Hart', 'Jack Black'], 'Studio': ['SONY PICTURES ENTERTAINMENT', 'INC.']}\nThis movie was so funnnyyyy\nThis movie was so funny\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kat Candler', 'DeMane Davis', 'Lauren Wolkstein', 'Shaz Bennett', 'Cheryl Dunye', 'Cierra Glaude', 'Ava DuVernay', 'Aurora Guerrero', 'Patricia Cardoso', 'Stacey Muhammad'], 'Producers': ['Not Specified'], 'Starring': ['Rutina Wesley', 'Dawn-Lyen Gardner', 'Kofi Siriboe']}\nHad to keep up on it\nLove this show\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]']}\nI had to keep up on it\nLove this show\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Malcolm D. Lee'], 'Producers': ['Sean Daniel', 'Malcolm Lee', 'Preston Holmes'], 'Starring': ['Morris Chestnut', 'Taye Diggs', 'Regina Hall'], 'Studio': ['Universal Pictures']}\nI always cry on this movie\nFav movie\n{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['David Koepp'], 'Producers': ['Gavin Polone'], 'Starring': ['Johnny Depp', 'John Turturro', 'Maria Bello'], 'Studio': ['Columbia Pictures']}\nClassic movie\nClassic\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Destin Daniel Cretton'], 'Producers': ['Gil Netter', 'Asher Goldstein', 'Michael B. Jordan'], 'Starring': ['Michael B. Jordan', 'Jamie Foxx', 'Brie Larson'], 'Studio': ['WARNER BROS.']}\nGreat movie\nLove this\n{'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Alex Kendrick'], 'Producers': ['Stephen Kendrick'], 'Starring': ['Karen Abercrombie', 'Priscilla Shirer', 'T.C. Stallings'], 'Studio': ['TriStar Pictures']}\nGreat movie\nGreat movie",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Great movie",
+    "text": "Great movie",
+    "images": [],
+    "asin": "B017OJL48G",
+    "parent_asin": "B017OJL48G",
+    "user_id": "AFXESPMI2UOV576PAKEUOP3534EQ",
+    "timestamp": "2022-10-23 22:04:58.171000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.9,
+    "rating_number": 39799,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX360_FMwebp_.jpg",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX480_FMwebp_.jpg",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX720_FMwebp_.jpg",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX1080_FMwebp_.jpg",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX1440_FMwebp_.jpg",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f22b53fb2315ae0001d02556d8f88b32db6112952de46b335273005bc9ca608._RI_TTW_SX1920_FMwebp_.jpg",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Audio languages": [
+        "English Dialogue Boost: High",
+        "English",
+        "English [Audio Description]",
+        "English Dialogue Boost: Medium"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Alex Kendrick"
+      ],
+      "Producers": [
+        "Stephen Kendrick"
+      ],
+      "Starring": [
+        "Karen Abercrombie",
+        "Priscilla Shirer",
+        "T.C. Stallings"
+      ],
+      "Studio": [
+        "TriStar Pictures"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

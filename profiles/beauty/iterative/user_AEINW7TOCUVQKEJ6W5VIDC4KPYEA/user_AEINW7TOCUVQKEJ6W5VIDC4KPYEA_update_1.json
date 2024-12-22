@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Avon Outspoken Party! By Fergie 1.7 Fl. Oz.\nReview Date: 2017/04/03\nAverage Rating: 4.2\nProduct Details: {'Item Volume': '1.7 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Item Weight': '0.82 Pounds', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.28 x 4.72 x 3.39 inches; 13.05 Ounces', 'Item model number': 'result.feed.gl_beauty-part_number', 'UPC': '888761070070'}\nReview Text: Smells average. Ordinary. Fergies best perfume is Viva. Forget about all the others.\nReview Title: Nothing special or unique.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Avon Outspoken Party! By Fergie 1.7 Fl. Oz.\n{'Item Volume': '1.7 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Item Weight': '0.82 Pounds', 'Number of Items': '1', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '2.28 x 4.72 x 3.39 inches; 13.05 Ounces', 'Item model number': 'result.feed.gl_beauty-part_number', 'UPC': '888761070070'}\nSmells average. Ordinary. Fergies best perfume is Viva. Forget about all the others.\nNothing special or unique.",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** The user seems to prefer distinctive and unique scents, expressing disappointment in the reviewed product due to its \"average\" smell and describing it as \"ordinary.\"\n- **Brand Affinity:** The mention of a favorite product indicates a likelihood to favor specific brands, particularly highlighting past experiences with one that stood out more positively.\n- **Rating Behavior:** The user\u2019s rating of 2.0 reflects a critical perspective, suggesting they have high expectations for quality and uniqueness in fragrances, leading them to be less forgiving of products that do not meet these criteria.\n- **Review Insight:** The language used in the review conveys a discerning taste, where the user is not easily swayed by marketing or celebrity endorsements and values exceptional fragrance experiences over mediocrity.\n\nThis initial profile suggests that the user is someone who appreciates distinct and high-quality fragrances, demonstrating a preference for products that provide a unique sensory experience.",
+  "metrics": {
+    "rouge1_f": 0.11403508771929824,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05263157894736842,
+    "meteor": 0.11226944667201283,
+    "bleu1": 0.11340206185567012,
+    "bleu2": 0.00766534702429954,
+    "bleu3": 0.003127909202016872,
+    "bleu4": 0.0020007013329493978,
+    "bertscore_precision": 0.40331509709358215,
+    "bertscore_recall": 0.38643860816955566,
+    "bertscore_f1": 0.39469653367996216
+  }
+}

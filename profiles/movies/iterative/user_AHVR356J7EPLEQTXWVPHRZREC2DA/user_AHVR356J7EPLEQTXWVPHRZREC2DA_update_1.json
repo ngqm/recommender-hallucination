@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/02/14\nAverage Rating: 4.9\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nReview Text: Don't get me wrong, I like DA very much. Who would not like Maggie Smith's character, or the beautiful daughters or the British accent. But in in the end this is just another melodrama. Only a very fine one. Enjoy while it lasts.\nReview Title: Top Level Telenovela\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Percival', 'Andy Goddard', 'Jeremy Webb', 'David Evans'], 'Producers': ['Liz Trubridge', 'Gareth Neame', 'Julian Fellowes', 'Rebecca Eaton'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nDon't get me wrong, I like DA very much. Who would not like Maggie Smith's character, or the beautiful daughters or the British accent. But in in the end this is just another melodrama. Only a very fine one. Enjoy while it lasts.\nTop Level Telenovela",
+  "profile": "The user exhibits a preference for high-quality television dramas, particularly those with strong character development and British accents. Their enjoyment of content featuring well-known actors suggests an appreciation for established talent. The user's positive rating indicates a tendency to favor entertainment that is emotionally engaging, despite acknowledging genre conventions like melodrama. \n\nKeywords that reflect this individual's preferences include:\n- Quality drama\n- Strong characters\n- British television\n- Emotional engagement\n- Recognizable talent\n\nWhile recognizing flaws or overused themes within certain genres, the user balances critique with appreciation, highlighting an analytical viewing style. They value content that provides a rich storytelling experience and wish to enjoy it for its aesthetic and narrative quality. \n\nOverall, the user seems to enjoy sophisticated narratives that blend personal stories with cultural or historical elements, indicating a preference for storytelling that is both engaging and reflective.",
+  "metrics": {
+    "rouge1_f": 0.16239316239316237,
+    "rouge2_f": 0.008620689655172414,
+    "rougeL_f": 0.07692307692307691,
+    "meteor": 0.09291521486643436,
+    "bleu1": 0.14850389611592607,
+    "bleu2": 0.02921780753622016,
+    "bleu3": 0.007904745192369195,
+    "bleu4": 0.0041182748074539985,
+    "bertscore_precision": 0.3745737671852112,
+    "bertscore_recall": 0.39799508452415466,
+    "bertscore_f1": 0.3859294056892395
+  }
+}

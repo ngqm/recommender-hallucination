@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance\nReview Date: 2019/12/27\nStore: Bargz\nAverage Rating: 4.3\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'Package Dimensions': '7.5 x 4 x 0.2 inches; 4 Ounces', 'UPC': '781772913728'}\nReview Text: Very nice smell.\nReview Title: Smells good and I use it in my burner works very well\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Envy Women Perfume, Blush, 60ml\nEnvy\n{}\nThis perfume is AMAZING , Smells great.\nHow it smells\n4 oz - Bargz Perfume - Mambo Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'UPC': '795827859985 781772914626'}\ngreat.\ngreat\n1 oz, Dark Brown - Bargz Perfume - Kush Type Body Oil Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '1 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult'}\nWill order more.\ngreat\n4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'Package Dimensions': '7.5 x 4 x 0.2 inches; 4 Ounces', 'UPC': '781772913728'}\nVery nice smell.\nSmells good and I use it in my burner works very well",
+  "profile": "**Updated User Profile Summary:**\n\n- **Fragrance Preferences:** The user continues to favor floral and sweet scents, with a notable interest in scented body oils, highlighting their exploration into diverse fragrance formats. Their recent purchase suggests an ongoing fascination with body oils as a preferable expression of fragrance.\n\n- **Product Sentiment:** The user consistently showcases satisfaction with their chosen products, emphasizing quality and sensory appeal. Their positive experience with a newly acquired body oil underscores their enthusiasm and adaptability in fragrance exploration.\n\n- **Rating Behavior:** The user frequently assigns maximum ratings (5.0) to products they enjoy, reflecting a discerning taste and an avid appreciation for well-crafted scents. They maintain a commitment to supporting products that align with their positive sensory experiences.\n\n- **Emotional Engagement:** Enthusiastic and affirming language is a hallmark of their reviews, showcasing a strong emotional connection to the fragrances they select.\n\n- **Shopping Behavior:** They actively pursue high-quality, well-reviewed fragrance items, displaying a continued preference for premium selections. This trend is reinforced by their ongoing interest in body oils, indicating a broader fragrance exploration beyond traditional perfumes.\n\n- **Overall Trend:** The user demonstrates a consistent appreciation for sensory experiences that are both delightful and of exceptional quality. They are evolving their fragrance journey by embracing new formats and scents, particularly in the realm of body oils.",
+  "metrics": {
+    "rouge1_f": 0.13736263736263735,
+    "rouge2_f": 0.016574585635359115,
+    "rougeL_f": 0.08241758241758243,
+    "meteor": 0.09972078181092942,
+    "bleu1": 0.12000000000000001,
+    "bleu2": 0.0066178259600835855,
+    "bleu3": 0.002522063471600286,
+    "bleu4": 0.0015583850851130475,
+    "bertscore_precision": 0.3723236620426178,
+    "bertscore_recall": 0.36629217863082886,
+    "bertscore_f1": 0.3692832589149475
+  }
+}

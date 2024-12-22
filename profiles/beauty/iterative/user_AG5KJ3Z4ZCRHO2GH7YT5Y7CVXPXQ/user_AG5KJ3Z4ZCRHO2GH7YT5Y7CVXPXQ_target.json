@@ -1,0 +1,44 @@
+{
+  "interaction_number": 8,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Paper Bidet (On Sale!)- Flushable, Unscented Moist Toilet Wipes 20ctNEW\nReview Date: 2016/10/31\nAverage Rating: 2.7\nProduct Details: {'Unit Count': '20.0 Count', 'Number of Items': '1', 'Age Range (Description)': 'Adult', 'Item Form': 'Wipes', 'Scent': 'Unscented', 'Package Dimensions': '6.1 x 2.9 x 1.6 inches; 4.8 Ounces'}\nReview Text: These are awesome! Perfect size for travel and camping!\nReview Title: Great deal!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HANA Organic Skincare - Organic/Vegan Lavender Grains Facial Cleanser + Exfoliator\nHANA Organic Skincare\n{'Brand': 'HANA Organic Skincare', 'Item Form': 'Grain', 'Skin Type': 'Acne Prone', 'Product Benefits': 'Cleansing', 'Material Feature': 'Certified Organic, Vegan', 'Package Dimensions': '5 x 3 x 3 inches; 9.6 Ounces', 'UPC': '632709431672'}\nVery gentle but effective! I love beauty products that are natural and non- irritating (a must for sensitive skin!). This mixes into the paste well and doesn't clump. Also, it rinses well and leaves no residue on the skin. However, my only wish is it came in other scents. While I like lavender, and lavender as an ingredient, its not one of my favorite scents. Overall though this works really well (especially on combination skin).\nVery gentle, works good!\nWorker B - Organic Dawn Facial Serum (Morning Serum)\nWorker B\n{'Package Dimensions': '5 x 1.5 x 1.4 inches; 4.64 Ounces'}\nI'm reviewing both the Night and Day Serums as they seem to work best in conjunction ( Obviously). I have been using these (Day and Night Serum) for a short time now. While I haven\u2019t seen a difference in deep wrinkles I have seen a diminished fine lines, puffiness, and dull skin. I received them as a sample in exchange for an honest review. I thought because of this I would see no results, I was pleasantly surprised. It goes on easy/ smooth and has a light pleasant scent. It absorbs fast and doesn't leave a residue.I have been adding them to my daily skincare regimen I will continue to use it and see if it helps with the wrinkles. Lastly, I love natural ingredients!\nGood stuff!\nTown & Anchor - Natural Activated Charcoal Detoxifying Facial Cleanser\nTown & Anchor\n{'Brand': 'Town & Anchor', 'Unit Count': '4.0 Ounce', 'Item Package Quantity': '1', 'Package Dimensions': '7.2 x 4.6 x 4.4 inches; 11.2 Ounces'}\nI have been using this for a short time now. I have seen diminished fine line and large pores, my skin feels clean but not stripped or dry, and doesn't irritate my sensitive skin. I received this as a TEST in exchange for an honest review. I thought because of this I would see no results, I was pleasantly surprised. It goes on easy/ smooth, is easy to use and has a light pleasant scent. I have been adding it to my daily skincare regimen.\nAWESOMENESS!\nGraydon [Clinical Luxury] - Natural Super Dry Skin Kit\n{'Package Dimensions': '4.6 x 4.3 x 4.2 inches; 8 Ounces', 'UPC': '632709438381'}\nGreydon skin kit (I actually received them individual- Element Sun Compl., Rich Berry Eye, The Putty, Hair Smoothie ) I have been using all these for a short time now. While I haven\u2019t seen a difference dramatically, BUT I do have very sensitive skin and found relief with this so far, which is AMAZING!. They all go on easy/ smooth and have light pleasant scents. I have been adding them to my daily skincare regimen I will continue to use it and see if it helps (additionally I will have my daughter who has problem with non-natural products test it as well).\nworks good!\nShamanuti - Organic Pumpkin Enzyme Masque (4 fl oz / 118 ml)\nShamanuti \u00a9\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.9 x 2.3 x 1.8 inches; 5.6 Ounces', 'UPC': '632709443323'}\nI do like Shamanuti products, they smell great and normally work really well. However this on did dry my skin and it felt burnt after use. I'm not sure what it is that bothered my skin but I cannot use this one.\nnot for me\nschaf - All Natural/Vegan Nutritive Daily Moisturizer (1.7 oz / 50 ml)\nschaf\n{'Brand': 'Schaf', 'Item Form': 'Cream', 'Unit Count': '1.7 Ounce', 'Number of Items': '1', 'Skin Type': 'All', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '5.5 x 1.9 x 1.8 inches; 1.7 Ounces', 'UPC': '794168314498 741755519958'}\nI just discovered Schaf products, and all I can say is they are AMAZING!!!! THEY WORK SO WELL! I love the natural and gentle ingredients! This has a nice light scent, applies well, and leaves skin moisturized and soft!\nNew fave'\nschaf - All Natural / Vegan White Lava Purifying Scrub (3.38 oz / 100 ml)\nschaf\n{'Brand': 'Schaf', 'Item Volume': '120 Milliliters', 'Unit Count': '4.0 Ounce', 'Package Dimensions': '4.3 x 1.9 x 1.9 inches; 0.35 Ounces', 'UPC': '741755519941 798167134477'}\nI discovered Schaf products just recently and I'm totally in love! I love the fact that these are natural AND vegan! They work well without the harsh chemicals. This scrub is perfect for me, nice light scent, not-over-drying, scrubs just enough to clean but not irritate the skin, and rinses clean without any film/ residue left.\nNew fave' scrub!\nPaper Bidet (On Sale!)- Flushable, Unscented Moist Toilet Wipes 20ctNEW\n{'Unit Count': '20.0 Count', 'Number of Items': '1', 'Age Range (Description)': 'Adult', 'Item Form': 'Wipes', 'Scent': 'Unscented', 'Package Dimensions': '6.1 x 2.9 x 1.6 inches; 4.8 Ounces'}\nThese are awesome! Perfect size for travel and camping!\nGreat deal!",
+  "actual_interaction": {
+    "rating": 5.0,
+    "title": "Great deal!",
+    "text": "These are awesome! Perfect size for travel and camping!",
+    "images": [],
+    "asin": "B01EU00VHM",
+    "parent_asin": "B01EU00VHM",
+    "user_id": "AG5KJ3Z4ZCRHO2GH7YT5Y7CVXPXQ",
+    "timestamp": "2016-10-31 01:42:16",
+    "helpful_vote": 0,
+    "verified_purchase": false,
+    "main_category": "All Beauty",
+    "title_meta": "Paper Bidet (On Sale!)- Flushable, Unscented Moist Toilet Wipes 20ctNEW",
+    "average_rating": 2.7,
+    "rating_number": 13,
+    "features": [],
+    "description": [],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31hhvF36q4L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31hhvF36q4L.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/61zZJAKWYWL._SL1500_.jpg"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": [],
+    "details": {
+      "Unit Count": "20.0 Count",
+      "Number of Items": "1",
+      "Age Range (Description)": "Adult",
+      "Item Form": "Wipes",
+      "Scent": "Unscented",
+      "Package Dimensions": "6.1 x 2.9 x 1.6 inches; 4.8 Ounces"
+    },
+    "bought_together": null
+  }
+}

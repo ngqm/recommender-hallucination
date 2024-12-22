@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10 Pack Wide Headbands, 4 Style knot Turban Hairband Vintage Head wrap Hair Band Elastic Hair Accessories\nReview Date: 2020/08/04\nStore: NEWTGAN\nAverage Rating: 4.1\nProduct Details: {'Age Range (Description)': 'Adult', 'Material': 'Chiffon', 'Fabric Type': 'Velvet', 'Number of Items': '10', 'Brand': 'NEWTGAN', 'Package Dimensions': '12.87 x 6.97 x 2.95 inches; 10.55 Ounces', 'UPC': '703805015872'}\nReview Text: Love them all, super comfortable and adorable set... pretty much goes with any clothing.\nReview Title: So sweet\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10 Pack Wide Headbands, 4 Style knot Turban Hairband Vintage Head wrap Hair Band Elastic Hair Accessories\nNEWTGAN\n{'Age Range (Description)': 'Adult', 'Material': 'Chiffon', 'Fabric Type': 'Velvet', 'Number of Items': '10', 'Brand': 'NEWTGAN', 'Package Dimensions': '12.87 x 6.97 x 2.95 inches; 10.55 Ounces', 'UPC': '703805015872'}\nLove them all, super comfortable and adorable set... pretty much goes with any clothing.\nSo sweet",
+  "profile": "**User Profile Summary:**\n\n- **Fashion Acumen:** Exhibits a strong interest in stylish and versatile accessories, suggesting a preference for products that complement a variety of outfits.\n- **Comfort Priority:** Values comfort in fashion items, indicating a preference for materials that feel good to wear.\n- **Positive Reviews:** Tends to provide high ratings for products that meet or exceed expectations in style and comfort, reflecting a discerning taste.\n- **Trendy Aesthetic:** Leans toward vintage or bohemian styles, appreciating accessories that incorporate unique design elements.\n- **Practical Purchases:** Prefers multi-pack options, indicating a desire for variety and value in choices. \n\nOverall, the user presents as someone who enjoys combining comfort with chic style, focusing on accessories that enhance their wardrobe while providing a practical solution to everyday fashion needs.",
+  "metrics": {
+    "rouge1_f": 0.10638297872340426,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06382978723404256,
+    "meteor": 0.11505273250239692,
+    "bleu1": 0.10000000000000002,
+    "bleu2": 0.0076923076923076945,
+    "bleu3": 0.003277942551010818,
+    "bleu4": 0.002142998591644178,
+    "bertscore_precision": 0.3989512324333191,
+    "bertscore_recall": 0.39585915207862854,
+    "bertscore_f1": 0.3973991572856903
+  }
+}

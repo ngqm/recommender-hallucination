@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Bloomy Essentials Top 3 Organic Essential Oils Starter Set 10 mL (1/3 oz) - USDA Certified Organic - 100% Pure Lavender, Lemon and Peppermint\nReview Date: 2020/02/25\nStore: Bloomy Essentials\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Bloomy Essentials', 'Scent': 'Lemon,Peppermint,Lavender', 'Special Feature': 'Pure', 'Seasons': 'All Seasons', 'Item Volume': '10 Milliliters', 'Package Dimensions': '3.8 x 3.6 x 1.2 inches; 6.38 Ounces', 'UPC': '680912084567', 'Manufacturer': 'Bloomy Essentials'}\nReview Text: I use essential oils for many purposes and this 3 piece set is a great starter kit for those who love lavender, lemon and peppermint. They smell great and are very versatile. Mix them with your favorite oil (I like coconut) and apply topically or add a few drops to a diffuser for a peaceful night sleep. I recently had a cold and mixed the peppermint and coconut oil and applied to my chest for a cough. It was soothing and helped with the sinuses as well. Makes a great gift because it comes in a cute little box as well.\nReview Title: Nice starter kit\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Bloomy Essentials Top 3 Organic Essential Oils Starter Set 10 mL (1/3 oz) - USDA Certified Organic - 100% Pure Lavender, Lemon and Peppermint\nBloomy Essentials\n{'Brand': 'Bloomy Essentials', 'Scent': 'Lemon,Peppermint,Lavender', 'Special Feature': 'Pure', 'Seasons': 'All Seasons', 'Item Volume': '10 Milliliters', 'Package Dimensions': '3.8 x 3.6 x 1.2 inches; 6.38 Ounces', 'UPC': '680912084567', 'Manufacturer': 'Bloomy Essentials'}\nI use essential oils for many purposes and this 3 piece set is a great starter kit for those who love lavender, lemon and peppermint. They smell great and are very versatile. Mix them with your favorite oil (I like coconut) and apply topically or add a few drops to a diffuser for a peaceful night sleep. I recently had a cold and mixed the peppermint and coconut oil and applied to my chest for a cough. It was soothing and helped with the sinuses as well. Makes a great gift because it comes in a cute little box as well.\nNice starter kit",
+  "profile": "**User Profile Summary:**\n\n- **Interests:** Focus on essential oils and their versatile applications; appreciates natural and organic products.\n- **Usage Patterns:** Uses oils for both personal care (e.g., soothing purposes during colds) and ambiance (e.g., diffusing for relaxation).\n- **Types of Products Preferred:** Strong preference for starter sets, suggesting an interest in experimenting and learning about different scents.\n- **Favorite Scents:** Favors lavender, lemon, and peppermint, indicating a preference for fresh and soothing aromatic experiences.\n- **Application Methods:** Enjoys mixing oils with carrier oils for topical use and using diffusers for aromatherapy.\n- **Social Aspect:** Values products that can be given as gifts, showing a consideration for presentation and shareability.\n- **Overall Rating Behavior:** Tends to rate products favorably, emphasizing quality and satisfaction with versatility and performance for personal needs. \n\nThis user appears to have a holistic approach to wellness, seeking products that enhance both physical and emotional well-being through natural ingredients.",
+  "metrics": {
+    "rouge1_f": 0.30031948881789133,
+    "rouge2_f": 0.05787781350482315,
+    "rougeL_f": 0.17891373801916932,
+    "meteor": 0.1931248481319226,
+    "bleu1": 0.2897196261682243,
+    "bleu2": 0.09033889655121333,
+    "bleu3": 0.03376534830730853,
+    "bleu4": 0.011622051932199721,
+    "bertscore_precision": 0.4455298185348511,
+    "bertscore_recall": 0.4523221254348755,
+    "bertscore_f1": 0.4489002823829651
+  }
+}

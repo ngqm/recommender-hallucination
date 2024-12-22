@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Butecare Eyelash Growth Enhancer & Brow Serum for Long - Amazon Vine\nReview Date: 2019/03/09\nAverage Rating: 3.0\nProduct Details: {'Package Dimensions': '4.5 x 0.9 x 0.9 inches; 0.81 Ounces'}\nReview Text: This is my own personal experience with this lash growth enhancer and my own opinion. I did not notice any difference in my lashes since I started using it a month ago. I've documented my experience with pictures every 3 days. I gave it 2 stars and not 1 because I've seen that it's worked for others but I guess it isn't compatible with my biology. I'm  bit disappointed.\nReview Title: Didn't work for me.\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Butecare Eyelash Growth Enhancer & Brow Serum for Long - Amazon Vine\n{'Package Dimensions': '4.5 x 0.9 x 0.9 inches; 0.81 Ounces'}\nThis is my own personal experience with this lash growth enhancer and my own opinion. I did not notice any difference in my lashes since I started using it a month ago. I've documented my experience with pictures every 3 days. I gave it 2 stars and not 1 because I've seen that it's worked for others but I guess it isn't compatible with my biology. I'm  bit disappointed.\nDidn't work for me.",
+  "profile": "**User Profile Summary:**\n\n- **Product Interaction:**\n  - Engaged with beauty and personal care products, specifically eyelash and brow enhancers.\n  \n- **Experience with Products:**\n  - Sought products with specific performance claims, particularly around enhancing appearance.\n  - Documented experiences meticulously, indicating a methodical approach to evaluating product effectiveness.\n  \n- **Satisfaction Level:**\n  - Expressed disappointment in product effectiveness due to lack of noticeable results; rated the product 2 stars, indicating frustration but recognized potential for different outcomes among other users.\n  \n- **Personal Compatibility:**\n  - Acknowledged that individual biology may affect product compatibility and effectiveness, suggesting an understanding of the variability in beauty products.\n\n- **Overall Trend:**\n  - Values transparency and personal experience over marketing claims, showing a preference for genuine results tailored to individual needs. \n  - Indicates a willingness to share experiences publicly, suggesting interest in community feedback and product reviews. \n\nThis profile indicates a consumer who is cautious yet hopeful in trying beauty products, favoring efficacy backed by personal observation and community experiences.",
+  "metrics": {
+    "rouge1_f": 0.23015873015873015,
+    "rouge2_f": 0.024000000000000004,
+    "rougeL_f": 0.1111111111111111,
+    "meteor": 0.16986926412185113,
+    "bleu1": 0.12980769230769232,
+    "bleu2": 0.03541441234874143,
+    "bleu3": 0.008475479667387924,
+    "bleu4": 0.004151306022300841,
+    "bertscore_precision": 0.42918989062309265,
+    "bertscore_recall": 0.3834110498428345,
+    "bertscore_f1": 0.4050109386444092
+  }
+}

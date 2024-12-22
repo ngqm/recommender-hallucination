@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2022/12/12\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom McCarthy', 'Oliver Bokelberg', 'Danis Goulet', 'Clark Johnson', 'Patricia Riggen', 'Craig William Macneill', 'Catriona McKenzie', 'Ruba Nadda', 'Michael Pressman', 'Bosede Williams'], 'Studio': ['Fox']}\nReview Text: WHAT PROGRAM CAN GET AWAY FROM WOKENESS TODAY?  NOT EVEN A SHOW BASED IN ALASKA.  GOOD SHOW OBVIOUSLY TRYING TO MAKE MEDIA LOOK BETTER THAN THEY ARE.  UNFORTUNATELY NO MORE OLD SCHOOL REPORTERS LIKE THEY TRY TO BE\nReview Title: PRETTY GOOD SHOW W OBVIOUS WOKE HIGHLIGHTS\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom McCarthy', 'Oliver Bokelberg', 'Danis Goulet', 'Clark Johnson', 'Patricia Riggen', 'Craig William Macneill', 'Catriona McKenzie', 'Ruba Nadda', 'Michael Pressman', 'Bosede Williams'], 'Studio': ['Fox']}\nWHAT PROGRAM CAN GET AWAY FROM WOKENESS TODAY?  NOT EVEN A SHOW BASED IN ALASKA.  GOOD SHOW OBVIOUSLY TRYING TO MAKE MEDIA LOOK BETTER THAN THEY ARE.  UNFORTUNATELY NO MORE OLD SCHOOL REPORTERS LIKE THEY TRY TO BE\nPRETTY GOOD SHOW W OBVIOUS WOKE HIGHLIGHTS",
+  "profile": "**User Summary:**\n\nThis user exhibits a strong preference for media that addresses contemporary issues, reflecting a critical stance toward perceived \"wokeness\" in programming. Their high rating indicates an appreciation for quality content, though they seem to have reservations regarding the portrayal of traditional journalism and its evolution in current media. The user enjoys shows that provide compelling storytelling but prefers them to maintain a sense of authenticity without overt ideological influences. Their choice of genre suggests an affinity for drama and storytelling set in distinct environments, such as Alaska, which implies an appreciation for unique settings in narratives. Overall, they value both engaging content and an absence of heavy-handed social commentary, indicating a desire for balance in their viewing preferences while remaining critical of trends they perceive in modern media.",
+  "metrics": {
+    "rouge1_f": 0.10679611650485438,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.058252427184466014,
+    "meteor": 0.10307352819346433,
+    "bleu1": 0.060810810810810814,
+    "bleu2": 0.006431788127010688,
+    "bleu3": 0.00304862168528367,
+    "bleu4": 0.0021024982854913206,
+    "bertscore_precision": 0.3562868535518646,
+    "bertscore_recall": 0.3639236092567444,
+    "bertscore_f1": 0.3600647747516632
+  }
+}

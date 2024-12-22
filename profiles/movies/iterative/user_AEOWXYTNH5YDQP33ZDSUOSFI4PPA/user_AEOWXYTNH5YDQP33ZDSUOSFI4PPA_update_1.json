@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/20\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nReview Text: A little slow but godd movie.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Francis Lawrence'], 'Producers': ['Nina Jacobson', 'Jon Kilik'], 'Starring': ['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth']}\nA little slow but godd movie.\nFour Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Tends to rate products positively, with an average rating of 4.7.\n- **Content Sensitivity:** Interested in media with a mature content advisory, specifically themes involving violence, smoking, and foul language.\n- **Language Accessibility:** Values English audio options and availability of subtitles, indicating a preference for accessibility features in media.\n- **Engagement with Popular Content:** Shows an affinity for well-known actors and popular production teams, suggesting a preference for mainstream entertainment.\n- **Pacing Tolerance:** Open to slower-paced narratives, as indicated by the comment that while a movie was \"a little slow,\" it was still considered enjoyable.\n- **Overall Enjoyment:** Generally expresses satisfaction with experiences, reflecting an optimistic approach to media consumption.\n\nThis summary reveals a user who enjoys mainstream, accessible entertainment with mature themes, appreciates positive engagement with content, and values high-quality production and narration.",
+  "metrics": {
+    "rouge1_f": 0.1590909090909091,
+    "rouge2_f": 0.06896551724137932,
+    "rougeL_f": 0.1477272727272727,
+    "meteor": 0.14104538415310647,
+    "bleu1": 0.1173469387755102,
+    "bleu2": 0.024531187765938777,
+    "bleu3": 0.006769321504549245,
+    "bleu4": 0.0035605700022072278,
+    "bertscore_precision": 0.4246223568916321,
+    "bertscore_recall": 0.3499354422092438,
+    "bertscore_f1": 0.38367804884910583
+  }
+}

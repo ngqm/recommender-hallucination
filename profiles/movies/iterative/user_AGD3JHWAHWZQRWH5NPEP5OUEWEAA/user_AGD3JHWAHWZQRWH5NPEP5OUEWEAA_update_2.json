@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/06/22\nAverage Rating: 3.5\nProduct Details: {'Subtitles': ['None available'], 'Directors': [\"Geoff D'Eon\"], 'Producers': ['Edward Peill'], 'Studio': ['Syndicado']}\nReview Text: A really good eye opener on how counterfeit merchandise can kill and how serious this crime really is.\nReview Title: A really good eye opener\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mullti Media Arts Limited'], 'Starring': ['Sir Ian Holm'], 'Studio': ['Janson Media']}\nThis documentary had a lot of great information and really covered some interesting ideas and where the ideas for the series originated from.\nInformative\n{'Subtitles': ['None available'], 'Directors': [\"Geoff D'Eon\"], 'Producers': ['Edward Peill'], 'Studio': ['Syndicado']}\nA really good eye opener on how counterfeit merchandise can kill and how serious this crime really is.\nA really good eye opener",
+  "profile": "**User Summary:**\n\n- **Content Interests:** Engages with documentaries that explore intriguing ideas and the origins of concepts, particularly those that shed light on serious societal issues. Values informative content and appreciates in-depth discussions, especially about topics such as crime and its implications.\n\n- **Content Sensitivity:** Maintains a clear awareness of content warnings, with specific preferences against violence, alcohol use, and foul language.\n\n- **Language Preferences:** Prefers English audio and subtitles, emphasizing clarity and comprehension in media consumption.\n\n- **Overall Engagement:** Tends to provide moderate ratings, favoring a balanced perspective on quality and content. Recently expressed a notable appreciation for a documentary that opened eyes to the severity of counterfeit merchandise crime, indicating a preference for thought-provoking material that also serves an educational purpose.\n\n- **Decision-Making Factors:** Focuses on the depth of information and overall concept rather than just production quality. This is evident in the user's higher average rating, showing that strong content can significantly enhance their viewing experience despite any production imperfections.\n\nThe user continues to demonstrate a preference for educational and thought-provoking documentaries, with a conscious approach to content sensitivity and an appreciation for serious themes.",
+  "metrics": {
+    "rouge1_f": 0.27205882352941174,
+    "rouge2_f": 0.044444444444444446,
+    "rougeL_f": 0.15441176470588236,
+    "meteor": 0.1778700410994841,
+    "bleu1": 0.1638655462184874,
+    "bleu2": 0.04554390651324481,
+    "bleu3": 0.00957891203873191,
+    "bleu4": 0.0043976450541975305,
+    "bertscore_precision": 0.4265126585960388,
+    "bertscore_recall": 0.4137599766254425,
+    "bertscore_f1": 0.4200395345687866
+  }
+}

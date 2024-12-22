@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: HYTONG Exfoliating Back Scrubber for Shower,With Hair Scalp Massager Shampoo Brush Face Scrubber Body ScrubberSoft and comfortable safe material,Bath Shower Gifts kit for Adult\nReview Date: 2020/12/02\nStore: HYTONG\nAverage Rating: 3.7\nProduct Details: {'Brand': 'HYTONG', 'Product Benefits': 'Exfoliating', 'Skin Type': 'All', 'Package Dimensions': '8.23 x 6.1 x 2.01 inches; 9.59 Ounces', 'UPC': '789615946704', 'Manufacturer': 'HYTONG'}\nReview Text: Great bundle, great price. My head/hair have been thanking me.\nReview Title: Great Bundle~Great Price\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "HYTONG Exfoliating Back Scrubber for Shower,With Hair Scalp Massager Shampoo Brush Face Scrubber Body ScrubberSoft and comfortable safe material,Bath Shower Gifts kit for Adult\nHYTONG\n{'Brand': 'HYTONG', 'Product Benefits': 'Exfoliating', 'Skin Type': 'All', 'Package Dimensions': '8.23 x 6.1 x 2.01 inches; 9.59 Ounces', 'UPC': '789615946704', 'Manufacturer': 'HYTONG'}\nGreat bundle, great price. My head/hair have been thanking me.\nGreat Bundle~Great Price",
+  "profile": "**User Summary:**\n\n- **Overall Satisfaction:** High satisfaction with a tendency to appreciate value for money.\n- **Product Preferences:** Preference for bundles or kits that offer multiple functionalities, indicating a desire for convenience and a holistic approach to self-care.\n- **Usage Context:** Likely prioritizes personal care routines, particularly related to skin and hair.\n- **Material Preference:** Preference for products made from soft and safe materials, highlighting a sensitivity to comfort and quality.\n- **Product Benefits:** Values exfoliation and scalp care, suggesting an interest in maintaining healthy skin and hair.\n- **Skin & Hair Care:** Engages in regular self-care practices that encompass various areas of the body, especially the scalp and back, indicating a comprehensive skincare routine.\n- **Review Behavior:** Positive review style, likely honest and straightforward, indicating a willingness to express satisfaction when experiences align with expectations.\n\nThis profile indicates a user who enjoys quality personal care products that deliver effective results while being conscientious about comfort and pricing.",
+  "metrics": {
+    "rouge1_f": 0.17272727272727273,
+    "rouge2_f": 0.018348623853211007,
+    "rougeL_f": 0.1,
+    "meteor": 0.16037735849056606,
+    "bleu1": 0.10280373831775702,
+    "bleu2": 0.006947277587435328,
+    "bleu3": 0.0028342042680131363,
+    "bleu4": 0.0018123945474852608,
+    "bertscore_precision": 0.4068782925605774,
+    "bertscore_recall": 0.3949936032295227,
+    "bertscore_f1": 0.4008478820323944
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: YallFF gold head chain jewelry for women gypsy bollywood halloween indian headband hair headpiece\nReview Date: 2018/11/14\nStore: YallFF\nAverage Rating: 4.0\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.7 x 3.6 x 0.6 inches; 0.81 Ounces', 'Item model number': 'YF4130054A'}\nReview Text: Beautiful head pieces. Great for festivals!!\nReview Title: Pretty!! \u2763\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wyuen 12 Sheets Butterfly Women Temporary Tattoo Stickers Animal Tattoos Body Art Waterproof Hand Fake Sticker (W12-03)\nWyuen\n{'Brand': 'Wyuen', 'Size': '3.85x2.36 Inch (Pack of 12)', 'Water Resistance Level': 'Waterproof', 'Pattern': 'Animal', 'Number of Pieces': '12', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.91 x 3.94 x 0.39 inches; 0.28 Ounces', 'Item model number': 'FW12-03', 'UPC': '746591612887'}\nAbsolutely beautiful!! I just love them! The colors and designs are so pretty. I can't wait to try them out!!\nVery pretty designs and colors!!\nYallFF gold head chain jewelry for women gypsy bollywood halloween indian headband hair headpiece\nYallFF\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.7 x 3.6 x 0.6 inches; 0.81 Ounces', 'Item model number': 'YF4130054A'}\nBeautiful head pieces. Great for festivals!!\nPretty!! \u2763",
+  "profile": "**User Profile Summary:**\n\n- **Artistic Appreciation:** User exhibits a strong preference for visually appealing items characterized by vibrant colors and attractive designs.\n- **Interest in Body Art and Accessories:** The user enjoys temporary tattoos and unique accessories, particularly those that enhance personal style and reflect creative expression, such as head jewelry suitable for festivals.\n- **Aesthetic Focus:** Values beauty and aesthetic appeal over practicality, as registered by the excitement expressed in reviews, particularly for artistic accessories and body art decorations.\n- **Positive Attitude:** Maintains a generally optimistic outlook towards products, favoring experiences that evoke joy and satisfaction.\n- **Rating Behavior:** Typically rates products highly when they meet or exceed expectations, illustrating a preference for quality and appealing designs. The recent purchase received a notable rating, reflecting satisfaction with the aesthetic value.\n- **Engagement with Creative Events:** Shows a keen interest in festival culture and accessories that contribute to self-expression, indicating a vibrant social lifestyle.\n\nOverall, the user is drawn to colorful, artistic products that enhance their personal style and self-expression, while consistently providing positive feedback on fulfilling purchases that align with their aesthetic preferences.",
+  "metrics": {
+    "rouge1_f": 0.14556962025316456,
+    "rouge2_f": 0.025477707006369428,
+    "rougeL_f": 0.06962025316455696,
+    "meteor": 0.11917908294503686,
+    "bleu1": 0.13865546218487396,
+    "bleu2": 0.041894300718831955,
+    "bleu3": 0.00906009245502377,
+    "bleu4": 0.004217766242673921,
+    "bertscore_precision": 0.37635669112205505,
+    "bertscore_recall": 0.39439743757247925,
+    "bertscore_f1": 0.3851659595966339
+  }
+}

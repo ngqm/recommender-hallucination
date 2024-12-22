@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/02\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Perry'], 'Producers': ['Ozzie Areu', 'Matt Moore', 'Tyler Perry'], 'Starring': ['Nia Long', 'Amy Smart', 'Cocoa Brown'], 'Studio': ['Lionsgate']}\nReview Text: It was great!!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Tyler Perry'], 'Producers': ['Ozzie Areu', 'Matt Moore', 'Tyler Perry'], 'Starring': ['Nia Long', 'Amy Smart', 'Cocoa Brown'], 'Studio': ['Lionsgate']}\nIt was great!!!\nFive Stars",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for engaging, high-quality entertainment, particularly in film and television. They favor productions by notable filmmakers and appreciate diverse themes, including complex social issues, as indicated by the content advisory tags reflecting substance use, language, and sexual content. Their positive rating suggests they value both storytelling and production quality. \n\nThe user enjoys accessible content, as evidenced by their attention to audio descriptions and closed captioning, indicating an inclusive approach to viewing. They seem to appreciate works that feature a mix of established and emerging talent and lean towards genres that balance drama with moments of humor or levity.\n\nOverall, their interaction demonstrates a trend towards enjoying impactful narratives while valuing a seamless viewing experience.",
+  "metrics": {
+    "rouge1_f": 0.10843373493975902,
+    "rouge2_f": 0.048780487804878044,
+    "rougeL_f": 0.10843373493975902,
+    "meteor": 0.08188166340295909,
+    "bleu1": 0.09929078014184398,
+    "bleu2": 0.008421519210665187,
+    "bleu3": 0.003708987437555506,
+    "bleu4": 0.002465878932431842,
+    "bertscore_precision": 0.3846547603607178,
+    "bertscore_recall": 0.35102421045303345,
+    "bertscore_f1": 0.3670707941055298
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AEZUNG7H72QHXUFEGRGJOJIMPU6Q",
+  "summary": "=== Purchase Information ===\nReview Date: 2014/07/13\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike White', 'Miguel Arteta', 'Nicole Holofcener', 'Jonathan Demme', 'Phil Morrison', 'James Bobin', 'Todd Haynes', 'David Mich\u00f4d'], 'Producers': ['David Bernad', 'Laura Dern'], 'Starring': ['Laura Dern', 'Luke Wilson', 'Diane Ladd'], 'Studio': ['HBO']}\nReview Text: Great show!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['John Francis Daley', 'Jonathan Goldstein'], 'Producers': ['Chris Bender', 'David Dobkin'], 'Starring': ['Ed Helms', 'Christina Applegate', 'Leslie Mann']}\nReview Text: Too much perversion and violence.\nReview Title: What happened to real comedy?\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Lawrence'], 'Producers': ['Liz Glotzer', 'Martin Shafer'], 'Starring': ['Hugh Grant', 'Marisa Tomei', 'Bella Heathcote'], 'Studio': ['RLJ Entertainment']}\nReview Text: It's hard to watch such a beautiful girl (Marisa) fall for such a creep.\nReview Title: Creepy old dude\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/20\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Herriott'], 'Studio': ['Unavailable']}\nReview Text: Ok\nReview Title: Just ok\nRating: 3.0\n--------------------------------------------------",
+  "reference": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike White', 'Miguel Arteta', 'Nicole Holofcener', 'Jonathan Demme', 'Phil Morrison', 'James Bobin', 'Todd Haynes', 'David Mich\u00f4d'], 'Producers': ['David Bernad', 'Laura Dern'], 'Starring': ['Laura Dern', 'Luke Wilson', 'Diane Ladd'], 'Studio': ['HBO']}\nGreat show!\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['John Francis Daley', 'Jonathan Goldstein'], 'Producers': ['Chris Bender', 'David Dobkin'], 'Starring': ['Ed Helms', 'Christina Applegate', 'Leslie Mann']}\nToo much perversion and violence.\nWhat happened to real comedy?\n{'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Lawrence'], 'Producers': ['Liz Glotzer', 'Martin Shafer'], 'Starring': ['Hugh Grant', 'Marisa Tomei', 'Bella Heathcote'], 'Studio': ['RLJ Entertainment']}\nIt's hard to watch such a beautiful girl (Marisa) fall for such a creep.\nCreepy old dude\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Herriott'], 'Studio': ['Unavailable']}\nOk\nJust ok",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nReview Date: 2014/07/13\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Mike White', 'Miguel Arteta', 'Nicole Holofcener', 'Jonathan Demme', 'Phil Morrison', 'James Bobin', 'Todd Haynes', 'David Mich\u00f4d'], 'Producers': ['David Bernad', 'Laura Dern'], 'Starring': ['Laura Dern', 'Luke Wilson', 'Diane Ladd'], 'Studio': ['HBO']}\nReview Text: Great show!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['John Francis Daley', 'Jonathan Goldstein'], 'Producers': ['Chris Bender', 'David Dobkin'], 'Starring': ['Ed Helms', 'Christina Applegate', 'Leslie Mann']}\nReview Text: Too much perversion and violence.\nReview Title: What happened to real comedy?\nRating: 1.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2015/12/03\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Marc Lawrence'], 'Producers': ['Liz Glotzer', 'Martin Shafer'], 'Starring': ['Hugh Grant', 'Marisa Tomei', 'Bella Heathcote'], 'Studio': ['RLJ Entertainment']}\nReview Text: It's hard to watch such a beautiful girl (Marisa) fall for such a creep.\nReview Title: Creepy old dude\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nReview Date: 2016/02/20\nAverage Rating: 4.1\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Scott Herriott'], 'Studio': ['Unavailable']}\nReview Text: Ok\nReview Title: Just ok\nRating: 3.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:\nThe individual exhibits a fluctuating sentiment towards entertainment products, with notable peaks in enjoyment (5-star rating) and significant lows (1-star rating). Key patterns include a general preference for engaging narratives and well-crafted productions, indicated by positive ratings for certain shows, while contrasting experiences reveal dissatisfaction with excessive vulgarity and violence in content. This suggests a taste for balanced humor and relatable themes rather than extreme or gratuitous elements.\n\nRecurring themes center around media intended for adult audiences, typically marked by humor and relationships, but with a clear aversion to over-the-top crude content and unsettling dynamics, as seen in their negative reviews. The individual appears to appreciate quality storytelling from established directors and strong performances, particularly when a sense of authenticity is present.\n\nQuality remains a priority, as evidenced by the high ratings for generally well-received titles, though the sentiment dips when themes cross into distasteful areas. Price sensitivity is less direct but can be inferred, as high ratings seem to correlate with perceived value and thoughtful character portrayals, while lower ratings reflect disappointment in lackluster or exploitative content. \n\nOverall, the core preferences indicate a discerning viewer who values substance, originality, and meaningful humor without the distraction of excessive crassness.",
+  "target_interaction": {
+    "rating": 5.0,
+    "title": "Five Stars",
+    "text": "Classic.",
+    "images": [],
+    "asin": "B00190N4E4",
+    "parent_asin": "B00190N4E4",
+    "user_id": "AEZUNG7H72QHXUFEGRGJOJIMPU6Q",
+    "timestamp": "2017-09-20 22:31:51.344000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "Prime Video",
+    "title_meta": null,
+    "average_rating": 4.7,
+    "rating_number": 4438,
+    "features": null,
+    "description": null,
+    "price": null,
+    "images_meta": [
+      {
+        "360w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX360_FMwebp_.png",
+        "480w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX480_FMwebp_.png",
+        "720w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX720_FMwebp_.png",
+        "1080w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX1080_FMwebp_.png",
+        "1440w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX1440_FMwebp_.png",
+        "1920w": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0fcfc045144220d182582830526481a5426bc63c68ecafb0eff17b2411bacfad._RI_SX1920_FMwebp_.png",
+        "variant": "MAIN"
+      }
+    ],
+    "videos": [],
+    "store": null,
+    "categories": null,
+    "details": {
+      "Content advisory": [
+        "Violence",
+        "alcohol use",
+        "smoking",
+        "foul language",
+        "sexual content"
+      ],
+      "Audio languages": [
+        "English",
+        "English [Audio Description]"
+      ],
+      "Subtitles": [
+        "English [CC]"
+      ],
+      "Directors": [
+        "Attenborough",
+        "Richard"
+      ],
+      "Producers": [
+        "Richard Attenborough"
+      ],
+      "Starring": [
+        "Ben Kingsley",
+        "Candice Bergen",
+        "Edward Fox"
+      ],
+      "Studio": [
+        "Classics"
+      ]
+    },
+    "bought_together": null,
+    "subtitle": null,
+    "author": NaN
+  }
+}

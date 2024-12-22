@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 3 Part Lace Closure 4x4 Body Wave Human Hair Closure Piece with Baby Hair Natural Black Color No Bleached Knots (10 inch)\nReview Date: 2016/10/19\nAverage Rating: 3.7\nProduct Details: {'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5.24 x 0.39 inches; 1.59 Ounces', 'UPC': '605175459785'}\nReview Text: Great texture\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "3 Part Lace Closure 4x4 Body Wave Human Hair Closure Piece with Baby Hair Natural Black Color No Bleached Knots (10 inch)\n{'Material': 'Human', 'Hair Type': 'Wavy', 'Style': 'Modern', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '9.49 x 5.24 x 0.39 inches; 1.59 Ounces', 'UPC': '605175459785'}\nGreat texture\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** The user favors human hair products, particularly closures that offer a wavy texture.\n- **Style Preference:** They lean towards modern styles, indicating a preference for contemporary trends in their hair choices.\n- **Quality Focus:** The high rating (5.0) suggests the user prioritizes quality and texture in hair products.\n- **Simplicity in Use:** The mention of \"No Bleached Knots\" implies a preference for low-maintenance options that are ready to use without complex preparation.\n- **Positive Feedback:** The review indicates satisfaction with the product, highlighting consistent positive experiences with hair products.\n- **Age Range:** The targeted age range suggests an adult user demographic, which may indicate a preference for more sophisticated or elegant styles. \n\nOverall, the user appears to appreciate high-quality, modern human hair products that provide ease of use and a desirable aesthetic.",
+  "metrics": {
+    "rouge1_f": 0.19689119170984457,
+    "rouge2_f": 0.05235602094240838,
+    "rougeL_f": 0.11398963730569948,
+    "meteor": 0.16431145051692947,
+    "bleu1": 0.11052631578947368,
+    "bleu2": 0.03419927840283848,
+    "bleu3": 0.01839184699634427,
+    "bleu4": 0.007594664745344185,
+    "bertscore_precision": 0.45392584800720215,
+    "bertscore_recall": 0.3876621723175049,
+    "bertscore_f1": 0.4181853234767914
+  }
+}

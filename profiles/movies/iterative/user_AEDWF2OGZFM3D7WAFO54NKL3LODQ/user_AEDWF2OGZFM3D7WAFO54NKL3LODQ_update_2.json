@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/08/04\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hiromasa Yonebayashi'], 'Producers': ['Yoshiaki Nishimura', 'Geoffrey Wexler'], 'Starring': ['Ruby Barnhill', 'Kate Winslet', 'Jim Broadbent'], 'Studio': ['Gkids']}\nReview Text: Nice\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Adrian McCarthy'], 'Producers': ['Adrian McCarthy'], 'Studio': ['MagellanTV']}\nInformative\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hiromasa Yonebayashi'], 'Producers': ['Yoshiaki Nishimura', 'Geoffrey Wexler'], 'Starring': ['Ruby Barnhill', 'Kate Winslet', 'Jim Broadbent'], 'Studio': ['Gkids']}\nNice\nNice",
+  "profile": "The user demonstrates a nuanced engagement with content, particularly appreciating works that combine educational elements with emotional or thematic depth. Their overall ratings reflect a discerning taste, balancing quality and substance with occasional reservations, as seen in their earlier review highlighting challenging themes such as violence and foul language, which received a moderate rating of 3.5. This suggests an appreciation for thought-provoking content, albeit with a critical eye toward how sensitive topics are portrayed.\n\nIn their recent interaction, the user awarded a significantly higher rating of 5.0 to a product that features English audio and subtitles, indicating a preference for accessibility in content. The brevity of their review, simply stating \"Nice,\" implies that while they found the content to be of high quality, they may not feel the need to elaborate extensively on their positive experience. This contrast in responses illustrates a versatile taste that can highly value certain works while remaining critical of others.\n\nOverall, the user seems to favor content that is engaging and enlightening, with an openness to diverse themes, including those on the edgier side. Their inclination toward accessible formats enhances their enjoyment, positioning them as a selective viewer who prioritizes depth in narrative and presentation.",
+  "metrics": {
+    "rouge1_f": 0.07200000000000001,
+    "rouge2_f": 0.008064516129032258,
+    "rougeL_f": 0.064,
+    "meteor": 0.06137184115523467,
+    "bleu1": 0.07589285714285714,
+    "bleu2": 0.005833752768545295,
+    "bleu3": 0.0024841683361275543,
+    "bleu4": 0.0016228848198452258,
+    "bertscore_precision": 0.339926540851593,
+    "bertscore_recall": 0.30087530612945557,
+    "bertscore_f1": 0.3192110061645508
+  }
+}

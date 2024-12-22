@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 20 PCS Zoostliss Nail Polish Remover Clips\nReview Date: 2020/08/02\nStore: Zoostliss\nAverage Rating: 4.5\nProduct Details: {'Brand': 'Zoostliss', 'Number of Items': '20', 'Unit Count': '20 Count', 'Package Dimensions': '6.6 x 5.1 x 1.8 inches; 3.99 Ounces'}\nReview Text: I got these nail polish remover because when ever I\u2019m doing a soak off on a client or myself, I usually use a manicure bowl to soak them off but I find that when ever I\u2019m doing that I\u2019m wasting my acetone so I got these so that I won\u2019t be wasting so much of my acetone. I gave this product 4 stars because the package did come kind of open and there was a very strong perfume like odor but I\u2019ll just soak these in soap and barbecide.\nReview Title: Very nice but has an odor\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "20 PCS Zoostliss Nail Polish Remover Clips\nZoostliss\n{'Brand': 'Zoostliss', 'Number of Items': '20', 'Unit Count': '20 Count', 'Package Dimensions': '6.6 x 5.1 x 1.8 inches; 3.99 Ounces'}\nI got these nail polish remover because when ever I\u2019m doing a soak off on a client or myself, I usually use a manicure bowl to soak them off but I find that when ever I\u2019m doing that I\u2019m wasting my acetone so I got these so that I won\u2019t be wasting so much of my acetone. I gave this product 4 stars because the package did come kind of open and there was a very strong perfume like odor but I\u2019ll just soak these in soap and barbecide.\nVery nice but has an odor",
+  "profile": "**User Summary:**\n\n- **Preference for Efficiency**: The user values products that enhance efficiency, particularly in beauty routines. They actively seek solutions that minimize waste, evident from their choice of nail polish remover clips to reduce acetone usage.\n\n- **Professional Use**: The user is likely involved in professional nail care or provides services to clients, as they mention using the product for both self-care and client situations.\n\n- **Practicality Over Aesthetics**: The user prioritizes functional aspects of products, opting for effectiveness in utility over perfect packaging or aesthetic appeal (indicated by their acceptance of the product despite the open package and odor).\n\n- **Quality Concerns**: The user expresses concerns about product quality, as seen in their feedback regarding the packaging and odor, suggesting they have a discerning eye for details and expect quality in materials.\n\n- **Moderate Satisfaction**: An average rating of 4 stars indicates a generally positive experience but points to specific areas that could be improved, reflecting a balanced view on product performance.\n\nOverall, the user demonstrates a practical, efficiency-minded approach to purchasing tools for beauty care, with an emphasis on performance and quality.",
+  "metrics": {
+    "rouge1_f": 0.24203821656050958,
+    "rouge2_f": 0.032051282051282055,
+    "rougeL_f": 0.11464968152866241,
+    "meteor": 0.17732409253871223,
+    "bleu1": 0.1794871794871795,
+    "bleu2": 0.04807279612528005,
+    "bleu3": 0.021516432261321317,
+    "bleu4": 0.00810353851260395,
+    "bertscore_precision": 0.4197777211666107,
+    "bertscore_recall": 0.4193558394908905,
+    "bertscore_f1": 0.41956666111946106
+  }
+}

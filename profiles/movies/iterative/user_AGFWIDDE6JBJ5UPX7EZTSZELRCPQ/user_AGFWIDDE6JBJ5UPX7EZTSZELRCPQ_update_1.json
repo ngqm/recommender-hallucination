@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/26\nAverage Rating: 4.4\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Colm McCarthy', 'Anthony Byrne'], 'Producers': ['Andrew Lowe (Element Films)', 'Rob Pursey'], 'Starring': ['Own McDonnell', 'Ian McElhinney']}\nReview Text: Well written gritty police series set in beautiful scenic western Ireland.  Story lines deal with corruption, deal-making, insidious city crime in a small town, arson, drug smuggling and family conflicts.  Watched two series ... wish there were more.  Good acting, great locales, slight romance, plenty of conflict and lots more room for more episodes.\nReview Title: Small town policing - blurred ethical lines!\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English', 'English [CC]'], 'Directors': ['Colm McCarthy', 'Anthony Byrne'], 'Producers': ['Andrew Lowe (Element Films)', 'Rob Pursey'], 'Starring': ['Own McDonnell', 'Ian McElhinney']}\nWell written gritty police series set in beautiful scenic western Ireland.  Story lines deal with corruption, deal-making, insidious city crime in a small town, arson, drug smuggling and family conflicts.  Watched two series ... wish there were more.  Good acting, great locales, slight romance, plenty of conflict and lots more room for more episodes.\nSmall town policing - blurred ethical lines!",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preference**: Enjoys gritty crime and police dramas.\n- **Themes**: Interested in stories exploring corruption, ethical dilemmas, crime in small-town settings, family conflicts, and complex characters.\n- **Setting**: Appreciates scenic locations, particularly rural or small towns, which enhance the narrative's atmosphere.\n- **Content Sensitivity**: Open to mature themes, including violence, substance use, and adult language.\n- **Storytelling Style**: Values well-written narratives with depth, strong character development, and engaging plots.\n- **Viewing Experience**: Likely prefers series format due to enjoyment of character arcs and long-term storytelling, as indicated by the desire for more episodes.\n- **Overall Enjoyment**: Exhibits a tendency toward high ratings for content that resonates well, especially with elements of conflict and romance.\n\nThis profile reflects the user's enthusiasm for complex narratives and character-driven storytelling within the crime drama genre, highlighting a clear interest in multifaceted portrayals of morality and societal issues.",
+  "metrics": {
+    "rouge1_f": 0.2975206611570248,
+    "rouge2_f": 0.09166666666666666,
+    "rougeL_f": 0.14049586776859505,
+    "meteor": 0.19310072233881254,
+    "bleu1": 0.23696682464454977,
+    "bleu2": 0.095012144515881,
+    "bleu3": 0.050603171499655666,
+    "bleu4": 0.028094251682702017,
+    "bertscore_precision": 0.47797995805740356,
+    "bertscore_recall": 0.47698312997817993,
+    "bertscore_f1": 0.47748103737831116
+  }
+}

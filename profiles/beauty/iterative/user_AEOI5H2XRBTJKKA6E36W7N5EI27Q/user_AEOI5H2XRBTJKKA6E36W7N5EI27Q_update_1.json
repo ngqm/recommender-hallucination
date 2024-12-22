@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Beauty HAO Eyebrow Tattoo Pen, Waterproof Natural Convenient Long-Lasting Eyebrow Pencil\nReview Date: 2020/01/01\nStore: Beauty HAO\nAverage Rating: 2.8\nProduct Details: {'Brand': 'Beauty HAO', 'Item Form': 'Pencil', 'Product Benefits': 'Long Lasting', 'Skin Type': 'All', 'Package Information': 'Tube', 'Package Dimensions': '5.1 x 1 x 0.4 inches; 0.49 Ounces'}\nReview Text: it arrived on time and I read the directions. simple. barely any product came out. I ended up washing it off and using my pencil.\nReview Title: BEWARE\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Beauty HAO Eyebrow Tattoo Pen, Waterproof Natural Convenient Long-Lasting Eyebrow Pencil\nBeauty HAO\n{'Brand': 'Beauty HAO', 'Item Form': 'Pencil', 'Product Benefits': 'Long Lasting', 'Skin Type': 'All', 'Package Information': 'Tube', 'Package Dimensions': '5.1 x 1 x 0.4 inches; 0.49 Ounces'}\nit arrived on time and I read the directions. simple. barely any product came out. I ended up washing it off and using my pencil.\nBEWARE",
+  "profile": "**User Profile Summary:**\n\n- **Product Interest:** Primarily engages with beauty and makeup products, specifically eyebrow cosmetics.\n- **Preference for Performance:** Looks for products that are long-lasting and effective in application.\n- **Skepticism towards Effectiveness:** Experiences with products tend to lead to disappointment, as indicated by a low rating due to inadequate product performance.\n- **Value for Convenience:** Appreciates straightforward usage instructions and timely delivery, indicating a preference for products that are user-friendly.\n- **Critical Reviewer:** Willing to provide feedback based on personal experience, highlighting both positive logistics (like timely arrival) and significant product flaws.\n\nOverall, this user demonstrates a desire for reliable beauty products that deliver on promises without complication, suggesting that future purchases will likely focus on proven efficacy and user satisfaction.",
+  "metrics": {
+    "rouge1_f": 0.13756613756613756,
+    "rouge2_f": 0.010695187165775399,
+    "rougeL_f": 0.10582010582010581,
+    "meteor": 0.1394230769230769,
+    "bleu1": 0.11976047904191617,
+    "bleu2": 0.008493813448193962,
+    "bleu3": 0.0035229555538318553,
+    "bleu4": 0.0022723195818681397,
+    "bertscore_precision": 0.41201144456863403,
+    "bertscore_recall": 0.38804900646209717,
+    "bertscore_f1": 0.39967140555381775
+  }
+}

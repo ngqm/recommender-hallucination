@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Empty Deodorant Containers Round (2.2oz, Pack of 6) - BPA Free Clear Plastic, Small Size Great for Carry-On Travel, DIY Make Your Own Deodorant, Lip Balm, Lotion Bar, Moisturizer, Heel Balm, Sunscreen\nReview Date: 2019/01/24\nStore: DermaFAB\nAverage Rating: 4.5\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11 x 6 x 2 inches; 8 Ounces', 'Item model number': 'SG_B07CQ4GN39_US'}\nReview Text: Maybe I used wrong way. If so better has instruction.\nReview Title: leak\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Empty Deodorant Containers Round (2.2oz, Pack of 6) - BPA Free Clear Plastic, Small Size Great for Carry-On Travel, DIY Make Your Own Deodorant, Lip Balm, Lotion Bar, Moisturizer, Heel Balm, Sunscreen\nDermaFAB\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '11 x 6 x 2 inches; 8 Ounces', 'Item model number': 'SG_B07CQ4GN39_US'}\nMaybe I used wrong way. If so better has instruction.\nleak",
+  "profile": "**User Summary:**\n\n- **Product Use:** Interested in DIY projects, particularly in creating personal care items such as deodorants, lip balms, and lotions.\n- **Travel-Friendly Focus:** Shows preference for compact and portable items, suitable for travel.\n- **Material Preference:** Values BPA-free and safe materials for personal care products.\n- **Review Behavior:** Provides constructive feedback, highlighting a preference for clear instructions on usage to enhance product effectiveness.\n- **Rating Trends:** Overall positive inclination towards products (average rating of 4.5) but has experienced specific issues leading to lower ratings (e.g., leaking), indicating a critical approach to product quality.\n- **Engagement Style:** Engages with products through reviews seeking improvement and clarification, suggesting an analytical mindset and desire for user-friendly solutions.\n\nOverall, the user demonstrates a blend of creativity in DIY personal care and a practical focus on travel efficiency, combined with a critical eye for product usability and quality.",
+  "metrics": {
+    "rouge1_f": 0.17142857142857143,
+    "rouge2_f": 0.038461538461538464,
+    "rougeL_f": 0.07619047619047618,
+    "meteor": 0.17964071856287425,
+    "bleu1": 0.10945273631840793,
+    "bleu2": 0.007397727229305227,
+    "bleu3": 0.003018430522196145,
+    "bleu4": 0.0019304990412125724,
+    "bertscore_precision": 0.4543449580669403,
+    "bertscore_recall": 0.3996545076370239,
+    "bertscore_f1": 0.42524850368499756
+  }
+}

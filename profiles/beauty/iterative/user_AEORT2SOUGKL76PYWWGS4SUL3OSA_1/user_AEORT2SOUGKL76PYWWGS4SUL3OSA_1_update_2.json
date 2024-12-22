@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Dreamemo 48W UV LED Nail Lamp, with 4 Timer Setting, Professional Pink Nail Dryer for Gel Nail Polish Gel Nail Starter Kit for Fingernail and Toenail Curing\nReview Date: 2020/01/17\nStore: Dreamemo\nAverage Rating: 4.0\nProduct Details: {'Style': 'Traditional', 'Brand': 'Dreamemo', 'Light Source Type': 'LED', 'Wattage': '48 watts', 'Pattern': 'Solid', 'Package Dimensions': '11.26 x 8.58 x 4.37 inches; 1.63 Pounds'}\nReview Text: Love this.  Great for nails and those of use who might be a little clumsy and \"miss\" the opening smearing polish on the light. Works great.  Lots of nails in it's future.\nReview Title: wide opening\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Straight 13x4 Lace Front Wigs Burgundy Lace Front Wigs Long Bob Synthetic Ombre Wine Red Wig Pre-plucked with Baby Hair Free Part Heat Resistant Synthetic Lace Wigs for Women 20 Inch\nNOBLE\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Style': 'Modern', 'Special Feature': 'Heat Resistant', 'Brand': 'NOBLE', 'Package Dimensions': '13.74 x 7.87 x 2.2 inches; 12.63 Ounces'}\nLooks really nice.  It's easy to use and looks natural.  It has a good weight to it.  It even came with some eyelashes.\nGood color\nDreamemo 48W UV LED Nail Lamp, with 4 Timer Setting, Professional Pink Nail Dryer for Gel Nail Polish Gel Nail Starter Kit for Fingernail and Toenail Curing\nDreamemo\n{'Style': 'Traditional', 'Brand': 'Dreamemo', 'Light Source Type': 'LED', 'Wattage': '48 watts', 'Pattern': 'Solid', 'Package Dimensions': '11.26 x 8.58 x 4.37 inches; 1.63 Pounds'}\nLove this.  Great for nails and those of use who might be a little clumsy and \"miss\" the opening smearing polish on the light. Works great.  Lots of nails in it's future.\nwide opening",
+  "profile": "**User Profile Summary:**\n\n- **Hair Preferences:** Favors modern, straight styles, particularly in bold colors like burgundy and ombre shades. Values ease of use and natural appearance in hair products.\n- **Material Preference:** Shows a preference for synthetic hair that mimics human hair quality, particularly in heat-resistant options.\n- **Functional Features:** Appreciates additional features such as pre-plucking and baby hair, indicating a desire for realistic styling.\n- **Review Focus:** The user emphasizes product aesthetics, ease of application, and overall satisfaction with the product's quality weight and presentation. Recently, they have demonstrated an interest in beauty tools that enhance convenience and user experience.\n- **Recent Interaction:** The user purchased a nail lamp, highlighting a balance of functionality and aesthetics, as it aids those who may be less coordinated. Their review reflects positive feedback, enjoying its practical design and effectiveness. \n- **Review Trend:** Tends to provide ratings around the 4.0 mark but has shown a willingness to give higher ratings when the product exceeds expectations. This suggests an inclination towards products that deliver both quality and ease of use in various beauty applications.\n\nOverall, the user prioritizes style, convenience, and quality not only in hair-related purchases but also in broader beauty tools, indicating a holistic approach to their beauty regimen.",
+  "metrics": {
+    "rouge1_f": 0.2558746736292428,
+    "rouge2_f": 0.04199475065616798,
+    "rougeL_f": 0.12010443864229765,
+    "meteor": 0.1739435177147452,
+    "bleu1": 0.20149253731343286,
+    "bleu2": 0.03884980560577155,
+    "bleu3": 0.0082787611788937,
+    "bleu4": 0.003825273989084873,
+    "bertscore_precision": 0.43274515867233276,
+    "bertscore_recall": 0.45253926515579224,
+    "bertscore_f1": 0.44242092967033386
+  }
+}

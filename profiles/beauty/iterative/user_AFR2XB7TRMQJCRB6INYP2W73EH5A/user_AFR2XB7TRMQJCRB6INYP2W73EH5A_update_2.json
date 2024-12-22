@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Untangled Fine Tooth Pin Tail Parting Comb - For Difficult Styling and Hair Extensions\nReview Date: 2020/11/14\nStore: Untangled\nAverage Rating: 5.0\nProduct Details: {'Material': 'Stainless Steel', 'Brand': 'Untangled', 'Hair Type': 'Fine, Thin', 'Unit Count': '1.00 Count'}\nReview Text: a comb that everyone should have tp reates precise parting lines\nReview Title: great tool\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nHOMELEX\n{'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nthe material is so smooth, love the variety of ways to wear it.\nlove it\nUntangled Fine Tooth Pin Tail Parting Comb - For Difficult Styling and Hair Extensions\nUntangled\n{'Material': 'Stainless Steel', 'Brand': 'Untangled', 'Hair Type': 'Fine, Thin', 'Unit Count': '1.00 Count'}\na comb that everyone should have tp reates precise parting lines\ngreat tool",
+  "profile": "**User Profile Summary:**\n\n- **Fashion Orientation:** Strong preference for women's accessories focused on versatility and aesthetics, particularly items like scarves and shawls that suit formal occasions like weddings.\n- **Material Preference:** Appreciates smooth, high-quality materials, indicating a value for comfort and luxury in wearable items.\n- **Variability in Use:** Enjoys products that can be styled in multiple ways, suggesting a creative approach to fashion and a need for multifunctional items.\n- **Positive Purchasing Experience:** Tends to leave positive feedback when satisfied, valuing items that meet or exceed expectations, as evidenced by a recent perfect rating for a styling tool.\n- **Attention to Detail:** Shows discernment in purchasing decisions, maintaining a moderate caution reflected in a mixed rating (3.5 average) on other products. This suggests that while the user appreciates quality and practicality, they also have specific standards to meet.\n\n- **Grooming Tools Interest:** Recently demonstrated an interest in grooming and styling tools, indicating a broader appreciation for quality accessories that enhance personal care routines.\n\nOverall, the user enjoys quality, versatile fashion items and appreciates both functionality and aesthetics, maintaining high standards in their purchasing behavior while embracing tools that support their styling needs.",
+  "metrics": {
+    "rouge1_f": 0.1444043321299639,
+    "rouge2_f": 0.007272727272727273,
+    "rougeL_f": 0.10830324909747291,
+    "meteor": 0.16764603851490847,
+    "bleu1": 0.11952191235059761,
+    "bleu2": 0.021865215512370115,
+    "bleu3": 0.005769029049548666,
+    "bleu4": 0.0029662935277448713,
+    "bertscore_precision": 0.4123445749282837,
+    "bertscore_recall": 0.38609880208969116,
+    "bertscore_f1": 0.3987903296947479
+  }
+}

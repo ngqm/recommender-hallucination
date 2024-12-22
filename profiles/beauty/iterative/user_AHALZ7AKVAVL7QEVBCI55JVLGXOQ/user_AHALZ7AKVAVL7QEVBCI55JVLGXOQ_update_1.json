@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Remy Human Hair Pieces Front Clip in Hair #1B Natural Black Fringe Hair Extensions with Hair Temples\nReview Date: 2018/10/18\nAverage Rating: 3.7\nProduct Details: {'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Clip-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '9 x 1 x 1 inches; 0.48 Ounces', 'UPC': '615517482166'}\nReview Text: I think this might work for people with smaller heads or smaller faces but I felt it wasn\u2019t wider enough or thick enough to look good on me. The hair was very soft and real looking though!\nReview Title: Not very much hair\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "Remy Human Hair Pieces Front Clip in Hair #1B Natural Black Fringe Hair Extensions with Hair Temples\n{'Material': 'Human Hair', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Clip-In', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '9 x 1 x 1 inches; 0.48 Ounces', 'UPC': '615517482166'}\nI think this might work for people with smaller heads or smaller faces but I felt it wasn\u2019t wider enough or thick enough to look good on me. The hair was very soft and real looking though!\nNot very much hair",
+  "profile": "**User Summary:**\n\n- **Hair Preferences:** Prefers natural-looking and high-quality hair extensions made from human hair. \n- **Installation Method:** Favors clip-in extensions for ease of use.\n- **Fit:** Has specific needs regarding size and thickness; prefers products that accommodate larger head sizes and provide adequate volume.\n- **Quality Sensitivity:** Values softness and realism in hair products but requires sufficient density for satisfactory appearance.\n- **Rating Approach:** Exhibits a balanced view towards products, appreciating positives while providing critical feedback about shortcomings.\n- **Overall Satisfaction:** Experiences mixed feelings; has encountered products that meet some expectations but also expresses dissatisfaction when products don\u2019t fit well.\n\nThis user tends to prioritize realistic appearance and comfort in hair extensions while being mindful of fit and thickness.",
+  "metrics": {
+    "rouge1_f": 0.22115384615384615,
+    "rouge2_f": 0.048543689320388356,
+    "rougeL_f": 0.15384615384615385,
+    "meteor": 0.14093410197306303,
+    "bleu1": 0.11976047904191617,
+    "bleu2": 0.026859796516861517,
+    "bleu3": 0.007589977656615837,
+    "bleu4": 0.004040819125464368,
+    "bertscore_precision": 0.4510786533355713,
+    "bertscore_recall": 0.45382070541381836,
+    "bertscore_f1": 0.45244550704956055
+  }
+}

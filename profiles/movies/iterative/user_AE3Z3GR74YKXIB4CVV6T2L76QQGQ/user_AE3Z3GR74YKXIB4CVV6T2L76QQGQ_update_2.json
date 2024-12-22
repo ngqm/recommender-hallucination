@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/08/23\nAverage Rating: 3.9\nProduct Details: {'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Eric Demeusy'], 'Producers': ['Eric Demeusy', 'Rhonda Alani', 'Andrea Dondanville', 'Matthew Helderman', 'Rj Hendricks', 'Andrew J. Keller', 'Les Keller', 'Ryan Keller', 'Eugene Kolodin', 'Kyle McIntyre'], 'Starring': ['Ryan Masson', 'Highdee Kuan', 'Shaw Jones'], 'Studio': ['Shout! Factory']}\nReview Text: good movie for sci-fi folks\nReview Title: movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lawrence Kasdan'], 'Producers': ['Lawrence Kasdan', 'Elizabeth Redleaf', 'Anthony Bregman'], 'Starring': ['Diane Keaton', 'Kevin Kline', 'Dianne Wiest'], 'Studio': ['Sony Pictures Classics']}\nHeart-warming movie\ngood movie\n{'Content advisory': ['Violence', 'foul language'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Eric Demeusy'], 'Producers': ['Eric Demeusy', 'Rhonda Alani', 'Andrea Dondanville', 'Matthew Helderman', 'Rj Hendricks', 'Andrew J. Keller', 'Les Keller', 'Ryan Keller', 'Eugene Kolodin', 'Kyle McIntyre'], 'Starring': ['Ryan Masson', 'Highdee Kuan', 'Shaw Jones'], 'Studio': ['Shout! Factory']}\ngood movie for sci-fi folks\nmovie",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: While maintaining a core interest in heartwarming narratives, the user has shown an openness to diverse genres, including science fiction, indicating a growing appreciation for engaging stories beyond their primary emotional themes. \n\n- **Language & Accessibility**: Continues to prefer content in English, with a strong emphasis on English closed captions for accessibility, reaffirming their commitment to inclusive viewing experiences.\n\n- **Quality of Production**: The user remains inclined towards high-quality production values, demonstrated by their recognition of established filmmakers and studios, which adds to their overall enjoyment of media.\n\n- **Actor Preference**: While previously focused on established and acclaimed actors, the recent interaction suggests flexibility in this area, as they engaged with different talent, reflecting a willingness to explore new performances.\n\n- **Overall Rating Trend**: Generally rates favored content highly, displaying a positive disposition towards media, but has also rated a sci-fi film with a lower score than typically expected. This indicates a discerning taste where not all genres necessarily align with their usual preferences, yet they can appreciate quality regardless of genre.\n\nOverall, this user balances a strong inclination towards heartfelt and uplifting stories with an evolving interest in other genres, alongside a consistent demand for quality production and accessibility in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.060200668896321065,
+    "rouge2_f": 0.006734006734006734,
+    "rougeL_f": 0.046822742474916385,
+    "meteor": 0.05712979890310787,
+    "bleu1": 0.08778625954198471,
+    "bleu2": 0.005799532929468902,
+    "bleu3": 0.0023474925885530198,
+    "bleu4": 0.0014949553830284474,
+    "bertscore_precision": 0.3679092526435852,
+    "bertscore_recall": 0.34718894958496094,
+    "bertscore_f1": 0.3572489023208618
+  }
+}

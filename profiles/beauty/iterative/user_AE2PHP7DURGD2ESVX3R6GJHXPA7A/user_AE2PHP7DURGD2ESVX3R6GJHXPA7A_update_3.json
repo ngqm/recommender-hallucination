@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Magnetic Eyeliner and Eyelash Kit Natural Look Waterproof and Smudge Resistant No Glue Easier To Use Than Traditional Magnetic Eyelashes\nReview Date: 2019/11/16\nStore: ALICROWN HAIR\nAverage Rating: 3.3\nProduct Details: {'Package Dimensions': '4.49 x 2.4 x 0.79 inches; 1.66 Ounces', 'UPC': '734830079171'}\nReview Text: The only reason 4 four stars, is the band on the lashes seem a lil 2 thick, the lashes themselves seem normal & nice\ud83d\udc4c\nReview Title: Nice & ok\ud83d\ude00\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Cai Cosmetics Gel Eyeliner & Brush 2-Piece Set Stay All Day Waterproof (Brown)\nCai Cosmetics New York\n{'Brand': 'Cai Cosmetics New York', 'Item Form': 'Gel', 'Finish Type': 'Natural', 'Unit Count': '1.00 Count', 'Coverage': 'Light', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '6 x 1 x 1 inches; 0.16 Ounces', 'UPC': '844952182489'}\nIt stays put..except 4 it dries out 2 fast..other than that..I would of gave it 5 \ud83c\udf1f\nOverallll greatttt product)..\n48 Pairs Eyebrow Stencils Templates Shaping Eyebrow Stencils and 3 Pieces Eyebrow Razors Eyebrow Shavers for Women Makeup Tools\nBlulu\n{}\nPretty neat & luv the ways 2 help U2 do ur brows these days\ud83d\udc4d\nIt helps very much:)\nMagnetic Eyeliner and Eyelash Kit Natural Look Waterproof and Smudge Resistant No Glue Easier To Use Than Traditional Magnetic Eyelashes\nALICROWN HAIR\n{'Package Dimensions': '4.49 x 2.4 x 0.79 inches; 1.66 Ounces', 'UPC': '734830079171'}\nThe only reason 4 four stars, is the band on the lashes seem a lil 2 thick, the lashes themselves seem normal & nice\ud83d\udc4c\nNice & ok\ud83d\ude00",
+  "profile": "**User Summary Update:**\n\n- **Product Preference:** The user maintains a strong enthusiasm for cosmetics, particularly tools that enhance makeup application, such as adhesive alternatives for eyelashes. They seek practical solutions that streamline their beauty routines while remaining aesthetically appealing. Their focus on functionality and usability continues to guide their purchasing decisions.\n\n- **Rating Tendencies:** The user tends to give higher ratings (4 out of 5 stars) for products they find valuable, even if these items have lower overall averages. This highlights their willingness to overlook certain imperfections if the product meets their specific needs or enhances their beauty routine positively.\n\n- **Brand Affinity:** The user engages with brands that offer innovative solutions and quality, favoring those that provide effective alternatives to traditional cosmetics application methods. Their exploration of diverse product types suggests a broad interest in discovering reliable brands that align with their standards.\n\n- **Overall Behavior:** The user's latest interaction reaffirms their thoughtful approach as a consumer who values products that offer practical enhancements to their grooming rituals. They appreciate functional and aesthetically pleasing items, while still critically assessing overall product performance. Their openness to trying new tools indicates a continuous desire to improve their beauty regimen with efficient and reliable solutions.",
+  "metrics": {
+    "rouge1_f": 0.16533333333333333,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06933333333333333,
+    "meteor": 0.09389671361502347,
+    "bleu1": 0.1138211382113821,
+    "bleu2": 0.006815981765909973,
+    "bleu3": 0.002670273041152814,
+    "bleu4": 0.0016730741339421279,
+    "bertscore_precision": 0.35266804695129395,
+    "bertscore_recall": 0.36230942606925964,
+    "bertscore_f1": 0.35742369294166565
+  }
+}

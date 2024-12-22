@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Taya Beauty Buriti Nut Intensive Repair Shampoo & Conditioner Duo \u2013 Organic Hydrating Shampoo and Conditioner for Dry Damaged Hair - Restorative Hair Care \u2013 Travel Size 2 fl oz\nReview Date: 2020/09/28\nStore: TAYA I AM.\nAverage Rating: 3.4\nProduct Details: {'Product Benefits': 'Hydrating', 'Item Form': 'Liquid', 'Brand': 'TAYA I AM.', 'Hair Type': 'All, Dull, Color Treated, Dry, Chemically Treated, Damaged', 'Number of Items': '2', 'Package Dimensions': '5.25 x 3.5 x 1.1 inches; 2 Ounces', 'UPC': '858308002635'}\nReview Text: For the price of shampoo and conditioner, I buy all natural and still get bottles easily 10-20x the size of these, this would be a good travel kit, but it's not worth the money... The scent isn't bad, and it's overall decent, but it's far too expensive for the size.\nReview Title: Tiny bottles, good product...\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Taya Beauty Buriti Nut Intensive Repair Shampoo & Conditioner Duo \u2013 Organic Hydrating Shampoo and Conditioner for Dry Damaged Hair - Restorative Hair Care \u2013 Travel Size 2 fl oz\nTAYA I AM.\n{'Product Benefits': 'Hydrating', 'Item Form': 'Liquid', 'Brand': 'TAYA I AM.', 'Hair Type': 'All, Dull, Color Treated, Dry, Chemically Treated, Damaged', 'Number of Items': '2', 'Package Dimensions': '5.25 x 3.5 x 1.1 inches; 2 Ounces', 'UPC': '858308002635'}\nFor the price of shampoo and conditioner, I buy all natural and still get bottles easily 10-20x the size of these, this would be a good travel kit, but it's not worth the money... The scent isn't bad, and it's overall decent, but it's far too expensive for the size.\nTiny bottles, good product...",
+  "profile": "**User Profile Summary:**\n\n- **Product Preference:** This user seems to favor natural and organic personal care products, particularly those aimed at restoring and hydrating hair.\n  \n- **Value Sensitivity:** Demonstrates a strong emphasis on value for money, feeling that the size of the product does not justify the price, indicating a preference for larger sizes at a reasonable cost.\n\n- **Travel Compatibility:** Shows interest in travel-sized products, suggesting that convenience for travel is a priority.\n\n- **Scent Acceptance:** Neutral to positive towards product scent, but not a primary driver for satisfaction.\n\n- **Overall Experience:** While the user finds the product satisfactory in performance, they express disappointment regarding the size-to-price ratio, reflecting a pragmatic approach to purchasing.\n\n- **Hair Care Focus:** Engaged in hair care, particularly for dry and damaged hair, indicating specific concerns about hair health.\n\nOverall, the user values high-quality, natural products, prioritizes cost-effectiveness, and appreciates travel-friendly options.",
+  "metrics": {
+    "rouge1_f": 0.2763636363636364,
+    "rouge2_f": 0.06593406593406594,
+    "rougeL_f": 0.14545454545454545,
+    "meteor": 0.18546859647079264,
+    "bleu1": 0.2413793103448276,
+    "bleu2": 0.09145834880646446,
+    "bleu3": 0.03465374843995308,
+    "bleu4": 0.012010336208690851,
+    "bertscore_precision": 0.4217076301574707,
+    "bertscore_recall": 0.4467305541038513,
+    "bertscore_f1": 0.43385860323905945
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: WINIAER Headbands for Women 8 Pack, Fabric Hair Band Accessories Elastic Head Wrap Cute Outdoor Hair Accessories, Suitable for Women and Girls\nReview Date: 2021/03/14\nStore: WINIAER\nAverage Rating: 5.0\nProduct Details: {'Material': 'Plastic', 'Fabric Type': 'Elastic', 'Brand': 'WINIAER', 'Item Form': 'Wrap', 'Unit Count': '1.00 Count', 'Package Dimensions': '8 x 7 x 2 inches; 7.2 Ounces', 'UPC': '791405583280'}\nReview Text: Beautiful style, nice and wide headbands\nReview Title: Lovely headbands\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "WINIAER Headbands for Women 8 Pack, Fabric Hair Band Accessories Elastic Head Wrap Cute Outdoor Hair Accessories, Suitable for Women and Girls\nWINIAER\n{'Material': 'Plastic', 'Fabric Type': 'Elastic', 'Brand': 'WINIAER', 'Item Form': 'Wrap', 'Unit Count': '1.00 Count', 'Package Dimensions': '8 x 7 x 2 inches; 7.2 Ounces', 'UPC': '791405583280'}\nBeautiful style, nice and wide headbands\nLovely headbands",
+  "profile": "**User Summary:**\n\n- **Fashion Preferences:** Enjoys stylish and functional accessories, specifically headbands.\n- **Material Preference:** Prefers elastic materials for comfort and fit.\n- **Aesthetic Style:** Appreciates beauty and design in hair accessories, favoring wider styles.\n- **Quality:** Values high-quality products, as indicated by a top rating for satisfactory purchases.\n- **Demographic:** Likely targets women and girls, indicating a focus on feminine accessories.\n- **Shopping Behavior:** Engages positively with brands that offer aesthetics and functionality combined.\n- **Rating History:** Consistently gives high ratings, suggesting a strong inclination for satisfaction with products.",
+  "metrics": {
+    "rouge1_f": 0.2097902097902098,
+    "rouge2_f": 0.0425531914893617,
+    "rougeL_f": 0.13986013986013984,
+    "meteor": 0.17310119924258363,
+    "bleu1": 0.11971830985915492,
+    "bleu2": 0.009214477887378602,
+    "bleu3": 0.003928901517832891,
+    "bleu4": 0.0025700978428255844,
+    "bertscore_precision": 0.4301533102989197,
+    "bertscore_recall": 0.4167308807373047,
+    "bertscore_f1": 0.4233357310295105
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nReview Date: 2020/08/13\nStore: HOMELEX\nAverage Rating: 3.5\nProduct Details: {'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nReview Text: the material is so smooth, love the variety of ways to wear it.\nReview Title: love it\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Women's Pleated Scarves Pashmina Shawl Wraps for Wedding Bride Bridesmaid Gifts (Black)\nHOMELEX\n{'Package Dimensions': '12 x 10.7 x 0.8 inches; 7.2 Ounces', 'Department': 'Womens', 'UPC': '782903598692'}\nthe material is so smooth, love the variety of ways to wear it.\nlove it",
+  "profile": "**User Profile Summary:**\n\n- **Fashion Orientation:** Strong preference for women's accessories focused on versatility and aesthetics, highlighted by interest in scarves and shawls suitable for formal occasions like weddings.\n- **Material Preference:** Appreciates smooth and high-quality materials, indicating a value for comfort and luxury in wearable items.\n- **Variability in Use:** Enjoys products that can be styled in multiple ways, suggesting a creative approach to fashion and a need for multifunctional items.\n- **Positive Purchasing Experience:** Exhibits a tendency to leave positive feedback when satisfied, valuing items that meet or exceed expectations.\n- **Moderate Caution:** Indicated by a mixed rating (3.5 average) on other products, suggesting the user is discerning and may be selective with purchases. \n\nOverall, the user enjoys quality, versatile fashion items and appreciates positive product attributes while maintaining high standards.",
+  "metrics": {
+    "rouge1_f": 0.14689265536723164,
+    "rouge2_f": 0.01142857142857143,
+    "rougeL_f": 0.11299435028248588,
+    "meteor": 0.19149450549450553,
+    "bleu1": 0.09497206703910616,
+    "bleu2": 0.00730445712166171,
+    "bleu3": 0.003112200302400093,
+    "bleu4": 0.0020343350816812516,
+    "bertscore_precision": 0.43340742588043213,
+    "bertscore_recall": 0.38872289657592773,
+    "bertscore_f1": 0.4098508059978485
+  }
+}

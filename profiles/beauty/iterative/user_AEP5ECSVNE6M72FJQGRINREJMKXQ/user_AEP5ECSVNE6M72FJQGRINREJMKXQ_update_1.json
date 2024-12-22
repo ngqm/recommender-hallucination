@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 1 oz, Brown - Bargz Perfume - Oud Wood Body Oil For Men by Tom Ford Scented Fragrance\nReview Date: 2017/05/22\nStore: Bargz\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'oil', 'Item Volume': '1 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.2 x 3.1 x 1.3 inches; 1 Ounces', 'UPC': '781772917443'}\nReview Text: Fantastic fragrance!!  And it lasts all day.  Love it.\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "1 oz, Brown - Bargz Perfume - Oud Wood Body Oil For Men by Tom Ford Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'oil', 'Item Volume': '1 Fluid Ounces', 'Age Range (Description)': 'Adult', 'Style': 'Modern', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '3.2 x 3.1 x 1.3 inches; 1 Ounces', 'UPC': '781772917443'}\nFantastic fragrance!!  And it lasts all day.  Love it.\nFive Stars",
+  "profile": "**User Summary:**\n\n- **Fragrance Preference:** Enjoys strong, lasting scents, particularly oil-based fragrances.\n- **Product Style:** Prefers modern formulations and contemporary branding.\n- **Satisfaction Levels:** Generally positive experiences, reflected in high ratings.\n- **Review Behavior:** Appreciates effective fragrances, as evidenced by enthusiastic feedback on notable longevity.\n- **Purchase Motivation:** Likely prioritizes quality and effectiveness in scent choices, searching for reliable options that deliver a strong impression.",
+  "metrics": {
+    "rouge1_f": 0.17600000000000002,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.096,
+    "meteor": 0.11331444759206799,
+    "bleu1": 0.16037013115646148,
+    "bleu2": 0.012358819902656528,
+    "bleu3": 0.005276268422183663,
+    "bleu4": 0.003455899335380913,
+    "bertscore_precision": 0.4046061038970947,
+    "bertscore_recall": 0.4373399615287781,
+    "bertscore_f1": 0.4203367233276367
+  }
+}

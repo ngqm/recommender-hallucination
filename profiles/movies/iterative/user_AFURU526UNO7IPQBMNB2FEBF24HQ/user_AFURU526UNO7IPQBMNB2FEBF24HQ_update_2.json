@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/05/03\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sean Anders'], 'Producers': ['Mark Wahlberg', 'Steve Levinson', 'Sean Anders', 'John Morris', 'Marc Evans'], 'Starring': ['Mark Wahlberg', 'Rose Byrne', 'Isabela Moner']}\nReview Text: Funny, sad it's got it all.\nReview Title: Great movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nicholas Winter'], 'Producers': ['Nicholas Winter', 'Jacoby Bancroft', 'Jeffrey Giles', 'Marc Goldberg', 'Michael Lurie', 'Sammy Measom', 'Jeet Thakrar', 'Lucinda Rhodes Thakrar', 'Elizabeth Williams'], 'Starring': ['Kristian Nairn', 'Martyn Ford', 'Brian Blessed'], 'Studio': ['Signature Entertainment']}\nMeh\nMeh\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Sean Anders'], 'Producers': ['Mark Wahlberg', 'Steve Levinson', 'Sean Anders', 'John Morris', 'Marc Evans'], 'Starring': ['Mark Wahlberg', 'Rose Byrne', 'Isabela Moner']}\nFunny, sad it's got it all.\nGreat movie",
+  "profile": "**User Profile Summary**\n\n- **Rating Tendencies**: User shows a mix of ratings, previously averaging around 3.2, but more recent interactions reveal an enjoyment of certain works, reflected in a high rating of 5.0, indicating potential shifts towards more positive engagement with select content.\n\n- **Content Preferences**: User maintains openness to diverse themes, including those featuring nudity, violence, and foul language. The recent favorable review suggests a greater appreciation for well-crafted narratives that engage emotionally, blending humor and seriousness effectively.\n\n- **Language Use**: Preference for English in both audio and subtitles remains consistent, aligning with the user's background as primarily English-speaking.\n\n- **Engagement with Creators**: Continued interest in specific directors and producers is evident, reinforcing a trend towards recognizing and supporting established talent within the film industry.\n\n- **Overall Sentiment**: While the user generally exhibits ambivalence towards content\u2014often described as \"meh\"\u2014the recent review reveals an ability to be thoroughly entertained and moved, suggesting that their critical stance may be contingent on the quality and execution of the work. This indicates a discerning audience that values depth and engagement over superficial appeals. \n\nOverall, the user appears to balance critical evaluation with the capacity for enjoyment, particularly when works strike a chord with them.",
+  "metrics": {
+    "rouge1_f": 0.12040133779264214,
+    "rouge2_f": 0.01346801346801347,
+    "rougeL_f": 0.0802675585284281,
+    "meteor": 0.06068487212830516,
+    "bleu1": 0.08627450980392158,
+    "bleu2": 0.0058280650684844615,
+    "bleu3": 0.0023767094202248734,
+    "bleu4": 0.0015192593942185584,
+    "bertscore_precision": 0.3647361993789673,
+    "bertscore_recall": 0.3500586450099945,
+    "bertscore_f1": 0.3572467267513275
+  }
+}

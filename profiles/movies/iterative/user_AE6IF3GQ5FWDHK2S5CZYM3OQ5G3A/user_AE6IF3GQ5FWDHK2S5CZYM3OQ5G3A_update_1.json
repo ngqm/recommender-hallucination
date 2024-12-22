@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Avatar\nReview Date: 2018/11/12\nCategories: Adventure, Action, Ambitious, Exotic\nProduct Description: ['From Academy Award winning director James Cameron (Aliens, The Abyss, True Lies, Titanic) comes Avatar, the story of an ex-Marine who finds himself thrust into hostilities on an alien planet filled with exotic life forms. As an Avatar, a human mind in an alien body, he finds himself torn between two worlds, in a desperate fight for his own survival and that of the indigenous people.']\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Cameron'], 'Producers': ['Brooke Breton', 'James Cameron', 'Laeta Kalogridis', 'Jon Landau', 'Josh McLaglen', 'Janace Tashjian', 'Peter M. Tobyansen', 'Colin Wilson'], 'Starring': ['Sam Worthington', 'Sigourney Weaver', 'Zoe Saldana']}\nReview Text: Great product thanks\nReview Title: Great product thanks\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Avatar\nAdventure, Action, Ambitious, Exotic\n['From Academy Award winning director James Cameron (Aliens, The Abyss, True Lies, Titanic) comes Avatar, the story of an ex-Marine who finds himself thrust into hostilities on an alien planet filled with exotic life forms. As an Avatar, a human mind in an alien body, he finds himself torn between two worlds, in a desperate fight for his own survival and that of the indigenous people.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Cameron'], 'Producers': ['Brooke Breton', 'James Cameron', 'Laeta Kalogridis', 'Jon Landau', 'Josh McLaglen', 'Janace Tashjian', 'Peter M. Tobyansen', 'Colin Wilson'], 'Starring': ['Sam Worthington', 'Sigourney Weaver', 'Zoe Saldana']}\nGreat product thanks\nGreat product thanks",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** The user enjoys adventure and action genres, with a particular interest in ambitious and exotic themes. \n- **Content Appreciation:** Preferences lean toward narrative-rich storytelling with complex characters and settings, particularly involving extraterrestrial or fantastical elements.\n- **Director Affinity:** There is a noted appreciation for works from renowned directors, specifically those with a history of success in creating visually stunning and impactful films.\n- **Quality Assessment:** The user demonstrates a high standard for content, as indicated by their rating of 4.8 and a review that expresses satisfaction.\n- **Content Sensitivity:** The user is aware of and acknowledges content advisory elements, indicating a consideration for thematic maturity which includes violence and other adult themes.\n- **Engagement Style:** The user's review style is concise and expresses enthusiasm for the product, suggesting a preference for clear and straightforward communication when providing feedback. \n\nOverall, the user appears to value immersive experiences in film, particularly those that challenge conventional narratives and showcase spectacular settings or innovative storytelling techniques.",
+  "metrics": {
+    "rouge1_f": 0.17931034482758618,
+    "rouge2_f": 0.006944444444444444,
+    "rougeL_f": 0.12413793103448276,
+    "meteor": 0.09246088193456614,
+    "bleu1": 0.1506849315068493,
+    "bleu2": 0.02629097339661487,
+    "bleu3": 0.006829431172396247,
+    "bleu4": 0.003484776758683676,
+    "bertscore_precision": 0.38887789845466614,
+    "bertscore_recall": 0.4162134826183319,
+    "bertscore_f1": 0.40208160877227783
+  }
+}

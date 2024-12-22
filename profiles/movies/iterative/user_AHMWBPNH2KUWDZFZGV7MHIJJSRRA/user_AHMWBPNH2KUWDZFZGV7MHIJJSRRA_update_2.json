@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/11/15\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenny Ortega'], 'Producers': ['David Kirschner', 'Steven Haft'], 'Starring': ['Bette Midler', 'Sarah Jessica Parker', 'Kathy Najimy'], 'Studio': ['Walt Disney Pictures']}\nReview Text: We love it!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Michael McGowan'], 'Producers': ['Michael McGowan', 'Jody Colero', 'Avi Federgreen', 'Tamara Deverell'], 'Starring': ['James Cromwell', 'Genevieve Bujold', 'Campbell Scott'], 'Studio': ['SAMUEL GOLDWYN FILMS LLC.']}\nBeautiful story, not to be missed!\nFive Stars\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Kenny Ortega'], 'Producers': ['David Kirschner', 'Steven Haft'], 'Starring': ['Bette Midler', 'Sarah Jessica Parker', 'Kathy Najimy'], 'Studio': ['Walt Disney Pictures']}\nWe love it!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference:** Continues to enjoy compelling narratives, particularly in film, with a strong focus on emotional storytelling and character depth. Recent interaction highlights a preference for family-oriented and nostalgic content, suggesting a fondness for works that elicit warm, positive feelings.\n  \n- **Rating Tendencies:** Consistently provides high ratings, with an average rating now at 4.6, notably boosted by a recent 5.0 rating. This indicates a strong positive response toward quality content and reinforces the user's appreciation for well-crafted films.\n\n- **Language & Accessibility:** Maintains a preference for English language audio, along with subtitles, emphasizing the importance of accessibility and understanding in media consumption.\n\n- **Director & Producer Influence:** Continues to favor works by specific directors and producers, indicating stability in their appreciation for distinct thematic and stylistic qualities in cinematic productions, as seen in their recent choice.\n\n- **Actor Preference:** Shows ongoing appreciation for performances by well-regarded actors, underlining a consistent value placed on strong talent.\n\n- **Overall Sentiment:** Enthusiasm and satisfaction with chosen content are clear, demonstrating a strong emotional connection to media consumed. The recent review expressed joy and enjoyment, further highlighting the user\u2019s affinity for engaging and entertaining storytelling.\n\nThis profile reflects a user who seeks high-quality, emotionally resonant stories while maintaining consistent preferences for filmmaking elements and accessibility features, enriched by a penchant for nostalgic content.",
+  "metrics": {
+    "rouge1_f": 0.09271523178807946,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.05298013245033112,
+    "meteor": 0.0773067331670823,
+    "bleu1": 0.0909090909090909,
+    "bleu2": 0.005647824947249051,
+    "bleu3": 0.0022394843830762126,
+    "bleu4": 0.0014114464957173869,
+    "bertscore_precision": 0.3774331212043762,
+    "bertscore_recall": 0.3428908884525299,
+    "bertscore_f1": 0.35933375358581543
+  }
+}

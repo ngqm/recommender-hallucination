@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Zeny Pro 2in1 Hot Salon Ozone Facial Steamer w/ 5x Desktop LED Magnifying Magnifier Floor Lamp Combo (#1)\nReview Date: 2017/02/02\nAverage Rating: 3.6\nProduct Details: {'Package Dimensions': '28 x 13 x 8.5 inches; 10 Pounds'}\nReview Text: flimsy but it works\nReview Title: Two Stars\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Ebingoo Blonde Ombre Lace Front Wigs Side Part Natural Long Wave Synthetic Heat Resistant Fiber Wig for Women 24 Inch\nEbingoo\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.5 x 1.89 x 1.5 inches; 8.8 Ounces', 'UPC': '736950486662'}\ngood wig\nFour Stars\nEbingoo Free Part Copper Red Long Natural Wave Synthetic Lace Front Wig 20inch\nEbingoo\n{'Material': 'Synthetic', 'Hair Type': 'Curly', 'Brand': 'Ebingoo', 'Age Range (Description)': 'Adult', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '10.2 x 6.3 x 1.8 inches; 12.64 Ounces', 'UPC': '711420424085'}\ngood hair\nFour Stars\nZeny Pro 2in1 Hot Salon Ozone Facial Steamer w/ 5x Desktop LED Magnifying Magnifier Floor Lamp Combo (#1)\n{'Package Dimensions': '28 x 13 x 8.5 inches; 10 Pounds'}\nflimsy but it works\nTwo Stars",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference**: Wigs, specifically lace front and synthetic options.\n- **Style Preference**: Natural-looking styles featuring wave patterns; shades preferred include blonde, ombre, and copper red.\n- **Purchase Behavior**: Engages with products that balance quality and affordability, typically maintaining a positive rating around 4.0. Recently, there has been a noticeable shift towards exploring bolder colors, alongside consistent interest in natural wave patterns.\n- **Rating Consistency**: Generally favorable ratings showcasing satisfaction with product functionality and aesthetics. The latest interaction demonstrates a lower satisfaction level, reflected in a rating of 2.0, indicating potential concerns about durability or effectiveness in non-wig products while still emphasizing reliability in previous hair purchases.\n- **Review Characteristics**: Provides concise and clear feedback, with a preference for efficiency in communication. The recent review was notably brief and critical, highlighting a decreasing trend in satisfaction for this type of product.\n\nThe user continues to prioritize stylish, manageable wigs that enhance their appearance while exploring additional beauty and personal care products. The recent purchase mirrors a growing interest in different beauty tools, though the lower rating suggests caution towards items that may fall short of expectations.",
+  "metrics": {
+    "rouge1_f": 0.1125,
+    "rouge2_f": 0.025157232704402517,
+    "rougeL_f": 0.06875,
+    "meteor": 0.1199751580849142,
+    "bleu1": 0.07818930041152264,
+    "bleu2": 0.0056841558976882586,
+    "bleu3": 0.0023755908267635577,
+    "bleu4": 0.001537361211138385,
+    "bertscore_precision": 0.389773964881897,
+    "bertscore_recall": 0.35780736804008484,
+    "bertscore_f1": 0.3731071949005127
+  }
+}

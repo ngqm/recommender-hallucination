@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/09/25\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker'], 'Studio': ['ABC']}\nReview Text: Really great show and so easy to buy on prime!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Gail Mancuso', 'Steven Levitan', 'Beth McCarthy-Miller', 'Michael Spiller', 'Jason Winer', 'James R. Bagdonas', 'James Alan Hensz', 'Fred Savage', 'Chris Koch', 'Jeffrey Walker'], 'Studio': ['ABC']}\nReally great show and so easy to buy on prime!!\nFive Stars",
+  "profile": "**User Profile Summary:**\n\n- **Rating Preference:** Highly positive ratings, indicated by an average rating of 4.9 and a perfect 5-star review.\n- **Content Consumption:** Prefers English audio and subtitles, showing a preference for accessible viewing options.\n- **Genre and Themes:** Enjoys shows with strong directorial involvement from diverse directors, suggesting an appreciation for high-quality production and storytelling.\n- **Platform Preference:** Comfortable with online purchasing and streaming, particularly favoring Prime for convenience and ease of access.\n- **Engagement Style:** Engages positively with content, evident from enthusiastic review language; values user-friendly experiences in media consumption.\n- **Social Aspect:** Likely appreciates shows that foster social interactions or cultural conversations, given the mention of enjoying the show.\n\nThis profile reflects a user who is discerning in their media choices and values both quality and accessibility in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.1016949152542373,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.056497175141242924,
+    "meteor": 0.07042253521126761,
+    "bleu1": 0.06521739130434781,
+    "bleu2": 0.005969750308475661,
+    "bleu3": 0.0026953405708231067,
+    "bleu4": 0.001813596181059645,
+    "bertscore_precision": 0.3916053771972656,
+    "bertscore_recall": 0.3546770513057709,
+    "bertscore_f1": 0.3722275495529175
+  }
+}

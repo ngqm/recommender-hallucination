@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2017/09/25\nAverage Rating: 4.5\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Diane English'], 'Producers': ['Victoria Pearman', 'Mick Jagger', 'Bill Johnson', 'Diane English'], 'Starring': ['Meg Ryan', 'Annette Bening', 'Eva Mendes'], 'Studio': ['New Line']}\nReview Text: When I saw this movie on Amazon I couldn't believe it.  it's chocked full of stars AND &#34;The Women&#34; has always been a movie favorite for me.  I was soooo excited to rent it.  FAIL!!!  I don't know how these ladies all managed to lose their ability to act at the same time.  This is like watch a school play!  sooo Bad\nReview Title: Don't Do It!\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Diane English'], 'Producers': ['Victoria Pearman', 'Mick Jagger', 'Bill Johnson', 'Diane English'], 'Starring': ['Meg Ryan', 'Annette Bening', 'Eva Mendes'], 'Studio': ['New Line']}\nWhen I saw this movie on Amazon I couldn't believe it.  it's chocked full of stars AND &#34;The Women&#34; has always been a movie favorite for me.  I was soooo excited to rent it.  FAIL!!!  I don't know how these ladies all managed to lose their ability to act at the same time.  This is like watch a school play!  sooo Bad\nDon't Do It!",
+  "profile": "**User Profile Summary:**\n\n- **Rating Tendencies**: The user displays a tendency to rate content highly (4.5 average) but also expresses significant dissatisfaction, as evidenced by a 1.0 rating for a specific title.\n  \n- **Content Preferences**: Shows a preference for movies featuring strong female leads and notable star-studded casts, indicating an appreciation for high-quality performances.\n\n- **Genre Sensitivity**: Sensitive to the quality of acting; expresses disappointment when performances do not meet expectations.\n\n- **Content Advisory Awareness**: Acknowledges and considers content advisories like violence, alcohol use, and foul language when engaging with media.\n\n- **Communication Style**: The user employs emotional language to convey strong opinions, particularly when a favorite title fails to impress, indicating a passionate engagement with cinematic experiences.\n\n- **Interest in Nostalgia**: References to favorite movies suggest a possible nostalgia factor, valuing both historical and contemporary productions. \n\nOverall, this user appears to favor films that promise strong performances and engaging storylines, while being critical when these expectations are not met.",
+  "metrics": {
+    "rouge1_f": 0.22471910112359553,
+    "rouge2_f": 0.030188679245283023,
+    "rougeL_f": 0.11235955056179776,
+    "meteor": 0.13178703215603585,
+    "bleu1": 0.17757009345794392,
+    "bleu2": 0.009130511544271084,
+    "bleu3": 0.00340056791589579,
+    "bleu4": 0.0020777484925874404,
+    "bertscore_precision": 0.39746588468551636,
+    "bertscore_recall": 0.3885285258293152,
+    "bertscore_f1": 0.39294636249542236
+  }
+}

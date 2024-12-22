@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/04/27\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nReview Text: Entertaining\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English Dialogue Boost: High', 'English', 'English [Audio Description]', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Norberto Barba', \"Terrence O'Hara\", 'Eric Laneuville', 'Aaron Lipstadt', 'Peter Werner', 'David Solomon', 'Steven DePaul', 'John Behring', 'Darnell Martin', 'Karen Gaviola'], 'Starring': ['David Giuntoli', 'Bitsie Tulloch', 'Russell Hornsby'], 'Studio': ['NBC']}\nEntertaining\nFour Stars",
+  "profile": "**User Profile Summary**\n\n- **Overall Rating Preference**: Strong inclination towards quality, with an average rating of 4.8 for previous interactions, indicating a critical yet appreciative stance toward content.\n  \n- **Content Preferences**: Enjoys a blend of genres that may involve elements like violence, intense scenes, and adult themes, as evidenced by the appreciation for content with warnings regarding violence and sexual content.\n\n- **Language & Accessibility**: Prioritizes English-language content with options for dialogue boosts and audio descriptions, indicating a focus on clear understanding and engagement with the narrative.\n\n- **Entertainment Value**: Values entertainment quality, demonstrated by a positive review descriptor (\"Entertaining\") alongside a favorable overall rating.\n\n- **Production Team Engagement**: Shows a recognition of the roles of directors and starring actors, suggesting that user satisfaction may be influenced by the reputation or style of creators.\n\n- **Diversity of Content**: Engages with content from various directors and studios, pointing to an openness to different storytelling styles and creative approaches. \n\nThis profile reflects a discerning viewer who seeks engaging content that resonates with a mix of adult themes and accessible audio features while appreciating notable creators in the industry.",
+  "metrics": {
+    "rouge1_f": 0.13991769547325103,
+    "rouge2_f": 0.024896265560165977,
+    "rougeL_f": 0.11522633744855966,
+    "meteor": 0.09903996232936173,
+    "bleu1": 0.08333333333333333,
+    "bleu2": 0.005904871165973934,
+    "bleu3": 0.0024468910474551206,
+    "bleu4": 0.001576790110733563,
+    "bertscore_precision": 0.38567405939102173,
+    "bertscore_recall": 0.3423181176185608,
+    "bertscore_f1": 0.3627050518989563
+  }
+}

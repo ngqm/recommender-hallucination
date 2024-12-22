@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/03/30\nAverage Rating: 4.8\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philippa Lowthorpe', 'Jamie Payne'], 'Starring': ['Jessica Raine', 'Jenny Agutter', 'Pam Ferris']}\nReview Text: Great series about birthing babies, poverty, and the total absence of birth control in London in the late 1950's. Really interesting characters, great performances.\nReview Title: Wonderful series\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'frightening scenes', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Bradley Buecker', 'Alfonso Gomez-Rejon', 'Michael Uppendahl', 'Loni Peristere', 'John J. Gray', 'Jennifer Lynch', 'Gwyneth Horder-Payton', 'Michael Goi', 'Ryan Murphy', 'Michael Lehmann'], 'Starring': ['Lily Rabe', 'Evan Peters', 'Sarah Paulson'], 'Studio': ['FX']}\nI love this series, however twisted that makes me. It is funny, horrifying, and psychologically fascinating. The performances are superb and the sets harrowing.\nWonderfully creepy\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Philippa Lowthorpe', 'Jamie Payne'], 'Starring': ['Jessica Raine', 'Jenny Agutter', 'Pam Ferris']}\nGreat series about birthing babies, poverty, and the total absence of birth control in London in the late 1950's. Really interesting characters, great performances.\nWonderful series",
+  "profile": "**User Summary:**\n\nThe user exhibits a strong preference for dark, psychologically complex narratives that blend humor with horror elements, while also showing an appreciation for works that tackle societal issues through a historical lens. Their recent interaction highlights a fascination with character-driven stories, particularly those exploring intense themes such as poverty and the societal implications of childbirth. The user values high-quality performances and production value, likely favoring skilled actors and directors who bring depth to their roles.\n\nWhile traditionally gravitating towards content laden with violence and mature themes, the user has demonstrated a willingness to engage with narratives that address serious topics in a poignant yet entertaining manner. This reflects a broader spectrum of interest in captivating storytelling that provokes thought and engagement, maintaining a balance between the unsettling and the insightful. Overall, the user leans towards narratives that are not only psychologically complex but also offer great character development and strong performances, showcasing a nuanced appreciation for both the darkly humorous and the socially relevant aspects of storytelling.",
+  "metrics": {
+    "rouge1_f": 0.16382252559726962,
+    "rouge2_f": 0.020618556701030927,
+    "rougeL_f": 0.0887372013651877,
+    "meteor": 0.08866782006920415,
+    "bleu1": 0.13597917223571687,
+    "bleu2": 0.041108740588180766,
+    "bleu3": 0.008895231067014672,
+    "bleu4": 0.004143373356506869,
+    "bertscore_precision": 0.3693721890449524,
+    "bertscore_recall": 0.4171290993690491,
+    "bertscore_f1": 0.39180073142051697
+  }
+}

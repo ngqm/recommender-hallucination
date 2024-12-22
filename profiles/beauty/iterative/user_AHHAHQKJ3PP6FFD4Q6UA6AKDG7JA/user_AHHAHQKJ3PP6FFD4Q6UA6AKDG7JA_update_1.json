@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 165G Jumbo Braiding Hair Blonde Synthetic Jumbo Braids 3 Packs\nReview Date: 2020/07/24\nStore: UHair\nAverage Rating: 3.9\nProduct Details: {'Package Dimensions': '13.94 x 6.69 x 3.74 inches; 1.19 Pounds'}\nReview Text: I wanted to make my own Rapunzel wig but cwas dissatisfied with the cost from Arda you only get 1 for $10 plus shipping and I needed 3 of them. I got these 3 for half the cost I originally bought from Arda. I kept the Arda ones until these came in just to check quality and they\u2019re literally the exact same thing. So I sent the Arda ones back. I think the wig came out beautifully and you can\u2019t even tell this was 3 separate braids at one point. Definitely would buy again! I followed a tutorial I found on google to make the wig, then added my own touches by including the lights!\nReview Title: Perfect base for Rapunzel Braids!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "165G Jumbo Braiding Hair Blonde Synthetic Jumbo Braids 3 Packs\nUHair\n{'Package Dimensions': '13.94 x 6.69 x 3.74 inches; 1.19 Pounds'}\nI wanted to make my own Rapunzel wig but cwas dissatisfied with the cost from Arda you only get 1 for $10 plus shipping and I needed 3 of them. I got these 3 for half the cost I originally bought from Arda. I kept the Arda ones until these came in just to check quality and they\u2019re literally the exact same thing. So I sent the Arda ones back. I think the wig came out beautifully and you can\u2019t even tell this was 3 separate braids at one point. Definitely would buy again! I followed a tutorial I found on google to make the wig, then added my own touches by including the lights!\nPerfect base for Rapunzel Braids!",
+  "profile": "The user exhibits a strong interest in crafting and custom hairstyling, particularly through wig-making. They demonstrate a preference for cost-effective solutions, opting for budget-friendly options that do not compromise on quality. Their satisfaction with products that yield high aesthetic results, as evidenced by their successful creation of a wig inspired by a well-known character, highlights a focus on creativity and personalization in their projects. \n\nAdditionally, the user seems to value instructional content, as indicated by their use of online tutorials to enhance their crafting experience. They have an inclination towards practicality and efficiency, evident in their decision to return a more expensive product after discovering an equally effective alternative. Overall, this user appreciates quality, affordability, and creative expression in their purchases, with a particular inclination towards hair and beauty products.",
+  "metrics": {
+    "rouge1_f": 0.18505338078291816,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.07117437722419928,
+    "meteor": 0.10338345864661654,
+    "bleu1": 0.14843370495946334,
+    "bleu2": 0.009614111318320934,
+    "bleu3": 0.003869869355596659,
+    "bleu4": 0.0024594684736210597,
+    "bertscore_precision": 0.40421363711357117,
+    "bertscore_recall": 0.42486321926116943,
+    "bertscore_f1": 0.41428127884864807
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Chuse Permanent Makeup Eyebrow Tattoo Machine Kit with Needles Tips Power Supply Kx-104\nReview Date: 2017/06/02\nAverage Rating: 2.9\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.91 x 3.94 x 1.97 inches; 8.8 Ounces', 'Item model number': 'KX-104', 'UPC': '708302456616'}\nReview Text: Does not go deep enough for the dye to be permenant.  Maybe I have to go over the area a second session for the color to stay.\nReview Title: Does not go deep enough for the dye to be ...\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "One Dozen Hibiscus Flower Hair Clips/LUAU/BEACH Party Supplies/Hair Accessories\n{'Hair Type': 'All', 'Age Range (Description)': 'Adult', 'Embellishment': 'Flower, Bow', 'Theme': 'Floral', 'Occasion': 'Wedding, Birthdays', 'Package Dimensions': '3.5 x 2.3 x 0.5 inches; 2.4 Ounces'}\nVery lovely.  Would buy again.\nVery lovely. Would buy again.\nChuse Permanent Makeup Eyebrow Tattoo Machine Kit with Needles Tips Power Supply Kx-104\n{'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.91 x 3.94 x 1.97 inches; 8.8 Ounces', 'Item model number': 'KX-104', 'UPC': '708302456616'}\nDoes not go deep enough for the dye to be permenant.  Maybe I have to go over the area a second session for the color to stay.\nDoes not go deep enough for the dye to be ...",
+  "profile": "**User Summary:**\n\n- **Interests:** Floral themes, vibrant and decorative accessories, particularly hair accessories, with a newfound interest in beauty tools aimed at enhancing personal appearance.\n- **Occasions:** Enjoys products suited for weddings and birthdays, reflecting a preference for celebratory and event-oriented items.\n- **Aesthetic:** Appreciates lovely and visually appealing designs, favoring colorful embellishments like flowers and bows, while also exploring items that support personal grooming and style.\n- **Quality Expectation:** Displays a willingness to repurchase based on satisfaction with product quality; however, the latest experience shows a willingness to critique and seek improvement in beauty tools, indicating a desire for better performance.\n- **Target Group:** Purchases designed for adults, indicating a mature demographic instinct in taste, now incorporating a broader view that includes both styling and beauty maintenance tools.\n\nOverall, this user favors decorative, thematic accessories that enhance personal style in social and celebratory contexts, while also exploring practical beauty solutions, emphasizing quality and effectiveness in all products they evaluate.",
+  "metrics": {
+    "rouge1_f": 0.16901408450704225,
+    "rouge2_f": 0.007092198581560284,
+    "rougeL_f": 0.09154929577464789,
+    "meteor": 0.11654349061967027,
+    "bleu1": 0.15165876777251186,
+    "bleu2": 0.008498144553021749,
+    "bleu3": 0.0032571216606863784,
+    "bleu4": 0.002018876030424127,
+    "bertscore_precision": 0.39370259642601013,
+    "bertscore_recall": 0.40217554569244385,
+    "bertscore_f1": 0.3978939652442932
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: AG Care Natural Remedy Apple Cider Vinegar Leave On Mist\nReview Date: 2019/02/03\nAverage Rating: 4.4\nProduct Details: {'Brand': 'AG Care', 'Item Form': 'Spray', 'Material Feature': 'Plant Based, Vegan', 'Hair Type': 'All, Color Treated', 'Product Benefits': 'Gently cleanses and seals cuticle to enhance shine. Superfoods and apple cider vinegar support soft, healthy hair.Gently cleanses and seals cuticle to enhance shine. Superfoods and apple cider vinegar support soft, healthy hair.  See more', 'Product Dimensions': '1.75 x 1.75 x 6 inches; 6.14 Ounces', 'Item model number': '100150', 'UPC': '625336002391', 'Manufacturer': 'AG Hair', 'Country of Origin': 'Canada'}\nReview Text: This is pretty good.  I was surprised at how well it worked for detangling wet hair.  The scent is also nice -- it does not smell like vinegar.  It does help with frizziness, too, on those really humid days.  It also reduces static electricity in your hair on really dry days.  I would definitely use this again.\nReview Title: Detangles Well\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "AG Care Natural Remedy Apple Cider Vinegar Leave On Mist\n{'Brand': 'AG Care', 'Item Form': 'Spray', 'Material Feature': 'Plant Based, Vegan', 'Hair Type': 'All, Color Treated', 'Product Benefits': 'Gently cleanses and seals cuticle to enhance shine. Superfoods and apple cider vinegar support soft, healthy hair.Gently cleanses and seals cuticle to enhance shine. Superfoods and apple cider vinegar support soft, healthy hair.  See more', 'Product Dimensions': '1.75 x 1.75 x 6 inches; 6.14 Ounces', 'Item model number': '100150', 'UPC': '625336002391', 'Manufacturer': 'AG Hair', 'Country of Origin': 'Canada'}\nThis is pretty good.  I was surprised at how well it worked for detangling wet hair.  The scent is also nice -- it does not smell like vinegar.  It does help with frizziness, too, on those really humid days.  It also reduces static electricity in your hair on really dry days.  I would definitely use this again.\nDetangles Well",
+  "profile": "**User Summary:**\n\n- **Product Preference:** Shows a strong inclination towards hair care products that are effective at detangling and managing hair texture, particularly in various environmental conditions (humidity and dryness). \n- **Brand Affinity:** Prefers plant-based, vegan products, indicating a focus on natural ingredients and animal-friendly options.\n- **Performance Focus:** Values product efficacy, particularly in enhancing shine, reducing frizz, and providing softness to hair. \n- **Scent Sensitivity:** Appreciates pleasant scents, specifically those that do not resemble traditional strong odors associated with certain ingredients (e.g., vinegar).\n- **Repurchase Likelihood:** Demonstrates a willingness to repurchase effective products, particularly if they meet multiple needs in hair care. \n\nOverall, this user emphasizes natural, high-performance hair care solutions that address specific hair challenges while being conscious of product ingredients and sensory experiences.",
+  "metrics": {
+    "rouge1_f": 0.27106227106227104,
+    "rouge2_f": 0.022140221402214017,
+    "rougeL_f": 0.1391941391941392,
+    "meteor": 0.15206729822163045,
+    "bleu1": 0.20974929972716003,
+    "bleu2": 0.032077210273115365,
+    "bleu3": 0.007977255239424014,
+    "bleu4": 0.003983860626705483,
+    "bertscore_precision": 0.4439117908477783,
+    "bertscore_recall": 0.45931267738342285,
+    "bertscore_f1": 0.4514809548854828
+  }
+}

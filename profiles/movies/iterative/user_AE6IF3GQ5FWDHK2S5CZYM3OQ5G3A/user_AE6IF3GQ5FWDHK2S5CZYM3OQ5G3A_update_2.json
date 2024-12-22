@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/11/12\nAverage Rating: 4.0\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Padilha'], 'Producers': ['Tim Bevan', 'Eric Fellner', 'Kate Solomon', 'Michelle Wright', 'Ron Halpern'], 'Starring': ['Daniel Br\u00fchl', 'Rosamund Pike', 'Eddie Marsan'], 'Studio': ['Focus Features']}\nReview Text: Great product thanks\nReview Title: Great product thanks\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Avatar\nAdventure, Action, Ambitious, Exotic\n['From Academy Award winning director James Cameron (Aliens, The Abyss, True Lies, Titanic) comes Avatar, the story of an ex-Marine who finds himself thrust into hostilities on an alien planet filled with exotic life forms. As an Avatar, a human mind in an alien body, he finds himself torn between two worlds, in a desperate fight for his own survival and that of the indigenous people.']\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['James Cameron'], 'Producers': ['Brooke Breton', 'James Cameron', 'Laeta Kalogridis', 'Jon Landau', 'Josh McLaglen', 'Janace Tashjian', 'Peter M. Tobyansen', 'Colin Wilson'], 'Starring': ['Sam Worthington', 'Sigourney Weaver', 'Zoe Saldana']}\nGreat product thanks\nGreat product thanks\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jos\u00e9 Padilha'], 'Producers': ['Tim Bevan', 'Eric Fellner', 'Kate Solomon', 'Michelle Wright', 'Ron Halpern'], 'Starring': ['Daniel Br\u00fchl', 'Rosamund Pike', 'Eddie Marsan'], 'Studio': ['Focus Features']}\nGreat product thanks\nGreat product thanks",
+  "profile": "**User Profile Summary:**\n\n- **Genre Preferences:** The user enjoys adventure and action genres, with a heightened interest in ambitious and exotic themes. \n- **Content Appreciation:** They gravitate towards narrative-rich storytelling, especially with complex characters and settings, often featuring extraterrestrial or fantastical elements. \n- **Director Affinity:** There is a strong appreciation for works by renowned directors known for crafting visually stunning films, influenced by recent engagements with successful titles.\n- **Quality Assessment:** The user maintains a high standard for content, reflected in their impressive average rating of 4.8, along with a recent 5.0 rating indicating continued satisfaction with their viewing choices. \n- **Content Sensitivity:** They demonstrate awareness of thematic maturity, acknowledging content advisory elements such as violence and other adult themes, ensuring thoughtfulness in their media consumption.\n- **Engagement Style:** The user's review style remains concise, showcasing enthusiasm in their feedback, as evidenced by their straightforward recent review, which positively affirms their enjoyment of the product. \n\nOverall, the user values immersive cinematic experiences that challenge conventional narratives and showcase innovative storytelling techniques, while consistently expecting high-quality production. Their continued engagement with diverse and impactful films demonstrates an ongoing quest for meaningful narratives.",
+  "metrics": {
+    "rouge1_f": 0.15909090909090906,
+    "rouge2_f": 0.011428571428571429,
+    "rougeL_f": 0.08522727272727272,
+    "meteor": 0.08558712769599451,
+    "bleu1": 0.13237321795965454,
+    "bleu2": 0.029659408972596845,
+    "bleu3": 0.006645493404963224,
+    "bleu4": 0.0031488491556675205,
+    "bertscore_precision": 0.3615094721317291,
+    "bertscore_recall": 0.40052446722984314,
+    "bertscore_f1": 0.3800182342529297
+  }
+}

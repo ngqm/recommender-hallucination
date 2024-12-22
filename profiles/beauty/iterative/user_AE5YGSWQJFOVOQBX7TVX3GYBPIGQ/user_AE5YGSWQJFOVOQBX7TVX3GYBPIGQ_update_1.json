@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Wyuen 12 Sheets Butterfly Women Temporary Tattoo Stickers Animal Tattoos Body Art Waterproof Hand Fake Sticker (W12-03)\nReview Date: 2018/09/29\nStore: Wyuen\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Wyuen', 'Size': '3.85x2.36 Inch (Pack of 12)', 'Water Resistance Level': 'Waterproof', 'Pattern': 'Animal', 'Number of Pieces': '12', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.91 x 3.94 x 0.39 inches; 0.28 Ounces', 'Item model number': 'FW12-03', 'UPC': '746591612887'}\nReview Text: Absolutely beautiful!! I just love them! The colors and designs are so pretty. I can't wait to try them out!!\nReview Title: Very pretty designs and colors!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Wyuen 12 Sheets Butterfly Women Temporary Tattoo Stickers Animal Tattoos Body Art Waterproof Hand Fake Sticker (W12-03)\nWyuen\n{'Brand': 'Wyuen', 'Size': '3.85x2.36 Inch (Pack of 12)', 'Water Resistance Level': 'Waterproof', 'Pattern': 'Animal', 'Number of Pieces': '12', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '5.91 x 3.94 x 0.39 inches; 0.28 Ounces', 'Item model number': 'FW12-03', 'UPC': '746591612887'}\nAbsolutely beautiful!! I just love them! The colors and designs are so pretty. I can't wait to try them out!!\nVery pretty designs and colors!!",
+  "profile": "**User Profile Summary:**\n\n- **Artistic Appreciation:** User shows a strong preference for visually appealing items, particularly those with vibrant colors and attractive designs.\n- **Interest in Temporary Body Art:** The purchase indicates a liking for temporary tattoos, especially those themed around nature and animals.\n- **Aesthetic Focus:** The user values beauty and aesthetic appeal over practicality, as evidenced by the excitement expressed in the review.\n- **Positive Attitude:** Exhibits a generally positive outlook towards products, likely favoring experiences that bring joy and satisfaction.\n- **Rating Behavior:** Tends to award high ratings to products that meet or exceed expectations, indicating a preference for quality.\n- **Engagement with Creative Expression:** The use of body art suggests an interest in self-expression and creativity.\n\nOverall, this user is drawn to colorful, artistic products that enhance personal style and self-expression, with a tendency to share positive feedback on satisfying purchases.",
+  "metrics": {
+    "rouge1_f": 0.15517241379310345,
+    "rouge2_f": 0.02608695652173913,
+    "rougeL_f": 0.08620689655172414,
+    "meteor": 0.130895850204913,
+    "bleu1": 0.13333333333333333,
+    "bleu2": 0.03707519988800323,
+    "bleu3": 0.008930379150060726,
+    "bleu4": 0.004388611291315772,
+    "bertscore_precision": 0.38621190190315247,
+    "bertscore_recall": 0.3935787081718445,
+    "bertscore_f1": 0.38986048102378845
+  }
+}

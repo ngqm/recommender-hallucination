@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/12/23\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Pete Docter'], 'Producers': ['Jonas Rivera'], 'Starring': ['Amy Poehler', 'Phyllis Smith', 'Richard Kind']}\nReview Text: Bought online, daughter loved it.\nReview Title: daughter loved it.\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Kevin Lima', 'Chris Buck'], 'Producers': ['Bonnie Arnold'], 'Starring': ['Tony Goldwyn', 'Sean Bussoli', 'Reuben Sallmander'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Subtitles': ['None available'], 'Directors': ['Clyde Geronimi', 'Hamilton S. Luske', 'Wolfgang Reitherman'], 'Producers': ['Walt Disney'], 'Starring': ['Rod Taylor', 'Betty Lou Gerson', 'Cate Bauer'], 'Studio': ['Walt Disney Pictures']}\nBought online, daughter loved it.\ndaughter loved it.\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Pete Docter'], 'Producers': ['Jonas Rivera'], 'Starring': ['Amy Poehler', 'Phyllis Smith', 'Richard Kind']}\nBought online, daughter loved it.\ndaughter loved it.",
+  "profile": "**User Summary:**\n\n- **Family-Oriented**: Key decision-making continues to be deeply influenced by their daughter's preferences and enjoyment, as evidenced by a recent purchase that she loved.\n- **Content Quality**: Maintains high standards for entertainment, consistently achieving an impressive average rating of 4.8, with a recent acquisition rated 5.0, showcasing a commitment to quality family-friendly content.\n- **Language and Accessibility**: Values diverse audio options and subtitles, though recent purchases reflect a growing flexibility in engaging with content that may not offer subtitles, indicating adaptability in their viewing choices.\n- **Brand Preference**: The user retains a strong inclination toward reputable studios, particularly Disney, favoring well-produced family-friendly content that aligns with their values.\n- **Positive Experiences**: Consistently focuses on enjoyable and engaging content for children, with enthusiastic feedback supporting this trend. Recent interactions confirm high satisfaction for both the user and their daughter, reinforcing their commitment to curating wonderful experiences.\n\nOverall, the user exhibits a steadfast preference for high-quality, accessible entertainment that meets their family's needs. Their continued positive engagement with recognized studios, especially Disney, underscores an ongoing dedication to fostering enjoyable viewing experiences for their daughter while maintaining high standards in content selection.",
+  "metrics": {
+    "rouge1_f": 0.0918032786885246,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.06557377049180328,
+    "meteor": 0.0733544805709754,
+    "bleu1": 0.12641623437956065,
+    "bleu2": 0.007081348847485782,
+    "bleu3": 0.0027131984088323347,
+    "bleu4": 0.0016811716690420314,
+    "bertscore_precision": 0.3581346273422241,
+    "bertscore_recall": 0.3502739667892456,
+    "bertscore_f1": 0.3541606664657593
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Stamped Glorious Short Hair Extensions Halo Wire Sercet Crown Synthetic Wavy Curly Brown Blonde Bayalage Hairpieces For Women Invisible (16 inch, 16H613)\nReview Date: 2021/02/28\nStore: Stamped Glorious\nAverage Rating: 2.2\nProduct Details: {'Brand': 'Stamped Glorious', 'Material': 'Synthetic', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Package Dimensions': '9.76 x 7.05 x 1.69 inches; 6.74 Ounces'}\nReview Text: The quality of this hair is great! No one could even tell there was a hairpiece in. The hair is nice and thick. It does advertise that heat products can be used on it. When trying to curl for tighter curls, it didn\u2019t really hold well, but none the less the curls it came with have held up well.\nReview Title: Wow! Can you even tell this is fake!!!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Stamped Glorious Short Hair Extensions Halo Wire Sercet Crown Synthetic Wavy Curly Brown Blonde Bayalage Hairpieces For Women Invisible (16 inch, 16H613)\nStamped Glorious\n{'Brand': 'Stamped Glorious', 'Material': 'Synthetic', 'Hair Type': 'Curly', 'Material Feature': 'Natural', 'Package Dimensions': '9.76 x 7.05 x 1.69 inches; 6.74 Ounces'}\nThe quality of this hair is great! No one could even tell there was a hairpiece in. The hair is nice and thick. It does advertise that heat products can be used on it. When trying to curl for tighter curls, it didn\u2019t really hold well, but none the less the curls it came with have held up well.\nWow! Can you even tell this is fake!!!",
+  "profile": "**User Summary:**\n\n- **Product Type Preference:** The user enjoys hair extensions, particularly those that provide a natural look and texture, such as curly styles.\n- **Material Preference:** The user appears to favor synthetic materials, valuing products that offer the appearance of real hair without the high maintenance.\n- **Quality Sensitivity:** Strong emphasis on quality and durability, as evidenced by their positive remarks about thickness and natural appearance. However, there is an awareness of performance limitations, like heat resistance.\n- **Visual Appeal:** The user appreciates hairpieces that can blend seamlessly with natural hair, highlighting a preference for products that are indistinguishable from real hair.\n- **Performance Expectations:** While the user is generally satisfied with the aesthetic, there is a noted concern regarding the ability of products to hold styling, indicating a preference for versatility in styling options.\n\nOverall, the user values natural appearance, quality, and product versatility in hair extensions, demonstrating a keen awareness of both aesthetic and practical aspects of beauty products.",
+  "metrics": {
+    "rouge1_f": 0.26277372262773724,
+    "rouge2_f": 0.007352941176470588,
+    "rougeL_f": 0.13138686131386862,
+    "meteor": 0.16231699554423934,
+    "bleu1": 0.19339622641509435,
+    "bleu2": 0.009573765160251562,
+    "bleu3": 0.003520859935385282,
+    "bleu4": 0.0021377159120334293,
+    "bertscore_precision": 0.43789374828338623,
+    "bertscore_recall": 0.45113468170166016,
+    "bertscore_f1": 0.4444156289100647
+  }
+}

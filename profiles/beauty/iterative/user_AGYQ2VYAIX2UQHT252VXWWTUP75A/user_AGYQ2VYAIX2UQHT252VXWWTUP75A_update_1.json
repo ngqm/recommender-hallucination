@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: NewYou Curly Lace Front Wigs Human Hair 4x4 Lace Closure Wigs for Black Women Pre Plucked with Baby Hair 150% Density Brazilian Curly Lace Front Closure Wigs Human Hair 18 Inch\nReview Date: 2022/03/04\nStore: NewYou\nAverage Rating: 3.5\nProduct Details: {'Material': 'Human', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'NewYou', 'Age Range (Description)': 'Adult', 'Package Dimensions': '11.57 x 9.84 x 2.17 inches; 7.37 Ounces'}\nReview Text: Looks nothing like the picture, stiff!! The curls didn\u2019t have the \u201cwet\u201d look they were dry and puffy looking, right in the trash\nReview Title: Awful\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "NewYou Curly Lace Front Wigs Human Hair 4x4 Lace Closure Wigs for Black Women Pre Plucked with Baby Hair 150% Density Brazilian Curly Lace Front Closure Wigs Human Hair 18 Inch\nNewYou\n{'Material': 'Human', 'Hair Type': 'Curly', 'Style': 'Modern', 'Brand': 'NewYou', 'Age Range (Description)': 'Adult', 'Package Dimensions': '11.57 x 9.84 x 2.17 inches; 7.37 Ounces'}\nLooks nothing like the picture, stiff!! The curls didn\u2019t have the \u201cwet\u201d look they were dry and puffy looking, right in the trash\nAwful",
+  "profile": "**User Summary:**\n\n- **Product Preference:** The user has a strong inclination towards human hair products, particularly those designed for curly styles.\n- **Style Expectations:** They expect a high level of realism and quality in terms of appearance, specifically a desirable \"wet\" look for curls.\n- **Satisfaction Trends:** The user appears to prioritize product visuals and performance, as indicated by their disappointment when products do not match advertised expectations. They have a low tolerance for products that appear \"stiff\" or do not perform as described.\n- **Critical Evaluation:** They are willing to give feedback, reflecting a discerning nature when it comes to product quality. Their negative experience highlights a clear need for products to align closely with their expectations to ensure customer satisfaction.\n- **Brand Experience:** They have interacted with a specific brand but displayed dissatisfaction, which may influence their future purchasing decisions and preferences for more reliable alternatives.\n\nOverall, this user's profile illustrates a focused interest in realistic, high-quality curly hair products, with an emphasis on meeting visual and textural expectations.",
+  "metrics": {
+    "rouge1_f": 0.15079365079365079,
+    "rouge2_f": 0.024,
+    "rougeL_f": 0.0873015873015873,
+    "meteor": 0.13033175355450236,
+    "bleu1": 0.10360360360360361,
+    "bleu2": 0.006846857574403348,
+    "bleu3": 0.0027723834802047846,
+    "bleu4": 0.0017661555404955198,
+    "bertscore_precision": 0.40626996755599976,
+    "bertscore_recall": 0.38353362679481506,
+    "bertscore_f1": 0.39457452297210693
+  }
+}

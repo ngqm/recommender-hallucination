@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 5 Pack Travel Paper Soaps, Hand Washing Soap Paper Sheets, Portable And Replaceable Pocket Hand Soap For Travel, Outdoor, Camping Hiking, 1.2m/47inch Length Each, 5 Color/Scents\nReview Date: 2020/08/14\nStore: VEAFX\nAverage Rating: 4.2\nProduct Details: {'Item Form': 'Bar', 'Skin Type': 'All', 'Brand': 'VEAFX', 'Scent': 'Lavender, Tea Tree, Rose, Lemon, Lily', 'Material Feature': 'Biodegradable Warning', 'Package Dimensions': '4.8 x 3.7 x 0.6 inches; 1.59 Ounces', 'UPC': '782912939165'}\nReview Text: They\u2019re pocket sized and fit in my palm. So convenient for those public restroom trips that have run out of soap, just pop this out and you\u2019re good to go. Be careful with taking it out though, I thought it came out in sheets but it\u2019s more like foil paper where you cut the size you want. A small sheet should be good enough. It also has a subtle scent to it but it smells good. This is a must have product.\nReview Title: So convenient\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "5 Pack Travel Paper Soaps, Hand Washing Soap Paper Sheets, Portable And Replaceable Pocket Hand Soap For Travel, Outdoor, Camping Hiking, 1.2m/47inch Length Each, 5 Color/Scents\nVEAFX\n{'Item Form': 'Bar', 'Skin Type': 'All', 'Brand': 'VEAFX', 'Scent': 'Lavender, Tea Tree, Rose, Lemon, Lily', 'Material Feature': 'Biodegradable Warning', 'Package Dimensions': '4.8 x 3.7 x 0.6 inches; 1.59 Ounces', 'UPC': '782912939165'}\nThey\u2019re pocket sized and fit in my palm. So convenient for those public restroom trips that have run out of soap, just pop this out and you\u2019re good to go. Be careful with taking it out though, I thought it came out in sheets but it\u2019s more like foil paper where you cut the size you want. A small sheet should be good enough. It also has a subtle scent to it but it smells good. This is a must have product.\nSo convenient",
+  "profile": "The user demonstrates a strong preference for convenience and practicality, particularly in travel and outdoor scenarios. Key trends include:\n\n- **Portability**: The user values compact and easy-to-carry products, as indicated by the favorable impression of pocket-sized soap sheets. They appreciate items that enhance convenience during public restroom visits.\n  \n- **Functionality**: The emphasis on the soap's effectiveness and ease of use highlights the user's desire for reliable products that fulfill essential needs without complication.\n\n- **Scent**: The user shows a liking for pleasant fragrances, specifically mentioning a \"subtle scent\" that enhances their experience without being overpowering.\n\n- **Eco-consciousness**: The mention of biodegradable material suggests a consideration for environmental impact, indicating a preference for sustainable products.\n\n- **Positive User Experience**: The user rates the product highly, suggesting that they seek quality and performance in their purchases.\n\nOverall, this user profile indicates a practical, eco-conscious individual who prioritizes convenience, effectiveness, and pleasant sensory experiences in their product selections.",
+  "metrics": {
+    "rouge1_f": 0.2459546925566343,
+    "rouge2_f": 0.026058631921824102,
+    "rougeL_f": 0.12944983818770228,
+    "meteor": 0.16404786926497916,
+    "bleu1": 0.19801980198019803,
+    "bleu2": 0.04438858286046289,
+    "bleu3": 0.009950330853303562,
+    "bleu4": 0.004716989092743783,
+    "bertscore_precision": 0.409139484167099,
+    "bertscore_recall": 0.4195634722709656,
+    "bertscore_f1": 0.41428592801094055
+  }
+}

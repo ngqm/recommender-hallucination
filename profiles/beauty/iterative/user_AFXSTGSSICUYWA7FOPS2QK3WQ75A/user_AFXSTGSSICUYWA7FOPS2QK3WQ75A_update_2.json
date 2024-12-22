@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 3 Bundles Afro Kinky Curly Weave Bundles Heat Resistant Fiber Hair Weave Color Black Synthetic Hair Extensions for Black Women(16' 18\" 20\" 1#)\nReview Date: 2020/10/22\nStore: KAISI\nAverage Rating: 3.8\nProduct Details: {'Brand': 'KAISI', 'Material': 'Human Hair', 'Extension Length': '20 Inches', 'Style': 'Curly', 'Hair Type': 'Curly, Kinky'}\nReview Text: Good hair\nReview Title: Good\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10A Brazilian Virgin Hair Straight Remy Human Hair Weave 4 Bundles 18 20 22 24inch 100% Unprocessed Brazilian Straight Hair Bundles Natural Black Color Straight Hair Extensions\n{'Material': 'Human Hair', 'Extension Length': '24 Inches', 'Hair Type': 'Straight', 'Material Feature': 'Natural', 'Installation Type': 'Weave', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '12 x 6.1 x 2.1 inches; 1.1 Pounds', 'UPC': '699747933483'}\nIt is not healthy, split ends and empty\nnot 10a  It's not healthy, split ends\n3 Bundles Afro Kinky Curly Weave Bundles Heat Resistant Fiber Hair Weave Color Black Synthetic Hair Extensions for Black Women(16' 18\" 20\" 1#)\nKAISI\n{'Brand': 'KAISI', 'Material': 'Human Hair', 'Extension Length': '20 Inches', 'Style': 'Curly', 'Hair Type': 'Curly, Kinky'}\nGood hair\nGood",
+  "profile": "**User Summary:**\n\n- **Hair Preferences:** The user primarily prefers human hair products, favoring straight styles for a natural look, but has shown an openness to curly textures, as demonstrated by their recent purchase of kinky curly extensions.\n- **Quality Expectations:** The user maintains high expectations regarding product quality, particularly focused on health and durability. Their previous feedback highlighted issues like split ends, indicating a strong preference for high-quality materials.\n- **Detail Orientation:** The importance of product authenticity remains a key concern. The user values transparency in product descriptions, which reinforces their discerning nature when evaluating new products.\n- **Critical Reviewer:** While they have expressed dissatisfaction in the past, this recent positive review shows a willingness to appreciate good quality when it meets their expectations, reflected in their 5-star rating despite previously emphasizing concerns.\n- **Length Preferences:** The user continues to exhibit interest in longer hair extensions, seeking volume and versatility in styling options, with the latest purchase reflecting a preference for longer lengths (20 inches).\n\nOverall, the user emphasizes high-quality, healthy hair extensions that provide a natural look, and they are critical yet fair, recognizing good products when they align with their established standards.",
+  "metrics": {
+    "rouge1_f": 0.1847133757961783,
+    "rouge2_f": 0.04487179487179487,
+    "rougeL_f": 0.11464968152866242,
+    "meteor": 0.13376558305613914,
+    "bleu1": 0.12903225806451615,
+    "bleu2": 0.022856023405859887,
+    "bleu3": 0.005966075509652222,
+    "bleu4": 0.0030512306494686657,
+    "bertscore_precision": 0.3974793553352356,
+    "bertscore_recall": 0.3648536205291748,
+    "bertscore_f1": 0.38046833872795105
+  }
+}

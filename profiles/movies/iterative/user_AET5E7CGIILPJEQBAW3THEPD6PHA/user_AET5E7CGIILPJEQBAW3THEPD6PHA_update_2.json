@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/12/05\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Lee Fine', 'Paul A. Edwards', 'Douglas Aarniokoski', 'Ken Olin', 'Marc Roskin', 'Dwight H. Little', 'Wendey Stanzler', 'Kate Dennis', 'Olatunde Osunsanmi', \"Jim O'Hanlon\"], 'Studio': ['FOX']}\nReview Text: We absolutely loved every episode. It is a good show for anyone that loves action, science fiction and history rolled into one.\nReview Title: We Loved This!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Brian Kelly'], 'Producers': ['Brian Percival', 'Andy Goddard', 'Ashley Pearce', 'James Strong'], 'Starring': ['Huge Bonneville', 'Michelle Dockery', 'Maggie Smith'], 'Studio': ['BritBox']}\nThis is a delightful story set in an eventful time in history. I recommend it highly for anyone with a love of history and culture.\nCan't stop watching.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Russell Lee Fine', 'Paul A. Edwards', 'Douglas Aarniokoski', 'Ken Olin', 'Marc Roskin', 'Dwight H. Little', 'Wendey Stanzler', 'Kate Dennis', 'Olatunde Osunsanmi', \"Jim O'Hanlon\"], 'Studio': ['FOX']}\nWe absolutely loved every episode. It is a good show for anyone that loves action, science fiction and history rolled into one.\nWe Loved This!",
+  "profile": "**User Profile Summary:**\n\n- **Content Preferences:** The user enjoys a blend of action, science fiction, and historical narratives, demonstrating a broad appreciation for storytelling that intertwines various genres, particularly those grounded in historical context.\n- **Ratings Behavior:** Consistently high ratings with an average rating of 4.7 in recent interactions, reinforcing a satisfaction with quality and entertainment that aligns with their previous standards of 4.5 or 5 stars.\n- **Interest in Content Advisory:** Open to mature themes, including violence and complex subjects, showcasing a mature audience ready for diverse storytelling.\n- **Language and Accessibility:** Prefers English audio and subtitles, emphasizing the importance of comprehension and accessibility in content consumption.\n- **Production Quality:** Favors works by notable directors and producers, indicating a discerning taste for high production values.\n- **Engagement Style:** Enthusiastic about sharing positive experiences, as demonstrated in recent reviews where they emphasized enjoyment and recommend the content to others.\n- **Overall Trend:** Continuously drawn to rich narratives that offer both entertainment and cultural reflection, indicating an intention to seek out similar multifaceted content in future interactions while maintaining a love for action and historical narratives.",
+  "metrics": {
+    "rouge1_f": 0.20195439739413681,
+    "rouge2_f": 0.04590163934426229,
+    "rougeL_f": 0.1237785016286645,
+    "meteor": 0.11143352459470744,
+    "bleu1": 0.17478353620630144,
+    "bleu2": 0.053418506715311655,
+    "bleu3": 0.02859861008156824,
+    "bleu4": 0.017614303268967898,
+    "bertscore_precision": 0.39887481927871704,
+    "bertscore_recall": 0.4264071583747864,
+    "bertscore_f1": 0.4121817350387573
+  }
+}

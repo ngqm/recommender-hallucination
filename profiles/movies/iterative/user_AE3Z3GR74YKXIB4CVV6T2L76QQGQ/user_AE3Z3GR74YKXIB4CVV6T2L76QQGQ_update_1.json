@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2020/08/23\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lawrence Kasdan'], 'Producers': ['Lawrence Kasdan', 'Elizabeth Redleaf', 'Anthony Bregman'], 'Starring': ['Diane Keaton', 'Kevin Kline', 'Dianne Wiest'], 'Studio': ['Sony Pictures Classics']}\nReview Text: Heart-warming movie\nReview Title: good movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Lawrence Kasdan'], 'Producers': ['Lawrence Kasdan', 'Elizabeth Redleaf', 'Anthony Bregman'], 'Starring': ['Diane Keaton', 'Kevin Kline', 'Dianne Wiest'], 'Studio': ['Sony Pictures Classics']}\nHeart-warming movie\ngood movie",
+  "profile": "**User Profile Summary:**\n\n- **Content Preference**: Enjoys heartwarming narratives, indicating a preference for emotional and uplifting themes in media.\n  \n- **Language & Accessibility**: Favors content in English, with a notable appreciation for subtitles, particularly English closed captions, suggesting a preference for accessibility in viewing experiences.\n\n- **Quality of Production**: Tends to favor works produced by well-known filmmakers and studios, indicating an appreciation for high-quality production values.\n\n- **Actor Preference**: Shows interest in films featuring established and acclaimed actors, which may indicate a preference for star power and recognizable talent in performances.\n\n- **Overall Rating Trend**: Consistently rates favored content highly, reflecting a positive outlook and a discerning taste towards engaging and meaningful films. \n\nOverall, this user demonstrates a clear inclination towards heartwarming films with strong emotional connections, quality production, and notable performances.",
+  "metrics": {
+    "rouge1_f": 0.0875,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.075,
+    "meteor": 0.09090909090909091,
+    "bleu1": 0.08426966292134833,
+    "bleu2": 0.006899998482000503,
+    "bleu3": 0.003001892304704141,
+    "bleu4": 0.001982836105909165,
+    "bertscore_precision": 0.38159140944480896,
+    "bertscore_recall": 0.3190445899963379,
+    "bertscore_f1": 0.3475261628627777
+  }
+}

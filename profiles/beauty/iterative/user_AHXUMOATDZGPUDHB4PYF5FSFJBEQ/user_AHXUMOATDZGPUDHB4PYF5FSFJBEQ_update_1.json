@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 10Pack 2oz Plastic Empty Spray Bottle, Mostof Fine Mist Small Clear Travel Plastic Bottles Container with Funnels Labels\nReview Date: 2020/09/01\nStore: Mostof\nAverage Rating: 4.4\nProduct Details: {'Brand': 'Mostof', 'Capacity': '2 Ounces', 'Special Feature': 'Mist Spray', 'Product Care Instructions': 'Hand Wash Only', 'Reusability': 'Reusable', 'Package Dimensions': '6.5 x 6.3 x 3.9 inches; 8.78 Ounces', 'UPC': '634715829481'}\nReview Text: great mist coming out from this spray bottle and it has clear see through so i know what is the content and it even came with a label so i can name it as well. Thanks\nReview Title: Great Spray Bottle\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "10Pack 2oz Plastic Empty Spray Bottle, Mostof Fine Mist Small Clear Travel Plastic Bottles Container with Funnels Labels\nMostof\n{'Brand': 'Mostof', 'Capacity': '2 Ounces', 'Special Feature': 'Mist Spray', 'Product Care Instructions': 'Hand Wash Only', 'Reusability': 'Reusable', 'Package Dimensions': '6.5 x 6.3 x 3.9 inches; 8.78 Ounces', 'UPC': '634715829481'}\ngreat mist coming out from this spray bottle and it has clear see through so i know what is the content and it even came with a label so i can name it as well. Thanks\nGreat Spray Bottle",
+  "profile": "**User Profile Summary:**\n\n- **Product Type Preference:** User shows a preference for functional, practical items, particularly in personal care or travel-related products.\n- **Key Features Valued:**\n  - **Fine Mist Functionality:** Enjoys products that offer effective and controlled dispensing, suggesting a focus on precision.\n  - **Transparency:** Prefers clear containers that allow visibility of content, indicating a desire for organization and clarity.\n  - **Labeling Capability:** Valued the inclusion of labels, reflecting an inclination towards customization and identification for personal use.\n- **Usage Context:** Likely appreciates travel-friendly solutions, given the choice of small, portable containers.\n- **Care Instructions:** Accepts manageable care requirements (hand wash only), likely indicating a responsible approach to product maintenance.\n- **Overall Satisfaction:** High satisfaction as indicated by a perfect rating, suggesting the user prioritizes quality and effectiveness in their purchases.\n\nThis initial interaction establishes a trend of valuing practicality, usability, and organization in their purchased items.",
+  "metrics": {
+    "rouge1_f": 0.1896551724137931,
+    "rouge2_f": 0.034782608695652174,
+    "rougeL_f": 0.11206896551724138,
+    "meteor": 0.15330126489673132,
+    "bleu1": 0.12206572769953054,
+    "bleu2": 0.03393469417666079,
+    "bleu3": 0.008172127641671714,
+    "bleu4": 0.004015101534964664,
+    "bertscore_precision": 0.4024752974510193,
+    "bertscore_recall": 0.38701456785202026,
+    "bertscore_f1": 0.3945935368537903
+  }
+}

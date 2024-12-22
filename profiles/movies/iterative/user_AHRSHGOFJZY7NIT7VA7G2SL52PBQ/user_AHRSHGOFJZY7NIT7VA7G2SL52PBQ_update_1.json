@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Book of Eli\nReview Date: 2016/02/04\nCategories: Suspense, Drama, Bleak, Gritty\nProduct Description: ['A lone warrior (Denzel Washington) wanders the post-apocalyptic desert that was once America, battling lawlessness to realize his hope of a better future.']\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Allen Hughes', 'Albert Hughes'], 'Producers': ['Joel Silver', 'Denzel Washington', 'Broderick Johnson', 'David Valdes', 'Andrew A. Kosove'], 'Starring': ['Denzel Washington', 'Gary Oldman', 'Mila Kunis']}\nReview Text: A bit violent for some, no doubt, but great acting and good story\nReview Title: but great acting and good\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "The Book of Eli\nSuspense, Drama, Bleak, Gritty\n['A lone warrior (Denzel Washington) wanders the post-apocalyptic desert that was once America, battling lawlessness to realize his hope of a better future.']\n{'Content advisory': ['Violence'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Allen Hughes', 'Albert Hughes'], 'Producers': ['Joel Silver', 'Denzel Washington', 'Broderick Johnson', 'David Valdes', 'Andrew A. Kosove'], 'Starring': ['Denzel Washington', 'Gary Oldman', 'Mila Kunis']}\nA bit violent for some, no doubt, but great acting and good story\nbut great acting and good",
+  "profile": "**User Profile Summary:**\n\nThis user demonstrates a strong preference for suspenseful and dramatic content, particularly in gritty or post-apocalyptic settings. They appreciate high-quality acting and narratives with depth, suggesting a taste for well-developed characters and intricate storylines. Their review highlights a tolerance for violence in films, indicating they are comfortable engaging with intense themes when complemented by compelling performances. The user rates their experiences positively, often reflecting a balanced critique between content quality and personal enjoyment. Overall, this individual is drawn to thought-provoking cinema that challenges the viewer while providing emotional depth and engaging storytelling.",
+  "metrics": {
+    "rouge1_f": 0.1945945945945946,
+    "rouge2_f": 0.02185792349726776,
+    "rougeL_f": 0.0972972972972973,
+    "meteor": 0.06976744186046512,
+    "bleu1": 0.10265741207902745,
+    "bleu2": 0.02501203021960431,
+    "bleu3": 0.0072733765137374595,
+    "bleu4": 0.0039313311439592175,
+    "bertscore_precision": 0.3724527359008789,
+    "bertscore_recall": 0.4061657190322876,
+    "bertscore_f1": 0.3885793387889862
+  }
+}

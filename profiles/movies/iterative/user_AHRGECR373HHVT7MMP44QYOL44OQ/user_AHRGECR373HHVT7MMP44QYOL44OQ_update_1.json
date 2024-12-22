@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: American Hustle\nReview Date: 2014/04/14\nCategories: Drama, Strange, Fun, Serious\nProduct Description: ['From the director of Silver Linings Playbook and The Fighter, AMERICAN HUSTLE is outrageously entertaining and one of the most acclaimed films of the year.']\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Russell'], 'Producers': ['Charles Roven', 'Richard Suckle', 'Megan Ellison', 'Jonathan Gordon'], 'Starring': ['Christian Bale', 'Bradley Cooper', 'Amy Adams']}\nReview Text: I didn't like it.....it was a great story and could have  been intense and exciting.  Instead, it was hokey.  Just not my cup of tea.\nReview Title: Hokey\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "American Hustle\nDrama, Strange, Fun, Serious\n['From the director of Silver Linings Playbook and The Fighter, AMERICAN HUSTLE is outrageously entertaining and one of the most acclaimed films of the year.']\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Russell'], 'Producers': ['Charles Roven', 'Richard Suckle', 'Megan Ellison', 'Jonathan Gordon'], 'Starring': ['Christian Bale', 'Bradley Cooper', 'Amy Adams']}\nI didn't like it.....it was a great story and could have  been intense and exciting.  Instead, it was hokey.  Just not my cup of tea.\nHokey",
+  "profile": "**User Summary:**\n\n- **General Preference:** The user tends to engage with films that emphasize strong narratives, indicating a preference for serious and dramatic themes.\n  \n- **Critique Style:** Demonstrates a critical eye toward storytelling quality, expressing disappointment when films that have potential do not deliver intensity or excitement. The term \u201chokey\u201d suggests a dislike for films that come off as unrealistic or superficial.\n\n- **Rating Trends:** A rating of 2.0 for a film they found could have been engaging hints at a high standard for storytelling and character development, contrasting with their earlier rating of 4.5 for different films, suggesting they may reserve higher ratings for truly compelling cinema.\n\n- **Categories of Interest:** Enjoys drama with elements of intrigue and depth, but has a low tolerance for what they perceive as poorly executed humor or melodrama.\n\n- **Film Expectations:** Prefers films that provide meaningful engagement rather than superficial enjoyment, indicating a desire for thought-provoking content. \n\nOverall, the user appreciates films with depth and intensity but can be disappointed by those that fail to meet their expectations.",
+  "metrics": {
+    "rouge1_f": 0.16923076923076924,
+    "rouge2_f": 0.015503875968992246,
+    "rougeL_f": 0.08461538461538462,
+    "meteor": 0.15126967663585394,
+    "bleu1": 0.1493212669683258,
+    "bleu2": 0.03684380630918059,
+    "bleu3": 0.018369399332895945,
+    "bleu4": 0.007302256654387559,
+    "bertscore_precision": 0.4036291241645813,
+    "bertscore_recall": 0.40220165252685547,
+    "bertscore_f1": 0.4029141068458557
+  }
+}

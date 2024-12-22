@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/04/09\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Edward Hall', 'Peter Medak', 'Tom Shankland', 'Paul Unwin'], 'Producers': ['Rebecca Eaton (WGBH)', 'Phil Clymer (Chorion)', 'Michele Buck', 'Damien Timmer'], 'Starring': ['Geraldine McEwan', 'Anthony Andrews', 'Michael Brandon'], 'Studio': ['Acorn Media']}\nReview Text: Love the mysteries with the character Miss Marple.  They make me smile. I like the fact they focus on the story and not a lot of blood and gore.  Nice evening spent watching an engaging performance by Geraldine McEwan.\nReview Title: Spend the evening with a murder mystery\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Charles Palmer', 'Andy Wilson', 'John Strickland'], 'Producers': ['ITV'], 'Starring': ['Geraldine McEwan'], 'Studio': ['Agatha Christie']}\nI have always loved Agatha Christie's Miss Marple. Read the books years ago and finding this series was such a joy.  Great to watch and unwind.  Makes an enjoyable weekend mini- marathon with friends.\nLove the books, enjoy the series!\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Edward Hall', 'Peter Medak', 'Tom Shankland', 'Paul Unwin'], 'Producers': ['Rebecca Eaton (WGBH)', 'Phil Clymer (Chorion)', 'Michele Buck', 'Damien Timmer'], 'Starring': ['Geraldine McEwan', 'Anthony Andrews', 'Michael Brandon'], 'Studio': ['Acorn Media']}\nLove the mysteries with the character Miss Marple.  They make me smile. I like the fact they focus on the story and not a lot of blood and gore.  Nice evening spent watching an engaging performance by Geraldine McEwan.\nSpend the evening with a murder mystery",
+  "profile": "**User Profile Summary**\n\n- **Content Preference**: Strong affinity for classic detective stories and adaptations, particularly works by Agatha Christie and features such as Miss Marple, highlighting a preference for character-driven narratives that prioritize story over graphic content.\n- **Viewing Habits**: Enjoys watching series with friends, especially during weekend marathons, indicating a social aspect to their viewing pleasure.\n- **Engagement with Material**: Values both source materials (books) and their screen adaptations. Finds joy in familiar narratives, particularly those that offer emotional engagement and lighthearted elements amid the mysteries.\n- **Language & Accessibility**: Preference for English audio and subtitles, reinforcing a focus on clarity and comprehension in viewing experiences.\n- **Rating Behavior**: Generally positive ratings, often giving high marks to productions that deliver quality storytelling and engaging performances; recent ratings reflect a consistent appreciation for clever mysteries without excessive graphic elements.\n\nOverall, the user prioritizes engaging and nostalgic narratives, particularly those emphasizing clever plotting and strong character work, while enjoying the company of friends during their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.277602523659306,
+    "rouge2_f": 0.05079365079365079,
+    "rougeL_f": 0.138801261829653,
+    "meteor": 0.1382330932457896,
+    "bleu1": 0.19233493130125365,
+    "bleu2": 0.05709763030333696,
+    "bleu3": 0.01035522274930133,
+    "bleu4": 0.004415105255099565,
+    "bertscore_precision": 0.41123104095458984,
+    "bertscore_recall": 0.4396836757659912,
+    "bertscore_f1": 0.42498165369033813
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "AFB66DOMX32XVN6DMYHLSONTL34Q",
+  "summary": "=== Purchase Information ===\nProduct Title: SolScents Continuous Spray Sunscreen, Flower Blast, 6 Fluid Ounce by Solscents\nReview Date: 2020/05/19\nStore: SolScents\nAverage Rating: 3.3\nProduct Details: {'Sun Protection Factor': '50 Sun Protection Factor (SPF)', 'Item Weight': '0.5 Pounds', 'Unit Count': '6.0 Fl Oz', 'Skin Type': 'All', 'Item Dimensions LxWxH': '1.94 x 1.94 x 7.75 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.94 x 1.94 x 7.75 inches; 8 Ounces', 'UPC': '763319109429', 'Manufacturer': 'SolScents'}\nReview Text: Tiene bonito olor\nReview Title: Huele bien\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nReview Date: 2020/05/28\nStore: Too Faced\nAverage Rating: 4.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nReview Text: El color es bonito pero en verdad eata super chiquito creo que es mucho dinero para lo que trae de producto lastima\nReview Title: Super chiquito\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 1000pcs Makeup Face Cotton Pads - Square Facial Cosmetic Cotton Pads for Beauty Nail Polish Remover Pads,And Personal Skin Care\nReview Date: 2020/06/29\nStore: Y&H\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Y&H', 'Material': 'Cotton', 'Shape': 'Square', 'Unit Count': '1.00 Count', 'Package Dimensions': '6.69 x 4.21 x 2.8 inches; 4.97 Ounces', 'Item model number': 'HYB002'}\nReview Text: Bastantes solo que peque\u00f1as\nReview Title: Peque\u00f1as\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Privacy Uv Face Powder SPF50 ++++ 3.5g New Package\nReview Date: 2020/07/21\nStore: Privacy\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Privacy', 'Item Form': 'Powder', 'Color': 'Beige', 'Skin Type': 'Sensitive', 'Product Benefits': 'Lightening,Cleansing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.42 x 3.66 x 1.46 inches; 2.4 Ounces', 'Item model number': 'Simple Product'}\nReview Text: Polvo suelto pence que era compacto es fino pero muy poca cantidad para el precio es traslucido espero si cubra bien de los rayos solares\nReview Title: Ok\nRating: 4.0\n--------------------------------------------------",
+  "reference": "SolScents Continuous Spray Sunscreen, Flower Blast, 6 Fluid Ounce by Solscents\nSolScents\n{'Sun Protection Factor': '50 Sun Protection Factor (SPF)', 'Item Weight': '0.5 Pounds', 'Unit Count': '6.0 Fl Oz', 'Skin Type': 'All', 'Item Dimensions LxWxH': '1.94 x 1.94 x 7.75 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.94 x 1.94 x 7.75 inches; 8 Ounces', 'UPC': '763319109429', 'Manufacturer': 'SolScents'}\nTiene bonito olor\nHuele bien\nToo Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nToo Faced\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nEl color es bonito pero en verdad eata super chiquito creo que es mucho dinero para lo que trae de producto lastima\nSuper chiquito\n1000pcs Makeup Face Cotton Pads - Square Facial Cosmetic Cotton Pads for Beauty Nail Polish Remover Pads,And Personal Skin Care\nY&H\n{'Brand': 'Y&H', 'Material': 'Cotton', 'Shape': 'Square', 'Unit Count': '1.00 Count', 'Package Dimensions': '6.69 x 4.21 x 2.8 inches; 4.97 Ounces', 'Item model number': 'HYB002'}\nBastantes solo que peque\u00f1as\nPeque\u00f1as\nPrivacy Uv Face Powder SPF50 ++++ 3.5g New Package\nPrivacy\n{'Brand': 'Privacy', 'Item Form': 'Powder', 'Color': 'Beige', 'Skin Type': 'Sensitive', 'Product Benefits': 'Lightening,Cleansing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.42 x 3.66 x 1.46 inches; 2.4 Ounces', 'Item model number': 'Simple Product'}\nPolvo suelto pence que era compacto es fino pero muy poca cantidad para el precio es traslucido espero si cubra bien de los rayos solares\nOk",
+  "prompt": "Based on this purchase history, analyze and summarize this person's genuine preferences and patterns in under 256 words. Think step by step:\n\n    1. First, identify consistent patterns in ratings and sentiments\n    2. Next, observe common themes across product purposes and use cases\n    3. Then, note recurring quality preferences and price sensitivity patterns\n    4. Finally, synthesize these observations into core preferences\n\n    Remember to:\n    - Focus only on keywords and  trends supported by multiple interactions\n    - Avoid repeating specific product names or details\n    - Base conclusions strictly on the provided purchase data\n\n    Here's the purchase data:\n\n    === Purchase Information ===\nProduct Title: SolScents Continuous Spray Sunscreen, Flower Blast, 6 Fluid Ounce by Solscents\nReview Date: 2020/05/19\nStore: SolScents\nAverage Rating: 3.3\nProduct Details: {'Sun Protection Factor': '50 Sun Protection Factor (SPF)', 'Item Weight': '0.5 Pounds', 'Unit Count': '6.0 Fl Oz', 'Skin Type': 'All', 'Item Dimensions LxWxH': '1.94 x 1.94 x 7.75 inches', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '1.94 x 1.94 x 7.75 inches; 8 Ounces', 'UPC': '763319109429', 'Manufacturer': 'SolScents'}\nReview Text: Tiene bonito olor\nReview Title: Huele bien\nRating: 3.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Too Faced Milk Chocolate Soleil Light/Medium Matte Bronzer mini 0.08 oz.\nReview Date: 2020/05/28\nStore: Too Faced\nAverage Rating: 4.3\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '2.2 x 1.9 x 0.5 inches; 0.32 Ounces', 'UPC': '651986972586'}\nReview Text: El color es bonito pero en verdad eata super chiquito creo que es mucho dinero para lo que trae de producto lastima\nReview Title: Super chiquito\nRating: 2.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: 1000pcs Makeup Face Cotton Pads - Square Facial Cosmetic Cotton Pads for Beauty Nail Polish Remover Pads,And Personal Skin Care\nReview Date: 2020/06/29\nStore: Y&H\nAverage Rating: 3.7\nProduct Details: {'Brand': 'Y&H', 'Material': 'Cotton', 'Shape': 'Square', 'Unit Count': '1.00 Count', 'Package Dimensions': '6.69 x 4.21 x 2.8 inches; 4.97 Ounces', 'Item model number': 'HYB002'}\nReview Text: Bastantes solo que peque\u00f1as\nReview Title: Peque\u00f1as\nRating: 4.0\n--------------------------------------------------\n=== Purchase Information ===\nProduct Title: Privacy Uv Face Powder SPF50 ++++ 3.5g New Package\nReview Date: 2020/07/21\nStore: Privacy\nAverage Rating: 4.2\nProduct Details: {'Brand': 'Privacy', 'Item Form': 'Powder', 'Color': 'Beige', 'Skin Type': 'Sensitive', 'Product Benefits': 'Lightening,Cleansing', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.42 x 3.66 x 1.46 inches; 2.4 Ounces', 'Item model number': 'Simple Product'}\nReview Text: Polvo suelto pence que era compacto es fino pero muy poca cantidad para el precio es traslucido espero si cubra bien de los rayos solares\nReview Title: Ok\nRating: 4.0\n--------------------------------------------------\n\n    Structure your response as:\n   \n    SUMMARY:\n    [Final synthesis of preferences and patterns]",
+  "raw_response": "SUMMARY:  \nThis analysis reveals a consumer who exhibits variable satisfaction with beauty and skincare products, often focusing on functionality and value for money. The ratings show a tendency towards moderate to high preferences (average ratings range from 2.0 to 4.3), highlighting a critical approach to purchases.\n\nCommon themes emerge around skincare and cosmetic products, specifically those with sun protection and makeup functionalities. A recurring sentiment is frustration over product size relative to price\u2014indicating potential price sensitivity and a preference for higher value per unit. The consumer appreciates pleasant scents and aesthetic qualities, as evidenced by positive comments on fragrance and color.\n\nQuality preferences lean towards products that offer practicality and efficiency, such as effective sun protection and suitable cosmetic texture. However, disappointment is noted when expectations of quantity or efficacy fail to meet their perceived product value, suggesting a desire for transparency regarding product specifications (e.g., size or quantity).\n\nIn summary, the core preferences of this individual suggest a pragmatic approach to beauty and skincare\u2014favoring effective, well-priced products while valuing design and sensory appeal but remaining critical of value propositions that do not align with their expectations.",
+  "target_interaction": {
+    "rating": 2.0,
+    "title": "Vacia",
+    "text": "Me llego sin casi nada de producto la regrece y me mandaron otra pero el producto no me encanto y no deja el aroma como el original rosita",
+    "images": [],
+    "asin": "B09CH39P18",
+    "parent_asin": "B09CH39P18",
+    "user_id": "AFB66DOMX32XVN6DMYHLSONTL34Q",
+    "timestamp": "2021-12-02 04:22:38.092000",
+    "helpful_vote": 0,
+    "verified_purchase": true,
+    "main_category": "All Beauty",
+    "title_meta": "AGREE PRO KERATIN SHAMPOO | Helps Protect Hair & Maintain Vibrant | (Shampoo, 12.5 oz)",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "AGREE"
+    ],
+    "price": NaN,
+    "images_meta": [
+      {
+        "thumb": "https://m.media-amazon.com/images/I/31Oz4kPxL-L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/31Oz4kPxL-L.jpg",
+        "variant": "MAIN",
+        "hi_res": "https://m.media-amazon.com/images/I/61XCejjpHWL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/21xw4p5jyxL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/21xw4p5jyxL.jpg",
+        "variant": "PT01",
+        "hi_res": "https://m.media-amazon.com/images/I/61LU7RAosZL._SL1500_.jpg"
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51GEUKzCAmL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51GEUKzCAmL.jpg",
+        "variant": "PT06",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51vprErRr6L._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51vprErRr6L.jpg",
+        "variant": "PT07",
+        "hi_res": null
+      },
+      {
+        "thumb": "https://m.media-amazon.com/images/I/51x5Qnm5CsL._SS40_.jpg",
+        "large": "https://m.media-amazon.com/images/I/51x5Qnm5CsL.jpg",
+        "variant": "PT08",
+        "hi_res": null
+      }
+    ],
+    "videos": [],
+    "store": "Agree Pro",
+    "categories": [],
+    "details": {
+      "Brand": "Agree Pro",
+      "Item Form": "Liquid",
+      "Hair Type": "Damaged",
+      "Age Range (Description)": "Adult",
+      "Liquid Volume": "12.5 Fluid Ounces",
+      "Package Dimensions": "9.5 x 3.5 x 1.5 inches; 12.8 Ounces",
+      "UPC": "704335300766"
+    },
+    "bought_together": null
+  }
+}

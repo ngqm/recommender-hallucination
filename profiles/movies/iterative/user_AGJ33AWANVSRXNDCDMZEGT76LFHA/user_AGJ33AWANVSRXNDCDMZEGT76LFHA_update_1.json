@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/07/11\nAverage Rating: 4.7\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Ron White', 'John MacDonald'], 'Producers': ['Ron White', 'John MacDonald'], 'Starring': ['Ron White'], 'Studio': ['Image Entertainment']}\nReview Text: Great show, funny, very entertaining. Ron White is one of my favorites! Great to be able to watch on my iPad\nReview Title: Ron White is awesome\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Ron White', 'John MacDonald'], 'Producers': ['Ron White', 'John MacDonald'], 'Starring': ['Ron White'], 'Studio': ['Image Entertainment']}\nGreat show, funny, very entertaining. Ron White is one of my favorites! Great to be able to watch on my iPad\nRon White is awesome",
+  "profile": "**User Profile Summary:**\n\n- **Favorite Genre:** Comedy\n- **Preferred Comedian:** Ron White\n- **Content Format:** Enjoys watching shows on mobile devices (iPad)\n- **Engagement:** Engages with content that has high entertainment value\n- **Rating Trends:** Generally positive rating pattern (average rating of 4.7) \n- **Content Appreciation:** Values humor and performance quality\n- **Review Behavior:** Provides thoughtful feedback expressing enjoyment \n- **Content Accessibility:** Favors shows without language barriers (no subtitles) \n\nThis user shows a strong preference for comedic performances, particularly those featuring Ron White, and appreciates being able to access content via mobile devices. The consistently high ratings indicate a discerning taste for quality entertainment.",
+  "metrics": {
+    "rouge1_f": 0.2269503546099291,
+    "rouge2_f": 0.05755395683453238,
+    "rougeL_f": 0.1276595744680851,
+    "meteor": 0.18230698932134856,
+    "bleu1": 0.1069182389937107,
+    "bleu2": 0.04505655496651074,
+    "bleu3": 0.010894453196909461,
+    "bleu4": 0.00536565726682613,
+    "bertscore_precision": 0.4954959750175476,
+    "bertscore_recall": 0.41546159982681274,
+    "bertscore_f1": 0.45196300745010376
+  }
+}

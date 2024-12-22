@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: The Shape of Water\nReview Date: 2018/08/04\nCategories: Suspense, Drama, Fantastic, Tense\nProduct Description: [\"From master storyteller Guillermo del Toro comes an otherworldly fairy tale set in 1960s America where a woman's life is changed forever after she discovers a secret experiment.\"]\nAverage Rating: 4.3\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Guillermo Del Toro'], 'Producers': ['Guillermo del Toro', 'J. Miles Dale'], 'Starring': ['Sally Hawkins', 'Michael Shannon', 'Richard Jenkins']}\nReview Text: Nice\nReview Title: Nice\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Subtitles': ['None available'], 'Directors': ['Adrian McCarthy'], 'Producers': ['Adrian McCarthy'], 'Studio': ['MagellanTV']}\nInformative\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Hiromasa Yonebayashi'], 'Producers': ['Yoshiaki Nishimura', 'Geoffrey Wexler'], 'Starring': ['Ruby Barnhill', 'Kate Winslet', 'Jim Broadbent'], 'Studio': ['Gkids']}\nNice\nNice\n{'Content advisory': ['Violence', 'alcohol use', 'smoking', 'sexual content'], 'Audio languages': ['\u65e5\u672c\u8a9e'], 'Subtitles': ['None available'], 'Directors': ['Makoto Shinkai'], 'Producers': ['Hideaki Hatta', 'Atsushi Ito', 'Mayumi Yamaguchi', 'Nagaharu \u00d4hashi'], 'Studio': ['FUNimation']}\nNice\nNice\nThe Shape of Water\nSuspense, Drama, Fantastic, Tense\n[\"From master storyteller Guillermo del Toro comes an otherworldly fairy tale set in 1960s America where a woman's life is changed forever after she discovers a secret experiment.\"]\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Guillermo Del Toro'], 'Producers': ['Guillermo del Toro', 'J. Miles Dale'], 'Starring': ['Sally Hawkins', 'Michael Shannon', 'Richard Jenkins']}\nNice\nNice",
+  "profile": "The user maintains a sophisticated and discerning approach to content, valuing works that integrate educational elements with emotional and thematic depth. Their previous ratings reflect a critical eye, particularly towards sensitive themes, evident in their moderate rating of 3.5 for content that includes challenging portrayals such as violence and foul language.\n\nIn their latest interaction, the user awarded a high rating of 5.0 to a product characterized by its engaging narrative and quality production, supporting their inclination towards accessible formats. The succinct review, simply stating \"Nice,\" highlights their appreciation for high-quality content that resonates on a profound level without necessitating extensive elaboration. \n\nThis recent feedback emphasizes the user\u2019s versatile palate, showing that while they can adopt a critical stance, they are also capable of highly favorable responses to compelling and well-crafted storytelling. Their consistent preference for engaging, enlightening themes showcases an openness to diverse topics, even those that are unconventional or edgy. Overall, the user illustrates a clear preference for content that balances quality and substance, solidifying their identity as a selective viewer who prioritizes both accessibility and thematic richness in their media consumption.",
+  "metrics": {
+    "rouge1_f": 0.0975609756097561,
+    "rouge2_f": 0.0061349693251533735,
+    "rougeL_f": 0.07317073170731707,
+    "meteor": 0.0469559585492228,
+    "bleu1": 0.07576167264363702,
+    "bleu2": 0.004621832125954861,
+    "bleu3": 0.001822370792440593,
+    "bleu4": 0.0011457144108599404,
+    "bertscore_precision": 0.31393399834632874,
+    "bertscore_recall": 0.3269595503807068,
+    "bertscore_f1": 0.3203144073486328
+  }
+}

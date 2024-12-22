@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2018/05/25\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Castle'], 'Producers': ['Marty Katz'], 'Starring': ['Ellen DeGeneres', 'Bill Pullman', 'Joan Cusack'], 'Studio': ['Touchstone Pictures']}\nReview Text: great movie to have on stand by\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Joseph Gordon-Levitt'], 'Producers': ['Ram Bergman'], 'Starring': ['Joseph Gordon-Levitt', 'Scarlett Johansson', 'Julianne Moore'], 'Studio': ['RELATIVITY MEDIA']}\nstupid\nOne Star\n{'Subtitles': ['None available'], 'Directors': ['William Wyler'], 'Producers': ['Samuel Goldwyn'], 'Starring': ['Merle Oberan', 'Laurence Olivier', 'David Niven'], 'Studio': ['MGM']}\nlove it\nFive Stars\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shekhar Kapur'], 'Producers': ['Alison Owen', 'Eric Fellner', 'Tim Bevan'], 'Starring': ['Eric Cantona', 'Cate Blanchett', 'Geoffrey Rush'], 'Studio': ['UNIVERSAL PAY TELEVISION']}\nbest movie every!\nFive Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Nick Castle'], 'Producers': ['Marty Katz'], 'Starring': ['Ellen DeGeneres', 'Bill Pullman', 'Joan Cusack'], 'Studio': ['Touchstone Pictures']}\ngreat movie to have on stand by\nFive Stars",
+  "profile": "User Profile Summary:\n\n- **Rating Trends**: The user maintains a diverse range of ratings and has recently given a 5-star rating, indicating an increased appreciation for high-quality content. This consistent positive engagement reflects their critical yet discerning taste in media.\n\n- **Content Preferences**: The user's strong preference for films with adult themes persists, specifically those featuring renowned actors and intricate narratives. Their latest review highlights their ongoing attraction to engaging storylines and notable performances that resonate with them.\n\n- **Language and Accessibility**: They continue to favor English audio and closed-captioned subtitles, demonstrating a commitment to accessibility features, including audio descriptions, fostering tailored viewing experiences.\n\n- **Creative Involvement**: The user remains engaged with acclaimed filmmakers and actors known for insightful storytelling. Their recent purchase aligns with this pattern, showcasing a sustained interest in nuanced and creative narratives.\n\n- **Emotional Reaction**: Their capacity for experiencing strong emotions in response to media is evident, with critical assessments often balanced by genuine enjoyment, as seen in their enthusiastic recent ratings.\n\n- **Customization Preferences**: The user values personalized viewing experiences and actively seeks out diverse media options that align with their tastes.\n\nOverall, the user continues to appreciate high-quality, thought-provoking media, characterized by a balance of critical evaluation and genuine satisfaction in their viewing experiences.",
+  "metrics": {
+    "rouge1_f": 0.06837606837606837,
+    "rouge2_f": 0.011461318051575931,
+    "rougeL_f": 0.05698005698005698,
+    "meteor": 0.048455244640811655,
+    "bleu1": 0.05779658946710449,
+    "bleu2": 0.003995947677682695,
+    "bleu3": 0.001642149080269177,
+    "bleu4": 0.0010537213156446448,
+    "bertscore_precision": 0.35794878005981445,
+    "bertscore_recall": 0.3525294065475464,
+    "bertscore_f1": 0.35521844029426575
+  }
+}

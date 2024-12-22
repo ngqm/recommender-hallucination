@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2013/06/01\nAverage Rating: 4.6\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['universal'], 'Producers': ['Mira Nair', 'Robyn Aronstam', 'Caroline Baron', 'Shernaz Italia', 'Caroline Kaplan', 'Freny Khodaiji', 'Jonathan Sehring'], 'Starring': ['Naseeruddin Shah', 'Lillete Dubey'], 'Studio': ['NBC Universal', 'Focus Features']}\nReview Text: Must watch - v. Heartwarming! Highly recommend it to anyone.  It's centered around a wedding and who doesn't love a good party!!! ;)\nReview Title: Sweet movie\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['None available'], 'Directors': ['Larry Charles'], 'Producers': ['Sacha Baron Cohen', 'Alec Berg', 'David Mandel', 'Jeff Schaffer', 'Todd Schulman', 'Anthony Hines', 'Scott Rudin', 'Mari Jo Winkler-Loffreda', 'Adam Mckay', 'Peter Baynham', 'Dan Mazer'], 'Starring': ['Sacha Baron Cohen', 'Anna Faris', 'Ben Kingsley'], 'Studio': ['Paramount Pictures Corp.']}\nwant the last 1.5 hrs of my life back.<br /><br />think my iq dropped just by watching this movie.<br /><br />BAD don't waste your time\nDumb\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['universal'], 'Producers': ['Mira Nair', 'Robyn Aronstam', 'Caroline Baron', 'Shernaz Italia', 'Caroline Kaplan', 'Freny Khodaiji', 'Jonathan Sehring'], 'Starring': ['Naseeruddin Shah', 'Lillete Dubey'], 'Studio': ['NBC Universal', 'Focus Features']}\nMust watch - v. Heartwarming! Highly recommend it to anyone.  It's centered around a wedding and who doesn't love a good party!!! ;)\nSweet movie",
+  "profile": "**User Summary:**\n\n- **Rating Tendencies:** The user maintains a highly critical approach to content but has recently demonstrated the ability to enjoy well-crafted narratives, as evidenced by a recent positive rating (5.0) after a prior low average (1.0). This reflects a potential resurgence in their appreciation for certain types of storytelling.\n\n- **Content Preferences:** The user continues to favor thoughtful and emotionally resonant content. Their recent high rating for a film reflecting warmth and engaging themes indicates a fondness for narratives that evoke positive emotions, particularly those centered around relatable life events like weddings.\n\n- **Advisories Discomfort:** The user's dislike for nudity, violence, and foul language in entertainment remains consistent. Their joyful reaction to the recent film suggests a preference for family-friendly and heartwarming content.\n\n- **Emotional Reaction:** The user engages deeply with content and values their viewing experience significantly, as shown by their enthusiastic recommendation of the recent film. They seem to appreciate movies that bring joy and a sense of connection.\n\n- **Engagement Style:** The user writes in a straightforward, clear, and sincere manner. Their recent review reflects a blend of emotional engagement and a positive, upbeat tone, contrasting with previous more frustrated expressions.\n\nThis profile suggests a user who seeks quality storytelling that uplifts and entertains, particularly in enriching, character-driven narratives.",
+  "metrics": {
+    "rouge1_f": 0.14917127071823205,
+    "rouge2_f": 0.016666666666666666,
+    "rougeL_f": 0.07734806629834254,
+    "meteor": 0.08091463058827453,
+    "bleu1": 0.11314565256957983,
+    "bleu2": 0.019440220044715656,
+    "bleu3": 0.005022571246905792,
+    "bleu4": 0.0025553061629784344,
+    "bertscore_precision": 0.36179792881011963,
+    "bertscore_recall": 0.3769611120223999,
+    "bertscore_f1": 0.3692239224910736
+  }
+}

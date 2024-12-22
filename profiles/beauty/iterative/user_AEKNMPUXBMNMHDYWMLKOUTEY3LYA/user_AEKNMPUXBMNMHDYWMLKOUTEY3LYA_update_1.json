@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Replacement Toothbrush Heads Compatible With Oral B Braun Electric Toothbrush, 4 Count\nReview Date: 2019/07/17\nStore: HDY\nAverage Rating: 4.4\nProduct Details: {'Brand': 'HDY', 'Size': '4 Count (Pack of 1)', 'Age Range (Description)': 'Adult', 'Item Firmness Description': 'Extra Soft', 'Number of Pieces': '4', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.43 x 0.39 x 2.76 inches; 0.81 Ounces', 'UPC': '632088377561', 'Manufacturer': 'HDY'}\nReview Text: These are a solid generic replacement for our Oral-B brush heads.  They fit every toothbrush in the house without issue and work well.  They are a bit more angular than the name brand and I can tell, but my wife and kids didn't notice.  My kids love the smiley face on the back of the brush head.  A solid generic replacement.\nReview Title: Good generic brush heads\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "Replacement Toothbrush Heads Compatible With Oral B Braun Electric Toothbrush, 4 Count\nHDY\n{'Brand': 'HDY', 'Size': '4 Count (Pack of 1)', 'Age Range (Description)': 'Adult', 'Item Firmness Description': 'Extra Soft', 'Number of Pieces': '4', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '0.43 x 0.39 x 2.76 inches; 0.81 Ounces', 'UPC': '632088377561', 'Manufacturer': 'HDY'}\nThese are a solid generic replacement for our Oral-B brush heads.  They fit every toothbrush in the house without issue and work well.  They are a bit more angular than the name brand and I can tell, but my wife and kids didn't notice.  My kids love the smiley face on the back of the brush head.  A solid generic replacement.\nGood generic brush heads",
+  "profile": "**User Summary:**\n\n- **Preference for Generic Products:** The user shows a clear preference for affordable, generic alternatives over name-brand items, valuing functionality and compatibility.\n  \n- **Family-Oriented:** The user considers the needs of family members (wife and kids) in product choices, indicating a focus on household suitability and usability.\n\n- **Functionality Over Brand Loyalty:** The user prioritizes practical features, such as fitting multiple toothbrushes and overall effectiveness, rather than brand loyalty.\n\n- **Attention to Detail:** The user notes specifics about product design (angular shape) but indicates flexibility, as not all family members notice these details, showing a pragmatic approach.\n\n- **Family Engagement:** The mention of kids enjoying a fun feature (smiley face) suggests that the user values products that make hygiene enjoyable for children, indicating a preference for engaging and kid-friendly products.\n\n- **Positive Rating:** The user gives a relatively high average rating (4.0), suggesting satisfaction with the purchased products and a tendency to choose reliable alternatives.\n\nOverall, the user favors practical, family-friendly, and affordable solutions that maintain quality while meeting diverse household needs.",
+  "metrics": {
+    "rouge1_f": 0.2635135135135135,
+    "rouge2_f": 0.027210884353741496,
+    "rougeL_f": 0.12162162162162163,
+    "meteor": 0.18306615853694302,
+    "bleu1": 0.2170212765957447,
+    "bleu2": 0.052747739846554585,
+    "bleu3": 0.02285689658598001,
+    "bleu4": 0.00847014707210641,
+    "bertscore_precision": 0.4177524149417877,
+    "bertscore_recall": 0.4230043292045593,
+    "bertscore_f1": 0.4203619658946991
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Brazilian Virgin Body Wave Hair 3 Bundles 8A 100% Unprocessed Brazilian Body Wave Human Hair (20)\nReview Date: 2019/11/06\nStore: Jolanly\nAverage Rating: 3.3\nProduct Details: {'Brand': 'Jolanly', 'Color': 'black', 'Material': 'human', 'Style': '13x4 Frontal', 'Hair Type': 'Wavy', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '12 x 3 x 2 inches; 3.2 Ounces', 'UPC': '631089369469'}\nReview Text: I\u2019m highly upset this hair had a bad odor and lots of shedding and hair fillers very poor quality\nReview Title: Don\u2019t waste your time or money\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Virgin Body Wave Hair 3 Bundles 8A 100% Unprocessed Brazilian Body Wave Human Hair (20)\nJolanly\n{'Brand': 'Jolanly', 'Color': 'black', 'Material': 'human', 'Style': '13x4 Frontal', 'Hair Type': 'Wavy', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '12 x 3 x 2 inches; 3.2 Ounces', 'UPC': '631089369469'}\nI\u2019m highly upset this hair had a bad odor and lots of shedding and hair fillers very poor quality\nDon\u2019t waste your time or money",
+  "profile": "**User Profile Summary:**\n\n- **Hair Quality Sensitivity:** The user places a high importance on the quality of hair products, as evidenced by their strong dissatisfaction with a purchase that had odor issues and shedding.\n\n- **Expectations of Value:** The reviewer expresses frustration with perceived low value for the price paid, indicating a preference for high-quality, unprocessed human hair that meets specific standards.\n\n- **Negativity Toward Poor Experiences:** The user is quick to voice disappointment and dissatisfaction when products do not meet expectations, signaling a preference for transparent, quality offerings in the beauty and personal care sector.\n\n- **Preference for Natural Characteristics:** The mention of \"100% unprocessed\" indicates a preference for products that are natural and perhaps more closely aligned with authentic beauty standards.\n\nOverall, this user is likely to seek high-quality hair-related products and may be critical of brands that do not deliver on their promises. They value clear communication regarding product quality and possess a low tolerance for underwhelming experiences.",
+  "metrics": {
+    "rouge1_f": 0.17948717948717952,
+    "rouge2_f": 0.01724137931034483,
+    "rougeL_f": 0.10256410256410256,
+    "meteor": 0.14726587629813437,
+    "bleu1": 0.1243781094527363,
+    "bleu2": 0.02493773340269082,
+    "bleu3": 0.0067861005927968045,
+    "bleu4": 0.003544450554154097,
+    "bertscore_precision": 0.40449416637420654,
+    "bertscore_recall": 0.3886875510215759,
+    "bertscore_f1": 0.39643338322639465
+  }
+}

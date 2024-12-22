@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2019/09/13\nAverage Rating: 4.2\nProduct Details: {'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Strauss-Schulson'], 'Producers': ['Gina Matthews', 'Grant Scharbo', 'Todd Garner'], 'Starring': ['Rebel Wilson', 'Liam Hemsworth', 'Adam DeVine'], 'Studio': ['New Line']}\nReview Text: Ok\nReview Title: Movie\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'substance use', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Sebasti\u00e1n Lelio'], 'Starring': ['Julianne Moore', 'John Turturro', 'Michael Cera'], 'Studio': ['A24 Distribution LLC']}\nGood\nMovie\n{'Content advisory': ['Violence', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Adam Robitel'], 'Producers': ['Neal H. Moritz', 'Ori Marmur'], 'Starring': ['Logan Miller', 'Deborah Woll', 'Taylor Russell'], 'Studio': ['SONY PICTURES HOME ENTERTAINMENT']}\nOk\nMovie\n{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Todd Strauss-Schulson'], 'Producers': ['Gina Matthews', 'Grant Scharbo', 'Todd Garner'], 'Starring': ['Rebel Wilson', 'Liam Hemsworth', 'Adam DeVine'], 'Studio': ['New Line']}\nOk\nMovie",
+  "profile": "The user maintains a moderate interest in films, demonstrated by their recent engagement and positive ratings on various movies. They appreciate content with mature themes including violence, alcohol use, foul language, and sexual content, indicating comfort with complex and potentially controversial subjects. Their preference for films available in English is consistent, alongside an openness to options like audio description and closed captions to enhance their viewing experience.\n\nRecent interactions reveal a consistent appreciation for films produced by notable studios, suggesting a preference for high-quality storytelling and artistic cinema. They have shown particular interest in works that tackle deeper or darker themes, reinforcing their attraction to thought-provoking narratives. The presence of renowned actors often influences their enjoyment, indicating a tendency to favor established talent in the industry.\n\nIn their latest interaction, the user rated a film with a lower score of 3.0, despite a solid average rating of 4.0 across previous reviews. This rating might reflect a slight divergence in their response to the film compared to their established preferences. Nevertheless, it suggests a critical engagement with diverse narratives while still maintaining an overall appreciation for complex themes. The user navigates the landscape of artistic cinema with a critical yet enthusiastic perspective, embracing narratives with mature content and significant character depth.",
+  "metrics": {
+    "rouge1_f": 0.08982035928143711,
+    "rouge2_f": 0.03614457831325301,
+    "rougeL_f": 0.08383233532934131,
+    "meteor": 0.0405496438321533,
+    "bleu1": 0.05769918737255787,
+    "bleu2": 0.004309902169020727,
+    "bleu3": 0.0018177130241720718,
+    "bleu4": 0.001181749176660826,
+    "bertscore_precision": 0.34702375531196594,
+    "bertscore_recall": 0.32763612270355225,
+    "bertscore_f1": 0.3370513916015625
+  }
+}

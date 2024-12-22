@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Sidekicks: A Dreamer and a Champion VHS\nReview Date: 2013/02/02\nStore: Jonathan Brandis, Joe Piscopo, Chuck Norris, Mako, Beau Bridges  (Actor)    Rated:    PG    Format: VHS Tape\nCategories: Movies & TV, Studio Specials, Sony Pictures Home Entertainment, All Sony Pictures Titles\nAverage Rating: 4.6\nProduct Details: {'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Run time': '1 hour and 40 minutes', 'Release date': 'November 9, 2000', 'Date First Available': 'February 24, 2006', 'Actors': 'Jonathan Brandis, Joe Piscopo, Chuck Norris, Mako, Beau Bridges'}\nReview Text: OK - so you have an ADHD kid who zones out into day dreams about Chuck Norris!<br /><br />What could be better?<br /><br />As hilarious as I remembered it to be.<br /><br />The real question is why hasn't this cult classic come out on DVD?\nReview Title: Phenomenal.... I mean - come on?!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Sidekicks: A Dreamer and a Champion VHS\nJonathan Brandis, Joe Piscopo, Chuck Norris, Mako, Beau Bridges  (Actor)    Rated:    PG    Format: VHS Tape\nMovies & TV, Studio Specials, Sony Pictures Home Entertainment, All Sony Pictures Titles\n{'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '7.32 x 4.19 x 1.12 inches; 6.13 Ounces', 'Run time': '1 hour and 40 minutes', 'Release date': 'November 9, 2000', 'Date First Available': 'February 24, 2006', 'Actors': 'Jonathan Brandis, Joe Piscopo, Chuck Norris, Mako, Beau Bridges'}\nOK - so you have an ADHD kid who zones out into day dreams about Chuck Norris!<br /><br />What could be better?<br /><br />As hilarious as I remembered it to be.<br /><br />The real question is why hasn't this cult classic come out on DVD?\nPhenomenal.... I mean - come on?!",
+  "profile": "**User Profile Summary:**\n\n- **Media Enthusiast:** Shows a strong interest in movies and TV shows, particularly those that have cult status or unique storytelling elements.\n- **Nostalgia Driven:** Prefers content that evokes nostalgic feelings, particularly from the late '90s and early 2000s, as indicated by the interest in VHS format.\n- **Comedy Appreciation:** Enjoys humorous content, with a particular fondness for comedic films involving well-known actors from that era.\n- **Family Considerations:** Regards media through the lens of family-friendly content, mentioning a child's perspective and preferences.\n- **Frustration with Discontinuation:** Expresses concern about availability, especially for older media formats, indicating a desire for more accessibility to classic films.\n- **Positive Engagement:** Generally provides high ratings and expresses enthusiasm about past experiences with products.\n\nOverall, the user appears to favor nostalgic, family-oriented, comedic films, particularly those that feature popular actors and memorable storylines.",
+  "metrics": {
+    "rouge1_f": 0.16058394160583941,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.0656934306569343,
+    "meteor": 0.11369253583786455,
+    "bleu1": 0.15261425650787486,
+    "bleu2": 0.008690104287916407,
+    "bleu3": 0.0033489801739862934,
+    "bleu4": 0.0020816968058659266,
+    "bertscore_precision": 0.3741340637207031,
+    "bertscore_recall": 0.3784424662590027,
+    "bertscore_f1": 0.3762759268283844
+  }
+}

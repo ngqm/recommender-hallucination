@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/03/26\nAverage Rating: 4.9\nProduct Details: {'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Lovering', 'Colm McCathy', 'Nick Hurran'], 'Producers': ['Sue Vertue', 'Beryl Vertue', 'Steven Moffat', 'Mark Gatiss'], 'Starring': ['Benedict Cumberbatch', 'Martin Freeman'], 'Studio': ['BBC America']}\nReview Text: Wonderful screen play. The parallel with the original books is good while incorporating modern situations. A fine mix of comedy and drama. Very enjoyable.\nReview Title: Great Performances\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English Dialogue Boost: High', 'English', 'English Dialogue Boost: Medium'], 'Subtitles': ['English [CC]'], 'Directors': ['Jeremy Lovering', 'Colm McCathy', 'Nick Hurran'], 'Producers': ['Sue Vertue', 'Beryl Vertue', 'Steven Moffat', 'Mark Gatiss'], 'Starring': ['Benedict Cumberbatch', 'Martin Freeman'], 'Studio': ['BBC America']}\nWonderful screen play. The parallel with the original books is good while incorporating modern situations. A fine mix of comedy and drama. Very enjoyable.\nGreat Performances",
+  "profile": "**User Summary:**\n\nThis user demonstrates a strong preference for quality storytelling that blends humor and drama, as evidenced by their enthusiastic reviews highlighting excellent screenplays. They appreciate adaptations that maintain fidelity to original works while updating them for modern audiences. A liking for nuanced performances is clear, especially as they rated a product featuring well-known actors highly. \n\nThe user indicates a preference for content with enhanced audio options, suggesting sensitivity to dialogue clarity, which may indicate a focus on accessibility or immersive viewing experiences. They express a clear appreciation for high production values, signified by their acknowledgement of notable directors and producers involved in the content they enjoy.\n\nOverall, the user trend shows a fondness for intelligently crafted narratives, engaging performances, and an emphasis on clear audio delivery in their media consumption choices.",
+  "metrics": {
+    "rouge1_f": 0.1818181818181818,
+    "rouge2_f": 0.01020408163265306,
+    "rougeL_f": 0.0909090909090909,
+    "meteor": 0.12137823022709476,
+    "bleu1": 0.15789473684210523,
+    "bleu2": 0.05600876294531368,
+    "bleu3": 0.0127881258243861,
+    "bleu4": 0.00612080591194827,
+    "bertscore_precision": 0.4007430076599121,
+    "bertscore_recall": 0.42381757497787476,
+    "bertscore_f1": 0.41195744276046753
+  }
+}

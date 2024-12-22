@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Failure to Launch\nReview Date: 2013/05/16\nCategories: Comedy, Drama, Cheerful, Passionate\nProduct Description: ['Matthew McConaughey is Tripp, a 35 year-old who still lives with his parents. Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little-push.']\nAverage Rating: 4.6\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Dey'], 'Producers': ['Scott Rudin', 'Scott Aversano'], 'Starring': ['Matthew McConaughey', 'Sarah Jessica Parker', 'Zooey Deschanel']}\nReview Text: i love this movie i was so happy to have to watch were ever i go, i will buy thins again for my kindle fire like these.\nReview Title: Failure to launch\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Failure to Launch\nComedy, Drama, Cheerful, Passionate\n['Matthew McConaughey is Tripp, a 35 year-old who still lives with his parents. Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little-push.']\n{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Dey'], 'Producers': ['Scott Rudin', 'Scott Aversano'], 'Starring': ['Matthew McConaughey', 'Sarah Jessica Parker', 'Zooey Deschanel']}\ni love this movie i was so happy to have to watch were ever i go, i will buy thins again for my kindle fire like these.\nFailure to launch",
+  "profile": "**User Profile Summary:**\n\n- **Preferred Genres:** Comedy, Drama\n- **Mood:** Cheerful, Passionate\n- **Content Interests:** Enjoys light-hearted narratives with emotional and relational themes.\n- **Viewing Habits:** Appreciates films with a blend of humor and heartfelt moments, potentially favoring romantic elements.\n- **Formats:** Prefers digital access for convenience (e.g., Kindle).\n- **Engagement Style:** Expresses strong enthusiasm and satisfaction with chosen films, reflecting a positive disposition towards enjoyable content.\n- **Key Features Valued:** High-quality storytelling and engaging character dynamics, as exemplified by enjoyment of relatable life situations.\n- **Purchase Behavior:** Willing to repurchase content for accessibility, indicating a commitment to favorite films.\n\nThis profile showcases a user who values feel-good stories that evoke laughter and warmth, often resulting in high ratings for films that resonate.",
+  "metrics": {
+    "rouge1_f": 0.16071428571428573,
+    "rouge2_f": 0.018018018018018018,
+    "rougeL_f": 0.09821428571428571,
+    "meteor": 0.11252163877668782,
+    "bleu1": 0.16756756756756758,
+    "bleu2": 0.060355390877622525,
+    "bleu3": 0.03414577806350774,
+    "bleu4": 0.012161437519602284,
+    "bertscore_precision": 0.41823047399520874,
+    "bertscore_recall": 0.4365670084953308,
+    "bertscore_f1": 0.4272020757198334
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Deep Wave Closure Size 4\"x4\" 100% Unprocessed Brazilian Virgin Human Hair Bleached Knots Free Part Top Front Lace Closure Naturl Black Soft and Smooth (14inch, Brazilian Hair)\nReview Date: 2020/05/17\nStore: Zhuoqi hair\nAverage Rating: 4.0\nProduct Details: {'Brand': 'Zhuoqi hair', 'Age Range (Description)': 'Adult', 'Material': 'Human', 'Unit Count': '3.5274 Ounce', 'Are Batteries Included': 'No', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.5 x 5.67 x 1.06 inches; 2.26 Ounces', 'UPC': '760960320111 791719202266'}\nReview Text: The hair itself isn\u2019t bad but my lace had a rip in It and I don\u2019t like all the white hairs blended in the closure\nReview Title: Damaged lace\nRating: 1.0\n--------------------------------------------------",
+  "reference_summary": "Brazilian Virgin Body Wave Hair 3 Bundles 8A 100% Unprocessed Brazilian Body Wave Human Hair (20)\nJolanly\n{'Brand': 'Jolanly', 'Color': 'black', 'Material': 'human', 'Style': '13x4 Frontal', 'Hair Type': 'Wavy', 'Is Discontinued By Manufacturer': 'No', 'Product Dimensions': '12 x 3 x 2 inches; 3.2 Ounces', 'UPC': '631089369469'}\nI\u2019m highly upset this hair had a bad odor and lots of shedding and hair fillers very poor quality\nDon\u2019t waste your time or money\nDeep Wave Closure Size 4\"x4\" 100% Unprocessed Brazilian Virgin Human Hair Bleached Knots Free Part Top Front Lace Closure Naturl Black Soft and Smooth (14inch, Brazilian Hair)\nZhuoqi hair\n{'Brand': 'Zhuoqi hair', 'Age Range (Description)': 'Adult', 'Material': 'Human', 'Unit Count': '3.5274 Ounce', 'Are Batteries Included': 'No', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '11.5 x 5.67 x 1.06 inches; 2.26 Ounces', 'UPC': '760960320111 791719202266'}\nThe hair itself isn\u2019t bad but my lace had a rip in It and I don\u2019t like all the white hairs blended in the closure\nDamaged lace",
+  "profile": "**Updated User Profile Summary:**\n\n- **Hair Quality Sensitivity:** The user maintains a high standard for hair products, underscored by their previous dissatisfaction due to odor and shedding. Their recent experience with damaged lace further highlights their sensitivity towards product quality.\n\n- **Expectations of Value:** The user expects high-quality, unprocessed hair that adheres to their standards. Their frustration with low value for the price continues to be evident, as seen in their disappointment over the lace damage and undesired characteristics in the product.\n\n- **Negativity Toward Poor Experiences:** This user is vocal about their dissatisfaction when products fall short of expectations. They exhibit a clear intolerance for subpar experiences, emphasizing the importance of quality in their purchasing decisions.\n\n- **Preference for Natural Characteristics:** The user consistently seeks products characterized as \"100% unprocessed,\" indicating a strong preference for natural beauty standards and authenticity. Their recent review revealing issues with the product's appearance aligns with this preference, particularly their aversion to undesirable features like white hairs.\n\nOverall, this user is inclined to prioritize premium hair products and is likely to express disappointment with brands that fail to meet their expectations. Clear communication about product quality remains crucial for their satisfaction.",
+  "metrics": {
+    "rouge1_f": 0.19021739130434784,
+    "rouge2_f": 0.0273224043715847,
+    "rougeL_f": 0.09782608695652174,
+    "meteor": 0.11796118660627053,
+    "bleu1": 0.1592780598699194,
+    "bleu2": 0.05047210417847117,
+    "bleu3": 0.010075408719476204,
+    "bleu4": 0.0045062964009166505,
+    "bertscore_precision": 0.36912649869918823,
+    "bertscore_recall": 0.39007270336151123,
+    "bertscore_f1": 0.37931063771247864
+  }
+}

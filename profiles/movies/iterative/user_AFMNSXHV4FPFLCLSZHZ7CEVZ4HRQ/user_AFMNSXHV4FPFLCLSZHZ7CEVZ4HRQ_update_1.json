@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/09/18\nAverage Rating: 4.0\nProduct Details: {'Subtitles': ['None available'], 'Directors': ['Daniel de la Vega'], 'Producers': ['Eric Biedermann', 'P.J. Pettiette', 'Claudie Viguerie'], 'Starring': ['Gina Phillips', 'Faye Dunaway'], 'Studio': ['Screen Media Ventu']}\nReview Text: The movie is extremely pedestrian.....it is well made.  The photography and all the elements for a great movie are there but the plot is without any real surprise and you can access the outcome way to early in the film.  Its too bad the scenery is great and the backdrop is really haunting.  The acting is fairly good.  The script should have been used as toliet paper....\nReview Title: The photography and all the elements for a great movie are there but the plot is without any ...\nRating: 3.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Daniel de la Vega'], 'Producers': ['Eric Biedermann', 'P.J. Pettiette', 'Claudie Viguerie'], 'Starring': ['Gina Phillips', 'Faye Dunaway'], 'Studio': ['Screen Media Ventu']}\nThe movie is extremely pedestrian.....it is well made.  The photography and all the elements for a great movie are there but the plot is without any real surprise and you can access the outcome way to early in the film.  Its too bad the scenery is great and the backdrop is really haunting.  The acting is fairly good.  The script should have been used as toliet paper....\nThe photography and all the elements for a great movie are there but the plot is without any ...",
+  "profile": "**User Summary:**\n\n- **Overall Preferences**: This user demonstrates a preference for films with high production quality, particularly appreciating aspects such as photography and acting. However, they express dissatisfaction with predictable plotlines, suggesting they favor innovative and surprising storytelling.\n  \n- **Key Trends**: \n  - **Visual Appreciation**: Enjoys aesthetically pleasing cinematography and haunting settings.\n  - **Acting Quality**: Values strong performances from actors.\n  - **Storytelling**: Dislikes conventional or clich\u00e9d plots, indicating a desire for complexity and depth in narratives.\n  - **Critical Evaluation**: Exhibits a critical perspective on writing and script quality, implying that plot cohesiveness and originality are crucial for their enjoyment.\n\nIn summary, this user favors well-crafted films with strong visual elements and performances but has a low tolerance for predictable or poorly executed scripts.",
+  "metrics": {
+    "rouge1_f": 0.19213973799126635,
+    "rouge2_f": 0.008810572687224669,
+    "rougeL_f": 0.08733624454148471,
+    "meteor": 0.11753494282083862,
+    "bleu1": 0.2,
+    "bleu2": 0.03440104580768907,
+    "bleu3": 0.008897705006649811,
+    "bleu4": 0.0045318902567963075,
+    "bertscore_precision": 0.42216548323631287,
+    "bertscore_recall": 0.4396551251411438,
+    "bertscore_f1": 0.4307328760623932
+  }
+}

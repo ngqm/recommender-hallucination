@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: LordHighting 2600 Pieces Clear Hotfix Rhinestones, 6 Mixed Sizes Crystal Flatback Rhinestones for Nail Art, 3D White Diamonds Nail Charms, DIY Crafts Face Phones Clothes Shoes Jewelry Bag\nReview Date: 2022/10/25\nStore: LordHighting\nAverage Rating: 4.5\nProduct Details: {'Product Dimensions': '3.5 x 2.8 x 0.5 inches; 1.48 Ounces'}\nReview Text: Good\nReview Title: None\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "LordHighting 2600 Pieces Clear Hotfix AB Rhinestones, 6 Mixed Sizes Crystal Flatback Rhinestones for Nail Art, 3D Diamonds Nail Charms, DIY Crafts Face Phones Clothes Shoes Jewelry Bag\nLordHighting\n{'Product Dimensions': '3.5 x 2.8 x 0.5 inches; 1.52 Ounces'}\nGood\nNone\nLordHighting 2600 Pieces Clear Hotfix Rhinestones, 6 Mixed Sizes Crystal Flatback Rhinestones for Nail Art, 3D White Diamonds Nail Charms, DIY Crafts Face Phones Clothes Shoes Jewelry Bag\nLordHighting\n{'Product Dimensions': '3.5 x 2.8 x 0.5 inches; 1.48 Ounces'}\nGood\nNone",
+  "profile": "**Updated User Profile Summary:**\n\n- **Creative Interests:** The user maintains a strong enthusiasm for creative and DIY activities, with a particular focus on nail art and crafting. This reflects a continuing passion for personalized and artistic expression.\n\n- **Product Quality:** They place significant importance on high-quality materials, supported by their recent purchase rating of 4.0. Although this reflects a slight dip from previous perfect ratings, it still indicates a preference for products that meet their quality standards.\n\n- **Aesthetic Appeal:** The user continues to show a fondness for visually appealing decorative elements, especially crystal flatback rhinestones, which are integral to their creative projects.\n\n- **Versatility:** Their selection of products with mixed sizes highlights their versatility in various projects, accommodating diverse design needs from nail art to crafting accessories.\n\n- **DIY Enthusiasm:** The user enjoys customizing items across different mediums, suggesting an ongoing interest in personalizing fashion and accessories through creative DIY efforts.\n\nOverall, this profile emphasizes a dedication to quality, creativity, and aesthetic beauty in their choices, while the recent interaction reinforces their ongoing engagement with versatile and visually striking materials for their projects.",
+  "metrics": {
+    "rouge1_f": 0.13284132841328414,
+    "rouge2_f": 0.03717472118959108,
+    "rougeL_f": 0.08856088560885608,
+    "meteor": 0.15220259355793675,
+    "bleu1": 0.05150214592274678,
+    "bleu2": 0.004711602787668988,
+    "bleu3": 0.0021260580584746996,
+    "bleu4": 0.0014297146951917446,
+    "bertscore_precision": 0.408872127532959,
+    "bertscore_recall": 0.3367905020713806,
+    "bertscore_f1": 0.36934733390808105
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: ALICROWN 25mm Mink 3D Lashes Long Volume Mink Eyelashes False Strip Eyelashes 3 Pack\nReview Date: 2019/09/02\nStore: ALICROWN HAIR\nAverage Rating: 4.2\nProduct Details: {'Brand': 'ALICROWN HAIR', 'Material': 'Mink Fur', 'Item Dimensions LxWxH': '6.7 x 4.4 x 0.5 inches', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Product Dimensions': '6.7 x 4.4 x 0.5 inches; 0.81 Ounces', 'UPC': '680613003713'}\nReview Text: THESE LASHES WERE GREAT! They are amazing and they looked beautiful\nReview Title: Must buy\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "ALICROWN 25mm Mink 3D Lashes Long Volume Mink Eyelashes False Strip Eyelashes 3 Pack\nALICROWN HAIR\n{'Brand': 'ALICROWN HAIR', 'Material': 'Mink Fur', 'Item Dimensions LxWxH': '6.7 x 4.4 x 0.5 inches', 'Material Feature': 'Cruelty Free', 'Item Form': 'Pair', 'Product Dimensions': '6.7 x 4.4 x 0.5 inches; 0.81 Ounces', 'UPC': '680613003713'}\nTHESE LASHES WERE GREAT! They are amazing and they looked beautiful\nMust buy",
+  "profile": "**User Profile Summary**\n\n**Preferences:**\n- Beauty and Personal Care: Demonstrates a keen interest in cosmetic products, particularly false eyelashes.\n- Quality Focus: Values high-quality materials, as indicated by a positive review of cruelty-free mink eyelashes.\n- Aesthetic Appeal: Prioritizes visually appealing products; their review emphasized beauty and admiration for the lashes.\n  \n**Behavior Patterns:**\n- Positive Engagement: Shows a tendency to leave favorable reviews, reflected in the 5-star rating and enthusiastic language (\"great\" and \"amazing\").\n- Influenced by Experience: Engages with brands that provide satisfactory experiences, suggesting repeat purchasing from similarly positive encounters.\n\n**Trends:**\n- Cruelty-Free Options: Prefers products that are ethically sourced, consistent with modern consumer trends towards sustainability.\n- Specific Product Types: Has a distinct focus on eye cosmetics, indicating an interest that may extend to other related beauty items.\n\nThis initial profile indicates a user who is invested in enhancing their beauty routine with high-quality, ethical products.",
+  "metrics": {
+    "rouge1_f": 0.1566820276497696,
+    "rouge2_f": 0.018604651162790694,
+    "rougeL_f": 0.09216589861751151,
+    "meteor": 0.1272384542884072,
+    "bleu1": 0.08629441624365483,
+    "bleu2": 0.006635341994925342,
+    "bleu3": 0.0028263807779958477,
+    "bleu4": 0.0018470241360789158,
+    "bertscore_precision": 0.3857346177101135,
+    "bertscore_recall": 0.3518162965774536,
+    "bertscore_f1": 0.3679955303668976
+  }
+}

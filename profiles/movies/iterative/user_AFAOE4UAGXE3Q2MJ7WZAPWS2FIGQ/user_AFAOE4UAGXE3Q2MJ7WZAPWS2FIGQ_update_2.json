@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/10/28\nAverage Rating: 4.4\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Stefan C. Schaefer'], 'Producers': ['Diane Crespo', 'Christoph Silber', 'Stefan Schaefer'], 'Starring': ['Nicole Beharie', 'Ken Duken', 'Reg E. Cathey'], 'Studio': ['Passion River']}\nReview Text: Nice romantic drama.  Enjoyed it very much.\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "22 Jump Street\nJonah Hill  (Actor, Producer, Writer),     Channing Tatum  (Actor, Producer),     Phil Lord  (Director),     Christopher Miller  (Director)    &                   1                  more   Rated:    R    Format: Blu-ray\nMovies & TV, Blu-ray, Movies\n{}\nMovie was okay.  More hype than anything.\nMovie was okay. More hype than anything.\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Stefan C. Schaefer'], 'Producers': ['Diane Crespo', 'Christoph Silber', 'Stefan Schaefer'], 'Starring': ['Nicole Beharie', 'Ken Duken', 'Reg E. Cathey'], 'Studio': ['Passion River']}\nNice romantic drama.  Enjoyed it very much.\nFour Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Media Consumption:** The user continues to engage primarily with movies in Blu-ray format, reinforcing their preference for physical media over digital streaming options.\n\n- **Rating Tendencies:** The user exhibits a balanced rating approach, as observed in their recent review, where they awarded a 4.0 rating for a romantic drama they found enjoyable. This suggests that the user appreciates films that deliver positive experiences without necessarily exceeding expectations, maintaining a critical yet open-minded perspective.\n\n- **Expectations:** The user remains discerning, expressing a preference for substance over hype. While they experience disappointment with widely acclaimed films, their recent review demonstrates a willingness to embrace films that resonate with them on an emotional level.\n\n- **Review Behavior:** The user articulates thoughtful analyses in their reviews, combining qualitative insights with numerical ratings. Their recent review clearly conveys enjoyment while maintaining their characteristic depth in criticism, indicating they value both entertainment and engagement in film assessments.\n\nOverall, the user demonstrates a critical yet balanced approach to media consumption, seeking depth, quality, and a personal connection with films, while steadfastly favoring physical formats and providing well-rounded reviews.",
+  "metrics": {
+    "rouge1_f": 0.06741573033707865,
+    "rouge2_f": 0.01509433962264151,
+    "rougeL_f": 0.0449438202247191,
+    "meteor": 0.1078715283142769,
+    "bleu1": 0.12068965517241378,
+    "bleu2": 0.02285751604412472,
+    "bleu3": 0.006101595459216587,
+    "bleu4": 0.003155903296525401,
+    "bertscore_precision": 0.3640766143798828,
+    "bertscore_recall": 0.3672161102294922,
+    "bertscore_f1": 0.3656396269798279
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Red Carpet Manicure Starter Kits\nReview Date: 2020/08/16\nAverage Rating: 4.0\nProduct Details: {'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nReview Text: Well atleast you get the light! If you want color polish, you will have to go buy some. I was wondering where it was because it shows it on the box. I decided to read other reviews and see if I was the only one. Turns out it just isn't in the box. I've had other kits in the past and was hoping this one would be better but it was the worst. The top/base coat was very runny which made it very hard to paint my nails properly.\nReview Title: Some items not included\nRating: 2.0\n--------------------------------------------------",
+  "reference_summary": "Red Carpet Manicure Starter Kits\n{'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nWell atleast you get the light! If you want color polish, you will have to go buy some. I was wondering where it was because it shows it on the box. I decided to read other reviews and see if I was the only one. Turns out it just isn't in the box. I've had other kits in the past and was hoping this one would be better but it was the worst. The top/base coat was very runny which made it very hard to paint my nails properly.\nSome items not included",
+  "profile": "**User Profile Summary:**\n\n- **Preference for DIY Nail Care:** The user shows a clear interest in at-home manicures and nail care products. \n- **Interest in Kits:** They seek starter kits, indicating a preference for bundled products that provide essential tools and materials.\n- **Quality Expectations:** The user has high expectations for product quality and completeness, as evidenced by disappointment when essential items are missing or when products do not perform effectively.\n- **Review Behavior:** They are likely to research reviews from other users before making decisions, indicating a methodical approach to purchasing.\n- **Skepticism Towards Marketing:** The user expresses frustration with misleading packaging or incomplete product contents, suggesting a tendency to be critical of brands that do not meet advertised promises.\n- **Experience with Alternatives:** They reference previous experiences with other kits, demonstrating familiarity with the category and a comparative perspective.\n- **Specific Issues Noted:** Preference for consistency in product texture (e.g., top/base coats) and performance, reflecting an emphasis on user-friendliness in application.\n\nOverall, this user values transparency, quality, and complete product offerings in their nail care purchases.",
+  "metrics": {
+    "rouge1_f": 0.21498371335504884,
+    "rouge2_f": 0.02622950819672131,
+    "rougeL_f": 0.11074918566775244,
+    "meteor": 0.17297946614256002,
+    "bleu1": 0.18067226890756305,
+    "bleu2": 0.027610328657136952,
+    "bleu3": 0.006861362793399688,
+    "bleu4": 0.003424055707683121,
+    "bertscore_precision": 0.4285968542098999,
+    "bertscore_recall": 0.41525933146476746,
+    "bertscore_f1": 0.4218226671218872
+  }
+}

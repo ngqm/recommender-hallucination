@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2021/12/18\nAverage Rating: 4.1\nProduct Details: {'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['James Strong', 'Sam Donovan'], 'Starring': ['Joanne Froggatt', 'Ioan Gruffudd', 'Zoe Tapper'], 'Studio': ['Sundance', 'AMC Plus Drama']}\nReview Text: dont want to give any spoilers.  A must watch\nReview Title: GREAT SHOW\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['Dome Karukoski'], 'Producers': ['Joanie Blaikie', 'Marina Brackenbury', 'Emma Broughton', 'Gaby Chiappe', 'Sarada McDermott', 'Arnon Milchan', 'Yariv Milchan', 'Nathaniel Parker', 'Ed Rubin'], 'Starring': ['Jared Harris', 'Cush Jumbo', 'Billy Howle']}\nLoved it, would write more however I do not wat to give anything away.  Purchase it an you shall see\nFANTASTIC\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['John Guillermin'], 'Producers': ['Irwin Allen'], 'Starring': ['Paul Newman', 'Steve McQueen', 'William Holden'], 'Studio': ['20TH CENTURY FOX']}\nWhile we have all been home wondering what to do with all of the excess time on hand, pulling up old great movies is a great way to pass time.  This old movie is a classic and a must watch\nAn oldy but GREAT entertainment\n{'Content advisory': ['Violence', 'substance use', 'alcohol use', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['James Strong', 'Sam Donovan'], 'Starring': ['Joanne Froggatt', 'Ioan Gruffudd', 'Zoe Tapper'], 'Studio': ['Sundance', 'AMC Plus Drama']}\ndont want to give any spoilers.  A must watch\nGREAT SHOW",
+  "profile": "**User Summary:**\n\n- **Overall Enthusiasm:** Continues to exhibit high enthusiasm for engaging content; regularly expresses positive reactions and rates items exceptionally.\n- **Rating Patterns:** Maintains a tendency to provide ratings at or near the highest level, underscoring a strong preference for quality and impactful experiences.\n- **Preference for Nostalgia:** Shows a fondness for classic films while also appreciating contemporary productions, highlighting a broad enjoyment of revisiting great movies during downtime.\n- **Focus on Production Quality:** Engages with works that feature talented directors and producers, reflecting an appreciation for meticulously crafted cinema.\n- **Interest in Character-Driven Narratives:** Enjoys stories with strong performances from established actors, indicating a preference for deep character development, emotional resonance, and diverse storytelling.\n- **Sharing Experience:** Actively recommends content purchases, showcasing a desire to share enjoyable cinematic experiences with others.\n- **Enjoyment of Quality Programming:** Recently emphasized an appreciation for compelling television series, recognizing them as essential viewing that offers significant entertainment value.\n\nThe user consistently demonstrates a trend toward high-quality, narrative-driven media, reveling in both modern and classic offerings. Their latest interaction reinforces their admiration for impactful storytelling and well-crafted shows, further emphasizing their eagerness to recommend enriching viewing experiences to others.",
+  "metrics": {
+    "rouge1_f": 0.14565826330532214,
+    "rouge2_f": 0.005633802816901408,
+    "rougeL_f": 0.07282913165266107,
+    "meteor": 0.08368887430259271,
+    "bleu1": 0.12347209255062867,
+    "bleu2": 0.019809936523220956,
+    "bleu3": 0.005002891728295225,
+    "bleu4": 0.002516614705845416,
+    "bertscore_precision": 0.36422598361968994,
+    "bertscore_recall": 0.3930913805961609,
+    "bertscore_f1": 0.37810859084129333
+  }
+}

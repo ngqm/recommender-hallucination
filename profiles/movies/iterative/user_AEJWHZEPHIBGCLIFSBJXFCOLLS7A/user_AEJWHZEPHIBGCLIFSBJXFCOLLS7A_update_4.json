@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/24\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean-Jacques Annaud'], 'Producers': ['Jean-Jacques Annaud', 'Iain Smith', 'John Williams'], 'Starring': ['Brad Pitt', 'David Thewlis', 'Lhapka Tsamchoe']}\nReview Text: Captivating\nReview Title: Well Done\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Violence', 'alcohol use', 'foul language', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['David Dobkin'], 'Producers': ['Susan Downey', 'David Dobkin', 'David Gambino'], 'Starring': ['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga'], 'Studio': ['Warner Bros.']}\nGood Show worth watching, Powerful actors\nI'll watch this one again...\n{'Subtitles': ['None available'], 'Directors': ['---'], 'Producers': ['Adam Shaheen'], 'Starring': ['Colin Mochrie', 'Roy Billing', 'Jacqueline Pillon']}\nClaymation\nClaymations\n{'Content advisory': ['Alcohol use'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]', 'Espa\u00f1ol'], 'Directors': ['Harold Cronk'], 'Producers': ['Michael Scott', 'Russell Wolfe', 'David A.R. White', 'Anna Zielinski', 'Elizabeth Travis'], 'Starring': ['Kevin Sorbo', 'Shane Harper', 'David A.R. White'], 'Studio': ['Lionsgate']}\nSome of us are very lost\nGood Movie\n{'Content advisory': ['Violence', 'smoking', 'foul language'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Jean-Jacques Annaud'], 'Producers': ['Jean-Jacques Annaud', 'Iain Smith', 'John Williams'], 'Starring': ['Brad Pitt', 'David Thewlis', 'Lhapka Tsamchoe']}\nCaptivating\nWell Done",
+  "profile": "**Updated User Profile Summary:**\n\nThe user continues to demonstrate a strong preference for high-quality entertainment featuring renowned actors, underlined by their consistent engagement with impactful storytelling. Their average rating has stabilized at 4.7, bolstered by a recent perfect rating of 5.0, signaling their appreciation for well-crafted narratives. This reflects their ongoing inclination towards diverse content, as shown by their acceptance of a lower rating of 3.9 for less engaging stories, yet they remain drawn to material that is intellectually stimulating.\n\nTheir interest in narratives with mature themes persists, welcoming elements like violence, alcohol use, foul language, and sexual content, which aligns with their enjoyment of complex, gritty storytelling. The user notably embraces innovative formats, manifesting enthusiasm for unique projects, including claymation.\n\nAccessibility features play a pivotal role in their viewing experience, showcasing their commitment to inclusivity via audio descriptions and closed captions. Overall, they prioritize productions that promise emotional depth while featuring notable talent, blending traditional storytelling with creative approaches across various genres and formats. This balance enriches their entertainment preferences, ensuring that each viewing experience remains engaging and thought-provoking.",
+  "metrics": {
+    "rouge1_f": 0.10089020771513355,
+    "rouge2_f": 0.03582089552238806,
+    "rougeL_f": 0.0652818991097923,
+    "meteor": 0.05217961229691435,
+    "bleu1": 0.05855694874955855,
+    "bleu2": 0.003712316012782471,
+    "bleu3": 0.0014826139736450045,
+    "bleu4": 0.0009380865551231616,
+    "bertscore_precision": 0.3157549202442169,
+    "bertscore_recall": 0.3290333151817322,
+    "bertscore_f1": 0.322257399559021
+  }
+}

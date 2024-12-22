@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: 1 oz, Dark Brown - Bargz Perfume - Kush Type Body Oil Scented Fragrance\nReview Date: 2019/08/14\nStore: Bargz\nAverage Rating: 3.8\nProduct Details: {'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '1 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult'}\nReview Text: Will order more.\nReview Title: great\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Envy Women Perfume, Blush, 60ml\nEnvy\n{}\nThis perfume is AMAZING , Smells great.\nHow it smells\n4 oz - Bargz Perfume - Mambo Body Oil For Men Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '4 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult', 'UPC': '795827859985 781772914626'}\ngreat.\ngreat\n1 oz, Dark Brown - Bargz Perfume - Kush Type Body Oil Scented Fragrance\nBargz\n{'Brand': 'Bargz', 'Item Form': 'Oil', 'Item Volume': '1 Fluid Ounces', 'Material Type Free': 'Alcohol Free', 'Age Range (Description)': 'Adult'}\nWill order more.\ngreat",
+  "profile": "**Updated User Profile Summary:**\n\n- **Fragrance Preferences:** The user maintains a strong preference for floral and sweet scents, alongside a growing interest in scented body oils, which signifies their willingness to explore diverse fragrance formats. Recent purchases indicate a continued fascination with body oils as an alternative expression of fragrance.\n\n- **Product Sentiment:** The user consistently expresses satisfaction with their chosen products, focusing on quality and sensory appeal. Their enthusiastic appreciation for a newly purchased body oil indicates their adaptability and ongoing exploration of fragrance types.\n\n- **Rating Behavior:** The user often assigns maximum ratings (5.0) to products they enjoy, reflecting a discerning taste and strong appreciation for well-crafted scents. They remain committed to supporting products that resonate positively with their sensory expectations.\n\n- **Emotional Engagement:** The user employs enthusiastic and affirming language (\"great\") to capture their experiences, reinforcing a positive emotional connection with the fragrances they choose.\n\n- **Shopping Behavior:** They actively seek high-quality, well-reviewed fragrance items, suggesting a preference for premium selections. Their recent purchases further emphasize a significant interest in body oils, indicating a broader scope of fragrance exploration.\n\n- **Overall Trend:** The user demonstrates a consistent appreciation for products that provide a delightful sensory experience, emphasizing exceptional quality and performance. They continue to evolve their fragrance journey, embracing new formats and scents beyond traditional perfumes.",
+  "metrics": {
+    "rouge1_f": 0.0986842105263158,
+    "rouge2_f": 0.01324503311258278,
+    "rougeL_f": 0.06578947368421054,
+    "meteor": 0.1334141904184354,
+    "bleu1": 0.10676156583629894,
+    "bleu2": 0.00617487899928582,
+    "bleu3": 0.002390842129767506,
+    "bleu4": 0.0014890249542804717,
+    "bertscore_precision": 0.38306280970573425,
+    "bertscore_recall": 0.3545531630516052,
+    "bertscore_f1": 0.3682570159435272
+  }
+}

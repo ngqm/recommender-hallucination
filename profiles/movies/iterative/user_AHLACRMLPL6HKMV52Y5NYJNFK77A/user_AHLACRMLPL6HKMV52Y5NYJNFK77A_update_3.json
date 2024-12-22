@@ -1,0 +1,19 @@
+{
+  "interaction_number": 3,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/11/25\nAverage Rating: 4.5\nProduct Details: {'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Elkins'], 'Producers': ['Paul Brooks', 'Scott Niemeyer', 'Joe MacCarthy', 'Leon Clarance', 'Norm Waitt'], 'Starring': ['Abigail Spencer', 'Chad Michael Murray', 'Katee Sackhoff'], 'Studio': ['tribecashortlist']}\nReview Text: Interesting!\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Subtitles': ['None available'], 'Directors': ['John Hough'], 'Producers': ['John Hough', 'Albert Fennell', 'Lew Grade', 'Peter Manley'], 'Starring': ['Emma Simm', 'Oliver Reed', 'Michael York']}\nQuality of color was so poor, I decided not watch it.  Very orange and pale.\nTwo Stars\n{'Subtitles': ['None available'], 'Directors': ['John Patterson'], 'Producers': ['Freyda Rothstein'], 'Starring': ['Patty Duke', 'David Selby', 'David Soul'], 'Studio': ['Fisher Klingenstein Films']}\nOk\nThree Stars\n{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Tom Elkins'], 'Producers': ['Paul Brooks', 'Scott Niemeyer', 'Joe MacCarthy', 'Leon Clarance', 'Norm Waitt'], 'Starring': ['Abigail Spencer', 'Chad Michael Murray', 'Katee Sackhoff'], 'Studio': ['tribecashortlist']}\nInteresting!\nFour Stars",
+  "profile": "**User Profile Summary**\n\n- **General Preferences:** This user continues to emphasize high production values and visual quality in their viewing experiences, maintaining a strong intolerance for poor quality. Their previous dissatisfaction with color accuracy remains a significant aspect of their preferences.\n\n- **Rating Trends:** The recent interaction reflects a positive shift in their rating habits, providing a solid 4-star rating. This indicates an appreciation for quality content that meets or exceeds their expectations, suggesting an openness to slightly more engaging narratives while remaining critical of overall execution.\n\n- **Content Insights:** The user shows a preference for films featuring strong directorial presence and well-known actors. Their positive feedback highlights an enjoyment for stories that blend recognized talent with compelling narratives, underscoring their commitment to engaging storytelling.\n\n- **Engagement Style:** The user continues to share feedback transparently, as evidenced by their recent positive review, which conveys a willingness to discuss the content experience. This reflects their values of community interaction and shared insights regarding quality cinema.\n\nOverall, the user's profile underscores a dedicated pursuit of quality films, with an evolving mindset that incorporates a broader acceptance of content, prioritizing striking visuals, strong storytelling, and a collaborative approach to reviewing cinematic experiences.",
+  "metrics": {
+    "rouge1_f": 0.04778156996587031,
+    "rouge2_f": 0.0,
+    "rougeL_f": 0.034129692832764506,
+    "meteor": 0.05845323741007194,
+    "bleu1": 0.08606557377049182,
+    "bleu2": 0.0059512966312220555,
+    "bleu3": 0.0024460722250022058,
+    "bleu4": 0.0015698121877965121,
+    "bertscore_precision": 0.3638089895248413,
+    "bertscore_recall": 0.36787474155426025,
+    "bertscore_f1": 0.36583057045936584
+  }
+}

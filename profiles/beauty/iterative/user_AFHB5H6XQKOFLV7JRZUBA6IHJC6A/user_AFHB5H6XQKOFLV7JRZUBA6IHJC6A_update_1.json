@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Red Carpet Manicure Starter Kits\nReview Date: 2020/07/27\nAverage Rating: 4.0\nProduct Details: {'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nReview Text: I know gel polish has been around for quite some time but I actually switched from dip powder to gel. I do my own nails and just find dip to be messy and time consuming. I figured at this point all gel systems were the same, so I\u2019ve been using a cheap brand. I came across this kit and definitely notice the difference in Red Carpet. It\u2019s much better quality. Your gel polish will last 21 days if you follow the directions. Five stars from me and it\u2019s a great value!\nReview Title: Red Carpet... the difference in quality is noticeable!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Red Carpet Manicure Starter Kits\n{'Color': 'RCM Essentials Starter Kit', 'Material': 'Acrylic', 'Brand': 'RC Red Carpet Manicure', 'Finish Type': 'Glossy', 'Item Form': 'Gel', 'Is Discontinued By Manufacturer': 'No', 'UPC': '817248203854', 'Manufacturer': 'RC Red Carpet Manicure/ Zupishi'}\nI know gel polish has been around for quite some time but I actually switched from dip powder to gel. I do my own nails and just find dip to be messy and time consuming. I figured at this point all gel systems were the same, so I\u2019ve been using a cheap brand. I came across this kit and definitely notice the difference in Red Carpet. It\u2019s much better quality. Your gel polish will last 21 days if you follow the directions. Five stars from me and it\u2019s a great value!\nRed Carpet... the difference in quality is noticeable!",
+  "profile": "**User Profile Summary:**\n\n- **Nail Care Enthusiast:** Demonstrated a strong interest in nail care, particularly in DIY applications, as indicated by the transition from dip powder to gel systems.\n- **Preference for Quality:** Values high-quality products over cheaper alternatives, recognizing distinct differences in performance and longevity.\n- **DIY Approach:** Enjoys performing nail applications personally, indicating a hands-on approach and likely a preference for kits that offer comprehensive solutions.\n- **Product Longevity:** Appreciates products that offer long-lasting results, specifically highlighting gel polishes that can endure for several weeks when applied correctly.\n- **Positive Experience with Brands:** Exhibits brand loyalty towards specific manufacturers, particularly favoring those that provide a notable upgrade in quality and value.\n- **Practicality:** Looks for practical solutions in nail care that enhance convenience, efficiency, and overall satisfaction in results.\n\nOverall, this user appears to prioritize quality, practicality, and personal engagement in their nail care routine, seeking products that offer significant improvements over standard options.",
+  "metrics": {
+    "rouge1_f": 0.21305841924398627,
+    "rouge2_f": 0.05536332179930795,
+    "rougeL_f": 0.10996563573883161,
+    "meteor": 0.16479147373871383,
+    "bleu1": 0.20952380952380953,
+    "bleu2": 0.07755667343294813,
+    "bleu3": 0.044268902503418625,
+    "bleu4": 0.030257913638975543,
+    "bertscore_precision": 0.4311702847480774,
+    "bertscore_recall": 0.44172602891921997,
+    "bertscore_f1": 0.43638432025909424
+  }
+}

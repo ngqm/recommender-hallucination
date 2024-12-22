@@ -1,0 +1,19 @@
+{
+  "interaction_number": 4,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2015/05/04\nAverage Rating: 4.7\nProduct Details: {'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shawn Levy'], 'Producers': ['Paula Weinstein', 'Shawn Levy', 'Jeffrey Levine', 'Mary McLagen', 'Jonathan Tropper'], 'Starring': ['Tina Fey', 'Jane Fonda', 'Adam Driver']}\nReview Text: Funny!!!\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Patrick Osborne'], 'Producers': ['Kristina Reed'], 'Starring': ['Stephen Apostolina', 'Kirk Baily', 'Ben Bledsoe'], 'Studio': ['Walt Disney Animation Studios']}\nJust had to own it!!!\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Alexandre Aja'], 'Producers': ['Cathy Schulman', 'Riza Aziz', 'Joey McFarland', 'Alexandre Aja'], 'Starring': ['Daniel Radcliffe', 'Juno Temple', 'Max Minghella']}\nAwesome movie\nFive Stars\n{'Audio languages': ['English', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Subtitles': ['English', 'English [CC]', 'Espa\u00f1ol (Latinoam\u00e9rica)'], 'Directors': ['Peter Hedges'], 'Producers': ['James Whitaker', 'Scott Sanders'], 'Starring': ['Jennifer Garner', 'Joel Edgerton', 'Ron Livingston'], 'Studio': ['Walt Disney Pictures']}\nWill make you cry so good!\nFive Stars\n{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Shawn Levy'], 'Producers': ['Paula Weinstein', 'Shawn Levy', 'Jeffrey Levine', 'Mary McLagen', 'Jonathan Tropper'], 'Starring': ['Tina Fey', 'Jane Fonda', 'Adam Driver']}\nFunny!!!\nFive Stars",
+  "profile": "**Updated User Profile Summary:**\n\n- **Preference for Animation and Quality:** The user demonstrates a strong preference for animated content and high-quality live-action films. They remain committed to selecting works from reputable studios that align with their artistic tastes.\n\n- **High Engagement with Quality:** Their consistent high ratings reflect an appreciation for well-produced content that elicits strong emotional responses. The latest interaction reinforces their inclination towards engaging storytelling that provides heartfelt reactions.\n\n- **Language Sensitivity:** The importance of English audio and subtitles is clear, showing their dedication to accessibility and comprehension. Additionally, they remain receptive to content in Spanish, balancing both inclusivity and their primary linguistic needs.\n\n- **Emotional Connection:** The user's interactions continue to exhibit a personal connection to films, as seen through their enthusiastic reviews. They express a desire to own and champion works that resonate deeply with them, using emotive language to convey their sentiments.\n\n- **Positive Outlook:** An optimistic perspective on media permeates their reviews, which consistently feature high ratings and uplifting language. This showcases their appreciation for entertainment that inspires and uplifts.\n\nThe recent interaction has further solidified their dedication to high-quality storytelling, emotional resonance, and the significance of language support in enhancing their overall media experience.",
+  "metrics": {
+    "rouge1_f": 0.07079646017699115,
+    "rouge2_f": 0.011869436201780416,
+    "rougeL_f": 0.04719764011799411,
+    "meteor": 0.03827311696264543,
+    "bleu1": 0.04846560297524836,
+    "bleu2": 0.01177812111861605,
+    "bleu3": 0.0034161508117877444,
+    "bleu4": 0.0018416388213852134,
+    "bertscore_precision": 0.35087963938713074,
+    "bertscore_recall": 0.3402159810066223,
+    "bertscore_f1": 0.3454655706882477
+  }
+}

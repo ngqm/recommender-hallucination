@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Headbands For Kids MINNIE Sequins Hair MOUSE Girls Baby EARS Bow knot (Red and Black)\nReview Date: 2018/11/24\nStore: Toptree\nAverage Rating: 4.2\nProduct Details: {'Age Range (Description)': 'Child', 'Number of Items': '1', 'Brand': 'Toptree', 'Size': '1 Count (Pack of 1)', 'Item Form': 'Ribbon', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.54 x 3.58 x 0.94 inches; 0.74 Ounces', 'UPC': '710654129025'}\nReview Text: So excited for my daughter to wear these for her first trip to Disney!  8months old and they look adorable on her!  Fits great!<br /><br />UPDATE - my daughter wore these to Disney World and we received SO many compliments on them.  I actually prefer these for her age over the overpriced options at the park.\nReview Title: Perfect for Disney trip!\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Headbands For Kids MINNIE Sequins Hair MOUSE Girls Baby EARS Bow knot (Red and Black)\nToptree\n{'Age Range (Description)': 'Child', 'Number of Items': '1', 'Brand': 'Toptree', 'Size': '1 Count (Pack of 1)', 'Item Form': 'Ribbon', 'Is Discontinued By Manufacturer': 'No', 'Package Dimensions': '6.54 x 3.58 x 0.94 inches; 0.74 Ounces', 'UPC': '710654129025'}\nSo excited for my daughter to wear these for her first trip to Disney!  8months old and they look adorable on her!  Fits great!<br /><br />UPDATE - my daughter wore these to Disney World and we received SO many compliments on them.  I actually prefer these for her age over the overpriced options at the park.\nPerfect for Disney trip!",
+  "profile": "**User Profile Summary:**\n\n- **Target Audience:** Primarily focused on children's products, particularly for young girls.\n- **Shopping Preferences:** Values affordability and practicality over high-priced options, preferring cost-effective solutions that offer appealing aesthetics. \n- **Occasion-Focused:** Shows strong interest in products suited for special events, such as trips to theme parks, indicating a focus on creating memorable experiences for her child.\n- **Style Preference:** Favours items that enhance a child\u2019s appearance in a cute and thematic way, particularly those that align with popular culture (e.g., Disney themes).\n- **Satisfaction Indicators:** High importance placed on product presentation and functionality, as evidenced by positive feedback regarding fit and appearance.\n- **Social Engagement:** Appreciates products that garner positive attention, suggesting a value placed on social approval and community recognition.\n- **Purchase Timing:** Engages in seasonal or occasion-driven shopping, likely planning ahead for events like family trips.\n\nOverall, the user demonstrates a commitment to finding delightful, cost-effective solutions for her child's activities, with a specific emphasis on creating enjoyable and visually appealing moments during special occasions.",
+  "metrics": {
+    "rouge1_f": 0.18749999999999997,
+    "rouge2_f": 0.020979020979020976,
+    "rougeL_f": 0.10416666666666666,
+    "meteor": 0.14856748284705937,
+    "bleu1": 0.15677966101694915,
+    "bleu2": 0.03652800278386831,
+    "bleu3": 0.008292369883712515,
+    "bleu4": 0.003955214297764088,
+    "bertscore_precision": 0.4028806984424591,
+    "bertscore_recall": 0.4043921232223511,
+    "bertscore_f1": 0.40363502502441406
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2016/01/19\nAverage Rating: 4.8\nProduct Details: {'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Studio': ['NETFLIX']}\nReview Text: Wonderful series\nReview Title: Five Stars\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "{'Content advisory': ['Nudity', 'violence', 'alcohol use', 'smoking', 'foul language', 'sexual content'], 'Audio languages': ['English'], 'Subtitles': ['English [CC]'], 'Directors': ['Ed Bianchi', 'Nicole Kassell', 'Phil Abraham', 'Daniel Attias', 'Keith Gordon', 'Agnieszka Holland', 'Lodge Kerrigan', 'Brad Anderson', 'Patty Jenkins', 'Jonathan Demme'], 'Studio': ['NETFLIX']}\nWonderful series\nFive Stars",
+  "profile": "The user demonstrates a strong preference for high-quality, engaging series, as indicated by their positive review and high rating. Key preferences include:\n\n- **Content Type**: The user appreciates complex narratives, as suggested by their interest in series known for intense themes (nudity, violence, alcohol use). \n- **Quality of Production**: Positive mention of a series from a reputable studio suggests a preference for well-produced content.\n- **Language and Accessibility**: The user values content available in English with English subtitles, indicating a focus on accessibility and comprehension.\n- **Emotional Engagement**: The enthusiastic review title indicates that the user seeks series that evoke strong emotional responses or provide memorable experiences.\n\nOverall, this user favors critically acclaimed, thought-provoking series with mature themes and high production values, reflecting a discerning taste in visual media.",
+  "metrics": {
+    "rouge1_f": 0.13953488372093023,
+    "rouge2_f": 0.047058823529411764,
+    "rougeL_f": 0.11627906976744184,
+    "meteor": 0.08093525179856115,
+    "bleu1": 0.10179640718562877,
+    "bleu2": 0.007830909069757641,
+    "bleu3": 0.003337183897162613,
+    "bleu4": 0.0021818462447111553,
+    "bertscore_precision": 0.4087103605270386,
+    "bertscore_recall": 0.3489626348018646,
+    "bertscore_f1": 0.37648072838783264
+  }
+}

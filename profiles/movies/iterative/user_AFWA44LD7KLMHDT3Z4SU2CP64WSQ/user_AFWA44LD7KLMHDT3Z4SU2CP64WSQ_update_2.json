@@ -1,0 +1,19 @@
+{
+  "interaction_number": 2,
+  "interaction_summary": "=== Purchase Information ===\nReview Date: 2014/12/18\nAverage Rating: 4.7\nProduct Details: {'Content advisory': ['Violence', 'smoking', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Lee Fulkerson'], 'Producers': ['Brian Wendel'], 'Starring': ['T. Colin Campbell', 'Caldwell B. Esselstyn', 'Jr.'], 'Studio': ['Monica Beach Media']}\nReview Text: Good informative but I already knew it\nReview Title: Four Stars\nRating: 4.0\n--------------------------------------------------",
+  "reference_summary": "{'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Robert Kenner'], 'Producers': ['Robert Kenner', 'Sascha Goldhor', 'Richard Pearce', 'Elise Pearlstein', 'Bill Pohlad', 'Jay Redmond', 'Melissa Robledo', 'Eric Schlosser', 'Robin Schorr', 'Jeff Skoll'], 'Starring': ['Michael Pollan', 'Eric Schlosser', 'Richard Lobb'], 'Studio': ['Magnolia Pictures']}\nGreat informative! Will support local small farmers from now on.\nFive Stars\n{'Content advisory': ['Violence', 'smoking', 'sexual content'], 'Audio languages': ['English', 'English [Audio Description]'], 'Subtitles': ['English [CC]'], 'Directors': ['Lee Fulkerson'], 'Producers': ['Brian Wendel'], 'Starring': ['T. Colin Campbell', 'Caldwell B. Esselstyn', 'Jr.'], 'Studio': ['Monica Beach Media']}\nGood informative but I already knew it\nFour Stars",
+  "profile": "**User Summary:**\n\n- **Content Preference:** The user maintains a strong preference for informative content, particularly related to food and agriculture, with an emphasis on supporting local, small farmers. Their recent interaction reaffirms this focus on educational material while indicating that they have a solid foundational knowledge in the area.\n- **Rating Behavior:** The user consistently gives high ratings, with an average of 4.6, and recently rated a product at 4.0, suggesting a high standard for quality and relevance in content but also reflecting some familiarity with the subject matter.\n- **Language & Accessibility:** Prefers English language options, valuing accessibility features such as audio descriptions and closed captions, aligning with their past interactions.\n- **Interest in Documentaries:** Engages with documentaries, especially those exploring social or ecological themes, which reflects their values regarding sustainability and food systems.\n- **Producers and Directors:** Values content from reputable producers and directors, as shown by their engagement with specific creators known for impactful storytelling.\n- **Social Responsibility:** Demonstrates a commitment to social responsibility by prioritizing support for local communities and making informed content choices that resonate with their ethical viewpoint.\n\nOverall, the user appreciates high-quality, informative content that aligns with their interests in food systems and sustainability while supporting ethical practices and community alignment.",
+  "metrics": {
+    "rouge1_f": 0.13289036544850497,
+    "rouge2_f": 0.026755852842809368,
+    "rougeL_f": 0.09302325581395349,
+    "meteor": 0.09397076036370547,
+    "bleu1": 0.12500000000000003,
+    "bleu2": 0.021801036009847372,
+    "bleu3": 0.005660884896378181,
+    "bleu4": 0.0028873744987003075,
+    "bertscore_precision": 0.3713459372520447,
+    "bertscore_recall": 0.3714058995246887,
+    "bertscore_f1": 0.3713758885860443
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interaction_number": 1,
+  "interaction_summary": "=== Purchase Information ===\nProduct Title: Curly Hair Wave 1 Bundles 18 Inch 100% Unprocessed Kinky Curly Human Hair Bundles Extensions Natural Black Color\nReview Date: 2020/09/07\nStore: SnowHair\nAverage Rating: 3.6\nProduct Details: {'Brand': 'SnowHair', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Product Dimensions': '4.8 x 1 x 0.4 inches; 4.8 Ounces', 'UPC': '682559651836'}\nReview Text: Excellent hair. I  really enjoying it\nReview Title: I love this hair, very soft and natural\nRating: 5.0\n--------------------------------------------------",
+  "reference_summary": "Curly Hair Wave 1 Bundles 18 Inch 100% Unprocessed Kinky Curly Human Hair Bundles Extensions Natural Black Color\nSnowHair\n{'Brand': 'SnowHair', 'Color': 'Black', 'Material': 'Human Hair', 'Extension Length': '18 Inches', 'Hair Type': 'Curly', 'Product Dimensions': '4.8 x 1 x 0.4 inches; 4.8 Ounces', 'UPC': '682559651836'}\nExcellent hair. I  really enjoying it\nI love this hair, very soft and natural",
+  "profile": "**User Profile Summary:**\n\n- **Purchase Preference:** Strong inclination towards human hair extensions, specifically curly textures.\n- **Quality Expectation:** Values softness and a natural look in hair products.\n- **Rating Trend:** Shows a positive attitude towards products, as indicated by a high rating for quality.\n- **Brand Affinity:** Currently engaged with the SnowHair brand, suggesting a preference for trusted brands.\n- **Hair Color Preference:** Prefers natural black tones.\n- **Length Preference:** Interested in 18-inch extensions.\n- **Interaction Style:** Expresses satisfaction in reviews, utilizing positive language to convey enjoyment.\n\nOverall, the user demonstrates a clear preference for high-quality, natural-looking curly hair extensions with a focus on softness and brand reliability.",
+  "metrics": {
+    "rouge1_f": 0.2650602409638554,
+    "rouge2_f": 0.08536585365853659,
+    "rougeL_f": 0.18072289156626503,
+    "meteor": 0.19846836455832995,
+    "bleu1": 0.13580246913580246,
+    "bleu2": 0.00918419074887268,
+    "bleu3": 0.0037496201053927084,
+    "bleu4": 0.002399612805167593,
+    "bertscore_precision": 0.42960089445114136,
+    "bertscore_recall": 0.40982285141944885,
+    "bertscore_f1": 0.4194788336753845
+  }
+}
