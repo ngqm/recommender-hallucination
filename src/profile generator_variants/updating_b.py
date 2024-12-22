@@ -8,7 +8,7 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 from openai import OpenAI
-from openai_api import OPENAI_API_KEY
+# from openai_api import OPENAI_API_KEY
 from collections import defaultdict
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
@@ -24,6 +24,8 @@ from transformers import logging
 logging.set_verbosity_error()
 warnings.filterwarnings("ignore")
 
+with open('openai_api', 'r') as f:
+    OPENAI_API_KEY = f.read().strip()
 
 class HallucinationMetrics:
     def __init__(self):

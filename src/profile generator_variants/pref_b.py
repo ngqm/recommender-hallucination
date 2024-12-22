@@ -8,7 +8,7 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 from openai import OpenAI
-from openai_api import OPENAI_API_KEY
+# from openai_api import OPENAI_API_KEY
 from collections import defaultdict
 import nltk
 from typing import List, Dict, Union, Tuple
@@ -17,6 +17,9 @@ import warnings
 from transformers import logging
 logging.set_verbosity_error()
 warnings.filterwarnings("ignore")
+
+with open('openai_api', 'r') as f:
+    OPENAI_API_KEY = f.read().strip()
 
 class UserProfiler:
     def __init__(self, df_review: pd.DataFrame, df_meta: pd.DataFrame, api_key: str):
@@ -275,4 +278,4 @@ if __name__ == "__main__":
     profiler = UserProfiler(df_review, df_meta, OPENAI_API_KEY)
 
     test_users = eligible_users
-    analyses = profiler.analyze_users(test_users, summary_dir="user_summaries_pref_b")
+    analyses = profiler.analyze_users(test_users, summary_dir="profiles/beauty/preference")

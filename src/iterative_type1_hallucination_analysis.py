@@ -139,8 +139,8 @@ def analyze_iterative_profiles(base_dir: str, output_dir: str) -> Tuple[pd.DataF
 def main():
     domains = ['beauty', 'movies']
     base_dirs = {
-        'beauty': 'iterative_profiles_b',
-        'movies': 'iterative_profiles_m'
+        'beauty': 'profiles/beauty/iterative',
+        'movies': 'profiles/movies/iterative'
     }
     
     for domain in domains:

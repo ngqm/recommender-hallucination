@@ -246,12 +246,12 @@ def main():
     domains = ['beauty', 'movies']
     profile_types = ['vanilla', 'vanilla_structured', 'preference']
     input_dir_mapping = {
-        ('beauty', 'vanilla'): 'user_summaries_vanilla_b',
-        ('beauty', 'vanilla_structured'): 'user_summaries_vanilla_Struc_b',
-        ('beauty', 'preference'): 'user_summaries_pref_b',
-        ('movies', 'vanilla'): 'user_summaries_vanilla_m',
-        ('movies', 'vanilla_structured'): 'user_summaries_vanilla_Struc_m',
-        ('movies', 'preference'): 'user_summaries_pref_m',
+        ('beauty', 'vanilla'): 'profiles/beauty/vanilla',
+        ('beauty', 'vanilla_structured'): 'profiles/beauty/vanilla_structured',
+        ('beauty', 'preference'): 'profiles/beauty/preference',
+        ('movies', 'vanilla'): 'profiles/movies/vanilla',
+        ('movies', 'vanilla_structured'): 'profiles/movies/vanilla_structured',
+        ('movies', 'preference'): 'profiles/movies/preference',
     }
     
     output_base_dir = 'type_1_eval'
